@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T23:05:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kimi K3-256k",
+            "description": "<p>Article URL: <a href=\"https://www.kimi.com/code/docs/en/kimi-code/models\">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101852\">https://news.ycombinator.com/item?id=49101852</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+            "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+            "published": "Wed, 29 Jul 2026 19:25:33 +0000",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How much can you delegate to agents?",
+            "description": "<p>Article URL: <a href=\"https://newsletter.posthog.com/p/agent-autonomy\">https://newsletter.posthog.com/p/agent-autonomy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101655\">https://news.ycombinator.com/item?id=49101655</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://newsletter.posthog.com/p/agent-autonomy",
+            "published": "Wed, 29 Jul 2026 19:07:13 +0000",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+            "description": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/commodification-and-circularity/\">https://www.emergingtrajectories.com/lh/commodification-and-circularity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49101529\">https://news.ycombinator.com/item?id=49101529</a></p>\n<p>Points: 8</p>\n<p># Comments: 9</p>",
+            "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+            "published": "Wed, 29 Jul 2026 18:57:10 +0000",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England in drought, Environment Agency declares",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham doesn't rule out tax rises to fix social care",
+            "description": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 16:32:53 GMT",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Moment police officers set foot in 'horror scene' funeral home",
+            "description": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
+            "url": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 17:00:41 GMT",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hindus take holy dip in India’s rivers on sacred holiday",
+            "description": "Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 18:49:33 +0000",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bordeaux wildfire battle continues amid extreme heat",
+            "description": "Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 18:42:11 +0000",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
+            "description": "Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 18:34:09 +0000",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T23:05:54+03:30"
+        }
+    ]
+}

@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 21:59:11
+**Last Update:** 2026-07-29 23:05:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. PgDog (YC P25) Is Hiring
+### 1. Kimi K3-256k
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer">https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49100056">https://news.ycombinator.com/item?id=49100056</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://www.kimi.com/code/docs/en/kimi-code/models">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101852">https://news.ycombinator.com/item?id=49101852</a></p>
+<p>Points: 14</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
+🔗 **Read more:** [https://www.kimi.com/code/docs/en/kimi-code/models](https://www.kimi.com/code/docs/en/kimi-code/models)
 
 ---
 
-### 2. Show HN: CheapFoodMap – A map of good meals under $10
+### 2. How much can you delegate to agents?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https://cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49100043">https://news.ycombinator.com/item?id=49100043</a></p>
-<p>Points: 14</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://newsletter.posthog.com/p/agent-autonomy">https://newsletter.posthog.com/p/agent-autonomy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101655">https://news.ycombinator.com/item?id=49101655</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://cheapfoodmap.com/](https://cheapfoodmap.com/)
+🔗 **Read more:** [https://newsletter.posthog.com/p/agent-autonomy](https://newsletter.posthog.com/p/agent-autonomy)
 
 ---
 
-### 3. Some thoughts about Anthropic's new cryptanalysis results
+### 3. Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/">https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49099804">https://news.ycombinator.com/item?id=49099804</a></p>
-<p>Points: 23</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.emergingtrajectories.com/lh/commodification-and-circularity/">https://www.emergingtrajectories.com/lh/commodification-and-circularity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101529">https://news.ycombinator.com/item?id=49101529</a></p>
+<p>Points: 8</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
+🔗 **Read more:** [https://www.emergingtrajectories.com/lh/commodification-and-circularity/](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
 
 ---
 
@@ -98,42 +97,42 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 7. US Fed holds interest rates steady citing ‘elevated’ inflation
+### 7. Hindus take holy dip in India’s rivers on sacred holiday
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said.
+Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss)
 
 ---
 
-### 8. Libya electricity blackout protests expose country’s failing grid
+### 8. Bordeaux wildfire battle continues amid extreme heat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Libyans protest severe power cuts, demanding an end to corruption and grid decay.
+Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss)
 
 ---
 
-### 9. Fire erupts on ships at Egypt’s Damietta port
+### 9. Dr Anthony Fauci pleads the Fifth at Covid hearing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Oil ministry says no injuries in incident affecting two vessels, with port operations expected to resume overnight.
+Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss)
 
 ---
 
