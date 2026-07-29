@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 00:35:27
+**Last Update:** 2026-07-30 00:53:43
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://christianselig.com/2026/07/vision-pro-house/">https://christianselig.com/2026/07/vision-pro-house/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49102774">https://news.ycombinator.com/item?id=49102774</a></p>
-<p>Points: 32</p>
-<p># Comments: 8</p>
+<p>Points: 69</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://christianselig.com/2026/07/vision-pro-house/](https://christianselig.com/2026/07/vision-pro-house/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture">https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49102525">https://news.ycombinator.com/item?id=49102525</a></p>
-<p>Points: 7</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
