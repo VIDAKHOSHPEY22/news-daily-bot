@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T01:55:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI's top startups are barely publishing their research",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research\">https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103285\">https://news.ycombinator.com/item?id=49103285</a></p>\n<p>Points: 52</p>\n<p># Comments: 40</p>",
+            "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+            "published": "Wed, 29 Jul 2026 21:25:40 +0000",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Cold Email",
+            "description": "<p>Article URL: <a href=\"https://zachholman.com/posts/cold-email\">https://zachholman.com/posts/cold-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103089\">https://news.ycombinator.com/item?id=49103089</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://zachholman.com/posts/cold-email",
+            "published": "Wed, 29 Jul 2026 21:06:42 +0000",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer\">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103026\">https://news.ycombinator.com/item?id=49103026</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+            "published": "Wed, 29 Jul 2026 21:01:01 +0000",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England in drought, Environment Agency declares",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Moment police officers set foot in 'horror scene' funeral home",
+            "description": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
+            "url": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 17:00:41 GMT",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+            "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 21:36:06 GMT",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is FIFA selling parts of the World Cup to private investors?",
+            "description": "This week FIFA announced plans to form a new subsidiary company to run part of the World Cup and offer a 20% stake.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 21:46:22 +0000",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Myanmar court sentences activists to 37 years over election protest",
+            "description": "Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 21:29:33 +0000",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+            "description": "FIFA hits Argentina with World Cup charges for scuffle after final with Spain and &#039;Malvinas&#039; banner after England game.",
+            "url": "https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 21:20:42 +0000",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T01:55:39+03:30"
+        }
+    ]
+}

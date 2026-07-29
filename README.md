@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 00:53:43
+**Last Update:** 2026-07-30 01:55:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. SalesPatriot (YC W25) Is Hiring FDEs
+### 1. AI's top startups are barely publishing their research
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research">https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103285">https://news.ycombinator.com/item?id=49103285</a></p>
+<p>Points: 52</p>
+<p># Comments: 40</p>
+
+🔗 **Read more:** [https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+
+---
+
+### 2. The Cold Email
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://zachholman.com/posts/cold-email">https://zachholman.com/posts/cold-email</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103089">https://news.ycombinator.com/item?id=49103089</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://zachholman.com/posts/cold-email](https://zachholman.com/posts/cold-email)
+
+---
+
+### 3. SalesPatriot (YC W25) Is Hiring FDEs
 
 **Source:** Hacker News
 
@@ -23,38 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
-
----
-
-### 2. The coolest use for the Vision Pro
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://christianselig.com/2026/07/vision-pro-house/">https://christianselig.com/2026/07/vision-pro-house/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49102774">https://news.ycombinator.com/item?id=49102774</a></p>
-<p>Points: 69</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://christianselig.com/2026/07/vision-pro-house/](https://christianselig.com/2026/07/vision-pro-house/)
-
----
-
-### 3. Theo Conjecture solves 35-year-old math problem, finds a term no one predicted
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture">https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49102525">https://news.ycombinator.com/item?id=49102525</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
 
 ---
 
@@ -97,42 +97,42 @@ The actor and musician faces allegations from 10 women in total who say he mistr
 
 ---
 
-### 7. Videos show aftermath of US-Saudi strikes on Iraq PMF bases
+### 7. Is FIFA selling parts of the World Cup to private investors?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases
+This week FIFA announced plans to form a new subsidiary company to run part of the World Cup and offer a 20% stake.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss)
 
 ---
 
-### 8. Trump’s attorney general pick faces possible Republican roadblock
+### 8. Myanmar court sentences activists to 37 years over election protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Todd Blanche, Trump&#039;s former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.
+Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss)
 
 ---
 
-### 9. Algeria elects first-ever woman speaker of parliament
+### 9. FIFA charges Argentina after World Cup final brawl with Spain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.
+FIFA hits Argentina with World Cup charges for scuffle after final with Spain and &#039;Malvinas&#039; banner after England game.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss)
 
 ---
 
