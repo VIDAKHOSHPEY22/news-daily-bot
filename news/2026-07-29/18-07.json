@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-07-29T18:07:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England officially in drought, Environment Agency says",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 12:55:03 GMT",
+            "fetched": "2026-07-29T18:07:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham doesn't rule out tax rises to fix social care",
+            "description": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:13:12 GMT",
+            "fetched": "2026-07-29T18:07:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial killer given whole life order for murders of two men as police investigate four more deaths",
+            "description": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
+            "url": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:27:17 GMT",
+            "fetched": "2026-07-29T18:07:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
+            "description": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 14:27:45 +0000",
+            "fetched": "2026-07-29T18:07:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
+            "description": "&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 14:09:09 +0000",
+            "fetched": "2026-07-29T18:07:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How a seaweed bloom is affecting tourism in Mexico",
+            "description": "In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 14:04:42 +0000",
+            "fetched": "2026-07-29T18:07:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T18:07:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T18:07:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T18:07:33+03:30"
+        }
+    ]
+}
