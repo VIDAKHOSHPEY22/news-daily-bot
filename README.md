@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 15:38:37
+**Last Update:** 2026-07-29 15:56:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]
+### 1. Document-borne AI worms can self-propagate through Copilot for Word
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fcc.gov/sites/default/files/robots-nsd.pdf">https://www.fcc.gov/sites/default/files/robots-nsd.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095714">https://news.ycombinator.com/item?id=49095714</a></p>
-<p>Points: 32</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/">https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096188">https://news.ycombinator.com/item?id=49096188</a></p>
+<p>Points: 34</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.fcc.gov/sites/default/files/robots-nsd.pdf](https://www.fcc.gov/sites/default/files/robots-nsd.pdf)
+🔗 **Read more:** [https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 
 ---
 
-### 2. SpecForge – A Platform for Authoring Formal Specifications
+### 2. They Stole Your Attention
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://docs.imiron.io/v/0.5.10/en/tour.html">https://docs.imiron.io/v/0.5.10/en/tour.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095628">https://news.ycombinator.com/item?id=49095628</a></p>
-<p>Points: 23</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://moai.studio/blog/posts/they-stole-your-attention.html">https://moai.studio/blog/posts/they-stole-your-attention.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49096043">https://news.ycombinator.com/item?id=49096043</a></p>
+<p>Points: 17</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://docs.imiron.io/v/0.5.10/en/tour.html](https://docs.imiron.io/v/0.5.10/en/tour.html)
+🔗 **Read more:** [https://moai.studio/blog/posts/they-stole-your-attention.html](https://moai.studio/blog/posts/they-stole-your-attention.html)
 
 ---
 
-### 3. Amiga Graphics Archive
+### 3. KOReader
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://amiga.lychesis.net/index.html">https://amiga.lychesis.net/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095511">https://news.ycombinator.com/item?id=49095511</a></p>
-<p>Points: 27</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://koreader.rocks/">https://koreader.rocks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49095865">https://news.ycombinator.com/item?id=49095865</a></p>
+<p>Points: 67</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://amiga.lychesis.net/index.html](https://amiga.lychesis.net/index.html)
+🔗 **Read more:** [https://koreader.rocks/](https://koreader.rocks/)
 
 ---
 
@@ -117,7 +117,7 @@ Americas governing body &#039;deeply concerned&#039; by lack of due process in F
 **Category:** world
 
 **Description:**
-The US says it intercepts an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.
+The US says it intercepted an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss)
 

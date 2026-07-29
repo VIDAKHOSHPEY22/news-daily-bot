@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T15:56:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+            "description": "<p>Article URL: <a href=\"https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/\">https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096188\">https://news.ycombinator.com/item?id=49096188</a></p>\n<p>Points: 34</p>\n<p># Comments: 15</p>",
+            "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+            "published": "Wed, 29 Jul 2026 11:44:33 +0000",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "They Stole Your Attention",
+            "description": "<p>Article URL: <a href=\"https://moai.studio/blog/posts/they-stole-your-attention.html\">https://moai.studio/blog/posts/they-stole-your-attention.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49096043\">https://news.ycombinator.com/item?id=49096043</a></p>\n<p>Points: 17</p>\n<p># Comments: 14</p>",
+            "url": "https://moai.studio/blog/posts/they-stole-your-attention.html",
+            "published": "Wed, 29 Jul 2026 11:28:22 +0000",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "KOReader",
+            "description": "<p>Article URL: <a href=\"https://koreader.rocks/\">https://koreader.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49095865\">https://news.ycombinator.com/item?id=49095865</a></p>\n<p>Points: 67</p>\n<p># Comments: 18</p>",
+            "url": "https://koreader.rocks/",
+            "published": "Wed, 29 Jul 2026 11:05:08 +0000",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England officially in drought, Environment Agency says",
+            "description": "Scorching temperatures and very low levels of rain have seen droughts declared across much of England.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 12:10:48 GMT",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+            "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 05:00:07 GMT",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boy, 7, dies after beach tragedy that killed mum and daughter",
+            "description": "Musa Ahmed is the third person to die after getting into difficulty in the water last Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 12:20:54 GMT",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "American, Asian confederations blindsided by FIFA’s World Cup plan",
+            "description": "Americas governing body &#039;deeply concerned&#039; by lack of due process in FIFA private investment plan, AFC &#039;disappointed&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/7/29/american-asian-confederations-blindsided-by-fifas-world-cup-plan?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 11:41:58 +0000",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+            "description": "The US says it intercepted an Iranian &#039;surprise attack&#039; on US forces as fears rise of wider war.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 11:34:58 +0000",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+            "description": "How the proposed FIFA Forward Enterprise has drawn criticism, including from UEFA and new United Kingdom Prime Minister.",
+            "url": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 11:19:58 +0000",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T15:56:12+03:30"
+        }
+    ]
+}
