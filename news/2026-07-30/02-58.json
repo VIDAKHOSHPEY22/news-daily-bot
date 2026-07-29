@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T02:58:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+            "description": "<p>Article URL: <a href=\"https://archive.org/details/mancomputerbyjoh0000john\">https://archive.org/details/mancomputerbyjoh0000john</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104140\">https://news.ycombinator.com/item?id=49104140</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://archive.org/details/mancomputerbyjoh0000john",
+            "published": "Wed, 29 Jul 2026 22:53:44 +0000",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LLM Honeypot",
+            "description": "<p>Article URL: <a href=\"https://llm2human.pages.dev/\">https://llm2human.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104117\">https://news.ycombinator.com/item?id=49104117</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://llm2human.pages.dev/",
+            "published": "Wed, 29 Jul 2026 22:51:03 +0000",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitHub is the wrong shape for this new world",
+            "description": "<p>Article URL: <a href=\"https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world\">https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103910\">https://news.ycombinator.com/item?id=49103910</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+            "published": "Wed, 29 Jul 2026 22:27:09 +0000",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England in drought, Environment Agency declares",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Moment police officers set foot in 'horror scene' funeral home",
+            "description": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
+            "url": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 17:00:41 GMT",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+            "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 21:36:06 GMT",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq calls Saudi-US attacks ‘flagrant violation of sovereignty’",
+            "description": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 23:10:15 +0000",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+            "description": "US President Donald Trump says he is considering &#039;AI controls&#039; following OpenAI&#039;s disclosure.",
+            "url": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 22:27:35 +0000",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is FIFA selling parts of the World Cup to private investors?",
+            "description": "This week FIFA announced plans to form a new subsidiary company to run part of the World Cup and offer a 20% stake.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/is-fifa-selling-parts-of-the-world-cup-to-private-investors?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 21:46:22 +0000",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T02:58:01+03:30"
+        }
+    ]
+}
