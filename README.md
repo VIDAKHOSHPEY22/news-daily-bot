@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 18:07:33
+**Last Update:** 2026-07-29 18:43:44
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. More than half of England officially in drought, Environment Agency says
+### 1. Choose DuckDB rather than SQLite
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tracewayapp.com/blog/sqlite-vs-duckdb">https://tracewayapp.com/blog/sqlite-vs-duckdb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49097730">https://news.ycombinator.com/item?id=49097730</a></p>
+<p>Points: 54</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://tracewayapp.com/blog/sqlite-vs-duckdb](https://tracewayapp.com/blog/sqlite-vs-duckdb)
+
+---
+
+### 2. Show HN: A verification browser for AI agents – 13ms windows, one-call checks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/hongnoul/hwatu">https://github.com/hongnoul/hwatu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49097727">https://news.ycombinator.com/item?id=49097727</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/hongnoul/hwatu](https://github.com/hongnoul/hwatu)
+
+---
+
+### 3. Valve Sponsors Work Bringing Open-Source RADV Driver to Windows
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows">https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49097591">https://news.ycombinator.com/item?id=49097591</a></p>
+<p>Points: 23</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows](https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows)
+
+---
+
+### 4. More than half of England in drought, Environment Agency says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The drought declarations follow an exceptionally hot and dry period, which has h
 
 ---
 
-### 2. Burnham doesn't rule out tax rises to fix social care
+### 5. Burnham doesn't rule out tax rises to fix social care
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The prime minister holds cross-party talks as he speeds up review of social care
 
 ---
 
-### 3. Serial killer given whole life order for murders of two men as police investigate four more deaths
+### 6. Serial killer given whole life orders for murders of two men as police investigate four more deaths
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ Police are reviewing four unexplained deaths at a homeless shelter where James D
 
 ---
 
-### 4. US and Israeli leaders expected ‘swift outcome’ in Iran
+### 7. Why Saudi Arabia holds the key to Palestinian statehood
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss)
+
+---
+
+### 8. Indian student in Russia says he’s been wrongly charged over Bihar protests
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss)
+
+---
+
+### 9. US and Israeli leaders expected ‘swift outcome’ in Iran
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ New details are emerging of how US and Israeli officials believed the war on Ira
 
 ---
 
-### 5. ‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss)
-
----
-
-### 6. How a seaweed bloom is affecting tourism in Mexico
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss)
-
----
-
-### 7. Wildfire Fairpoint, Meade, South Dakota
+### 10. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Typhoon Dolphin
+### 11. Typhoon Dolphin
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Twin Butte Ck, Corson, South Dakota
+### 12. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 

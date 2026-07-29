@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T18:43:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Choose DuckDB rather than SQLite",
+            "description": "<p>Article URL: <a href=\"https://tracewayapp.com/blog/sqlite-vs-duckdb\">https://tracewayapp.com/blog/sqlite-vs-duckdb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097730\">https://news.ycombinator.com/item?id=49097730</a></p>\n<p>Points: 54</p>\n<p># Comments: 29</p>",
+            "url": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
+            "published": "Wed, 29 Jul 2026 14:05:40 +0000",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A verification browser for AI agents – 13ms windows, one-call checks",
+            "description": "<p>Article URL: <a href=\"https://github.com/hongnoul/hwatu\">https://github.com/hongnoul/hwatu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097727\">https://news.ycombinator.com/item?id=49097727</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/hongnoul/hwatu",
+            "published": "Wed, 29 Jul 2026 14:05:30 +0000",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Valve Sponsors Work Bringing Open-Source RADV Driver to Windows",
+            "description": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows\">https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49097591\">https://news.ycombinator.com/item?id=49097591</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+            "url": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
+            "published": "Wed, 29 Jul 2026 13:55:00 +0000",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England in drought, Environment Agency says",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham doesn't rule out tax rises to fix social care",
+            "description": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:13:12 GMT",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
+            "description": "Police are reviewing four unexplained deaths at a homeless shelter where James Desborough stayed.",
+            "url": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:56:48 GMT",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Saudi Arabia holds the key to Palestinian statehood",
+            "description": "Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.",
+            "url": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 14:39:57 +0000",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indian student in Russia says he’s been wrongly charged over Bihar protests",
+            "description": "An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 14:33:24 +0000",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
+            "description": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 14:27:45 +0000",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T18:43:44+03:30"
+        }
+    ]
+}
