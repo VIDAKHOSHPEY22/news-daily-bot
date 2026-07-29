@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 23:05:54
+**Last Update:** 2026-07-29 23:22:05
 
 **Total News:** 12
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.kimi.com/code/docs/en/kimi-code/models">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101852">https://news.ycombinator.com/item?id=49101852</a></p>
-<p>Points: 14</p>
+<p>Points: 21</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.kimi.com/code/docs/en/kimi-code/models](https://www.kimi.com/code/docs/en/kimi-code/models)
@@ -97,7 +97,20 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 7. Hindus take holy dip in India’s rivers on sacred holiday
+### 7. Al-Shabab kills five Kenyan security personnel in ambush
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The ambush is part of a rapid surge in cross-border attacks along Kenya&#039;s northern frontier.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss)
+
+---
+
+### 8. Hindus take holy dip in India’s rivers on sacred holiday
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and
 
 ---
 
-### 8. Bordeaux wildfire battle continues amid extreme heat
+### 9. Bordeaux wildfire battle continues amid extreme heat
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and
 Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss)
-
----
-
-### 9. Dr Anthony Fauci pleads the Fifth at Covid hearing
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss)
 
 ---
 
