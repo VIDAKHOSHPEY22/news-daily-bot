@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T00:35:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer\">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49103026\">https://news.ycombinator.com/item?id=49103026</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+            "published": "Wed, 29 Jul 2026 21:01:01 +0000",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The coolest use for the Vision Pro",
+            "description": "<p>Article URL: <a href=\"https://christianselig.com/2026/07/vision-pro-house/\">https://christianselig.com/2026/07/vision-pro-house/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49102774\">https://news.ycombinator.com/item?id=49102774</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
+            "url": "https://christianselig.com/2026/07/vision-pro-house/",
+            "published": "Wed, 29 Jul 2026 20:39:40 +0000",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Theo Conjecture solves 35-year-old math problem, finds a term no one predicted",
+            "description": "<p>Article URL: <a href=\"https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture\">https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49102525\">https://news.ycombinator.com/item?id=49102525</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
+            "published": "Wed, 29 Jul 2026 20:21:48 +0000",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England in drought, Environment Agency declares",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Moment police officers set foot in 'horror scene' funeral home",
+            "description": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
+            "url": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 17:00:41 GMT",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+            "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 17:04:42 GMT",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
+            "description": "US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 20:31:10 +0000",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump’s attorney general pick faces possible Republican roadblock",
+            "description": "Todd Blanche, Trump&#039;s former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 20:11:54 +0000",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Algeria elects first-ever woman speaker of parliament",
+            "description": "Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 20:09:26 +0000",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T00:35:27+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 23:22:05
+**Last Update:** 2026-07-30 00:35:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kimi K3-256k
+### 1. SalesPatriot (YC W25) Is Hiring FDEs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.kimi.com/code/docs/en/kimi-code/models">https://www.kimi.com/code/docs/en/kimi-code/models</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101852">https://news.ycombinator.com/item?id=49101852</a></p>
-<p>Points: 21</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49103026">https://news.ycombinator.com/item?id=49103026</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.kimi.com/code/docs/en/kimi-code/models](https://www.kimi.com/code/docs/en/kimi-code/models)
+🔗 **Read more:** [https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
 
 ---
 
-### 2. How much can you delegate to agents?
+### 2. The coolest use for the Vision Pro
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newsletter.posthog.com/p/agent-autonomy">https://newsletter.posthog.com/p/agent-autonomy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101655">https://news.ycombinator.com/item?id=49101655</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://christianselig.com/2026/07/vision-pro-house/">https://christianselig.com/2026/07/vision-pro-house/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49102774">https://news.ycombinator.com/item?id=49102774</a></p>
+<p>Points: 32</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://newsletter.posthog.com/p/agent-autonomy](https://newsletter.posthog.com/p/agent-autonomy)
+🔗 **Read more:** [https://christianselig.com/2026/07/vision-pro-house/](https://christianselig.com/2026/07/vision-pro-house/)
 
 ---
 
-### 3. Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals
+### 3. Theo Conjecture solves 35-year-old math problem, finds a term no one predicted
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.emergingtrajectories.com/lh/commodification-and-circularity/">https://www.emergingtrajectories.com/lh/commodification-and-circularity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49101529">https://news.ycombinator.com/item?id=49101529</a></p>
-<p>Points: 8</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture">https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49102525">https://news.ycombinator.com/item?id=49102525</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.emergingtrajectories.com/lh/commodification-and-circularity/](https://www.emergingtrajectories.com/lh/commodification-and-circularity/)
+🔗 **Read more:** [https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture](https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture)
 
 ---
 
@@ -71,20 +71,7 @@ The drought declarations follow an exceptionally hot and dry period, which has h
 
 ---
 
-### 5. Burnham doesn't rule out tax rises to fix social care
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister holds cross-party talks as he speeds up review of social care in England.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Moment police officers set foot in 'horror scene' funeral home
+### 5. Moment police officers set foot in 'horror scene' funeral home
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 7. Al-Shabab kills five Kenyan security personnel in ambush
+### 6. Four women accuse Jared Leto of criminal sexual conduct when they were teenagers
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The ambush is part of a rapid surge in cross-border attacks along Kenya&#039;s northern frontier.
+The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Hindus take holy dip in India’s rivers on sacred holiday
+### 7. Videos show aftermath of US-Saudi strikes on Iraq PMF bases
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.
+US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss)
 
 ---
 
-### 9. Bordeaux wildfire battle continues amid extreme heat
+### 8. Trump’s attorney general pick faces possible Republican roadblock
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux
+Todd Blanche, Trump&#039;s former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss)
+
+---
+
+### 9. Algeria elects first-ever woman speaker of parliament
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss)
 
 ---
 
