@@ -1,16 +1,65 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-29 20:52:54
+**Last Update:** 2026-07-29 21:59:11
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. More than half of England in drought, Environment Agency declares
+### 1. PgDog (YC P25) Is Hiring
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer">https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49100056">https://news.ycombinator.com/item?id=49100056</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer)
+
+---
+
+### 2. Show HN: CheapFoodMap – A map of good meals under $10
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https://cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49100043">https://news.ycombinator.com/item?id=49100043</a></p>
+<p>Points: 14</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://cheapfoodmap.com/](https://cheapfoodmap.com/)
+
+---
+
+### 3. Some thoughts about Anthropic's new cryptanalysis results
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/">https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49099804">https://news.ycombinator.com/item?id=49099804</a></p>
+<p>Points: 23</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
+
+---
+
+### 4. More than half of England in drought, Environment Agency declares
 
 **Source:** BBC
 
@@ -23,7 +72,7 @@ The drought declarations follow an exceptionally hot and dry period, which has h
 
 ---
 
-### 2. Burnham doesn't rule out tax rises to fix social care
+### 5. Burnham doesn't rule out tax rises to fix social care
 
 **Source:** BBC
 
@@ -36,7 +85,7 @@ The prime minister holds cross-party talks as he speeds up review of social care
 
 ---
 
-### 3. Moment police officers set foot in 'horror scene' funeral home
+### 6. Moment police officers set foot in 'horror scene' funeral home
 
 **Source:** BBC
 
@@ -49,46 +98,46 @@ Police discovered messy side rooms strewn with rubbish at the Legacy funeral hom
 
 ---
 
-### 4. Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work
+### 7. US Fed holds interest rates steady citing ‘elevated’ inflation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Construction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.
+Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss)
 
 ---
 
-### 5. Is the world at risk of another energy shock?
+### 8. Libya electricity blackout protests expose country’s failing grid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.
+Libyans protest severe power cuts, demanding an end to corruption and grid decay.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss)
 
 ---
 
-### 6. Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors
+### 9. Fire erupts on ships at Egypt’s Damietta port
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sepp Blatter, FIFA chief for 17 years until 2015, has blasted new proposal that moves &#039;people&#039;s game&#039; further from fans.
+Oil ministry says no injuries in incident affecting two vessels, with port operations expected to resume overnight.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss](https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Fairpoint, Meade, South Dakota
+### 10. Wildfire Fairpoint, Meade, South Dakota
 
 **Source:** NASA
 
@@ -101,7 +150,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Typhoon Dolphin
+### 11. Super Typhoon Dolphin
 
 **Source:** NASA
 
@@ -114,7 +163,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Twin Butte Ck, Corson, South Dakota
+### 12. Wildfire Twin Butte Ck, Corson, South Dakota
 
 **Source:** NASA
 

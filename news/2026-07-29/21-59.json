@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-29T21:59:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PgDog (YC P25) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer\">https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49100056\">https://news.ycombinator.com/item?id=49100056</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+            "published": "Wed, 29 Jul 2026 17:01:10 +0000",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+            "description": "<p>I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.<p>It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats.<p>Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item.<p>Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent.<p>https://cheapfoodmap.com<p>Any and all suggestion will be super helpful. Thank you!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49100043\">https://news.ycombinator.com/item?id=49100043</a></p>\n<p>Points: 14</p>\n<p># Comments: 13</p>",
+            "url": "https://cheapfoodmap.com/",
+            "published": "Wed, 29 Jul 2026 16:59:52 +0000",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Some thoughts about Anthropic's new cryptanalysis results",
+            "description": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/\">https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49099804\">https://news.ycombinator.com/item?id=49099804</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
+            "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+            "published": "Wed, 29 Jul 2026 16:42:20 +0000",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England in drought, Environment Agency declares",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham doesn't rule out tax rises to fix social care",
+            "description": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 16:32:53 GMT",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Moment police officers set foot in 'horror scene' funeral home",
+            "description": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
+            "url": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 17:00:41 GMT",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
+            "description": "Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said.",
+            "url": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 18:07:55 +0000",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Libya electricity blackout protests expose country’s failing grid",
+            "description": "Libyans protest severe power cuts, demanding an end to corruption and grid decay.",
+            "url": "https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 18:07:19 +0000",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fire erupts on ships at Egypt’s Damietta port",
+            "description": "Oil ministry says no injuries in incident affecting two vessels, with port operations expected to resume overnight.",
+            "url": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
+            "published": "Wed, 29 Jul 2026 18:01:57 +0000",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-29T21:59:11+03:30"
+        }
+    ]
+}
