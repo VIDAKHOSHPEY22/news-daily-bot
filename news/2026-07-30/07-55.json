@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T07:55:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NSF pilots 4-year PhDs with industry research placements",
+            "description": "<p>Article URL: <a href=\"https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four\">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105642\">https://news.ycombinator.com/item?id=49105642</a></p>\n<p>Points: 46</p>\n<p># Comments: 33</p>",
+            "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+            "published": "Thu, 30 Jul 2026 02:55:21 +0000",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+            "description": "<p>Article URL: <a href=\"https://noelo.org/blog/kuna-release/\">https://noelo.org/blog/kuna-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105563\">https://news.ycombinator.com/item?id=49105563</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://noelo.org/blog/kuna-release/",
+            "published": "Thu, 30 Jul 2026 02:41:16 +0000",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+            "description": "<p>Article URL: <a href=\"https://waveformsecurity.com/blog/flume/\">https://waveformsecurity.com/blog/flume/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105136\">https://news.ycombinator.com/item?id=49105136</a></p>\n<p>Points: 23</p>\n<p># Comments: 13</p>",
+            "url": "https://waveformsecurity.com/blog/flume/",
+            "published": "Thu, 30 Jul 2026 01:27:12 +0000",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+            "description": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 03:33:01 GMT",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+            "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+            "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 18:41:31 GMT",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+            "description": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
+            "url": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 02:36:53 GMT",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake",
+            "description": "Japanese PM Takaichi says &#039;race against time&#039; to rescue those trapped in the mall and others affected by the quake.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 04:00:30 +0000",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US launches another round of attacks on Iran",
+            "description": "Targets across southern Iran hit, including on strategic Qeshm Island.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 03:56:07 +0000",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strikes leave buildings burning in Gaza City",
+            "description": "Israeli strikes have displaced dozens of families in Gaza City&#039;s Shati refugee camp.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 03:49:25 +0000",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T07:55:08+03:30"
+        }
+    ]
+}

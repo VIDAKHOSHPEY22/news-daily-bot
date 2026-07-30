@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 06:44:14
+**Last Update:** 2026-07-30 07:55:08
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,54 +19,53 @@
 **Description:**
 <p>Article URL: <a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105642">https://news.ycombinator.com/item?id=49105642</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 46</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
 
 ---
 
-### 2. Logic for Programmers by Hillel Wayne
+### 2. Kuna: Decompiler Development in the Age of Coding Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://logicforprogrammers.com/">https://logicforprogrammers.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104937">https://news.ycombinator.com/item?id=49104937</a></p>
+<p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
 <p>Points: 9</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://logicforprogrammers.com/](https://logicforprogrammers.com/)
+🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
 
 ---
 
-### 3. Show HN: A local merge queue for parallel Claude Code agents
+### 3. Flume Water Monitor 915 MHz Security Is Pretty Good
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.<p>So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104747">https://news.ycombinator.com/item?id=49104747</a></p>
-<p>Points: 17</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://waveformsecurity.com/blog/flume/">https://waveformsecurity.com/blog/flume/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105136">https://news.ycombinator.com/item?id=49105136</a></p>
+<p>Points: 23</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://github.com/funador/claude-code-merge-queue](https://github.com/funador/claude-code-merge-queue)
+🔗 **Read more:** [https://waveformsecurity.com/blog/flume/](https://waveformsecurity.com/blog/flume/)
 
 ---
 
-### 4. US launches 'powerful' strikes on Iran after attempted attack on American troops
+### 4. US launches 'heavy' strikes on Iran after attempted attack on American troops
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US military called the strikes "a powerful response" to Tuesday's firing by Iran on US bases in Jordan.
+The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss)
 
@@ -98,42 +97,42 @@ Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the econo
 
 ---
 
-### 7. Living with fear: Inside a southern Lebanon village divided by Israel
+### 7. ‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Southern Lebanon’s Mansouri village is divided by Israel&#039;s Yellow Line, a military boundary separating area it occupies.
+Japanese PM Takaichi says &#039;race against time&#039; to rescue those trapped in the mall and others affected by the quake.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/living-with-fear-inside-a-southern-lebanon-village-divided-by-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/living-with-fear-inside-a-southern-lebanon-village-divided-by-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss)
 
 ---
 
-### 8. After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing
+### 8. US launches another round of attacks on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After losing her husband and two children, Safiya now fears losing the fragile future she rebuilt.
+Targets across southern Iran hit, including on strategic Qeshm Island.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/after-a-deadly-raid-a-displaced-nigerian-mother-finds-a-lifeline-in-sewing?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/after-a-deadly-raid-a-displaced-nigerian-mother-finds-a-lifeline-in-sewing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss)
 
 ---
 
-### 9. Japan turns to Canadian crude as Asia feels Hormuz supply pinch
+### 9. Israeli strikes leave buildings burning in Gaza City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada&#039;s TMX crude oil.
+Israeli strikes have displaced dozens of families in Gaza City&#039;s Shati refugee camp.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss)
 
 ---
 
