@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 13:26:02
+**Last Update:** 2026-07-30 15:27:16
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why the future is local app
+### 1. Gpiozero Flow
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://getapps.cafe/blog/why-the-future-is-local-app">https://getapps.cafe/blog/why-the-future-is-local-app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105924">https://news.ycombinator.com/item?id=49105924</a></p>
-<p>Points: 25</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://getapps.cafe/blog/why-the-future-is-local-app](https://getapps.cafe/blog/why-the-future-is-local-app)
-
----
-
-### 2. Kuna: Decompiler Development in the Age of Coding Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
-<p>Points: 34</p>
+<p>Article URL: <a href="https://bennuttall.com/blog/2026/07/gpiozero-flow/">https://bennuttall.com/blog/2026/07/gpiozero-flow/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108048">https://news.ycombinator.com/item?id=49108048</a></p>
+<p>Points: 44</p>
 <p># Comments: 10</p>
 
-🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
+🔗 **Read more:** [https://bennuttall.com/blog/2026/07/gpiozero-flow/](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
 
 ---
 
-### 3. Logic for Programmers
+### 2. Google will expand age checks on Android worldwide till the end of the year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://logicforprogrammers.com/">https://logicforprogrammers.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104937">https://news.ycombinator.com/item?id=49104937</a></p>
-<p>Points: 122</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html">https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49107950">https://news.ycombinator.com/item?id=49107950</a></p>
+<p>Points: 98</p>
+<p># Comments: 114</p>
 
-🔗 **Read more:** [https://logicforprogrammers.com/](https://logicforprogrammers.com/)
+🔗 **Read more:** [https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
+
+---
+
+### 3. Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/YoanWai/agent-manager">https://github.com/YoanWai/agent-manager</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49107749">https://news.ycombinator.com/item?id=49107749</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/YoanWai/agent-manager](https://github.com/YoanWai/agent-manager)
 
 ---
 
@@ -71,68 +71,68 @@ After a short period of relative calm when hostilities were paused, both sides h
 
 ---
 
-### 5. How the UK's extreme heat is shifting the conversation about air-con
+### 5. Joe Root returns as England Test cricket captain with Stephen Fleming named head coach
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Should we embrace air conditioning despite its costs and consequences?
+Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Thousands evacuated in Crete as European wildfires continue to rage
+### 6. Israel building new land barriers in Gaza and displacing families
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.
+Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. From Toronto to Damascus: Syrians return home aiming to rebuild country
+### 7. How does a safe zone in Lebanon become a target three times?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families like the Tasabehjis aim to rebuild Syria, fostering community and hope despite economic and social challenges.
+Three times in three decades, Qana&#039;s shelters were bombed. AJLabs tracks a village the Israeli military keeps hitting.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss)
 
 ---
 
-### 8. Apartheid wealth cannot buy silence on Gaza
+### 8. Israeli strikes kill at least four, including children, across Gaza Strip
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South African universities must resist donors who use financial power to impose political obedience.
+Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss)
 
 ---
 
-### 9. Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges
+### 9. AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.
+Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport&#039;s continental structure.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss)
 
 ---
 

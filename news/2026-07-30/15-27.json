@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T15:27:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gpiozero Flow",
+            "description": "<p>Article URL: <a href=\"https://bennuttall.com/blog/2026/07/gpiozero-flow/\">https://bennuttall.com/blog/2026/07/gpiozero-flow/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108048\">https://news.ycombinator.com/item?id=49108048</a></p>\n<p>Points: 44</p>\n<p># Comments: 10</p>",
+            "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+            "published": "Thu, 30 Jul 2026 10:32:41 +0000",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google will expand age checks on Android worldwide till the end of the year",
+            "description": "<p>Article URL: <a href=\"https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html\">https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49107950\">https://news.ycombinator.com/item?id=49107950</a></p>\n<p>Points: 98</p>\n<p># Comments: 114</p>",
+            "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+            "published": "Thu, 30 Jul 2026 10:13:46 +0000",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+            "description": "<p>Article URL: <a href=\"https://github.com/YoanWai/agent-manager\">https://github.com/YoanWai/agent-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49107749\">https://news.ycombinator.com/item?id=49107749</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/YoanWai/agent-manager",
+            "published": "Thu, 30 Jul 2026 09:34:27 +0000",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+            "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 10:49:14 GMT",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Joe Root returns as England Test cricket captain with Stephen Fleming named head coach",
+            "description": "Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.",
+            "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 11:13:50 GMT",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel building new land barriers in Gaza and displacing families",
+            "description": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
+            "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 05:05:24 GMT",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How does a safe zone in Lebanon become a target three times?",
+            "description": "Three times in three decades, Qana&#039;s shelters were bombed. AJLabs tracks a village the Israeli military keeps hitting.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 11:34:57 +0000",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
+            "description": "Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 11:32:30 +0000",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’",
+            "description": "Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport&#039;s continental structure.",
+            "url": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 10:35:52 +0000",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T15:27:16+03:30"
+        }
+    ]
+}
