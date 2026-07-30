@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T13:05:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why the future is local app",
+            "description": "<p>Article URL: <a href=\"https://getapps.cafe/blog/why-the-future-is-local-app\">https://getapps.cafe/blog/why-the-future-is-local-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105924\">https://news.ycombinator.com/item?id=49105924</a></p>\n<p>Points: 23</p>\n<p># Comments: 18</p>",
+            "url": "https://getapps.cafe/blog/why-the-future-is-local-app",
+            "published": "Thu, 30 Jul 2026 03:44:38 +0000",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+            "description": "<p>Article URL: <a href=\"https://noelo.org/blog/kuna-release/\">https://noelo.org/blog/kuna-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49105563\">https://news.ycombinator.com/item?id=49105563</a></p>\n<p>Points: 34</p>\n<p># Comments: 8</p>",
+            "url": "https://noelo.org/blog/kuna-release/",
+            "published": "Thu, 30 Jul 2026 02:41:16 +0000",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Logic for Programmers",
+            "description": "<p>Article URL: <a href=\"https://logicforprogrammers.com/\">https://logicforprogrammers.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104937\">https://news.ycombinator.com/item?id=49104937</a></p>\n<p>Points: 119</p>\n<p># Comments: 22</p>",
+            "url": "https://logicforprogrammers.com/",
+            "published": "Thu, 30 Jul 2026 00:51:39 +0000",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+            "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 08:42:17 GMT",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cooler conditions on the way for parts of UK - but still no rain for drought-hit areas",
+            "description": "After another day of record-breaking temperatures for some parts of England, a cold front is moving in.",
+            "url": "https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 01:40:07 GMT",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the UK's extreme heat is shifting the conversation about air-con",
+            "description": "Should we embrace air conditioning despite its costs and consequences?",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 23:33:01 GMT",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Africa’s le Clos breaks Commonwealth Games medal record",
+            "description": "South Africa took bronze in the men’s 4x100 medley relay for Chad le Clos&#039;s record 21st Commonwealth Games medal.",
+            "url": "https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 09:12:51 +0000",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
+            "description": "Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least 14 people.",
+            "url": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 09:10:07 +0000",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protest group says 30 dead in Pakistan-administered Kashmir vote unrest",
+            "description": "Deadly clashes reported in Pakistan-administered Kashmir amid first round of voting for regional elections on July 27.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/protest-group-says-30-dead-in-pakistan-administered-kashmir-vote?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 08:47:36 +0000",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T13:05:12+03:30"
+        }
+    ]
+}

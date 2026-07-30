@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 10:36:49
+**Last Update:** 2026-07-30 13:05:12
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. EU now fears US interference in European elections
+### 1. Why the future is local app
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/">https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49106643">https://news.ycombinator.com/item?id=49106643</a></p>
-<p>Points: 21</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://getapps.cafe/blog/why-the-future-is-local-app">https://getapps.cafe/blog/why-the-future-is-local-app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105924">https://news.ycombinator.com/item?id=49105924</a></p>
+<p>Points: 23</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/](https://www.eunews.it/en/2026/07/29/eu-now-fears-us-interference-in-european-elections/)
+🔗 **Read more:** [https://getapps.cafe/blog/why-the-future-is-local-app](https://getapps.cafe/blog/why-the-future-is-local-app)
 
 ---
 
-### 2. 1,741 "informed" consents with one click? GDPR complaint filed
+### 2. Kuna: Decompiler Development in the Age of Coding Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed">https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49106384">https://news.ycombinator.com/item?id=49106384</a></p>
-<p>Points: 92</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
+<p>Points: 34</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
+🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
 
 ---
 
-### 3. NSF pilots 4-year PhDs with industry research placements
+### 3. Logic for Programmers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105642">https://news.ycombinator.com/item?id=49105642</a></p>
-<p>Points: 66</p>
-<p># Comments: 70</p>
+<p>Article URL: <a href="https://logicforprogrammers.com/">https://logicforprogrammers.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104937">https://news.ycombinator.com/item?id=49104937</a></p>
+<p>Points: 119</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+🔗 **Read more:** [https://logicforprogrammers.com/](https://logicforprogrammers.com/)
 
 ---
 
@@ -91,48 +91,87 @@ After another day of record-breaking temperatures for some parts of England, a c
 **Category:** world
 
 **Description:**
-Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?
+Should we embrace air conditioning despite its costs and consequences?
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Messi returns to MLS training 10 days after World Cup final heartbreak
+### 7. South Africa’s le Clos breaks Commonwealth Games medal record
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lionel Messi returns to Inter Miami after Argentina&#039;s World Cup final defeat by Spain, which led to retirement rumours.
+South Africa took bronze in the men’s 4x100 medley relay for Chad le Clos&#039;s record 21st Commonwealth Games medal.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/messi-returns-to-mls-training-10-days-after-world-cup-final-heartbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss)
 
 ---
 
-### 8. Storm apologize after co-owner berates teen girls for support of Cunningham
+### 8. Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-WNBA basketball team Seattle Storm apologize after co-owner berates girls with &#039;thank you&#039; sign for Sophie Cunningham.
+Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least 14 people.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/storm-apologize-after-co-owner-berates-teen-girls-for-support-of-cunningham?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/storm-apologize-after-co-owner-berates-teen-girls-for-support-of-cunningham?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss](https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss)
 
 ---
 
-### 9. Viral finger-clicker suspended as cricket storm remains in global spotlight
+### 9. Protest group says 30 dead in Pakistan-administered Kashmir vote unrest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saltburn&#039;s amateur cricketer at centre of cheating allegations that grabbed global headlines is suspended by club.
+Deadly clashes reported in Pakistan-administered Kashmir amid first round of voting for regional elections on July 27.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/viral-finger-clicker-suspended-as-cricket-storm-remains-in-global-spotlight?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/viral-finger-clicker-suspended-as-cricket-storm-remains-in-global-spotlight?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/protest-group-says-30-dead-in-pakistan-administered-kashmir-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/protest-group-says-30-dead-in-pakistan-administered-kashmir-vote?traffic_source=rss)
+
+---
+
+### 10. Wildfire Fairpoint, Meade, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829)
+
+---
+
+### 11. Super Typhoon Dolphin
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776)
+
+---
+
+### 12. Wildfire Twin Butte Ck, Corson, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835)
 
 ---
 
