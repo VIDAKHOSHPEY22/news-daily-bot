@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T21:53:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+            "description": "<p>Article URL: <a href=\"https://www.bottlenecklabs.com/blog/autonomously-run-businesses\">https://www.bottlenecklabs.com/blog/autonomously-run-businesses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113059\">https://news.ycombinator.com/item?id=49113059</a></p>\n<p>Points: 61</p>\n<p># Comments: 33</p>",
+            "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+            "published": "Thu, 30 Jul 2026 17:31:07 +0000",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Advancing the price-performance frontier with GPT‑5.6",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112867\">https://news.ycombinator.com/item?id=49112867</a></p>\n<p>Points: 186</p>\n<p># Comments: 100</p>",
+            "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+            "published": "Thu, 30 Jul 2026 17:15:51 +0000",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Read This Before You Buy That TV Streaming Stick",
+            "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/\">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112744\">https://news.ycombinator.com/item?id=49112744</a></p>\n<p>Points: 115</p>\n<p># Comments: 41</p>",
+            "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+            "published": "Thu, 30 Jul 2026 17:04:53 +0000",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+            "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:47:40 GMT",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+            "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:04:53 GMT",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+            "description": "Wales is on course for its driest July on record in almost 190 years.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 14:15:09 GMT",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Europe’s heating climate sparks ‘major intensification’ of fires: Report",
+            "description": "Climate change has helped southern Europe&#039;s likelihood of wildfires double since 1981, say researchers.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 17:58:14 +0000",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rights report reconstructs fatal shooting of Palestinian man",
+            "description": "Rights report reconstructs fatal shooting of Palestinian man",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/rights-report-reconstructs-fatal-shooting-of-palestinian-man?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 17:23:21 +0000",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘To play God’: Cuba’s healthcare system collapses under US pressure",
+            "description": "As the Trump administration tightens US sanctions, Cuba&#039;s healthcare sector struggles with fuel and supply shortages.",
+            "url": "https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 16:34:12 +0000",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T21:53:22+03:30"
+        }
+    ]
+}
