@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T04:23:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A local merge queue for parallel Claude Code agents",
+            "description": "<p>I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.<p>So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104747\">https://news.ycombinator.com/item?id=49104747</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/funador/claude-code-merge-queue",
+            "published": "Thu, 30 Jul 2026 00:20:16 +0000",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Productivity Mirage",
+            "description": "<p>Article URL: <a href=\"https://frantic.im/mirage/\">https://frantic.im/mirage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104335\">https://news.ycombinator.com/item?id=49104335</a></p>\n<p>Points: 25</p>\n<p># Comments: 1</p>",
+            "url": "https://frantic.im/mirage/",
+            "published": "Wed, 29 Jul 2026 23:18:11 +0000",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+            "description": "<p>Article URL: <a href=\"https://archive.org/details/mancomputerbyjoh0000john\">https://archive.org/details/mancomputerbyjoh0000john</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49104140\">https://news.ycombinator.com/item?id=49104140</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+            "url": "https://archive.org/details/mancomputerbyjoh0000john",
+            "published": "Wed, 29 Jul 2026 22:53:44 +0000",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than half of England in drought, Environment Agency declares",
+            "description": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 14:37:30 GMT",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the UK's extreme heat is shifting the conversation about air-con",
+            "description": "Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 23:33:01 GMT",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Moment police officers set foot in 'horror scene' funeral home",
+            "description": "Police discovered messy side rooms strewn with rubbish at the Legacy funeral home in Hull.",
+            "url": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 17:00:41 GMT",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+            "description": "Decision follows long-running feud between Trump and UN group.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 00:26:49 +0000",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
+            "description": "Returning from the US, Zelenskyy says Ukraine&#039;s safety depends on allies’ willingness to provide anti-missile defences.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 00:23:13 +0000",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump threatens to hit ‘very hard’ over strikes on Jordan",
+            "description": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 00:00:00 +0000",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T04:23:02+03:30"
+        }
+    ]
+}
