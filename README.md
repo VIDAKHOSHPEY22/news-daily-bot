@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 01:44:04
+**Last Update:** 2026-07-31 02:01:52
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Saber-toothed cats became inbred–and struggled to move–before they went extinct
+### 1. Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct">https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116074">https://news.ycombinator.com/item?id=49116074</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://rune.build/blog/rune-1-1-release">https://rune.build/blog/rune-1-1-release</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116272">https://news.ycombinator.com/item?id=49116272</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
+🔗 **Read more:** [https://rune.build/blog/rune-1-1-release](https://rune.build/blog/rune-1-1-release)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/AminBlg/SimpleEnglish">https://github.com/AminBlg/SimpleEnglish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49114639">https://news.ycombinator.com/item?id=49114639</a></p>
-<p>Points: 74</p>
-<p># Comments: 23</p>
+<p>Points: 86</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://github.com/AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
-<p>Points: 547</p>
-<p># Comments: 323</p>
+<p>Points: 581</p>
+<p># Comments: 336</p>
 
 🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 
@@ -97,7 +97,20 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 7. Why is US GDP growth slowing, and how can it be reversed?
+### 7. Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Zoox will launch its commercial robotaxi service in Las Vegas after receiving federal clearance.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss)
+
+---
+
+### 8. Why is US GDP growth slowing, and how can it be reversed?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Tariffs and oil price hikes create a supply shock, dragging down US economic gro
 
 ---
 
-### 8. French teen fined in Singapore over ‘straw licking’ stunt
+### 9. French teen fined in Singapore over ‘straw licking’ stunt
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Tariffs and oil price hikes create a supply shock, dragging down US economic gro
 A French teenager has been fined about $465 after pleading guilty to a public nuisance charge in Singapore.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss)
-
----
-
-### 9. Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Experts have cast doubt on legality of the emergency decree as Milei decries a campaign of &#039;hostility&#039; after World Cup.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss)
 
 ---
 
