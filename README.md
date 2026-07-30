@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 23:50:06
+**Last Update:** 2026-07-31 00:09:04
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. UEFA and its national associations will not participate in FIFA competitions
+### 1. Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/AminBlg/SimpleEnglish">https://github.com/AminBlg/SimpleEnglish</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49114639">https://news.ycombinator.com/item?id=49114639</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+
+---
+
+### 2. UEFA and its national associations will not participate in FIFA competitions
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
-<p>Points: 314</p>
-<p># Comments: 201</p>
+<p>Points: 371</p>
+<p># Comments: 221</p>
 
 🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
 
 ---
 
-### 2. Making Postgres queues scale
+### 3. Making Postgres queues scale
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
-<p>Points: 55</p>
-<p># Comments: 4</p>
+<p>Points: 63</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
-
----
-
-### 3. What would it mean to see a new color?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color">https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113864">https://news.ycombinator.com/item?id=49113864</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color](https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color)
 
 ---
 
@@ -97,7 +97,20 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 7. Pakistan coal mine explosion kills at least 11, traps dozens
+### 7. Palestine Action co-founder wins UK Supreme Court appeal bid
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Huda Ammori has won permission to challenge Palestine Action&#039;s ban at the UK Supreme Court.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/palestine-action-co-founder-wins-uk-supreme-court-appeal-bid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/palestine-action-co-founder-wins-uk-supreme-court-appeal-bid?traffic_source=rss)
+
+---
+
+### 8. Pakistan coal mine explosion kills at least 11, traps dozens
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Accidents common in Pakistan’s coal mining industry, particularly in Balochist
 
 ---
 
-### 8. Saudi Arabia announces maritime defence alliance to secure vital waterways
+### 9. Saudi Arabia announces maritime defence alliance to secure vital waterways
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Accidents common in Pakistan’s coal mining industry, particularly in Balochist
 Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss)
-
----
-
-### 9. Congo’s Ebola death toll passes 1,500 as it struggles to halt spread
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-There&#039;s still no vaccine for the Bundibugyo strain of the virus as the country struggles for control in infected areas.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/congos-ebola-death-toll-passes-1500-as-it-struggles-to-halt-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/congos-ebola-death-toll-passes-1500-as-it-struggles-to-halt-spread?traffic_source=rss)
 
 ---
 

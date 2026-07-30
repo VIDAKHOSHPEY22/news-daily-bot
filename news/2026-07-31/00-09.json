@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T00:09:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+            "description": "<p>Article URL: <a href=\"https://github.com/AminBlg/SimpleEnglish\">https://github.com/AminBlg/SimpleEnglish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49114639\">https://news.ycombinator.com/item?id=49114639</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/AminBlg/SimpleEnglish",
+            "published": "Thu, 30 Jul 2026 19:34:27 +0000",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UEFA and its national associations will not participate in FIFA competitions",
+            "description": "<p>Article URL: <a href=\"https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113929\">https://news.ycombinator.com/item?id=49113929</a></p>\n<p>Points: 371</p>\n<p># Comments: 221</p>",
+            "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+            "published": "Thu, 30 Jul 2026 18:40:52 +0000",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Making Postgres queues scale",
+            "description": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/making-postgres-queues-scale\">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113913\">https://news.ycombinator.com/item?id=49113913</a></p>\n<p>Points: 63</p>\n<p># Comments: 6</p>",
+            "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+            "published": "Thu, 30 Jul 2026 18:39:32 +0000",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+            "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:47:40 GMT",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suffolk wildfire still growing and unpredictable, says fire service",
+            "description": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.",
+            "url": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 18:50:57 GMT",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+            "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:04:53 GMT",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine Action co-founder wins UK Supreme Court appeal bid",
+            "description": "Huda Ammori has won permission to challenge Palestine Action&#039;s ban at the UK Supreme Court.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/palestine-action-co-founder-wins-uk-supreme-court-appeal-bid?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 20:11:07 +0000",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan coal mine explosion kills at least 11, traps dozens",
+            "description": "Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 20:07:56 +0000",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
+            "description": "Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 19:57:43 +0000",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T00:09:04+03:30"
+        }
+    ]
+}
