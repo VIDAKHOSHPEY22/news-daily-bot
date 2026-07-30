@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 07:55:08
+**Last Update:** 2026-07-30 10:05:27
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. NSF pilots 4-year PhDs with industry research placements
+### 1. 1,741 "informed" consents with one click? GDPR complaint filed
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed">https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49106384">https://news.ycombinator.com/item?id=49106384</a></p>
+<p>Points: 50</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed](https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed)
+
+---
+
+### 2. NSF pilots 4-year PhDs with industry research placements
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four">https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105642">https://news.ycombinator.com/item?id=49105642</a></p>
-<p>Points: 46</p>
-<p># Comments: 33</p>
+<p>Points: 65</p>
+<p># Comments: 67</p>
 
 🔗 **Read more:** [https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
 
 ---
 
-### 2. Kuna: Decompiler Development in the Age of Coding Agents
+### 3. Kuna: Decompiler Development in the Age of Coding Agents
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
-
----
-
-### 3. Flume Water Monitor 915 MHz Security Is Pretty Good
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://waveformsecurity.com/blog/flume/">https://waveformsecurity.com/blog/flume/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105136">https://news.ycombinator.com/item?id=49105136</a></p>
-<p>Points: 23</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://waveformsecurity.com/blog/flume/](https://waveformsecurity.com/blog/flume/)
 
 ---
 
@@ -65,74 +65,74 @@
 **Category:** world
 
 **Description:**
-The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.
+The US military says it launched a "heavy" attack on Iran in retaliation for attempted Iranian ballistic missile strikes on American forces.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Saudi Arabia's dilemma as it tries to stay out of US-Iran war
+### 5. Cooler conditions on the way for parts of UK - but still no rain for drought-hit areas
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.
+After another day of record-breaking temperatures for some parts of England, a cold front is moving in.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham says nuclear sub investment will protect UK and boost jobs
+### 6. How the UK's extreme heat is shifting the conversation about air-con
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.
+Should we embrace air conditioning despite its costs and consequences, and how much should we spend on adapting homes versus cutting carbon?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Like volcanic ash falling’: Inside Aeon mall after Japan’s earthquake
+### 7. Viral finger-clicker suspended as cricket storm remains in global spotlight
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Japanese PM Takaichi says &#039;race against time&#039; to rescue those trapped in the mall and others affected by the quake.
+Saltburn&#039;s amateur cricketer at centre of cheating allegations that grabbed global headlines is suspended by club.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/viral-finger-clicker-suspended-as-cricket-storm-remains-in-global-spotlight?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/viral-finger-clicker-suspended-as-cricket-storm-remains-in-global-spotlight?traffic_source=rss)
 
 ---
 
-### 8. US launches another round of attacks on Iran
+### 8. War and shortages push Gaza hospitals to breaking point
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Targets across southern Iran hit, including on strategic Qeshm Island.
+Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss](https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss)
 
 ---
 
-### 9. Israeli strikes leave buildings burning in Gaza City
+### 9. US launches ‘powerful’ strikes on Iran after Jordan attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli strikes have displaced dozens of families in Gaza City&#039;s Shati refugee camp.
+The US has bombed multiple cities across southern Iran in what Central Command described as a ‘heavy wave of strikes’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-strikes-leave-buildings-burning-in-gaza-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss)
 
 ---
 
