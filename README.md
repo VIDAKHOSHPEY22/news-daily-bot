@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 15:27:16
+**Last Update:** 2026-07-30 15:39:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gpiozero Flow
+### 1. Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bennuttall.com/blog/2026/07/gpiozero-flow/">https://bennuttall.com/blog/2026/07/gpiozero-flow/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108048">https://news.ycombinator.com/item?id=49108048</a></p>
-<p>Points: 44</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/mbodi-ai/jobs">https://www.ycombinator.com/companies/mbodi-ai/jobs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108840">https://news.ycombinator.com/item?id=49108840</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://bennuttall.com/blog/2026/07/gpiozero-flow/](https://bennuttall.com/blog/2026/07/gpiozero-flow/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/mbodi-ai/jobs](https://www.ycombinator.com/companies/mbodi-ai/jobs)
 
 ---
 
-### 2. Google will expand age checks on Android worldwide till the end of the year
+### 2. GCC steering committee announces AI policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html">https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49107950">https://news.ycombinator.com/item?id=49107950</a></p>
-<p>Points: 98</p>
-<p># Comments: 114</p>
-
-🔗 **Read more:** [https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html)
-
----
-
-### 3. Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/YoanWai/agent-manager">https://github.com/YoanWai/agent-manager</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49107749">https://news.ycombinator.com/item?id=49107749</a></p>
+<p>Article URL: <a href="https://lwn.net/Articles/1086041/">https://lwn.net/Articles/1086041/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108685">https://news.ycombinator.com/item?id=49108685</a></p>
 <p>Points: 10</p>
-<p># Comments: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/YoanWai/agent-manager](https://github.com/YoanWai/agent-manager)
+🔗 **Read more:** [https://lwn.net/Articles/1086041/](https://lwn.net/Articles/1086041/)
+
+---
+
+### 3. ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms">https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49108556">https://news.ycombinator.com/item?id=49108556</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms)
 
 ---
 

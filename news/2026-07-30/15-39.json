@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T15:39:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mbodi-ai/jobs\">https://www.ycombinator.com/companies/mbodi-ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108840\">https://news.ycombinator.com/item?id=49108840</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+            "published": "Thu, 30 Jul 2026 12:01:05 +0000",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GCC steering committee announces AI policy",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1086041/\">https://lwn.net/Articles/1086041/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108685\">https://news.ycombinator.com/item?id=49108685</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://lwn.net/Articles/1086041/",
+            "published": "Thu, 30 Jul 2026 11:45:44 +0000",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms\">https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108556\">https://news.ycombinator.com/item?id=49108556</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+            "published": "Thu, 30 Jul 2026 11:30:34 +0000",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+            "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 10:49:14 GMT",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Joe Root returns as England Test cricket captain with Stephen Fleming named head coach",
+            "description": "Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.",
+            "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 11:13:50 GMT",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel building new land barriers in Gaza and displacing families",
+            "description": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
+            "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 05:05:24 GMT",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How does a safe zone in Lebanon become a target three times?",
+            "description": "Three times in three decades, Qana&#039;s shelters were bombed. AJLabs tracks a village the Israeli military keeps hitting.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 11:34:57 +0000",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
+            "description": "Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 11:32:30 +0000",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’",
+            "description": "Asian Football Confederation chief says plan to sell FIFA World Cup stakes undermines sport&#039;s continental structure.",
+            "url": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 10:35:52 +0000",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T15:39:19+03:30"
+        }
+    ]
+}
