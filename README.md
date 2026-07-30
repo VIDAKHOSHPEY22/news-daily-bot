@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 22:22:16
+**Last Update:** 2026-07-30 23:50:06
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Postgres Queues Actually Scale
+### 1. UEFA and its national associations will not participate in FIFA competitions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
+<p>Points: 314</p>
+<p># Comments: 201</p>
+
+🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
+
+---
+
+### 2. Making Postgres queues scale
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 55</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
 
 ---
 
-### 2. So you want to use plants to reduce CO₂
+### 3. What would it mean to see a new color?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dynomight.net/plants/">https://dynomight.net/plants/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113801">https://news.ycombinator.com/item?id=49113801</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color">https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113864">https://news.ycombinator.com/item?id=49113864</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://dynomight.net/plants/](https://dynomight.net/plants/)
-
----
-
-### 3. Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/yashmahajan10/llm-differential-privacy-gateway">https://github.com/yashmahajan10/llm-differential-privacy-gateway</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113543">https://news.ycombinator.com/item?id=49113543</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/yashmahajan10/llm-differential-privacy-gateway](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
+🔗 **Read more:** [https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color](https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color)
 
 ---
 
@@ -71,7 +71,20 @@ Uefa says "the World Cup is not for sale" after its 55 member associations vote 
 
 ---
 
-### 5. Thousands evacuated in Crete as wildfires threaten tourist resorts
+### 5. Suffolk wildfire still growing and unpredictable, says fire service
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Thousands evacuated in Crete as wildfires threaten tourist resorts
 
 **Source:** BBC
 
@@ -84,55 +97,81 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 6. Drought declared across whole of Wales as conditions 'deteriorate'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Wales is on course for its driest July on record in almost 190 years.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Spain’s Ceuta declares emergency over surge in migrant arrivals
+### 7. Pakistan coal mine explosion kills at least 11, traps dozens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 1,500 migrants have reached Spain’s North African enclave of Ceuta by sea over the past week.
+Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss)
 
 ---
 
-### 8. Turtle rescued from rubble a month after Venezuela earthquake
+### 8. Saudi Arabia announces maritime defence alliance to secure vital waterways
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued
+Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss)
 
 ---
 
-### 9. Viral cricket scandal sees ‘Clicky Ponting’ suspended from UK team
+### 9. Congo’s Ebola death toll passes 1,500 as it struggles to halt spread
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Viral cricket scandal sees &#039;Clicky Ponting&#039; suspended from UK team
+There&#039;s still no vaccine for the Bundibugyo strain of the virus as the country struggles for control in infected areas.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/congos-ebola-death-toll-passes-1500-as-it-struggles-to-halt-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/congos-ebola-death-toll-passes-1500-as-it-struggles-to-halt-spread?traffic_source=rss)
+
+---
+
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
+
+---
+
+### 11. Wildfire Duhamel, Pennington, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+
+---
+
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 
