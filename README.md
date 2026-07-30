@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 20:12:24
+**Last Update:** 2026-07-30 20:25:38
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -26,23 +26,7 @@
 
 ---
 
-### 2. Show HN: I think I made my own web version of minimalistic audacity
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/askpext/HERTZ">https://github.com/askpext/HERTZ</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111312">https://news.ycombinator.com/item?id=49111312</a></p>
-<p>Points: 6</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/askpext/HERTZ](https://github.com/askpext/HERTZ)
-
----
-
-### 3. Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up
+### 2. Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/">https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111305">https://news.ycombinator.com/item?id=49111305</a></p>
-<p>Points: 46</p>
-<p># Comments: 3</p>
+<p>Points: 48</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/](https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/)
+
+---
+
+### 3. Gemini Robotics 2 brings whole body intelligence to robots
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49111237">https://news.ycombinator.com/item?id=49111237</a></p>
+<p>Points: 178</p>
+<p># Comments: 138</p>
+
+🔗 **Read more:** [https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
 
 ---
 
@@ -133,45 +133,6 @@ Citizen vigilantes patrol Ghana&#039;s streets, fighting an opioid crisis. We me
 The growing series of NATO airspace violations is raising concern that Russia&#039;s war on Ukraine could escalate.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss)
-
----
-
-### 10. Wildfire Fairpoint, Meade, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829)
-
----
-
-### 11. Super Typhoon Dolphin
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776)
-
----
-
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835)
 
 ---
 
