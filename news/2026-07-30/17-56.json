@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-30T17:56:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+            "description": "<p>Hi HN, we're Marinos and Hudson, founders of Prized (<a href=\"https://prized.dev\">https://prized.dev</a>)! Prized lets non-engineer employees describe the internal tool they need and get a full-stack app, wired to their company’s data and deployed behind the company’s sign-in, without them ever juggling API keys or connectors.<p>Here's a demo: <a href=\"https://www.youtube.com/watch?v=730MuYOfZTY\" rel=\"nofollow\">https://www.youtube.com/watch?v=730MuYOfZTY</a><p>The way Prized provides security is by limiting what the agent can reach at the network layer and by keeping credentials out of the sandbox entirely. The sandbox never holds any keys or connector secrets, it only uses scoped session tokens that are stored as opaque placeholders. The real values are swapped into the request headers on our egress proxy. When production data is connected, the sandbox's network policy is set to deny by default so the only path out is via the proxy. Any call the agent makes to an external connector is reviewed by an LLM judge to prevent dangerous operations.<p>Prized is meant for the internal workflows that start as notebooks or spreadsheets but never become real tools because engineering has more important things to work on. One customer’s data scientist pasted in his personal fraud-detection notebook with hardcoded thresholds and all. After a few prompts, it became a published risk console connected to the company’s data with those thresholds turned into UI controls. Earlier today, we got off a call with them and most of their company is using it.<p>To do this, you need to give people the freedom to build without having unaudited access to company systems. We allow admins to scope data to specific users or teams and data access is recorded in an audit log. Each tool is built with its own Postgres schema and role, with queries running via an authenticated SQL gateway as that role.<p>We think Prized sits between products like Lovable and Retool. Lovable makes it easy to generate and host software, but it isn’t designed around distribution with permissions. Retool generally assumes that a technical builder is creating an app for an end user.<p>Prized treats internal tools as shared objects. Anyone in the workspace can see what others have built, fork, and connect different data. For example, one customer’s marketing lead built a promotional analytics tool. A data scientist at the same company then forked it and added confidence intervals with the existing tool as a starting base. This way workspaces become libraries of tools that people can reuse.<p>We’re live and self-serve. Our free tier includes 2 tool builds/month and our Teams tier is $100/month. The Enterprise tier is custom and supports personalized features like on-prem deployment.<p>We're still working out the right boundary between control and freedom. If you've built internal tools before we'd appreciate your feedback!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49109721\">https://news.ycombinator.com/item?id=49109721</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://prized.dev",
+            "published": "Thu, 30 Jul 2026 13:29:03 +0000",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RFC 8890 – The Internet is for End Users (2020)",
+            "description": "<p>Article URL: <a href=\"https://mnot.net/blog/2020/for_the_users\">https://mnot.net/blog/2020/for_the_users</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49109474\">https://news.ycombinator.com/item?id=49109474</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+            "url": "https://mnot.net/blog/2020/for_the_users",
+            "published": "Thu, 30 Jul 2026 13:07:53 +0000",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+            "description": "<p>Article URL: <a href=\"https://remysharp.com/links/2026-07-23-35890312\">https://remysharp.com/links/2026-07-23-35890312</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49109440\">https://news.ycombinator.com/item?id=49109440</a></p>\n<p>Points: 173</p>\n<p># Comments: 54</p>",
+            "url": "https://remysharp.com/links/2026-07-23-35890312",
+            "published": "Thu, 30 Jul 2026 13:03:27 +0000",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands evacuated in Crete as Europe battles wildfires",
+            "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 12:46:16 GMT",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+            "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 10:49:14 GMT",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+            "description": "Wales is on course for its driest July on record in almost 190 years.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 14:15:09 GMT",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Go back to your own country’: NZ foreign minister faces backlash",
+            "description": "New Zealand Foreign Minister Winston Peters told Chinese-born MP to ‘go back to your own country’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 13:51:52 +0000",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Islamabad residents rally in solidarity with Kashmir protests",
+            "description": "A rally has been held in Islamabad in a show of support for protesters in Pakistan-administered Kashmir.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 13:35:29 +0000",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan’s RSF vows to return to Khartoum",
+            "description": "Sudan’s RSF released a video of leader Mohamed Hamdan Dagalo, known as Hemedti, telling his forces to seize Khartoum.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 13:26:26 +0000",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Fairpoint, Meade, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829",
+            "published": "2026-07-27T11:21:00Z",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Dolphin",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776",
+            "published": "2026-07-27T06:00:00Z",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835",
+            "published": "2026-07-27T00:31:00Z",
+            "fetched": "2026-07-30T17:56:05+03:30"
+        }
+    ]
+}
