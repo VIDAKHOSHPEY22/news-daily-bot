@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 13:05:12
+**Last Update:** 2026-07-30 13:26:02
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://getapps.cafe/blog/why-the-future-is-local-app">https://getapps.cafe/blog/why-the-future-is-local-app</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105924">https://news.ycombinator.com/item?id=49105924</a></p>
-<p>Points: 23</p>
-<p># Comments: 18</p>
+<p>Points: 25</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://getapps.cafe/blog/why-the-future-is-local-app](https://getapps.cafe/blog/why-the-future-is-local-app)
 
@@ -36,7 +36,7 @@
 <p>Article URL: <a href="https://noelo.org/blog/kuna-release/">https://noelo.org/blog/kuna-release/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49105563">https://news.ycombinator.com/item?id=49105563</a></p>
 <p>Points: 34</p>
-<p># Comments: 8</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://noelo.org/blog/kuna-release/](https://noelo.org/blog/kuna-release/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://logicforprogrammers.com/">https://logicforprogrammers.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49104937">https://news.ycombinator.com/item?id=49104937</a></p>
-<p>Points: 119</p>
+<p>Points: 122</p>
 <p># Comments: 22</p>
 
 🔗 **Read more:** [https://logicforprogrammers.com/](https://logicforprogrammers.com/)
@@ -71,20 +71,7 @@ After a short period of relative calm when hostilities were paused, both sides h
 
 ---
 
-### 5. Cooler conditions on the way for parts of UK - but still no rain for drought-hit areas
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-After another day of record-breaking temperatures for some parts of England, a cold front is moving in.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. How the UK's extreme heat is shifting the conversation about air-con
+### 5. How the UK's extreme heat is shifting the conversation about air-con
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Should we embrace air conditioning despite its costs and consequences?
 
 ---
 
-### 7. South Africa’s le Clos breaks Commonwealth Games medal record
+### 6. Thousands evacuated in Crete as European wildfires continue to rage
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-South Africa took bronze in the men’s 4x100 medley relay for Chad le Clos&#039;s record 21st Commonwealth Games medal.
+Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks
+### 7. From Toronto to Damascus: Syrians return home aiming to rebuild country
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least 14 people.
+Families like the Tasabehjis aim to rebuild Syria, fostering community and hope despite economic and social challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss](https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss)
 
 ---
 
-### 9. Protest group says 30 dead in Pakistan-administered Kashmir vote unrest
+### 8. Apartheid wealth cannot buy silence on Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deadly clashes reported in Pakistan-administered Kashmir amid first round of voting for regional elections on July 27.
+South African universities must resist donors who use financial power to impose political obedience.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/protest-group-says-30-dead-in-pakistan-administered-kashmir-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/protest-group-says-30-dead-in-pakistan-administered-kashmir-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss)
+
+---
+
+### 9. Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss)
 
 ---
 
