@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-07-30T22:22:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Postgres Queues Actually Scale",
+            "description": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/making-postgres-queues-scale\">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113913\">https://news.ycombinator.com/item?id=49113913</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+            "published": "Thu, 30 Jul 2026 18:39:32 +0000",
+            "fetched": "2026-07-30T22:22:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "So you want to use plants to reduce CO₂",
+            "description": "<p>Article URL: <a href=\"https://dynomight.net/plants/\">https://dynomight.net/plants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113801\">https://news.ycombinator.com/item?id=49113801</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://dynomight.net/plants/",
+            "published": "Thu, 30 Jul 2026 18:31:02 +0000",
+            "fetched": "2026-07-30T22:22:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+            "description": "<p>Article URL: <a href=\"https://github.com/yashmahajan10/llm-differential-privacy-gateway\">https://github.com/yashmahajan10/llm-differential-privacy-gateway</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113543\">https://news.ycombinator.com/item?id=49113543</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+            "published": "Thu, 30 Jul 2026 18:08:48 +0000",
+            "fetched": "2026-07-30T22:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+            "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:47:40 GMT",
+            "fetched": "2026-07-30T22:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+            "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:04:53 GMT",
+            "fetched": "2026-07-30T22:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+            "description": "Wales is on course for its driest July on record in almost 190 years.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 14:15:09 GMT",
+            "fetched": "2026-07-30T22:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain’s Ceuta declares emergency over surge in migrant arrivals",
+            "description": "More than 1,500 migrants have reached Spain’s North African enclave of Ceuta by sea over the past week.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 18:27:54 +0000",
+            "fetched": "2026-07-30T22:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turtle rescued from rubble a month after Venezuela earthquake",
+            "description": "A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 18:15:11 +0000",
+            "fetched": "2026-07-30T22:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Viral cricket scandal sees ‘Clicky Ponting’ suspended from UK team",
+            "description": "Viral cricket scandal sees &#039;Clicky Ponting&#039; suspended from UK team",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 18:12:02 +0000",
+            "fetched": "2026-07-30T22:22:16+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-30 21:53:22
+**Last Update:** 2026-07-30 22:22:16
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447
+### 1. Postgres Queues Actually Scale
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bottlenecklabs.com/blog/autonomously-run-businesses">https://www.bottlenecklabs.com/blog/autonomously-run-businesses</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113059">https://news.ycombinator.com/item?id=49113059</a></p>
-<p>Points: 61</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.bottlenecklabs.com/blog/autonomously-run-businesses](https://www.bottlenecklabs.com/blog/autonomously-run-businesses)
+🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
 
 ---
 
-### 2. Advancing the price-performance frontier with GPT‑5.6
+### 2. So you want to use plants to reduce CO₂
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112867">https://news.ycombinator.com/item?id=49112867</a></p>
-<p>Points: 186</p>
-<p># Comments: 100</p>
+<p>Article URL: <a href="https://dynomight.net/plants/">https://dynomight.net/plants/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113801">https://news.ycombinator.com/item?id=49113801</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
+🔗 **Read more:** [https://dynomight.net/plants/](https://dynomight.net/plants/)
 
 ---
 
-### 3. Read This Before You Buy That TV Streaming Stick
+### 3. Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49112744">https://news.ycombinator.com/item?id=49112744</a></p>
-<p>Points: 115</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://github.com/yashmahajan10/llm-differential-privacy-gateway">https://github.com/yashmahajan10/llm-differential-privacy-gateway</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113543">https://news.ycombinator.com/item?id=49113543</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+🔗 **Read more:** [https://github.com/yashmahajan10/llm-differential-privacy-gateway](https://github.com/yashmahajan10/llm-differential-privacy-gateway)
 
 ---
 
@@ -97,81 +97,42 @@ Wales is on course for its driest July on record in almost 190 years.
 
 ---
 
-### 7. Europe’s heating climate sparks ‘major intensification’ of fires: Report
+### 7. Spain’s Ceuta declares emergency over surge in migrant arrivals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Climate change has helped southern Europe&#039;s likelihood of wildfires double since 1981, say researchers.
+More than 1,500 migrants have reached Spain’s North African enclave of Ceuta by sea over the past week.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/europes-heating-climate-sparks-major-intensification-of-fires-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss)
 
 ---
 
-### 8. Rights report reconstructs fatal shooting of Palestinian man
+### 8. Turtle rescued from rubble a month after Venezuela earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rights report reconstructs fatal shooting of Palestinian man
+A turtle who survived for over a month under the rubble of a collapsed building following Venezuela’s earthquake rescued
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/rights-report-reconstructs-fatal-shooting-of-palestinian-man?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/rights-report-reconstructs-fatal-shooting-of-palestinian-man?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/turtle-rescued-from-rubble-a-month-after-venezuela-earthquake?traffic_source=rss)
 
 ---
 
-### 9. ‘To play God’: Cuba’s healthcare system collapses under US pressure
+### 9. Viral cricket scandal sees ‘Clicky Ponting’ suspended from UK team
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As the Trump administration tightens US sanctions, Cuba&#039;s healthcare sector struggles with fuel and supply shortages.
+Viral cricket scandal sees &#039;Clicky Ponting&#039; suspended from UK team
 
-🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss)
-
----
-
-### 10. Wildfire Fairpoint, Meade, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829)
-
----
-
-### 11. Super Typhoon Dolphin
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776)
-
----
-
-### 12. Wildfire Twin Butte Ck, Corson, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/amateur-cricketer-accused-of-faking-an-edge-with-a-finger-snap?traffic_source=rss)
 
 ---
 
