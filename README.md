@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 00:09:04
+**Last Update:** 2026-07-31 01:44:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
+### 1. Saber-toothed cats became inbred–and struggled to move–before they went extinct
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct">https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116074">https://news.ycombinator.com/item?id=49116074</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct](https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct)
+
+---
+
+### 2. Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/AminBlg/SimpleEnglish">https://github.com/AminBlg/SimpleEnglish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49114639">https://news.ycombinator.com/item?id=49114639</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
+<p>Points: 74</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://github.com/AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
 
 ---
 
-### 2. UEFA and its national associations will not participate in FIFA competitions
+### 3. UEFA and its national associations will not participate in FIFA competitions
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
-<p>Points: 371</p>
-<p># Comments: 221</p>
+<p>Points: 547</p>
+<p># Comments: 323</p>
 
 🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
-
----
-
-### 3. Making Postgres queues scale
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.dbos.dev/blog/making-postgres-queues-scale">https://www.dbos.dev/blog/making-postgres-queues-scale</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113913">https://news.ycombinator.com/item?id=49113913</a></p>
-<p>Points: 63</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.dbos.dev/blog/making-postgres-queues-scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
 
 ---
 
@@ -97,42 +97,42 @@ Strong winds have fanned the flames in the Rethymno region as wildfires continue
 
 ---
 
-### 7. Palestine Action co-founder wins UK Supreme Court appeal bid
+### 7. Why is US GDP growth slowing, and how can it be reversed?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Huda Ammori has won permission to challenge Palestine Action&#039;s ban at the UK Supreme Court.
+Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/palestine-action-co-founder-wins-uk-supreme-court-appeal-bid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/palestine-action-co-founder-wins-uk-supreme-court-appeal-bid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss)
 
 ---
 
-### 8. Pakistan coal mine explosion kills at least 11, traps dozens
+### 8. French teen fined in Singapore over ‘straw licking’ stunt
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Accidents common in Pakistan’s coal mining industry, particularly in Balochistan, where many mines lack basic safety.
+A French teenager has been fined about $465 after pleading guilty to a public nuisance charge in Singapore.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss)
 
 ---
 
-### 9. Saudi Arabia announces maritime defence alliance to secure vital waterways
+### 9. Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fourteen nations sign up to alliance to protect vital trade and energy routes amid escalating hostilities.
+Experts have cast doubt on legality of the emergency decree as Milei decries a campaign of &#039;hostility&#039; after World Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss)
 
 ---
 

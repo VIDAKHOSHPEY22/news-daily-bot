@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T01:44:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct\">https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116074\">https://news.ycombinator.com/item?id=49116074</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+            "published": "Thu, 30 Jul 2026 21:31:03 +0000",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+            "description": "<p>Article URL: <a href=\"https://github.com/AminBlg/SimpleEnglish\">https://github.com/AminBlg/SimpleEnglish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49114639\">https://news.ycombinator.com/item?id=49114639</a></p>\n<p>Points: 74</p>\n<p># Comments: 23</p>",
+            "url": "https://github.com/AminBlg/SimpleEnglish",
+            "published": "Thu, 30 Jul 2026 19:34:27 +0000",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UEFA and its national associations will not participate in FIFA competitions",
+            "description": "<p>Article URL: <a href=\"https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113929\">https://news.ycombinator.com/item?id=49113929</a></p>\n<p>Points: 547</p>\n<p># Comments: 323</p>",
+            "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+            "published": "Thu, 30 Jul 2026 18:40:52 +0000",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+            "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:47:40 GMT",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suffolk wildfire still growing and unpredictable, says fire service",
+            "description": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.",
+            "url": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 18:50:57 GMT",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
+            "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:04:53 GMT",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is US GDP growth slowing, and how can it be reversed?",
+            "description": "Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.",
+            "url": "https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 21:39:37 +0000",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "French teen fined in Singapore over ‘straw licking’ stunt",
+            "description": "A French teenager has been fined about $465 after pleading guilty to a public nuisance charge in Singapore.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 21:34:39 +0000",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country",
+            "description": "Experts have cast doubt on legality of the emergency decree as Milei decries a campaign of &#039;hostility&#039; after World Cup.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 21:34:11 +0000",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T01:44:04+03:30"
+        }
+    ]
+}
