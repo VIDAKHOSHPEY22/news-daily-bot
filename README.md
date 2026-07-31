@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 01:42:00
+**Last Update:** 2026-08-01 02:57:46
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -35,27 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 10</p>
-<p># Comments: 6</p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
 ---
 
-### 3. Show HN: How to build and self-host a code review agent
+### 3. Predictive Speculative KV Replication for Bursty LLM Inference
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hey HN,<p>I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.<p>You can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.<p>The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.<p><a href="https://github.com/trytilde/examples" rel="nofollow">https://github.com/trytilde/examples</a></p>
+<p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128177">https://news.ycombinator.com/item?id=49128177</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.trytilde.ai/blog/how-to-build-code-review-agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
+🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
 
 ---
 
@@ -98,42 +98,42 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin
+### 7. Israeli settlers vandalise Palestinian cemetery in West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem ,makes early exit.
+Israeli settlers vandalise Palestinian cemetery in West Bank
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss)
+
+---
+
+### 8. US Senate’s Fauci hearing renews COVID origin debate but reveals little
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss)
+
+---
+
+### 9. Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem makes early exit.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss)
-
----
-
-### 8. Children face higher threat of US deportation as legal support deal expires
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss)
-
----
-
-### 9. Cambridge students on why they protested at graduation ceremony
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Several Cambridge students protested during their graduation ceremonies
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss)
 
 ---
 
