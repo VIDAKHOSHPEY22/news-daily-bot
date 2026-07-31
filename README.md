@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 19:03:42
+**Last Update:** 2026-07-31 19:35:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Detect Dark Matter's Mark from Your Backyard
+### 1. A GTK4 SSH-askpass in Zig
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/dark-matter">https://spectrum.ieee.org/dark-matter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49123579">https://news.ycombinator.com/item?id=49123579</a></p>
-<p>Points: 19</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/">https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124496">https://news.ycombinator.com/item?id=49124496</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/dark-matter](https://spectrum.ieee.org/dark-matter)
+🔗 **Read more:** [https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/](https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/)
 
 ---
 
-### 2. Better to Beg Forgiveness
+### 2. New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pluralistic.net/2026/07/31/just-do-it/">https://pluralistic.net/2026/07/31/just-do-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49123300">https://news.ycombinator.com/item?id=49123300</a></p>
+<p>Article URL: <a href="https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/">https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124409">https://news.ycombinator.com/item?id=49124409</a></p>
 <p>Points: 18</p>
-<p># Comments: 6</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://pluralistic.net/2026/07/31/just-do-it/](https://pluralistic.net/2026/07/31/just-do-it/)
+🔗 **Read more:** [https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/)
 
 ---
 
-### 3. Situational Awareness Down 67% in July in AI Stock Rout
+### 3. Is AI Reasoning Right for the Wrong Reasons?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f">https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49122994">https://news.ycombinator.com/item?id=49122994</a></p>
-<p>Points: 85</p>
-<p># Comments: 86</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/">https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124358">https://news.ycombinator.com/item?id=49124358</a></p>
+<p>Points: 40</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
+🔗 **Read more:** [https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 
 ---
 
@@ -97,7 +97,20 @@ Prime Minister Andy Burnham says Gianni Infantino is "the wrong man" to lead Fif
 
 ---
 
-### 7. World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition
+### 7. The promise I made to Ismail al-Ghoul
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss](https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss)
+
+---
+
+### 8. World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 ed
 
 ---
 
-### 8. Police chief resigns days after deadly shooting in US city of Seattle
+### 9. Police chief resigns days after deadly shooting in US city of Seattle
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 ed
 Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss)
-
----
-
-### 9. Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Chelsea rule breaches that led to action were self-reported following takeover by Todd ⁠⁠Boehly and Clearlake Capital.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss)
 
 ---
 

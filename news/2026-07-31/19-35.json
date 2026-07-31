@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T19:35:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A GTK4 SSH-askpass in Zig",
+            "description": "<p>Article URL: <a href=\"https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/\">https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124496\">https://news.ycombinator.com/item?id=49124496</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/",
+            "published": "Fri, 31 Jul 2026 15:40:13 +0000",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Defcon Badges Pack a Unique Open-Source Chip That Doubles as a Security Key",
+            "description": "<p>Article URL: <a href=\"https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/\">https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124409\">https://news.ycombinator.com/item?id=49124409</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+            "published": "Fri, 31 Jul 2026 15:33:02 +0000",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is AI Reasoning Right for the Wrong Reasons?",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/\">https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124358\">https://news.ycombinator.com/item?id=49124358</a></p>\n<p>Points: 40</p>\n<p># Comments: 20</p>",
+            "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+            "published": "Fri, 31 Jul 2026 15:29:39 +0000",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+            "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 14:20:18 GMT",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Disgraced funeral boss who failed to bury bodies jailed for 20 years",
+            "description": "Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 15:49:22 GMT",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
+            "description": "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 12:14:43 GMT",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The promise I made to Ismail al-Ghoul",
+            "description": "He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.",
+            "url": "https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 15:30:15 +0000",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
+            "description": "FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.",
+            "url": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 15:05:55 +0000",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police chief resigns days after deadly shooting in US city of Seattle",
+            "description": "Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 14:46:09 +0000",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T19:35:27+03:30"
+        }
+    ]
+}
