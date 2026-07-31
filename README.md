@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 23:28:53
+**Last Update:** 2026-07-31 23:54:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://tailscale.com/blog/hugging-face-intrusion">https://tailscale.com/blog/hugging-face-intrusion</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127306">https://news.ycombinator.com/item?id=49127306</a></p>
-<p>Points: 54</p>
-<p># Comments: 26</p>
+<p>Points: 109</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://tailscale.com/blog/hugging-face-intrusion](https://tailscale.com/blog/hugging-face-intrusion)
 
 ---
 
-### 2. Nuclear Waste Cleanup: DOE Is Missing Opportunities to Apply Lessons
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.gao.gov/products/gao-26-108082">https://www.gao.gov/products/gao-26-108082</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127205">https://news.ycombinator.com/item?id=49127205</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.gao.gov/products/gao-26-108082](https://www.gao.gov/products/gao-26-108082)
-
----
-
-### 3. Golang proposal: container/: generic collection types
+### 2. Golang proposal: container/: generic collection types
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/golang/go/issues/80590">https://github.com/golang/go/issues/80590</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127031">https://news.ycombinator.com/item?id=49127031</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Points: 42</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://github.com/golang/go/issues/80590](https://github.com/golang/go/issues/80590)
+
+---
+
+### 3. Orca-Bench: How Ready Are Language Model Agents for Oncall?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2607.28545">https://arxiv.org/abs/2607.28545</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49126943">https://news.ycombinator.com/item?id=49126943</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2607.28545](https://arxiv.org/abs/2607.28545)
 
 ---
 
@@ -97,42 +97,42 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. Poland protests to Russian ambassador over missile incursion
+### 7. Does FIFA need private investment?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warsaw asserts missile recently made, illustrating Russia&#039;s nightly barrage against Ukraine is draining arsenal.
+The world football body is facing growing backlash after its proposal to sell a stake in its top events.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss)
 
 ---
 
-### 8. Trump says US has ‘understanding’ with Israel on Hamas disarmament deal
+### 8. Algerian bus plunges into ravine killing at least 27
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.
+Dozens also injured in accident outside the country&#039;s capital Algiers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/algerian-bus-plunges-into-ravine-killing-at-least-27?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/algerian-bus-plunges-into-ravine-killing-at-least-27?traffic_source=rss)
 
 ---
 
-### 9. World reacts with cautious optimism to Hamas disarmament agreement
+### 9. ‘Strategic partner’: Peru’s Fujimori plans to intensify ties with the US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.
+Peru&#039;s newly inaugurated president indicates her government will join Trump&#039;s Shield of the Americas coalition.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/strategic-partner-perus-fujimori-plans-to-intensify-ties-with-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/strategic-partner-perus-fujimori-plans-to-intensify-ties-with-the-us?traffic_source=rss)
 
 ---
 
