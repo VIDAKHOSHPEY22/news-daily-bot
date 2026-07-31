@@ -1,16 +1,50 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 21:28:44
+**Last Update:** 2026-07-31 21:55:24
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Miso (YC S16) is hiring for U.S. expansion
+### 1. qm
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/yc-software/qm">https://github.com/yc-software/qm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49126604">https://news.ycombinator.com/item?id=49126604</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/yc-software/qm](https://github.com/yc-software/qm)
+
+---
+
+### 2. Show HN: Slope remade in HTML5 to load instantly on any browser, any device
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>A whole free daily game served in under 100kb with no ads, lags or logins. The URL will serve a new track every day, forever. And I've added setting sliders so players have full control over their experience.<p>Would love to know your thoughts guys. This was just me working with Claude Opus 5.<p>Cheers,
+Nathan</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125922">https://news.ycombinator.com/item?id=49125922</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://hurtle.site/](https://hurtle.site/)
+
+---
+
+### 3. Miso (YC S16) is hiring for U.S. expansion
 
 **Source:** Hacker News
 
@@ -23,38 +57,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion)
-
----
-
-### 2. Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49125034">https://news.ycombinator.com/item?id=49125034</a></p>
-<p>Points: 30</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/)
-
----
-
-### 3. Big Food vs. the People
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.lighthousereports.com/investigation/big-food-vs-the-people/">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49124858">https://news.ycombinator.com/item?id=49124858</a></p>
-<p>Points: 72</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.lighthousereports.com/investigation/big-food-vs-the-people/](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
 
 ---
 
@@ -97,7 +99,33 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. FIFA COO Lamour says staff deceived over Infantino’s World Cup plan
+### 7. Why is Israel arming illegal settlers?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss)
+
+---
+
+### 8. New York sues Kalshi, says its prediction markets are ‘illegal gambling’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+New York is one of many states with cases against Kalshi and others in dispute with Trump gov&#039;t on who gets to regulate.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss)
+
+---
+
+### 9. FIFA COO Lamour says staff deceived over Infantino’s World Cup plan
 
 **Source:** Al Jazeera
 
@@ -107,32 +135,6 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino&#039;s World Cup sell-off plan.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss)
-
----
-
-### 8. Western allies warn North Korean IT workers funding nuclear arsenal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss)
-
----
-
-### 9. DR Congo Ebola epidemic becomes world’s second largest outbreak
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss)
 
 ---
 
