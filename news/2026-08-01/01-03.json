@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T01:03:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+            "description": "<p>Article URL: <a href=\"https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/\">https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128539\">https://news.ycombinator.com/item?id=49128539</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+            "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
+            "published": "Fri, 31 Jul 2026 21:08:05 +0000",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Loops (YC W22) Is Hiring a Product Educator",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+            "published": "Fri, 31 Jul 2026 21:00:40 +0000",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.28233\">https://arxiv.org/abs/2607.28233</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128323\">https://news.ycombinator.com/item?id=49128323</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2607.28233",
+            "published": "Fri, 31 Jul 2026 20:44:29 +0000",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+            "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 17:03:47 GMT",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
+            "description": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
+            "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 15:48:34 GMT",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa executive says staff 'deceived' by Infantino plans",
+            "description": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 17:45:11 GMT",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN",
+            "description": "UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide",
+            "url": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 20:38:56 +0000",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuela gov’t and opposition to hold talks aimed at path to elections",
+            "description": "Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 20:28:39 +0000",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 25 people killed, dozens injured in Algeria bus crash",
+            "description": "At least 25 people have been killed and dozens others injured in a bus crash in Algeria.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 20:12:32 +0000",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T01:03:42+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 23:54:45
+**Last Update:** 2026-08-01 01:03:42
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tailscale didn't stop the Hugging Face intrusion
+### 1. Apple Will 'Watch Everything Burn' When AI Bubble Bursts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tailscale.com/blog/hugging-face-intrusion">https://tailscale.com/blog/hugging-face-intrusion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127306">https://news.ycombinator.com/item?id=49127306</a></p>
-<p>Points: 109</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://tailscale.com/blog/hugging-face-intrusion](https://tailscale.com/blog/hugging-face-intrusion)
-
----
-
-### 2. Golang proposal: container/: generic collection types
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/golang/go/issues/80590">https://github.com/golang/go/issues/80590</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127031">https://news.ycombinator.com/item?id=49127031</a></p>
-<p>Points: 42</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://github.com/golang/go/issues/80590](https://github.com/golang/go/issues/80590)
-
----
-
-### 3. Orca-Bench: How Ready Are Language Model Agents for Oncall?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2607.28545">https://arxiv.org/abs/2607.28545</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49126943">https://news.ycombinator.com/item?id=49126943</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/">https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128539">https://news.ycombinator.com/item?id=49128539</a></p>
+<p>Points: 10</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2607.28545](https://arxiv.org/abs/2607.28545)
+🔗 **Read more:** [https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/](https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/)
+
+---
+
+### 2. Loops (YC W22) Is Hiring a Product Educator
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128462">https://news.ycombinator.com/item?id=49128462</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator)
+
+---
+
+### 3. Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
 ---
 
@@ -84,7 +84,7 @@ Spain's North African territory of Ceuta from Morocco, though more than 25,000 h
 
 ---
 
-### 6. 'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan
+### 6. Fifa executive says staff 'deceived' by Infantino plans
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. Does FIFA need private investment?
+### 7. Powerful El Nino to intensify heat on ‘a planet already on fire’: UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The world football body is facing growing backlash after its proposal to sell a stake in its top events.
+UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss)
 
 ---
 
-### 8. Algerian bus plunges into ravine killing at least 27
+### 8. Venezuela gov’t and opposition to hold talks aimed at path to elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens also injured in accident outside the country&#039;s capital Algiers.
+Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/algerian-bus-plunges-into-ravine-killing-at-least-27?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/algerian-bus-plunges-into-ravine-killing-at-least-27?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss)
 
 ---
 
-### 9. ‘Strategic partner’: Peru’s Fujimori plans to intensify ties with the US
+### 9. At least 25 people killed, dozens injured in Algeria bus crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Peru&#039;s newly inaugurated president indicates her government will join Trump&#039;s Shield of the Americas coalition.
+At least 25 people have been killed and dozens others injured in a bus crash in Algeria.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/strategic-partner-perus-fujimori-plans-to-intensify-ties-with-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/strategic-partner-perus-fujimori-plans-to-intensify-ties-with-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss)
 
 ---
 
