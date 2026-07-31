@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T11:43:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek-V4-Flash Update",
+            "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/updates/\">https://api-docs.deepseek.com/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119559\">https://news.ycombinator.com/item?id=49119559</a></p>\n<p>Points: 148</p>\n<p># Comments: 47</p>",
+            "url": "https://api-docs.deepseek.com/updates/",
+            "published": "Fri, 31 Jul 2026 06:08:36 +0000",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+            "description": "<p>Hi HN,<p>I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.<p>I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. Also the hassle of having to download different apps for different file formats was really annoying.<p>Gander holds no permissions, not even INTERNET so the OS itself guarantees the file cannot leave the phone.<p>PDFs use Pdfium, media uses Media3, and Office formats are rendered by bundled JS libraries in a WebView and so no request goes to any server.<p>It is a viewer only. Complex PowerPoint decks come out approximately right, spreadsheet charts are not drawn, and old binary .doc and .ppt are unsupported. I'll work on it as issues come up :P<p>It is 14 MB, MIT licensed and uploaded on Github releases.<p>Do try it! I would love some feedback especially on files that render badly or need new support.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119425\">https://news.ycombinator.com/item?id=49119425</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+            "url": "https://github.com/mokshablr/gander",
+            "published": "Fri, 31 Jul 2026 05:45:13 +0000",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: What should the GUI for AI agents look like?",
+            "description": "<p>Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.<p>The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.\nBefore GUIs, interacting with a computer was limited to strange terminal commands:<p>C:\\> DIR<p>C:\\> COPY FILE.TXT A:<p>You had to remember the command, syntax, paths, and parameters.<p>The GUI made those capabilities visible. Instead of remembering commands, you could point at files, drag them, click buttons, and select actions from menus.\nIt didn't necessarily make entirely new things possible; it just made existing capabilities much easier to understand and use. We feel like AI is still somewhere around this command-line stage.<p>Even though the strict syntax has been replaced with natural language, the interaction can still be quite stiff and depend on heavily recall. Tools like Claude Cowork still look surprisingly terminal-like: /skill-name [param1] [param2]. The parameters are written in natural language, but the user still needs to know the capabilities that exist, and how to invoke it. Command-line flags and arguments have just been replaced with tools, skills, and context.<p>ChatGPT works very well for asking questions, but we aren't convinced that it's the final interface for delegating work across multiple agents. A blank text box and a list of chat threads feels limiting. An agent's capabilities are mostly invisible. With Marble, we're exploring an interface that treats AI more like a workspace than another chat app.\nEach delegated task becomes a card. Multiple jobs can sit next to each other and run at once. Files, tools, and finished artifacts are visible at once. Before a task runs, Marble also shows which tools it expects to use. The basic idea is that the user should not have to hold the entire structure of the task in their head. And the result should be something directly usable, like a spreadsheet, PowerPoint, or other file, rather than something buried in a transcript.<p>Marble is our attempt at exploring interaction models beyond the chat box. The product is mainly for people who already use ChatGPT or Claude, but haven’t really adopted agent workflows yet. We’ve found that when the tools and possible actions are made more visible, people start delegating work they would not have thought to do through normal chat.<p>The site includes a downloadable beta if you want to try it. Does Marble feel like a genuinely novel interface?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119274\">https://news.ycombinator.com/item?id=49119274</a></p>\n<p>Points: 32</p>\n<p># Comments: 15</p>",
+            "url": "https://marbleos.com/demo",
+            "published": "Fri, 31 Jul 2026 05:17:29 +0000",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa says 'nobody is selling football' as it responds to backlash over World Cup investment plan",
+            "description": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 07:51:05 GMT",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to give regional mayors share of income tax",
+            "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 07:57:13 GMT",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Satellite images show impact of heatwaves and drought on UK landscape",
+            "description": "BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 05:07:08 GMT",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Liberia burns 4.2 metric tonnes of cocaine after record drug seizure",
+            "description": "Liberian authorities burned 4.2 metric tonnes of cocaine worth about $336 million.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-liberia-cocaine-burning-lr?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 07:26:17 +0000",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
+            "description": "European football&#039;s governing body has voted to boycott FIFA if World Cup plans pursued, but global body undeterred.",
+            "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 07:25:44 +0000",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US government mislabels countries on map of Africa at global conference",
+            "description": "The US State Department acknowledged &#039;an unfortunate error&#039; after the highly inaccurate African map caused a stir.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 07:06:18 +0000",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T11:43:11+03:30"
+        }
+    ]
+}

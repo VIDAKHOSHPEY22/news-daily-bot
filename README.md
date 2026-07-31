@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 11:27:15
+**Last Update:** 2026-07-31 11:43:11
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://api-docs.deepseek.com/updates/">https://api-docs.deepseek.com/updates/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119559">https://news.ycombinator.com/item?id=49119559</a></p>
-<p>Points: 121</p>
-<p># Comments: 41</p>
+<p>Points: 148</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://api-docs.deepseek.com/updates/](https://api-docs.deepseek.com/updates/)
 
@@ -36,8 +36,8 @@
 <p>Hi HN,<p>I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.<p>I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. Also the hassle of having to download different apps for different file formats was really annoying.<p>Gander holds no permissions, not even INTERNET so the OS itself guarantees the file cannot leave the phone.<p>PDFs use Pdfium, media uses Media3, and Office formats are rendered by bundled JS libraries in a WebView and so no request goes to any server.<p>It is a viewer only. Complex PowerPoint decks come out approximately right, spreadsheet charts are not drawn, and old binary .doc and .ppt are unsupported. I'll work on it as issues come up :P<p>It is 14 MB, MIT licensed and uploaded on Github releases.<p>Do try it! I would love some feedback especially on files that render badly or need new support.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119425">https://news.ycombinator.com/item?id=49119425</a></p>
-<p>Points: 20</p>
-<p># Comments: 8</p>
+<p>Points: 25</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://github.com/mokshablr/gander](https://github.com/mokshablr/gander)
 
@@ -56,8 +56,8 @@ It didn't necessarily make entirely new things possible; it just made existing c
 Each delegated task becomes a card. Multiple jobs can sit next to each other and run at once. Files, tools, and finished artifacts are visible at once. Before a task runs, Marble also shows which tools it expects to use. The basic idea is that the user should not have to hold the entire structure of the task in their head. And the result should be something directly usable, like a spreadsheet, PowerPoint, or other file, rather than something buried in a transcript.<p>Marble is our attempt at exploring interaction models beyond the chat box. The product is mainly for people who already use ChatGPT or Claude, but haven’t really adopted agent workflows yet. We’ve found that when the tools and possible actions are made more visible, people start delegating work they would not have thought to do through normal chat.<p>The site includes a downloadable beta if you want to try it. Does Marble feel like a genuinely novel interface?</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119274">https://news.ycombinator.com/item?id=49119274</a></p>
-<p>Points: 29</p>
-<p># Comments: 13</p>
+<p>Points: 32</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://marbleos.com/demo](https://marbleos.com/demo)
 
