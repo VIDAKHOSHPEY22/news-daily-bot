@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-07-31T14:18:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/deepseek-v4-flash-ga\">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120299\">https://news.ycombinator.com/item?id=49120299</a></p>\n<p>Points: 22</p>\n<p># Comments: 6</p>",
+            "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+            "published": "Fri, 31 Jul 2026 07:59:11 +0000",
+            "fetched": "2026-07-31T14:18:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+            "description": "<p>Article URL: <a href=\"https://blog.google/security/chrome-stronger-with-every-update/\">https://blog.google/security/chrome-stronger-with-every-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120097\">https://news.ycombinator.com/item?id=49120097</a></p>\n<p>Points: 102</p>\n<p># Comments: 108</p>",
+            "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+            "published": "Fri, 31 Jul 2026 07:29:22 +0000",
+            "fetched": "2026-07-31T14:18:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek-V4-Flash Update",
+            "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/updates/\">https://api-docs.deepseek.com/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119559\">https://news.ycombinator.com/item?id=49119559</a></p>\n<p>Points: 312</p>\n<p># Comments: 143</p>",
+            "url": "https://api-docs.deepseek.com/updates/",
+            "published": "Fri, 31 Jul 2026 06:08:36 +0000",
+            "fetched": "2026-07-31T14:18:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
+            "description": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 10:46:03 GMT",
+            "fetched": "2026-07-31T14:18:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
+            "description": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 10:07:07 GMT",
+            "fetched": "2026-07-31T14:18:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Southport killer charged with prison attacks and possessing weapon",
+            "description": "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 10:19:21 GMT",
+            "fetched": "2026-07-31T14:18:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
+            "description": "Franco Baresi, who won the World Cup with Italy and was regarded as one of football&#039;s finest defenders, dies aged 66.",
+            "url": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 09:55:24 +0000",
+            "fetched": "2026-07-31T14:18:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
+            "description": "FIFA face global mutiny as Asian Football Confederation stand with Europe and North America after their boycott threats.",
+            "url": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 09:52:57 +0000",
+            "fetched": "2026-07-31T14:18:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns",
+            "description": "Pressure is growing on FIFA and its president Gianni Infantino following proposals for private investment in World Cups.",
+            "url": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 09:50:41 +0000",
+            "fetched": "2026-07-31T14:18:51+03:30"
+        }
+    ]
+}
