@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 01:03:42
+**Last Update:** 2026-08-01 01:42:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple Will 'Watch Everything Burn' When AI Bubble Bursts
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/">https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128539">https://news.ycombinator.com/item?id=49128539</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/](https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/)
-
----
-
-### 2. Loops (YC W22) Is Hiring a Product Educator
+### 1. Loops (YC W22) Is Hiring a Product Educator
 
 **Source:** Hacker News
 
@@ -42,7 +26,7 @@
 
 ---
 
-### 3. Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
+### 2. Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena
 
 **Source:** Hacker News
 
@@ -51,10 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
+
+---
+
+### 3. Show HN: How to build and self-host a code review agent
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hey HN,<p>I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.<p>You can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.<p>The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.<p><a href="https://github.com/trytilde/examples" rel="nofollow">https://github.com/trytilde/examples</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128177">https://news.ycombinator.com/item?id=49128177</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.trytilde.ai/blog/how-to-build-code-review-agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
 
 ---
 
@@ -97,42 +98,42 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 
 ---
 
-### 7. Powerful El Nino to intensify heat on ‘a planet already on fire’: UN
+### 7. Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide
+Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem ,makes early exit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss)
 
 ---
 
-### 8. Venezuela gov’t and opposition to hold talks aimed at path to elections
+### 8. Children face higher threat of US deportation as legal support deal expires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.
+Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss)
 
 ---
 
-### 9. At least 25 people killed, dozens injured in Algeria bus crash
+### 9. Cambridge students on why they protested at graduation ceremony
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 25 people have been killed and dozens others injured in a bus crash in Algeria.
+Several Cambridge students protested during their graduation ceremonies
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T01:42:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Loops (YC W22) Is Hiring a Product Educator",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+            "published": "Fri, 31 Jul 2026 21:00:40 +0000",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.28233\">https://arxiv.org/abs/2607.28233</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128323\">https://news.ycombinator.com/item?id=49128323</a></p>\n<p>Points: 10</p>\n<p># Comments: 6</p>",
+            "url": "https://arxiv.org/abs/2607.28233",
+            "published": "Fri, 31 Jul 2026 20:44:29 +0000",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: How to build and self-host a code review agent",
+            "description": "<p>Hey HN,<p>I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.<p>You can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.<p>The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.<p><a href=\"https://github.com/trytilde/examples\" rel=\"nofollow\">https://github.com/trytilde/examples</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128177\">https://news.ycombinator.com/item?id=49128177</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+            "published": "Fri, 31 Jul 2026 20:27:28 +0000",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+            "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 17:03:47 GMT",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
+            "description": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
+            "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 15:48:34 GMT",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa executive says staff 'deceived' by Infantino plans",
+            "description": "Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 21:48:49 GMT",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin",
+            "description": "Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem ,makes early exit.",
+            "url": "https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 21:49:49 +0000",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Children face higher threat of US deportation as legal support deal expires",
+            "description": "Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 21:11:57 +0000",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cambridge students on why they protested at graduation ceremony",
+            "description": "Several Cambridge students protested during their graduation ceremonies",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 20:58:14 +0000",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T01:42:00+03:30"
+        }
+    ]
+}
