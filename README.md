@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 14:18:51
+**Last Update:** 2026-07-31 14:33:03
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 4. About 49,000 migrants enter Spanish territory of Ceuta, officials say
+### 4. About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May a
 
 ---
 
-### 7. Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66
+### 7. Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tens of thousands reportedly cross from Morocco to Ceuta as France says it will tighten its borders with Spain.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss)
+
+---
+
+### 8. Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Franco Baresi, who won the World Cup with Italy and was regarded as one of footb
 
 ---
 
-### 8. AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals
+### 9. AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals
 
 **Source:** Al Jazeera
 
@@ -123,16 +136,42 @@ FIFA face global mutiny as Asian Football Confederation stand with Europe and No
 
 ---
 
-### 9. FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Pressure is growing on FIFA and its president Gianni Infantino following proposals for private investment in World Cups.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
+
+---
+
+### 11. Wildfire Duhamel, Pennington, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+
+---
+
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 
