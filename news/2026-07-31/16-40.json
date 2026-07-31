@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T16:40:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ruby Central's Destructive Legacy",
+            "description": "<p>Article URL: <a href=\"https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/\">https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49122105\">https://news.ycombinator.com/item?id=49122105</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
+            "published": "Fri, 31 Jul 2026 12:10:55 +0000",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+            "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49122034\">https://news.ycombinator.com/item?id=49122034</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://tasklet.ai/careers/customer-success-engineer",
+            "published": "Fri, 31 Jul 2026 12:00:59 +0000",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The End of an Era",
+            "description": "<p>Article URL: <a href=\"https://hughhowey.com/the-end-of-an-era/\">https://hughhowey.com/the-end-of-an-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49121980\">https://news.ycombinator.com/item?id=49121980</a></p>\n<p>Points: 87</p>\n<p># Comments: 70</p>",
+            "url": "https://hughhowey.com/the-end-of-an-era/",
+            "published": "Fri, 31 Jul 2026 11:51:46 +0000",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+            "description": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 13:04:04 GMT",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
+            "description": "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 12:14:43 GMT",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Southport killer charged with prison attacks and possessing weapon",
+            "description": "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 11:03:17 GMT",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians in Gaza react to latest ceasefire deal",
+            "description": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 12:59:48 +0000",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The waiting game: Gaza’s CT scan shortage causing worries and worse",
+            "description": "Gaza suffering from health crisis caused by a shortage of CT scan machines, leading to worsening medical issues for many.",
+            "url": "https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 12:55:32 +0000",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
+            "description": "The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 12:38:15 +0000",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T16:40:57+03:30"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 16:32:37
+**Last Update:** 2026-07-31 16:40:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -97,7 +97,33 @@ Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May a
 
 ---
 
-### 7. Approval for China’s mega embassy in London was lawful, UK court rules
+### 7. Palestinians in Gaza react to latest ceasefire deal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss)
+
+---
+
+### 8. The waiting game: Gaza’s CT scan shortage causing worries and worse
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gaza suffering from health crisis caused by a shortage of CT scan machines, leading to worsening medical issues for many.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss](https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss)
+
+---
+
+### 9. Approval for China’s mega embassy in London was lawful, UK court rules
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May a
 The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss)
-
----
-
-### 8. Inside Barcelona’s most sweltering neighbourhood: El Raval
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Densely packed apartments, low incomes, lack of tree cover and poor housing put migrant heart of the capital at risk.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/31/inside-barcelonas-most-sweltering-neighbourhood-el-raval?traffic_source=rss](https://www.aljazeera.com/features/2026/7/31/inside-barcelonas-most-sweltering-neighbourhood-el-raval?traffic_source=rss)
-
----
-
-### 9. Second day of Spain – Morocco border clashes amid mass migrant influx
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Second day of Spain - Morocco border clashes amid mass migrant influx.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss)
 
 ---
 
