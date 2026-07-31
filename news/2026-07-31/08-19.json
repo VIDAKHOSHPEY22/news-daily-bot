@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T08:19:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+            "description": "<p>Article URL: <a href=\"https://greyswansignals.com/?theme=dark\">https://greyswansignals.com/?theme=dark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49118933\">https://news.ycombinator.com/item?id=49118933</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+            "url": "https://greyswansignals.com/?theme=dark",
+            "published": "Fri, 31 Jul 2026 04:15:04 +0000",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Session You Cannot take with you",
+            "description": "<p>Article URL: <a href=\"https://earendil.com/posts/session-portability/\">https://earendil.com/posts/session-portability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49118781\">https://news.ycombinator.com/item?id=49118781</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+            "url": "https://earendil.com/posts/session-portability/",
+            "published": "Fri, 31 Jul 2026 03:47:59 +0000",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The bond market isn't buying what Fed Chair Warsh is selling",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/\">https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49118696\">https://news.ycombinator.com/item?id=49118696</a></p>\n<p>Points: 47</p>\n<p># Comments: 0</p>",
+            "url": "https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/",
+            "published": "Fri, 31 Jul 2026 03:32:21 +0000",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa says 'nobody selling football' as it presses ahead with investment plan",
+            "description": "Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 04:17:06 GMT",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to give regional mayors share of income tax",
+            "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 21:32:09 GMT",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crews tackling Suffolk wildfire say they are in better position",
+            "description": "The Suffolk Fire and Rescue Service says \"the situation appears to be stabilising\" but at least 12 fire engines will remain on scene.",
+            "url": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 01:12:58 GMT",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
+            "description": "IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 04:09:08 +0000",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Death toll from Japan earthquake climbs to 34",
+            "description": "The magnitude 7.1 quake has killed 34 people and left six more seriously injured.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 04:03:10 +0000",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "After OpenAI disclosure, Anthropic says Claude also hacked outside systems",
+            "description": "The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 04:02:03 +0000",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T08:19:42+03:30"
+        }
+    ]
+}
