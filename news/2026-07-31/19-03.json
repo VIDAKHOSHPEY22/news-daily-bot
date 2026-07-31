@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T19:03:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Detect Dark Matter's Mark from Your Backyard",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/dark-matter\">https://spectrum.ieee.org/dark-matter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49123579\">https://news.ycombinator.com/item?id=49123579</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
+            "url": "https://spectrum.ieee.org/dark-matter",
+            "published": "Fri, 31 Jul 2026 14:25:43 +0000",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Better to Beg Forgiveness",
+            "description": "<p>Article URL: <a href=\"https://pluralistic.net/2026/07/31/just-do-it/\">https://pluralistic.net/2026/07/31/just-do-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49123300\">https://news.ycombinator.com/item?id=49123300</a></p>\n<p>Points: 18</p>\n<p># Comments: 6</p>",
+            "url": "https://pluralistic.net/2026/07/31/just-do-it/",
+            "published": "Fri, 31 Jul 2026 14:05:02 +0000",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Situational Awareness Down 67% in July in AI Stock Rout",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f\">https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49122994\">https://news.ycombinator.com/item?id=49122994</a></p>\n<p>Points: 85</p>\n<p># Comments: 86</p>",
+            "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+            "published": "Fri, 31 Jul 2026 13:37:36 +0000",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+            "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 14:20:18 GMT",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Disgraced funeral boss who failed to bury bodies jailed for 20 years",
+            "description": "Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 15:25:50 GMT",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
+            "description": "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 12:14:43 GMT",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
+            "description": "FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.",
+            "url": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 15:05:55 +0000",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police chief resigns days after deadly shooting in US city of Seattle",
+            "description": "Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 14:46:09 +0000",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction",
+            "description": "Chelsea rule breaches that led to action were self-reported following takeover by Todd ⁠⁠Boehly and Clearlake Capital.",
+            "url": "https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 14:36:49 +0000",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T19:03:42+03:30"
+        }
+    ]
+}

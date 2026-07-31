@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 16:40:57
+**Last Update:** 2026-07-31 19:03:42
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ruby Central's Destructive Legacy
+### 1. Detect Dark Matter's Mark from Your Backyard
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/">https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49122105">https://news.ycombinator.com/item?id=49122105</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://spectrum.ieee.org/dark-matter">https://spectrum.ieee.org/dark-matter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49123579">https://news.ycombinator.com/item?id=49123579</a></p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
+🔗 **Read more:** [https://spectrum.ieee.org/dark-matter](https://spectrum.ieee.org/dark-matter)
 
 ---
 
-### 2. Tasklet (YC P26) Is Hiring a Customer Success Engineer
+### 2. Better to Beg Forgiveness
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49122034">https://news.ycombinator.com/item?id=49122034</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://pluralistic.net/2026/07/31/just-do-it/">https://pluralistic.net/2026/07/31/just-do-it/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49123300">https://news.ycombinator.com/item?id=49123300</a></p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://tasklet.ai/careers/customer-success-engineer](https://tasklet.ai/careers/customer-success-engineer)
+🔗 **Read more:** [https://pluralistic.net/2026/07/31/just-do-it/](https://pluralistic.net/2026/07/31/just-do-it/)
 
 ---
 
-### 3. The End of an Era
+### 3. Situational Awareness Down 67% in July in AI Stock Rout
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hughhowey.com/the-end-of-an-era/">https://hughhowey.com/the-end-of-an-era/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49121980">https://news.ycombinator.com/item?id=49121980</a></p>
-<p>Points: 87</p>
-<p># Comments: 70</p>
+<p>Article URL: <a href="https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f">https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49122994">https://news.ycombinator.com/item?id=49122994</a></p>
+<p>Points: 85</p>
+<p># Comments: 86</p>
 
-🔗 **Read more:** [https://hughhowey.com/the-end-of-an-era/](https://hughhowey.com/the-end-of-an-era/)
+🔗 **Read more:** [https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 
 ---
 
@@ -65,13 +65,26 @@
 **Category:** world
 
 **Description:**
-The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.
+Spain's prime minister described the situation as an "attack" on its North African territory and said all illegal migrants would be returned to Morocco.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan
+### 5. Disgraced funeral boss who failed to bury bodies jailed for 20 years
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Prime Minister Andy Burnham says Gianni Infantino is "the wrong man" to lead Fif
 
 ---
 
-### 6. Southport killer charged with prison attacks and possessing weapon
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Palestinians in Gaza react to latest ceasefire deal
+### 7. World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.
+FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss)
 
 ---
 
-### 8. The waiting game: Gaza’s CT scan shortage causing worries and worse
+### 8. Police chief resigns days after deadly shooting in US city of Seattle
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza suffering from health crisis caused by a shortage of CT scan machines, leading to worsening medical issues for many.
+Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss](https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss)
 
 ---
 
-### 9. Approval for China’s mega embassy in London was lawful, UK court rules
+### 9. Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.
+Chelsea rule breaches that led to action were self-reported following takeover by Todd ⁠⁠Boehly and Clearlake Capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss)
 
 ---
 
