@@ -1,84 +1,84 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 14:33:03
+**Last Update:** 2026-07-31 16:32:37
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
+### 1. Ruby Central's Destructive Legacy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/models/deepseek-v4-flash-ga">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49120299">https://news.ycombinator.com/item?id=49120299</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/">https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49122105">https://news.ycombinator.com/item?id=49122105</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/models/deepseek-v4-flash-ga](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
+🔗 **Read more:** [https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/](https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/)
 
 ---
 
-### 2. Google fixed more Chrome bugs in June than over the past two years, thanks to AI
+### 2. Tasklet (YC P26) Is Hiring a Customer Success Engineer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/security/chrome-stronger-with-every-update/">https://blog.google/security/chrome-stronger-with-every-update/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49120097">https://news.ycombinator.com/item?id=49120097</a></p>
-<p>Points: 102</p>
-<p># Comments: 108</p>
+<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49122034">https://news.ycombinator.com/item?id=49122034</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.google/security/chrome-stronger-with-every-update/](https://blog.google/security/chrome-stronger-with-every-update/)
+🔗 **Read more:** [https://tasklet.ai/careers/customer-success-engineer](https://tasklet.ai/careers/customer-success-engineer)
 
 ---
 
-### 3. DeepSeek-V4-Flash Update
+### 3. The End of an Era
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://api-docs.deepseek.com/updates/">https://api-docs.deepseek.com/updates/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49119559">https://news.ycombinator.com/item?id=49119559</a></p>
-<p>Points: 312</p>
-<p># Comments: 143</p>
+<p>Article URL: <a href="https://hughhowey.com/the-end-of-an-era/">https://hughhowey.com/the-end-of-an-era/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49121980">https://news.ycombinator.com/item?id=49121980</a></p>
+<p>Points: 87</p>
+<p># Comments: 70</p>
 
-🔗 **Read more:** [https://api-docs.deepseek.com/updates/](https://api-docs.deepseek.com/updates/)
+🔗 **Read more:** [https://hughhowey.com/the-end-of-an-era/](https://hughhowey.com/the-end-of-an-era/)
 
 ---
 
-### 4. About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say
+### 4. About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The estimated number of arrivals is more than half of the population of the city, which is about 83,600.
+The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Senior Infantino adviser quits after Asian federation opposes World Cup investment plan
+### 5. Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Asian Football Confederation "stands in solidarity" with Uefa and Concacaf in opposing controversial Fifa proposals.
+Prime Minister Andy Burnham says Gianni Infantino is "the wrong man" to lead Fifa as criticism grows of the controversial investment plan.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May a
 
 ---
 
-### 7. Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco
+### 7. Approval for China’s mega embassy in London was lawful, UK court rules
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tens of thousands reportedly cross from Morocco to Ceuta as France says it will tighten its borders with Spain.
+The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss)
 
 ---
 
-### 8. Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66
+### 8. Inside Barcelona’s most sweltering neighbourhood: El Raval
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Franco Baresi, who won the World Cup with Italy and was regarded as one of football&#039;s finest defenders, dies aged 66.
+Densely packed apartments, low incomes, lack of tree cover and poor housing put migrant heart of the capital at risk.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/7/31/inside-barcelonas-most-sweltering-neighbourhood-el-raval?traffic_source=rss](https://www.aljazeera.com/features/2026/7/31/inside-barcelonas-most-sweltering-neighbourhood-el-raval?traffic_source=rss)
 
 ---
 
-### 9. AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals
+### 9. Second day of Spain – Morocco border clashes amid mass migrant influx
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA face global mutiny as Asian Football Confederation stand with Europe and North America after their boycott threats.
+Second day of Spain - Morocco border clashes amid mass migrant influx.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss)
 
 ---
 
