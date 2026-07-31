@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T03:41:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI Aesthetic",
+            "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/ai-aesthetic/\">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117099\">https://news.ycombinator.com/item?id=49117099</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+            "published": "Thu, 30 Jul 2026 23:22:16 +0000",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116922\">https://news.ycombinator.com/item?id=49116922</a></p>\n<p>Points: 48</p>\n<p># Comments: 36</p>",
+            "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+            "published": "Thu, 30 Jul 2026 23:00:51 +0000",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I flagged two research papers for fake authors and both were accepted as orals",
+            "description": "<p>Article URL: <a href=\"https://geospatialml.com/posts/reviewing-ai-slop/\">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116721\">https://news.ycombinator.com/item?id=49116721</a></p>\n<p>Points: 42</p>\n<p># Comments: 9</p>",
+            "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+            "published": "Thu, 30 Jul 2026 22:33:11 +0000",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+            "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:47:40 GMT",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+            "description": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+            "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 00:07:17 GMT",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suffolk wildfire still growing and unpredictable, says fire service",
+            "description": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.",
+            "url": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 18:50:57 GMT",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
+            "description": "US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 23:51:40 +0000",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK left-wing MP Diane Abbott reinstated by Labour Party after suspension",
+            "description": "Diane Abbott returns to Labour, a year after her suspension over comments about racism.",
+            "url": "https://www.aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 23:29:09 +0000",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final",
+            "description": "Sri Lanka&#039;s Rumesh Pathirage is favourite ahead of rivalry between India&#039;s Neeraj Chopra and Pakistan&#039;s Arshad Nadeem.",
+            "url": "https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 23:25:48 +0000",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T03:41:03+03:30"
+        }
+    ]
+}

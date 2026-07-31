@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 02:01:52
+**Last Update:** 2026-07-31 03:41:03
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free
+### 1. The AI Aesthetic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rune.build/blog/rune-1-1-release">https://rune.build/blog/rune-1-1-release</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116272">https://news.ycombinator.com/item?id=49116272</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/ai-aesthetic/">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49117099">https://news.ycombinator.com/item?id=49117099</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://rune.build/blog/rune-1-1-release](https://rune.build/blog/rune-1-1-release)
+🔗 **Read more:** [https://blog.jim-nielsen.com/2026/ai-aesthetic/](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
 ---
 
-### 2. Agent Skill to Force Docs in ASD-STE100 Simplified Technical English
+### 2. Investigating three real-world incidents in our cybersecurity evaluations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/AminBlg/SimpleEnglish">https://github.com/AminBlg/SimpleEnglish</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49114639">https://news.ycombinator.com/item?id=49114639</a></p>
-<p>Points: 86</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116922">https://news.ycombinator.com/item?id=49116922</a></p>
+<p>Points: 48</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://github.com/AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+🔗 **Read more:** [https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
 
 ---
 
-### 3. UEFA and its national associations will not participate in FIFA competitions
+### 3. I flagged two research papers for fake authors and both were accepted as orals
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49113929">https://news.ycombinator.com/item?id=49113929</a></p>
-<p>Points: 581</p>
-<p># Comments: 336</p>
+<p>Article URL: <a href="https://geospatialml.com/posts/reviewing-ai-slop/">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116721">https://news.ycombinator.com/item?id=49116721</a></p>
+<p>Points: 42</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/](https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/)
+🔗 **Read more:** [https://geospatialml.com/posts/reviewing-ai-slop/](https://geospatialml.com/posts/reviewing-ai-slop/)
 
 ---
 
@@ -71,7 +71,20 @@ Uefa says "the World Cup is not for sale" after its 55 member associations vote 
 
 ---
 
-### 5. Suffolk wildfire still growing and unpredictable, says fire service
+### 5. Hamas says it has agreed to disarm after Trump announces Board of Peace plan
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Suffolk wildfire still growing and unpredictable, says fire service
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Firefighters expect to be at the scene on the Suffolk coast for another 48 hours
 
 ---
 
-### 6. Thousands evacuated in Crete as wildfires threaten tourist resorts
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis
+### 7. Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zoox will launch its commercial robotaxi service in Las Vegas after receiving federal clearance.
+US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/30/amazons-zoox-secures-us-federal-approval-for-steering-wheel-free-robotaxis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss)
 
 ---
 
-### 8. Why is US GDP growth slowing, and how can it be reversed?
+### 8. UK left-wing MP Diane Abbott reinstated by Labour Party after suspension
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tariffs and oil price hikes create a supply shock, dragging down US economic growth in the second quarter of 2026.
+Diane Abbott returns to Labour, a year after her suspension over comments about racism.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss](https://www.aljazeera.com/economy/2026/7/30/why-is-us-gdp-growth-slowing-and-how-can-it-be-reversed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss)
 
 ---
 
-### 9. French teen fined in Singapore over ‘straw licking’ stunt
+### 9. Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A French teenager has been fined about $465 after pleading guilty to a public nuisance charge in Singapore.
+Sri Lanka&#039;s Rumesh Pathirage is favourite ahead of rivalry between India&#039;s Neeraj Chopra and Pakistan&#039;s Arshad Nadeem.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/french-teen-fined-in-singapore-over-straw-licking-stunt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss)
 
 ---
 
