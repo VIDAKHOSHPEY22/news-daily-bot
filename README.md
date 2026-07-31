@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 03:41:03
+**Last Update:** 2026-07-31 04:30:04
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.jim-nielsen.com/2026/ai-aesthetic/">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49117099">https://news.ycombinator.com/item?id=49117099</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Points: 44</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://blog.jim-nielsen.com/2026/ai-aesthetic/](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116922">https://news.ycombinator.com/item?id=49116922</a></p>
-<p>Points: 48</p>
-<p># Comments: 36</p>
+<p>Points: 74</p>
+<p># Comments: 62</p>
 
 🔗 **Read more:** [https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://geospatialml.com/posts/reviewing-ai-slop/">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116721">https://news.ycombinator.com/item?id=49116721</a></p>
-<p>Points: 42</p>
-<p># Comments: 9</p>
+<p>Points: 58</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://geospatialml.com/posts/reviewing-ai-slop/](https://geospatialml.com/posts/reviewing-ai-slop/)
 
@@ -71,20 +71,7 @@ Uefa says "the World Cup is not for sale" after its 55 member associations vote 
 
 ---
 
-### 5. Hamas says it has agreed to disarm after Trump announces Board of Peace plan
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Suffolk wildfire still growing and unpredictable, says fire service
+### 5. Suffolk wildfire still growing and unpredictable, says fire service
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ Firefighters expect to be at the scene on the Suffolk coast for another 48 hours
 
 ---
 
-### 7. Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza
+### 6. Andy Burnham to give regional mayors share of income tax
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister says the move will give power to "every postcode" but critics say the plans lack detail.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. US Escalation with Iran is ‘pointless’, warns former US diplomat
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss)
+
+---
+
+### 8. Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss)
+
+---
+
+### 9. Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Firefighters expect to be at the scene on the Suffolk coast for another 48 hours
 US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss)
-
----
-
-### 8. UK left-wing MP Diane Abbott reinstated by Labour Party after suspension
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Diane Abbott returns to Labour, a year after her suspension over comments about racism.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss](https://www.aljazeera.com/news/2026/7/30/uk-left-wing-mp-diane-abbott-reinstated-by-labour-party-after-suspension?traffic_source=rss)
-
----
-
-### 9. Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Sri Lanka&#039;s Rumesh Pathirage is favourite ahead of rivalry between India&#039;s Neeraj Chopra and Pakistan&#039;s Arshad Nadeem.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/30/pathirage-challenges-chopra-nadeem-javelin-rivalry-in-commonwealth-final?traffic_source=rss)
 
 ---
 

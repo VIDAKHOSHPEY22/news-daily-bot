@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-07-31T04:30:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI Aesthetic",
+            "description": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/ai-aesthetic/\">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117099\">https://news.ycombinator.com/item?id=49117099</a></p>\n<p>Points: 44</p>\n<p># Comments: 25</p>",
+            "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+            "published": "Thu, 30 Jul 2026 23:22:16 +0000",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals\">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116922\">https://news.ycombinator.com/item?id=49116922</a></p>\n<p>Points: 74</p>\n<p># Comments: 62</p>",
+            "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+            "published": "Thu, 30 Jul 2026 23:00:51 +0000",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I flagged two research papers for fake authors and both were accepted as orals",
+            "description": "<p>Article URL: <a href=\"https://geospatialml.com/posts/reviewing-ai-slop/\">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116721\">https://news.ycombinator.com/item?id=49116721</a></p>\n<p>Points: 58</p>\n<p># Comments: 21</p>",
+            "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+            "published": "Thu, 30 Jul 2026 22:33:11 +0000",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+            "description": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 16:47:40 GMT",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suffolk wildfire still growing and unpredictable, says fire service",
+            "description": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.",
+            "url": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 18:50:57 GMT",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to give regional mayors share of income tax",
+            "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 21:32:09 GMT",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Escalation with Iran is ‘pointless’, warns former US diplomat",
+            "description": "As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 00:08:12 +0000",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
+            "description": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 00:03:58 +0000",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
+            "description": "US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
+            "published": "Thu, 30 Jul 2026 23:51:40 +0000",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-07-31T04:30:04+03:30"
+        }
+    ]
+}
