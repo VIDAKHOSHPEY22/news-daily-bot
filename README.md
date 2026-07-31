@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-07-31 04:30:04
+**Last Update:** 2026-07-31 07:59:57
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The AI Aesthetic
+### 1. The AI trade now runs on borrowed money, and the lenders are repricing it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/ai-aesthetic/">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49117099">https://news.ycombinator.com/item?id=49117099</a></p>
-<p>Points: 44</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://greyswansignals.com/?theme=dark">https://greyswansignals.com/?theme=dark</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118933">https://news.ycombinator.com/item?id=49118933</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.jim-nielsen.com/2026/ai-aesthetic/](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+🔗 **Read more:** [https://greyswansignals.com/?theme=dark](https://greyswansignals.com/?theme=dark)
 
 ---
 
-### 2. Investigating three real-world incidents in our cybersecurity evaluations
+### 2. The Session You Cannot take with you
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals">https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116922">https://news.ycombinator.com/item?id=49116922</a></p>
-<p>Points: 74</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://earendil.com/posts/session-portability/">https://earendil.com/posts/session-portability/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118781">https://news.ycombinator.com/item?id=49118781</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
+🔗 **Read more:** [https://earendil.com/posts/session-portability/](https://earendil.com/posts/session-portability/)
 
 ---
 
-### 3. I flagged two research papers for fake authors and both were accepted as orals
+### 3. The bond market isn't buying what Fed Chair Warsh is selling
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://geospatialml.com/posts/reviewing-ai-slop/">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49116721">https://news.ycombinator.com/item?id=49116721</a></p>
-<p>Points: 58</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/">https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49118696">https://news.ycombinator.com/item?id=49118696</a></p>
+<p>Points: 42</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://geospatialml.com/posts/reviewing-ai-slop/](https://geospatialml.com/posts/reviewing-ai-slop/)
+🔗 **Read more:** [https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/)
 
 ---
 
-### 4. European nations to boycott World Cup if Fifa goes ahead with investment plan
+### 4. Fifa says 'nobody selling football' as it presses ahead with investment plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa says "the World Cup is not for sale" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.
+Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Suffolk wildfire still growing and unpredictable, says fire service
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Andy Burnham to give regional mayors share of income tax
+### 5. Andy Burnham to give regional mayors share of income tax
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The prime minister says the move will give power to "every postcode" but critics
 
 ---
 
-### 7. US Escalation with Iran is ‘pointless’, warns former US diplomat
+### 6. Crews tackling Suffolk wildfire say they are in better position
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-As US-Iran clashes escalate, former US Ambassador to UAE Barbara Leaf warns escalation is ‘fairly pointless’.
+The Suffolk Fire and Rescue Service says "the situation appears to be stabilising" but at least 12 fire engines will remain on scene.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually
+### 7. Southern Lebanese towns near Beaufort Castle hit by Israeli strikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.
+IDF said it used 700 tonnes of explosives to destroy parts of a Hezbollah tunnel network in southern Lebanon.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726?traffic_source=rss)
 
 ---
 
-### 9. Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza
+### 8. Death toll from Japan earthquake climbs to 34
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.
+The magnitude 7.1 quake has killed 34 people and left six more seriously injured.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/death-toll-from-japan-earthquake-climbs?traffic_source=rss)
+
+---
+
+### 9. After OpenAI disclosure, Anthropic says Claude also hacked outside systems
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The incidents have heightened concerns about AI agents, software products designed to perform tasks autonomously.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/after-openai-disclosure-anthropic-claude-hacked-outside-systems?traffic_source=rss)
 
 ---
 
