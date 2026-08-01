@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 02:57:46
+**Last Update:** 2026-08-01 03:37:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -35,31 +35,44 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 21</p>
-<p># Comments: 12</p>
+<p>Points: 24</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
 ---
 
-### 3. Predictive Speculative KV Replication for Bursty LLM Inference
+### 3. Show HN: How to build and self-host a code review agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
+<p>Hey HN,<p>I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.<p>You can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.<p>The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.<p><a href="https://github.com/trytilde/examples" rel="nofollow">https://github.com/trytilde/examples</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128177">https://news.ycombinator.com/item?id=49128177</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
+🔗 **Read more:** [https://www.trytilde.ai/blog/how-to-build-code-review-agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
 
 ---
 
-### 4. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+### 4. Fifa scraps controversial World Cup investment plan
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
 
 **Source:** BBC
 
@@ -72,7 +85,7 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 
 ---
 
-### 5. Watch: Moroccan police clash with migrants near border with Spain's Ceuta
+### 6. Watch: Moroccan police clash with migrants near border with Spain's Ceuta
 
 **Source:** BBC
 
@@ -85,20 +98,33 @@ Spain's North African territory of Ceuta from Morocco, though more than 25,000 h
 
 ---
 
-### 6. Fifa executive says staff 'deceived' by Infantino plans
+### 7. Analyst: the US faces a strategic ‘dead end’ in Iran
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.
+Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss)
 
 ---
 
-### 7. Israeli settlers vandalise Palestinian cemetery in West Bank
+### 8. US proposes cuts to Colorado River use for Arizona, California and Nevada
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The proposal comes as the river faces a historic water shortage, with reservoirs reaching levels not seen since 1957.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/us-proposes-cuts-to-colorado-river-use-for-arizona-california-and-nevada?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/us-proposes-cuts-to-colorado-river-use-for-arizona-california-and-nevada?traffic_source=rss)
+
+---
+
+### 9. Israeli settlers vandalise Palestinian cemetery in West Bank
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ Fifa's chief operating officer strongly criticises Gianni Infantino's plan to se
 Israeli settlers vandalise Palestinian cemetery in West Bank
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss)
-
----
-
-### 8. US Senate’s Fauci hearing renews COVID origin debate but reveals little
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hearing underscores years-long partisan divide on lightning-rod issue fuelled by misleading White House claims.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/us-senates-fauci-hearing-renews-covid-origin-debate-but-reveals-little?traffic_source=rss)
-
----
-
-### 9. Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rumesh Tharanga Pathirage wins gold, while Neeraj Chopra takes silver, but Arshad Nadeem makes early exit.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin?traffic_source=rss)
 
 ---
 

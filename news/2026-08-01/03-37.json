@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T03:37:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Loops (YC W22) Is Hiring a Product Educator",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+            "published": "Fri, 31 Jul 2026 21:00:40 +0000",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.28233\">https://arxiv.org/abs/2607.28233</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128323\">https://news.ycombinator.com/item?id=49128323</a></p>\n<p>Points: 24</p>\n<p># Comments: 14</p>",
+            "url": "https://arxiv.org/abs/2607.28233",
+            "published": "Fri, 31 Jul 2026 20:44:29 +0000",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: How to build and self-host a code review agent",
+            "description": "<p>Hey HN,<p>I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.<p>You can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.<p>The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.<p><a href=\"https://github.com/trytilde/examples\" rel=\"nofollow\">https://github.com/trytilde/examples</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128177\">https://news.ycombinator.com/item?id=49128177</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+            "published": "Fri, 31 Jul 2026 20:27:28 +0000",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa scraps controversial World Cup investment plan",
+            "description": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 00:04:50 GMT",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+            "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 17:03:47 GMT",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
+            "description": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
+            "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 15:48:34 GMT",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Analyst: the US faces a strategic ‘dead end’ in Iran",
+            "description": "Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 23:30:54 +0000",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US proposes cuts to Colorado River use for Arizona, California and Nevada",
+            "description": "The proposal comes as the river faces a historic water shortage, with reservoirs reaching levels not seen since 1957.",
+            "url": "https://www.aljazeera.com/news/2026/7/31/us-proposes-cuts-to-colorado-river-use-for-arizona-california-and-nevada?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 23:26:26 +0000",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+            "description": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 22:12:48 +0000",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T03:37:24+03:30"
+        }
+    ]
+}
