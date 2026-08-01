@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 21:58:09
+**Last Update:** 2026-08-01 23:11:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tesla Spyware
+### 1. Postmortem for Kernel Soundness Bug #14576
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ma.tt/2026/07/tesla-spyware/">https://ma.tt/2026/07/tesla-spyware/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136134">https://news.ycombinator.com/item?id=49136134</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/">https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137060">https://news.ycombinator.com/item?id=49137060</a></p>
+<p>Points: 40</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://ma.tt/2026/07/tesla-spyware/](https://ma.tt/2026/07/tesla-spyware/)
+🔗 **Read more:** [https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
 
 ---
 
-### 2. A directory of people who love RSS
+### 2. Oil companies report sky-high profits thanks to wartime crude prices
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136063">https://news.ycombinator.com/item?id=49136063</a></p>
-<p>Points: 106</p>
-<p># Comments: 54</p>
+<p>Article URL: <a href="https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026">https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137024">https://news.ycombinator.com/item?id=49137024</a></p>
+<p>Points: 29</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://andrewshell.org/2026/07/i-%e2%99%a5-rss/](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
+🔗 **Read more:** [https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
 
 ---
 
-### 3. Kaisel – Routes as Values. Dart 3 Native Router for Flutter
+### 3. Tell HN: I hate your fuzzy search
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kaisel.dev/">https://kaisel.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135985">https://news.ycombinator.com/item?id=49135985</a></p>
-<p>Points: 22</p>
-<p># Comments: 0</p>
+<p>Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</i> over making search good and never nuked exact match for the sake of some fuzzy matching. I wish others would do the same.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136990">https://news.ycombinator.com/item?id=49136990</a></p>
+<p>Points: 57</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://kaisel.dev/](https://kaisel.dev/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49136990](https://news.ycombinator.com/item?id=49136990)
 
 ---
 
@@ -97,42 +98,81 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
+### 7. Trump denounces Justice Department decision to drop Reflecting Pool charges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 58,000 children have lost one or both parents by Israel&#039;s war, highlighting urgent humanitarian challenges.
+The US president pushes back after a federal prosecutor says damage caused by &#039;botched&#039; installation, not vandalism.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss)
 
 ---
 
-### 8. Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff
+### 8. Palestinian children among those detained in Israeli West Bank raids
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.
+Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss)
 
 ---
 
-### 9. At least 9 people killed in Russian missile attacks on Kyiv
+### 9. At least three killed in explosion near cafe in Russia’s Moscow
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.
+⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss)
+
+---
+
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
+
+---
+
+### 11. Wildfire Duhamel, Pennington, South Dakota
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+
+---
+
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T23:11:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Postmortem for Kernel Soundness Bug #14576",
+            "description": "<p>Article URL: <a href=\"https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/\">https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49137060\">https://news.ycombinator.com/item?id=49137060</a></p>\n<p>Points: 40</p>\n<p># Comments: 14</p>",
+            "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+            "published": "Sat, 01 Aug 2026 18:32:20 +0000",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oil companies report sky-high profits thanks to wartime crude prices",
+            "description": "<p>Article URL: <a href=\"https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026\">https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49137024\">https://news.ycombinator.com/item?id=49137024</a></p>\n<p>Points: 29</p>\n<p># Comments: 32</p>",
+            "url": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
+            "published": "Sat, 01 Aug 2026 18:28:06 +0000",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tell HN: I hate your fuzzy search",
+            "description": "<p>Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</i> over making search good and never nuked exact match for the sake of some fuzzy matching. I wish others would do the same.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136990\">https://news.ycombinator.com/item?id=49136990</a></p>\n<p>Points: 57</p>\n<p># Comments: 28</p>",
+            "url": "https://news.ycombinator.com/item?id=49136990",
+            "published": "Sat, 01 Aug 2026 18:25:00 +0000",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+            "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:46:08 GMT",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Call for 'full review' as pressure grows on Infantino",
+            "description": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 17:07:46 GMT",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:25:30 GMT",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
+            "description": "The US president pushes back after a federal prosecutor says damage caused by &#039;botched&#039; installation, not vandalism.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 19:08:12 +0000",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian children among those detained in Israeli West Bank raids",
+            "description": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 18:51:14 +0000",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least three killed in explosion near cafe in Russia’s Moscow",
+            "description": "⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 18:22:35 +0000",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T23:11:53+03:30"
+        }
+    ]
+}
