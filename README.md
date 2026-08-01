@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 23:11:53
+**Last Update:** 2026-08-01 23:43:05
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Postmortem for Kernel Soundness Bug #14576
+### 1. Top amputation surgeon had own legs removed due to fetish. Were patients safe?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions">https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137808">https://news.ycombinator.com/item?id=49137808</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions](https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions)
+
+---
+
+### 2. Google News is just Forrest Gump's shrimp boat now
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now">https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137681">https://news.ycombinator.com/item?id=49137681</a></p>
+<p>Points: 3</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now)
+
+---
+
+### 3. Postmortem for Kernel Soundness Bug #14576
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/">https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137060">https://news.ycombinator.com/item?id=49137060</a></p>
-<p>Points: 40</p>
-<p># Comments: 14</p>
+<p>Points: 53</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
-
----
-
-### 2. Oil companies report sky-high profits thanks to wartime crude prices
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026">https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49137024">https://news.ycombinator.com/item?id=49137024</a></p>
-<p>Points: 29</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026](https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026)
-
----
-
-### 3. Tell HN: I hate your fuzzy search
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Not just HN the site, everyone’s fuzzy search sucks. Let me do exact match search. Even if it’s an option I have to dig deep to find.<p>When I ran a site that had lots of search use I <i>agonized</i> over making search good and never nuked exact match for the sake of some fuzzy matching. I wish others would do the same.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136990">https://news.ycombinator.com/item?id=49136990</a></p>
-<p>Points: 57</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49136990](https://news.ycombinator.com/item?id=49136990)
 
 ---
 
