@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T18:08:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+            "description": "<p>Article URL: <a href=\"https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/\">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49134694\">https://news.ycombinator.com/item?id=49134694</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+            "published": "Sat, 01 Aug 2026 14:19:51 +0000",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+            "description": "<p>Article URL: <a href=\"https://github.com/BurntSushi/ripgrep/issues/3494\">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133889\">https://news.ycombinator.com/item?id=49133889</a></p>\n<p>Points: 89</p>\n<p># Comments: 47</p>",
+            "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+            "published": "Sat, 01 Aug 2026 12:34:25 +0000",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Astro Loop",
+            "description": "<p>Article URL: <a href=\"https://pubdeer.com/\">https://pubdeer.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133777\">https://news.ycombinator.com/item?id=49133777</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://pubdeer.com/",
+            "published": "Sat, 01 Aug 2026 12:17:48 +0000",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+            "description": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 09:51:05 GMT",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+            "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 12:43:21 GMT",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 14:11:40 GMT",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India cracks down on protesters accused of ‘abusing’ Modi",
+            "description": "Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 14:28:20 +0000",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike destroys Gaza hospital warehouse",
+            "description": "Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyrs Hospital, staff say.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 14:07:36 +0000",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
+            "description": "Backlash to FIFA&#039;s private investment plan for World Cups and events was huge; now football reacts to U-turn&#039;s fallout.",
+            "url": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 13:59:19 +0000",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T18:08:30+03:30"
+        }
+    ]
+}
