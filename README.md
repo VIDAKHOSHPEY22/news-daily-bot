@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 18:08:30
+**Last Update:** 2026-08-01 19:02:29
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134694">https://news.ycombinator.com/item?id=49134694</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 78</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
 
 ---
 
-### 2. RipGrep musl binaries occasionally segfault during very-large searches
+### 2. The Art of 64-bit Assembly
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nostarch.com/art-64-bit-assembly-v2">https://nostarch.com/art-64-bit-assembly-v2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134599">https://news.ycombinator.com/item?id=49134599</a></p>
+<p>Points: 27</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://nostarch.com/art-64-bit-assembly-v2](https://nostarch.com/art-64-bit-assembly-v2)
+
+---
+
+### 3. RipGrep musl binaries occasionally segfault during very-large searches
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133889">https://news.ycombinator.com/item?id=49133889</a></p>
-<p>Points: 89</p>
-<p># Comments: 47</p>
+<p>Points: 123</p>
+<p># Comments: 74</p>
 
 🔗 **Read more:** [https://github.com/BurntSushi/ripgrep/issues/3494](https://github.com/BurntSushi/ripgrep/issues/3494)
-
----
-
-### 3. Astro Loop
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pubdeer.com/">https://pubdeer.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133777">https://news.ycombinator.com/item?id=49133777</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://pubdeer.com/](https://pubdeer.com/)
 
 ---
 
