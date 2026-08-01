@@ -1,48 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 20:58:37
+**Last Update:** 2026-08-01 21:34:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Assessment of open AI math results
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/stalkermustang/status/2083485500250198453">https://twitter.com/stalkermustang/status/2083485500250198453</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136236">https://news.ycombinator.com/item?id=49136236</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://twitter.com/stalkermustang/status/2083485500250198453](https://twitter.com/stalkermustang/status/2083485500250198453)
-
----
-
-### 2. Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html">https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136104">https://news.ycombinator.com/item?id=49136104</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)
-
----
-
-### 3. I ♥ RSS – A directory of people who love RSS
+### 1. A directory of people who love RSS
 
 **Source:** Hacker News
 
@@ -51,10 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136063">https://news.ycombinator.com/item?id=49136063</a></p>
-<p>Points: 38</p>
-<p># Comments: 23</p>
+<p>Points: 99</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://andrewshell.org/2026/07/i-%e2%99%a5-rss/](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
+
+---
+
+### 2. Kaisel – Routes as Values. Dart 3 Native Router for Flutter
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://kaisel.dev/">https://kaisel.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135985">https://news.ycombinator.com/item?id=49135985</a></p>
+<p>Points: 19</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://kaisel.dev/](https://kaisel.dev/)
+
+---
+
+### 3. Pgtestdb's template cloning approach to testing is fast
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135546">https://news.ycombinator.com/item?id=49135546</a></p>
+<p>Points: 27</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://brandur.org/fragments/pgtestdb](https://brandur.org/fragments/pgtestdb)
 
 ---
 
@@ -97,7 +97,33 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Turkiye and Iraq sign one-year oil pipeline deal amid global shift
+### 7. Care for a dirty soda? How this drink trend became a US obsession
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss)
+
+---
+
+### 8. Israeli forces detain residents and demolish homes in southern Syria
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria&#039;s southern provinces.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss)
+
+---
+
+### 9. Turkiye and Iraq sign one-year oil pipeline deal amid global shift
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss)
-
----
-
-### 8. Moroccan rapper Mehdi El Youbi temporarily released from prison
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The outspoken artist was detained in mid-July for ‘insulting a constitutional institution&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss)
-
----
-
-### 9. Israeli strikes kill four across Gaza, destroy medical supply warehouse
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss)
 
 ---
 

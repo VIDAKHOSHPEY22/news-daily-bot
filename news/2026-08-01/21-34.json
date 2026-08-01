@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T21:34:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A directory of people who love RSS",
+            "description": "<p>Article URL: <a href=\"https://andrewshell.org/2026/07/i-%e2%99%a5-rss/\">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136063\">https://news.ycombinator.com/item?id=49136063</a></p>\n<p>Points: 99</p>\n<p># Comments: 44</p>",
+            "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+            "published": "Sat, 01 Aug 2026 16:52:41 +0000",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+            "description": "<p>Article URL: <a href=\"https://kaisel.dev/\">https://kaisel.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135985\">https://news.ycombinator.com/item?id=49135985</a></p>\n<p>Points: 19</p>\n<p># Comments: 0</p>",
+            "url": "https://kaisel.dev/",
+            "published": "Sat, 01 Aug 2026 16:45:40 +0000",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pgtestdb's template cloning approach to testing is fast",
+            "description": "<p>Article URL: <a href=\"https://brandur.org/fragments/pgtestdb\">https://brandur.org/fragments/pgtestdb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135546\">https://news.ycombinator.com/item?id=49135546</a></p>\n<p>Points: 27</p>\n<p># Comments: 8</p>",
+            "url": "https://brandur.org/fragments/pgtestdb",
+            "published": "Sat, 01 Aug 2026 16:01:22 +0000",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+            "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:46:08 GMT",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Call for 'full review' as pressure grows on Infantino",
+            "description": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 17:07:46 GMT",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:25:30 GMT",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Care for a dirty soda? How this drink trend became a US obsession",
+            "description": "How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.",
+            "url": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 17:37:34 +0000",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces detain residents and demolish homes in southern Syria",
+            "description": "Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria&#039;s southern provinces.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 17:28:52 +0000",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
+            "description": "The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 16:43:34 +0000",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T21:34:52+03:30"
+        }
+    ]
+}
