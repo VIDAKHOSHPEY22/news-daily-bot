@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T19:37:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitHub has alternatives, but no replacement",
+            "description": "<p>Article URL: <a href=\"https://lalitm.com/post/github-alternatives/\">https://lalitm.com/post/github-alternatives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135365\">https://news.ycombinator.com/item?id=49135365</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://lalitm.com/post/github-alternatives/",
+            "published": "Sat, 01 Aug 2026 15:39:31 +0000",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+            "description": "<p>Article URL: <a href=\"https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/\">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49134694\">https://news.ycombinator.com/item?id=49134694</a></p>\n<p>Points: 107</p>\n<p># Comments: 37</p>",
+            "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+            "published": "Sat, 01 Aug 2026 14:19:51 +0000",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Art of 64-bit Assembly",
+            "description": "<p>Article URL: <a href=\"https://nostarch.com/art-64-bit-assembly-v2\">https://nostarch.com/art-64-bit-assembly-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49134599\">https://news.ycombinator.com/item?id=49134599</a></p>\n<p>Points: 40</p>\n<p># Comments: 3</p>",
+            "url": "https://nostarch.com/art-64-bit-assembly-v2",
+            "published": "Sat, 01 Aug 2026 14:09:00 +0000",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+            "description": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 09:51:05 GMT",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+            "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:46:08 GMT",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:25:30 GMT",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 11 wounded by Colombia car bomb days before presidential election",
+            "description": "President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 15:48:39 +0000",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
+            "description": "Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 15:34:15 +0000",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India cracks down on protesters accused of ‘abusing’ Modi",
+            "description": "Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 14:28:20 +0000",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T19:37:15+03:30"
+        }
+    ]
+}
