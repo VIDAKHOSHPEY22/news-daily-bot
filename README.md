@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 13:43:28
+**Last Update:** 2026-08-01 15:07:59
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
-<p>Points: 64</p>
-<p># Comments: 19</p>
+<p>Points: 100</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
 
 ---
 
-### 2. How to Do Great Work
+### 2. How to Do Great Work (2023)
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycombinator.com/item?id=49132289</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 31</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://paulgraham.com/greatwork.html](https://paulgraham.com/greatwork.html)
 
@@ -51,27 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
-<p>Points: 44</p>
-<p># Comments: 21</p>
+<p>Points: 134</p>
+<p># Comments: 114</p>
 
 🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
-### 4. Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped
+### 4. Uefa has 'lost confidence' in Infantino's Fifa leadership
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.
+The governing body of European football says Fifa president Gianni Infantino has "failed to deliver" on promises he made when elected 10 years ago.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Sir John Curtice: The "Burnham bounce" is real but it's not massive
+### 5. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta "shocking".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Sir John Curtice: The "Burnham bounce" is real but it's not massive
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The governing party's poll ratings have improved but they're only just ahead of 
 
 ---
 
-### 6. Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
+### 7. Vanishing forests: Why is the Philippines failing at reforestation?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.
+101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss)
 
 ---
 
-### 8. Beneath Tunisia’s silence, public anger simmers
+### 8. Spain says migrants in Ceuta have returned to Morocco
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.
+Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss)
 
 ---
 
-### 9. Sri Lanka sentences two officials to death for not stopping Easter bombings
+### 9. Trump mimics sound of Patriot missile interceptions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sri Lanka sentences two officials to death for not stopping 2019 Easter bombings.
+US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss)
 
 ---
 
