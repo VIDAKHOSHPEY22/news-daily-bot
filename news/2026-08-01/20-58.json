@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T20:58:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Assessment of open AI math results",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/stalkermustang/status/2083485500250198453\">https://twitter.com/stalkermustang/status/2083485500250198453</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136236\">https://news.ycombinator.com/item?id=49136236</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://twitter.com/stalkermustang/status/2083485500250198453",
+            "published": "Sat, 01 Aug 2026 17:08:03 +0000",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html\">https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136104\">https://news.ycombinator.com/item?id=49136104</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
+            "published": "Sat, 01 Aug 2026 16:56:25 +0000",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I ♥ RSS – A directory of people who love RSS",
+            "description": "<p>Article URL: <a href=\"https://andrewshell.org/2026/07/i-%e2%99%a5-rss/\">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136063\">https://news.ycombinator.com/item?id=49136063</a></p>\n<p>Points: 38</p>\n<p># Comments: 23</p>",
+            "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+            "published": "Sat, 01 Aug 2026 16:52:41 +0000",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+            "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:46:08 GMT",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Call for 'full review' as pressure grows on Infantino",
+            "description": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 17:07:46 GMT",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:25:30 GMT",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
+            "description": "The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 16:43:34 +0000",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moroccan rapper Mehdi El Youbi temporarily released from prison",
+            "description": "The outspoken artist was detained in mid-July for ‘insulting a constitutional institution&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 16:15:24 +0000",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+            "description": "Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 16:07:10 +0000",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T20:58:37+03:30"
+        }
+    ]
+}

@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 19:37:15
+**Last Update:** 2026-08-01 20:58:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. GitHub has alternatives, but no replacement
+### 1. Assessment of open AI math results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lalitm.com/post/github-alternatives/">https://lalitm.com/post/github-alternatives/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135365">https://news.ycombinator.com/item?id=49135365</a></p>
+<p>Article URL: <a href="https://twitter.com/stalkermustang/status/2083485500250198453">https://twitter.com/stalkermustang/status/2083485500250198453</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136236">https://news.ycombinator.com/item?id=49136236</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://twitter.com/stalkermustang/status/2083485500250198453](https://twitter.com/stalkermustang/status/2083485500250198453)
+
+---
+
+### 2. Floundering A.I. 'Nostradamus' Hedge Fund Is Rescued by Rival
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html">https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136104">https://news.ycombinator.com/item?id=49136104</a></p>
 <p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://lalitm.com/post/github-alternatives/](https://lalitm.com/post/github-alternatives/)
+🔗 **Read more:** [https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html](https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html)
 
 ---
 
-### 2. A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
+### 3. I ♥ RSS – A directory of people who love RSS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/">https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134694">https://news.ycombinator.com/item?id=49134694</a></p>
-<p>Points: 107</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136063">https://news.ycombinator.com/item?id=49136063</a></p>
+<p>Points: 38</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
-
----
-
-### 3. The Art of 64-bit Assembly
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nostarch.com/art-64-bit-assembly-v2">https://nostarch.com/art-64-bit-assembly-v2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49134599">https://news.ycombinator.com/item?id=49134599</a></p>
-<p>Points: 40</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://nostarch.com/art-64-bit-assembly-v2](https://nostarch.com/art-64-bit-assembly-v2)
+🔗 **Read more:** [https://andrewshell.org/2026/07/i-%e2%99%a5-rss/](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
 
 ---
 
-### 4. Uefa has 'lost confidence' in Infantino's Fifa leadership
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The governing body of European football says Fifa president Gianni Infantino has "failed to deliver" on promises he made when elected 10 years ago.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
+### 4. Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ The governing body of European football says Fifa president Gianni Infantino has
 Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta "shocking".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Call for 'full review' as pressure grows on Infantino
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. At least 11 wounded by Colombia car bomb days before presidential election
+### 7. Turkiye and Iraq sign one-year oil pipeline deal amid global shift
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.
+The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss)
 
 ---
 
-### 8. Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings
+### 8. Moroccan rapper Mehdi El Youbi temporarily released from prison
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.
+The outspoken artist was detained in mid-July for ‘insulting a constitutional institution&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss)
 
 ---
 
-### 9. India cracks down on protesters accused of ‘abusing’ Modi
+### 9. Israeli strikes kill four across Gaza, destroy medical supply warehouse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.
+Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss)
 
 ---
 
