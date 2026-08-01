@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 11:09:28
+**Last Update:** 2026-08-01 13:36:58
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ten Ways NAS Is Getting Enshitified
+### 1. RamenHaus
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131367">https://news.ycombinator.com/item?id=49131367</a></p>
-<p>Points: 37</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/](https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/)
-
----
-
-### 2. What Liberal Arts Education Is for (2024)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://innig.net/teaching/liberal-arts-manifesto">https://innig.net/teaching/liberal-arts-manifesto</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49131034">https://news.ycombinator.com/item?id=49131034</a></p>
-<p>Points: 34</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://innig.net/teaching/liberal-arts-manifesto](https://innig.net/teaching/liberal-arts-manifesto)
-
----
-
-### 3. The development pipeline is a production system
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49130726">https://news.ycombinator.com/item?id=49130726</a></p>
+<p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
 <p>Points: 64</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
+
+---
+
+### 2. How to Do Great Work
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycombinator.com/item?id=49132289</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://paulgraham.com/greatwork.html](https://paulgraham.com/greatwork.html)
+
+---
+
+### 3. AI doesn't generate working products, that's still your job
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
+<p>Points: 44</p>
 <p># Comments: 21</p>
 
-🔗 **Read more:** [https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
 
 ---
 
-### 4. Fifa scraps World Cup investment plan after outcry
+### 4. Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had "created divisions" and would not go ahead.
+Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Labour's Bev Craig secures nearly double the number of votes won by Reform UK's 
 
 ---
 
-### 6. Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+### 6. Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.
+Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Protesters detained at rally in support of Pakistan-administered Kashmir
+### 7. Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.
+Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss)
 
 ---
 
-### 8. US drops charges against Olympian for damage to Reflecting Pool
+### 8. Beneath Tunisia’s silence, public anger simmers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US Department of Justice has moved to dismiss its case against Olympian David Hearn.
+Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss)
 
 ---
 
-### 9. Peru’s ex-president Humala released after conviction overturned
+### 9. Sri Lanka sentences two officials to death for not stopping Easter bombings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.
+Sri Lanka sentences two officials to death for not stopping 2019 Easter bombings.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss)
 
 ---
 
