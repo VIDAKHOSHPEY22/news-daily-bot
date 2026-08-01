@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 01:47:07
+**Last Update:** 2026-08-02 02:54:19
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. YC founder asks desperate job seekers to tattoo themselves for an interview
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/">https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138443">https://news.ycombinator.com/item?id=49138443</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)
-
----
-
-### 2. Seedance 2.5
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138302">https://news.ycombinator.com/item?id=49138302</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
-
----
-
-### 3. Diátaxis
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://diataxis.fr/">https://diataxis.fr/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138188">https://news.ycombinator.com/item?id=49138188</a></p>
-<p>Points: 55</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://diataxis.fr/](https://diataxis.fr/)
-
----
-
-### 4. EU calls emergency meeting to discuss Ceuta migrant crossings
+### 1. EU calls emergency meeting to discuss Ceuta migrant crossings
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ There have been tense exchanges between Spain and other EU states over the influ
 
 ---
 
-### 5. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
+### 2. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
 
 **Source:** BBC
 
@@ -84,20 +36,46 @@ The pressure is building on Gianni Infantino. Can he survive as Fifa president?
 
 ---
 
-### 6. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
+### 3. Young guns for hire - the teenage hitmen recruited to kill across Europe
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.
+The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?
+### 4. Michigan joins Minnesota in reporting cyberattacks, with FBI investigating
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss)
+
+---
+
+### 5. US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss)
+
+---
+
+### 6. Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and 
 
 ---
 
-### 8. Al Jazeera reports from Ceuta as migrants leave the enclave
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss)
-
----
-
-### 9. Police say 13 killed as small plane viewing Nazca Lines in Peru crashes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Those killed included 11 passengers and two pilots flying over the famous archeological site, recognised by UNESCO.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 8. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 9. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
