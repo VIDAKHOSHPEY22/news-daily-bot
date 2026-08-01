@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 00:43:28
+**Last Update:** 2026-08-02 01:32:23
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. EU calls emergency meeting to discuss Ceuta migrant crossings
+### 1. YC founder asks desperate job seekers to tattoo themselves for an interview
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/">https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138443">https://news.ycombinator.com/item?id=49138443</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/](https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/)
+
+---
+
+### 2. Seedance 2.5
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138302">https://news.ycombinator.com/item?id=49138302</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
+
+---
+
+### 3. Diátaxis
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://diataxis.fr/">https://diataxis.fr/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49138188">https://news.ycombinator.com/item?id=49138188</a></p>
+<p>Points: 55</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://diataxis.fr/](https://diataxis.fr/)
+
+---
+
+### 4. EU calls emergency meeting to discuss Ceuta migrant crossings
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ There have been tense exchanges between Spain and other EU states over the influ
 
 ---
 
-### 2. Call for 'full review' as pressure grows on Infantino
+### 5. Call for 'full review' as pressure grows on Infantino
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The leadership of Fifa is publicly questioned by football's governing bodies in 
 
 ---
 
-### 3. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
+### 6. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 4. Police say 13 killed as small plane viewing Nazca Lines in Peru crashes
+### 7. Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss)
+
+---
+
+### 8. Al Jazeera reports from Ceuta as migrants leave the enclave
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss)
+
+---
+
+### 9. Police say 13 killed as small plane viewing Nazca Lines in Peru crashes
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Those killed included 11 passengers and two pilots flying over the famous archeo
 
 ---
 
-### 5. Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame?traffic_source=rss)
-
----
-
-### 6. Greece battles raging wildfires as flames appear to ease in France
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-French wildfires show signs of easing, with containment efforts holding in Var and Gironde after destructive blazes.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss)
-
----
-
-### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Duhamel, Pennington, South Dakota
+### 11. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
