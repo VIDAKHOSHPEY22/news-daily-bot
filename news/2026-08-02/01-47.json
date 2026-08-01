@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T01:47:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "YC founder asks desperate job seekers to tattoo themselves for an interview",
+            "description": "<p>Article URL: <a href=\"https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/\">https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138443\">https://news.ycombinator.com/item?id=49138443</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://sfstandard.com/2026/07/30/lemonlime-tattoo-job-interview/",
+            "published": "Sat, 01 Aug 2026 21:02:07 +0000",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Seedance 2.5",
+            "description": "<p>Article URL: <a href=\"https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5\">https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138302\">https://news.ycombinator.com/item?id=49138302</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+            "published": "Sat, 01 Aug 2026 20:45:12 +0000",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Diátaxis",
+            "description": "<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49138188\">https://news.ycombinator.com/item?id=49138188</a></p>\n<p>Points: 55</p>\n<p># Comments: 7</p>",
+            "url": "https://diataxis.fr/",
+            "published": "Sat, 01 Aug 2026 20:33:27 +0000",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+            "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+            "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 20:09:27 GMT",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+            "description": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 22:03:13 GMT",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:25:30 GMT",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
+            "description": "What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?",
+            "url": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 21:42:26 +0000",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
+            "description": "Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 21:15:50 +0000",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
+            "description": "Those killed included 11 passengers and two pilots flying over the famous archeological site, recognised by UNESCO.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 20:57:04 +0000",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T01:47:07+03:30"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 01:32:23
+**Last Update:** 2026-08-02 01:47:07
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -71,16 +71,16 @@ There have been tense exchanges between Spain and other EU states over the influ
 
 ---
 
-### 5. Call for 'full review' as pressure grows on Infantino
+### 5. A bruising 24 hours - what next for Fifa and under-pressure Infantino?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.
+The pressure is building on Gianni Infantino. Can he survive as Fifa president?
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss)
 
 ---
 
