@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 03:37:24
+**Last Update:** 2026-08-01 04:32:01
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -35,27 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.28233">https://arxiv.org/abs/2607.28233</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128323">https://news.ycombinator.com/item?id=49128323</a></p>
-<p>Points: 24</p>
-<p># Comments: 14</p>
+<p>Points: 27</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.28233](https://arxiv.org/abs/2607.28233)
 
 ---
 
-### 3. Show HN: How to build and self-host a code review agent
+### 3. Predictive Speculative KV Replication for Bursty LLM Inference
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hey HN,<p>I've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.<p>You can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.<p>The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API.<p><a href="https://github.com/trytilde/examples" rel="nofollow">https://github.com/trytilde/examples</a></p>
+<p><a href="https://github.com/jwlaboratory/bite-the-bullet" rel="nofollow">https://github.com/jwlaboratory/bite-the-bullet</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49128177">https://news.ycombinator.com/item?id=49128177</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49127874">https://news.ycombinator.com/item?id=49127874</a></p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.trytilde.ai/blog/how-to-build-code-review-agent](https://www.trytilde.ai/blog/how-to-build-code-review-agent)
+🔗 **Read more:** [https://jwlabs.vercel.app/post/biting-the-bullet](https://jwlabs.vercel.app/post/biting-the-bullet)
 
 ---
 
@@ -85,55 +85,55 @@ Spain said most had returned to Morocco by Friday evening, as Italy suspended it
 
 ---
 
-### 6. Watch: Moroccan police clash with migrants near border with Spain's Ceuta
+### 6. What triggered the mass migrant crossings into Ceuta?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.
+An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Analyst: the US faces a strategic ‘dead end’ in Iran
+### 7. Trump administration to dismiss Reflecting Pool charges against David Hearn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington has reached a strategic impasse with Iran, says a former analyst for the US Congress.
+US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of &#039;botched installation&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss)
 
 ---
 
-### 8. US proposes cuts to Colorado River use for Arizona, California and Nevada
+### 8. Iran war live: Trump threatens strikes, Iran says it has a plan to respond
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The proposal comes as the river faces a historic water shortage, with reservoirs reaching levels not seen since 1957.
+An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/7/31/us-proposes-cuts-to-colorado-river-use-for-arizona-california-and-nevada?traffic_source=rss](https://www.aljazeera.com/news/2026/7/31/us-proposes-cuts-to-colorado-river-use-for-arizona-california-and-nevada?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss)
 
 ---
 
-### 9. Israeli settlers vandalise Palestinian cemetery in West Bank
+### 9. FIFA’s Infantino scraps controversial World Cup private investment plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers vandalise Palestinian cemetery in West Bank
+FIFA and its President Gianni Infantino faced fierce backlash from across football to plans to sell stake in World Cup.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss](https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss)
 
 ---
 

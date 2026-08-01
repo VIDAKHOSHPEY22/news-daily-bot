@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T04:32:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Loops (YC W22) Is Hiring a Product Educator",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+            "published": "Fri, 31 Jul 2026 21:00:40 +0000",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.28233\">https://arxiv.org/abs/2607.28233</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128323\">https://news.ycombinator.com/item?id=49128323</a></p>\n<p>Points: 27</p>\n<p># Comments: 16</p>",
+            "url": "https://arxiv.org/abs/2607.28233",
+            "published": "Fri, 31 Jul 2026 20:44:29 +0000",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+            "description": "<p><a href=\"https://github.com/jwlaboratory/bite-the-bullet\" rel=\"nofollow\">https://github.com/jwlaboratory/bite-the-bullet</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127874\">https://news.ycombinator.com/item?id=49127874</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
+            "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+            "published": "Fri, 31 Jul 2026 19:55:41 +0000",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa scraps controversial World Cup investment plan",
+            "description": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 00:12:06 GMT",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+            "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 17:03:47 GMT",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What triggered the mass migrant crossings into Ceuta?",
+            "description": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+            "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 18:29:04 GMT",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration to dismiss Reflecting Pool charges against David Hearn",
+            "description": "US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of &#039;botched installation&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 00:02:37 +0000",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
+            "description": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 23:59:40 +0000",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA’s Infantino scraps controversial World Cup private investment plan",
+            "description": "FIFA and its President Gianni Infantino faced fierce backlash from across football to plans to sell stake in World Cup.",
+            "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+            "published": "Fri, 31 Jul 2026 23:47:35 +0000",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T04:32:01+03:30"
+        }
+    ]
+}
