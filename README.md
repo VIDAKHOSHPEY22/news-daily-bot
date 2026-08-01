@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 15:36:53
+**Last Update:** 2026-08-01 17:33:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. RamenHaus
+### 1. RipGrep musl binaries occasionally segfault during very-large searches
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
-<p>Points: 104</p>
-<p># Comments: 55</p>
+<p>Article URL: <a href="https://github.com/BurntSushi/ripgrep/issues/3494">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133889">https://news.ycombinator.com/item?id=49133889</a></p>
+<p>Points: 70</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
+🔗 **Read more:** [https://github.com/BurntSushi/ripgrep/issues/3494](https://github.com/BurntSushi/ripgrep/issues/3494)
 
 ---
 
-### 2. How to Do Great Work (2023)
+### 2. Astro Loop
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycombinator.com/item?id=49132289</a></p>
-<p>Points: 35</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://pubdeer.com/">https://pubdeer.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133777">https://news.ycombinator.com/item?id=49133777</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://paulgraham.com/greatwork.html](https://paulgraham.com/greatwork.html)
+🔗 **Read more:** [https://pubdeer.com/](https://pubdeer.com/)
 
 ---
 
-### 3. AI doesn't generate working products, that's still your job
+### 3. Kontigo (YC S24) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
-<p>Points: 155</p>
-<p># Comments: 129</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49133655">https://news.ycombinator.com/item?id=49133655</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer)
 
 ---
 
@@ -84,55 +84,55 @@ Italy has temporarily suspended the Schengen arrangement with Spain as Prime Min
 
 ---
 
-### 6. Sir John Curtice: The "Burnham bounce" is real but it's not massive
+### 6. Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The governing party's poll ratings have improved but they're only just ahead of Reform
+The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. FIFA World Cup crisis: Who could replace Infantino as president?
+### 7. Most Australian teens still online three months after under-16 ban
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?
+The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss)
 
 ---
 
-### 8. Vanishing forests: Why is the Philippines failing at reforestation?
+### 8. Spain says migrants leaving Ceuta after mass influx in which 67 died
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.
+Spain’s foreign minister maintains &#039;the integrity of the Schengen area is absolutely guaranteed&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss)
 
 ---
 
-### 9. Spain says migrants in Ceuta have returned to Morocco
+### 9. Iran warns against ‘flames of war’ amid US strike threats on energy sites
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.
+Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss)
 
 ---
 

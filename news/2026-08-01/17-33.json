@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T17:33:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+            "description": "<p>Article URL: <a href=\"https://github.com/BurntSushi/ripgrep/issues/3494\">https://github.com/BurntSushi/ripgrep/issues/3494</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133889\">https://news.ycombinator.com/item?id=49133889</a></p>\n<p>Points: 70</p>\n<p># Comments: 26</p>",
+            "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+            "published": "Sat, 01 Aug 2026 12:34:25 +0000",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Astro Loop",
+            "description": "<p>Article URL: <a href=\"https://pubdeer.com/\">https://pubdeer.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133777\">https://news.ycombinator.com/item?id=49133777</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://pubdeer.com/",
+            "published": "Sat, 01 Aug 2026 12:17:48 +0000",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kontigo (YC S24) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer\">https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133655\">https://news.ycombinator.com/item?id=49133655</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+            "published": "Sat, 01 Aug 2026 12:00:25 +0000",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+            "description": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 09:51:05 GMT",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+            "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 12:43:21 GMT",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "description": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 13:02:04 GMT",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Most Australian teens still online three months after under-16 ban",
+            "description": "The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 13:10:47 +0000",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain says migrants leaving Ceuta after mass influx in which 67 died",
+            "description": "Spain’s foreign minister maintains &#039;the integrity of the Schengen area is absolutely guaranteed&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 12:57:13 +0000",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+            "description": "Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 12:44:54 +0000",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T17:33:19+03:30"
+        }
+    ]
+}
