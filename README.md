@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 15:07:59
+**Last Update:** 2026-08-01 15:36:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://ramen.haus/">https://ramen.haus/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132460">https://news.ycombinator.com/item?id=49132460</a></p>
-<p>Points: 100</p>
-<p># Comments: 52</p>
+<p>Points: 104</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [https://ramen.haus/](https://ramen.haus/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://paulgraham.com/greatwork.html">https://paulgraham.com/greatwork.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132289">https://news.ycombinator.com/item?id=49132289</a></p>
-<p>Points: 31</p>
-<p># Comments: 17</p>
+<p>Points: 35</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://paulgraham.com/greatwork.html](https://paulgraham.com/greatwork.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://weeraman.com/the-prototype-isnt-the-product/">https://weeraman.com/the-prototype-isnt-the-product/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49132130">https://news.ycombinator.com/item?id=49132130</a></p>
-<p>Points: 134</p>
-<p># Comments: 114</p>
+<p>Points: 155</p>
+<p># Comments: 129</p>
 
 🔗 **Read more:** [https://weeraman.com/the-prototype-isnt-the-product/](https://weeraman.com/the-prototype-isnt-the-product/)
 
@@ -97,7 +97,20 @@ The governing party's poll ratings have improved but they're only just ahead of 
 
 ---
 
-### 7. Vanishing forests: Why is the Philippines failing at reforestation?
+### 7. FIFA World Cup crisis: Who could replace Infantino as president?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss)
+
+---
+
+### 8. Vanishing forests: Why is the Philippines failing at reforestation?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The governing party's poll ratings have improved but they're only just ahead of 
 
 ---
 
-### 8. Spain says migrants in Ceuta have returned to Morocco
+### 9. Spain says migrants in Ceuta have returned to Morocco
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The governing party's poll ratings have improved but they're only just ahead of 
 Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss)
-
----
-
-### 9. Trump mimics sound of Patriot missile interceptions
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss)
 
 ---
 

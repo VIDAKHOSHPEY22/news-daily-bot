@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-01T15:36:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RamenHaus",
+            "description": "<p>Article URL: <a href=\"https://ramen.haus/\">https://ramen.haus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132460\">https://news.ycombinator.com/item?id=49132460</a></p>\n<p>Points: 104</p>\n<p># Comments: 55</p>",
+            "url": "https://ramen.haus/",
+            "published": "Sat, 01 Aug 2026 08:48:58 +0000",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to Do Great Work (2023)",
+            "description": "<p>Article URL: <a href=\"https://paulgraham.com/greatwork.html\">https://paulgraham.com/greatwork.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132289\">https://news.ycombinator.com/item?id=49132289</a></p>\n<p>Points: 35</p>\n<p># Comments: 19</p>",
+            "url": "https://paulgraham.com/greatwork.html",
+            "published": "Sat, 01 Aug 2026 08:19:44 +0000",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI doesn't generate working products, that's still your job",
+            "description": "<p>Article URL: <a href=\"https://weeraman.com/the-prototype-isnt-the-product/\">https://weeraman.com/the-prototype-isnt-the-product/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132130\">https://news.ycombinator.com/item?id=49132130</a></p>\n<p>Points: 155</p>\n<p># Comments: 129</p>",
+            "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+            "published": "Sat, 01 Aug 2026 07:52:10 +0000",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+            "description": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 09:51:05 GMT",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+            "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 11:00:05 GMT",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
+            "description": "The governing party's poll ratings have improved but they're only just ahead of Reform",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 09:13:00 GMT",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
+            "description": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
+            "url": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 11:58:23 +0000",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Vanishing forests: Why is the Philippines failing at reforestation?",
+            "description": "101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.",
+            "url": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 11:30:00 +0000",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain says migrants in Ceuta have returned to Morocco",
+            "description": "Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 11:29:41 +0000",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-01T15:36:53+03:30"
+        }
+    ]
+}
