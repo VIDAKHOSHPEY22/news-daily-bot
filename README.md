@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 13:36:58
+**Last Update:** 2026-08-01 13:43:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -71,16 +71,16 @@ Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fa
 
 ---
 
-### 5. Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham
+### 5. Sir John Curtice: The "Burnham bounce" is real but it's not massive
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.
+The governing party's poll ratings have improved but they're only just ahead of Reform
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss)
 
 ---
 
