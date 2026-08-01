@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-01 21:34:52
+**Last Update:** 2026-08-01 21:58:09
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. A directory of people who love RSS
+### 1. Tesla Spyware
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ma.tt/2026/07/tesla-spyware/">https://ma.tt/2026/07/tesla-spyware/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136134">https://news.ycombinator.com/item?id=49136134</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://ma.tt/2026/07/tesla-spyware/](https://ma.tt/2026/07/tesla-spyware/)
+
+---
+
+### 2. A directory of people who love RSS
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://andrewshell.org/2026/07/i-%e2%99%a5-rss/">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49136063">https://news.ycombinator.com/item?id=49136063</a></p>
-<p>Points: 99</p>
-<p># Comments: 44</p>
+<p>Points: 106</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://andrewshell.org/2026/07/i-%e2%99%a5-rss/](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/)
 
 ---
 
-### 2. Kaisel – Routes as Values. Dart 3 Native Router for Flutter
+### 3. Kaisel – Routes as Values. Dart 3 Native Router for Flutter
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://kaisel.dev/">https://kaisel.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135985">https://news.ycombinator.com/item?id=49135985</a></p>
-<p>Points: 19</p>
+<p>Points: 22</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://kaisel.dev/](https://kaisel.dev/)
-
----
-
-### 3. Pgtestdb's template cloning approach to testing is fast
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://brandur.org/fragments/pgtestdb">https://brandur.org/fragments/pgtestdb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49135546">https://news.ycombinator.com/item?id=49135546</a></p>
-<p>Points: 27</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://brandur.org/fragments/pgtestdb](https://brandur.org/fragments/pgtestdb)
 
 ---
 
@@ -97,81 +97,42 @@ The renowned mountaineer was known for scaling the world's 14 highest peaks in j
 
 ---
 
-### 7. Care for a dirty soda? How this drink trend became a US obsession
+### 7. ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.
+More than 58,000 children have lost one or both parents by Israel&#039;s war, highlighting urgent humanitarian challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss)
 
 ---
 
-### 8. Israeli forces detain residents and demolish homes in southern Syria
+### 8. Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria&#039;s southern provinces.
+The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss)
 
 ---
 
-### 9. Turkiye and Iraq sign one-year oil pipeline deal amid global shift
+### 9. At least 9 people killed in Russian missile attacks on Kyiv
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.
+At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
-
----
-
-### 11. Wildfire Duhamel, Pennington, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
-
----
-
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss)
 
 ---
 

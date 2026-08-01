@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-01T21:58:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tesla Spyware",
+            "description": "<p>Article URL: <a href=\"https://ma.tt/2026/07/tesla-spyware/\">https://ma.tt/2026/07/tesla-spyware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136134\">https://news.ycombinator.com/item?id=49136134</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://ma.tt/2026/07/tesla-spyware/",
+            "published": "Sat, 01 Aug 2026 16:58:33 +0000",
+            "fetched": "2026-08-01T21:58:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A directory of people who love RSS",
+            "description": "<p>Article URL: <a href=\"https://andrewshell.org/2026/07/i-%e2%99%a5-rss/\">https://andrewshell.org/2026/07/i-%e2%99%a5-rss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49136063\">https://news.ycombinator.com/item?id=49136063</a></p>\n<p>Points: 106</p>\n<p># Comments: 54</p>",
+            "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+            "published": "Sat, 01 Aug 2026 16:52:41 +0000",
+            "fetched": "2026-08-01T21:58:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+            "description": "<p>Article URL: <a href=\"https://kaisel.dev/\">https://kaisel.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49135985\">https://news.ycombinator.com/item?id=49135985</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
+            "url": "https://kaisel.dev/",
+            "published": "Sat, 01 Aug 2026 16:45:40 +0000",
+            "fetched": "2026-08-01T21:58:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+            "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:46:08 GMT",
+            "fetched": "2026-08-01T21:58:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Call for 'full review' as pressure grows on Infantino",
+            "description": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 17:07:46 GMT",
+            "fetched": "2026-08-01T21:58:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+            "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 15:25:30 GMT",
+            "fetched": "2026-08-01T21:58:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+            "description": "More than 58,000 children have lost one or both parents by Israel&#039;s war, highlighting urgent humanitarian challenges.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 17:57:18 +0000",
+            "fetched": "2026-08-01T21:58:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
+            "description": "The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 17:48:41 +0000",
+            "fetched": "2026-08-01T21:58:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 9 people killed in Russian missile attacks on Kyiv",
+            "description": "At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 17:45:26 +0000",
+            "fetched": "2026-08-01T21:58:09+03:30"
+        }
+    ]
+}
