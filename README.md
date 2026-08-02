@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 17:34:39
+**Last Update:** 2026-08-02 18:11:03
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Has the New Cocaine Arrived?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49144273">https://news.ycombinator.com/item?id=49144273</a></p>
-<p>Points: 42</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
-
----
-
-### 2. Twenty Years of RISC OS Open
+### 1. Twenty Years of RISC OS Open
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 40</p>
-<p># Comments: 2</p>
+<p>Points: 50</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 
 ---
 
-### 3. F*: A general-purpose proof-oriented programming language
+### 2. F*: A general-purpose proof-oriented programming language
 
 **Source:** Hacker News
 
@@ -51,14 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
 
 ---
 
-### 4. Trump cancels Iran strikes subject to deal being made 'rapidly'
+### 3. Great Question (YC W21) Is Hiring Senior Demand Gen Manager
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143683">https://news.ycombinator.com/item?id=49143683</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
+
+---
+
+### 4. Prolonged drought could cause shortage of some foods, farmers' union head says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Trump cancels Iran strikes subject to deal being made 'rapidly'
 
 **Source:** BBC
 
@@ -71,107 +84,55 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. Continued drought could cause shortage of some foods, farmers' union head says
+### 6. Man admits killing British woman found in suitcase, Greek police say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.
+The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. The shadowy gang recruiting teenage hitmen to kill across Europe
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Communal violence between Hindus and Muslims grips southern Nepal
+### 7. CIA whistleblower John Kiriakou on accountability and CIA’s history
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several towns in southern Nepal remain on edge after days of communal violence between Hindu and Muslim communities.
+Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss](https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss)
 
 ---
 
-### 8. Hundreds mourn Moroccan footballer who died trying to reach Ceuta
+### 8. Firefighting helicopters collide near Athens as Greece battles wildfires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moroccan footballer Faten Ben Omar El Azizi has been buried after dying while trying to reach Ceuta.
+Europe struggles with record-breaking summer heat as wildfires ravage Greece, France, and Spain, sparking evacuations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss)
 
 ---
 
-### 9. Pakistan-administered Kashmir election boycott follows deadly crackdown
+### 9. Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents in Muzaffarabad, in Pakistan-administered Kashmir, have boycotted the election amid a strike.
+Deadly ferry fire leaves dozens missing in Indonesia&#039;s Java Sea
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
-
----
-
-### 11. Wildfire Duhamel, Pennington, South Dakota
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
-
----
-
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss)
 
 ---
 

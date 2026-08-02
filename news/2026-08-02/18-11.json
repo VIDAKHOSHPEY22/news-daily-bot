@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-02T18:11:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Twenty Years of RISC OS Open",
+            "description": "<p>Article URL: <a href=\"https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open\">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143967\">https://news.ycombinator.com/item?id=49143967</a></p>\n<p>Points: 50</p>\n<p># Comments: 7</p>",
+            "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+            "published": "Sun, 02 Aug 2026 12:36:07 +0000",
+            "fetched": "2026-08-02T18:11:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "F*: A general-purpose proof-oriented programming language",
+            "description": "<p>Article URL: <a href=\"https://fstar-lang.org/\">https://fstar-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143925\">https://news.ycombinator.com/item?id=49143925</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://fstar-lang.org/",
+            "published": "Sun, 02 Aug 2026 12:31:16 +0000",
+            "fetched": "2026-08-02T18:11:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager\">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143683\">https://news.ycombinator.com/item?id=49143683</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+            "published": "Sun, 02 Aug 2026 12:01:00 +0000",
+            "fetched": "2026-08-02T18:11:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+            "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+            "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:15:07 GMT",
+            "fetched": "2026-08-02T18:11:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+            "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+            "fetched": "2026-08-02T18:11:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits killing British woman found in suitcase, Greek police say",
+            "description": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+            "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:28:15 GMT",
+            "fetched": "2026-08-02T18:11:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "CIA whistleblower John Kiriakou on accountability and CIA’s history",
+            "description": "Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.",
+            "url": "https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 14:20:36 +0000",
+            "fetched": "2026-08-02T18:11:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Firefighting helicopters collide near Athens as Greece battles wildfires",
+            "description": "Europe struggles with record-breaking summer heat as wildfires ravage Greece, France, and Spain, sparking evacuations.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 14:15:34 +0000",
+            "fetched": "2026-08-02T18:11:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea",
+            "description": "Deadly ferry fire leaves dozens missing in Indonesia&#039;s Java Sea",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 14:14:25 +0000",
+            "fetched": "2026-08-02T18:11:03+03:30"
+        }
+    ]
+}
