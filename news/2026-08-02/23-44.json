@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T23:44:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "EU rules on AI models become enforceable. What's going to change?",
+            "description": "<p>Article URL: <a href=\"https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change\">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147606\">https://news.ycombinator.com/item?id=49147606</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+            "published": "Sun, 02 Aug 2026 19:40:19 +0000",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "German carmakers flood jobs market with managers after wielding axe",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597\">https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147478\">https://news.ycombinator.com/item?id=49147478</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
+            "published": "Sun, 02 Aug 2026 19:24:18 +0000",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2\">https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147435\">https://news.ycombinator.com/item?id=49147435</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+            "published": "Sun, 02 Aug 2026 19:19:24 +0000",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+            "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 16:45:03 GMT",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+            "description": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
+            "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 17:53:09 GMT",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+            "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+            "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:15:07 GMT",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Washington dictating the agenda for talks in Venezuela?",
+            "description": "Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 20:01:21 +0000",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
+            "description": "Pro-Israel group unleashes its spending power to help elect Haley Stevens to US Senate against progressive doctor.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 20:00:45 +0000",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israelis attack Armenian monastery in Jerusalem’s Old City",
+            "description": "Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 19:39:32 +0000",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T23:44:45+03:30"
+        }
+    ]
+}

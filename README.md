@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 23:12:34
+**Last Update:** 2026-08-02 23:44:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. SwiftUI After 7 Years: A Story of Mediocrity
+### 1. EU rules on AI models become enforceable. What's going to change?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/">https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147263">https://news.ycombinator.com/item?id=49147263</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147606">https://news.ycombinator.com/item?id=49147606</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
+
+---
+
+### 2. German carmakers flood jobs market with managers after wielding axe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597">https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147478">https://news.ycombinator.com/item?id=49147478</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
+🔗 **Read more:** [https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
 
 ---
 
-### 2. Microsoft raises Xbox prices by up to 43%
+### 3. 'Crush this lady': how eBay harassment campaign led to $56M payout
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros">https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147209">https://news.ycombinator.com/item?id=49147209</a></p>
-<p>Points: 34</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2">https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147435">https://news.ycombinator.com/item?id=49147435</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
-
----
-
-### 3. Harvesting SSH Credentials: Insights from My Honeypot Network
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146605">https://news.ycombinator.com/item?id=49146605</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)
+🔗 **Read more:** [https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2)
 
 ---
 
@@ -97,42 +97,42 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. Iran says negotiations with Oman over Strait of Hormuz in final stages
+### 7. Is Washington dictating the agenda for talks in Venezuela?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.
+Venezuela&#039;s government and a section of the opposition plan to hold talks, backed by the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/2/is-washington-dictating-the-agenda-for-talks-in-venezuela?traffic_source=rss)
 
 ---
 
-### 8. Two helicopters collide mid-air while tackling wildfires in Greece
+### 8. How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.
+Pro-Israel group unleashes its spending power to help elect Haley Stevens to US Senate against progressive doctor.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss)
 
 ---
 
-### 9. Ukrainian drone attacks kill eight in response to Russian missiles
+### 9. Israelis attack Armenian monastery in Jerusalem’s Old City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.
+Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss)
 
 ---
 
