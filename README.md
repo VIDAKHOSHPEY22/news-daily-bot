@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 03:33:57
+**Last Update:** 2026-08-02 04:32:20
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. A stray commit buried multiple levels deep cost me months
+### 1. RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.rfc-editor.org/rfc/rfc10015.html">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139711">https://news.ycombinator.com/item?id=49139711</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.rfc-editor.org/rfc/rfc10015.html](https://www.rfc-editor.org/rfc/rfc10015.html)
+
+---
+
+### 2. A stray commit buried multiple levels deep cost me months
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.droppedasbaby.com/posts/db-commits/">https://www.droppedasbaby.com/posts/db-commits/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139562">https://news.ycombinator.com/item?id=49139562</a></p>
-<p>Points: 23</p>
-<p># Comments: 8</p>
+<p>Points: 27</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.droppedasbaby.com/posts/db-commits/](https://www.droppedasbaby.com/posts/db-commits/)
 
 ---
 
-### 2. Unraveling the mysteries of habit formation
+### 3. Unraveling the mysteries of habit formation
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.kyoto-u.ac.jp/en/research-news/2026-07-28">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139383">https://news.ycombinator.com/item?id=49139383</a></p>
-<p>Points: 11</p>
-<p># Comments: 5</p>
+<p>Points: 23</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.kyoto-u.ac.jp/en/research-news/2026-07-28](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28)
-
----
-
-### 3. Morph (YC S23) Is Hiring Member of Technical Staff
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49139352">https://news.ycombinator.com/item?id=49139352</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff)
 
 ---
 
@@ -97,7 +97,33 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 7. New York Times reveals Trump administration subpoena over North Korea story
+### 7. Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran&#039;s Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss)
+
+---
+
+### 8. Singapore bans UK band Massive Attack over Palestinian flag
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Singapore barred two members of British band Massive Attack from re-entering the country.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss)
+
+---
+
+### 9. New York Times reveals Trump administration subpoena over North Korea story
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss)
-
----
-
-### 8. Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss)
-
----
-
-### 9. Michigan joins Minnesota in reporting cyberattacks, with FBI investigating
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss](https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss)
 
 ---
 
