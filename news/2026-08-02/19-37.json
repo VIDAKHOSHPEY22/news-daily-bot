@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T19:37:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How the words we teach English language learners changed",
+            "description": "<p>Article URL: <a href=\"https://pudding.cool/2026/07/essential-words/\">https://pudding.cool/2026/07/essential-words/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145590\">https://news.ycombinator.com/item?id=49145590</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://pudding.cool/2026/07/essential-words/",
+            "published": "Sun, 02 Aug 2026 15:41:08 +0000",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Rant About “Technology” (2005)",
+            "description": "<p>Article URL: <a href=\"https://www.ursulakleguin.com/a-rant-about-technology\">https://www.ursulakleguin.com/a-rant-about-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49145201\">https://news.ycombinator.com/item?id=49145201</a></p>\n<p>Points: 78</p>\n<p># Comments: 29</p>",
+            "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+            "published": "Sun, 02 Aug 2026 14:51:18 +0000",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Twenty Years of RISC OS Open",
+            "description": "<p>Article URL: <a href=\"https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open\">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143967\">https://news.ycombinator.com/item?id=49143967</a></p>\n<p>Points: 82</p>\n<p># Comments: 13</p>",
+            "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+            "published": "Sun, 02 Aug 2026 12:36:07 +0000",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+            "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 15:48:22 GMT",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+            "description": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+            "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:28:15 GMT",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+            "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+            "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:15:07 GMT",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How to end the ‘Hormuz war’",
+            "description": "The least bad option for the US is to let the MoU Article 5 play out.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 15:33:20 +0000",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukrainian farmers use temporary storage to revive grain exports",
+            "description": "Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 15:14:26 +0000",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Heatwave forces nuclear shutdown in Hungary",
+            "description": "Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 14:44:34 +0000",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T19:37:54+03:30"
+        }
+    ]
+}

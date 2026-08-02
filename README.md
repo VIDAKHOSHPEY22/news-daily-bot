@@ -1,29 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 19:03:13
+**Last Update:** 2026-08-02 19:37:54
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Prolonged drought could cause shortage of some foods, farmers' union head says
+### 1. How the words we teach English language learners changed
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pudding.cool/2026/07/essential-words/">https://pudding.cool/2026/07/essential-words/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145590">https://news.ycombinator.com/item?id=49145590</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://pudding.cool/2026/07/essential-words/](https://pudding.cool/2026/07/essential-words/)
+
+---
+
+### 2. A Rant About “Technology” (2005)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ursulakleguin.com/a-rant-about-technology">https://www.ursulakleguin.com/a-rant-about-technology</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145201">https://news.ycombinator.com/item?id=49145201</a></p>
+<p>Points: 78</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://www.ursulakleguin.com/a-rant-about-technology](https://www.ursulakleguin.com/a-rant-about-technology)
+
+---
+
+### 3. Twenty Years of RISC OS Open
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
+<p>Points: 82</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+
+---
+
+### 4. Burnham pledges to be 'relentless' in curbing small boat crossings
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
+The prime minister says enforcement is increased but there also need to be more safe routes into the UK.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Man admits killing Scottish woman found in suitcase, Greek police say
+### 5. Man admits killing Scottish woman found in suitcase, Greek police say
 
 **Source:** BBC
 
@@ -36,20 +84,46 @@ The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as
 
 ---
 
-### 3. Trump cancels Iran strikes subject to deal being made 'rapidly'
+### 6. Prolonged drought could cause shortage of some foods, farmers' union head says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
+NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Heatwave forces nuclear shutdown in Hungary
+### 7. How to end the ‘Hormuz war’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The least bad option for the US is to let the MoU Article 5 play out.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss)
+
+---
+
+### 8. Ukrainian farmers use temporary storage to revive grain exports
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss)
+
+---
+
+### 9. Heatwave forces nuclear shutdown in Hungary
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Hungary says a heatwave has forced the shutdown of its largest nuclear plant as 
 
 ---
 
-### 5. Tanks, troops and space
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss)
-
----
-
-### 6. CIA whistleblower John Kiriakou on accountability and CIA’s history
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss](https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss)
-
----
-
-### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Duhamel, Pennington, South Dakota
+### 11. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
