@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T17:34:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Has the New Cocaine Arrived?",
+            "description": "<p>Article URL: <a href=\"https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived\">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49144273\">https://news.ycombinator.com/item?id=49144273</a></p>\n<p>Points: 42</p>\n<p># Comments: 29</p>",
+            "url": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
+            "published": "Sun, 02 Aug 2026 13:05:06 +0000",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Twenty Years of RISC OS Open",
+            "description": "<p>Article URL: <a href=\"https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open\">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143967\">https://news.ycombinator.com/item?id=49143967</a></p>\n<p>Points: 40</p>\n<p># Comments: 2</p>",
+            "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+            "published": "Sun, 02 Aug 2026 12:36:07 +0000",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "F*: A general-purpose proof-oriented programming language",
+            "description": "<p>Article URL: <a href=\"https://fstar-lang.org/\">https://fstar-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143925\">https://news.ycombinator.com/item?id=49143925</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://fstar-lang.org/",
+            "published": "Sun, 02 Aug 2026 12:31:16 +0000",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+            "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Continued drought could cause shortage of some foods, farmers' union head says",
+            "description": "NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.",
+            "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 12:41:28 GMT",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
+            "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+            "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Communal violence between Hindus and Muslims grips southern Nepal",
+            "description": "Several towns in southern Nepal remain on edge after days of communal violence between Hindu and Muslim communities.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 13:55:07 +0000",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds mourn Moroccan footballer who died trying to reach Ceuta",
+            "description": "Moroccan footballer Faten Ben Omar El Azizi has been buried after dying while trying to reach Ceuta.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 13:46:23 +0000",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
+            "description": "Residents in Muzaffarabad, in Pakistan-administered Kashmir, have boycotted the election amid a strike.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 13:40:55 +0000",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T17:34:39+03:30"
+        }
+    ]
+}

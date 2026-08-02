@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 15:39:41
+**Last Update:** 2026-08-02 17:34:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Wikimedia Foundation refuses union recognition, hires union-busting law firm
+### 1. Has the New Cocaine Arrived?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes">https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143414">https://news.ycombinator.com/item?id=49143414</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived">https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49144273">https://news.ycombinator.com/item?id=49144273</a></p>
+<p>Points: 42</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived](https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived)
+
+---
+
+### 2. Twenty Years of RISC OS Open
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
+<p>Points: 40</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+
+---
+
+### 3. F*: A general-purpose proof-oriented programming language
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes)
-
----
-
-### 2. Generative AI floods and dilutes the market for books
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2607.20349">https://arxiv.org/abs/2607.20349</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143289">https://news.ycombinator.com/item?id=49143289</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2607.20349](https://arxiv.org/abs/2607.20349)
-
----
-
-### 3. US Treasury undertakes historic intervention in yen market
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8">https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143188">https://news.ycombinator.com/item?id=49143188</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8](https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8)
+🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
 
 ---
 
@@ -71,7 +71,20 @@ The US president claims Iran and other Middle Eastern countries asked Washington
 
 ---
 
-### 5. The shadowy gang recruiting teenage hitmen to kill across Europe
+### 5. Continued drought could cause shortage of some foods, farmers' union head says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+NFU President Tom Bradshaw calls on the government to take action to prevent extreme weather impacting UK food supply.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. The shadowy gang recruiting teenage hitmen to kill across Europe
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The Foxtrot Network is thought to be responsible for about 35 murders in Europe,
 
 ---
 
-### 6. Body of mountaineer Nirmal Purja recovered after Pakistan avalanche
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Indigenous groups oppose Milei plan to open Argentina to foreign buyers
+### 7. Communal violence between Hindus and Muslims grips southern Nepal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indigenous people  protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.
+Several towns in southern Nepal remain on edge after days of communal violence between Hindu and Muslim communities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss)
 
 ---
 
-### 8. Ben-Gvir mocks Palestinian detainee over prison conditions
+### 8. Hundreds mourn Moroccan footballer who died trying to reach Ceuta
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ben-Gvir mocks Palestinian detainee over prison conditions
+Moroccan footballer Faten Ben Omar El Azizi has been buried after dying while trying to reach Ceuta.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/hundreds-mourn-moroccan-footballer-who-died-trying-to-reach-ceuta?traffic_source=rss)
 
 ---
 
-### 9. From Sudan to Spain: Between war and home | Al Jazeera Originals
+### 9. Pakistan-administered Kashmir election boycott follows deadly crackdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.
+Residents in Muzaffarabad, in Pakistan-administered Kashmir, have boycotted the election amid a strike.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss)
 
 ---
 
