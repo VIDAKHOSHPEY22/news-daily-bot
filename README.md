@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 21:59:32
+**Last Update:** 2026-08-02 23:12:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Harvesting SSH Credentials: Insights from My Honeypot Network
+### 1. SwiftUI After 7 Years: A Story of Mediocrity
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/">https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147263">https://news.ycombinator.com/item?id=49147263</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
+
+---
+
+### 2. Microsoft raises Xbox prices by up to 43%
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros">https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147209">https://news.ycombinator.com/item?id=49147209</a></p>
+<p>Points: 34</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
+
+---
+
+### 3. Harvesting SSH Credentials: Insights from My Honeypot Network
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146605">https://news.ycombinator.com/item?id=49146605</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)
-
----
-
-### 2. The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594">https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146372">https://news.ycombinator.com/item?id=49146372</a></p>
-<p>Points: 25</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594](https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594)
-
----
-
-### 3. Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href="https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE" rel="nofollow">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146267">https://news.ycombinator.com/item?id=49146267</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark)
 
 ---
 
@@ -98,42 +97,42 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. Fetus found among the ruins of a deadly Israeli strike on Gaza
+### 7. Iran says negotiations with Oman over Strait of Hormuz in final stages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.
+Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss)
 
 ---
 
-### 8. Migrant deaths in Ceuta rise to 72 after border surge from Morocco
+### 8. Two helicopters collide mid-air while tackling wildfires in Greece
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Five more bodies have been found along Ceuta&#039;s coastline as enclave recovers from unprecedented border influx.
+Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss)
 
 ---
 
-### 9. ‘Iran war participation trophy’ mocking Trump appears in New York
+### 9. Ukrainian drone attacks kill eight in response to Russian missiles
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.
+Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss)
 
 ---
 

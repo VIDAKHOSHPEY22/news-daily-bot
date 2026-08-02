@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T23:12:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SwiftUI After 7 Years: A Story of Mediocrity",
+            "description": "<p>Article URL: <a href=\"https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/\">https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147263\">https://news.ycombinator.com/item?id=49147263</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+            "published": "Sun, 02 Aug 2026 18:59:05 +0000",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft raises Xbox prices by up to 43%",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros\">https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49147209\">https://news.ycombinator.com/item?id=49147209</a></p>\n<p>Points: 34</p>\n<p># Comments: 15</p>",
+            "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+            "published": "Sun, 02 Aug 2026 18:52:22 +0000",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+            "description": "<p>Article URL: <a href=\"https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146605\">https://news.ycombinator.com/item?id=49146605</a></p>\n<p>Points: 16</p>\n<p># Comments: 11</p>",
+            "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+            "published": "Sun, 02 Aug 2026 17:45:51 +0000",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+            "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 16:45:03 GMT",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+            "description": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
+            "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 17:53:09 GMT",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+            "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+            "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:15:07 GMT",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+            "description": "Tehran&#039;s announcement comes after Trump said US would hold off on new Iran attack in hope of quick deal.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 19:08:06 +0000",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
+            "description": "Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 18:38:47 +0000",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
+            "description": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 18:37:23 +0000",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T23:12:34+03:30"
+        }
+    ]
+}
