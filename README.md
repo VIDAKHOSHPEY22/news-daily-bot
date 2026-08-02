@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 18:11:03
+**Last Update:** 2026-08-02 19:03:13
 
 **Total News:** 9
 
-**Sources:** BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Twenty Years of RISC OS Open
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 50</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
-
----
-
-### 2. F*: A general-purpose proof-oriented programming language
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fstar-lang.org/">https://fstar-lang.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143925">https://news.ycombinator.com/item?id=49143925</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://fstar-lang.org/](https://fstar-lang.org/)
-
----
-
-### 3. Great Question (YC W21) Is Hiring Senior Demand Gen Manager
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager">https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143683">https://news.ycombinator.com/item?id=49143683</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager)
-
----
-
-### 4. Prolonged drought could cause shortage of some foods, farmers' union head says
+### 1. Prolonged drought could cause shortage of some foods, farmers' union head says
 
 **Source:** BBC
 
@@ -71,20 +23,7 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 5. Trump cancels Iran strikes subject to deal being made 'rapidly'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Man admits killing British woman found in suitcase, Greek police say
+### 2. Man admits killing Scottish woman found in suitcase, Greek police say
 
 **Source:** BBC
 
@@ -97,7 +36,46 @@ The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as
 
 ---
 
-### 7. CIA whistleblower John Kiriakou on accountability and CIA’s history
+### 3. Trump cancels Iran strikes subject to deal being made 'rapidly'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the "perimeters" of a deal had been agreed.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Heatwave forces nuclear shutdown in Hungary
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss)
+
+---
+
+### 5. Tanks, troops and space
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe&#039;s security strategy.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss)
+
+---
+
+### 6. CIA whistleblower John Kiriakou on accountability and CIA’s history
 
 **Source:** Al Jazeera
 
@@ -110,29 +88,42 @@ Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and 
 
 ---
 
-### 8. Firefighting helicopters collide near Athens as Greece battles wildfires
+### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Europe struggles with record-breaking summer heat as wildfires ravage Greece, France, and Spain, sparking evacuations.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
 
 ---
 
-### 9. Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea
+### 8. Wildfire Duhamel, Pennington, South Dakota
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Deadly ferry fire leaves dozens missing in Indonesia&#039;s Java Sea
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+
+---
+
+### 9. Wildfire HOLEY LAND (6), Broward, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 
