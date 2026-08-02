@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 19:37:54
+**Last Update:** 2026-08-02 20:59:54
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How the words we teach English language learners changed
+### 1. Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pudding.cool/2026/07/essential-words/">https://pudding.cool/2026/07/essential-words/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145590">https://news.ycombinator.com/item?id=49145590</a></p>
+<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href="https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE" rel="nofollow">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146267">https://news.ycombinator.com/item?id=49146267</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark)
+
+---
+
+### 2. Pushes to arch AUR are suspendended right now.
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/">https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146238">https://news.ycombinator.com/item?id=49146238</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://pudding.cool/2026/07/essential-words/](https://pudding.cool/2026/07/essential-words/)
+🔗 **Read more:** [https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/)
 
 ---
 
-### 2. A Rant About “Technology” (2005)
+### 3. Linux Desktop Market Share Surpasses 10% in North America
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ursulakleguin.com/a-rant-about-technology">https://www.ursulakleguin.com/a-rant-about-technology</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49145201">https://news.ycombinator.com/item?id=49145201</a></p>
-<p>Points: 78</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/">https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146122">https://news.ycombinator.com/item?id=49146122</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.ursulakleguin.com/a-rant-about-technology](https://www.ursulakleguin.com/a-rant-about-technology)
-
----
-
-### 3. Twenty Years of RISC OS Open
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open">https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49143967">https://news.ycombinator.com/item?id=49143967</a></p>
-<p>Points: 82</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+🔗 **Read more:** [https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/](https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/)
 
 ---
 
@@ -71,14 +72,14 @@ The prime minister says enforcement is increased but there also need to be more 
 
 ---
 
-### 5. Man admits killing Scottish woman found in suitcase, Greek police say
+### 5. Man admits transporting Scottish woman's body in suitcase, Greek police say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.
+The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +98,42 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. How to end the ‘Hormuz war’
+### 7. ‘Iran war participation trophy’ mocking Trump appears in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The least bad option for the US is to let the MoU Article 5 play out.
+A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss)
 
 ---
 
-### 8. Ukrainian farmers use temporary storage to revive grain exports
+### 8. Deadly floods and landslide hit India’s Kerala
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.
+At least two people have been killed and eight injured after torrential rain triggered flooding
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss)
 
 ---
 
-### 9. Heatwave forces nuclear shutdown in Hungary
+### 9. Suicide bomber kills 14 outside police station in Pakistan’s Swat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.
+Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss)
 
 ---
 

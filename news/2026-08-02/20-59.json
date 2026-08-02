@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T20:59:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+            "description": "<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href=\"https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE\" rel=\"nofollow\">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146267\">https://news.ycombinator.com/item?id=49146267</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/graham33/nixos-dgx-spark",
+            "published": "Sun, 02 Aug 2026 17:05:54 +0000",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pushes to arch AUR are suspendended right now.",
+            "description": "<p>Article URL: <a href=\"https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/\">https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146238\">https://news.ycombinator.com/item?id=49146238</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
+            "published": "Sun, 02 Aug 2026 17:03:02 +0000",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux Desktop Market Share Surpasses 10% in North America",
+            "description": "<p>Article URL: <a href=\"https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/\">https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146122\">https://news.ycombinator.com/item?id=49146122</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/",
+            "published": "Sun, 02 Aug 2026 16:50:01 +0000",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+            "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 16:45:03 GMT",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+            "description": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
+            "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:28:15 GMT",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+            "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+            "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:15:07 GMT",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+            "description": "A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 17:06:30 +0000",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly floods and landslide hit India’s Kerala",
+            "description": "At least two people have been killed and eight injured after torrential rain triggered flooding",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 16:55:39 +0000",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
+            "description": "Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 16:40:44 +0000",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T20:59:54+03:30"
+        }
+    ]
+}
