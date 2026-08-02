@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 07:59:47
+**Last Update:** 2026-08-02 08:15:07
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -71,20 +71,7 @@ The US president's message came amid media reports that he was planning new, int
 
 ---
 
-### 5. EU calls emergency meeting to discuss Ceuta migrant crossings
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Young guns for hire - the teenage hitmen recruited to kill across Europe
+### 5. Young guns for hire - the teenage hitmen recruited to kill across Europe
 
 **Source:** BBC
 
@@ -94,6 +81,19 @@ There have been tense exchanges between Spain and other EU states over the influ
 The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. EU calls emergency meeting to discuss Ceuta migrant crossings
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss)
 
 ---
 
