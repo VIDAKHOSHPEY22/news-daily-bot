@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 21:35:03
+**Last Update:** 2026-08-02 21:59:32
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594">https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146372">https://news.ycombinator.com/item?id=49146372</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Points: 25</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594](https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594)
 
@@ -52,7 +52,7 @@
 <p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href="https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE" rel="nofollow">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146267">https://news.ycombinator.com/item?id=49146267</a></p>
-<p>Points: 21</p>
+<p>Points: 26</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark)
@@ -98,7 +98,20 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. Migrant deaths in Ceuta rise to 72 after border surge from Morocco
+### 7. Fetus found among the ruins of a deadly Israeli strike on Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss)
+
+---
+
+### 8. Migrant deaths in Ceuta rise to 72 after border surge from Morocco
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Five more bodies have been found along Ceuta&#039;s coastline as enclave recover
 
 ---
 
-### 8. ‘Iran war participation trophy’ mocking Trump appears in New York
+### 9. ‘Iran war participation trophy’ mocking Trump appears in New York
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Five more bodies have been found along Ceuta&#039;s coastline as enclave recover
 A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss)
-
----
-
-### 9. Deadly floods and landslide hit India’s Kerala
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least two people have been killed and eight injured after torrential rain triggered flooding
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss)
 
 ---
 

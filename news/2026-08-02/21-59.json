@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T21:59:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
+            "description": "<p>Article URL: <a href=\"https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/\">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146605\">https://news.ycombinator.com/item?id=49146605</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+            "published": "Sun, 02 Aug 2026 17:45:51 +0000",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M",
+            "description": "<p>Article URL: <a href=\"https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594\">https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146372\">https://news.ycombinator.com/item?id=49146372</a></p>\n<p>Points: 25</p>\n<p># Comments: 13</p>",
+            "url": "https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594",
+            "published": "Sun, 02 Aug 2026 17:19:47 +0000",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+            "description": "<p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href=\"https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE\" rel=\"nofollow\">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49146267\">https://news.ycombinator.com/item?id=49146267</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/graham33/nixos-dgx-spark",
+            "published": "Sun, 02 Aug 2026 17:05:54 +0000",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+            "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 16:45:03 GMT",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+            "description": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences.",
+            "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 17:53:09 GMT",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
+            "description": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.",
+            "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 14:15:07 GMT",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+            "description": "Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 17:57:01 +0000",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
+            "description": "Five more bodies have been found along Ceuta&#039;s coastline as enclave recovers from unprecedented border influx.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 17:15:56 +0000",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Iran war participation trophy’ mocking Trump appears in New York",
+            "description": "A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war has appeared in New York.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 17:06:30 +0000",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T21:59:32+03:30"
+        }
+    ]
+}
