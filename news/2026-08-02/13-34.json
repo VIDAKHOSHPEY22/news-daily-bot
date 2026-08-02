@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T13:34:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The time filter in Google Search broke a few days ago",
+            "description": "<p>Article URL: <a href=\"https://mastodon.online/@mwichary/117023736804129342\">https://mastodon.online/@mwichary/117023736804129342</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142458\">https://news.ycombinator.com/item?id=49142458</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
+            "url": "https://mastodon.online/@mwichary/117023736804129342",
+            "published": "Sun, 02 Aug 2026 08:48:53 +0000",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I don't recommend Tailwind CSS",
+            "description": "<p>Article URL: <a href=\"https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/\">https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141891\">https://news.ycombinator.com/item?id=49141891</a></p>\n<p>Points: 81</p>\n<p># Comments: 73</p>",
+            "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+            "published": "Sun, 02 Aug 2026 07:09:38 +0000",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+            "description": "<p>Article URL: <a href=\"https://www.wafer.ai/blog/kimi-k3-mi355x\">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141073\">https://news.ycombinator.com/item?id=49141073</a></p>\n<p>Points: 129</p>\n<p># Comments: 37</p>",
+            "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+            "published": "Sun, 02 Aug 2026 04:21:14 +0000",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+            "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 09:10:51 GMT",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How a shadowy gang is recruiting teenage hitmen to kill across Europe",
+            "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+            "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+            "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+            "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 05:40:42 GMT",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+            "description": "Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?",
+            "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 09:43:10 +0000",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
+            "description": "Once Turkiye&#039;s prime minister, Ahmet Davutoglu has stepped back from party politics.",
+            "url": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 09:07:20 +0000",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump ‘cancels attack on Iran’ saying deal is near",
+            "description": "US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 08:43:15 +0000",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T13:34:51+03:30"
+        }
+    ]
+}
