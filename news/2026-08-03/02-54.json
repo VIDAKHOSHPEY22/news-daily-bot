@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-03T02:54:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+            "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+            "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 20:36:37 GMT",
+            "fetched": "2026-08-03T02:54:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+            "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 21:18:26 GMT",
+            "fetched": "2026-08-03T02:54:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+            "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+            "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 23:15:14 GMT",
+            "fetched": "2026-08-03T02:54:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan army drone attack on Darfur kills 35, rights group says",
+            "description": "Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 22:51:09 +0000",
+            "fetched": "2026-08-03T02:54:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Wildfires force mass evacuations across the Pacific Northwest",
+            "description": "Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 21:47:18 +0000",
+            "fetched": "2026-08-03T02:54:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+            "description": "Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 21:18:03 +0000",
+            "fetched": "2026-08-03T02:54:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T02:54:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-03T02:54:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-03T02:54:51+03:30"
+        }
+    ]
+}
