@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 13:34:51
+**Last Update:** 2026-08-02 13:42:10
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -97,7 +97,33 @@ Security officials said a woman tried to enter the restaurant with explosives bu
 
 ---
 
-### 7. Why has Trump halted Iran attacks, and what is the deal he is hinting at?
+### 7. Residents of Spain’s Ceuta shut down far-right anti-migrant rally
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds of residents in Spain&#039;s North African enclave of Ceuta gathered to oppose a planned far-right rally.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss)
+
+---
+
+### 8. A quiet day in Harare after Zimbabwe’s shutdown call
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A heavy security presence and cautious businesses reflected tensions over constitutional changes.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/a-quiet-day-in-harare-after-zimbabwes-shutdown-call?traffic_source=rss)
+
+---
+
+### 9. Why has Trump halted Iran attacks, and what is the deal he is hinting at?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Security officials said a woman tried to enter the restaurant with explosives bu
 Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss)
-
----
-
-### 8. How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Once Turkiye&#039;s prime minister, Ahmet Davutoglu has stepped back from party politics.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss](https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss)
-
----
-
-### 9. Trump ‘cancels attack on Iran’ saying deal is near
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss)
 
 ---
 
