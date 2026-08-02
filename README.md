@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 20:59:54
+**Last Update:** 2026-08-02 21:35:03
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
+### 1. Harvesting SSH Credentials: Insights from My Honeypot Network
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/">https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146605">https://news.ycombinator.com/item?id=49146605</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/](https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/)
+
+---
+
+### 2. The Coldcard Disaster Gets Worse: The Hack May Have Reached $88.6M
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594">https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146372">https://news.ycombinator.com/item?id=49146372</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594](https://medium.com/mountain-movers/the-coldcard-disaster-gets-worse-the-hack-may-have-reached-88-6-af507b028594)
+
+---
+
+### 3. Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark
 
 **Source:** Hacker News
 
@@ -20,42 +52,10 @@
 <p>Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.<p>This works on the NVIDIA DGX Spark itself and also on the Asus Ascent GX10.<p>See my 5 minute lightning talk from Planet Nix for an intro: <a href="https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE" rel="nofollow">https://youtu.be/AvK_gi_snJE?si=MPKv3iiuS9B5elIE</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146267">https://news.ycombinator.com/item?id=49146267</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 21</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/graham33/nixos-dgx-spark](https://github.com/graham33/nixos-dgx-spark)
-
----
-
-### 2. Pushes to arch AUR are suspendended right now.
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/">https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146238">https://news.ycombinator.com/item?id=49146238</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/)
-
----
-
-### 3. Linux Desktop Market Share Surpasses 10% in North America
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/">https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49146122">https://news.ycombinator.com/item?id=49146122</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/](https://linuxiac.com/linux-desktop-market-share-surpasses-10-in-north-america/)
 
 ---
 
@@ -98,7 +98,20 @@ NFU president Tom Bradshaw calls on the government to take action to prevent ext
 
 ---
 
-### 7. ‘Iran war participation trophy’ mocking Trump appears in New York
+### 7. Migrant deaths in Ceuta rise to 72 after border surge from Morocco
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Five more bodies have been found along Ceuta&#039;s coastline as enclave recovers from unprecedented border influx.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss)
+
+---
+
+### 8. ‘Iran war participation trophy’ mocking Trump appears in New York
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war 
 
 ---
 
-### 8. Deadly floods and landslide hit India’s Kerala
+### 9. Deadly floods and landslide hit India’s Kerala
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ A 10-foot-tall golden trophy mocking US President Donald Trump for the Iran war 
 At least two people have been killed and eight injured after torrential rain triggered flooding
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss)
-
----
-
-### 9. Suicide bomber kills 14 outside police station in Pakistan’s Swat
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Explosion took place near crowd rallying against a surge in violence in northwestern Pakistan.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss)
 
 ---
 
