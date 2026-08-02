@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-02T11:12:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+            "description": "<p>Article URL: <a href=\"https://www.wafer.ai/blog/kimi-k3-mi355x\">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141073\">https://news.ycombinator.com/item?id=49141073</a></p>\n<p>Points: 107</p>\n<p># Comments: 12</p>",
+            "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+            "published": "Sun, 02 Aug 2026 04:21:14 +0000",
+            "fetched": "2026-08-02T11:12:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+            "description": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140702\">https://news.ycombinator.com/item?id=49140702</a></p>\n<p>Points: 45</p>\n<p># Comments: 2</p>",
+            "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+            "published": "Sun, 02 Aug 2026 03:12:52 +0000",
+            "fetched": "2026-08-02T11:12:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux desktop market share has hit over 10% in North America",
+            "description": "<p>Article URL: <a href=\"https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/\">https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140696\">https://news.ycombinator.com/item?id=49140696</a></p>\n<p>Points: 157</p>\n<p># Comments: 65</p>",
+            "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+            "published": "Sun, 02 Aug 2026 03:10:00 +0000",
+            "fetched": "2026-08-02T11:12:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+            "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 06:24:01 GMT",
+            "fetched": "2026-08-02T11:12:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+            "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+            "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 05:40:42 GMT",
+            "fetched": "2026-08-02T11:12:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+            "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+            "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+            "fetched": "2026-08-02T11:12:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least three dead in Idaho shopping mall mass shooting",
+            "description": "Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 05:29:36 +0000",
+            "fetched": "2026-08-02T11:12:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
+            "description": "Students in Gaza overcome distressing conditions amid Israel&#039;s genocide to finish their Tawjihi high school exams.",
+            "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 05:27:04 +0000",
+            "fetched": "2026-08-02T11:12:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three dead including female bomber in Moscow restaurant attack",
+            "description": "At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 04:44:55 +0000",
+            "fetched": "2026-08-02T11:12:41+03:30"
+        }
+    ]
+}
