@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T15:08:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
+            "description": "<p>Article URL: <a href=\"https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html\">https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143053\">https://news.ycombinator.com/item?id=49143053</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+            "url": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
+            "published": "Sun, 02 Aug 2026 10:25:25 +0000",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+            "description": "<p>Article URL: <a href=\"https://publicdomainreview.org/essay/ars-notoria/\">https://publicdomainreview.org/essay/ars-notoria/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143001\">https://news.ycombinator.com/item?id=49143001</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://publicdomainreview.org/essay/ars-notoria/",
+            "published": "Sun, 02 Aug 2026 10:18:24 +0000",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+            "description": "<p>Article URL: <a href=\"https://github.com/syncular/syncular\">https://github.com/syncular/syncular</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142794\">https://news.ycombinator.com/item?id=49142794</a></p>\n<p>Points: 16</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/syncular/syncular",
+            "published": "Sun, 02 Aug 2026 09:48:08 +0000",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+            "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 11:12:00 GMT",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
+            "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+            "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+            "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+            "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 10:11:26 GMT",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indigenous groups oppose Milei plan to open Argentina to foreign buyers",
+            "description": "Indigenous people  protested in Buenos Aires against a bill opening foreign ownership of rural land in Argentina.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-argentina-indigenous-protest-sv?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 11:09:25 +0000",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ben-Gvir mocks Palestinian detainee over prison conditions",
+            "description": "Ben-Gvir mocks Palestinian detainee over prison conditions",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 11:09:03 +0000",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "From Sudan to Spain: Between war and home | Al Jazeera Originals",
+            "description": "A young Sudanese refugee rebuilds his life in Spain while war keeps him from the family he left behind.",
+            "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/2/aje-onl-aj_or_sdn_war-020826?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 11:07:13 +0000",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T15:08:46+03:30"
+        }
+    ]
+}
