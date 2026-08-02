@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 01:32:03
+**Last Update:** 2026-08-03 01:44:49
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -98,7 +98,20 @@ The US singer, 33, will "step back from visibility" at the end of her world tour
 
 ---
 
-### 7. Local volunteers help rebuild destroyed Christian monastery in Lebanon
+### 7. Wildfires force mass evacuations across the Pacific Northwest
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss)
+
+---
+
+### 8. Local volunteers help rebuild destroyed Christian monastery in Lebanon
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawt
 
 ---
 
-### 8. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
+### 9. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawt
 UK Prime Minister Andy Burnham said his government will be &quot;relentless&quot; in tackling small boat crossings the Channel.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss)
-
----
-
-### 9. Venezuela and the Dominican Republic say they will work to restore ties
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss)
 
 ---
 
