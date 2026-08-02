@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-02T03:33:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A stray commit buried multiple levels deep cost me months",
+            "description": "<p>Article URL: <a href=\"https://www.droppedasbaby.com/posts/db-commits/\">https://www.droppedasbaby.com/posts/db-commits/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139562\">https://news.ycombinator.com/item?id=49139562</a></p>\n<p>Points: 23</p>\n<p># Comments: 8</p>",
+            "url": "https://www.droppedasbaby.com/posts/db-commits/",
+            "published": "Sat, 01 Aug 2026 23:19:23 +0000",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Unraveling the mysteries of habit formation",
+            "description": "<p>Article URL: <a href=\"https://www.kyoto-u.ac.jp/en/research-news/2026-07-28\">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139383\">https://news.ycombinator.com/item?id=49139383</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
+            "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+            "published": "Sat, 01 Aug 2026 22:55:52 +0000",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff\">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139352\">https://news.ycombinator.com/item?id=49139352</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+            "published": "Sat, 01 Aug 2026 22:52:44 +0000",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+            "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+            "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 20:09:27 GMT",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+            "description": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 22:23:20 GMT",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+            "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+            "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New York Times reveals Trump administration subpoena over North Korea story",
+            "description": "The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 23:42:44 +0000",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
+            "description": "Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
+            "url": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 23:15:40 +0000",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
+            "description": "No culprit has been identified in any of the attacks, which comes after authorities warned of possible Iranian plot.",
+            "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
+            "published": "Sat, 01 Aug 2026 22:34:36 +0000",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-02T03:33:57+03:30"
+        }
+    ]
+}
