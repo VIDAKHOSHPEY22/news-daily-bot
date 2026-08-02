@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-02 23:44:45
+**Last Update:** 2026-08-03 00:44:03
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. EU rules on AI models become enforceable. What's going to change?
+### 1. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change">https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147606">https://news.ycombinator.com/item?id=49147606</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.
 
-🔗 **Read more:** [https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change](https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. German carmakers flood jobs market with managers after wielding axe
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597">https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147478">https://news.ycombinator.com/item?id=49147478</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597](https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597)
-
----
-
-### 3. 'Crush this lady': how eBay harassment campaign led to $56M payout
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2">https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49147435">https://news.ycombinator.com/item?id=49147435</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2](https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2)
-
----
-
-### 4. Burnham pledges to be 'relentless' in curbing small boat crossings
+### 2. Burnham pledges to be 'relentless' in curbing small boat crossings
 
 **Source:** BBC
 
@@ -71,7 +36,7 @@ The prime minister says enforcement is increased but there also need to be more 
 
 ---
 
-### 5. Man admits transporting Scottish woman's body in suitcase, Greek police say
+### 3. Man admits transporting Scottish woman's body in suitcase, Greek police say
 
 **Source:** BBC
 
@@ -84,20 +49,33 @@ The man was arrested on suspicion of manslaughter, as well as robbery and weapon
 
 ---
 
-### 6. Prolonged drought could cause shortage of some foods, farmers' union head says
+### 4. UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply.
+UK Prime Minister Andy Burnham said his government will be &quot;relentless&quot; in tackling small boat crossings the Channel.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss)
 
 ---
 
-### 7. Is Washington dictating the agenda for talks in Venezuela?
+### 5. Venezuela and the Dominican Republic say they will work to restore ties
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Both countries have agreed on a plan to restore diplomatic relations cut off after a contested vote in 2024.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/venezuela-and-the-dominican-republic-say-they-will-work-to-restore-ties?traffic_source=rss)
+
+---
+
+### 6. Is Washington dictating the agenda for talks in Venezuela?
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ Venezuela&#039;s government and a section of the opposition plan to hold talks, 
 
 ---
 
-### 8. How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pro-Israel group unleashes its spending power to help elect Haley Stevens to US Senate against progressive doctor.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss)
-
----
-
-### 9. Israelis attack Armenian monastery in Jerusalem’s Old City
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Six Jewish Israelis were filmed spitting at the entrance to Saint James Monastery in Jerusalem&#039;s Old City.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss)
-
----
-
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 8. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 9. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
