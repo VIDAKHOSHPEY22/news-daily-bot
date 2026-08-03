@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 02:41:51
+**Last Update:** 2026-08-04 03:02:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162086">https://news.ycombinator.com/item?id=49162086</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 
 ---
 
-### 2. ZX Spectrum System Tour: Text Mode – Bumbershoot Software
+### 2. ZX Spectrum System Tour: Text Mode
 
 **Source:** Hacker News
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161801">https://news.ycombinator.com/item?id=49161801</a></p>
-<p>Points: 7</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.seangoedecke.com/llms-reward-expertise/">https://www.seangoedecke.com/llms-reward-expertise/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161518">https://news.ycombinator.com/item?id=49161518</a></p>
-<p>Points: 220</p>
-<p># Comments: 89</p>
+<p>Points: 268</p>
+<p># Comments: 114</p>
 
 🔗 **Read more:** [https://www.seangoedecke.com/llms-reward-expertise/](https://www.seangoedecke.com/llms-reward-expertise/)
 
@@ -97,7 +97,20 @@ The English Football Association is set to join Wales in withdrawing backing for
 
 ---
 
-### 7. Petrol prices strain US households as oil giants Chevron, Exxon profits soar
+### 7. Death toll from Venezuela earthquakes passes 6,000
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss)
+
+---
+
+### 8. Petrol prices strain US households as oil giants Chevron, Exxon profits soar
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Low-income US households are hit hardest, spending more than 10 percent of month
 
 ---
 
-### 8. From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics
+### 9. From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Low-income US households are hit hardest, spending more than 10 percent of month
 Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss)
-
----
-
-### 9. Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Alex Eala rallies past top seed Jessica Pegula in a two-day, rain-hit final, while Taylor Fritz beats teen Rafael Jodar.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss)
 
 ---
 
