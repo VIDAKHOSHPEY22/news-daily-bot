@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-03T19:19:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop",
+            "description": "<p>Article URL: <a href=\"https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first\">https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156650\">https://news.ycombinator.com/item?id=49156650</a></p>\n<p>Points: 40</p>\n<p># Comments: 21</p>",
+            "url": "https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first",
+            "published": "Mon, 03 Aug 2026 14:57:46 +0000",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
+            "description": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/8/2.html\">https://lapcatsoftware.com/articles/2026/8/2.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156299\">https://news.ycombinator.com/item?id=49156299</a></p>\n<p>Points: 25</p>\n<p># Comments: 0</p>",
+            "url": "https://lapcatsoftware.com/articles/2026/8/2.html",
+            "published": "Mon, 03 Aug 2026 14:29:51 +0000",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Devtools must be open source",
+            "description": "<p>Article URL: <a href=\"https://blog.exe.dev/devtools-must-be-open-source\">https://blog.exe.dev/devtools-must-be-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156111\">https://news.ycombinator.com/item?id=49156111</a></p>\n<p>Points: 80</p>\n<p># Comments: 20</p>",
+            "url": "https://blog.exe.dev/devtools-must-be-open-source",
+            "published": "Mon, 03 Aug 2026 14:15:47 +0000",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "English FA set to withdraw support for Fifa president Infantino",
+            "description": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 07:49:33 GMT",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+            "description": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 14:18:30 GMT",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
+            "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 03:32:21 GMT",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australia’s under-16 social media ban failing, study shows: What it means",
+            "description": "Australia&#039;s internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 15:21:55 +0000",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
+            "description": "Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 15:19:32 +0000",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
+            "description": "Defence giants Lockheed and Northrop see billion-dollar deals as Pentagon accelerates missile arsenal production",
+            "url": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 14:47:20 +0000",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-03T19:19:04+03:30"
+        }
+    ]
+}

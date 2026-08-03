@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 16:09:53
+**Last Update:** 2026-08-03 19:19:04
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The AI bubble is popping; we just don't know it yet
+### 1. Flock's CEO Faced Me After Its Cameras Led to My Wrongful Stop
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004">https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154601">https://news.ycombinator.com/item?id=49154601</a></p>
-<p>Points: 31</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first">https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49156650">https://news.ycombinator.com/item?id=49156650</a></p>
+<p>Points: 40</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
+🔗 **Read more:** [https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first](https://www.thedrive.com/podcast/flocks-ceo-wants-zero-wrongful-stops-i-wasnt-the-first)
 
 ---
 
-### 2. Critical CVE issued for hallucinated SQLite vulnerability
+### 2. Why does Mail app contact iCloud when sending a non-iCloud email?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154332">https://news.ycombinator.com/item?id=49154332</a></p>
-<p>Points: 148</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/2.html">https://lapcatsoftware.com/articles/2026/8/2.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49156299">https://news.ycombinator.com/item?id=49156299</a></p>
+<p>Points: 25</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/2.html](https://lapcatsoftware.com/articles/2026/8/2.html)
 
 ---
 
-### 3. 9front "This Was Supposed to Be Fun" Released
+### 3. Devtools must be open source
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://9front.org/releases/2026/08/02/0/">https://9front.org/releases/2026/08/02/0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154249">https://news.ycombinator.com/item?id=49154249</a></p>
-<p>Points: 23</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://blog.exe.dev/devtools-must-be-open-source">https://blog.exe.dev/devtools-must-be-open-source</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49156111">https://news.ycombinator.com/item?id=49156111</a></p>
+<p>Points: 80</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://9front.org/releases/2026/08/02/0/](https://9front.org/releases/2026/08/02/0/)
+🔗 **Read more:** [https://blog.exe.dev/devtools-must-be-open-source](https://blog.exe.dev/devtools-must-be-open-source)
 
 ---
 
@@ -71,16 +71,16 @@ The English Football Association is set to join Wales in withdrawing backing for
 
 ---
 
-### 5. Mother has ground-breaking surgery while pregnant to treat baby
+### 5. Iran says it is in talks with Oman but not the US after Trump says negotiations to resume
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.
+Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The BBC gains unique access to Rawalakot, scene of violent clashes between secur
 
 ---
 
-### 7. Who will shape post-war Iran?
+### 7. Australia’s under-16 social media ban failing, study shows: What it means
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There are competing narratives in Tehran for its post-war recovery.
+Australia&#039;s internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss)
 
 ---
 
-### 8. Palestine’s new ambassador to Spain calls for deeper friendship
+### 8. Tigray refugees flee into Sudan after deadly violence on Ethiopia border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestine&#039;s new ambassador to Spain, Fadi Elhusseini, has shared his first message since taking office.
+Ethiopian army accused of attacking Tigray forces in Shererina amid escalating tensions at the Sudan-Ethiopia border.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss)
 
 ---
 
-### 9. Pakistan-administered Kashmir elections and protests – all you need to know
+### 9. Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.
+Defence giants Lockheed and Northrop see billion-dollar deals as Pentagon accelerates missile arsenal production
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss)
 
 ---
 
