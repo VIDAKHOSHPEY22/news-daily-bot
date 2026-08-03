@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T02:41:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+            "description": "<p>Article URL: <a href=\"https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162086\">https://news.ycombinator.com/item?id=49162086</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+            "published": "Mon, 03 Aug 2026 22:04:49 +0000",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ZX Spectrum System Tour: Text Mode – Bumbershoot Software",
+            "description": "<p>Article URL: <a href=\"https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/\">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49161801\">https://news.ycombinator.com/item?id=49161801</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+            "published": "Mon, 03 Aug 2026 21:39:12 +0000",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LLMs reward expertise",
+            "description": "<p>Article URL: <a href=\"https://www.seangoedecke.com/llms-reward-expertise/\">https://www.seangoedecke.com/llms-reward-expertise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49161518\">https://news.ycombinator.com/item?id=49161518</a></p>\n<p>Points: 220</p>\n<p># Comments: 89</p>",
+            "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+            "published": "Mon, 03 Aug 2026 21:13:53 +0000",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rapists and child sex offenders to be barred from early release scheme",
+            "description": "The widow of PC Andrew Harper says it is \"disgusting\" her husband's killers remain eligible for the scheme in England and Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 21:35:15 GMT",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+            "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+            "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 18:04:30 GMT",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+            "description": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 07:49:33 GMT",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
+            "description": "Low-income US households are hit hardest, spending more than 10 percent of monthly income on petrol as prices rise.",
+            "url": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 23:02:07 +0000",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
+            "description": "Arab Americans in Michigan who withheld support for Kamala Harris in 2024 say they will not back pro-Israel candidates.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/from-donald-trump-to-abdul-el-sayed-us-arabs-centre-palestine-in-politics?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 22:35:47 +0000",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tennis: Philippines’ Eala wins first WTA title, Fritz claims DC crown",
+            "description": "Alex Eala rallies past top seed Jessica Pegula in a two-day, rain-hit final, while Taylor Fritz beats teen Rafael Jodar.",
+            "url": "https://www.aljazeera.com/sports/2026/8/3/tennis-philippines-eala-wins-first-wta-title-fritz-claims-dc-crown?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 22:31:08 +0000",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T02:41:51+03:30"
+        }
+    ]
+}
