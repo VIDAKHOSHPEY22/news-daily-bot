@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-03T04:30:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+            "description": "<p>Article URL: <a href=\"https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/\">https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149746\">https://news.ycombinator.com/item?id=49149746</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+            "published": "Mon, 03 Aug 2026 00:12:16 +0000",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+            "description": "<p>Article URL: <a href=\"https://github.com/pg83/shitty\">https://github.com/pg83/shitty</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149326\">https://news.ycombinator.com/item?id=49149326</a></p>\n<p>Points: 70</p>\n<p># Comments: 33</p>",
+            "url": "https://github.com/pg83/shitty",
+            "published": "Sun, 02 Aug 2026 23:05:41 +0000",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Computational Theory of Mind (2015)",
+            "description": "<p>Article URL: <a href=\"https://plato.stanford.edu/entries/computational-mind/\">https://plato.stanford.edu/entries/computational-mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149125\">https://news.ycombinator.com/item?id=49149125</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
+            "url": "https://plato.stanford.edu/entries/computational-mind/",
+            "published": "Sun, 02 Aug 2026 22:35:35 +0000",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump suggests new talks with Iran to begin on Monday",
+            "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 00:11:18 GMT",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+            "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+            "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 20:36:37 GMT",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+            "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+            "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 23:15:14 GMT",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+            "description": "Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 00:18:50 +0000",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+            "description": "US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 00:00:15 +0000",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says new round of Iran talks will begin Monday",
+            "description": "The US president says Gulf allies and Tehran urged him to delay planned strikes.",
+            "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+            "published": "Sun, 02 Aug 2026 23:48:08 +0000",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-03T04:30:42+03:30"
+        }
+    ]
+}

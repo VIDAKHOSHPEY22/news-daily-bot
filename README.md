@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 03:35:04
+**Last Update:** 2026-08-03 04:30:42
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
+### 1. Why Book Corners won't sync contributions back to OpenStreetMap
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/">https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149746">https://news.ycombinator.com/item?id=49149746</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
+
+---
+
+### 2. Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/pg83/shitty">https://github.com/pg83/shitty</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149326">https://news.ycombinator.com/item?id=49149326</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Points: 70</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://github.com/pg83/shitty](https://github.com/pg83/shitty)
-
----
-
-### 2. AI poster wins Ohio State Fair contest
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ohiostatefair.com/p/get-involved/arts/poster-contest">https://www.ohiostatefair.com/p/get-involved/arts/poster-contest</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149188">https://news.ycombinator.com/item?id=49149188</a></p>
-<p>Points: 64</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://www.ohiostatefair.com/p/get-involved/arts/poster-contest](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
 
 ---
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://plato.stanford.edu/entries/computational-mind/">https://plato.stanford.edu/entries/computational-mind/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149125">https://news.ycombinator.com/item?id=49149125</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 23</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://plato.stanford.edu/entries/computational-mind/](https://plato.stanford.edu/entries/computational-mind/)
 
 ---
 
-### 4. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
+### 4. Trump suggests new talks with Iran to begin on Monday
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Burnham pledges to be 'relentless' in curbing small boat crossings
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister says enforcement is increased but there also need to be more safe routes into the UK.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The US singer, 33, will "step back from visibility" at the end of her world tour
 
 ---
 
-### 7. Sudan army drone attack on Darfur kills 35, rights group says
+### 7. Suicide bombing kills at least 14 people in Pakistan’s Swat Valley
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tens of thousands of people have been killed in the ongoing war between army chief al-Burhan and RSF commander Dagalo.
+Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss)
 
 ---
 
-### 8. Wildfires force mass evacuations across the Pacific Northwest
+### 8. Iran war live: Trump says talks to resume; Tehran urges US to honour MoU
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fast-moving wildfires are forcing evacuations across Washington State, US and nearby British Columbia, Canada.
+US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss)
 
 ---
 
-### 9. Local volunteers help rebuild destroyed Christian monastery in Lebanon
+### 9. Trump says new round of Iran talks will begin Monday
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.
+The US president says Gulf allies and Tehran urged him to delay planned strikes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss)
 
 ---
 
