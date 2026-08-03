@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 12:15:06
+**Last Update:** 2026-08-03 16:03:34
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Rust project goals: Immobile types and guaranteed destructors
+### 1. The AI bubble is popping; we just don't know it yet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md">https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49152023">https://news.ycombinator.com/item?id=49152023</a></p>
-<p>Points: 39</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004">https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154601">https://news.ycombinator.com/item?id=49154601</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
+🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004](https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004)
 
 ---
 
-### 2. Don't be a meat proxy
+### 2. Critical CVE issued for hallucinated SQLite vulnerability
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gruhn.me/blog/2026-08-03/">https://gruhn.me/blog/2026-08-03/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49151933">https://news.ycombinator.com/item?id=49151933</a></p>
-<p>Points: 331</p>
-<p># Comments: 144</p>
+<p>Article URL: <a href="https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154332">https://news.ycombinator.com/item?id=49154332</a></p>
+<p>Points: 101</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://gruhn.me/blog/2026-08-03/](https://gruhn.me/blog/2026-08-03/)
+🔗 **Read more:** [https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 
 ---
 
-### 3. More German than many Germans
+### 3. 9front "This Was Supposed to Be Fun" Released
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mertbulan.com/more-german-than-many-germans/">https://mertbulan.com/more-german-than-many-germans/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49151734">https://news.ycombinator.com/item?id=49151734</a></p>
-<p>Points: 176</p>
-<p># Comments: 71</p>
+<p>Article URL: <a href="https://9front.org/releases/2026/08/02/0/">https://9front.org/releases/2026/08/02/0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49154249">https://news.ycombinator.com/item?id=49154249</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://mertbulan.com/more-german-than-many-germans/](https://mertbulan.com/more-german-than-many-germans/)
+🔗 **Read more:** [https://9front.org/releases/2026/08/02/0/](https://9front.org/releases/2026/08/02/0/)
 
 ---
 
-### 4. Uefa threatens Fifa with legal action as English FA set to withdraw support from Infantino
+### 4. English FA set to withdraw support for Fifa president Infantino
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa threatens legal action over Gianni Infantino's scrapped plans to sell off stakes in Fifa competitions to private investors.
+The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body
+### 5. Mother has ground-breaking surgery while pregnant to treat baby
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ Theo became the first British baby to be operated on in the womb to correct comp
 
 ---
 
-### 6. Trump suggests new talks with Iran to begin on Monday
+### 6. BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.
+The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Michael Thorbjornsen wins first PGA Tour title at Rocket Classic
+### 7. Who will shape post-war Iran?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thorbjornsen, who joined the Tour as a rookie in 2025, is widely considered one of the rising stars of US golf.
+There are competing narratives in Tehran for its post-war recovery.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss)
 
 ---
 
-### 8. Spanish farmer finds donkeys alive after wildfires destroy her property
+### 8. Palestine’s new ambassador to Spain calls for deeper friendship
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spanish farmer finds donkeys alive after wildfires destroy her property
+Palestine&#039;s new ambassador to Spain, Fadi Elhusseini, has shared his first message since taking office.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/spanish-farmer-finds-donkeys-alive-after-wildfires-destroy-her-property?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/spanish-farmer-finds-donkeys-alive-after-wildfires-destroy-her-property?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss)
 
 ---
 
-### 9. Jasprit Bumrah ruled out of Sri Lanka Test series due to injury
+### 9. Pakistan-administered Kashmir elections and protests – all you need to know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bumrah, the world&#039;s top-ranked Test bowler, will miss the tour after sustaining an on-field injury in the UK last month.
+Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss)
 
 ---
 
