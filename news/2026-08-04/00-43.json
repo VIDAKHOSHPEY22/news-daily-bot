@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T00:43:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+            "description": "<p>Article URL: <a href=\"https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/\">https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49160699\">https://news.ycombinator.com/item?id=49160699</a></p>\n<p>Points: 44</p>\n<p># Comments: 6</p>",
+            "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+            "published": "Mon, 03 Aug 2026 20:02:21 +0000",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DDoS against Norwegian government IT infrastructure – status",
+            "description": "<p>Article URL: <a href=\"https://status.digdir.no/incidents/d7hvqmf2yr3l\">https://status.digdir.no/incidents/d7hvqmf2yr3l</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49160631\">https://news.ycombinator.com/item?id=49160631</a></p>\n<p>Points: 62</p>\n<p># Comments: 31</p>",
+            "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+            "published": "Mon, 03 Aug 2026 19:56:27 +0000",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+            "description": "<p>Article URL: <a href=\"https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real\">https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49160437\">https://news.ycombinator.com/item?id=49160437</a></p>\n<p>Points: 64</p>\n<p># Comments: 62</p>",
+            "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+            "published": "Mon, 03 Aug 2026 19:39:34 +0000",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+            "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+            "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 18:04:30 GMT",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+            "description": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 07:49:33 GMT",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+            "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 19:42:55 GMT",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+            "description": "Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 20:58:19 +0000",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
+            "description": "Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 20:24:02 +0000",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Survivors reach port after deadly Indonesia ferry fire",
+            "description": "Survivors reach port after deadly Indonesia ferry fire",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 19:55:36 +0000",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T00:43:43+03:30"
+        }
+    ]
+}

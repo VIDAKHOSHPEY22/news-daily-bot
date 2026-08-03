@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 23:35:15
+**Last Update:** 2026-08-04 00:43:43
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. ZX Spectrum System Tour: Sound
+### 1. AI's debt binge can't last, hidden borrowing reaches $1.65T
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/">https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49159676">https://news.ycombinator.com/item?id=49159676</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/">https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160699">https://news.ycombinator.com/item?id=49160699</a></p>
+<p>Points: 44</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
+🔗 **Read more:** [https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/](https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/)
 
 ---
 
-### 2. The Billable Usage API: programmatic cost visibility for Cloudflare
+### 2. DDoS against Norwegian government IT infrastructure – status
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/billable-usage-api/">https://blog.cloudflare.com/billable-usage-api/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158714">https://news.ycombinator.com/item?id=49158714</a></p>
-<p>Points: 21</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://status.digdir.no/incidents/d7hvqmf2yr3l">https://status.digdir.no/incidents/d7hvqmf2yr3l</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160631">https://news.ycombinator.com/item?id=49160631</a></p>
+<p>Points: 62</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/billable-usage-api/](https://blog.cloudflare.com/billable-usage-api/)
+🔗 **Read more:** [https://status.digdir.no/incidents/d7hvqmf2yr3l](https://status.digdir.no/incidents/d7hvqmf2yr3l)
 
 ---
 
-### 3. Smaller, faster, safer: running Kimi and GLM at scale
+### 3. The Dunning-Kruger effect may just be a data artefact (2020)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/smaller-faster-safer-models/">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158581">https://news.ycombinator.com/item?id=49158581</a></p>
-<p>Points: 42</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real">https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49160437">https://news.ycombinator.com/item?id=49160437</a></p>
+<p>Points: 64</p>
+<p># Comments: 62</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/smaller-faster-safer-models/](https://blog.cloudflare.com/smaller-faster-safer-models/)
+🔗 **Read more:** [https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real](https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real)
 
 ---
 
@@ -97,42 +97,42 @@ Iran's remarks that there were no talks with the US prompts Donald Trump to issu
 
 ---
 
-### 7. Bomb disposal underway in Le Porge after wildfires unearth WWII shells
+### 7. El-Sayed, Stevens face off in Michigan Democratic Senate primary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.
+Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss)
 
 ---
 
-### 8. US announces first two deaths from cyclospora outbreak
+### 8. Hundreds of migrant minors stranded in Ceuta after border crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.
+Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss)
 
 ---
 
-### 9. Can Netanyahu survive Israel’s most consequential election?
+### 9. Survivors reach port after deadly Indonesia ferry fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.
+Survivors reach port after deadly Indonesia ferry fire
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss)
 
 ---
 
