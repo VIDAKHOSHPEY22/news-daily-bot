@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 04:30:42
+**Last Update:** 2026-08-03 08:06:44
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Why Book Corners won't sync contributions back to OpenStreetMap
+### 1. Qwen3.8-Max: A New Bar for Coding and Cowork
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/">https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149746">https://news.ycombinator.com/item?id=49149746</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8">https://qwen.ai/blog?id=qwen3.8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150470">https://news.ycombinator.com/item?id=49150470</a></p>
+<p>Points: 181</p>
+<p># Comments: 72</p>
 
-🔗 **Read more:** [https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/)
+🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8](https://qwen.ai/blog?id=qwen3.8)
 
 ---
 
-### 2. Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
+### 2. RFC 9851: TLS 1.2 is in Feature Freeze
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/pg83/shitty">https://github.com/pg83/shitty</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149326">https://news.ycombinator.com/item?id=49149326</a></p>
-<p>Points: 70</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://www.rfc-editor.org/rfc/rfc9851.html">https://www.rfc-editor.org/rfc/rfc9851.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150181">https://news.ycombinator.com/item?id=49150181</a></p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://github.com/pg83/shitty](https://github.com/pg83/shitty)
+🔗 **Read more:** [https://www.rfc-editor.org/rfc/rfc9851.html](https://www.rfc-editor.org/rfc/rfc9851.html)
 
 ---
 
-### 3. The Computational Theory of Mind (2015)
+### 3. Show HN: Isopolis – Isometric pixel map of SF
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://plato.stanford.edu/entries/computational-mind/">https://plato.stanford.edu/entries/computational-mind/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149125">https://news.ycombinator.com/item?id=49149125</a></p>
-<p>Points: 23</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://sf.isopolis.city/">https://sf.isopolis.city/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149966">https://news.ycombinator.com/item?id=49149966</a></p>
+<p>Points: 105</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://plato.stanford.edu/entries/computational-mind/](https://plato.stanford.edu/entries/computational-mind/)
+🔗 **Read more:** [https://sf.isopolis.city/](https://sf.isopolis.city/)
 
 ---
 
@@ -71,16 +71,16 @@ Tehran has not responded to the suggestion that new talks are imminent. Trump ha
 
 ---
 
-### 5. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
+### 5. 'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.
+The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The US singer, 33, will "step back from visibility" at the end of her world tour
 
 ---
 
-### 7. Suicide bombing kills at least 14 people in Pakistan’s Swat Valley
+### 7. Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows blast victims hurried into a hospital in northwestern Pakistan, after a suicide bombing.
+A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Trump says talks to resume; Tehran urges US to honour MoU
+### 8. Trump pauses ‘massive attack’ on Iran, says new talks to begin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says an agreement with Iran is imminent, with negotiations set to begin on Monday.
+US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss)
 
 ---
 
-### 9. Trump says new round of Iran talks will begin Monday
+### 9. Brazil’s Lula launches reelection bid amid foreign interference concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president says Gulf allies and Tehran urged him to delay planned strikes.
+Brazil&#039;s President Luiz Inácio Lula da Silva has officially launched his reelection campaign.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss](https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss)
 
 ---
 
@@ -149,29 +149,29 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 11. Iceberg B22A
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736)
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Iceberg C39
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
 
 ---
 
