@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 02:54:51
+**Last Update:** 2026-08-03 03:35:04
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
+### 1. Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/pg83/shitty">https://github.com/pg83/shitty</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149326">https://news.ycombinator.com/item?id=49149326</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/pg83/shitty](https://github.com/pg83/shitty)
+
+---
+
+### 2. AI poster wins Ohio State Fair contest
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ohiostatefair.com/p/get-involved/arts/poster-contest">https://www.ohiostatefair.com/p/get-involved/arts/poster-contest</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149188">https://news.ycombinator.com/item?id=49149188</a></p>
+<p>Points: 64</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://www.ohiostatefair.com/p/get-involved/arts/poster-contest](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
+
+---
+
+### 3. The Computational Theory of Mind (2015)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://plato.stanford.edu/entries/computational-mind/">https://plato.stanford.edu/entries/computational-mind/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149125">https://news.ycombinator.com/item?id=49149125</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://plato.stanford.edu/entries/computational-mind/](https://plato.stanford.edu/entries/computational-mind/)
+
+---
+
+### 4. Two crew killed after firefighting helicopters collide in Greece, as British pilot survives
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ One Danish and one Greek national died in the incident, while a British pilot an
 
 ---
 
-### 2. Burnham pledges to be 'relentless' in curbing small boat crossings
+### 5. Burnham pledges to be 'relentless' in curbing small boat crossings
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The prime minister says enforcement is increased but there also need to be more 
 
 ---
 
-### 3. Ariana Grande to take a break from public life amid 'endless' scrutiny
+### 6. Ariana Grande to take a break from public life amid 'endless' scrutiny
 
 **Source:** BBC
 
@@ -49,7 +97,7 @@ The US singer, 33, will "step back from visibility" at the end of her world tour
 
 ---
 
-### 4. Sudan army drone attack on Darfur kills 35, rights group says
+### 7. Sudan army drone attack on Darfur kills 35, rights group says
 
 **Source:** Al Jazeera
 
@@ -62,7 +110,7 @@ Tens of thousands of people have been killed in the ongoing war between army chi
 
 ---
 
-### 5. Wildfires force mass evacuations across the Pacific Northwest
+### 8. Wildfires force mass evacuations across the Pacific Northwest
 
 **Source:** Al Jazeera
 
@@ -75,7 +123,7 @@ Fast-moving wildfires are forcing evacuations across Washington State, US and ne
 
 ---
 
-### 6. Local volunteers help rebuild destroyed Christian monastery in Lebanon
+### 9. Local volunteers help rebuild destroyed Christian monastery in Lebanon
 
 **Source:** Al Jazeera
 
@@ -88,7 +136,7 @@ Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawt
 
 ---
 
-### 7. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Duhamel, Pennington, South Dakota
+### 11. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
