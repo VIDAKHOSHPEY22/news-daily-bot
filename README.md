@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 12:06:37
+**Last Update:** 2026-08-03 12:15:06
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -58,16 +58,16 @@
 
 ---
 
-### 4. Trump suggests new talks with Iran to begin on Monday
+### 4. Uefa threatens Fifa with legal action as English FA set to withdraw support from Infantino
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.
+Uefa threatens legal action over Gianni Infantino's scrapped plans to sell off stakes in Fifa competitions to private investors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,20 +84,46 @@ Theo became the first British baby to be operated on in the womb to correct comp
 
 ---
 
-### 6. Uefa threatens Fifa with legal action over investment plan
+### 6. Trump suggests new talks with Iran to begin on Monday
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa threatens legal action over Gianni Infantino's scrapped plans to sell off stakes in Fifa competitions to private investors.
+Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Jasprit Bumrah ruled out of Sri Lanka Test series due to injury
+### 7. Michael Thorbjornsen wins first PGA Tour title at Rocket Classic
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thorbjornsen, who joined the Tour as a rookie in 2025, is widely considered one of the rising stars of US golf.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss)
+
+---
+
+### 8. Spanish farmer finds donkeys alive after wildfires destroy her property
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Spanish farmer finds donkeys alive after wildfires destroy her property
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/spanish-farmer-finds-donkeys-alive-after-wildfires-destroy-her-property?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/spanish-farmer-finds-donkeys-alive-after-wildfires-destroy-her-property?traffic_source=rss)
+
+---
+
+### 9. Jasprit Bumrah ruled out of Sri Lanka Test series due to injury
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Uefa threatens legal action over Gianni Infantino's scrapped plans to sell off s
 Bumrah, the world&#039;s top-ranked Test bowler, will miss the tour after sustaining an on-field injury in the UK last month.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss)
-
----
-
-### 8. ‘Tell us’: Gaza family trapped between hope and pain over missing brothers
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The disappearance of two boys last year has turned the Abdel Aal family’s life into an endless search for answers.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss](https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss)
-
----
-
-### 9. Grid failure plunges Cuba into nationwide blackout
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss)
 
 ---
 
