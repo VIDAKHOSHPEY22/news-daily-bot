@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-03T21:29:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+            "description": "<p>Article URL: <a href=\"https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase\">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158474\">https://news.ycombinator.com/item?id=49158474</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+            "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+            "published": "Mon, 03 Aug 2026 17:02:10 +0000",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SearXNG in Rust",
+            "description": "<p>Article URL: <a href=\"https://github.com/MikeLuu99/searxng-rust\">https://github.com/MikeLuu99/searxng-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158141\">https://news.ycombinator.com/item?id=49158141</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/MikeLuu99/searxng-rust",
+            "published": "Mon, 03 Aug 2026 16:41:40 +0000",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+            "description": "<p>Hi HN, we’re Bence and Ryan, founders of Hoplite (<a href=\"https://hoplite.sh\">https://hoplite.sh</a>). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features. During onboarding, we port over your local setup - sessions, memories, MCP servers, and get your projects ready to run in the cloud.<p>Here’s a demo: <a href=\"https://youtu.be/bnyktZ_9pjE\" rel=\"nofollow\">https://youtu.be/bnyktZ_9pjE</a><p>We got here after pivoting away from the idea we applied to YC with; AI for retail investing. It ultimately wasn’t a product that we ourselves would use, nor served a customer base that we felt connected to. In reflecting on what we really wanted to do, we realised that we loved talking to founders and developers, and were really opinionated about the specific area of cloud agents. We tried out all the existing solutions, and didn’t find one that A) took good advantage of being in the cloud, and B) was performant and felt good to use.<p>We’re building a product that we feel reflects what mainstream development will look like in 6-12 months. As models improve, developers will end up reviewing less and less code, and will instead focus on reviewing the product output. That means evaluating new user flows, visually verifying that new features look good, that the API works as expected, that the CLI works on Windows, etc. And doing it while running hundreds of agents concurrently.<p>On the agent side, we’ve created a custom harness. We spent a lot of time deciding on whether we should use an off the shelf solution like Codex/Claude Code, but ultimately wanted the independence and freedom that came with building it in house. It also means that we can test out completely new features without relying on Anthropic and OpenAI to catch up.<p>Everything is hosted on AWS, with the exception of: Temporal for durable workflows, Modal for sandboxes, and Planetscale for our database. Our infra decisions were driven by a strong belief that agents are becoming a tier 0 piece of infrastructure, and they need the reliability and security to match that.<p>You can try it now for free with the code ‘HACKERNEWS’ - we’ve included $100 in free credits, plus you can connect your Codex subscription and use OpenAI models via it. You can see some more details around our pricing at <a href=\"https://hoplite.sh/pricing\">https://hoplite.sh/pricing</a>.<p>At the moment we’re focusing on optimising two key experiences: onboarding and previews, and would love to hear your feedback on them. And if you find that the agent's performance in certain tasks doesn’t match your expectations, please let us know!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157997\">https://news.ycombinator.com/item?id=49157997</a></p>\n<p>Points: 17</p>\n<p># Comments: 15</p>",
+            "url": "https://hoplite.sh",
+            "published": "Mon, 03 Aug 2026 16:32:06 +0000",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "English FA set to withdraw support for Fifa president Infantino",
+            "description": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 07:49:33 GMT",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+            "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 17:41:27 GMT",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "France hits out at Reform UK plan to return migrants using Navy",
+            "description": "It comes after the party said it would override French objections to return migrants to France.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 16:48:58 GMT",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Republicans say they will back Blanche after US Justice Department order",
+            "description": "Two Republican senators say they will end their opposition after order cancelling controversial $1.8bn fund.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 17:39:38 +0000",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
+            "description": "Trump demands &quot;Total Surrender&quot; amid escalating naval blockade in the crucial Strait of Hormuz.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 17:38:01 +0000",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New illegal Israeli outpost spotted in occupied West Bank",
+            "description": "Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 17:07:37 +0000",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-03T21:29:21+03:30"
+        }
+    ]
+}
