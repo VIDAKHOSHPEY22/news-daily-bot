@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-03T16:09:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI bubble is popping; we just don't know it yet",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004\">https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154601\">https://news.ycombinator.com/item?id=49154601</a></p>\n<p>Points: 31</p>\n<p># Comments: 15</p>",
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+            "published": "Mon, 03 Aug 2026 11:59:10 +0000",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+            "description": "<p>Article URL: <a href=\"https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154332\">https://news.ycombinator.com/item?id=49154332</a></p>\n<p>Points: 148</p>\n<p># Comments: 37</p>",
+            "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+            "published": "Mon, 03 Aug 2026 11:28:54 +0000",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "9front \"This Was Supposed to Be Fun\" Released",
+            "description": "<p>Article URL: <a href=\"https://9front.org/releases/2026/08/02/0/\">https://9front.org/releases/2026/08/02/0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154249\">https://news.ycombinator.com/item?id=49154249</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
+            "url": "https://9front.org/releases/2026/08/02/0/",
+            "published": "Mon, 03 Aug 2026 11:17:56 +0000",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "English FA set to withdraw support for Fifa president Infantino",
+            "description": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 07:49:33 GMT",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mother has ground-breaking surgery while pregnant to treat baby",
+            "description": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
+            "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 05:02:25 GMT",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
+            "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 03:32:21 GMT",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who will shape post-war Iran?",
+            "description": "There are competing narratives in Tehran for its post-war recovery.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 12:11:03 +0000",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine’s new ambassador to Spain calls for deeper friendship",
+            "description": "Palestine&#039;s new ambassador to Spain, Fadi Elhusseini, has shared his first message since taking office.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 12:09:19 +0000",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan-administered Kashmir elections and protests – all you need to know",
+            "description": "Protests over refugee seats turn deadly, forcing staggered elections under internet blackout and calls for a boycott.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 11:51:30 +0000",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-03T16:09:53+03:30"
+        }
+    ]
+}
