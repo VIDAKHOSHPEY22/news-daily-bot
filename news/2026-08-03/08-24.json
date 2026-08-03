@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-03T08:24:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+            "description": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8\">https://qwen.ai/blog?id=qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150470\">https://news.ycombinator.com/item?id=49150470</a></p>\n<p>Points: 181</p>\n<p># Comments: 72</p>",
+            "url": "https://qwen.ai/blog?id=qwen3.8",
+            "published": "Mon, 03 Aug 2026 02:16:09 +0000",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+            "description": "<p>Article URL: <a href=\"https://www.rfc-editor.org/rfc/rfc9851.html\">https://www.rfc-editor.org/rfc/rfc9851.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150181\">https://news.ycombinator.com/item?id=49150181</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
+            "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+            "published": "Mon, 03 Aug 2026 01:23:26 +0000",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Isopolis – Isometric pixel map of SF",
+            "description": "<p>Article URL: <a href=\"https://sf.isopolis.city/\">https://sf.isopolis.city/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149966\">https://news.ycombinator.com/item?id=49149966</a></p>\n<p>Points: 105</p>\n<p># Comments: 26</p>",
+            "url": "https://sf.isopolis.city/",
+            "published": "Mon, 03 Aug 2026 00:46:38 +0000",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump suggests new talks with Iran to begin on Monday",
+            "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 00:11:18 GMT",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+            "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 03:32:21 GMT",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+            "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+            "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 02 Aug 2026 23:15:14 GMT",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
+            "description": "A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 03:26:08 +0000",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+            "description": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 03:17:33 +0000",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
+            "description": "Brazil&#039;s President Luiz Inácio Lula da Silva has officially launched his reelection campaign.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 02:54:25 +0000",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22A",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736",
+            "published": "2011-08-30T00:00:00Z",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-08-03T08:24:03+03:30"
+        }
+    ]
+}
