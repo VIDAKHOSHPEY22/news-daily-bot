@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 21:43:22
+**Last Update:** 2026-08-03 23:21:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Billable Usage API: programmatic cost visibility for Cloudflare
+### 1. ZX Spectrum System Tour: Sound
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/">https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49159676">https://news.ycombinator.com/item?id=49159676</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/](https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/)
+
+---
+
+### 2. The Billable Usage API: programmatic cost visibility for Cloudflare
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/billable-usage-api/">https://blog.cloudflare.com/billable-usage-api/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158714">https://news.ycombinator.com/item?id=49158714</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 21</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/billable-usage-api/](https://blog.cloudflare.com/billable-usage-api/)
 
 ---
 
-### 2. Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years
+### 3. Smaller, faster, safer: running Kimi and GLM at scale
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158474">https://news.ycombinator.com/item?id=49158474</a></p>
-<p>Points: 29</p>
+<p>Article URL: <a href="https://blog.cloudflare.com/smaller-faster-safer-models/">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158581">https://news.ycombinator.com/item?id=49158581</a></p>
+<p>Points: 34</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
-
----
-
-### 3. SearXNG in Rust
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/MikeLuu99/searxng-rust">https://github.com/MikeLuu99/searxng-rust</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49158141">https://news.ycombinator.com/item?id=49158141</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/MikeLuu99/searxng-rust](https://github.com/MikeLuu99/searxng-rust)
+🔗 **Read more:** [https://blog.cloudflare.com/smaller-faster-safer-models/](https://blog.cloudflare.com/smaller-faster-safer-models/)
 
 ---
 
@@ -71,7 +71,7 @@ Three children were killed when the drone crashed at a popular resort on the Bla
 
 ---
 
-### 5. English FA set to withdraw support for Fifa president Infantino
+### 5. Infantino opponents threaten 'non co-operation' with Fifa
 
 **Source:** BBC
 
@@ -97,46 +97,46 @@ Iran's remarks that there were no talks with the US prompts Donald Trump to issu
 
 ---
 
-### 7. Republicans say they will back Blanche after US Justice Department order
+### 7. Bomb disposal underway in Le Porge after wildfires unearth WWII shells
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two Republican senators say they will end their opposition after order cancelling controversial $1.8bn fund.
+Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss)
 
 ---
 
-### 8. Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US
+### 8. US announces first two deaths from cyclospora outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president demands &#039;Total Surrender&#039; amid escalating naval blockade in the crucial Strait of Hormuz.
+Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss)
 
 ---
 
-### 9. New illegal Israeli outpost spotted in occupied West Bank
+### 9. Can Netanyahu survive Israel’s most consequential election?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.
+Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Camden McCarthy Overpass Fire, Camden, Georgia
+### 10. Wildfire Middle Coulee, Chouteau, Montana
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ Palestinians say settlers are establishing a new illegal outpost near Arabuna, D
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
 
 ---
 
-### 11. Wildfire Duhamel, Pennington, South Dakota
+### 11. Wildfire Antelope Creek, Elko, Nevada
 
 **Source:** NASA
 
@@ -158,11 +158,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
 
 ---
 
-### 12. Wildfire HOLEY LAND (6), Broward, Florida
+### 12. Wildfire Bluegill, Miami-Dade, Florida
 
 **Source:** NASA
 
@@ -171,7 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 

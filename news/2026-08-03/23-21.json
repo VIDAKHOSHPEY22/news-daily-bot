@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-03T23:21:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ZX Spectrum System Tour: Sound",
+            "description": "<p>Article URL: <a href=\"https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/\">https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49159676\">https://news.ycombinator.com/item?id=49159676</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
+            "published": "Mon, 03 Aug 2026 18:32:06 +0000",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/billable-usage-api/\">https://blog.cloudflare.com/billable-usage-api/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158714\">https://news.ycombinator.com/item?id=49158714</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.cloudflare.com/billable-usage-api/",
+            "published": "Mon, 03 Aug 2026 17:18:06 +0000",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/smaller-faster-safer-models/\">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158581\">https://news.ycombinator.com/item?id=49158581</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
+            "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+            "published": "Mon, 03 Aug 2026 17:08:46 +0000",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+            "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+            "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 18:04:30 GMT",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+            "description": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 07:49:33 GMT",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+            "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 19:42:55 GMT",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
+            "description": "Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 18:55:25 +0000",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US announces first two deaths from cyclospora outbreak",
+            "description": "Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 18:35:09 +0000",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Netanyahu survive Israel’s most consequential election?",
+            "description": "Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 18:16:00 +0000",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-03T23:21:40+03:30"
+        }
+    ]
+}
