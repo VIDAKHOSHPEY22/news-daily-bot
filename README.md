@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-03 08:24:03
+**Last Update:** 2026-08-03 12:06:37
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Qwen3.8-Max: A New Bar for Coding and Cowork
+### 1. Rust project goals: Immobile types and guaranteed destructors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8">https://qwen.ai/blog?id=qwen3.8</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150470">https://news.ycombinator.com/item?id=49150470</a></p>
-<p>Points: 181</p>
-<p># Comments: 72</p>
+<p>Article URL: <a href="https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md">https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49152023">https://news.ycombinator.com/item?id=49152023</a></p>
+<p>Points: 39</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8](https://qwen.ai/blog?id=qwen3.8)
+🔗 **Read more:** [https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 
 ---
 
-### 2. RFC 9851: TLS 1.2 is in Feature Freeze
+### 2. Don't be a meat proxy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rfc-editor.org/rfc/rfc9851.html">https://www.rfc-editor.org/rfc/rfc9851.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49150181">https://news.ycombinator.com/item?id=49150181</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://gruhn.me/blog/2026-08-03/">https://gruhn.me/blog/2026-08-03/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49151933">https://news.ycombinator.com/item?id=49151933</a></p>
+<p>Points: 331</p>
+<p># Comments: 144</p>
 
-🔗 **Read more:** [https://www.rfc-editor.org/rfc/rfc9851.html](https://www.rfc-editor.org/rfc/rfc9851.html)
+🔗 **Read more:** [https://gruhn.me/blog/2026-08-03/](https://gruhn.me/blog/2026-08-03/)
 
 ---
 
-### 3. Show HN: Isopolis – Isometric pixel map of SF
+### 3. More German than many Germans
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sf.isopolis.city/">https://sf.isopolis.city/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49149966">https://news.ycombinator.com/item?id=49149966</a></p>
-<p>Points: 105</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://mertbulan.com/more-german-than-many-germans/">https://mertbulan.com/more-german-than-many-germans/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49151734">https://news.ycombinator.com/item?id=49151734</a></p>
+<p>Points: 176</p>
+<p># Comments: 71</p>
 
-🔗 **Read more:** [https://sf.isopolis.city/](https://sf.isopolis.city/)
+🔗 **Read more:** [https://mertbulan.com/more-german-than-many-germans/](https://mertbulan.com/more-german-than-many-germans/)
 
 ---
 
@@ -71,68 +71,68 @@ Tehran has not responded to the suggestion that new talks are imminent. Trump ha
 
 ---
 
-### 5. 'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir
+### 5. Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.
+Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Ariana Grande to take a break from public life amid 'endless' scrutiny
+### 6. Uefa threatens Fifa with legal action over investment plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US singer, 33, will "step back from visibility" at the end of her world tour next month, her representative says.
+Uefa threatens legal action over Gianni Infantino's scrapped plans to sell off stakes in Fifa competitions to private investors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations
+### 7. Jasprit Bumrah ruled out of Sri Lanka Test series due to injury
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.
+Bumrah, the world&#039;s top-ranked Test bowler, will miss the tour after sustaining an on-field injury in the UK last month.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss)
 
 ---
 
-### 8. Trump pauses ‘massive attack’ on Iran, says new talks to begin
+### 8. ‘Tell us’: Gaza family trapped between hope and pain over missing brothers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.
+The disappearance of two boys last year has turned the Abdel Aal family’s life into an endless search for answers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss](https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss)
 
 ---
 
-### 9. Brazil’s Lula launches reelection bid amid foreign interference concerns
+### 9. Grid failure plunges Cuba into nationwide blackout
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil&#039;s President Luiz Inácio Lula da Silva has officially launched his reelection campaign.
+Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss](https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss)
 
 ---
 
@@ -149,29 +149,29 @@ Natural event: Wildfires
 
 ---
 
-### 11. Iceberg B22A
+### 11. Wildfire Duhamel, Pennington, South Dakota
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_2736)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968)
 
 ---
 
-### 12. Iceberg C39
+### 12. Wildfire HOLEY LAND (6), Broward, Florida
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976)
 
 ---
 

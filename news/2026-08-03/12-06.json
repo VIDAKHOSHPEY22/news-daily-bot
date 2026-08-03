@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-03T12:06:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rust project goals: Immobile types and guaranteed destructors",
+            "description": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md\">https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152023\">https://news.ycombinator.com/item?id=49152023</a></p>\n<p>Points: 39</p>\n<p># Comments: 10</p>",
+            "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+            "published": "Mon, 03 Aug 2026 06:42:00 +0000",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Don't be a meat proxy",
+            "description": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-03/\">https://gruhn.me/blog/2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151933\">https://news.ycombinator.com/item?id=49151933</a></p>\n<p>Points: 331</p>\n<p># Comments: 144</p>",
+            "url": "https://gruhn.me/blog/2026-08-03/",
+            "published": "Mon, 03 Aug 2026 06:28:01 +0000",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "More German than many Germans",
+            "description": "<p>Article URL: <a href=\"https://mertbulan.com/more-german-than-many-germans/\">https://mertbulan.com/more-german-than-many-germans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151734\">https://news.ycombinator.com/item?id=49151734</a></p>\n<p>Points: 176</p>\n<p># Comments: 71</p>",
+            "url": "https://mertbulan.com/more-german-than-many-germans/",
+            "published": "Mon, 03 Aug 2026 06:00:14 +0000",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump suggests new talks with Iran to begin on Monday",
+            "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+            "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 08:03:15 GMT",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
+            "description": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
+            "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 05:02:25 GMT",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa threatens Fifa with legal action over investment plan",
+            "description": "Uefa threatens legal action over Gianni Infantino's scrapped plans to sell off stakes in Fifa competitions to private investors.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 07:49:33 GMT",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jasprit Bumrah ruled out of Sri Lanka Test series due to injury",
+            "description": "Bumrah, the world&#039;s top-ranked Test bowler, will miss the tour after sustaining an on-field injury in the UK last month.",
+            "url": "https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 07:50:06 +0000",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
+            "description": "The disappearance of two boys last year has turned the Abdel Aal family’s life into an endless search for answers.",
+            "url": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 06:09:00 +0000",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Grid failure plunges Cuba into nationwide blackout",
+            "description": "Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.",
+            "url": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
+            "published": "Mon, 03 Aug 2026 04:35:39 +0000",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965",
+            "published": "2026-07-30T00:14:00Z",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Duhamel, Pennington, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968",
+            "published": "2026-07-29T18:24:00Z",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976",
+            "published": "2026-07-28T19:53:00Z",
+            "fetched": "2026-08-03T12:06:37+03:30"
+        }
+    ]
+}
