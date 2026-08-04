@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T21:27:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead\">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171650\">https://news.ycombinator.com/item?id=49171650</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+            "published": "Tue, 04 Aug 2026 17:00:12 +0000",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Webb telescope finds signs of ancient disaster for Neptune's moons",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/\">https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171172\">https://news.ycombinator.com/item?id=49171172</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+            "url": "https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/",
+            "published": "Tue, 04 Aug 2026 16:29:02 +0000",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MariaDB: Promote getting to 10k GitHub stars in server log and client prompt",
+            "description": "<p>Article URL: <a href=\"https://github.com/MariaDB/server/pull/4262\">https://github.com/MariaDB/server/pull/4262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171068\">https://news.ycombinator.com/item?id=49171068</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/MariaDB/server/pull/4262",
+            "published": "Tue, 04 Aug 2026 16:21:02 +0000",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+            "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 170 migrants rescued after boat catches fire in Channel",
+            "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:25:41 GMT",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:33:13 GMT",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
+            "description": "The report accuses banks of failing to meet their legal requirements to flag suspicious activity and calls for a probe.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 17:27:26 +0000",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
+            "description": "Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 17:03:24 +0000",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU offers emergency aid to Spain to strengthen Ceuta border",
+            "description": "EU offers Spain border assistance after emergency meeting over influx of more than 70,000 migrants into Ceuta last week",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 16:41:30 +0000",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T21:27:07+03:30"
+        }
+    ]
+}
