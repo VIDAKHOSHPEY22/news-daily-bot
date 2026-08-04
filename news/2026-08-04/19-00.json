@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T19:00:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+            "description": "<p>Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There's lots of room for improvements (see the Future Work section), but I'm really happy with how it turned out.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170165\">https://news.ycombinator.com/item?id=49170165</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://toneyalexander.github.io/inclusive-color-space/",
+            "published": "Tue, 04 Aug 2026 15:16:22 +0000",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+            "description": "<p>Article URL: <a href=\"https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/\">https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170001\">https://news.ycombinator.com/item?id=49170001</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+            "published": "Tue, 04 Aug 2026 15:05:33 +0000",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FFmpeg 9.0",
+            "description": "<p>Article URL: <a href=\"https://jbkempf.com/blog/2026/ffmpeg-9.0/\">https://jbkempf.com/blog/2026/ffmpeg-9.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49169783\">https://news.ycombinator.com/item?id=49169783</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+            "url": "https://jbkempf.com/blog/2026/ffmpeg-9.0/",
+            "published": "Tue, 04 Aug 2026 14:49:50 +0000",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 150 migrants rescued after boat catches fire in Channel",
+            "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 14:37:42 GMT",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 12:19:50 GMT",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+            "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+            "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 14:58:16 GMT",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
+            "description": "Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 14:51:51 +0000",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Beirut port blast anniversary overshadowed by new wave of destruction",
+            "description": "As much of southern Lebanon lies in ruins due to Israeli attacks, residents struggle once again to rebuild their lives.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 14:23:33 +0000",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA denies Infantino sought Trump backing after failed World Cup selloff",
+            "description": "FIFA refutes report that its President Gianni Infantino sought Donald Trump&#039;s backing after failed World Cup selloff.",
+            "url": "https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 14:11:20 +0000",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T19:00:25+03:30"
+        }
+    ]
+}
