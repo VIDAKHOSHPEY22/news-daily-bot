@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 21:27:07
+**Last Update:** 2026-08-04 22:30:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead
+### 1. Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171650">https://news.ycombinator.com/item?id=49171650</a></p>
-<p>Points: 0</p>
+<p>We are Rui and Michael and we’re building EdotEnv (<a href="https://edotenv.com" rel="nofollow">https://edotenv.com</a>): self-improving RL environments from Quant Trading workflows.<p>With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder to find and old ones decay over time.<p>This makes markets an ideal, continuously evolving benchmark for LLM training. The hard part is to turn professional quant workflows into reliable training envs, as this is a very niche expertise.<p>In our environments, we give LLMs a quant trading workflow and evaluate their performance on out-of-sample data: build predictive features/ models, design a portfolio, backtest strategies, adapt continuously to market regimes. Each step is a task with different self-built tools. For example, a predictive feature building task gives the agent cleaned market data of time period [0,T] to research ideas, a backtesting tool to test created features at time t on [0, t], an execution tool to trade strategies with the new features on [t+1, T] and a final evaluation. Our reward isolates the agent's feature building skills and yet benefits from market properties.<p>From running SOTA models in our environments, we see that i) they seem to struggle with iterating deeply on research ideas, preferring broad shallow searches; ii) higher reasoning does not seem to increase performance and iii) agents do not understand trading, e.g. when losing money they stop trading instead of trading smarter. Check out our blogs for more details! <a href="https://edotenv.com/?tab=blog" rel="nofollow">https://edotenv.com/?tab=blog</a><p>Quant workflows are essentially applied ML research, long-horizon planning and continual learning. Through our envs, we teach these transferable research skills, rather than task specific answers. Our environments are closer to a realistic research workflow: we use real-world data instead of synthetic ones; our envs naturally contain noise and real trade-offs; our rewards are verifiable and immediate, with no need for an additional LLM judge or human expert.<p>We open sourced a sample task repository: <a href="https://github.com/MMcollab-dotcom/feature-engineering" rel="nofollow">https://github.com/MMcollab-dotcom/feature-engineering</a>. We plan to sell continuously improving envs to AI labs/researchers/enterprises training their own agents, who are interested in ML modelling capabilities, continual learning, long horizon planning or Quant Research in general.<p>We'd love feedback from anyone trying out their own agents in our envs, for either eval or post training. And of course, we are always happy to discuss the future of trading with LLMs (and no, it should not be asking the LLM to read tea leaves and give you the stock to buy tomorrow). Looking forward to your comments!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172936">https://news.ycombinator.com/item?id=49172936</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead)
+🔗 **Read more:** [https://edotenv.com/](https://edotenv.com/)
 
 ---
 
-### 2. Webb telescope finds signs of ancient disaster for Neptune's moons
+### 2. Security Is Hard, Y'all
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/">https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171172">https://news.ycombinator.com/item?id=49171172</a></p>
-<p>Points: 19</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://textslashplain.com/2026/08/04/security-is-hard-yall/">https://textslashplain.com/2026/08/04/security-is-hard-yall/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172834">https://news.ycombinator.com/item?id=49172834</a></p>
+<p>Points: 29</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/](https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/)
+🔗 **Read more:** [https://textslashplain.com/2026/08/04/security-is-hard-yall/](https://textslashplain.com/2026/08/04/security-is-hard-yall/)
 
 ---
 
-### 3. MariaDB: Promote getting to 10k GitHub stars in server log and client prompt
+### 3. Blackmail Fail (2013)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/MariaDB/server/pull/4262">https://github.com/MariaDB/server/pull/4262</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49171068">https://news.ycombinator.com/item?id=49171068</a></p>
+<p>Article URL: <a href="https://gwern.net/blackmail">https://gwern.net/blackmail</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49172597">https://news.ycombinator.com/item?id=49172597</a></p>
 <p>Points: 4</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/MariaDB/server/pull/4262](https://github.com/MariaDB/server/pull/4262)
+🔗 **Read more:** [https://gwern.net/blackmail](https://gwern.net/blackmail)
 
 ---
 
@@ -97,42 +98,42 @@ Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on W
 
 ---
 
-### 7. Senate Democrat’s report says major banks ‘looked the other way’ on Epstein
+### 7. Why did the US economy slow down?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The report accuses banks of failing to meet their legal requirements to flag suspicious activity and calls for a probe.
+The US economy slowed more than expected, but it&#039;s not because Americans stopped spending. So what really happened?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss)
 
 ---
 
-### 8. Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack
+### 8. Israel election pressure fuels settlement push as West Bank violence surges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.
+Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss)
 
 ---
 
-### 9. EU offers emergency aid to Spain to strengthen Ceuta border
+### 9. Three lions die in Tokyo zoo as heatwave scorches East Asia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU offers Spain border assistance after emergency meeting over influx of more than 70,000 migrants into Ceuta last week
+A record-breaking heatwave stretching across East Asia is straining animals, health systems and people.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss)
 
 ---
 

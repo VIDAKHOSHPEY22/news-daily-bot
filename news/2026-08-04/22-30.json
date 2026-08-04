@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T22:30:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+            "description": "<p>We are Rui and Michael and we’re building EdotEnv (<a href=\"https://edotenv.com\" rel=\"nofollow\">https://edotenv.com</a>): self-improving RL environments from Quant Trading workflows.<p>With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder to find and old ones decay over time.<p>This makes markets an ideal, continuously evolving benchmark for LLM training. The hard part is to turn professional quant workflows into reliable training envs, as this is a very niche expertise.<p>In our environments, we give LLMs a quant trading workflow and evaluate their performance on out-of-sample data: build predictive features/ models, design a portfolio, backtest strategies, adapt continuously to market regimes. Each step is a task with different self-built tools. For example, a predictive feature building task gives the agent cleaned market data of time period [0,T] to research ideas, a backtesting tool to test created features at time t on [0, t], an execution tool to trade strategies with the new features on [t+1, T] and a final evaluation. Our reward isolates the agent's feature building skills and yet benefits from market properties.<p>From running SOTA models in our environments, we see that i) they seem to struggle with iterating deeply on research ideas, preferring broad shallow searches; ii) higher reasoning does not seem to increase performance and iii) agents do not understand trading, e.g. when losing money they stop trading instead of trading smarter. Check out our blogs for more details! <a href=\"https://edotenv.com/?tab=blog\" rel=\"nofollow\">https://edotenv.com/?tab=blog</a><p>Quant workflows are essentially applied ML research, long-horizon planning and continual learning. Through our envs, we teach these transferable research skills, rather than task specific answers. Our environments are closer to a realistic research workflow: we use real-world data instead of synthetic ones; our envs naturally contain noise and real trade-offs; our rewards are verifiable and immediate, with no need for an additional LLM judge or human expert.<p>We open sourced a sample task repository: <a href=\"https://github.com/MMcollab-dotcom/feature-engineering\" rel=\"nofollow\">https://github.com/MMcollab-dotcom/feature-engineering</a>. We plan to sell continuously improving envs to AI labs/researchers/enterprises training their own agents, who are interested in ML modelling capabilities, continual learning, long horizon planning or Quant Research in general.<p>We'd love feedback from anyone trying out their own agents in our envs, for either eval or post training. And of course, we are always happy to discuss the future of trading with LLMs (and no, it should not be asking the LLM to read tea leaves and give you the stock to buy tomorrow). Looking forward to your comments!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172936\">https://news.ycombinator.com/item?id=49172936</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://edotenv.com/",
+            "published": "Tue, 04 Aug 2026 18:36:02 +0000",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Security Is Hard, Y'all",
+            "description": "<p>Article URL: <a href=\"https://textslashplain.com/2026/08/04/security-is-hard-yall/\">https://textslashplain.com/2026/08/04/security-is-hard-yall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172834\">https://news.ycombinator.com/item?id=49172834</a></p>\n<p>Points: 29</p>\n<p># Comments: 5</p>",
+            "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
+            "published": "Tue, 04 Aug 2026 18:29:32 +0000",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Blackmail Fail (2013)",
+            "description": "<p>Article URL: <a href=\"https://gwern.net/blackmail\">https://gwern.net/blackmail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172597\">https://news.ycombinator.com/item?id=49172597</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://gwern.net/blackmail",
+            "published": "Tue, 04 Aug 2026 18:11:09 +0000",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+            "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 170 migrants rescued after boat catches fire in Channel",
+            "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:25:41 GMT",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:33:13 GMT",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why did the US economy slow down?",
+            "description": "The US economy slowed more than expected, but it&#039;s not because Americans stopped spending. So what really happened?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 18:17:58 +0000",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel election pressure fuels settlement push as West Bank violence surges",
+            "description": "Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 18:08:08 +0000",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three lions die in Tokyo zoo as heatwave scorches East Asia",
+            "description": "A record-breaking heatwave stretching across East Asia is straining animals, health systems and people.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/three-lionesses-die-in-tokyo-zoo-as-heatwave-scorches-east-asia?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 17:50:06 +0000",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T22:30:28+03:30"
+        }
+    ]
+}
