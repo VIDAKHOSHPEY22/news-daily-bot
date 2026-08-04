@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-04T20:39:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead\">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171650\">https://news.ycombinator.com/item?id=49171650</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+            "published": "Tue, 04 Aug 2026 17:00:12 +0000",
+            "fetched": "2026-08-04T20:39:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Webb telescope finds signs of ancient disaster for Neptune's moons",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/\">https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171172\">https://news.ycombinator.com/item?id=49171172</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://www.reuters.com/science/webb-telescope-finds-signs-ancient-disaster-neptunes-moons-2026-08-03/",
+            "published": "Tue, 04 Aug 2026 16:29:02 +0000",
+            "fetched": "2026-08-04T20:39:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.16763\">https://arxiv.org/abs/2602.16763</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170915\">https://news.ycombinator.com/item?id=49170915</a></p>\n<p>Points: 21</p>\n<p># Comments: 11</p>",
+            "url": "https://arxiv.org/abs/2602.16763",
+            "published": "Tue, 04 Aug 2026 16:10:39 +0000",
+            "fetched": "2026-08-04T20:39:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+            "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 16:33:39 GMT",
+            "fetched": "2026-08-04T20:39:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 170 migrants rescued after boat catches fire in Channel",
+            "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 16:21:43 GMT",
+            "fetched": "2026-08-04T20:39:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:01:01 GMT",
+            "fetched": "2026-08-04T20:39:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU offers emergency aid to Spain to strengthen Ceuta border",
+            "description": "EU offers Spain border assistance after emergency meeting over influx of more than 70,000 migrants into Ceuta last week",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/eu-offers-emergency-aid-to-spain-to-strengthen-ceuta-border?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 16:41:30 +0000",
+            "fetched": "2026-08-04T20:39:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ivory Coast reappoint Herve Renard for attempt at repeat of AFCON title",
+            "description": "Former Saudi Arabia and Tunisia coach Herve Renard returns to Ivory Coast in attempt to repeat 2015 AFCON success.",
+            "url": "https://www.aljazeera.com/sports/2026/8/4/ivory-coast-reappoint-herve-renard-for-attempt-at-repeat-of-afcon-title?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 16:40:44 +0000",
+            "fetched": "2026-08-04T20:39:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA’s threatened legal action against Infantino and FIFA: What we know",
+            "description": "What UEFA&#039;s legal letter to FIFA could mean for its president Gianni Infantino after World Cup private investment plan.",
+            "url": "https://www.aljazeera.com/sports/2026/8/4/uefas-threatened-legal-action-against-infantino-and-fifa-what-we-know?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 16:36:47 +0000",
+            "fetched": "2026-08-04T20:39:46+03:30"
+        }
+    ]
+}
