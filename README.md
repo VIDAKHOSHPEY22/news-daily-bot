@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 10:35:24
+**Last Update:** 2026-08-04 13:14:04
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple is getting this wrong
+### 1. You don't need React: creating a minimal UI library in Vanilla JavaScript
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/apple-is-getting-this-wrong/">https://openai.com/index/apple-is-getting-this-wrong/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49164649">https://news.ycombinator.com/item?id=49164649</a></p>
-<p>Points: 86</p>
-<p># Comments: 72</p>
+<p>Article URL: <a href="https://pedroth.github.io/?p=post/NoNeedReact">https://pedroth.github.io/?p=post/NoNeedReact</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165665">https://news.ycombinator.com/item?id=49165665</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openai.com/index/apple-is-getting-this-wrong/](https://openai.com/index/apple-is-getting-this-wrong/)
+🔗 **Read more:** [https://pedroth.github.io/?p=post/NoNeedReact](https://pedroth.github.io/?p=post/NoNeedReact)
 
 ---
 
-### 2. The Myth, the Mythos, and the Man
+### 2. CollectWise (YC F24) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/">https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49163380">https://news.ycombinator.com/item?id=49163380</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer">https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165170">https://news.ycombinator.com/item?id=49165170</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer)
 
 ---
 
-### 3. Why did we wait so long for the bicycle? (2019)
+### 3. Harness Engineering for Self-Improvement
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle">https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162787">https://news.ycombinator.com/item?id=49162787</a></p>
-<p>Points: 27</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://lilianweng.github.io/posts/2026-07-04-harness/">https://lilianweng.github.io/posts/2026-07-04-harness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49164896">https://news.ycombinator.com/item?id=49164896</a></p>
+<p>Points: 40</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
+🔗 **Read more:** [https://lilianweng.github.io/posts/2026-07-04-harness/](https://lilianweng.github.io/posts/2026-07-04-harness/)
 
 ---
 
@@ -71,16 +71,16 @@ Up to 95% of younger women who are at higher risk of developing breast cancer ar
 
 ---
 
-### 5. EU calls for stronger borders after Ceuta migrant crossings
+### 5. Analysis: Trump challenged by cold reality from top allies
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.
+A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,81 @@ As child immunisation rates fall across the UK, one clinic in west Yorkshire is 
 
 ---
 
-### 7. Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal
+### 7. Cars burn in reported settler attack in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.
+Cars burn in reported settler attack in occupied West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Why are the Washington wildfires so severe? Spokane fires explained
+### 8. We demand accountability for the Beirut blast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.
+Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss)
 
 ---
 
-### 9. Bodycam video shows firefighters battling blaze in Spokane, US
+### 9. UEFA confirms legal letter served to FIFA after Infantino’s World Cup plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.
+UEFA tells Al Jazeera a preservation letter is with FIFA following a failed Gianni Infantino-led World Cup sell-off.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss)
+
+---
+
+### 10. Wildfire Middle Coulee, Chouteau, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
+
+---
+
+### 11. Wildfire Antelope Creek, Elko, Nevada
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
+
+---
+
+### 12. Wildfire Bluegill, Miami-Dade, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 
