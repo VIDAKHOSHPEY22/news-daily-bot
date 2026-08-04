@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T07:14:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There Will Come Soft Rains (1950) [pdf]",
+            "description": "<p>Article URL: <a href=\"https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162653\">https://news.ycombinator.com/item?id=49162653</a></p>\n<p>Points: 54</p>\n<p># Comments: 22</p>",
+            "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+            "published": "Mon, 03 Aug 2026 23:24:53 +0000",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+            "description": "<p>Article URL: <a href=\"https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162086\">https://news.ycombinator.com/item?id=49162086</a></p>\n<p>Points: 67</p>\n<p># Comments: 37</p>",
+            "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+            "published": "Mon, 03 Aug 2026 22:04:49 +0000",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ZX Spectrum System Tour: Text Mode",
+            "description": "<p>Article URL: <a href=\"https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/\">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49161801\">https://news.ycombinator.com/item?id=49161801</a></p>\n<p>Points: 26</p>\n<p># Comments: 0</p>",
+            "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+            "published": "Mon, 03 Aug 2026 21:39:12 +0000",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
+            "description": "Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.",
+            "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 00:50:33 GMT",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+            "description": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 01:08:13 GMT",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU calls for stronger borders after Ceuta migrant crossings",
+            "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+            "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 21:43:10 GMT",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
+            "description": "Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 03:14:29 +0000",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+            "description": "Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+            "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 02:56:26 +0000",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test",
+            "description": "Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 02:15:32 +0000",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T07:14:39+03:30"
+        }
+    ]
+}

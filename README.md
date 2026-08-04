@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 06:57:34
+**Last Update:** 2026-08-04 07:14:39
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162653">https://news.ycombinator.com/item?id=49162653</a></p>
-<p>Points: 50</p>
-<p># Comments: 20</p>
+<p>Points: 54</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162086">https://news.ycombinator.com/item?id=49162086</a></p>
-<p>Points: 64</p>
-<p># Comments: 33</p>
+<p>Points: 67</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161801">https://news.ycombinator.com/item?id=49161801</a></p>
-<p>Points: 25</p>
+<p>Points: 26</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
@@ -97,20 +97,33 @@ Ursula von der Leyen has called for action ahead of an urgent EU interior minist
 
 ---
 
-### 7. US stocks near record high, oil falls as Trump claims Iran talks underway
+### 7. Salvadoran man dies in ICE custody at New Jersey detention centre
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
+Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss)
+
+---
+
+### 8. US stocks near record high, oil falls as Trump claims Iran talks under way
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss)
 
 ---
 
-### 8. Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test
+### 9. Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer confl
 Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss)
-
----
-
-### 9. Does the US blockade on Cuba make America safer?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss)
 
 ---
 
