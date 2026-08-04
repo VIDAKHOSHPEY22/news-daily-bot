@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 15:37:24
+**Last Update:** 2026-08-04 15:52:51
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Buckminster Fuller: everything I know
+### 1. Xbox goes down. You can't play games you own on disc
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/">https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167448">https://news.ycombinator.com/item?id=49167448</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
+
+---
+
+### 2. Roame (YC S23) Is Hiring Lead Engineer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer">https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167444">https://news.ycombinator.com/item?id=49167444</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer)
+
+---
+
+### 3. Buckminster Fuller: everything I know
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bfi.org/about-fuller/everything-i-know/">https://www.bfi.org/about-fuller/everything-i-know/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167147">https://news.ycombinator.com/item?id=49167147</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 11</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.bfi.org/about-fuller/everything-i-know/](https://www.bfi.org/about-fuller/everything-i-know/)
-
----
-
-### 2. Mini retirements: like a sabbatical, but much smaller
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ssp.sh/brain/mini-retirements/">https://www.ssp.sh/brain/mini-retirements/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166749">https://news.ycombinator.com/item?id=49166749</a></p>
-<p>Points: 12</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.ssp.sh/brain/mini-retirements/](https://www.ssp.sh/brain/mini-retirements/)
-
----
-
-### 3. Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj">https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166491">https://news.ycombinator.com/item?id=49166491</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
 
 ---
 
