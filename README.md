@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 13:35:21
+**Last Update:** 2026-08-04 15:37:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. FFmpeg 9.0
+### 1. Buckminster Fuller: everything I know
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES">https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166202">https://news.ycombinator.com/item?id=49166202</a></p>
-<p>Points: 63</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.bfi.org/about-fuller/everything-i-know/">https://www.bfi.org/about-fuller/everything-i-know/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49167147">https://news.ycombinator.com/item?id=49167147</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
+🔗 **Read more:** [https://www.bfi.org/about-fuller/everything-i-know/](https://www.bfi.org/about-fuller/everything-i-know/)
 
 ---
 
-### 2. Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal
+### 2. Mini retirements: like a sabbatical, but much smaller
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal">https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166182">https://news.ycombinator.com/item?id=49166182</a></p>
+<p>Article URL: <a href="https://www.ssp.sh/brain/mini-retirements/">https://www.ssp.sh/brain/mini-retirements/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166749">https://news.ycombinator.com/item?id=49166749</a></p>
+<p>Points: 12</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.ssp.sh/brain/mini-retirements/](https://www.ssp.sh/brain/mini-retirements/)
+
+---
+
+### 3. Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj">https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166491">https://news.ycombinator.com/item?id=49166491</a></p>
 <p>Points: 10</p>
-<p># Comments: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal](https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal)
-
----
-
-### 3. You don't need React: creating a minimal UI library in Vanilla JavaScript
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pedroth.github.io/?p=post/NoNeedReact">https://pedroth.github.io/?p=post/NoNeedReact</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165665">https://news.ycombinator.com/item?id=49165665</a></p>
-<p>Points: 24</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://pedroth.github.io/?p=post/NoNeedReact](https://pedroth.github.io/?p=post/NoNeedReact)
+🔗 **Read more:** [https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
 
 ---
 
-### 4. Breast cancer checks missing most women under 50 who are at risk, says study
+### 4. More than 150 migrants rescued after boat catches fire in Channel
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.
+The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Analysis: Trump challenged by cold reality from top allies
+### 5. Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Analysis: Trump challenged by cold reality from top allies
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ A president used to bending US politics to his will faces two stinging losses in
 
 ---
 
-### 6. There's a reason child vaccination rates are falling - and it's not social media
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Cars burn in reported settler attack in occupied West Bank
+### 7. DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cars burn in reported settler attack in occupied West Bank
+The outbreak is concentrated in the province of Ituri, which accounts for nearly 90 percent of reported cases.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss)
 
 ---
 
-### 8. We demand accountability for the Beirut blast
+### 8. Ex-Arsenal boss Wenger was ‘not aware’ of Infantino’s FIFA plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.
+FIFA executive Arsene Wenger backs decision to drop FIFA President Gianni Infantino&#039;s World Cup sell-off plan.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss)
 
 ---
 
-### 9. UEFA confirms legal letter served to FIFA after Infantino’s World Cup plan
+### 9. Nine killed in escalating long-range strikes between Russia and Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UEFA tells Al Jazeera a preservation letter is with FIFA following a failed Gianni Infantino-led World Cup sell-off.
+Missile and drone strikes far beyond the front lines are causing a mounting civilian death toll in both countries.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss)
 
 ---
 

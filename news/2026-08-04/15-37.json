@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T15:37:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Buckminster Fuller: everything I know",
+            "description": "<p>Article URL: <a href=\"https://www.bfi.org/about-fuller/everything-i-know/\">https://www.bfi.org/about-fuller/everything-i-know/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167147\">https://news.ycombinator.com/item?id=49167147</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+            "published": "Tue, 04 Aug 2026 11:33:32 +0000",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mini retirements: like a sabbatical, but much smaller",
+            "description": "<p>Article URL: <a href=\"https://www.ssp.sh/brain/mini-retirements/\">https://www.ssp.sh/brain/mini-retirements/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166749\">https://news.ycombinator.com/item?id=49166749</a></p>\n<p>Points: 12</p>\n<p># Comments: 9</p>",
+            "url": "https://www.ssp.sh/brain/mini-retirements/",
+            "published": "Tue, 04 Aug 2026 10:46:04 +0000",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+            "description": "<p>Article URL: <a href=\"https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj\">https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166491\">https://news.ycombinator.com/item?id=49166491</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+            "published": "Tue, 04 Aug 2026 10:13:13 +0000",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 150 migrants rescued after boat catches fire in Channel",
+            "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 11:19:08 GMT",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 11:14:29 GMT",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump challenged by cold reality from top allies",
+            "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+            "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 09:11:39 GMT",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DR Congo Ebola outbreak kills more than 1,700 as WHO accelerates trials",
+            "description": "The outbreak is concentrated in the province of Ituri, which accounts for nearly 90 percent of reported cases.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/dr-congo-ebola-outbreak-kills-more-than-1700-as-who-accelerates-trials?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 11:47:45 +0000",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ex-Arsenal boss Wenger was ‘not aware’ of Infantino’s FIFA plan",
+            "description": "FIFA executive Arsene Wenger backs decision to drop FIFA President Gianni Infantino&#039;s World Cup sell-off plan.",
+            "url": "https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 11:30:30 +0000",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+            "description": "Missile and drone strikes far beyond the front lines are causing a mounting civilian death toll in both countries.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 11:26:28 +0000",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T15:37:24+03:30"
+        }
+    ]
+}
