@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 13:14:04
+**Last Update:** 2026-08-04 13:35:21
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. You don't need React: creating a minimal UI library in Vanilla JavaScript
+### 1. FFmpeg 9.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES">https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166202">https://news.ycombinator.com/item?id=49166202</a></p>
+<p>Points: 63</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
+
+---
+
+### 2. Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal">https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49166182">https://news.ycombinator.com/item?id=49166182</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal](https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal)
+
+---
+
+### 3. You don't need React: creating a minimal UI library in Vanilla JavaScript
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://pedroth.github.io/?p=post/NoNeedReact">https://pedroth.github.io/?p=post/NoNeedReact</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165665">https://news.ycombinator.com/item?id=49165665</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://pedroth.github.io/?p=post/NoNeedReact](https://pedroth.github.io/?p=post/NoNeedReact)
-
----
-
-### 2. CollectWise (YC F24) Is Hiring
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer">https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49165170">https://news.ycombinator.com/item?id=49165170</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer)
-
----
-
-### 3. Harness Engineering for Self-Improvement
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lilianweng.github.io/posts/2026-07-04-harness/">https://lilianweng.github.io/posts/2026-07-04-harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49164896">https://news.ycombinator.com/item?id=49164896</a></p>
-<p>Points: 40</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://lilianweng.github.io/posts/2026-07-04-harness/](https://lilianweng.github.io/posts/2026-07-04-harness/)
 
 ---
 

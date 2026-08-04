@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T13:35:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FFmpeg 9.0",
+            "description": "<p>Article URL: <a href=\"https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES\">https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166202\">https://news.ycombinator.com/item?id=49166202</a></p>\n<p>Points: 63</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+            "published": "Tue, 04 Aug 2026 09:30:33 +0000",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+            "description": "<p>Article URL: <a href=\"https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal\">https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166182\">https://news.ycombinator.com/item?id=49166182</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+            "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+            "published": "Tue, 04 Aug 2026 09:27:47 +0000",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+            "description": "<p>Article URL: <a href=\"https://pedroth.github.io/?p=post/NoNeedReact\">https://pedroth.github.io/?p=post/NoNeedReact</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165665\">https://news.ycombinator.com/item?id=49165665</a></p>\n<p>Points: 24</p>\n<p># Comments: 13</p>",
+            "url": "https://pedroth.github.io/?p=post/NoNeedReact",
+            "published": "Tue, 04 Aug 2026 08:11:02 +0000",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+            "description": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 01:08:13 GMT",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump challenged by cold reality from top allies",
+            "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+            "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 09:11:39 GMT",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "There's a reason child vaccination rates are falling - and it's not social media",
+            "description": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations",
+            "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 23:10:05 GMT",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cars burn in reported settler attack in occupied West Bank",
+            "description": "Cars burn in reported settler attack in occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 08:51:47 +0000",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "We demand accountability for the Beirut blast",
+            "description": "Six years after the explosion, the domestic investigation is complete, but an indictment is yet to be issued.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 08:51:46 +0000",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA confirms legal letter served to FIFA after Infantino’s World Cup plan",
+            "description": "UEFA tells Al Jazeera a preservation letter is with FIFA following a failed Gianni Infantino-led World Cup sell-off.",
+            "url": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 08:37:44 +0000",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T13:35:21+03:30"
+        }
+    ]
+}
