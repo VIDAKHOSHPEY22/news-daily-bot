@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T02:02:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL",
+            "description": "<p>Article URL: <a href=\"https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/\">https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49175826\">https://news.ycombinator.com/item?id=49175826</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+            "published": "Tue, 04 Aug 2026 22:01:41 +0000",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+            "description": "<p>Article URL: <a href=\"https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf\">https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49175717\">https://news.ycombinator.com/item?id=49175717</a></p>\n<p>Points: 29</p>\n<p># Comments: 9</p>",
+            "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
+            "published": "Tue, 04 Aug 2026 21:52:58 +0000",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Third-party cyber evaluations involving OpenAI models",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/\">https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49175248\">https://news.ycombinator.com/item?id=49175248</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+            "published": "Tue, 04 Aug 2026 21:14:19 +0000",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+            "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 170 migrants rescued after boat catches fire in Channel",
+            "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 19:45:58 GMT",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 19:31:26 GMT",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elon Musk’s SpaceX reports losses but less than expected",
+            "description": "Revenue was up more than 90 percent from the same period a year ago, beating analyst expectations.",
+            "url": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 22:02:09 +0000",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the far right weaponised the Ceuta crisis",
+            "description": "More than 72 migrants died trying to reach Ceuta, but within hours the tragedy had become a political flashpoint.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 21:32:41 +0000",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+            "description": "The funeral for a couple and their toddler took place after they were killed in the US strike on Iran&#039;s Qeshm Island.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 21:11:50 +0000",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T02:02:48+03:30"
+        }
+    ]
+}
