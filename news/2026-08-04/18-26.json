@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-04T18:26:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+            "description": "<p>Article URL: <a href=\"https://github.com/tikalk/adlc-team-skills\">https://github.com/tikalk/adlc-team-skills</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49169640\">https://news.ycombinator.com/item?id=49169640</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/tikalk/adlc-team-skills",
+            "published": "Tue, 04 Aug 2026 14:38:31 +0000",
+            "fetched": "2026-08-04T18:26:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Xbox goes down. You can't play games you own on disc",
+            "description": "<p>Article URL: <a href=\"https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/\">https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167448\">https://news.ycombinator.com/item?id=49167448</a></p>\n<p>Points: 263</p>\n<p># Comments: 269</p>",
+            "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+            "published": "Tue, 04 Aug 2026 12:01:02 +0000",
+            "fetched": "2026-08-04T18:26:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Roame (YC S23) Is Hiring Lead Engineer",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer\">https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49167444\">https://news.ycombinator.com/item?id=49167444</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+            "published": "Tue, 04 Aug 2026 12:00:51 +0000",
+            "fetched": "2026-08-04T18:26:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 150 migrants rescued after boat catches fire in Channel",
+            "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 14:37:42 GMT",
+            "fetched": "2026-08-04T18:26:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+            "description": "Sharif Ahmadzai, from Afghanistan, is expected to appear in court in Athens on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 12:19:50 GMT",
+            "fetched": "2026-08-04T18:26:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
+            "description": "Fifa's chief of global football development Arsene Wenger says the decision to scrap the plan to have private investment in Fifa competitions was \"absolutely necessary\".",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 10:45:14 GMT",
+            "fetched": "2026-08-04T18:26:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Beirut port blast anniversary overshadowed by new wave of destruction",
+            "description": "As much of southern Lebanon lies in ruins due to Israeli attacks, residents struggle once again to rebuild their lives.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 14:23:33 +0000",
+            "fetched": "2026-08-04T18:26:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA denies Infantino sought Trump backing after failed World Cup selloff",
+            "description": "FIFA refutes report that its President Gianni Infantino sought Donald Trump&#039;s backing after failed World Cup selloff.",
+            "url": "https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 14:11:20 +0000",
+            "fetched": "2026-08-04T18:26:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are oil companies posting record profits amid Iran war disruption?",
+            "description": "Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.",
+            "url": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 14:04:28 +0000",
+            "fetched": "2026-08-04T18:26:03+03:30"
+        }
+    ]
+}
