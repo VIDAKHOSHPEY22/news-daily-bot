@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-04 07:14:39
+**Last Update:** 2026-08-04 10:05:30
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. There Will Come Soft Rains (1950) [pdf]
+### 1. Apple is getting this wrong
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162653">https://news.ycombinator.com/item?id=49162653</a></p>
+<p>Article URL: <a href="https://openai.com/index/apple-is-getting-this-wrong/">https://openai.com/index/apple-is-getting-this-wrong/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49164649">https://news.ycombinator.com/item?id=49164649</a></p>
 <p>Points: 54</p>
-<p># Comments: 22</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf)
+🔗 **Read more:** [https://openai.com/index/apple-is-getting-this-wrong/](https://openai.com/index/apple-is-getting-this-wrong/)
 
 ---
 
-### 2. Windows XP 2002 for the Itanium: Unbridled rage
+### 2. The Myth, the Mythos, and the Man
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162086">https://news.ycombinator.com/item?id=49162086</a></p>
-<p>Points: 67</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/">https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49163380">https://news.ycombinator.com/item?id=49163380</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/)
+🔗 **Read more:** [https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/](https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/)
 
 ---
 
-### 3. ZX Spectrum System Tour: Text Mode
+### 3. Why did we wait so long for the bicycle? (2019)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/">https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49161801">https://news.ycombinator.com/item?id=49161801</a></p>
+<p>Article URL: <a href="https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle">https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49162787">https://news.ycombinator.com/item?id=49162787</a></p>
 <p>Points: 26</p>
-<p># Comments: 0</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/](https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/)
-
----
-
-### 4. PC Harper's mother 'devastated' his killers set for early release under revised plans
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle](https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
 
 ---
 
-### 5. Breast cancer checks missing most women under 50 who are at risk, says study
+### 4. Breast cancer checks missing most women under 50 who are at risk, says study
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Up to 95% of younger women who are at higher risk of developing breast cancer ar
 
 ---
 
-### 6. EU calls for stronger borders after Ceuta migrant crossings
+### 5. EU calls for stronger borders after Ceuta migrant crossings
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Ursula von der Leyen has called for action ahead of an urgent EU interior minist
 
 ---
 
-### 7. Salvadoran man dies in ICE custody at New Jersey detention centre
+### 6. There's a reason child vaccination rates are falling - and it's not social media
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.
+As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. US stocks near record high, oil falls as Trump claims Iran talks under way
+### 7. Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Benchmark S&amp;P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.
+Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss)
 
 ---
 
-### 9. Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test
+### 8. Why are the Washington wildfires so severe? Spokane fires explained
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.
+Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss)
+
+---
+
+### 9. Bodycam video shows firefighters battling blaze in Spokane, US
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss)
 
 ---
 

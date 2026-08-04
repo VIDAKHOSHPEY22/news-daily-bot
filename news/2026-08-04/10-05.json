@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-04T10:05:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple is getting this wrong",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/apple-is-getting-this-wrong/\">https://openai.com/index/apple-is-getting-this-wrong/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49164649\">https://news.ycombinator.com/item?id=49164649</a></p>\n<p>Points: 54</p>\n<p># Comments: 31</p>",
+            "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+            "published": "Tue, 04 Aug 2026 05:32:13 +0000",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Myth, the Mythos, and the Man",
+            "description": "<p>Article URL: <a href=\"https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/\">https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49163380\">https://news.ycombinator.com/item?id=49163380</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
+            "published": "Tue, 04 Aug 2026 01:22:35 +0000",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why did we wait so long for the bicycle? (2019)",
+            "description": "<p>Article URL: <a href=\"https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle\">https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162787\">https://news.ycombinator.com/item?id=49162787</a></p>\n<p>Points: 26</p>\n<p># Comments: 16</p>",
+            "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+            "published": "Mon, 03 Aug 2026 23:44:19 +0000",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+            "description": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 01:08:13 GMT",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU calls for stronger borders after Ceuta migrant crossings",
+            "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+            "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 21:43:10 GMT",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "There's a reason child vaccination rates are falling - and it's not social media",
+            "description": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations",
+            "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 23:10:05 GMT",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+            "description": "Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 06:00:10 +0000",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+            "description": "Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 05:03:44 +0000",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
+            "description": "Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 04:22:28 +0000",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-04T10:05:30+03:30"
+        }
+    ]
+}
