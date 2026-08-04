@@ -1,44 +1,45 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 02:02:48
+**Last Update:** 2026-08-05 02:40:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL
+### 1. DuckDB – Data power tools for your laptop, now in Clojure (2023)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/">https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175826">https://news.ycombinator.com/item?id=49175826</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://techascent.com/blog/just-ducking-around.html">https://techascent.com/blog/just-ducking-around.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175924">https://news.ycombinator.com/item?id=49175924</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
+🔗 **Read more:** [https://techascent.com/blog/just-ducking-around.html](https://techascent.com/blog/just-ducking-around.html)
 
 ---
 
-### 2. Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]
+### 2. AI fuels more than half of cybercrime in Africa as scams surge – Interpol
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf">https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175717">https://news.ycombinator.com/item?id=49175717</a></p>
-<p>Points: 29</p>
-<p># Comments: 9</p>
+<p><a href="https://www.interpol.int/Media/Documents/Publications/Cybercrime/African-Cyberthreat-Assessment-Report-2026" rel="nofollow">https://www.interpol.int/Media/Documents/Publications/Cyberc...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175826">https://news.ycombinator.com/item?id=49175826</a></p>
+<p>Points: 52</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf](https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf)
+🔗 **Read more:** [https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/](https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/)
 
 ---
 
@@ -51,8 +52,8 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/">https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49175248">https://news.ycombinator.com/item?id=49175248</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Points: 25</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/)
 
