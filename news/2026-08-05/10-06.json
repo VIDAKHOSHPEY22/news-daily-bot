@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T10:06:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The sale of Electronic Arts has been finalized",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cjejyl34345o\">https://www.bbc.com/news/articles/cjejyl34345o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178702\">https://news.ycombinator.com/item?id=49178702</a></p>\n<p>Points: 54</p>\n<p># Comments: 29</p>",
+            "url": "https://www.bbc.com/news/articles/cjejyl34345o",
+            "published": "Wed, 05 Aug 2026 04:51:43 +0000",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29377\">https://arxiv.org/abs/2607.29377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178608\">https://news.ycombinator.com/item?id=49178608</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://arxiv.org/abs/2607.29377",
+            "published": "Wed, 05 Aug 2026 04:36:44 +0000",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An SLM trained on $8 ESP32-S3",
+            "description": "<p>Article URL: <a href=\"https://github.com/Carloscodix/qapla\">https://github.com/Carloscodix/qapla</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178464\">https://news.ycombinator.com/item?id=49178464</a></p>\n<p>Points: 13</p>\n<p># Comments: 5</p>",
+            "url": "https://github.com/Carloscodix/qapla",
+            "published": "Wed, 05 Aug 2026 04:07:27 +0000",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
+            "description": "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 02:19:30 GMT",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+            "description": "A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 05:07:27 GMT",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+            "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+            "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 05:08:43 GMT",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects",
+            "description": "Progressive advocate overcomes over $60m in spending to defeat pro-Israel Congresswoman Haley Stevens.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 06:10:20 +0000",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The yearly mild weather spell that brings Yemen’s coast back to life",
+            "description": "Al-Baldah transforms Mukalla with mild temperatures, beach fun and a rare economic boost for the southern Yemeni city.",
+            "url": "https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 05:48:42 +0000",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Return of goods to markets in Gaza doesn’t mean people can afford them",
+            "description": "Displaced Palestinians in Gaza struggle daily to afford food, with soaring prices and limited income opportunities.",
+            "url": "https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 05:46:13 +0000",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T10:06:00+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 08:04:04
+**Last Update:** 2026-08-05 10:06:00
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
+### 1. The sale of Electronic Arts has been finalized
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.asiae.co.kr/en/article/2026080416131786841">https://www.asiae.co.kr/en/article/2026080416131786841</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177554">https://news.ycombinator.com/item?id=49177554</a></p>
-<p>Points: 39</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cjejyl34345o">https://www.bbc.com/news/articles/cjejyl34345o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178702">https://news.ycombinator.com/item?id=49178702</a></p>
+<p>Points: 54</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://www.asiae.co.kr/en/article/2026080416131786841](https://www.asiae.co.kr/en/article/2026080416131786841)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cjejyl34345o](https://www.bbc.com/news/articles/cjejyl34345o)
 
 ---
 
-### 2. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
+### 2. Zero-Mem: Zero-Token Memory Operations for LLM Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
-<p>Points: 44</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
+🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
 
 ---
 
-### 3. Bugtraq Is Back
+### 3. An SLM trained on $8 ESP32-S3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176947">https://news.ycombinator.com/item?id=49176947</a></p>
-<p>Points: 30</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://github.com/Carloscodix/qapla">https://github.com/Carloscodix/qapla</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178464">https://news.ycombinator.com/item?id=49178464</a></p>
+<p>Points: 13</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
+🔗 **Read more:** [https://github.com/Carloscodix/qapla](https://github.com/Carloscodix/qapla)
 
 ---
 
@@ -78,61 +78,100 @@ Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when
 **Category:** world
 
 **Description:**
-A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
+A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Temperatures to drop briefly ahead of next UK heatwave
+### 6. Russian ballistic missile strike on Kyiv kills at least 14, officials say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
+The head of Kyiv's military administration says Russia is "once again massively attacking" the region around the city.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bolivia sends troops to stop Brazilian gang violence along border
+### 7. Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.
+Progressive advocate overcomes over $60m in spending to defeat pro-Israel Congresswoman Haley Stevens.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss)
 
 ---
 
-### 8. North Korea’s Kim Yo Jong issues military threat over Japan missile test
+### 8. The yearly mild weather spell that brings Yemen’s coast back to life
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.
+Al-Baldah transforms Mukalla with mild temperatures, beach fun and a rare economic boost for the southern Yemeni city.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss](https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss)
 
 ---
 
-### 9. Protesters demand answers from ICE after second man dies at Delaney Hall
+### 9. Return of goods to markets in Gaza doesn’t mean people can afford them
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.
+Displaced Palestinians in Gaza struggle daily to afford food, with soaring prices and limited income opportunities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss](https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss)
+
+---
+
+### 10. Wildfire Middle Coulee, Chouteau, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
+
+---
+
+### 11. Wildfire Antelope Creek, Elko, Nevada
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
+
+---
+
+### 12. Wildfire Bluegill, Miami-Dade, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
 
 ---
 
