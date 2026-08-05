@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-05T21:28:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+            "description": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 17:24:26 GMT",
+            "fetched": "2026-08-05T21:28:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman arrested after four stabbed in central London",
+            "description": "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 16:34:52 GMT",
+            "fetched": "2026-08-05T21:28:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+            "description": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 14:50:09 GMT",
+            "fetched": "2026-08-05T21:28:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
+            "description": "The violence comes amid talks between Lebanon and Israel as Beirut pushes for a phased Israeli troop withdrawal.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 17:12:34 +0000",
+            "fetched": "2026-08-05T21:28:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit",
+            "description": "An agreement with an unnamed investor is approved by the LIV Golf board to replace Saudi Arabia deal.",
+            "url": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 17:06:04 +0000",
+            "fetched": "2026-08-05T21:28:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
+            "description": "At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 16:42:24 +0000",
+            "fetched": "2026-08-05T21:28:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T21:28:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T21:28:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T21:28:59+03:30"
+        }
+    ]
+}
