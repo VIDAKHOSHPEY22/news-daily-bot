@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 16:37:57
+**Last Update:** 2026-08-05 18:51:30
 
 **Total News:** 12
 
@@ -10,81 +10,68 @@
 
 ## 📰 Latest News
 
-### 1. The journalist taking on the 'tech fascists' of Silicon Valley
+### 1. Cloudflare OS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley">https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49182086">https://news.ycombinator.com/item?id=49182086</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://os.cloudflare.app/">https://os.cloudflare.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49184083">https://news.ycombinator.com/item?id=49184083</a></p>
+<p>Points: 3</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley](https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley)
+🔗 **Read more:** [https://os.cloudflare.app/](https://os.cloudflare.app/)
 
 ---
 
-### 2. Iowa et al asks OpenAI to keep their bots sandboxed
+### 2. Google Assistant is going away on Mobile Devices
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and">https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49182052">https://news.ycombinator.com/item?id=49182052</a></p>
-<p>Points: 14</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and](https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and)
-
----
-
-### 3. TIME Is Serving AI Bots a Different Website, with Ads Built In
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/">https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49182041">https://news.ycombinator.com/item?id=49182041</a></p>
+<p>Article URL: <a href="https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png">https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49184041">https://news.ycombinator.com/item?id=49184041</a></p>
 <p>Points: 6</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
+🔗 **Read more:** [https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png](https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png)
 
 ---
 
-### 4. Police chief considers joining legal action over PC Harper killers' early release
+### 3. Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://knock-knock.net/blog/citigroup-idaho-build-a-bear/">https://knock-knock.net/blog/citigroup-idaho-build-a-bear/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49183953">https://news.ycombinator.com/item?id=49183953</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://knock-knock.net/blog/citigroup-idaho-build-a-bear/](https://knock-knock.net/blog/citigroup-idaho-build-a-bear/)
+
+---
+
+### 4. Family 'devastated' by death of girl, 9, as man charged with murder
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.
+A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Anthropic AI created fake profiles and impersonated people in attempted hack
+### 5. Anthropic AI used fake profiles to target people in hack then hid the evidence
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI mod
 
 ---
 
-### 7. UN rights chief says Iran executed at least 56 people since March
+### 6. Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Volker Turk warns of surge in Iran executions to suppress dissent after January uprising.
+Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Pakistan’s Khan in jail for 3 years: PTI, Amnesty slam solitary confinement
+### 7. Germany investigates explosive device attached to drone at Leipzig airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of supporters of former PM Imran Khan&#039;s party demonstrate across country to call for his immediate release.
+An airport employee spotted the object carrying what authorities described as &#039;an unknown explosive device&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss)
 
 ---
 
-### 9. SpaceX rocket segment to crash into the moon: What happened?
+### 8. Demolition complicates the search for bodies after Venezuela’s earthquakes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A piece of the SpaceX Falcon 9 rocket is believed to have crashed into the moon after floating in space since last year.
+Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss)
+
+---
+
+### 9. Gaza father opens play center to restore childhood amid Israeli attacks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A Palestinian father opened a Gaza play center offering children free escape and joy amid near daily Israeli attacks.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss)
 
 ---
 
