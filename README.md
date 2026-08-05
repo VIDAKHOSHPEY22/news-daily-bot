@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 04:21:35
+**Last Update:** 2026-08-05 06:52:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
+### 1. After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.asiae.co.kr/en/article/2026080416131786841">https://www.asiae.co.kr/en/article/2026080416131786841</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177554">https://news.ycombinator.com/item?id=49177554</a></p>
+<p>Points: 14</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.asiae.co.kr/en/article/2026080416131786841](https://www.asiae.co.kr/en/article/2026080416131786841)
+
+---
+
+### 2. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 29</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
 
 ---
 
-### 2. Bugtraq Is Back
+### 3. Bugtraq Is Back
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176947">https://news.ycombinator.com/item?id=49176947</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 29</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
 
 ---
 
-### 3. Eight Myths on Software Engineering and GenAI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://queue.acm.org/detail.cfm?id=3807963">https://queue.acm.org/detail.cfm?id=3807963</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176830">https://news.ycombinator.com/item?id=49176830</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://queue.acm.org/detail.cfm?id=3807963](https://queue.acm.org/detail.cfm?id=3807963)
-
----
-
-### 4. Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack
+### 4. Burnham 'looking into' conducting Epstein inquiry, says victims minister
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.
+Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ A terminally-ill man was offered the drugs by a stair lift salesman claiming the
 
 ---
 
-### 7. Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea
+### 7. US stock market hits record high amid hopes for Strait of Hormuz reopening
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.
+Oil prices fall as US officials tout progress in talks to reopen critical waterway.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss)
 
 ---
 
-### 8. US revokes visa of Brazilian ambassador amid deepening diplomatic spat
+### 8. Armed man arrested at Trump’s LA golf course ahead of president’s visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An official has indicated that the visa revocation would not mean that Brazil&#039;s ambassador will be expelled from the US.
+Loaded pistol and rifle among items found in suspect&#039;s pocket, car and home following arrest, police say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss)
 
 ---
 
-### 9. Sri Lanka shuts schools as floods and mudslides kill 7
+### 9. Ceuta and Melilla: Why Europe’s African border remains a flashpoint
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.
+The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss](https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss)
 
 ---
 

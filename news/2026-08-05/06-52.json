@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T06:52:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+            "description": "<p>Article URL: <a href=\"https://www.asiae.co.kr/en/article/2026080416131786841\">https://www.asiae.co.kr/en/article/2026080416131786841</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49177554\">https://news.ycombinator.com/item?id=49177554</a></p>\n<p>Points: 14</p>\n<p># Comments: 6</p>",
+            "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
+            "published": "Wed, 05 Aug 2026 01:34:26 +0000",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.04221\">https://arxiv.org/abs/2603.04221</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176983\">https://news.ycombinator.com/item?id=49176983</a></p>\n<p>Points: 29</p>\n<p># Comments: 22</p>",
+            "url": "https://arxiv.org/abs/2603.04221",
+            "published": "Wed, 05 Aug 2026 00:10:37 +0000",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bugtraq Is Back",
+            "description": "<p>Article URL: <a href=\"https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176947\">https://news.ycombinator.com/item?id=49176947</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
+            "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+            "published": "Wed, 05 Aug 2026 00:05:49 +0000",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
+            "description": "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 02:19:30 GMT",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temperatures to drop briefly ahead of next UK heatwave",
+            "description": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
+            "url": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 23:14:49 GMT",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+            "description": "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 21:55:17 GMT",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
+            "description": "Oil prices fall as US officials tout progress in talks to reopen critical waterway.",
+            "url": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 02:09:06 +0000",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
+            "description": "Loaded pistol and rifle among items found in suspect&#039;s pocket, car and home following arrest, police say.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 01:29:01 +0000",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+            "description": "The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 01:21:16 +0000",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T06:52:26+03:30"
+        }
+    ]
+}
