@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 15:35:06
+**Last Update:** 2026-08-05 16:37:57
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Polling shows a growing political reckoning is coming for data centers
+### 1. The journalist taking on the 'tech fascists' of Silicon Valley
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799">https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49181191">https://news.ycombinator.com/item?id=49181191</a></p>
+<p>Article URL: <a href="https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley">https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49182086">https://news.ycombinator.com/item?id=49182086</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley](https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley)
+
+---
+
+### 2. Iowa et al asks OpenAI to keep their bots sandboxed
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and">https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49182052">https://news.ycombinator.com/item?id=49182052</a></p>
+<p>Points: 14</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and](https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and)
+
+---
+
+### 3. TIME Is Serving AI Bots a Different Website, with Ads Built In
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/">https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49182041">https://news.ycombinator.com/item?id=49182041</a></p>
 <p>Points: 6</p>
-<p># Comments: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799](https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799)
-
----
-
-### 2. Civilian plane crash in New Mexico tied to military GPS blocking
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/">https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49181099">https://news.ycombinator.com/item?id=49181099</a></p>
-<p>Points: 67</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)
-
----
-
-### 3. Position: LLMs Can't Jump
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49181083">https://news.ycombinator.com/item?id=49181083</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
+🔗 **Read more:** [https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/)
 
 ---
 
@@ -97,42 +97,42 @@ The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI mod
 
 ---
 
-### 7. Turkish cargo ship catches fire after Black Sea drone attack
+### 7. UN rights chief says Iran executed at least 56 people since March
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.
+Volker Turk warns of surge in Iran executions to suppress dissent after January uprising.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss)
 
 ---
 
-### 8. How a social media campaign triggered huge migrant surge on Ceuta
+### 8. Pakistan’s Khan in jail for 3 years: PTI, Amnesty slam solitary confinement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Following a court ruling protecting migrants swimming to Ceuta the previous week, accounts called on thousands to go.
+Thousands of supporters of former PM Imran Khan&#039;s party demonstrate across country to call for his immediate release.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss](https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss)
 
 ---
 
-### 9. Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor
+### 9. SpaceX rocket segment to crash into the moon: What happened?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Egypt forward Mohamed Salah arrived in Istanbul on Wednesday to complete his move to Turkiye club Trabzonspor.
+A piece of the SpaceX Falcon 9 rocket is believed to have crashed into the moon after floating in space since last year.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss)
 
 ---
 

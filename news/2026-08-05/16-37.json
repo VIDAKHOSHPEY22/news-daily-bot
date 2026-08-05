@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T16:37:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The journalist taking on the 'tech fascists' of Silicon Valley",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley\">https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182086\">https://news.ycombinator.com/item?id=49182086</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley",
+            "published": "Wed, 05 Aug 2026 12:46:28 +0000",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
+            "description": "<p>Article URL: <a href=\"https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and\">https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182052\">https://news.ycombinator.com/item?id=49182052</a></p>\n<p>Points: 14</p>\n<p># Comments: 8</p>",
+            "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+            "published": "Wed, 05 Aug 2026 12:42:50 +0000",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+            "description": "<p>Article URL: <a href=\"https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/\">https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49182041\">https://news.ycombinator.com/item?id=49182041</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+            "published": "Wed, 05 Aug 2026 12:41:47 +0000",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police chief considers joining legal action over PC Harper killers' early release",
+            "description": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 09:02:25 GMT",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+            "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 11:07:53 GMT",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+            "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+            "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 09:24:18 GMT",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN rights chief says Iran executed at least 56 people since March",
+            "description": "Volker Turk warns of surge in Iran executions to suppress dissent after January uprising.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 12:58:22 +0000",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan’s Khan in jail for 3 years: PTI, Amnesty slam solitary confinement",
+            "description": "Thousands of supporters of former PM Imran Khan&#039;s party demonstrate across country to call for his immediate release.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 12:58:16 +0000",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "SpaceX rocket segment to crash into the moon: What happened?",
+            "description": "A piece of the SpaceX Falcon 9 rocket is believed to have crashed into the moon after floating in space since last year.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 12:36:40 +0000",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T16:37:57+03:30"
+        }
+    ]
+}
