@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T13:12:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29377\">https://arxiv.org/abs/2607.29377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178608\">https://news.ycombinator.com/item?id=49178608</a></p>\n<p>Points: 37</p>\n<p># Comments: 9</p>",
+            "url": "https://arxiv.org/abs/2607.29377",
+            "published": "Wed, 05 Aug 2026 04:36:44 +0000",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An SLM trained on $8 ESP32-S3",
+            "description": "<p>Article URL: <a href=\"https://github.com/Carloscodix/qapla\">https://github.com/Carloscodix/qapla</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178464\">https://news.ycombinator.com/item?id=49178464</a></p>\n<p>Points: 28</p>\n<p># Comments: 9</p>",
+            "url": "https://github.com/Carloscodix/qapla",
+            "published": "Wed, 05 Aug 2026 04:07:27 +0000",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.04221\">https://arxiv.org/abs/2603.04221</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176983\">https://news.ycombinator.com/item?id=49176983</a></p>\n<p>Points: 86</p>\n<p># Comments: 69</p>",
+            "url": "https://arxiv.org/abs/2603.04221",
+            "published": "Wed, 05 Aug 2026 00:10:37 +0000",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police chief considers joining legal action over PC Harper killers' early release",
+            "description": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 09:02:25 GMT",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Peer urges Tories to block council candidate jailed for antisemitic abuse against her",
+            "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 08:56:55 GMT",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+            "description": "A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 05:07:27 GMT",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Michigan, Missouri, Washington primary elections: Key takeaways",
+            "description": "Recent US primaries have revealed Democratic Party rift between progressives and centrists over US support for Israel.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 09:14:41 +0000",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump hails progress but warned Iran of ‘hard hit’ if no deal reached",
+            "description": "US President Donald Trump says progress with Iran has been made, but warned Iran of &#039;hard hit&#039; if no deal reached.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 09:05:46 +0000",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo",
+            "description": "Vozinha says he always believed he was a &#039;big club&#039; player after his move to Colo-Colo in Chile.",
+            "url": "https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 09:03:42 +0000",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T13:12:39+03:30"
+        }
+    ]
+}
