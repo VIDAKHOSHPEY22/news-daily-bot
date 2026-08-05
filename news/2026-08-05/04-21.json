@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T04:21:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.04221\">https://arxiv.org/abs/2603.04221</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176983\">https://news.ycombinator.com/item?id=49176983</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2603.04221",
+            "published": "Wed, 05 Aug 2026 00:10:37 +0000",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bugtraq Is Back",
+            "description": "<p>Article URL: <a href=\"https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176947\">https://news.ycombinator.com/item?id=49176947</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+            "published": "Wed, 05 Aug 2026 00:05:49 +0000",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Eight Myths on Software Engineering and GenAI",
+            "description": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3807963\">https://queue.acm.org/detail.cfm?id=3807963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176830\">https://news.ycombinator.com/item?id=49176830</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://queue.acm.org/detail.cfm?id=3807963",
+            "published": "Tue, 04 Aug 2026 23:50:52 +0000",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+            "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+            "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 17:26:06 GMT",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temperatures to drop briefly ahead of next UK heatwave",
+            "description": "Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.",
+            "url": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 23:14:49 GMT",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+            "description": "A terminally-ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 21:55:17 GMT",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+            "description": "Iran says talks with Oman are proceeding &#039;positively&#039; as US officials say a deal could be possible soon.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+            "description": "An official has indicated that the visa revocation would not mean that Brazil&#039;s ambassador will be expelled from the US.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 23:41:27 +0000",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
+            "description": "Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.",
+            "url": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
+            "published": "Tue, 04 Aug 2026 23:27:13 +0000",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T04:21:35+03:30"
+        }
+    ]
+}
