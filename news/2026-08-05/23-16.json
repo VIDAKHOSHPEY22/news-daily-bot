@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T23:16:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Muse Code and Muse Spark 1.2",
+            "description": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187575\">https://news.ycombinator.com/item?id=49187575</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+            "published": "Wed, 05 Aug 2026 19:15:52 +0000",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+            "description": "<p>Article URL: <a href=\"https://sagredo.dev/projects/sula/\">https://sagredo.dev/projects/sula/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187259\">https://news.ycombinator.com/item?id=49187259</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://sagredo.dev/projects/sula/",
+            "published": "Wed, 05 Aug 2026 18:52:58 +0000",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zed DeltaDB",
+            "description": "<p>Article URL: <a href=\"https://zed.dev/deltadb\">https://zed.dev/deltadb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187256\">https://news.ycombinator.com/item?id=49187256</a></p>\n<p>Points: 70</p>\n<p># Comments: 12</p>",
+            "url": "https://zed.dev/deltadb",
+            "published": "Wed, 05 Aug 2026 18:52:54 +0000",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+            "description": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 19:01:34 GMT",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman arrested after four stabbed in central London",
+            "description": "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 16:34:52 GMT",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "University of Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 19:45:56 GMT",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
+            "description": "The announcement comes as Lula warns of foreign interference and polls show a tightening presidential race.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 19:22:06 +0000",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+            "description": "Authorities are screening 5,000 refugees as rights groups warn they remain at risk of persecution in Myanmar.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 18:40:06 +0000",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US authorities report deadly mass shooting in Prospect Hill, North Carolina",
+            "description": "This is a breaking news story.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 18:25:07 +0000",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T23:16:47+03:30"
+        }
+    ]
+}
