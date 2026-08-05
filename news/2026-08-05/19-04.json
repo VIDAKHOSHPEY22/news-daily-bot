@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T19:04:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cloudflare OS",
+            "description": "<p>Article URL: <a href=\"https://os.cloudflare.app/\">https://os.cloudflare.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49184083\">https://news.ycombinator.com/item?id=49184083</a></p>\n<p>Points: 6</p>\n<p># Comments: 4</p>",
+            "url": "https://os.cloudflare.app/",
+            "published": "Wed, 05 Aug 2026 15:11:51 +0000",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google Assistant is going away on Mobile Devices",
+            "description": "<p>Article URL: <a href=\"https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png\">https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49184041\">https://news.ycombinator.com/item?id=49184041</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png",
+            "published": "Wed, 05 Aug 2026 15:08:58 +0000",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me",
+            "description": "<p>Article URL: <a href=\"https://knock-knock.net/blog/citigroup-idaho-build-a-bear/\">https://knock-knock.net/blog/citigroup-idaho-build-a-bear/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183953\">https://news.ycombinator.com/item?id=49183953</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://knock-knock.net/blog/citigroup-idaho-build-a-bear/",
+            "published": "Wed, 05 Aug 2026 15:01:26 +0000",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+            "description": "A 35-year old man has appeared in court charged with the murder of Minnie Merriman, who was found injured in Arbroath on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 14:50:09 GMT",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
+            "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+            "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 09:24:18 GMT",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+            "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 13:37:55 GMT",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: US-Iran deal edges closer",
+            "description": "A deal between the US and Iran could be signed within 48 hours, according to US officials.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 15:12:34 +0000",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany investigates explosive device attached to drone at Leipzig airport",
+            "description": "An airport employee spotted the object carrying what authorities described as &#039;an unknown explosive device&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 14:40:32 +0000",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Demolition complicates the search for bodies after Venezuela’s earthquakes",
+            "description": "Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?",
+            "url": "https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 14:31:05 +0000",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T19:04:08+03:30"
+        }
+    ]
+}

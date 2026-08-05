@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 18:51:30
+**Last Update:** 2026-08-05 19:04:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://os.cloudflare.app/">https://os.cloudflare.app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49184083">https://news.ycombinator.com/item?id=49184083</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 6</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://os.cloudflare.app/](https://os.cloudflare.app/)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png">https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49184041">https://news.ycombinator.com/item?id=49184041</a></p>
-<p>Points: 6</p>
+<p>Points: 9</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png](https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png)
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://knock-knock.net/blog/citigroup-idaho-build-a-bear/">https://knock-knock.net/blog/citigroup-idaho-build-a-bear/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49183953">https://news.ycombinator.com/item?id=49183953</a></p>
-<p>Points: 3</p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://knock-knock.net/blog/citigroup-idaho-build-a-bear/](https://knock-knock.net/blog/citigroup-idaho-build-a-bear/)
@@ -97,7 +97,20 @@ Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected t
 
 ---
 
-### 7. Germany investigates explosive device attached to drone at Leipzig airport
+### 7. War on Iran: US-Iran deal edges closer
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A deal between the US and Iran could be signed within 48 hours, according to US officials.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss)
+
+---
+
+### 8. Germany investigates explosive device attached to drone at Leipzig airport
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ An airport employee spotted the object carrying what authorities described as &#
 
 ---
 
-### 8. Demolition complicates the search for bodies after Venezuela’s earthquakes
+### 9. Demolition complicates the search for bodies after Venezuela’s earthquakes
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ An airport employee spotted the object carrying what authorities described as &#
 Venezuela has begun tearing down unstable buildings after its deadly earthquakes. But what is the cost to survivors?
 
 🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/8/5/demolition-complicates-the-search-for-bodies-after-venezuelas-earthquakes?traffic_source=rss)
-
----
-
-### 9. Gaza father opens play center to restore childhood amid Israeli attacks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A Palestinian father opened a Gaza play center offering children free escape and joy amid near daily Israeli attacks.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss)
 
 ---
 
