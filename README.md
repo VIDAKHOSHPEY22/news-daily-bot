@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 00:50:11
+**Last Update:** 2026-08-06 01:09:01
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://runarcn.no/android-to-linux/">https://runarcn.no/android-to-linux/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49188022">https://news.ycombinator.com/item?id=49188022</a></p>
-<p>Points: 25</p>
-<p># Comments: 9</p>
+<p>Points: 45</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://runarcn.no/android-to-linux/](https://runarcn.no/android-to-linux/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/">https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187977">https://news.ycombinator.com/item?id=49187977</a></p>
-<p>Points: 98</p>
-<p># Comments: 34</p>
+<p>Points: 120</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/](https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49187575">https://news.ycombinator.com/item?id=49187575</a></p>
-<p>Points: 82</p>
-<p># Comments: 48</p>
+<p>Points: 91</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
 
@@ -97,42 +97,42 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 7. SpaceX shares slide on the heels of first quarterly report
+### 7. Clashes on anniversary of Imran Khan imprisonment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The stock was down more than 13 percent as investors were spooked by the company&#039;s heavy investments.
+Pakistan police fired tear gas at supporters of jailed former Prime Minister Imran Khan in Rawalpindi.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss)
 
 ---
 
-### 8. Sheikh Hasina says she will return to Bangladesh in December
+### 8. El-Sayed wins Michigan Democratic Senate primary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.
+Abdul el-Sayed has won Michigan’s Democratic senate primary
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss)
 
 ---
 
-### 9. New Mexico sues US Justice Department for impeding Epstein probe
+### 9. US announces more than $100m in rewards for eight Jalisco cartel leaders
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The southwestern US state&#039;s attorney general argues that the federal government is withholding key unredacted documents.
+The Trump administration has sought to weaken the leadership of high-profile Mexican cartels by increasing the bounties.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss)
 
 ---
 
