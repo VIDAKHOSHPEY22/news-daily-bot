@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 06:52:26
+**Last Update:** 2026-08-05 08:04:04
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.asiae.co.kr/en/article/2026080416131786841">https://www.asiae.co.kr/en/article/2026080416131786841</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49177554">https://news.ycombinator.com/item?id=49177554</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Points: 39</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.asiae.co.kr/en/article/2026080416131786841](https://www.asiae.co.kr/en/article/2026080416131786841)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
-<p>Points: 29</p>
-<p># Comments: 22</p>
+<p>Points: 44</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176947">https://news.ycombinator.com/item?id=49176947</a></p>
-<p>Points: 29</p>
+<p>Points: 30</p>
 <p># Comments: 6</p>
 
 🔗 **Read more:** [https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/)
@@ -71,20 +71,7 @@ Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when
 
 ---
 
-### 5. Temperatures to drop briefly ahead of next UK heatwave
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+### 5. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
 
 **Source:** BBC
 
@@ -97,81 +84,55 @@ A terminally-ill man was offered the drugs by a stair lift salesman claiming the
 
 ---
 
-### 7. US stock market hits record high amid hopes for Strait of Hormuz reopening
+### 6. Temperatures to drop briefly ahead of next UK heatwave
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Temperatures and humidity are set to drop but, as Matt Taylor reports, respite from high heat is likely to be short-lived.
+
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Bolivia sends troops to stop Brazilian gang violence along border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Oil prices fall as US officials tout progress in talks to reopen critical waterway.
+Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss)
 
 ---
 
-### 8. Armed man arrested at Trump’s LA golf course ahead of president’s visit
+### 8. North Korea’s Kim Yo Jong issues military threat over Japan missile test
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Loaded pistol and rifle among items found in suspect&#039;s pocket, car and home following arrest, police say.
+The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss)
 
 ---
 
-### 9. Ceuta and Melilla: Why Europe’s African border remains a flashpoint
+### 9. Protesters demand answers from ICE after second man dies at Delaney Hall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.
+Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss)
-
----
-
-### 10. Wildfire Middle Coulee, Chouteau, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
-
----
-
-### 11. Wildfire Antelope Creek, Elko, Nevada
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
-
----
-
-### 12. Wildfire Bluegill, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss)
 
 ---
 
