@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T00:50:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm switching my phone from Android to Linux",
+            "description": "<p>Article URL: <a href=\"https://runarcn.no/android-to-linux/\">https://runarcn.no/android-to-linux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49188022\">https://news.ycombinator.com/item?id=49188022</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+            "url": "https://runarcn.no/android-to-linux/",
+            "published": "Wed, 05 Aug 2026 19:50:13 +0000",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+            "description": "<p>Article URL: <a href=\"https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/\">https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187977\">https://news.ycombinator.com/item?id=49187977</a></p>\n<p>Points: 98</p>\n<p># Comments: 34</p>",
+            "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+            "published": "Wed, 05 Aug 2026 19:47:26 +0000",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Muse Code and Muse Spark 1.2",
+            "description": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187575\">https://news.ycombinator.com/item?id=49187575</a></p>\n<p>Points: 82</p>\n<p># Comments: 48</p>",
+            "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+            "published": "Wed, 05 Aug 2026 19:15:52 +0000",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+            "description": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 20:12:17 GMT",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman arrested after four stabbed in central London",
+            "description": "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 16:34:52 GMT",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "University of Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 21:18:04 GMT",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "SpaceX shares slide on the heels of first quarterly report",
+            "description": "The stock was down more than 13 percent as investors were spooked by the company&#039;s heavy investments.",
+            "url": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 20:06:08 +0000",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sheikh Hasina says she will return to Bangladesh in December",
+            "description": "Deposed Bangladesh Prime Minister Sheikh Hasina says she will return in December.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 20:03:10 +0000",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New Mexico sues US Justice Department for impeding Epstein probe",
+            "description": "The southwestern US state&#039;s attorney general argues that the federal government is withholding key unredacted documents.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 19:51:12 +0000",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-06T00:50:11+03:30"
+        }
+    ]
+}
