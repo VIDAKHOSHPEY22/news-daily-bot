@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 10:06:00
+**Last Update:** 2026-08-05 11:28:59
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The sale of Electronic Arts has been finalized
+### 1. Rust-lang/rust is adopting an LLM policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cjejyl34345o">https://www.bbc.com/news/articles/cjejyl34345o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178702">https://news.ycombinator.com/item?id=49178702</a></p>
-<p>Points: 54</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/">https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49179039">https://news.ycombinator.com/item?id=49179039</a></p>
+<p>Points: 42</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cjejyl34345o](https://www.bbc.com/news/articles/cjejyl34345o)
+🔗 **Read more:** [https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/Carloscodix/qapla">https://github.com/Carloscodix/qapla</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178464">https://news.ycombinator.com/item?id=49178464</a></p>
-<p>Points: 13</p>
-<p># Comments: 5</p>
+<p>Points: 17</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://github.com/Carloscodix/qapla](https://github.com/Carloscodix/qapla)
 
 ---
 
-### 4. Burnham 'looking into' conducting Epstein inquiry, says victims minister
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+### 4. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ A terminally ill man was offered the drugs by a stair lift salesman claiming the
 
 ---
 
-### 6. Russian ballistic missile strike on Kyiv kills at least 14, officials say
+### 5. Burnham 'looking into' conducting Epstein inquiry, says victims minister
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of Kyiv's military administration says Russia is "once again massively attacking" the region around the city.
+Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Russian strike kills at least 17 as Zelensky says interceptors could have saved lives
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The head of Kyiv's military administration said Russia is "once again massively attacking" the region around the city.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects
+### 7. Why the Trump administration is helping support Japan’s weakening yen
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Progressive advocate overcomes over $60m in spending to defeat pro-Israel Congresswoman Haley Stevens.
+Washington and Tokyo&#039;s rare coordinated intervention aims to avoid spillover to global financial system.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss)
 
 ---
 
-### 8. The yearly mild weather spell that brings Yemen’s coast back to life
+### 8. Pakistan and Uganda athletes ‘missing’ after Commonwealth Games
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al-Baldah transforms Mukalla with mild temperatures, beach fun and a rare economic boost for the southern Yemeni city.
+UK police looking into reports of &#039;missing&#039; athletes who didn&#039;t return home after Commonwealth Games closing ceremony.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss](https://www.aljazeera.com/features/2026/8/5/the-yearly-mild-weather-spell-that-brings-yemens-coast-back-to-life?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss)
 
 ---
 
-### 9. Return of goods to markets in Gaza doesn’t mean people can afford them
+### 9. Nigeria cannot build safe schools in unsafe communities
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Displaced Palestinians in Gaza struggle daily to afford food, with soaring prices and limited income opportunities.
+The Safe Schools Initiative will keep falling short until the lack of security beyond school grounds is confronted.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss](https://www.aljazeera.com/features/2026/8/5/return-of-goods-to-markets-in-gaza-doesnt-mean-people-can-afford-them?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss)
 
 ---
 
