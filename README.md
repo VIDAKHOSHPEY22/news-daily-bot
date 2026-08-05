@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 13:12:39
+**Last Update:** 2026-08-05 14:25:58
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zero-Mem: Zero-Token Memory Operations for LLM Agents
+### 1. The software group Palantir paid just £2M in corporation tax in the UK in 2024
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices">https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180535">https://news.ycombinator.com/item?id=49180535</a></p>
+<p>Points: 24</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices](https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices)
+
+---
+
+### 2. Helsinki Hacker News Meetup
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://calpaterson.com/helsinki-hn.html">https://calpaterson.com/helsinki-hn.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180407">https://news.ycombinator.com/item?id=49180407</a></p>
+<p>Points: 37</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://calpaterson.com/helsinki-hn.html](https://calpaterson.com/helsinki-hn.html)
+
+---
+
+### 3. Zero-Mem: Zero-Token Memory Operations for LLM Agents
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
-<p>Points: 37</p>
+<p>Points: 46</p>
 <p># Comments: 9</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
-
----
-
-### 2. An SLM trained on $8 ESP32-S3
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/Carloscodix/qapla">https://github.com/Carloscodix/qapla</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178464">https://news.ycombinator.com/item?id=49178464</a></p>
-<p>Points: 28</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://github.com/Carloscodix/qapla](https://github.com/Carloscodix/qapla)
-
----
-
-### 3. Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2603.04221">https://arxiv.org/abs/2603.04221</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49176983">https://news.ycombinator.com/item?id=49176983</a></p>
-<p>Points: 86</p>
-<p># Comments: 69</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2603.04221](https://arxiv.org/abs/2603.04221)
 
 ---
 
@@ -71,7 +71,7 @@ Two of PC Andrew Harper's killers are set to be included in the government's ear
 
 ---
 
-### 5. Peer urges Tories to block council candidate jailed for antisemitic abuse against her
+### 5. Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her
 
 **Source:** BBC
 
@@ -91,48 +91,48 @@ Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected t
 **Category:** world
 
 **Description:**
-A terminally ill man was offered the drugs by a stair lift salesman claiming they could shrink tumours.
+A terminally ill patient was offered the drugs by a stair lift salesman claiming they could shrink tumours.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Michigan, Missouri, Washington primary elections: Key takeaways
+### 7. Israeli raid deepens fears across West Bank refugee camps
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Recent US primaries have revealed Democratic Party rift between progressives and centrists over US support for Israel.
+Israeli raid deepens fears across West Bank refugee camps
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/michigan-missouri-washington-primary-elections-key-takeaways?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss)
 
 ---
 
-### 8. Trump hails progress but warned Iran of ‘hard hit’ if no deal reached
+### 8. India’s severe monsoon season causes more than 100 deaths since July
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says progress with Iran has been made, but warned Iran of &#039;hard hit&#039; if no deal reached.
+Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss)
 
 ---
 
-### 9. Cape Verde’s World Cup hero, social media sensation Vozinha joins Colo-Colo
+### 9. How Israeli restrictions on Palestinians’ movement break up the West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Vozinha says he always believed he was a &#039;big club&#039; player after his move to Colo-Colo in Chile.
+While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/cape-verdes-world-cup-hero-social-media-sensation-vozinha-joins-colo-colo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss)
 
 ---
 

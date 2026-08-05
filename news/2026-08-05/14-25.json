@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T14:25:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices\">https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180535\">https://news.ycombinator.com/item?id=49180535</a></p>\n<p>Points: 24</p>\n<p># Comments: 22</p>",
+            "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+            "published": "Wed, 05 Aug 2026 09:36:17 +0000",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Helsinki Hacker News Meetup",
+            "description": "<p>Article URL: <a href=\"https://calpaterson.com/helsinki-hn.html\">https://calpaterson.com/helsinki-hn.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180407\">https://news.ycombinator.com/item?id=49180407</a></p>\n<p>Points: 37</p>\n<p># Comments: 12</p>",
+            "url": "https://calpaterson.com/helsinki-hn.html",
+            "published": "Wed, 05 Aug 2026 09:15:33 +0000",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29377\">https://arxiv.org/abs/2607.29377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178608\">https://news.ycombinator.com/item?id=49178608</a></p>\n<p>Points: 46</p>\n<p># Comments: 9</p>",
+            "url": "https://arxiv.org/abs/2607.29377",
+            "published": "Wed, 05 Aug 2026 04:36:44 +0000",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police chief considers joining legal action over PC Harper killers' early release",
+            "description": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 09:02:25 GMT",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+            "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 10:31:36 GMT",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+            "description": "A terminally ill patient was offered the drugs by a stair lift salesman claiming they could shrink tumours.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 05:07:27 GMT",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli raid deepens fears across West Bank refugee camps",
+            "description": "Israeli raid deepens fears across West Bank refugee camps",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 10:30:17 +0000",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s severe monsoon season causes more than 100 deaths since July",
+            "description": "Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 10:10:07 +0000",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
+            "description": "While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 10:09:22 +0000",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T14:25:58+03:30"
+        }
+    ]
+}
