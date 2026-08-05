@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-05T15:35:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Polling shows a growing political reckoning is coming for data centers",
+            "description": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799\">https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181191\">https://news.ycombinator.com/item?id=49181191</a></p>\n<p>Points: 6</p>\n<p># Comments: 5</p>",
+            "url": "https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799",
+            "published": "Wed, 05 Aug 2026 11:13:19 +0000",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+            "description": "<p>Article URL: <a href=\"https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/\">https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181099\">https://news.ycombinator.com/item?id=49181099</a></p>\n<p>Points: 67</p>\n<p># Comments: 14</p>",
+            "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+            "published": "Wed, 05 Aug 2026 11:03:13 +0000",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Position: LLMs Can't Jump",
+            "description": "<p>Article URL: <a href=\"https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt\">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49181083\">https://news.ycombinator.com/item?id=49181083</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+            "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+            "published": "Wed, 05 Aug 2026 11:01:37 +0000",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police chief considers joining legal action over PC Harper killers' early release",
+            "description": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 09:02:25 GMT",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-MP urges Tories to block council candidate jailed for antisemitic abuse against her",
+            "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 11:07:53 GMT",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+            "description": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+            "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 09:24:18 GMT",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+            "description": "A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 11:49:25 +0000",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How a social media campaign triggered huge migrant surge on Ceuta",
+            "description": "Following a court ruling protecting migrants swimming to Ceuta the previous week, accounts called on thousands to go.",
+            "url": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 11:48:55 +0000",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
+            "description": "Egypt forward Mohamed Salah arrived in Istanbul on Wednesday to complete his move to Turkiye club Trabzonspor.",
+            "url": "https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 11:38:51 +0000",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-05T15:35:06+03:30"
+        }
+    ]
+}

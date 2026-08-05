@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-05 14:25:58
+**Last Update:** 2026-08-05 15:35:06
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The software group Palantir paid just £2M in corporation tax in the UK in 2024
+### 1. Polling shows a growing political reckoning is coming for data centers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices">https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180535">https://news.ycombinator.com/item?id=49180535</a></p>
-<p>Points: 24</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799">https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49181191">https://news.ycombinator.com/item?id=49181191</a></p>
+<p>Points: 6</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices](https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices)
+🔗 **Read more:** [https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799](https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799)
 
 ---
 
-### 2. Helsinki Hacker News Meetup
+### 2. Civilian plane crash in New Mexico tied to military GPS blocking
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://calpaterson.com/helsinki-hn.html">https://calpaterson.com/helsinki-hn.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49180407">https://news.ycombinator.com/item?id=49180407</a></p>
-<p>Points: 37</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/">https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49181099">https://news.ycombinator.com/item?id=49181099</a></p>
+<p>Points: 67</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://calpaterson.com/helsinki-hn.html](https://calpaterson.com/helsinki-hn.html)
+🔗 **Read more:** [https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)
 
 ---
 
-### 3. Zero-Mem: Zero-Token Memory Operations for LLM Agents
+### 3. Position: LLMs Can't Jump
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2607.29377">https://arxiv.org/abs/2607.29377</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49178608">https://news.ycombinator.com/item?id=49178608</a></p>
-<p>Points: 46</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49181083">https://news.ycombinator.com/item?id=49181083</a></p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2607.29377](https://arxiv.org/abs/2607.29377)
+🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
 
 ---
 
@@ -84,55 +84,55 @@ Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected t
 
 ---
 
-### 6. Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds
+### 6. Anthropic AI created fake profiles and impersonated people in attempted hack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A terminally ill patient was offered the drugs by a stair lift salesman claiming they could shrink tumours.
+The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli raid deepens fears across West Bank refugee camps
+### 7. Turkish cargo ship catches fire after Black Sea drone attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli raid deepens fears across West Bank refugee camps
+A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss)
 
 ---
 
-### 8. India’s severe monsoon season causes more than 100 deaths since July
+### 8. How a social media campaign triggered huge migrant surge on Ceuta
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Monsoon downpours cause floods and landslides as climate change and El Nino disrupt rainfall patterns.
+Following a court ruling protecting migrants swimming to Ceuta the previous week, accounts called on thousands to go.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/indias-severe-monsoon-season-causes-more-than-100-deaths-since-july?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss](https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss)
 
 ---
 
-### 9. How Israeli restrictions on Palestinians’ movement break up the West Bank
+### 9. Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.
+Egypt forward Mohamed Salah arrived in Istanbul on Wednesday to complete his move to Turkiye club Trabzonspor.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/5/ex-liverpool-star-salah-arrives-in-turkiye-ahead-of-move-to-trabzonspor?traffic_source=rss)
 
 ---
 
