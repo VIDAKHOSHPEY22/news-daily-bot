@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T02:56:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The title cards in Blade Runner are amazing",
+            "description": "<p>Article URL: <a href=\"https://randsinrepose.com/archives/blade-runner-title-cards/\">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189287\">https://news.ycombinator.com/item?id=49189287</a></p>\n<p>Points: 81</p>\n<p># Comments: 19</p>",
+            "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+            "published": "Wed, 05 Aug 2026 21:29:23 +0000",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+            "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189234\">https://news.ycombinator.com/item?id=49189234</a></p>\n<p>Points: 49</p>\n<p># Comments: 4</p>",
+            "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+            "published": "Wed, 05 Aug 2026 21:24:45 +0000",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Prime Agent: A self-improving RLM agent",
+            "description": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/prime-agent\">https://www.primeintellect.ai/blog/prime-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189075\">https://news.ycombinator.com/item?id=49189075</a></p>\n<p>Points: 62</p>\n<p># Comments: 8</p>",
+            "url": "https://www.primeintellect.ai/blog/prime-agent",
+            "published": "Wed, 05 Aug 2026 21:11:57 +0000",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "description": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 21:37:08 GMT",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+            "description": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 20:12:17 GMT",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman arrested after four stabbed in central London",
+            "description": "A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 16:34:52 GMT",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
+            "description": "Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 22:59:28 +0000",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
+            "description": "US public health agency faces toughest test as Schwartz takes charge amid political pressure and public health crises.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 22:46:03 +0000",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli occupation destroys farmland and lives in southern Syria",
+            "description": "Israeli occupation destroys farmland and lives in southern Syria",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 22:01:33 +0000",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-06T02:56:19+03:30"
+        }
+    ]
+}

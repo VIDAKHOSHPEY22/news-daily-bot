@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 02:39:49
+**Last Update:** 2026-08-06 02:56:19
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Title Cards in Blade Runner Are Fucking Amazing
+### 1. The title cards in Blade Runner are amazing
 
 **Source:** Hacker News
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://randsinrepose.com/archives/blade-runner-title-cards/">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189287">https://news.ycombinator.com/item?id=49189287</a></p>
-<p>Points: 59</p>
-<p># Comments: 13</p>
+<p>Points: 81</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://randsinrepose.com/archives/blade-runner-title-cards/](https://randsinrepose.com/archives/blade-runner-title-cards/)
 
 ---
 
-### 2. Nvidia's Vera Whitepaper Has a Thread Loose
+### 2. NVIDIA’s Vera Whitepaper Has a Thread Loose
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189234">https://news.ycombinator.com/item?id=49189234</a></p>
-<p>Points: 40</p>
-<p># Comments: 3</p>
+<p>Points: 49</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent">https://www.primeintellect.ai/blog/prime-agent</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189075">https://news.ycombinator.com/item?id=49189075</a></p>
-<p>Points: 53</p>
-<p># Comments: 5</p>
+<p>Points: 62</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/blog/prime-agent](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -97,7 +97,20 @@ A woman is arrested after four men are stabbed in central London, the Metropolit
 
 ---
 
-### 7. Erica Schwartz confirmed as new CDC chief amid US agency turmoil
+### 7. FIFA pledges to defend Infantino after World Cup rights plan collapses
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss)
+
+---
+
+### 8. Erica Schwartz confirmed as new CDC chief amid US agency turmoil
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US public health agency faces toughest test as Schwartz takes charge amid politi
 
 ---
 
-### 8. Israeli occupation destroys farmland and lives in southern Syria
+### 9. Israeli occupation destroys farmland and lives in southern Syria
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US public health agency faces toughest test as Schwartz takes charge amid politi
 Israeli occupation destroys farmland and lives in southern Syria
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss)
-
----
-
-### 9. US officials push back on reports of dangerously low munitions supplies
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Experts warn that low stockpiles of air defence interceptors as a result of the war on Iran leave the US vulnerable.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss)
 
 ---
 
