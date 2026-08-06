@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 10:39:32
+**Last Update:** 2026-08-06 13:15:33
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Crime Pays but Botany Doesn't
+### 1. What I love about Django
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
+<p>Points: 53</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
+
+---
+
+### 2. Let's all meet up in the Y2K
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
+<p>Points: 33</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
+
+---
+
+### 3. Crime Pays but Botany Doesn't
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
-<p>Points: 45</p>
-<p># Comments: 3</p>
+<p>Points: 186</p>
+<p># Comments: 77</p>
 
 🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
-
----
-
-### 2. Ship Safe, an open source security scanner for coding agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/asamassekou10/ship-safe">https://github.com/asamassekou10/ship-safe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192277">https://news.ycombinator.com/item?id=49192277</a></p>
-<p>Points: 5</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://github.com/asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
-
----
-
-### 3. Show HN: Wallfacer – A terminal session manager for Claude Code, and more
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/pradipta/wallfacer">https://github.com/pradipta/wallfacer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192219">https://news.ycombinator.com/item?id=49192219</a></p>
-<p>Points: 13</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://github.com/pradipta/wallfacer](https://github.com/pradipta/wallfacer)
 
 ---
 
@@ -71,20 +71,7 @@ They say the incidents happened at the Army Foundation College in Harrogate when
 
 ---
 
-### 5. Infantino sorry for errors but stays Fifa president
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Gianni Infantino will remain Fifa president after receiving backing from senior executives, but "sincerely apologises" for errors in his controversial private investment plans.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Cambridge professor at centre of plagiarism row resigns
+### 5. Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 7. Pakistan beat West Indies to end 8 away Test losing streak and draw series
+### 6. Meredith Kercher's sister criticises Amanda Knox comedy show
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pakistan win first away Test in three years, beating West Indies by eight wickets in Trinidad to draw two Test series.
+Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. A US proposal for missile defense that’s been tried before
+### 7. South Korea police raid football association over Hong appointment process
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-What is a Golden Dome, and why does Donald Trump want one?
+Hong Myung-bo&#039;s appointment under scrutiny amid raids with lack of proper interview process previously alleged.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss)
 
 ---
 
-### 9. Ukraine escalates strikes on Russian shipping
+### 8. Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Striking hundreds of targets in a matter of weeks, Ukraine has found a new way to pressure Russia&#039;s hold on Crimea
+More than 200 ancient Meroe pyramids are imperilled by Sudan’s escalating war and neglect.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/6/ukraine-escalates-strikes-on-russian-shipping?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/6/ukraine-escalates-strikes-on-russian-shipping?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss)
+
+---
+
+### 9. US-Israel war on Iran upends Europe’s summer holiday travel patterns
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Holidaymakers are sticking closer to home as the conflict rages, while tourism operators adapt.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss)
 
 ---
 
