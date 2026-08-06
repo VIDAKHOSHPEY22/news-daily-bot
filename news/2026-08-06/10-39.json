@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T10:39:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Crime Pays but Botany Doesn't",
+            "description": "<p>Article URL: <a href=\"https://www.crimepaysbutbotanydoesnt.com/reading-list\">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49192566\">https://news.ycombinator.com/item?id=49192566</a></p>\n<p>Points: 45</p>\n<p># Comments: 3</p>",
+            "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+            "published": "Thu, 06 Aug 2026 04:46:35 +0000",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ship Safe, an open source security scanner for coding agents",
+            "description": "<p>Article URL: <a href=\"https://github.com/asamassekou10/ship-safe\">https://github.com/asamassekou10/ship-safe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49192277\">https://news.ycombinator.com/item?id=49192277</a></p>\n<p>Points: 5</p>\n<p># Comments: 5</p>",
+            "url": "https://github.com/asamassekou10/ship-safe",
+            "published": "Thu, 06 Aug 2026 04:02:28 +0000",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+            "description": "<p>Article URL: <a href=\"https://github.com/pradipta/wallfacer\">https://github.com/pradipta/wallfacer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49192219\">https://news.ycombinator.com/item?id=49192219</a></p>\n<p>Points: 13</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/pradipta/wallfacer",
+            "published": "Thu, 06 Aug 2026 03:52:56 +0000",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+            "description": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+            "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 05:00:09 GMT",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "description": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 21:37:08 GMT",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 06:28:03 GMT",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan beat West Indies to end 8 away Test losing streak and draw series",
+            "description": "Pakistan win first away Test in three years, beating West Indies by eight wickets in Trinidad to draw two Test series.",
+            "url": "https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 06:58:31 +0000",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A US proposal for missile defense that’s been tried before",
+            "description": "What is a Golden Dome, and why does Donald Trump want one?",
+            "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 06:51:27 +0000",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine escalates strikes on Russian shipping",
+            "description": "Striking hundreds of targets in a matter of weeks, Ukraine has found a new way to pressure Russia&#039;s hold on Crimea",
+            "url": "https://www.aljazeera.com/video/project-force-2/2026/8/6/ukraine-escalates-strikes-on-russian-shipping?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 06:40:18 +0000",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-06T10:39:32+03:30"
+        }
+    ]
+}

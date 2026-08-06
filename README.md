@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 10:09:16
+**Last Update:** 2026-08-06 10:39:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Points: 45</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
 
@@ -36,7 +36,7 @@
 <p>Article URL: <a href="https://github.com/asamassekou10/ship-safe">https://github.com/asamassekou10/ship-safe</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192277">https://news.ycombinator.com/item?id=49192277</a></p>
 <p>Points: 5</p>
-<p># Comments: 3</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/pradipta/wallfacer">https://github.com/pradipta/wallfacer</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192219">https://news.ycombinator.com/item?id=49192219</a></p>
-<p>Points: 12</p>
-<p># Comments: 5</p>
+<p>Points: 13</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://github.com/pradipta/wallfacer](https://github.com/pradipta/wallfacer)
 
@@ -97,42 +97,42 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 7. US military families face deportation after immigration protection ends
+### 7. Pakistan beat West Indies to end 8 away Test losing streak and draw series
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The spouses and parents of US service members have been reportedly detained or deported.
+Pakistan win first away Test in three years, beating West Indies by eight wickets in Trinidad to draw two Test series.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/pakistan-beat-west-indies-to-end-8-away-test-losing-streak-and-draw-series?traffic_source=rss)
 
 ---
 
-### 8. Carney curses Infantino as FIFA backs its president
+### 8. A US proposal for missile defense that’s been tried before
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA’s President Gianni Infantino gets the support of executive members at an emergency meeting in Morocco.
+What is a Golden Dome, and why does Donald Trump want one?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/carney-curses-infantino-as-fifa-backs-its-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/6/a-us-proposal-for-missile-defense-thats-been-tried-before?traffic_source=rss)
 
 ---
 
-### 9. Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn
+### 9. Ukraine escalates strikes on Russian shipping
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eight leading shipping organisations sign letter opposing fees in critical waterway.
+Striking hundreds of targets in a matter of weeks, Ukraine has found a new way to pressure Russia&#039;s hold on Crimea
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/6/ukraine-escalates-strikes-on-russian-shipping?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/6/ukraine-escalates-strikes-on-russian-shipping?traffic_source=rss)
 
 ---
 
