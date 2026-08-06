@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 06:55:44
+**Last Update:** 2026-08-06 07:16:40
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project">https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191624">https://news.ycombinator.com/item?id=49191624</a></p>
-<p>Points: 56</p>
-<p># Comments: 39</p>
+<p>Points: 76</p>
+<p># Comments: 63</p>
 
 🔗 **Read more:** [https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto">https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49191365">https://news.ycombinator.com/item?id=49191365</a></p>
-<p>Points: 43</p>
-<p># Comments: 31</p>
+<p>Points: 48</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://randsinrepose.com/archives/blade-runner-title-cards/">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189287">https://news.ycombinator.com/item?id=49189287</a></p>
-<p>Points: 175</p>
-<p># Comments: 75</p>
+<p>Points: 180</p>
+<p># Comments: 81</p>
 
 🔗 **Read more:** [https://randsinrepose.com/archives/blade-runner-title-cards/](https://randsinrepose.com/archives/blade-runner-title-cards/)
 
@@ -97,7 +97,20 @@ Robert Bush issues an open letter of apology to families affected by the Hull fu
 
 ---
 
-### 7. Lightning strike kills Thai footballer during match
+### 7. Trump administration refunds $100bn in tariffs struck down by Supreme Court
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Move comes after the US Supreme Court struck down many of Trump&#039;s sweeping levies in February.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss)
+
+---
+
+### 8. Lightning strike kills Thai footballer during match
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Footage shows the moment a lightning strike hit a football player in southern Th
 
 ---
 
-### 8. How Gambian women are restoring the mangroves protecting Banjul
+### 9. How Gambian women are restoring the mangroves protecting Banjul
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Footage shows the moment a lightning strike hit a football player in southern Th
 Trees provide a living for the women, who plant and care for them, and shield the island capital from erosion, flooding.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss)
-
----
-
-### 9. Explosive-laden drone found at German airport hosting Ukrainian fleet
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-German authorities are investigating how a drone packed with explosives reached Leipzig/Halle Airport.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss)
 
 ---
 
