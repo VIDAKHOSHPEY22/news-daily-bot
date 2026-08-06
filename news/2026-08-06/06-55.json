@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T06:55:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nashville uses eminent domain to block data center near zoo",
+            "description": "<p>Article URL: <a href=\"https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project\">https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49191624\">https://news.ycombinator.com/item?id=49191624</a></p>\n<p>Points: 56</p>\n<p># Comments: 39</p>",
+            "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+            "published": "Thu, 06 Aug 2026 02:15:14 +0000",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LLMs won't break symmetric crypto",
+            "description": "<p>Article URL: <a href=\"https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto\">https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49191365\">https://news.ycombinator.com/item?id=49191365</a></p>\n<p>Points: 43</p>\n<p># Comments: 31</p>",
+            "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+            "published": "Thu, 06 Aug 2026 01:39:06 +0000",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The title cards in Blade Runner are amazing",
+            "description": "<p>Article URL: <a href=\"https://randsinrepose.com/archives/blade-runner-title-cards/\">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189287\">https://news.ycombinator.com/item?id=49189287</a></p>\n<p>Points: 175</p>\n<p># Comments: 75</p>",
+            "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+            "published": "Wed, 05 Aug 2026 21:29:23 +0000",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "description": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 21:37:08 GMT",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "University of Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 00:36:23 GMT",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jailed funeral boss angers families with 'apology'",
+            "description": "Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal.",
+            "url": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 23:02:10 GMT",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lightning strike kills Thai footballer during match",
+            "description": "Footage shows the moment a lightning strike hit a football player in southern Thailand, during a semi-final match.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 02:39:39 +0000",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Gambian women are restoring the mangroves protecting Banjul",
+            "description": "Trees provide a living for the women, who plant and care for them, and shield the island capital from erosion, flooding.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/how-gambian-women-are-restoring-the-mangroves-protecting-banjul?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 02:34:00 +0000",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Explosive-laden drone found at German airport hosting Ukrainian fleet",
+            "description": "German authorities are investigating how a drone packed with explosives reached Leipzig/Halle Airport.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/explosive-laden-drone-found-at-german-airport-hosting-ukrainian-fleet?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 02:28:56 +0000",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-06T06:55:44+03:30"
+        }
+    ]
+}
