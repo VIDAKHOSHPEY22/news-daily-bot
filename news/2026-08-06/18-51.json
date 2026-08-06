@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T18:51:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Former Federal Prosecutors to Senate: Stop Confirming Election Deniers as Judges",
+            "description": "<p>Article URL: <a href=\"https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/\">https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49197127\">https://news.ycombinator.com/item?id=49197127</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/",
+            "published": "Thu, 06 Aug 2026 14:25:07 +0000",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Degrees of Wealth",
+            "description": "<p>Article URL: <a href=\"https://jaapgrolleman.com/degrees-of-wealth/\">https://jaapgrolleman.com/degrees-of-wealth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49197109\">https://news.ycombinator.com/item?id=49197109</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+            "url": "https://jaapgrolleman.com/degrees-of-wealth/",
+            "published": "Thu, 06 Aug 2026 14:23:57 +0000",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek planning to significantly raise prices",
+            "description": "<p>Article URL: <a href=\"https://platform.deepseek.com/usage\">https://platform.deepseek.com/usage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49197005\">https://news.ycombinator.com/item?id=49197005</a></p>\n<p>Points: 35</p>\n<p># Comments: 21</p>",
+            "url": "https://platform.deepseek.com/usage",
+            "published": "Thu, 06 Aug 2026 14:16:15 +0000",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham orders review of grooming gang early releases",
+            "description": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
+            "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 13:56:53 GMT",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Calls for inquiry into Army training college for teenagers after reports of rape and abuse",
+            "description": "Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 12:51:39 GMT",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Stephen Bear jailed for harassing ex-partner Georgia Harrison",
+            "description": "The reality TV contestant is back in prison after admitting a harassment charge regarding Georgia Harrison.",
+            "url": "https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 15:17:14 GMT",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UNICEF says one child killed per day in Gaza since ‘ceasefire’",
+            "description": "At least 300 children reported killed in Gaza in 300 days since October 2025 truce between Israel and Hamas was agreed.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 15:00:54 +0000",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: Iran and Oman agree on Strait of Hormuz deal",
+            "description": "Iran and Oman agree on new coordinates for ships to pass through the Strait of Hormuz.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 14:57:04 +0000",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid sign Ivory Coast’s Yan Diomande from RB Leipzig",
+            "description": "The Bundesliga Young Player of the Season in 2025/26 reportedly signed for record fee on deal until 2033.",
+            "url": "https://www.aljazeera.com/sports/2026/8/6/real-madrid-sign-ivory-coasts-yan-diomande-for-record-fee-from-rp-leipzig?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 14:47:40 +0000",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-06T18:51:43+03:30"
+        }
+    ]
+}

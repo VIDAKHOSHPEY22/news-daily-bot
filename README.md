@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 18:11:53
+**Last Update:** 2026-08-06 18:51:43
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I added a real-time chat to my blog, people used it to attack me
+### 1. Former Federal Prosecutors to Senate: Stop Confirming Election Deniers as Judges
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/">https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49196745">https://news.ycombinator.com/item?id=49196745</a></p>
-<p>Points: 32</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/">https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49197127">https://news.ycombinator.com/item?id=49197127</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/](https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/)
+🔗 **Read more:** [https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/](https://abovethelaw.com/2026/08/former-federal-prosecutors-to-senate-stop-confirming-election-deniers-to-the-federal-bench/)
 
 ---
 
-### 2. US beef prices have soared but farmers aren't making more money
+### 2. Degrees of Wealth
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cdrv0k0j662o">https://www.bbc.com/news/articles/cdrv0k0j662o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49196510">https://news.ycombinator.com/item?id=49196510</a></p>
-<p>Points: 23</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://jaapgrolleman.com/degrees-of-wealth/">https://jaapgrolleman.com/degrees-of-wealth/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49197109">https://news.ycombinator.com/item?id=49197109</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cdrv0k0j662o](https://www.bbc.com/news/articles/cdrv0k0j662o)
+🔗 **Read more:** [https://jaapgrolleman.com/degrees-of-wealth/](https://jaapgrolleman.com/degrees-of-wealth/)
 
 ---
 
-### 3. Telephones Caught in Between
+### 3. DeepSeek planning to significantly raise prices
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://computer.rip/2026-08-02-telephone-leasing.html">https://computer.rip/2026-08-02-telephone-leasing.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195819">https://news.ycombinator.com/item?id=49195819</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://platform.deepseek.com/usage">https://platform.deepseek.com/usage</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49197005">https://news.ycombinator.com/item?id=49197005</a></p>
+<p>Points: 35</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://computer.rip/2026-08-02-telephone-leasing.html](https://computer.rip/2026-08-02-telephone-leasing.html)
+🔗 **Read more:** [https://platform.deepseek.com/usage](https://platform.deepseek.com/usage)
 
 ---
 
@@ -84,55 +84,55 @@ Four women told the BBC they were sexually assaulted and harassed while attendin
 
 ---
 
-### 6. Majority of England's rivers and lakes fail new environmental review
+### 6. Stephen Bear jailed for harassing ex-partner Georgia Harrison
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A comprehensive assessment of England's waterways is the first in six years and shows little improvement.
+The reality TV contestant is back in prison after admitting a harassment charge regarding Georgia Harrison.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why $370bn tech group Palantir pays just 1.4 percent tax: Report
+### 7. UNICEF says one child killed per day in Gaza since ‘ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The AI group&#039;s technology is used by Israeli military and Trump administration&#039;s ICE.
+At least 300 children reported killed in Gaza in 300 days since October 2025 truce between Israel and Hamas was agreed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss)
 
 ---
 
-### 8. FIFA pays up on overdue prize money after Jordan ‘blackmail’ remark
+### 8. War on Iran: Iran and Oman agree on Strait of Hormuz deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jordan FA&#039;s president, ​Prince Ali bin Hussein, accused FIFA of &#039;blackmail&#039;, and delayed Arab Cup prize money now paid.
+Iran and Oman agree on new coordinates for ships to pass through the Strait of Hormuz.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_aje-onl-nf-iran-omar-hormuz-deal-060826?traffic_source=rss)
 
 ---
 
-### 9. What does the world pay for a child’s education?
+### 9. Real Madrid sign Ivory Coast’s Yan Diomande from RB Leipzig
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rich countries spend 41 times more on each child&#039;s education. AJLabs looks at the classroom inequality around the world.
+The Bundesliga Young Player of the Season in 2025/26 reportedly signed for record fee on deal until 2033.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/real-madrid-sign-ivory-coasts-yan-diomande-for-record-fee-from-rp-leipzig?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/real-madrid-sign-ivory-coasts-yan-diomande-for-record-fee-from-rp-leipzig?traffic_source=rss)
 
 ---
 
