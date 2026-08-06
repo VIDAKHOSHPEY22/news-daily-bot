@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T15:38:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Americans View Capitalism, Socialism and Free Enterprise",
+            "description": "<p>Article URL: <a href=\"https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx\">https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195244\">https://news.ycombinator.com/item?id=49195244</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+            "url": "https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx",
+            "published": "Thu, 06 Aug 2026 11:27:08 +0000",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I love about Django",
+            "description": "<p>Article URL: <a href=\"https://buttondown.com/blog/what-i-love-about-django\">https://buttondown.com/blog/what-i-love-about-django</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193673\">https://news.ycombinator.com/item?id=49193673</a></p>\n<p>Points: 94</p>\n<p># Comments: 71</p>",
+            "url": "https://buttondown.com/blog/what-i-love-about-django",
+            "published": "Thu, 06 Aug 2026 07:34:06 +0000",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Let's all meet up in the Y2K",
+            "description": "<p>Article URL: <a href=\"https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/\">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193314\">https://news.ycombinator.com/item?id=49193314</a></p>\n<p>Points: 77</p>\n<p># Comments: 35</p>",
+            "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+            "published": "Thu, 06 Aug 2026 06:43:38 +0000",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+            "description": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+            "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 05:00:09 GMT",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 06:28:03 GMT",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Majority of England's rivers and lakes fail new environmental review",
+            "description": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+            "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 10:00:06 GMT",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can the US slow China’s robotics and tech rise?",
+            "description": "US curbs on foreign-made robots intensify its wider rivalry with China over AI, chips and industry.",
+            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 11:35:47 +0000",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ebola outbreak accelerates as healthcare workers strike over pay",
+            "description": "Ebola outbreak accelerates as healthcare workers strike over pay",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 11:20:41 +0000",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
+            "description": "Gastelum&#039;s death comes after the killing of TikToker Valeria Marquez last year.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 11:00:07 +0000",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-06T15:38:00+03:30"
+        }
+    ]
+}

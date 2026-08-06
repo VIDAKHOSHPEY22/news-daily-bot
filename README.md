@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 13:34:36
+**Last Update:** 2026-08-06 15:38:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. What I love about Django
+### 1. How Americans View Capitalism, Socialism and Free Enterprise
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx">https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195244">https://news.ycombinator.com/item?id=49195244</a></p>
+<p>Points: 17</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx](https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx)
+
+---
+
+### 2. What I love about Django
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
-<p>Points: 58</p>
-<p># Comments: 31</p>
+<p>Points: 94</p>
+<p># Comments: 71</p>
 
 🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
 
 ---
 
-### 2. Let's all meet up in the Y2K
+### 3. Let's all meet up in the Y2K
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
-<p>Points: 40</p>
-<p># Comments: 20</p>
+<p>Points: 77</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
-
----
-
-### 3. Crime Pays but Botany Doesn't
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.crimepaysbutbotanydoesnt.com/reading-list">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49192566">https://news.ycombinator.com/item?id=49192566</a></p>
-<p>Points: 201</p>
-<p># Comments: 80</p>
-
-🔗 **Read more:** [https://www.crimepaysbutbotanydoesnt.com/reading-list](https://www.crimepaysbutbotanydoesnt.com/reading-list)
 
 ---
 
@@ -84,55 +84,55 @@ Prof Jason Arday said he had "concluded that the only way to bring this chapter 
 
 ---
 
-### 6. Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show
+### 6. Majority of England's rivers and lakes fail new environmental review
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh.
+A comprehensive assessment of England's waterways is the first in six years and shows little improvement.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. South Korea police raid football association over Hong appointment process
+### 7. Can the US slow China’s robotics and tech rise?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hong Myung-bo&#039;s appointment under scrutiny amid raids with lack of proper interview process previously alleged.
+US curbs on foreign-made robots intensify its wider rivalry with China over AI, chips and industry.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/south-korea-police-raid-football-association-over-hong-appointment-process?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss)
 
 ---
 
-### 8. Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site
+### 8. Ebola outbreak accelerates as healthcare workers strike over pay
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 200 ancient Meroe pyramids are imperilled by Sudan’s escalating war and neglect.
+Ebola outbreak accelerates as healthcare workers strike over pay
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss)
 
 ---
 
-### 9. US-Israel war on Iran upends Europe’s summer holiday travel patterns
+### 9. Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Holidaymakers are sticking closer to home as the conflict rages, while tourism operators adapt.
+Gastelum&#039;s death comes after the killing of TikToker Valeria Marquez last year.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss)
 
 ---
 
