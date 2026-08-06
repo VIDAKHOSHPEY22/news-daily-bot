@@ -1,86 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 15:53:14
+**Last Update:** 2026-08-06 18:11:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How Americans View Capitalism, Socialism and Free Enterprise
+### 1. I added a real-time chat to my blog, people used it to attack me
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx">https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195244">https://news.ycombinator.com/item?id=49195244</a></p>
-<p>Points: 28</p>
-<p># Comments: 34</p>
+<p>Article URL: <a href="https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/">https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49196745">https://news.ycombinator.com/item?id=49196745</a></p>
+<p>Points: 32</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx](https://news.gallup.com/poll/713144/americans-view-capitalism-socialism-free-enterprise.aspx)
+🔗 **Read more:** [https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/](https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/)
 
 ---
 
-### 2. What I love about Django
+### 2. US beef prices have soared but farmers aren't making more money
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://buttondown.com/blog/what-i-love-about-django">https://buttondown.com/blog/what-i-love-about-django</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193673">https://news.ycombinator.com/item?id=49193673</a></p>
-<p>Points: 99</p>
-<p># Comments: 77</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cdrv0k0j662o">https://www.bbc.com/news/articles/cdrv0k0j662o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49196510">https://news.ycombinator.com/item?id=49196510</a></p>
+<p>Points: 23</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://buttondown.com/blog/what-i-love-about-django](https://buttondown.com/blog/what-i-love-about-django)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cdrv0k0j662o](https://www.bbc.com/news/articles/cdrv0k0j662o)
 
 ---
 
-### 3. Let's all meet up in the Y2K
+### 3. Telephones Caught in Between
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49193314">https://news.ycombinator.com/item?id=49193314</a></p>
-<p>Points: 82</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://computer.rip/2026-08-02-telephone-leasing.html">https://computer.rip/2026-08-02-telephone-leasing.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49195819">https://news.ycombinator.com/item?id=49195819</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
+🔗 **Read more:** [https://computer.rip/2026-08-02-telephone-leasing.html](https://computer.rip/2026-08-02-telephone-leasing.html)
 
 ---
 
-### 4. Young women tell BBC of rape, assault and harassment at Army training college for teenagers
+### 4. Burnham orders review of grooming gang early releases
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.
+The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Cambridge professor at centre of plagiarism row resigns
+### 5. Calls for inquiry into Army training college for teenagers after reports of rape and abuse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
+Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,46 +97,46 @@ A comprehensive assessment of England's waterways is the first in six years and 
 
 ---
 
-### 7. Myanmar leader visits Thailand in bid to bolster international legitimacy
+### 7. Why $370bn tech group Palantir pays just 1.4 percent tax: Report
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Min Aung Hlaing stressed that his government was focused on ending the civil war and restoring peace.
+The AI group&#039;s technology is used by Israeli military and Trump administration&#039;s ICE.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/myanmar-leader-visits-thailand-in-bid-to-bolster-international-legitimacy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss](https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss)
 
 ---
 
-### 8. Video: Wildfires in Washington state force thousands to evacuate homes
+### 8. FIFA pays up on overdue prize money after Jordan ‘blackmail’ remark
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Wildfires in Washington state and California have damaged over a thousand structures.
+Jordan FA&#039;s president, ​Prince Ali bin Hussein, accused FIFA of &#039;blackmail&#039;, and delayed Arab Cup prize money now paid.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/video-wildfires-in-washington-state-force-thousands-to-evacuate-homes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss)
 
 ---
 
-### 9. Can the US slow China’s robotics and tech rise?
+### 9. What does the world pay for a child’s education?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US curbs on foreign-made robots intensify its wider rivalry with China over AI, chips and industry.
+Rich countries spend 41 times more on each child&#039;s education. AJLabs looks at the classroom inequality around the world.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/6/can-the-us-slow-chinas-robotics-and-tech-rise?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Middle Coulee, Chouteau, Montana
+### 10. Wildfire Wrights Spring, Klamath, Oregon
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ US curbs on foreign-made robots intensify its wider rivalry with China over AI, 
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
 
 ---
 
-### 11. Wildfire Antelope Creek, Elko, Nevada
+### 11. Wildfire BUZZARD, Kern, California
 
 **Source:** NASA
 
@@ -158,11 +158,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
-### 12. Wildfire Bluegill, Miami-Dade, Florida
+### 12. Wildfire Bare, Sublette, Wyoming
 
 **Source:** NASA
 
@@ -171,7 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197)
 
 ---
 

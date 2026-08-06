@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T18:11:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I added a real-time chat to my blog, people used it to attack me",
+            "description": "<p>Article URL: <a href=\"https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/\">https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49196745\">https://news.ycombinator.com/item?id=49196745</a></p>\n<p>Points: 32</p>\n<p># Comments: 29</p>",
+            "url": "https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/",
+            "published": "Thu, 06 Aug 2026 13:53:16 +0000",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US beef prices have soared but farmers aren't making more money",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cdrv0k0j662o\">https://www.bbc.com/news/articles/cdrv0k0j662o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49196510\">https://news.ycombinator.com/item?id=49196510</a></p>\n<p>Points: 23</p>\n<p># Comments: 22</p>",
+            "url": "https://www.bbc.com/news/articles/cdrv0k0j662o",
+            "published": "Thu, 06 Aug 2026 13:38:22 +0000",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Telephones Caught in Between",
+            "description": "<p>Article URL: <a href=\"https://computer.rip/2026-08-02-telephone-leasing.html\">https://computer.rip/2026-08-02-telephone-leasing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195819\">https://news.ycombinator.com/item?id=49195819</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://computer.rip/2026-08-02-telephone-leasing.html",
+            "published": "Thu, 06 Aug 2026 12:36:50 +0000",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham orders review of grooming gang early releases",
+            "description": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
+            "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 13:56:53 GMT",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Calls for inquiry into Army training college for teenagers after reports of rape and abuse",
+            "description": "Four women told the BBC they were sexually assaulted and harassed while attending the Army Foundation College (AFC) at Harrogate in North Yorkshire.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 12:51:39 GMT",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Majority of England's rivers and lakes fail new environmental review",
+            "description": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+            "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 10:00:06 GMT",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why $370bn tech group Palantir pays just 1.4 percent tax: Report",
+            "description": "The AI group&#039;s technology is used by Israeli military and Trump administration&#039;s ICE.",
+            "url": "https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 14:11:15 +0000",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA pays up on overdue prize money after Jordan ‘blackmail’ remark",
+            "description": "Jordan FA&#039;s president, ​Prince Ali bin Hussein, accused FIFA of &#039;blackmail&#039;, and delayed Arab Cup prize money now paid.",
+            "url": "https://www.aljazeera.com/sports/2026/8/6/fifa-pay-up-on-overdue-prize-money-after-jordan-blackmail-remark?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 14:08:11 +0000",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What does the world pay for a child’s education?",
+            "description": "Rich countries spend 41 times more on each child&#039;s education. AJLabs looks at the classroom inequality around the world.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/6/what-does-the-world-pay-for-a-childs-education?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 14:06:04 +0000",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-06T18:11:53+03:30"
+        }
+    ]
+}
