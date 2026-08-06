@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-06 02:56:19
+**Last Update:** 2026-08-06 03:45:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://randsinrepose.com/archives/blade-runner-title-cards/">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189287">https://news.ycombinator.com/item?id=49189287</a></p>
-<p>Points: 81</p>
-<p># Comments: 19</p>
+<p>Points: 105</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://randsinrepose.com/archives/blade-runner-title-cards/](https://randsinrepose.com/archives/blade-runner-title-cards/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189234">https://news.ycombinator.com/item?id=49189234</a></p>
-<p>Points: 49</p>
-<p># Comments: 4</p>
+<p>Points: 62</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/blog/prime-agent">https://www.primeintellect.ai/blog/prime-agent</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49189075">https://news.ycombinator.com/item?id=49189075</a></p>
-<p>Points: 62</p>
-<p># Comments: 8</p>
+<p>Points: 74</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/blog/prime-agent](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -84,55 +84,55 @@ Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on ta
 
 ---
 
-### 6. Woman arrested after four stabbed in central London
+### 6. University of Cambridge professor at centre of plagiarism row resigns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A woman is arrested after four men are stabbed in central London, the Metropolitan Police said.
+Prof Jason Arday said he had "concluded that the only way to bring this chapter to an end is to step away".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. FIFA pledges to defend Infantino after World Cup rights plan collapses
+### 7. Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.
+New York City’s Mayor Zohran Mamdani congratulated Abdul El-Sayed on winning Michigan’s Democratic Senate primary.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss)
 
 ---
 
-### 8. Erica Schwartz confirmed as new CDC chief amid US agency turmoil
+### 8. Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US public health agency faces toughest test as Schwartz takes charge amid political pressure and public health crises.
+Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss)
 
 ---
 
-### 9. Israeli occupation destroys farmland and lives in southern Syria
+### 9. Mexican influencer shot dead during TikTok livestream
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli occupation destroys farmland and lives in southern Syria
+Cesar Gastelum was killed as he sat in a car park with two others in Culiacan, the capital of Sinaloa state.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/5/mexican-influencer-shot-dead-during-livestream?traffic_source=rss](https://www.aljazeera.com/news/2026/8/5/mexican-influencer-shot-dead-during-livestream?traffic_source=rss)
 
 ---
 

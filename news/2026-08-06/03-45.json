@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-06T03:45:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The title cards in Blade Runner are amazing",
+            "description": "<p>Article URL: <a href=\"https://randsinrepose.com/archives/blade-runner-title-cards/\">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189287\">https://news.ycombinator.com/item?id=49189287</a></p>\n<p>Points: 105</p>\n<p># Comments: 29</p>",
+            "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+            "published": "Wed, 05 Aug 2026 21:29:23 +0000",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+            "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189234\">https://news.ycombinator.com/item?id=49189234</a></p>\n<p>Points: 62</p>\n<p># Comments: 6</p>",
+            "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+            "published": "Wed, 05 Aug 2026 21:24:45 +0000",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Prime Agent: A self-improving RLM agent",
+            "description": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/prime-agent\">https://www.primeintellect.ai/blog/prime-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189075\">https://news.ycombinator.com/item?id=49189075</a></p>\n<p>Points: 74</p>\n<p># Comments: 10</p>",
+            "url": "https://www.primeintellect.ai/blog/prime-agent",
+            "published": "Wed, 05 Aug 2026 21:11:57 +0000",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "description": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 21:37:08 GMT",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+            "description": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 20:12:17 GMT",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "University of Cambridge professor at centre of plagiarism row resigns",
+            "description": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\".",
+            "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 21:18:04 GMT",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope",
+            "description": "New York City’s Mayor Zohran Mamdani congratulated Abdul El-Sayed on winning Michigan’s Democratic Senate primary.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mamdani-praises-el-sayeds-victory-rejects-mini-mamdani-trope?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 00:01:24 +0000",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+            "description": "Iran, Oman agree on shipping routes in the Strait of Hormuz, as Houthis attack Saudi tankers and Israel bombs Lebanon.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+            "published": "Thu, 06 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexican influencer shot dead during TikTok livestream",
+            "description": "Cesar Gastelum was killed as he sat in a car park with two others in Culiacan, the capital of Sinaloa state.",
+            "url": "https://www.aljazeera.com/news/2026/8/5/mexican-influencer-shot-dead-during-livestream?traffic_source=rss",
+            "published": "Wed, 05 Aug 2026 23:51:31 +0000",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Middle Coulee, Chouteau, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22101",
+            "published": "2026-08-02T22:17:00Z",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Antelope Creek, Elko, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22108",
+            "published": "2026-08-02T14:31:00Z",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bluegill, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22105",
+            "published": "2026-08-02T12:47:00Z",
+            "fetched": "2026-08-06T03:45:10+03:30"
+        }
+    ]
+}
