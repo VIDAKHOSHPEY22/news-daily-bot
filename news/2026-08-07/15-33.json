@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T15:33:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Gargantuan Lie That Is Collapsing the Climate",
+            "description": "<p>Article URL: <a href=\"https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization\">https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208686\">https://news.ycombinator.com/item?id=49208686</a></p>\n<p>Points: 49</p>\n<p># Comments: 13</p>",
+            "url": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
+            "published": "Fri, 07 Aug 2026 11:19:15 +0000",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1e1vg0gjl5o\">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208314\">https://news.ycombinator.com/item?id=49208314</a></p>\n<p>Points: 226</p>\n<p># Comments: 185</p>",
+            "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+            "published": "Fri, 07 Aug 2026 10:28:55 +0000",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Certo – An open source platform to deliver Open Badges",
+            "description": "<p>Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.<p>It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards that make credentials portable, machine-verifiable, and vendor-independent.<p>It is designed to be:<p>- Self-hosted: run it inside your own infrastructure, air-gapped network, or sovereign cloud\n- Standards-compliant: credentials it issues work with any OB3/VC-compatible system\n- API-first: everything the UI can do, the API can do\n- Exportable: your data is always yours, in open formats\n- Extensible: a small, stable core with a plugin interface for everything else<p>A demo is available at <a href=\"https://certo.schroedinger-hat.org/\" rel=\"nofollow\">https://certo.schroedinger-hat.org/</a> which we're using for Schrödinger Hat[3] conferences, workshops, partner communities.<p>I'll be around if you have any questions. Feel free to give a feedback on the project.<p>[1] <a href=\"https://www.imsglobal.org/spec/ob/v3p0\" rel=\"nofollow\">https://www.imsglobal.org/spec/ob/v3p0</a>\n[2] <a href=\"https://www.w3.org/TR/vc-data-model/\" rel=\"nofollow\">https://www.w3.org/TR/vc-data-model/</a>\n[3] <a href=\"https://schroedinger-hat.org/\" rel=\"nofollow\">https://schroedinger-hat.org/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49207793\">https://news.ycombinator.com/item?id=49207793</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/schroedinger-Hat/certo",
+            "published": "Fri, 07 Aug 2026 09:10:30 +0000",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
+            "description": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
+            "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 11:03:57 GMT",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+            "description": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 08:35:00 GMT",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+            "description": "The 30-year-old former Brentford striker is due to appear in court next month.",
+            "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 09:30:30 GMT",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "First school for robots opens in China",
+            "description": "&quot;Our main goal is to empower robots&#039; brains.&quot;\n\nChina has launched its first robot school.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 11:33:28 +0000",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure",
+            "description": "Sheikh ⁠Hasina ally Shakib Al Hasan will face Bangladesh trial if safety assured, with Cricket World Cup return eyed.",
+            "url": "https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 11:27:54 +0000",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Northern Ethiopia’s shifting alliances explained",
+            "description": "The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 11:19:01 +0000",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T15:33:35+03:30"
+        }
+    ]
+}
