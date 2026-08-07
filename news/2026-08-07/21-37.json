@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T21:37:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oracle bans AI-generated code from OpenJDK",
+            "description": "<p>Article URL: <a href=\"https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\">https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213754\">https://news.ycombinator.com/item?id=49213754</a></p>\n<p>Points: 22</p>\n<p># Comments: 11</p>",
+            "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+            "published": "Fri, 07 Aug 2026 17:36:30 +0000",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
+            "description": "<p>Article URL: <a href=\"https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225\">https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213367\">https://news.ycombinator.com/item?id=49213367</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
+            "url": "https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225",
+            "published": "Fri, 07 Aug 2026 17:05:15 +0000",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+            "description": "<p>Article URL: <a href=\"https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics\">https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213097\">https://news.ycombinator.com/item?id=49213097</a></p>\n<p>Points: 116</p>\n<p># Comments: 72</p>",
+            "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+            "published": "Fri, 07 Aug 2026 16:44:28 +0000",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How police left a registered sex offender free to murder and attack women",
+            "description": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 17:12:27 GMT",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial sex offender guilty of murdering two women and raping third",
+            "description": "Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.",
+            "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 16:46:50 GMT",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
+            "description": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
+            "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 17:09:32 GMT",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
+            "description": "Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 18:00:05 +0000",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New Delhi on red alert as heavy rains pound the city",
+            "description": "Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 17:19:06 +0000",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+            "description": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 17:07:29 +0000",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T21:37:51+03:30"
+        }
+    ]
+}
