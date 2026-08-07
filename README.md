@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 14:42:54
+**Last Update:** 2026-08-07 15:23:25
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. US strikes $1.2B deal to pay German firm to halt offshore wind projects
+### 1. The Gargantuan Lie That Is Collapsing the Climate
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization">https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208686">https://news.ycombinator.com/item?id=49208686</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
+
+---
+
+### 2. US strikes $1.2B deal to pay German firm to halt offshore wind projects
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208314">https://news.ycombinator.com/item?id=49208314</a></p>
-<p>Points: 74</p>
-<p># Comments: 38</p>
+<p>Points: 170</p>
+<p># Comments: 121</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c1e1vg0gjl5o](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
 
 ---
 
-### 2. Framework discloses data breach via Metabase 0-day
+### 3. Framework discloses data breach via Metabase 0-day
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 93</p>
-<p># Comments: 31</p>
+<p>Points: 96</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
 ---
 
-### 3. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
-<p>Points: 60</p>
-<p># Comments: 89</p>
-
-🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
-
----
-
-### 4. I was standing in front of my teacher when she was shot, Thai pupil says
+### 4. Academics call for independent inquiry into Jason Arday's Cambridge appointment
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The student says she had to climb over a school fence to flee the shooting which killed five teachers.
+Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "marking its own homework".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,81 +97,44 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 7. Central Europe sees record temperatures as heatwave continues
+### 7. First school for robots opens in China
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.
+&quot;Our main goal is to empower robots&#039; brains.&quot;
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss)
+China has launched its first robot school.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss)
 
 ---
 
-### 8. Saudi Pro League’s England international Toney charged with assault
+### 8. Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.
+Sheikh ⁠Hasina ally Shakib Al Hasan will face Bangladesh trial if safety assured, with Cricket World Cup return eyed.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss)
 
 ---
 
-### 9. ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
+### 9. Northern Ethiopia’s shifting alliances explained
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.
+The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
-
----
-
-### 12. Wildfire Bare, Sublette, Wyoming
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss)
 
 ---
 
