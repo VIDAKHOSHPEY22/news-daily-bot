@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 01:31:17
+**Last Update:** 2026-08-08 02:16:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216362">https://news.ycombinator.com/item?id=49216362</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 45</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 178</p>
-<p># Comments: 76</p>
+<p>Points: 208</p>
+<p># Comments: 104</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
-<p>Points: 26</p>
+<p>Points: 33</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)
@@ -97,7 +97,20 @@ No arrests were made at the time and the investigation was closed.
 
 ---
 
-### 7. US appeals court halts White House ballroom construction
+### 7. Democrats gain momentum in pivotal US Senate and governor’s races in Texas
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+James Talarico leads Ken Paxton in the Texas Senate race, signalling a potential shift in the Republican stronghold.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss)
+
+---
+
+### 8. US appeals court halts White House ballroom construction
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A federal appeals court has ordered President Donald Trump’s administration to
 
 ---
 
-### 8. South Koreans beat the heat with ‘silent disco’ pool party
+### 9. South Koreans beat the heat with ‘silent disco’ pool party
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A federal appeals court has ordered President Donald Trump’s administration to
 South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss)
-
----
-
-### 9. Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss)
 
 ---
 
