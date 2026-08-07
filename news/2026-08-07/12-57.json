@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T12:57:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "2027 memory capacity is reportedly sold out",
+            "description": "<p>Article URL: <a href=\"https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out\">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49207236\">https://news.ycombinator.com/item?id=49207236</a></p>\n<p>Points: 38</p>\n<p># Comments: 12</p>",
+            "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+            "published": "Fri, 07 Aug 2026 07:58:24 +0000",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Framework discloses data breach via Metabase 0-day",
+            "description": "<p>Article URL: <a href=\"https://community.frame.work/t/framework-data-breach-discussion/83939\">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49206130\">https://news.ycombinator.com/item?id=49206130</a></p>\n<p>Points: 75</p>\n<p># Comments: 29</p>",
+            "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+            "published": "Fri, 07 Aug 2026 05:17:57 +0000",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+            "description": "<p>Article URL: <a href=\"https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204546\">https://news.ycombinator.com/item?id=49204546</a></p>\n<p>Points: 57</p>\n<p># Comments: 79</p>",
+            "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+            "published": "Fri, 07 Aug 2026 00:37:30 +0000",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+            "description": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 08:35:00 GMT",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England footballer Ivan Toney charged with assault in Soho",
+            "description": "England footballer Ivan Toney is charged with assault outside a nightclub in central London.",
+            "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 09:21:55 GMT",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Arrests in Norfolk town as disorder continues for third night",
+            "description": "The arrests follow disturbances linked to anti-immigration protests in the market town.",
+            "url": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 08:27:52 GMT",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Several killed after student opens fire inside Thailand school",
+            "description": "At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 09:13:48 +0000",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The other classroom: Returning to sacred knowledge",
+            "description": "Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.",
+            "url": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 08:41:06 +0000",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+            "description": "CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA&#039;s Gianni Infantino.",
+            "url": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 07:44:06 +0000",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T12:57:57+03:30"
+        }
+    ]
+}

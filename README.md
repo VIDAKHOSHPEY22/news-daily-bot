@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 12:38:49
+**Last Update:** 2026-08-07 12:57:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207236">https://news.ycombinator.com/item?id=49207236</a></p>
-<p>Points: 26</p>
-<p># Comments: 7</p>
+<p>Points: 38</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
 
 ---
 
-### 2. Artificial Intelligence used to design new viruses
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c5y3j3ngevmo">https://www.bbc.co.uk/news/articles/c5y3j3ngevmo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206642">https://news.ycombinator.com/item?id=49206642</a></p>
-<p>Points: 29</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y3j3ngevmo](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo)
-
----
-
-### 3. Framework discloses data breach via Metabase 0-day
+### 2. Framework discloses data breach via Metabase 0-day
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 72</p>
-<p># Comments: 27</p>
+<p>Points: 75</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
+
+---
+
+### 3. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
+<p>Points: 57</p>
+<p># Comments: 79</p>
+
+🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
 ---
 
@@ -71,7 +71,20 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 
 ---
 
-### 5. Arrests in Norfolk town as disorder continues for third night
+### 5. England footballer Ivan Toney charged with assault in Soho
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+England footballer Ivan Toney is charged with assault outside a nightclub in central London.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Arrests in Norfolk town as disorder continues for third night
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ The arrests follow disturbances linked to anti-immigration protests in the marke
 
 ---
 
-### 6. Meta fined $567m in largest child safety ruling against social media giant
+### 7. Several killed after student opens fire inside Thailand school
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.
+At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss)
 
 ---
 
-### 7. The other classroom: Returning to sacred knowledge
+### 8. The other classroom: Returning to sacred knowledge
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Why doctors, lawyers and other professionals are turning to Darul Qasim in Chica
 
 ---
 
-### 8. Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
+### 9. Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Why doctors, lawyers and other professionals are turning to Darul Qasim in Chica
 CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA&#039;s Gianni Infantino.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss)
-
----
-
-### 9. Earthquake strikes as doctors perform surgery
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss)
 
 ---
 
