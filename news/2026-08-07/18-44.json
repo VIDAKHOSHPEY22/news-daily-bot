@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-07T18:44:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial sex offender guilty of murdering two women and raping third",
+            "description": "Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.",
+            "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 14:43:09 GMT",
+            "fetched": "2026-08-07T18:44:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How police let a registered sex offender murder and attack women",
+            "description": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 14:03:39 GMT",
+            "fetched": "2026-08-07T18:44:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
+            "description": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
+            "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 14:48:00 GMT",
+            "fetched": "2026-08-07T18:44:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+            "description": "Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 14:22:24 +0000",
+            "fetched": "2026-08-07T18:44:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Imade",
+            "description": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.",
+            "url": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 14:18:53 +0000",
+            "fetched": "2026-08-07T18:44:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
+            "description": "Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.",
+            "url": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 13:30:43 +0000",
+            "fetched": "2026-08-07T18:44:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T18:44:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T18:44:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T18:44:32+03:30"
+        }
+    ]
+}
