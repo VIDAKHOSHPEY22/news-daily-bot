@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 12:57:57
+**Last Update:** 2026-08-07 13:54:10
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207236">https://news.ycombinator.com/item?id=49207236</a></p>
-<p>Points: 38</p>
-<p># Comments: 12</p>
+<p>Points: 65</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 75</p>
-<p># Comments: 29</p>
+<p>Points: 81</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
-<p>Points: 57</p>
-<p># Comments: 79</p>
+<p>Points: 60</p>
+<p># Comments: 80</p>
 
 🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
 
 ---
 
-### 4. Officer who led PC Harper investigation 'appalled' killers could be released early
+### 4. Thai pupil describes harrowing moment teacher was shot in front of her
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The student says she had to climb over a school fence to flee the shooting which killed five teachers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Officer who led PC Harper investigation 'appalled' killers could be released early
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 
 ---
 
-### 5. England footballer Ivan Toney charged with assault in Soho
+### 6. England footballer Ivan Toney charged with assault at Soho nightclub
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-England footballer Ivan Toney is charged with assault outside a nightclub in central London.
+The 30-year-old former Brentford striker is due to appear in court next month.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Arrests in Norfolk town as disorder continues for third night
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The arrests follow disturbances linked to anti-immigration protests in the market town.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Several killed after student opens fire inside Thailand school
+### 7. Central Europe sees record temperatures as heatwave continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.
+Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss)
 
 ---
 
-### 8. The other classroom: Returning to sacred knowledge
+### 8. Saudi Pro League’s England international Toney charged with assault
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.
+Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss)
 
 ---
 
-### 9. Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
+### 9. ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA&#039;s Gianni Infantino.
+The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss)
 
 ---
 

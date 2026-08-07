@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T13:54:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "2027 memory capacity is reportedly sold out",
+            "description": "<p>Article URL: <a href=\"https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out\">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49207236\">https://news.ycombinator.com/item?id=49207236</a></p>\n<p>Points: 65</p>\n<p># Comments: 42</p>",
+            "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+            "published": "Fri, 07 Aug 2026 07:58:24 +0000",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Framework discloses data breach via Metabase 0-day",
+            "description": "<p>Article URL: <a href=\"https://community.frame.work/t/framework-data-breach-discussion/83939\">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49206130\">https://news.ycombinator.com/item?id=49206130</a></p>\n<p>Points: 81</p>\n<p># Comments: 30</p>",
+            "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+            "published": "Fri, 07 Aug 2026 05:17:57 +0000",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+            "description": "<p>Article URL: <a href=\"https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204546\">https://news.ycombinator.com/item?id=49204546</a></p>\n<p>Points: 60</p>\n<p># Comments: 80</p>",
+            "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+            "published": "Fri, 07 Aug 2026 00:37:30 +0000",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
+            "description": "The student says she had to climb over a school fence to flee the shooting which killed five teachers.",
+            "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 10:18:43 GMT",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+            "description": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 08:35:00 GMT",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+            "description": "The 30-year-old former Brentford striker is due to appear in court next month.",
+            "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 09:30:30 GMT",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Central Europe sees record temperatures as heatwave continues",
+            "description": "Record-breaking temperatures in Slovakia and Austria as Italy places all of its 27 major cities on highest heat alert.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/central-europe-sees-record-temperatures-as-heatwave-continues?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 10:11:26 +0000",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Pro League’s England international Toney charged with assault",
+            "description": "Ivan Toney charged for an assault that allegedly ​took place on December 6 last year in United Kingdom.",
+            "url": "https://www.aljazeera.com/sports/2026/8/7/saudi-pro-leagues-england-international-toney-charged-with-assault?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 10:11:15 +0000",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission",
+            "description": "The UK and France are not seeking confrontation with Iran in the US-Israeli war Europe largely rejected, say analysts.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/hld-european-caution-slowing-us-push-for-hormuz-naval-coalition?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 10:00:56 +0000",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T13:54:10+03:30"
+        }
+    ]
+}
