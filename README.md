@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 15:33:35
+**Last Update:** 2026-08-07 16:50:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Gargantuan Lie That Is Collapsing the Climate
+### 1. DOGE overstated savings, government watchdog says
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization">https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208686">https://news.ycombinator.com/item?id=49208686</a></p>
-<p>Points: 49</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797">https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49209368">https://news.ycombinator.com/item?id=49209368</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization)
+🔗 **Read more:** [https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797](https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c1e1vg0gjl5o">https://www.bbc.com/news/articles/c1e1vg0gjl5o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49208314">https://news.ycombinator.com/item?id=49208314</a></p>
-<p>Points: 226</p>
-<p># Comments: 185</p>
+<p>Points: 369</p>
+<p># Comments: 334</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c1e1vg0gjl5o](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
 
@@ -58,7 +58,7 @@
 [3] <a href="https://schroedinger-hat.org/" rel="nofollow">https://schroedinger-hat.org/</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207793">https://news.ycombinator.com/item?id=49207793</a></p>
-<p>Points: 3</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/schroedinger-Hat/certo](https://github.com/schroedinger-Hat/certo)
@@ -104,44 +104,42 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 7. First school for robots opens in China
+### 7. Saudi Arabia, Turkiye and Pakistan sign joint defence pact
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&quot;Our main goal is to empower robots&#039; brains.&quot;
+The Saudi crown prince, Turkish president and Pakistani prime minister have signed a joint defence agreement in Mecca.
 
-China has launched its first robot school.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss)
 
 ---
 
-### 8. Cricket’s Shakib, an Hasina ally, will face trial in Bangladesh if secure
+### 8. UN chief condemns both Ukraine and Russia amid escalation in war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sheikh ⁠Hasina ally Shakib Al Hasan will face Bangladesh trial if safety assured, with Cricket World Cup return eyed.
+UN chief Guterres calls for de-escalation and a ceasefire as Russia-Ukraine attacks intensify.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/crickets-shakib-an-hasani-ally-will-face-trial-in-bangladesh-if-secure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss)
 
 ---
 
-### 9. Northern Ethiopia’s shifting alliances explained
+### 9. Iran’s grip on trade is a potent weapon, but it has an expiry date
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The TPLF, Fano militias and Eritrea are redrawing the battle lines in Ethiopia’s north.
+Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/northern-ethiopias-shifting-alliances-explained?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss)
 
 ---
 
