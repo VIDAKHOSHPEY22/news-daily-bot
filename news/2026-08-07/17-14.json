@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T17:14:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The web server deployment model breaks at hobby scale",
+            "description": "<p>Article URL: <a href=\"https://w.on-t.work/web-deployment-model\">https://w.on-t.work/web-deployment-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209921\">https://news.ycombinator.com/item?id=49209921</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
+            "url": "https://w.on-t.work/web-deployment-model",
+            "published": "Fri, 07 Aug 2026 13:15:36 +0000",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Radical Study Suggests Life on Earth Arose Twice",
+            "description": "<p>Article URL: <a href=\"https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice\">https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209572\">https://news.ycombinator.com/item?id=49209572</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+            "published": "Fri, 07 Aug 2026 12:45:08 +0000",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+            "description": "<p>Article URL: <a href=\"https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138\">https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209546\">https://news.ycombinator.com/item?id=49209546</a></p>\n<p>Points: 54</p>\n<p># Comments: 17</p>",
+            "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+            "published": "Fri, 07 Aug 2026 12:42:58 +0000",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday's Cambridge appointment to be part of wider senior hiring review",
+            "description": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
+            "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 13:33:22 GMT",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+            "description": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 13:12:46 GMT",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+            "description": "The 30-year-old former Brentford striker is due to appear in court next month.",
+            "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 09:30:30 GMT",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
+            "description": "Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.",
+            "url": "https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 13:30:43 +0000",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye, Saudi Arabi, Pakistan sign joint defence agreement: What’s in it?",
+            "description": "Pact will &#039;reshape security architecture&#039; of the region, experts say.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 13:28:40 +0000",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
+            "description": "Moscow&#039;s troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 13:12:52 +0000",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T17:14:21+03:30"
+        }
+    ]
+}
