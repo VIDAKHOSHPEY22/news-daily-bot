@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 13:54:10
+**Last Update:** 2026-08-07 14:30:10
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 2027 memory capacity is reportedly sold out
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207236">https://news.ycombinator.com/item?id=49207236</a></p>
-<p>Points: 65</p>
-<p># Comments: 42</p>
-
-🔗 **Read more:** [https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
-
----
-
-### 2. Framework discloses data breach via Metabase 0-day
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 81</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
-
----
-
-### 3. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
-<p>Points: 60</p>
-<p># Comments: 80</p>
-
-🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
-
----
-
-### 4. Thai pupil describes harrowing moment teacher was shot in front of her
+### 1. I was standing in front of my teacher when she was shot, Thai pupil says
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The student says she had to climb over a school fence to flee the shooting which
 
 ---
 
-### 5. Officer who led PC Harper investigation 'appalled' killers could be released early
+### 2. Officer who led PC Harper investigation 'appalled' killers could be released early
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 
 ---
 
-### 6. England footballer Ivan Toney charged with assault at Soho nightclub
+### 3. England footballer Ivan Toney charged with assault at Soho nightclub
 
 **Source:** BBC
 
@@ -97,7 +49,7 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 
 ---
 
-### 7. Central Europe sees record temperatures as heatwave continues
+### 4. Central Europe sees record temperatures as heatwave continues
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ Record-breaking temperatures in Slovakia and Austria as Italy places all of its 
 
 ---
 
-### 8. Saudi Pro League’s England international Toney charged with assault
+### 5. Saudi Pro League’s England international Toney charged with assault
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ Ivan Toney charged for an assault that allegedly ​took place on December 6 las
 
 ---
 
-### 9. ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
+### 6. ‘De-escalation’: Europe hesitates as US pushes for Hormuz naval mission
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ The UK and France are not seeking confrontation with Iran in the US-Israeli war 
 
 ---
 
-### 10. Wildfire Wrights Spring, Klamath, Oregon
+### 7. Wildfire Wrights Spring, Klamath, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire BUZZARD, Kern, California
+### 8. Wildfire BUZZARD, Kern, California
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Bare, Sublette, Wyoming
+### 9. Wildfire Bare, Sublette, Wyoming
 
 **Source:** NASA
 
