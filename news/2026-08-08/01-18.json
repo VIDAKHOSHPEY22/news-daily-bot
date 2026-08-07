@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-08T01:18:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Opus5/low can do CryptoNote base58 decoding toolless, in working memory alone",
+            "description": "<p>Article URL: <a href=\"https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y\">https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216389\">https://news.ycombinator.com/item?id=49216389</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y",
+            "published": "Fri, 07 Aug 2026 21:22:31 +0000",
+            "fetched": "2026-08-08T01:18:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216362\">https://news.ycombinator.com/item?id=49216362</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+            "published": "Fri, 07 Aug 2026 21:19:57 +0000",
+            "fetched": "2026-08-08T01:18:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "App Store Rejection of the Week: Dark Hours",
+            "description": "<p>Article URL: <a href=\"https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours\">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214863\">https://news.ycombinator.com/item?id=49214863</a></p>\n<p>Points: 176</p>\n<p># Comments: 72</p>",
+            "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+            "published": "Fri, 07 Aug 2026 18:59:08 +0000",
+            "fetched": "2026-08-08T01:18:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police failings revealed as sex offender left free to murder and attack women",
+            "description": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 21:10:48 GMT",
+            "fetched": "2026-08-08T01:18:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial sex offender guilty of murdering two women and raping third",
+            "description": "Simon Levy, from Tottenham, was left free to kill due to a string of police and court blunders.",
+            "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 19:52:52 GMT",
+            "fetched": "2026-08-08T01:18:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+            "description": "No arrests were made at the time and the investigation was closed.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 20:58:58 GMT",
+            "fetched": "2026-08-08T01:18:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US appeals court halts White House ballroom construction",
+            "description": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 21:18:20 +0000",
+            "fetched": "2026-08-08T01:18:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Koreans beat the heat with ‘silent disco’ pool party",
+            "description": "South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 21:12:45 +0000",
+            "fetched": "2026-08-08T01:18:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+            "description": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 21:02:31 +0000",
+            "fetched": "2026-08-08T01:18:26+03:30"
+        }
+    ]
+}

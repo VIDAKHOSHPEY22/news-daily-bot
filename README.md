@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 00:35:17
+**Last Update:** 2026-08-08 01:18:26
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support
+### 1. Opus5/low can do CryptoNote base58 decoding toolless, in working memory alone
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support">https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49215292">https://news.ycombinator.com/item?id=49215292</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y">https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216389">https://news.ycombinator.com/item?id=49216389</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support](https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support)
+🔗 **Read more:** [https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y](https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y)
 
 ---
 
-### 2. App Store Rejection of the Week: Dark Hours
+### 2. Water system controllers don't belong on the internet, says ex-NSA chief
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216362">https://news.ycombinator.com/item?id=49216362</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
+
+---
+
+### 3. App Store Rejection of the Week: Dark Hours
 
 **Source:** Hacker News
 
@@ -35,30 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 129</p>
-<p># Comments: 43</p>
+<p>Points: 176</p>
+<p># Comments: 72</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
 ---
 
-### 3. Psychological Warfare in Reverse Engineering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)
-
----
-
-### 4. How police left a registered sex offender free to murder and attack women
+### 4. Police failings revealed as sex offender left free to murder and attack women
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ No arrests were made at the time and the investigation was closed.
 
 ---
 
-### 7. Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
+### 7. US appeals court halts White House ballroom construction
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss)
+
+---
+
+### 8. South Koreans beat the heat with ‘silent disco’ pool party
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss)
+
+---
+
+### 9. Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ No arrests were made at the time and the investigation was closed.
 New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss)
-
----
-
-### 8. Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Bundibugyo epidemic, ​the world&#039;s second-largest, has been described as the ⁠fastest-spreading on record.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss)
-
----
-
-### 9. Can diplomacy end the conflict in Libya?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The country has been divided since 2014, with rival governments in the east and west.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Tropical Cyclone Chan-Hom
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
-
----
-
-### 12. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
