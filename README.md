@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 17:14:21
+**Last Update:** 2026-08-07 18:31:38
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The web server deployment model breaks at hobby scale
+### 1. US's largest newspaper chain partners with Palantir to analyze audience data
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://w.on-t.work/web-deployment-model">https://w.on-t.work/web-deployment-model</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49209921">https://news.ycombinator.com/item?id=49209921</a></p>
-<p>Points: 16</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/">https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49210589">https://news.ycombinator.com/item?id=49210589</a></p>
+<p>Points: 47</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://w.on-t.work/web-deployment-model](https://w.on-t.work/web-deployment-model)
+🔗 **Read more:** [https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/](https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/)
 
 ---
 
-### 2. Radical Study Suggests Life on Earth Arose Twice
+### 2. U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice">https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49209572">https://news.ycombinator.com/item?id=49209572</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7">https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49210240">https://news.ycombinator.com/item?id=49210240</a></p>
+<p>Points: 39</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice](https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice)
+🔗 **Read more:** [https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7](https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7)
 
 ---
 
-### 3. U.S. economy lost 23,000 jobs in July, a sudden reversal
+### 3. AI psychosis is the new leadership blind spot
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138">https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49209546">https://news.ycombinator.com/item?id=49209546</a></p>
-<p>Points: 54</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots">https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49210077">https://news.ycombinator.com/item?id=49210077</a></p>
+<p>Points: 107</p>
+<p># Comments: 54</p>
 
-🔗 **Read more:** [https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138)
+🔗 **Read more:** [https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots](https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots)
 
 ---
 
-### 4. Jason Arday's Cambridge appointment to be part of wider senior hiring review
+### 4. Serial sex offender guilty of murdering two women and raping third
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. How police let a registered sex offender murder and attack women
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Cambridge to review process for hiring senior academics after Jason Arday resignation
 
 **Source:** BBC
 
@@ -71,33 +97,33 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 5. Officer who led PC Harper investigation 'appalled' killers could be released early
+### 7. Two civilians killed in Houthi strike on Marib, says Yemen’s government
 
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. England footballer Ivan Toney charged with assault at Soho nightclub
-
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 30-year-old former Brentford striker is due to appear in court next month.
+Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss)
 
 ---
 
-### 7. Diego Maradona bloated, bedridden and resigned before death, says masseur
+### 8. Imade
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss)
+
+---
+
+### 9. Diego Maradona bloated, bedridden and resigned before death, says masseur
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ The 30-year-old former Brentford striker is due to appear in court next month.
 Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss)
-
----
-
-### 8. Turkiye, Saudi Arabi, Pakistan sign joint defence agreement: What’s in it?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pact will &#039;reshape security architecture&#039; of the region, experts say.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss)
-
----
-
-### 9. Russia drops record number of glide bombs on Ukraine as casualties pile up
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Moscow&#039;s troops suffer high rate of losses as Zelenskyy renews air campaign against Russia.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
-
----
-
-### 12. Wildfire Bare, Sublette, Wyoming
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197)
 
 ---
 
