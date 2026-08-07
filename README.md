@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 20:30:22
+**Last Update:** 2026-08-07 20:43:14
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The AI Billboards Are Killing SF
+### 1. Tax cuts for the wealthy only benefit the rich (2023)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics">https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213097">https://news.ycombinator.com/item?id=49213097</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
+
+---
+
+### 2. Responding to the next frontier of critical cyber capabilities
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213029">https://news.ycombinator.com/item?id=49213029</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
+
+---
+
+### 3. The AI Billboards Are Killing SF
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/">https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49212928">https://news.ycombinator.com/item?id=49212928</a></p>
-<p>Points: 6</p>
-<p># Comments: 9</p>
+<p>Points: 20</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
-
----
-
-### 2. An all-sky map of half a million supermassive black holes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.sdss.org/black-hole-mapper-release-20/">https://www.sdss.org/black-hole-mapper-release-20/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211921">https://news.ycombinator.com/item?id=49211921</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.sdss.org/black-hole-mapper-release-20/](https://www.sdss.org/black-hole-mapper-release-20/)
-
----
-
-### 3. Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=UufMqwyO7pY">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211438">https://news.ycombinator.com/item?id=49211438</a></p>
-<p>Points: 132</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=UufMqwyO7pY](https://www.youtube.com/watch?v=UufMqwyO7pY)
 
 ---
 
@@ -97,7 +97,33 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 7. War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
+### 7. Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss)
+
+---
+
+### 8. Hun Manet is refining Cambodia’s authoritarian model
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss)
+
+---
+
+### 9. War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss)
-
----
-
-### 8. US labour market sheds jobs in July as labour force participation slumps
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss)
-
----
-
-### 9. Saudi Arabia, Pakistan, Turkiye defence pact challenges US role
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T20:43:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+            "description": "<p>Article URL: <a href=\"https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics\">https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213097\">https://news.ycombinator.com/item?id=49213097</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+            "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+            "published": "Fri, 07 Aug 2026 16:44:28 +0000",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Responding to the next frontier of critical cyber capabilities",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213029\">https://news.ycombinator.com/item?id=49213029</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+            "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+            "published": "Fri, 07 Aug 2026 16:39:36 +0000",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI Billboards Are Killing SF",
+            "description": "<p>Article URL: <a href=\"https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/\">https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49212928\">https://news.ycombinator.com/item?id=49212928</a></p>\n<p>Points: 20</p>\n<p># Comments: 30</p>",
+            "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
+            "published": "Fri, 07 Aug 2026 16:32:16 +0000",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How police let a registered sex offender murder and attack women",
+            "description": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 17:12:27 GMT",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial sex offender guilty of murdering two women and raping third",
+            "description": "Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.",
+            "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 16:46:50 GMT",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
+            "description": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
+            "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 17:09:32 GMT",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+            "description": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 17:07:29 +0000",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hun Manet is refining Cambodia’s authoritarian model",
+            "description": "The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 16:47:33 +0000",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+            "description": "Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 16:42:35 +0000",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T20:43:14+03:30"
+        }
+    ]
+}
