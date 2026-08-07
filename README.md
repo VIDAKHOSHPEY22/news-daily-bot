@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 01:18:26
+**Last Update:** 2026-08-08 01:31:17
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Opus5/low can do CryptoNote base58 decoding toolless, in working memory alone
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y">https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216389">https://news.ycombinator.com/item?id=49216389</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y](https://bsky.app/profile/jleclanche.bsky.social/post/3msji47npvk2y)
-
----
-
-### 2. Water system controllers don't belong on the internet, says ex-NSA chief
+### 1. Water system controllers don't belong on the internet, says ex-NSA chief
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49216362">https://news.ycombinator.com/item?id=49216362</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070](https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070)
 
 ---
 
-### 3. App Store Rejection of the Week: Dark Hours
+### 2. App Store Rejection of the Week: Dark Hours
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 176</p>
-<p># Comments: 72</p>
+<p>Points: 178</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
+
+---
+
+### 3. Psychological Warfare in Reverse Engineering (2015)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
+<p>Points: 26</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)
 
 ---
 
@@ -133,6 +133,45 @@ South Koreans in Seoul cooled off with a silent disco pool party during a record
 New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss)
+
+---
+
+### 10. Wildfire Wrights Spring, Klamath, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+
+---
+
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
