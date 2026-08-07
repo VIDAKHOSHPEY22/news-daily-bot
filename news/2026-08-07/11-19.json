@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T11:19:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Framework discloses data breach via Metabase 0-day",
+            "description": "<p>Article URL: <a href=\"https://community.frame.work/t/framework-data-breach-discussion/83939\">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49206130\">https://news.ycombinator.com/item?id=49206130</a></p>\n<p>Points: 52</p>\n<p># Comments: 11</p>",
+            "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+            "published": "Fri, 07 Aug 2026 05:17:57 +0000",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+            "description": "<p>Article URL: <a href=\"https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204546\">https://news.ycombinator.com/item?id=49204546</a></p>\n<p>Points: 53</p>\n<p># Comments: 67</p>",
+            "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+            "published": "Fri, 07 Aug 2026 00:37:30 +0000",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204352\">https://news.ycombinator.com/item?id=49204352</a></p>\n<p>Points: 181</p>\n<p># Comments: 110</p>",
+            "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+            "published": "Fri, 07 Aug 2026 00:06:28 +0000",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+            "description": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 05:00:23 GMT",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Arrests in Norfolk town as disorder continues for third night",
+            "description": "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.",
+            "url": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 07:39:00 GMT",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meta fined $567m in largest child safety ruling against social media giant",
+            "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 00:54:03 GMT",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
+            "description": "Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 06:29:40 +0000",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
+            "description": "A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 05:49:22 +0000",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexico deploys troops to secure avocado region after US halts imports",
+            "description": "Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 05:25:56 +0000",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T11:19:19+03:30"
+        }
+    ]
+}
