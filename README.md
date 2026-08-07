@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 22:37:07
+**Last Update:** 2026-08-07 22:55:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. ICE will release body cam video only when seen in the agency's 'best interests'
+### 1. App Store Rejection of the Week: Dark Hours
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57">https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214306">https://news.ycombinator.com/item?id=49214306</a></p>
-<p>Points: 86</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
+🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
 ---
 
-### 2. Assembly Hall of Shame
+### 2. Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/xoreaxeaxeax/asm-hall-of-shame">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214098">https://news.ycombinator.com/item?id=49214098</a></p>
-<p>Points: 37</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://ancientlibrary.net/">https://ancientlibrary.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214770">https://news.ycombinator.com/item?id=49214770</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+🔗 **Read more:** [https://ancientlibrary.net/](https://ancientlibrary.net/)
 
 ---
 
-### 3. DeepSeek V4 Flash 0731
+### 3. Databricks drove down AI coding spend 70%
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arcprize.org/results/deepseek-v4-flash-0731">https://arcprize.org/results/deepseek-v4-flash-0731</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214008">https://news.ycombinator.com/item?id=49214008</a></p>
-<p>Points: 91</p>
-<p># Comments: 54</p>
+<p>Article URL: <a href="https://www.databricks.com/blog/managing-ai-coding-costs-scale">https://www.databricks.com/blog/managing-ai-coding-costs-scale</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214468">https://news.ycombinator.com/item?id=49214468</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arcprize.org/results/deepseek-v4-flash-0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+🔗 **Read more:** [https://www.databricks.com/blog/managing-ai-coding-costs-scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -78,7 +78,7 @@ Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, seni
 **Category:** world
 
 **Description:**
-Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.
+Simon Levy, from Tottenham, was left free to kill due to a string of police and court blunders.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss)
 
