@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T07:35:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204352\">https://news.ycombinator.com/item?id=49204352</a></p>\n<p>Points: 102</p>\n<p># Comments: 56</p>",
+            "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+            "published": "Fri, 07 Aug 2026 00:06:28 +0000",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+            "description": "<p>Article URL: <a href=\"https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/\">https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204060\">https://news.ycombinator.com/item?id=49204060</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+            "published": "Thu, 06 Aug 2026 23:30:03 +0000",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+            "description": "<p>Article URL: <a href=\"https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203105\">https://news.ycombinator.com/item?id=49203105</a></p>\n<p>Points: 108</p>\n<p># Comments: 19</p>",
+            "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+            "published": "Thu, 06 Aug 2026 21:52:16 +0000",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meta fined $567m in largest child safety ruling against social media giant",
+            "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+            "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 00:54:03 GMT",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands of rail passengers hit by power failure disruption",
+            "description": "An outage in Manchester caused delays and cancellations, with services expected to be affected throughout the evening.",
+            "url": "https://www.bbc.co.uk/news/articles/cn5nlvdxpwpo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 22:35:54 GMT",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+            "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+            "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 18:53:51 GMT",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than one million affected by floods in India’s Assam state",
+            "description": "Thousands of people in India have been displaced since July after monsoon rains triggered severe flooding.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/more-than-one-million-affected-by-floods-in-indias-assam-state?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 02:53:19 +0000",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Exclusive report with the 308 people rescued by Nigerian forces",
+            "description": "Nigerian security forces have rescued 308 people abducted in separate attacks in northern Niger and Kwara states.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 02:30:23 +0000",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
+            "description": "Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 01:51:50 +0000",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T07:35:27+03:30"
+        }
+    ]
+}
