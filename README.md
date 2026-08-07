@@ -1,29 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 18:44:32
+**Last Update:** 2026-08-07 19:43:07
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Serial sex offender guilty of murdering two women and raping third
+### 1. Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.
+<p>Article URL: <a href="https://www.youtube.com/watch?v=UufMqwyO7pY">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211438">https://news.ycombinator.com/item?id=49211438</a></p>
+<p>Points: 67</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.youtube.com/watch?v=UufMqwyO7pY](https://www.youtube.com/watch?v=UufMqwyO7pY)
 
 ---
 
-### 2. How police let a registered sex offender murder and attack women
+### 2. Software is about people, not code
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/">https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211437">https://news.ycombinator.com/item?id=49211437</a></p>
+<p>Points: 28</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
+
+---
+
+### 3. 99% of My Website Traffic Is Bots
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211386">https://news.ycombinator.com/item?id=49211386</a></p>
+<p>Points: 131</p>
+<p># Comments: 105</p>
+
+🔗 **Read more:** [https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
+
+---
+
+### 4. How police let a registered sex offender murder and attack women
 
 **Source:** BBC
 
@@ -36,7 +71,20 @@ Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, seni
 
 ---
 
-### 3. Cambridge to review process for hiring senior academics after Jason Arday resignation
+### 5. Serial sex offender guilty of murdering two women and raping third
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Cambridge to review process for hiring senior academics after Jason Arday resignation
 
 **Source:** BBC
 
@@ -49,7 +97,20 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 4. Two civilians killed in Houthi strike on Marib, says Yemen’s government
+### 7. Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss)
+
+---
+
+### 8. Two civilians killed in Houthi strike on Marib, says Yemen’s government
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting resi
 
 ---
 
-### 5. Imade
+### 9. Imade
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ A young deaf migrant in Spain prepares for an emotional reunion with his family 
 
 ---
 
-### 6. Diego Maradona bloated, bedridden and resigned before death, says masseur
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Seven healthcare professionals have been on trial since mid-April in Argentina for possible negligence.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/diego-maradona-bloated-bedridden-and-resigned-before-death-says-masseur?traffic_source=rss)
-
----
-
-### 7. Wildfire Wrights Spring, Klamath, Oregon
+### 10. Wildfire Wrights Spring, Klamath, Oregon
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire BUZZARD, Kern, California
+### 11. Wildfire BUZZARD, Kern, California
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Bare, Sublette, Wyoming
+### 12. Wildfire Bare, Sublette, Wyoming
 
 **Source:** NASA
 

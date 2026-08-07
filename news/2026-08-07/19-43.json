@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-07T19:43:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=UufMqwyO7pY\">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211438\">https://news.ycombinator.com/item?id=49211438</a></p>\n<p>Points: 67</p>\n<p># Comments: 17</p>",
+            "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+            "published": "Fri, 07 Aug 2026 14:55:08 +0000",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Software is about people, not code",
+            "description": "<p>Article URL: <a href=\"https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/\">https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211437\">https://news.ycombinator.com/item?id=49211437</a></p>\n<p>Points: 28</p>\n<p># Comments: 25</p>",
+            "url": "https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/",
+            "published": "Fri, 07 Aug 2026 14:55:08 +0000",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "99% of My Website Traffic Is Bots",
+            "description": "<p>Article URL: <a href=\"https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/\">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211386\">https://news.ycombinator.com/item?id=49211386</a></p>\n<p>Points: 131</p>\n<p># Comments: 105</p>",
+            "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+            "published": "Fri, 07 Aug 2026 14:51:57 +0000",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How police let a registered sex offender murder and attack women",
+            "description": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.",
+            "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 14:03:39 GMT",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serial sex offender guilty of murdering two women and raping third",
+            "description": "Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.",
+            "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 15:42:52 GMT",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
+            "description": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\".",
+            "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 14:48:00 GMT",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
+            "description": "Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 15:10:22 +0000",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
+            "description": "Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.",
+            "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 14:22:24 +0000",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Imade",
+            "description": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.",
+            "url": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
+            "published": "Fri, 07 Aug 2026 14:18:53 +0000",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bare, Sublette, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197",
+            "published": "2026-08-04T17:46:00Z",
+            "fetched": "2026-08-07T19:43:07+03:30"
+        }
+    ]
+}
