@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 11:19:19
+**Last Update:** 2026-08-07 12:38:49
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Framework discloses data breach via Metabase 0-day
+### 1. 2027 memory capacity is reportedly sold out
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49207236">https://news.ycombinator.com/item?id=49207236</a></p>
+<p>Points: 26</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out)
+
+---
+
+### 2. Artificial Intelligence used to design new viruses
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c5y3j3ngevmo">https://www.bbc.co.uk/news/articles/c5y3j3ngevmo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206642">https://news.ycombinator.com/item?id=49206642</a></p>
+<p>Points: 29</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y3j3ngevmo](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo)
+
+---
+
+### 3. Framework discloses data breach via Metabase 0-day
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://community.frame.work/t/framework-data-breach-discussion/83939">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49206130">https://news.ycombinator.com/item?id=49206130</a></p>
-<p>Points: 52</p>
-<p># Comments: 11</p>
+<p>Points: 72</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://community.frame.work/t/framework-data-breach-discussion/83939](https://community.frame.work/t/framework-data-breach-discussion/83939)
-
----
-
-### 2. New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204546">https://news.ycombinator.com/item?id=49204546</a></p>
-<p>Points: 53</p>
-<p># Comments: 67</p>
-
-🔗 **Read more:** [https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/](https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/)
-
----
-
-### 3. Meta Ordered to Pay $942M to Address Harm to Kids from Social Media
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49204352">https://news.ycombinator.com/item?id=49204352</a></p>
-<p>Points: 181</p>
-<p># Comments: 110</p>
-
-🔗 **Read more:** [https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7)
 
 ---
 
@@ -78,7 +78,7 @@ Former Det Sup Stuart Blaik, who led the investigation into the police officer's
 **Category:** world
 
 **Description:**
-The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.
+The arrests follow disturbances linked to anti-immigration protests in the market town.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The ruling is in addition to $375m in fines Meta was already ordered to pay in t
 
 ---
 
-### 7. ‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago
+### 7. The other classroom: Returning to sacred knowledge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.
+Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss)
 
 ---
 
-### 8. Bodies of climbers killed in avalanche retrieved from Broad Peak
+### 8. Africa backs Infantino as CAF unanimously votes in FIFA president’s favour
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.
+CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA&#039;s Gianni Infantino.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss)
 
 ---
 
-### 9. Mexico deploys troops to secure avocado region after US halts imports
+### 9. Earthquake strikes as doctors perform surgery
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.
+A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss)
 
 ---
 
