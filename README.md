@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 19:43:07
+**Last Update:** 2026-08-07 20:30:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]
+### 1. The AI Billboards Are Killing SF
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/">https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49212928">https://news.ycombinator.com/item?id=49212928</a></p>
+<p>Points: 6</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/](https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/)
+
+---
+
+### 2. An all-sky map of half a million supermassive black holes
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.sdss.org/black-hole-mapper-release-20/">https://www.sdss.org/black-hole-mapper-release-20/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211921">https://news.ycombinator.com/item?id=49211921</a></p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.sdss.org/black-hole-mapper-release-20/](https://www.sdss.org/black-hole-mapper-release-20/)
+
+---
+
+### 3. Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.youtube.com/watch?v=UufMqwyO7pY">https://www.youtube.com/watch?v=UufMqwyO7pY</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211438">https://news.ycombinator.com/item?id=49211438</a></p>
-<p>Points: 67</p>
-<p># Comments: 17</p>
+<p>Points: 132</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://www.youtube.com/watch?v=UufMqwyO7pY](https://www.youtube.com/watch?v=UufMqwyO7pY)
-
----
-
-### 2. Software is about people, not code
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/">https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211437">https://news.ycombinator.com/item?id=49211437</a></p>
-<p>Points: 28</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/](https://letterstoanewdeveloper.com/2020/01/27/software-is-about-people-not-code/)
-
----
-
-### 3. 99% of My Website Traffic Is Bots
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/">https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49211386">https://news.ycombinator.com/item?id=49211386</a></p>
-<p>Points: 131</p>
-<p># Comments: 105</p>
-
-🔗 **Read more:** [https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
 
 ---
 
@@ -97,42 +97,42 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 7. Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos
+### 7. War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.
+Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss)
 
 ---
 
-### 8. Two civilians killed in Houthi strike on Marib, says Yemen’s government
+### 8. US labour market sheds jobs in July as labour force participation slumps
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.
+US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss)
 
 ---
 
-### 9. Imade
+### 9. Saudi Arabia, Pakistan, Turkiye defence pact challenges US role
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.
+Defence analyst Alex Alfirraz Scheers says the Saudi Arabia-Pakistan-Turkiye defence agreement signals a realignment
 
-🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss)
 
 ---
 
