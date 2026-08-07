@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 21:37:51
+**Last Update:** 2026-08-07 22:37:07
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Oracle bans AI-generated code from OpenJDK
+### 1. ICE will release body cam video only when seen in the agency's 'best interests'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code">https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213754">https://news.ycombinator.com/item?id=49213754</a></p>
-<p>Points: 22</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57">https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214306">https://news.ycombinator.com/item?id=49214306</a></p>
+<p>Points: 86</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+🔗 **Read more:** [https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57](https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57)
 
 ---
 
-### 2. Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years
+### 2. Assembly Hall of Shame
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225">https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213367">https://news.ycombinator.com/item?id=49213367</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/xoreaxeaxeax/asm-hall-of-shame">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214098">https://news.ycombinator.com/item?id=49214098</a></p>
+<p>Points: 37</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225](https://www.cbc.ca/news/business/canada-jobs-july-2026-9.7299225)
+🔗 **Read more:** [https://github.com/xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
 
 ---
 
-### 3. Tax cuts for the wealthy only benefit the rich (2023)
+### 3. DeepSeek V4 Flash 0731
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics">https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49213097">https://news.ycombinator.com/item?id=49213097</a></p>
-<p>Points: 116</p>
-<p># Comments: 72</p>
+<p>Article URL: <a href="https://arcprize.org/results/deepseek-v4-flash-0731">https://arcprize.org/results/deepseek-v4-flash-0731</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214008">https://news.ycombinator.com/item?id=49214008</a></p>
+<p>Points: 91</p>
+<p># Comments: 54</p>
 
-🔗 **Read more:** [https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics](https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics)
+🔗 **Read more:** [https://arcprize.org/results/deepseek-v4-flash-0731](https://arcprize.org/results/deepseek-v4-flash-0731)
 
 ---
 
@@ -97,7 +97,20 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 7. Inside the results: How redistricting shaped Tennessee’s primary election
+### 7. Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war efforts.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss)
+
+---
+
+### 8. Inside the results: How redistricting shaped Tennessee’s primary election
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted 
 
 ---
 
-### 8. New Delhi on red alert as heavy rains pound the city
+### 9. New Delhi on red alert as heavy rains pound the city
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted 
 Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss)
-
----
-
-### 9. Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,20 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire BUZZARD, Kern, California
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
-
----
-
-### 12. Wildfire Bare, Sublette, Wyoming
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22197)
 
 ---
 
