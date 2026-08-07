@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-07 22:55:39
+**Last Update:** 2026-08-07 23:33:39
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214863">https://news.ycombinator.com/item?id=49214863</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 57</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours)
 
 ---
 
-### 2. Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
+### 2. Psychological Warfare in Reverse Engineering
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/xoreaxeaxeax/repsych">https://github.com/xoreaxeaxeax/repsych</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214775">https://news.ycombinator.com/item?id=49214775</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/xoreaxeaxeax/repsych](https://github.com/xoreaxeaxeax/repsych)
+
+---
+
+### 3. Ancient Library – 1,060 Greek/Latin texts, click any word to parse it
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://ancientlibrary.net/">https://ancientlibrary.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214770">https://news.ycombinator.com/item?id=49214770</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 28</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://ancientlibrary.net/](https://ancientlibrary.net/)
-
----
-
-### 3. Databricks drove down AI coding spend 70%
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.databricks.com/blog/managing-ai-coding-costs-scale">https://www.databricks.com/blog/managing-ai-coding-costs-scale</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49214468">https://news.ycombinator.com/item?id=49214468</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.databricks.com/blog/managing-ai-coding-costs-scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
 
 ---
 
@@ -97,7 +97,20 @@ Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "m
 
 ---
 
-### 7. Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
+### 7. DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+ICRC facilitates first known transfer of detainees between Congolese government and M23 rebels in North Kivu.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss)
+
+---
+
+### 8. Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ukraine continues to strike warehouses and logistics hubs run by Wildberries, wh
 
 ---
 
-### 8. Inside the results: How redistricting shaped Tennessee’s primary election
+### 9. Inside the results: How redistricting shaped Tennessee’s primary election
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ukraine continues to strike warehouses and logistics hubs run by Wildberries, wh
 Tennessee&#039;s party primaries saw incumbent Representative Andy Ogles ousted and set up a heated race for District 9.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss)
-
----
-
-### 9. New Delhi on red alert as heavy rains pound the city
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Heavy rains have pounded New Delhi and its surrounding towns, disrupting traffic and leaving commuters stranded.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss)
 
 ---
 
