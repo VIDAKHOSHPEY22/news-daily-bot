@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T21:07:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LinkedIn Feed Blocker",
+            "description": "<p>Article URL: <a href=\"https://github.com/andrewpollack/linkedin-feed-blocker\">https://github.com/andrewpollack/linkedin-feed-blocker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223475\">https://news.ycombinator.com/item?id=49223475</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+            "published": "Sat, 08 Aug 2026 16:49:07 +0000",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fastmail offers EU data region",
+            "description": "<p>Article URL: <a href=\"https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223082\">https://news.ycombinator.com/item?id=49223082</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+            "published": "Sat, 08 Aug 2026 16:04:51 +0000",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gentoo bugzilla closed due AI bot scraper overload",
+            "description": "<p>Article URL: <a href=\"https://social.treehouse.systems/@mgorny/117058483039362779\">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221864\">https://news.ycombinator.com/item?id=49221864</a></p>\n<p>Points: 93</p>\n<p># Comments: 54</p>",
+            "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+            "published": "Sat, 08 Aug 2026 13:55:42 +0000",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
+            "description": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
+            "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 11:55:30 GMT",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+            "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+            "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
+            "description": "Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 17:26:59 +0000",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+            "description": "Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 17:14:09 +0000",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
+            "description": "Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 17:05:17 +0000",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T21:07:30+03:30"
+        }
+    ]
+}
