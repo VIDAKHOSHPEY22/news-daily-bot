@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 11:34:38
+**Last Update:** 2026-08-08 12:22:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/rosenbridge">https://github.com/xoreaxeaxeax/rosenbridge</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219508">https://news.ycombinator.com/item?id=49219508</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 53</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218707">https://news.ycombinator.com/item?id=49218707</a></p>
-<p>Points: 54</p>
+<p>Points: 58</p>
 <p># Comments: 17</p>
 
 🔗 **Read more:** [https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 210</p>
-<p># Comments: 36</p>
+<p>Points: 217</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. South Korea FA apologises over ‘sexual services’ allegations
+### 7. Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second game of five-match ODI series.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss)
+
+---
+
+### 8. South Korea FA apologises over ‘sexual services’ allegations
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Football association apologises over claims relating to qualifiers for World Cup
 
 ---
 
-### 8. NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules
+### 9. NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Football association apologises over claims relating to qualifiers for World Cup
 Memphis Grizzlies ⁠forward Brandon Clarke&#039;s ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss)
-
----
-
-### 9. Hundreds camp on sweltering Rome street amid tussle over squatted building
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-After a fire broke out, the building was cleared in what activists say was a politically motivated move.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss)
 
 ---
 
