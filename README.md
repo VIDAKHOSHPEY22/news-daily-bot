@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 09:32:10
+**Last Update:** 2026-08-08 10:35:21
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218707">https://news.ycombinator.com/item?id=49218707</a></p>
-<p>Points: 38</p>
-<p># Comments: 14</p>
+<p>Points: 45</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 148</p>
-<p># Comments: 22</p>
+<p>Points: 188</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
@@ -51,40 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 224</p>
-<p># Comments: 95</p>
+<p>Points: 264</p>
+<p># Comments: 117</p>
 
 🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
 ---
 
-### 4. Police officers investigated over handling of sex offender who murdered two women
+### 4. Widdecombe police reopen investigation into incident at Farage's home, BBC understands
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Simon Levy was a serial sex offender who was being monitored by police when he killed two women.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-No arrests were made at the time and the investigation was closed.
+Counter-terror police investigating the ex-MP's death say they are looking into an "attempted burglary" last year.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Infantino denies claims Uefa paid off alleged 'lover'
+### 5. Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. Hundreds camp on sweltering Rome street amid tussle over squatted building
+### 6. Police officers investigated over handling of sex offender who murdered two women
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Simon Levy was a serial sex offender who was being monitored by police when he killed two women.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Memphis Grizzlies ⁠forward Brandon Clarke&#039;s ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss)
+
+---
+
+### 8. Hundreds camp on sweltering Rome street amid tussle over squatted building
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ After a fire broke out, the building was cleared in what activists say was a pol
 
 ---
 
-### 8. Bangladesh say Shakib will not play cricket again after Hasina event
+### 9. Bangladesh say Shakib will not play cricket again after Hasina event
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ After a fire broke out, the building was cleared in what activists say was a pol
 Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss)
-
----
-
-### 9. Violence is driving Palestinian Christians out of their Holy Land
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss)
 
 ---
 
