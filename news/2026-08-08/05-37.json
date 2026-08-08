@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T05:37:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Nixpkgs core team has disbanded",
+            "description": "<p>Article URL: <a href=\"https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49217993\">https://news.ycombinator.com/item?id=49217993</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+            "published": "Sat, 08 Aug 2026 01:12:45 +0000",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+            "description": "<p>Article URL: <a href=\"https://genesisopenmodels.anl.gov/\">https://genesisopenmodels.anl.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216946\">https://news.ycombinator.com/item?id=49216946</a></p>\n<p>Points: 91</p>\n<p># Comments: 38</p>",
+            "url": "https://genesisopenmodels.anl.gov/",
+            "published": "Fri, 07 Aug 2026 22:24:27 +0000",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216362\">https://news.ycombinator.com/item?id=49216362</a></p>\n<p>Points: 124</p>\n<p># Comments: 84</p>",
+            "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+            "published": "Fri, 07 Aug 2026 21:19:57 +0000",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police officers investigated over handling of sex offender who murdered two women",
+            "description": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women.",
+            "url": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:56:11 GMT",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+            "description": "No arrests were made at the time and the investigation was closed.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:42:43 GMT",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+            "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:50:58 GMT",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
+            "description": "Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 01:29:14 +0000",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump shifts blame to Republicans for waning support from public",
+            "description": "Republican senators are using the summer recess to avoid politically difficult votes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 01:28:39 +0000",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
+            "description": "Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 01:15:53 +0000",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T05:37:57+03:30"
+        }
+    ]
+}
