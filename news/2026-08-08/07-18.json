@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T07:18:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+            "description": "<p>Article URL: <a href=\"https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49218179\">https://news.ycombinator.com/item?id=49218179</a></p>\n<p>Points: 68</p>\n<p># Comments: 10</p>",
+            "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+            "published": "Sat, 08 Aug 2026 01:49:11 +0000",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Nixpkgs core team has disbanded",
+            "description": "<p>Article URL: <a href=\"https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49217993\">https://news.ycombinator.com/item?id=49217993</a></p>\n<p>Points: 155</p>\n<p># Comments: 63</p>",
+            "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+            "published": "Sat, 08 Aug 2026 01:12:45 +0000",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Modern C++ Build Tools for Module Feature",
+            "description": "<p>Anyone like C++'s module features? Feel free to try MCPP and talk with me.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49217761\">https://news.ycombinator.com/item?id=49217761</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/mcpp-community/mcpp",
+            "published": "Sat, 08 Aug 2026 00:30:52 +0000",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police officers investigated over handling of sex offender who murdered two women",
+            "description": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women.",
+            "url": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:56:11 GMT",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+            "description": "No arrests were made at the time and the investigation was closed.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:42:43 GMT",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+            "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:50:58 GMT",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Senate passes Russia sanctions that could hurt India and China",
+            "description": "The US Senate approved its strongest move against Russia under Trump.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 03:20:41 +0000",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+            "description": "Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 02:54:02 +0000",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+            "description": "Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 02:08:28 +0000",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T07:18:20+03:30"
+        }
+    ]
+}
