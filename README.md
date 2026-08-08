@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 21:23:28
+**Last Update:** 2026-08-08 22:20:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. LinkedIn Feed Blocker
+### 1. Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/andrewpollack/linkedin-feed-blocker">https://github.com/andrewpollack/linkedin-feed-blocker</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223475">https://news.ycombinator.com/item?id=49223475</a></p>
-<p>Points: 12</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224294">https://news.ycombinator.com/item?id=49224294</a></p>
+<p>Points: 58</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://github.com/andrewpollack/linkedin-feed-blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
+🔗 **Read more:** [https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 
 ---
 
-### 2. Wireblast a 100 Gbps packet generator in Go using AF_XDP
+### 2. TinySol, a tiny solitaire game for DOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://toonk.io/index.html">https://toonk.io/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223105">https://news.ycombinator.com/item?id=49223105</a></p>
+<p>Article URL: <a href="https://classicbits.net/coding-and-software/my-software/monosol/">https://classicbits.net/coding-and-software/my-software/monosol/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49224020">https://news.ycombinator.com/item?id=49224020</a></p>
 <p>Points: 3</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://toonk.io/index.html](https://toonk.io/index.html)
+🔗 **Read more:** [https://classicbits.net/coding-and-software/my-software/monosol/](https://classicbits.net/coding-and-software/my-software/monosol/)
 
 ---
 
-### 3. Fastmail offers EU data region
+### 3. Amazon Is Creating the Biggest Pollution Source in the Country
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fastmail.com/blog/fastmail-offers-eu-data-region/">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223082">https://news.ycombinator.com/item?id=49223082</a></p>
-<p>Points: 40</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country">https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223845">https://news.ycombinator.com/item?id=49223845</a></p>
+<p>Points: 27</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.fastmail.com/blog/fastmail-offers-eu-data-region/](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+🔗 **Read more:** [https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country](https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country)
 
 ---
 
@@ -84,7 +84,7 @@ Counter-terror police investigating the ex-MP's death say they are looking into 
 
 ---
 
-### 6. Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt
+### 6. Chasing a ghost: How BBC tracked a fugitive spy chief after months-long hunt
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
+### 7. The influencers taking on far-right leader Nigel Farage
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The UK media has been accused of giving far-right leader Nigel Farage an easy ride
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss)
+
+---
+
+### 8. Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Fears increase for life of Hussam Abu Safia detained by Israel amid reports of t
 
 ---
 
-### 8. British Columbia issues evacuation orders ahead of fast-moving wildfires
+### 9. British Columbia issues evacuation orders ahead of fast-moving wildfires
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Fears increase for life of Hussam Abu Safia detained by Israel amid reports of t
 Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss)
-
----
-
-### 9. Serbia and Ukraine pledge closer economic ties, eye free trade deal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Serbia says it will help rebuild Ukrainian cities and provide aid as the two countries deepen cooperation.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/serbia-and-ukraine-pledge-closer-economic-ties-eye-free-trade-deal?traffic_source=rss)
 
 ---
 
