@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 21:07:30
+**Last Update:** 2026-08-08 21:23:28
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/andrewpollack/linkedin-feed-blocker">https://github.com/andrewpollack/linkedin-feed-blocker</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223475">https://news.ycombinator.com/item?id=49223475</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://github.com/andrewpollack/linkedin-feed-blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
 
 ---
 
-### 2. Fastmail offers EU data region
+### 2. Wireblast a 100 Gbps packet generator in Go using AF_XDP
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://toonk.io/index.html">https://toonk.io/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223105">https://news.ycombinator.com/item?id=49223105</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://toonk.io/index.html](https://toonk.io/index.html)
+
+---
+
+### 3. Fastmail offers EU data region
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.fastmail.com/blog/fastmail-offers-eu-data-region/">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49223082">https://news.ycombinator.com/item?id=49223082</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 40</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.fastmail.com/blog/fastmail-offers-eu-data-region/](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
-
----
-
-### 3. Gentoo bugzilla closed due AI bot scraper overload
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://social.treehouse.systems/@mgorny/117058483039362779">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221864">https://news.ycombinator.com/item?id=49221864</a></p>
-<p>Points: 93</p>
-<p># Comments: 54</p>
-
-🔗 **Read more:** [https://social.treehouse.systems/@mgorny/117058483039362779](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
