@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 18:24:45
+**Last Update:** 2026-08-08 19:06:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Don't use your phone while you poop
+### 1. Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/">https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221947">https://news.ycombinator.com/item?id=49221947</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
+
+---
+
+### 2. Don't use your phone while you poop
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://nate.spot/no-phone-while-poop/">https://nate.spot/no-phone-while-poop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221939">https://news.ycombinator.com/item?id=49221939</a></p>
-<p>Points: 16</p>
-<p># Comments: 14</p>
+<p>Points: 93</p>
+<p># Comments: 100</p>
 
 🔗 **Read more:** [https://nate.spot/no-phone-while-poop/](https://nate.spot/no-phone-while-poop/)
 
 ---
 
-### 2. Gentoo bugzilla closed due AI bot scraper overload
+### 3. Gentoo bugzilla closed due AI bot scraper overload
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://social.treehouse.systems/@mgorny/117058483039362779">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221864">https://news.ycombinator.com/item?id=49221864</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 44</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://social.treehouse.systems/@mgorny/117058483039362779](https://social.treehouse.systems/@mgorny/117058483039362779)
-
----
-
-### 3. Voyager 1 FDS Computer Emulator
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://zaneham.github.io/voyager-fds-emulator/">https://zaneham.github.io/voyager-fds-emulator/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221679">https://news.ycombinator.com/item?id=49221679</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://zaneham.github.io/voyager-fds-emulator/](https://zaneham.github.io/voyager-fds-emulator/)
 
 ---
 
@@ -97,7 +97,33 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Lionel Messi’s father dies aged 68 after a long illness
+### 7. UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss)
+
+---
+
+### 8. Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+In an interview with Al Jazeera, Masrour Barzani denies any &#039;pressure&#039; to enter the Iran war despite over 1,000 attacks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss)
+
+---
+
+### 9. Lionel Messi’s father dies aged 68 after a long illness
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, according to his family.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss)
-
----
-
-### 8. War on Iran: Phase II: Day 28
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss)
-
----
-
-### 9. FIFA President Gianni Infantino denies claims UEFA paid off alleged lover
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-However, UEFA says a &#039;departure payment&#039; was made to a female employee when Infantino was the body&#039;s general-secretary.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss)
 
 ---
 

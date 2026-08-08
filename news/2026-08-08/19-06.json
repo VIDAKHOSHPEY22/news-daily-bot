@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T19:06:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
+            "description": "<p>Article URL: <a href=\"https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/\">https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221947\">https://news.ycombinator.com/item?id=49221947</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+            "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+            "published": "Sat, 08 Aug 2026 14:07:06 +0000",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Don't use your phone while you poop",
+            "description": "<p>Article URL: <a href=\"https://nate.spot/no-phone-while-poop/\">https://nate.spot/no-phone-while-poop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221939\">https://news.ycombinator.com/item?id=49221939</a></p>\n<p>Points: 93</p>\n<p># Comments: 100</p>",
+            "url": "https://nate.spot/no-phone-while-poop/",
+            "published": "Sat, 08 Aug 2026 14:05:56 +0000",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gentoo bugzilla closed due AI bot scraper overload",
+            "description": "<p>Article URL: <a href=\"https://social.treehouse.systems/@mgorny/117058483039362779\">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221864\">https://news.ycombinator.com/item?id=49221864</a></p>\n<p>Points: 44</p>\n<p># Comments: 10</p>",
+            "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+            "published": "Sat, 08 Aug 2026 13:55:42 +0000",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+            "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
+            "description": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
+            "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 11:55:30 GMT",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+            "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+            "description": "Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 15:01:29 +0000",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+            "description": "In an interview with Al Jazeera, Masrour Barzani denies any &#039;pressure&#039; to enter the Iran war despite over 1,000 attacks.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 14:58:42 +0000",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lionel Messi’s father dies aged 68 after a long illness",
+            "description": "Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, according to his family.",
+            "url": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 14:25:38 +0000",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T19:06:52+03:30"
+        }
+    ]
+}
