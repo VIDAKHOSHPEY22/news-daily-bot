@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T15:06:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html\">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220390\">https://news.ycombinator.com/item?id=49220390</a></p>\n<p>Points: 11</p>\n<p># Comments: 15</p>",
+            "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+            "published": "Sat, 08 Aug 2026 10:16:01 +0000",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html\">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220350\">https://news.ycombinator.com/item?id=49220350</a></p>\n<p>Points: 74</p>\n<p># Comments: 39</p>",
+            "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+            "published": "Sat, 08 Aug 2026 10:07:06 +0000",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide\">https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220339\">https://news.ycombinator.com/item?id=49220339</a></p>\n<p>Points: 21</p>\n<p># Comments: 11</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+            "published": "Sat, 08 Aug 2026 10:04:25 +0000",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+            "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
+            "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:50:58 GMT",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+            "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
+            "description": "Thailand has one of the highest rates of gun ownership in Asia.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 11:31:57 +0000",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Woman screams for her man as Ukraine war recruiters pounce",
+            "description": "Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 11:29:44 +0000",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
+            "description": "Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.",
+            "url": "https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 10:58:46 +0000",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T15:06:05+03:30"
+        }
+    ]
+}

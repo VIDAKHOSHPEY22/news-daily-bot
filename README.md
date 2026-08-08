@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 14:26:27
+**Last Update:** 2026-08-08 15:06:05
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220390">https://news.ycombinator.com/item?id=49220390</a></p>
-<p>Points: 6</p>
-<p># Comments: 5</p>
+<p>Points: 11</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
-<p>Points: 25</p>
-<p># Comments: 7</p>
+<p>Points: 74</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide">https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220339">https://news.ycombinator.com/item?id=49220339</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Points: 21</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide](https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide)
 
@@ -84,7 +84,7 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 6. Finding ‘The Spider’: the months-long hunt for a wanted spy chief
+### 6. Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. How Israel’s occupation fuels resistance
+### 7. Families retrieve bodies after deadly shooting rampage outside Bangkok
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel is trapped in a cycle it created.
+Thailand has one of the highest rates of gun ownership in Asia.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss)
 
 ---
 
-### 8. Trump’s former personal lawyer narrowly confirmed as US attorney general
+### 8. Woman screams for her man as Ukraine war recruiters pounce
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Senate confirms Todd Blanche in narrow vote despite concerns over independence of office.
+Viral video fuels concerns over Ukraine’s ‘busification’ and alleged abuse by recruitment officers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce?traffic_source=rss)
 
 ---
 
-### 9. Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit
+### 9. Yemen’s collapsing healthcare forces the sick to seek alternative medicines
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saimoni Vunilagi was hospitalised with symptoms of heatstroke after rugby team training on Monday, but died on Friday.
+Patients in Yemen who cannot afford healthcare or access relevant treatment are turning to alternative medicine.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss](https://www.aljazeera.com/features/2026/8/8/yemens-collapsing-healthcare-forces-the-sick-to-seek-alternative-medicines?traffic_source=rss)
 
 ---
 
