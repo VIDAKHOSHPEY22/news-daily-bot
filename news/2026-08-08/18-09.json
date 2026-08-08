@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T18:09:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gentoo bugzilla closed due AI bot scraper overload",
+            "description": "<p>Article URL: <a href=\"https://social.treehouse.systems/@mgorny/117058483039362779\">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221864\">https://news.ycombinator.com/item?id=49221864</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+            "published": "Sat, 08 Aug 2026 13:55:42 +0000",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Voyager 1 FDS Computer Emulator",
+            "description": "<p>Article URL: <a href=\"https://zaneham.github.io/voyager-fds-emulator/\">https://zaneham.github.io/voyager-fds-emulator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221679\">https://news.ycombinator.com/item?id=49221679</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://zaneham.github.io/voyager-fds-emulator/",
+            "published": "Sat, 08 Aug 2026 13:28:38 +0000",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A domain can now say it is for sale, in DNS",
+            "description": "<p>Article URL: <a href=\"https://specification.website/spec/foundations/for-sale-dns/\">https://specification.website/spec/foundations/for-sale-dns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221668\">https://news.ycombinator.com/item?id=49221668</a></p>\n<p>Points: 21</p>\n<p># Comments: 4</p>",
+            "url": "https://specification.website/spec/foundations/for-sale-dns/",
+            "published": "Sat, 08 Aug 2026 13:26:51 +0000",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+            "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
+            "description": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
+            "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 11:55:30 GMT",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+            "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
+            "description": "However, UEFA says a &#039;departure payment&#039; was made to a female employee when Infantino was the body&#039;s general-secretary.",
+            "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 13:59:21 +0000",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+            "description": "Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 13:52:40 +0000",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
+            "description": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain",
+            "url": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 13:42:06 +0000",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T18:09:03+03:30"
+        }
+    ]
+}
