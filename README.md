@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 10:35:21
+**Last Update:** 2026-08-08 10:55:34
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mythos social engineering AISI INC-2026-07-28-01
+### 1. Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.harperflow.io/dead-internet">https://www.harperflow.io/dead-internet</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219418">https://news.ycombinator.com/item?id=49219418</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.harperflow.io/dead-internet](https://www.harperflow.io/dead-internet)
+
+---
+
+### 2. Mythos social engineering AISI INC-2026-07-28-01
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218707">https://news.ycombinator.com/item?id=49218707</a></p>
-<p>Points: 45</p>
+<p>Points: 48</p>
 <p># Comments: 17</p>
 
 🔗 **Read more:** [https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
 ---
 
-### 2. NASA to keep its 48-year-old Voyager 2 probe running for yet another year
+### 3. NASA figured out how to keep its Voyager 2 probe running for another year
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 188</p>
-<p># Comments: 34</p>
+<p>Points: 196</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
-
----
-
-### 3. The Nixpkgs core team has disbanded
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 264</p>
-<p># Comments: 117</p>
-
-🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
 ---
 
@@ -84,16 +84,16 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 6. Police officers investigated over handling of sex offender who murdered two women
+### 6. The phone book that led us to Assad's spy chief in hiding
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Simon Levy was a serial sex offender who was being monitored by police when he killed two women.
+How we tracked down "The Spider" who was once one of the most-feared men in Syria.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -133,45 +133,6 @@ After a fire broke out, the building was cleared in what activists say was a pol
 Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Tropical Cyclone Chan-Hom
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
-
----
-
-### 12. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
