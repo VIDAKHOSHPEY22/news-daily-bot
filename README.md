@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 02:22:29
+**Last Update:** 2026-08-09 03:06:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack
+### 1. My server is a phone now
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://seg6.space/posts/phone-server/">https://seg6.space/posts/phone-server/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226636">https://news.ycombinator.com/item?id=49226636</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://seg6.space/posts/phone-server/](https://seg6.space/posts/phone-server/)
+
+---
+
+### 2. Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/">https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225918">https://news.ycombinator.com/item?id=49225918</a></p>
-<p>Points: 43</p>
-<p># Comments: 14</p>
+<p>Points: 63</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
 
 ---
 
-### 2. The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]
+### 3. The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]
 
 **Source:** Hacker News
 
@@ -35,56 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf">https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225676">https://news.ycombinator.com/item?id=49225676</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
 
 ---
 
-### 3. Open-source interactive map for the Aug 12 total solar eclipse
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute">https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225139">https://news.ycombinator.com/item?id=49225139</a></p>
-<p>Points: 52</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
-
----
-
-### 4. Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist
+### 4. Andy Burnham to embark on cost of living tour through the UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.
+No 10 says the prime minister's plans will "give people some room to breathe", but opposition figures accuse him of "hypocrisy".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Widdecombe police reopen investigation into incident at Farage's home, BBC understands
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Counter-terror police investigating the ex-MP's death say they are looking into an "attempted burglary" last year.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Fifa criticises campaign to oust president Infantino
+### 5. Fifa criticises campaign to oust president Infantino
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ Fifa strongly criticises what it calls a "concerted and ongoing effort" to "unde
 
 ---
 
-### 7. Car bomb attack rattles Colombia after inauguration of hardline president
+### 6. Killed a month after his wedding - why PC Andrew Harper's death touched so many
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Crews recover 19 bodies from rubble of destroyed Gaza building
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by lack of heavy machinery.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss)
+
+---
+
+### 8. Car bomb attack rattles Colombia after inauguration of hardline president
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Government promises harsh response following explosives attack on Pan-American H
 
 ---
 
-### 8. Will Pakistan-Saudi-Turkiye defence pact change US strategy?
+### 9. Will Pakistan-Saudi-Turkiye defence pact change US strategy?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Government promises harsh response following explosives attack on Pan-American H
 Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss)
-
----
-
-### 9. Trump’s Former Lawyer Is Now Attorney General
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Todd Blanche, President Trump’s former lawyer, is now US attorney general.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss)
 
 ---
 
