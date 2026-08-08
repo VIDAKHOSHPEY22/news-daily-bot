@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 13:16:25
+**Last Update:** 2026-08-08 13:29:43
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/xoreaxeaxeax/rosenbridge">https://github.com/xoreaxeaxeax/rosenbridge</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219508">https://news.ycombinator.com/item?id=49219508</a></p>
-<p>Points: 81</p>
-<p># Comments: 21</p>
+<p>Points: 89</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://github.com/xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 231</p>
-<p># Comments: 43</p>
+<p>Points: 235</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 294</p>
-<p># Comments: 139</p>
+<p>Points: 298</p>
+<p># Comments: 143</p>
 
 🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
@@ -97,7 +97,33 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. Messi will decide when he retires, says Argentina FA chief
+### 7. Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss)
+
+---
+
+### 8. US announces $400m investment in Australian rare earth mine
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Deal aims to secure scandium supply as China restricts exports for defence products.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss)
+
+---
+
+### 9. Messi will decide when he retires, says Argentina FA chief
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 Retirement rumours surrounded Lionel Messi at last two World Cups, but Argentina FA chief says decision will be his.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss)
-
----
-
-### 8. Typhoon Dolphin hits Japan, heads towards China
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss)
-
----
-
-### 9. Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second game of five-match ODI series.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss)
 
 ---
 
