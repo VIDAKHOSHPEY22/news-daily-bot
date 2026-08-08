@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T18:24:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Don't use your phone while you poop",
+            "description": "<p>Article URL: <a href=\"https://nate.spot/no-phone-while-poop/\">https://nate.spot/no-phone-while-poop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221939\">https://news.ycombinator.com/item?id=49221939</a></p>\n<p>Points: 16</p>\n<p># Comments: 14</p>",
+            "url": "https://nate.spot/no-phone-while-poop/",
+            "published": "Sat, 08 Aug 2026 14:05:56 +0000",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gentoo bugzilla closed due AI bot scraper overload",
+            "description": "<p>Article URL: <a href=\"https://social.treehouse.systems/@mgorny/117058483039362779\">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221864\">https://news.ycombinator.com/item?id=49221864</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+            "published": "Sat, 08 Aug 2026 13:55:42 +0000",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Voyager 1 FDS Computer Emulator",
+            "description": "<p>Article URL: <a href=\"https://zaneham.github.io/voyager-fds-emulator/\">https://zaneham.github.io/voyager-fds-emulator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221679\">https://news.ycombinator.com/item?id=49221679</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://zaneham.github.io/voyager-fds-emulator/",
+            "published": "Sat, 08 Aug 2026 13:28:38 +0000",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+            "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
+            "description": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
+            "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 11:55:30 GMT",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
+            "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lionel Messi’s father dies aged 68 after a long illness",
+            "description": "Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, according to his family.",
+            "url": "https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 14:25:38 +0000",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: Phase II: Day 28",
+            "description": "Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 14:09:02 +0000",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
+            "description": "However, UEFA says a &#039;departure payment&#039; was made to a female employee when Infantino was the body&#039;s general-secretary.",
+            "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 13:59:21 +0000",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T18:24:45+03:30"
+        }
+    ]
+}

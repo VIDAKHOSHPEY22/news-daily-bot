@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 18:09:03
+**Last Update:** 2026-08-08 18:24:45
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gentoo bugzilla closed due AI bot scraper overload
+### 1. Don't use your phone while you poop
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nate.spot/no-phone-while-poop/">https://nate.spot/no-phone-while-poop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221939">https://news.ycombinator.com/item?id=49221939</a></p>
+<p>Points: 16</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://nate.spot/no-phone-while-poop/](https://nate.spot/no-phone-while-poop/)
+
+---
+
+### 2. Gentoo bugzilla closed due AI bot scraper overload
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://social.treehouse.systems/@mgorny/117058483039362779">https://social.treehouse.systems/@mgorny/117058483039362779</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221864">https://news.ycombinator.com/item?id=49221864</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://social.treehouse.systems/@mgorny/117058483039362779](https://social.treehouse.systems/@mgorny/117058483039362779)
 
 ---
 
-### 2. Voyager 1 FDS Computer Emulator
+### 3. Voyager 1 FDS Computer Emulator
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://zaneham.github.io/voyager-fds-emulator/">https://zaneham.github.io/voyager-fds-emulator/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221679">https://news.ycombinator.com/item?id=49221679</a></p>
-<p>Points: 5</p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://zaneham.github.io/voyager-fds-emulator/](https://zaneham.github.io/voyager-fds-emulator/)
-
----
-
-### 3. A domain can now say it is for sale, in DNS
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://specification.website/spec/foundations/for-sale-dns/">https://specification.website/spec/foundations/for-sale-dns/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221668">https://news.ycombinator.com/item?id=49221668</a></p>
-<p>Points: 21</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://specification.website/spec/foundations/for-sale-dns/](https://specification.website/spec/foundations/for-sale-dns/)
 
 ---
 
@@ -97,7 +97,33 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. FIFA President Gianni Infantino denies claims UEFA paid off alleged lover
+### 7. Lionel Messi’s father dies aged 68 after a long illness
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Jorge Messi died at a medical clinic in the Argentinian city of ⁠Rosario, according to his family.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/lionel-messis-father-dies-aged-68-after-a-long-illness?traffic_source=rss)
+
+---
+
+### 8. War on Iran: Phase II: Day 28
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss)
+
+---
+
+### 9. FIFA President Gianni Infantino denies claims UEFA paid off alleged lover
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 However, UEFA says a &#039;departure payment&#039; was made to a female employee when Infantino was the body&#039;s general-secretary.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss)
-
----
-
-### 8. Iran deliberates Hormuz arrangement amid uncertain prospects with US
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss)
-
----
-
-### 9. Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Saudi Arabia, Turkiye, and Pakistan form a new defence pact, leaving Israel’s response and its implications uncertain
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss)
 
 ---
 
