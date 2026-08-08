@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 07:46:19
+**Last Update:** 2026-08-08 08:42:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218707">https://news.ycombinator.com/item?id=49218707</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 28</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 78</p>
-<p># Comments: 11</p>
+<p>Points: 120</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 168</p>
-<p># Comments: 70</p>
+<p>Points: 188</p>
+<p># Comments: 85</p>
 
 🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
@@ -97,42 +97,42 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation
+### 7. Norway Football Federation calls for FIFA president to resign
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.
+Norway’s football federation has called on Gianni Infantino to resign.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss)
 
 ---
 
-### 8. US Senate passes Russia sanctions that could hurt India and China
+### 8. Armenia puts Church leader on trial for allegedly being a Russian spy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US Senate approved its strongest move against Russia under Trump.
+Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss)
 
 ---
 
-### 9. Submerged Indonesian village re-emerges as drought lowers water levels
+### 9. ‘I’ve never been counted’: DR Congo’s first census in 42 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.
+For many Congolese, the census is about identity, recognition and finally being recorded by the state.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss)
 
 ---
 

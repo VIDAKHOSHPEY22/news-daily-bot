@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T08:42:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mythos social engineering AISI INC-2026-07-28-01",
+            "description": "<p>Article URL: <a href=\"https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3\">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49218707\">https://news.ycombinator.com/item?id=49218707</a></p>\n<p>Points: 28</p>\n<p># Comments: 11</p>",
+            "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+            "published": "Sat, 08 Aug 2026 03:41:56 +0000",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+            "description": "<p>Article URL: <a href=\"https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49218179\">https://news.ycombinator.com/item?id=49218179</a></p>\n<p>Points: 120</p>\n<p># Comments: 15</p>",
+            "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+            "published": "Sat, 08 Aug 2026 01:49:11 +0000",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Nixpkgs core team has disbanded",
+            "description": "<p>Article URL: <a href=\"https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49217993\">https://news.ycombinator.com/item?id=49217993</a></p>\n<p>Points: 188</p>\n<p># Comments: 85</p>",
+            "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+            "published": "Sat, 08 Aug 2026 01:12:45 +0000",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police officers investigated over handling of sex offender who murdered two women",
+            "description": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women.",
+            "url": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:56:11 GMT",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+            "description": "No arrests were made at the time and the investigation was closed.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:42:43 GMT",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+            "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:50:58 GMT",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Norway Football Federation calls for FIFA president to resign",
+            "description": "Norway’s football federation has called on Gianni Infantino to resign.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 04:37:56 +0000",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Armenia puts Church leader on trial for allegedly being a Russian spy",
+            "description": "Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 04:31:42 +0000",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
+            "description": "For many Congolese, the census is about identity, recognition and finally being recorded by the state.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 04:29:46 +0000",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T08:42:19+03:30"
+        }
+    ]
+}
