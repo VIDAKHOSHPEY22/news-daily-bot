@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T14:11:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html\">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220390\">https://news.ycombinator.com/item?id=49220390</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+            "published": "Sat, 08 Aug 2026 10:16:01 +0000",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html\">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220350\">https://news.ycombinator.com/item?id=49220350</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+            "published": "Sat, 08 Aug 2026 10:07:06 +0000",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide\">https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49220339\">https://news.ycombinator.com/item?id=49220339</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+            "published": "Sat, 08 Aug 2026 10:04:25 +0000",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+            "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
+            "description": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 22:50:58 GMT",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Finding ‘The Spider’: the months-long hunt for a wanted spy chief",
+            "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
+            "description": "Saimoni Vunilagi was hospitalised with symptoms of heatstroke after rugby team training on Monday, but died on Friday.",
+            "url": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 10:13:30 +0000",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mount Etna ash suspends arrivals at Italy’s Catania airport",
+            "description": "Catania international airport services the eastern part of Sicily, one of Italy&#039;s most popular tourist destinations.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 10:10:13 +0000",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
+            "description": "Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.",
+            "url": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 09:38:58 +0000",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T14:11:30+03:30"
+        }
+    ]
+}
