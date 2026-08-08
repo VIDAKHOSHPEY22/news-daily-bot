@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 10:55:34
+**Last Update:** 2026-08-08 11:34:38
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Stack Overflow new questions are down 98.5% since ChatGPT (+ 5 other platforms)
+### 1. Hardware backdoors in some x86 CPUs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.harperflow.io/dead-internet">https://www.harperflow.io/dead-internet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219418">https://news.ycombinator.com/item?id=49219418</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/xoreaxeaxeax/rosenbridge">https://github.com/xoreaxeaxeax/rosenbridge</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49219508">https://news.ycombinator.com/item?id=49219508</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.harperflow.io/dead-internet](https://www.harperflow.io/dead-internet)
+🔗 **Read more:** [https://github.com/xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218707">https://news.ycombinator.com/item?id=49218707</a></p>
-<p>Points: 48</p>
+<p>Points: 54</p>
 <p># Comments: 17</p>
 
 🔗 **Read more:** [https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 196</p>
-<p># Comments: 35</p>
+<p>Points: 210</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
@@ -97,7 +97,20 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules
+### 7. South Korea FA apologises over ‘sexual services’ allegations
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss)
+
+---
+
+### 8. NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Memphis Grizzlies ⁠forward Brandon Clarke&#039;s ⁠May 11 death ruled acciden
 
 ---
 
-### 8. Hundreds camp on sweltering Rome street amid tussle over squatted building
+### 9. Hundreds camp on sweltering Rome street amid tussle over squatted building
 
 **Source:** Al Jazeera
 
@@ -123,16 +136,42 @@ After a fire broke out, the building was cleared in what activists say was a pol
 
 ---
 
-### 9. Bangladesh say Shakib will not play cricket again after Hasina event
+### 10. Wildfire Wrights Spring, Klamath, Oregon
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+
+---
+
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
