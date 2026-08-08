@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-08T22:34:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+            "description": "<p>Article URL: <a href=\"https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224294\">https://news.ycombinator.com/item?id=49224294</a></p>\n<p>Points: 58</p>\n<p># Comments: 21</p>",
+            "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+            "published": "Sat, 08 Aug 2026 18:09:31 +0000",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TinySol, a tiny solitaire game for DOS",
+            "description": "<p>Article URL: <a href=\"https://classicbits.net/coding-and-software/my-software/monosol/\">https://classicbits.net/coding-and-software/my-software/monosol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224020\">https://news.ycombinator.com/item?id=49224020</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+            "published": "Sat, 08 Aug 2026 17:42:40 +0000",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+            "description": "<p>Article URL: <a href=\"https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country\">https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223845\">https://news.ycombinator.com/item?id=49223845</a></p>\n<p>Points: 27</p>\n<p># Comments: 5</p>",
+            "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+            "published": "Sat, 08 Aug 2026 17:27:52 +0000",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
+            "description": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
+            "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 11:55:30 GMT",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+            "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chasing a ghost: How BBC tracked a fugitive spy chief after months-long hunt",
+            "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
+            "description": "The younger Biden son has addressed his father&#039;s debate performance and the pardon he received after felony convictions.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 18:55:20 +0000",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+            "description": "Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 18:43:20 +0000",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The influencers taking on far-right leader Nigel Farage",
+            "description": "The UK media has been accused of giving far-right leader Nigel Farage an easy ride",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 18:05:44 +0000",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-08T22:34:58+03:30"
+        }
+    ]
+}

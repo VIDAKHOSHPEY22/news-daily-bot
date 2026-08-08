@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 22:20:33
+**Last Update:** 2026-08-08 22:34:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -97,7 +97,33 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 
 ---
 
-### 7. The influencers taking on far-right leader Nigel Farage
+### 7. ‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The younger Biden son has addressed his father&#039;s debate performance and the pardon he received after felony convictions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss)
+
+---
+
+### 8. Yemen’s government forces attack Houthis amid renewed shelling of Marib
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss)
+
+---
+
+### 9. The influencers taking on far-right leader Nigel Farage
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ How we tracked down "The Spider" who was once one of the most-feared men in Syri
 The UK media has been accused of giving far-right leader Nigel Farage an easy ride
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss)
-
----
-
-### 8. Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss)
-
----
-
-### 9. British Columbia issues evacuation orders ahead of fast-moving wildfires
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss)
 
 ---
 
