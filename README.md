@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 08:42:19
+**Last Update:** 2026-08-08 09:18:51
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218707">https://news.ycombinator.com/item?id=49218707</a></p>
-<p>Points: 28</p>
-<p># Comments: 11</p>
+<p>Points: 36</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 120</p>
-<p># Comments: 15</p>
+<p>Points: 147</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 188</p>
-<p># Comments: 85</p>
+<p>Points: 220</p>
+<p># Comments: 95</p>
 
 🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 
@@ -97,42 +97,42 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. Norway Football Federation calls for FIFA president to resign
+### 7. Hundreds camp on sweltering Rome street amid tussle over squatted building
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Norway’s football federation has called on Gianni Infantino to resign.
+After a fire broke out, the building was cleared in what activists say was a politically motivated move.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss)
 
 ---
 
-### 8. Armenia puts Church leader on trial for allegedly being a Russian spy
+### 8. Bangladesh say Shakib will not play cricket again after Hasina event
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.
+Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss)
 
 ---
 
-### 9. ‘I’ve never been counted’: DR Congo’s first census in 42 years
+### 9. Violence is driving Palestinian Christians out of their Holy Land
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For many Congolese, the census is about identity, recognition and finally being recorded by the state.
+Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss)
 
 ---
 
