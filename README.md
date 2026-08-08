@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 16:34:32
+**Last Update:** 2026-08-08 16:53:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference">https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49221089">https://news.ycombinator.com/item?id=49221089</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+<p>Points: 36</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://simonwillison.net/2026/Aug/7/openai-timeline/">https://simonwillison.net/2026/Aug/7/openai-timeline/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220609">https://news.ycombinator.com/item?id=49220609</a></p>
-<p>Points: 53</p>
-<p># Comments: 76</p>
+<p>Points: 67</p>
+<p># Comments: 82</p>
 
 🔗 **Read more:** [https://simonwillison.net/2026/Aug/7/openai-timeline/](https://simonwillison.net/2026/Aug/7/openai-timeline/)
 
 ---
 
-### 3. Apple Introduces Leasing Program for iPhones and Other Devices
+### 3. New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220390">https://news.ycombinator.com/item?id=49220390</a></p>
-<p>Points: 17</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49220350">https://news.ycombinator.com/item?id=49220350</a></p>
+<p>Points: 124</p>
+<p># Comments: 118</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html](https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html)
+🔗 **Read more:** [https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html)
 
 ---
 
@@ -71,7 +71,7 @@ Counter-terror police investigating the ex-MP's death say they are looking into 
 
 ---
 
-### 5. Victims urged to come forward as police accused of 'failures' over murderer and rapist
+### 5. Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist
 
 **Source:** BBC
 
