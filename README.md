@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-08 07:18:20
+**Last Update:** 2026-08-08 07:46:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. NASA to keep its 48-year-old Voyager 2 probe running for yet another year
+### 1. Mythos social engineering AISI INC-2026-07-28-01
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3">https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218707">https://news.ycombinator.com/item?id=49218707</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3](https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3)
+
+---
+
+### 2. NASA to keep its 48-year-old Voyager 2 probe running for yet another year
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49218179">https://news.ycombinator.com/item?id=49218179</a></p>
-<p>Points: 68</p>
-<p># Comments: 10</p>
+<p>Points: 78</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
 
 ---
 
-### 2. The Nixpkgs core team has disbanded
+### 3. The Nixpkgs core team has disbanded
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217993">https://news.ycombinator.com/item?id=49217993</a></p>
-<p>Points: 155</p>
-<p># Comments: 63</p>
+<p>Points: 168</p>
+<p># Comments: 70</p>
 
 🔗 **Read more:** [https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-
----
-
-### 3. Show HN: Modern C++ Build Tools for Module Feature
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Anyone like C++'s module features? Feel free to try MCPP and talk with me.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49217761">https://news.ycombinator.com/item?id=49217761</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/mcpp-community/mcpp](https://github.com/mcpp-community/mcpp)
 
 ---
 
@@ -98,7 +97,20 @@ Gianni Infantino's alleged lover was given a severance payment over the affair b
 
 ---
 
-### 7. US Senate passes Russia sanctions that could hurt India and China
+### 7. Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss)
+
+---
+
+### 8. US Senate passes Russia sanctions that could hurt India and China
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ The US Senate approved its strongest move against Russia under Trump.
 
 ---
 
-### 8. Submerged Indonesian village re-emerges as drought lowers water levels
+### 9. Submerged Indonesian village re-emerges as drought lowers water levels
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ The US Senate approved its strongest move against Russia under Trump.
 Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss)
-
----
-
-### 9. US courts clear way for deportations of South Sudan, Myanmar nationals
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss)
 
 ---
 
