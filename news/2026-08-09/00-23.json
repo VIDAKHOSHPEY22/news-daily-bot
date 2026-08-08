@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T00:23:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+            "description": "<p>Article URL: <a href=\"https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\">https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224294\">https://news.ycombinator.com/item?id=49224294</a></p>\n<p>Points: 275</p>\n<p># Comments: 129</p>",
+            "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+            "published": "Sat, 08 Aug 2026 18:09:31 +0000",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TinySol, a tiny solitaire game for DOS",
+            "description": "<p>Article URL: <a href=\"https://classicbits.net/coding-and-software/my-software/monosol/\">https://classicbits.net/coding-and-software/my-software/monosol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49224020\">https://news.ycombinator.com/item?id=49224020</a></p>\n<p>Points: 21</p>\n<p># Comments: 4</p>",
+            "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+            "published": "Sat, 08 Aug 2026 17:42:40 +0000",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+            "description": "<p>Article URL: <a href=\"https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country\">https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223845\">https://news.ycombinator.com/item?id=49223845</a></p>\n<p>Points: 112</p>\n<p># Comments: 36</p>",
+            "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+            "published": "Sat, 08 Aug 2026 17:27:52 +0000",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
+            "description": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.",
+            "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 11:55:30 GMT",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+            "description": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 06:16:44 GMT",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chasing a ghost: How BBC tracked a fugitive spy chief after months-long hunt",
+            "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Aug 2026 23:23:12 GMT",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What are the challenges facing the Mecca agreement?",
+            "description": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 20:25:43 +0000",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+            "description": "At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 19:13:03 +0000",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+            "description": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
+            "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+            "published": "Sat, 08 Aug 2026 19:00:43 +0000",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T00:23:35+03:30"
+        }
+    ]
+}
