@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T15:07:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CSS: The bomb inside your inbox",
+            "description": "<p>Article URL: <a href=\"https://portswigger.net/research/css-the-bomb-inside-your-inbox\">https://portswigger.net/research/css-the-bomb-inside-your-inbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230066\">https://news.ycombinator.com/item?id=49230066</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+            "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+            "published": "Sun, 09 Aug 2026 10:17:52 +0000",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+            "description": "<p>Article URL: <a href=\"https://halfhill.com/byte/1998-12_alpha.html\">https://halfhill.com/byte/1998-12_alpha.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230022\">https://news.ycombinator.com/item?id=49230022</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://halfhill.com/byte/1998-12_alpha.html",
+            "published": "Sun, 09 Aug 2026 10:06:37 +0000",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/\">https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229412\">https://news.ycombinator.com/item?id=49229412</a></p>\n<p>Points: 36</p>\n<p># Comments: 12</p>",
+            "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+            "published": "Sun, 09 Aug 2026 08:00:51 +0000",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 10:02:52 GMT",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to embark on cost of living tour through the UK",
+            "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+            "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:10:50 GMT",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
+            "description": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:13:35 GMT",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel rejects Trump’s 15-point plan for Gaza",
+            "description": "This is a breaking news story.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 11:31:18 +0000",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+            "description": "President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa&#039;s port.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 10:55:06 +0000",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
+            "description": "Yemeni army warns Houthis after attacks heighten escalation risk",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 10:45:57 +0000",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T15:07:21+03:30"
+        }
+    ]
+}
