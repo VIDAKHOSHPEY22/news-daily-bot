@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 19:09:14
+**Last Update:** 2026-08-09 19:23:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. John C. Lilly on solid state intelligence and the elimination of man (1978)
+### 1. Silicon Valley misreads science fiction and undermines democracy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/">https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232221">https://news.ycombinator.com/item?id=49232221</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/](https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/)
+
+---
+
+### 2. Tom Stanton's supersonic trebuchet breaks sound barrier with gravity alone
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.techeblog.com/tom-stanton-supersonic-trebuchet/">https://www.techeblog.com/tom-stanton-supersonic-trebuchet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232110">https://news.ycombinator.com/item?id=49232110</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.techeblog.com/tom-stanton-supersonic-trebuchet/](https://www.techeblog.com/tom-stanton-supersonic-trebuchet/)
+
+---
+
+### 3. John C. Lilly on solid state intelligence and the elimination of man (1978)
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://kibotronics.net/unlisted/lilly-machines/">https://kibotronics.net/unlisted/lilly-machines/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231397">https://news.ycombinator.com/item?id=49231397</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://kibotronics.net/unlisted/lilly-machines/](https://kibotronics.net/unlisted/lilly-machines/)
-
----
-
-### 2. Mea Culpa – Dark Hours
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231154">https://news.ycombinator.com/item?id=49231154</a></p>
-<p>Points: 189</p>
-<p># Comments: 76</p>
-
-🔗 **Read more:** [https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
-
----
-
-### 3. Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/rochus-keller/OberonSystem/tree/op2-rv32">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230891">https://news.ycombinator.com/item?id=49230891</a></p>
-<p>Points: 40</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://github.com/rochus-keller/OberonSystem/tree/op2-rv32](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
 
 ---
 
