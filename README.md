@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 01:24:30
+**Last Update:** 2026-08-10 02:09:27
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Is it all just vapourware?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware">https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235859">https://news.ycombinator.com/item?id=49235859</a></p>
-<p>Points: 48</p>
-<p># Comments: 47</p>
-
-🔗 **Read more:** [https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
-
----
-
-### 2. Tuxedo No. 2 – Cocktail recipes
+### 1. Tuxedo No. 2 – Cocktail recipes
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://tuxedono2.com">https://tuxedono2.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235697">https://news.ycombinator.com/item?id=49235697</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://tuxedono2.com](https://tuxedono2.com)
 
 ---
 
-### 3. New Zealand lost its music media, and what we're building to replace it
+### 2. New Zealand lost its music media, and what we're building to replace it
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235641">https://news.ycombinator.com/item?id=49235641</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
+<p>Points: 28</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
+
+---
+
+### 3. The climate benefits of retiring an operational combustion engine vehicle
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.adv5441">https://www.science.org/doi/10.1126/science.adv5441</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235572">https://news.ycombinator.com/item?id=49235572</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.science.org/doi/10.1126/science.adv5441](https://www.science.org/doi/10.1126/science.adv5441)
 
 ---
 
@@ -71,7 +71,20 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 5. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 5. How Kinahan's hearing unfolded inside the courtroom in Dublin
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 Israel's PM says its military will not pull out from Gaza until Hamas is "genuinely" disarmed.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Ancient Roman shipwreck discovered off Sicily coast
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Italy's culture minister says it is one of the most important underwater archaeological finds in years.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss)
 
 ---
 
