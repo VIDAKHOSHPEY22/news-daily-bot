@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T14:12:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/\">https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229412\">https://news.ycombinator.com/item?id=49229412</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+            "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+            "published": "Sun, 09 Aug 2026 08:00:51 +0000",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There Are Magic Hexagons of Every Order",
+            "description": "<p>Article URL: <a href=\"https://gukov.dev/math/2026/08/02/new-magic-hexagons.html\">https://gukov.dev/math/2026/08/02/new-magic-hexagons.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229174\">https://news.ycombinator.com/item?id=49229174</a></p>\n<p>Points: 31</p>\n<p># Comments: 3</p>",
+            "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+            "published": "Sun, 09 Aug 2026 07:19:58 +0000",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+            "description": "<p>Article URL: <a href=\"https://github.com/jmarshall23/msword\">https://github.com/jmarshall23/msword</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228663\">https://news.ycombinator.com/item?id=49228663</a></p>\n<p>Points: 80</p>\n<p># Comments: 29</p>",
+            "url": "https://github.com/jmarshall23/msword",
+            "published": "Sun, 09 Aug 2026 05:23:41 +0000",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 10:02:52 GMT",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to embark on cost of living tour through the UK",
+            "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+            "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:10:50 GMT",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
+            "description": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:13:35 GMT",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup",
+            "description": "The two North African nations become the first teams from the continent to qualify for next year&#039;s World Cup in Brazil.",
+            "url": "https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 10:15:10 +0000",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+            "description": "The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 10:02:59 +0000",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "It won’t be Trump who kills the ICC",
+            "description": "It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 09:05:47 +0000",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T14:12:36+03:30"
+        }
+    ]
+}
