@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 15:07:21
+**Last Update:** 2026-08-09 15:21:06
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://portswigger.net/research/css-the-bomb-inside-your-inbox">https://portswigger.net/research/css-the-bomb-inside-your-inbox</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230066">https://news.ycombinator.com/item?id=49230066</a></p>
-<p>Points: 18</p>
-<p># Comments: 1</p>
+<p>Points: 26</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://portswigger.net/research/css-the-bomb-inside-your-inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://halfhill.com/byte/1998-12_alpha.html">https://halfhill.com/byte/1998-12_alpha.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230022">https://news.ycombinator.com/item?id=49230022</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://halfhill.com/byte/1998-12_alpha.html](https://halfhill.com/byte/1998-12_alpha.html)
 
 ---
 
-### 3. Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost
+### 3. Show HN: Airy – Free, fast, and simple voice content creation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/">https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229412">https://news.ycombinator.com/item?id=49229412</a></p>
-<p>Points: 36</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://airy.so">https://airy.so</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229848">https://news.ycombinator.com/item?id=49229848</a></p>
+<p>Points: 4</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
+🔗 **Read more:** [https://airy.so](https://airy.so)
 
 ---
 
@@ -97,7 +97,20 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Israel rejects Trump’s 15-point plan for Gaza
+### 7. Hundreds forced onto Rome streets amid crackdown on squatted building
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Around 300 residents camp on Rome streets amid crackdown on squatted buildings.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss)
+
+---
+
+### 8. Israel rejects Trump’s 15-point plan for Gaza
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ This is a breaking news story.
 
 ---
 
-### 8. Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa
+### 9. Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ This is a breaking news story.
 President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa&#039;s port.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss)
-
----
-
-### 9. Yemeni army warns Houthis after attacks heighten escalation risk
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Yemeni army warns Houthis after attacks heighten escalation risk
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss)
 
 ---
 
