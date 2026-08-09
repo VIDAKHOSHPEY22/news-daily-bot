@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 21:08:17
+**Last Update:** 2026-08-09 21:23:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Banksy works cost public almost £150k
+### 1. Ask HN: What are you working on? (August 2026)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>What are you working on?  What have you been curious about lately?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49233423">https://news.ycombinator.com/item?id=49233423</a></p>
+<p>Points: 10</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49233423](https://news.ycombinator.com/item?id=49233423)
+
+---
+
+### 2. Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://frequal.com/aptera/ProductionImminent.html">https://frequal.com/aptera/ProductionImminent.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49233394">https://news.ycombinator.com/item?id=49233394</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://frequal.com/aptera/ProductionImminent.html](https://frequal.com/aptera/ProductionImminent.html)
+
+---
+
+### 3. Banksy works cost public almost £150k
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cx2vnny7j5zo">https://www.bbc.co.uk/news/articles/cx2vnny7j5zo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232942">https://news.ycombinator.com/item?id=49232942</a></p>
-<p>Points: 11</p>
-<p># Comments: 18</p>
+<p>Points: 14</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2vnny7j5zo](https://www.bbc.co.uk/news/articles/cx2vnny7j5zo)
-
----
-
-### 2. FCC moves to ban Lidar-equipped foreign drones from US
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows">https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232857">https://news.ycombinator.com/item?id=49232857</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows)
-
----
-
-### 3. Every fast write moves work somewhere else
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/">https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232410">https://news.ycombinator.com/item?id=49232410</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
 
 ---
 
