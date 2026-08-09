@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T18:12:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mea Culpa – Dark Hours",
+            "description": "<p>Article URL: <a href=\"https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html\">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231154\">https://news.ycombinator.com/item?id=49231154</a></p>\n<p>Points: 94</p>\n<p># Comments: 36</p>",
+            "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+            "published": "Sun, 09 Aug 2026 13:20:43 +0000",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+            "description": "<p>Article URL: <a href=\"https://github.com/rochus-keller/OberonSystem/tree/op2-rv32\">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230891\">https://news.ycombinator.com/item?id=49230891</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+            "published": "Sun, 09 Aug 2026 12:43:16 +0000",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Wall Street Is Ignoring Big Tech's Debt",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=NufJ7g63KSY\">https://www.youtube.com/watch?v=NufJ7g63KSY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230630\">https://news.ycombinator.com/item?id=49230630</a></p>\n<p>Points: 34</p>\n<p># Comments: 12</p>",
+            "url": "https://www.youtube.com/watch?v=NufJ7g63KSY",
+            "published": "Sun, 09 Aug 2026 12:01:39 +0000",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+            "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 14:18:10 GMT",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 12:39:18 GMT",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More areas of UK likely to move into drought as fifth heatwave builds",
+            "description": "With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.",
+            "url": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 03:10:56 GMT",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Mecca pact is not just another regional alliance",
+            "description": "It could set the stage for a profound transformation of regional security in the Gulf.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 14:23:13 +0000",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syria says it reached deal with Moscow on future of Russian bases",
+            "description": "Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 14:20:51 +0000",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump targets birthright citizenship again",
+            "description": "US President Donald Trump has signed two new executive orders targeting birthright citizenship.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 14:20:31 +0000",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T18:12:03+03:30"
+        }
+    ]
+}
