@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 16:57:20
+**Last Update:** 2026-08-09 17:34:04
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Amazon circumvents Gilroy community vote for AI data center
+### 1. Mea Culpa – Dark Hours
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231154">https://news.ycombinator.com/item?id=49231154</a></p>
+<p>Points: 19</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
+
+---
+
+### 2. Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html">https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231022">https://news.ycombinator.com/item?id=49231022</a></p>
+<p>Points: 33</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html](https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html)
+
+---
+
+### 3. Amazon circumvents Gilroy community vote for AI data center
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window">https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230954">https://news.ycombinator.com/item?id=49230954</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 38</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
-
----
-
-### 2. Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model">https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230550">https://news.ycombinator.com/item?id=49230550</a></p>
-<p>Points: 9</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
-
----
-
-### 3. Reviving a four year old reMarkable 2
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html">https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230514">https://news.ycombinator.com/item?id=49230514</a></p>
-<p>Points: 25</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
 
 ---
 
@@ -97,42 +97,42 @@ With no significant rain forecast in the coming week, more areas of England coul
 
 ---
 
-### 7. Israel rejects Donald Trump’s Gaza Board of Peace plan
+### 7. Why does Iran defeat the empires trying to conquer it?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.
+On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss)
 
 ---
 
-### 8. La Liga: Five key talking points heading into the 2026-2027 season
+### 8. Barzani says Iraqi Kurdistan wants peace as regional tensions rise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jose Mourinho is back at Madrid, and Barcelona eye third straight title while new rule changes aim to cut time-wasting.
+Barzani says Iraqi Kurdistan wants peace as regional tensions rise
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss)
 
 ---
 
-### 9. Nigeria mass weddings ease financial burden for couples
+### 9. ‘The wealthy poor’: Soaring food prices hurt Iranian families
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.
+Iranians from all walks of life struggle under the weight of rising inflation and war pressure.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss](https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss)
 
 ---
 
