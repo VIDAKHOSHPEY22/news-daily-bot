@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 00:12:16
+**Last Update:** 2026-08-10 00:27:46
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium">https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235323">https://news.ycombinator.com/item?id=49235323</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 25</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
 
 ---
 
-### 2. Ransomware gangs skip the CEO, head straight for the 40-something IT manager
+### 2. Deletes all instances of Microsoft's GDID and prevents minting of new ones
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499">https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234724">https://news.ycombinator.com/item?id=49234724</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/yegors/deGDID">https://github.com/yegors/deGDID</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235242">https://news.ycombinator.com/item?id=49235242</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
+🔗 **Read more:** [https://github.com/yegors/deGDID](https://github.com/yegors/deGDID)
 
 ---
 
-### 3. How I use LLMs to learn complex topics
+### 3. The tragedy of the commons, AI edition
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234675">https://news.ycombinator.com/item?id=49234675</a></p>
-<p>Points: 96</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition">https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235011">https://news.ycombinator.com/item?id=49235011</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+🔗 **Read more:** [https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
 
 ---
 
@@ -133,6 +133,45 @@ Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, ec
 Kinshasa hands over 15 prisoners to powerful rebel alliance.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss)
+
+---
+
+### 10. Wildfire Wrights Spring, Klamath, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+
+---
+
+### 11. Tropical Cyclone Chan-Hom
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+
+---
+
+### 12. Wildfire BUZZARD, Kern, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
