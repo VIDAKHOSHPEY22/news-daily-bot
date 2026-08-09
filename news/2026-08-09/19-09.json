@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T19:09:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+            "description": "<p>Article URL: <a href=\"https://kibotronics.net/unlisted/lilly-machines/\">https://kibotronics.net/unlisted/lilly-machines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231397\">https://news.ycombinator.com/item?id=49231397</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+            "url": "https://kibotronics.net/unlisted/lilly-machines/",
+            "published": "Sun, 09 Aug 2026 13:47:36 +0000",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mea Culpa – Dark Hours",
+            "description": "<p>Article URL: <a href=\"https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html\">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231154\">https://news.ycombinator.com/item?id=49231154</a></p>\n<p>Points: 189</p>\n<p># Comments: 76</p>",
+            "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+            "published": "Sun, 09 Aug 2026 13:20:43 +0000",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+            "description": "<p>Article URL: <a href=\"https://github.com/rochus-keller/OberonSystem/tree/op2-rv32\">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230891\">https://news.ycombinator.com/item?id=49230891</a></p>\n<p>Points: 40</p>\n<p># Comments: 11</p>",
+            "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+            "published": "Sun, 09 Aug 2026 12:43:16 +0000",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+            "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 14:18:10 GMT",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 12:39:18 GMT",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More areas of UK likely to move into drought as fifth heatwave builds",
+            "description": "With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.",
+            "url": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 03:10:56 GMT",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Concerns mount over integrity of Israel’s upcoming October elections",
+            "description": "Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 15:20:18 +0000",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza’s children still struggling with hunger as another famine threatens",
+            "description": "Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.",
+            "url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 14:47:29 +0000",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza engineer builds animal shelters out of empty cans",
+            "description": "Gaza engineer builds animal shelters out of empty cans",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 14:28:34 +0000",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T19:09:14+03:30"
+        }
+    ]
+}

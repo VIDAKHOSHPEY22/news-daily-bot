@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 18:27:45
+**Last Update:** 2026-08-09 19:09:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. An Israeli professor lost a prestigious US job offer after speaking out on Gaza
+### 1. John C. Lilly on solid state intelligence and the elimination of man (1978)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota">https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231419">https://news.ycombinator.com/item?id=49231419</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://kibotronics.net/unlisted/lilly-machines/">https://kibotronics.net/unlisted/lilly-machines/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231397">https://news.ycombinator.com/item?id=49231397</a></p>
+<p>Points: 18</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota](https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota)
+🔗 **Read more:** [https://kibotronics.net/unlisted/lilly-machines/](https://kibotronics.net/unlisted/lilly-machines/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231154">https://news.ycombinator.com/item?id=49231154</a></p>
-<p>Points: 124</p>
-<p># Comments: 53</p>
+<p>Points: 189</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/rochus-keller/OberonSystem/tree/op2-rv32">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230891">https://news.ycombinator.com/item?id=49230891</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Points: 40</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://github.com/rochus-keller/OberonSystem/tree/op2-rv32](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Israel's PM says its military will not pull-out from Gaza until Hamas is "genuinely" disarmed.
+Israel's PM says its military will not pull out from Gaza until Hamas is "genuinely" disarmed.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ With no significant rain forecast in the coming week, more areas of England coul
 
 ---
 
-### 7. Gaza engineer builds animal shelters out of empty cans
+### 7. Concerns mount over integrity of Israel’s upcoming October elections
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Poll shows 70 percent of Jewish Israelis fear election integrity risks as Netanyahu government faces mounting criticism.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/concerns-mount-over-integrity-of-israels-upcoming-october-elections?traffic_source=rss)
+
+---
+
+### 8. Gaza’s children still struggling with hunger as another famine threatens
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss](https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss)
+
+---
+
+### 9. Gaza engineer builds animal shelters out of empty cans
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ With no significant rain forecast in the coming week, more areas of England coul
 Gaza engineer builds animal shelters out of empty cans
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss)
-
----
-
-### 8. What now as Israel rejects Trump’s 15-point plan for Gaza?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss)
-
----
-
-### 9. The Mecca pact is not just another regional alliance
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-It could set the stage for a profound transformation of regional security in the Gulf.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss)
 
 ---
 
