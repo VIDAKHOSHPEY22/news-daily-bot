@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 15:21:06
+**Last Update:** 2026-08-09 16:36:58
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. CSS: The bomb inside your inbox
+### 1. Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://portswigger.net/research/css-the-bomb-inside-your-inbox">https://portswigger.net/research/css-the-bomb-inside-your-inbox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230066">https://news.ycombinator.com/item?id=49230066</a></p>
-<p>Points: 26</p>
+<p>Article URL: <a href="https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model">https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230550">https://news.ycombinator.com/item?id=49230550</a></p>
+<p>Points: 6</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://portswigger.net/research/css-the-bomb-inside-your-inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
+🔗 **Read more:** [https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
 
 ---
 
-### 2. The Alpha 21264 CPU: NT's Greatest RISC (1998)
+### 2. Reviving a four year old reMarkable 2
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://halfhill.com/byte/1998-12_alpha.html">https://halfhill.com/byte/1998-12_alpha.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230022">https://news.ycombinator.com/item?id=49230022</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html">https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230514">https://news.ycombinator.com/item?id=49230514</a></p>
+<p>Points: 17</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://halfhill.com/byte/1998-12_alpha.html](https://halfhill.com/byte/1998-12_alpha.html)
+🔗 **Read more:** [https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
 
 ---
 
-### 3. Show HN: Airy – Free, fast, and simple voice content creation
+### 3. Everything You Do Is Being Recorded
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://airy.so">https://airy.so</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229848">https://news.ycombinator.com/item?id=49229848</a></p>
-<p>Points: 4</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/">https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230477">https://news.ycombinator.com/item?id=49230477</a></p>
+<p>Points: 46</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://airy.so](https://airy.so)
+🔗 **Read more:** [https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 
 ---
 
-### 4. Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation
+### 4. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Israel's PM says its military will not pull-out from Gaza until Hamas is "genuinely" disarmed.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 5. Andy Burnham to embark on cost of living tour through the UK
+### 6. Andy Burnham to embark on cost of living tour through the UK
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ No 10 says the prime minister's plans will "give people some room to breathe", b
 
 ---
 
-### 6. Killed a month after his wedding - why PC Andrew Harper's story touched so many
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Hundreds forced onto Rome streets amid crackdown on squatted building
+### 7. Israel rejects Donald Trump’s Gaza Board of Peace plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Around 300 residents camp on Rome streets amid crackdown on squatted buildings.
+Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-forced-onto-rome-streets-amid-crackdown-on-squatted-building?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss)
 
 ---
 
-### 8. Israel rejects Trump’s 15-point plan for Gaza
+### 8. La Liga: Five key talking points heading into the 2026-2027 season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+Jose Mourinho is back at Madrid, and Barcelona eye third straight title while new rule changes aim to cut time-wasting.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss)
 
 ---
 
-### 9. Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa
+### 9. Nigeria mass weddings ease financial burden for couples
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Volodymyr Zelenskyy accuses Moscow of harming global food security amid a plate of attacks on Odesa&#039;s port.
+For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T16:36:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+            "description": "<p>Article URL: <a href=\"https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model\">https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230550\">https://news.ycombinator.com/item?id=49230550</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+            "published": "Sun, 09 Aug 2026 11:46:28 +0000",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reviving a four year old reMarkable 2",
+            "description": "<p>Article URL: <a href=\"https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html\">https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230514\">https://news.ycombinator.com/item?id=49230514</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+            "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+            "published": "Sun, 09 Aug 2026 11:39:25 +0000",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Everything You Do Is Being Recorded",
+            "description": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/\">https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230477\">https://news.ycombinator.com/item?id=49230477</a></p>\n<p>Points: 46</p>\n<p># Comments: 23</p>",
+            "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+            "published": "Sun, 09 Aug 2026 11:30:48 +0000",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+            "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 12:12:10 GMT",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 12:39:18 GMT",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to embark on cost of living tour through the UK",
+            "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+            "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:10:50 GMT",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
+            "description": "Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 12:51:34 +0000",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "La Liga: Five key talking points heading into the 2026-2027 season",
+            "description": "Jose Mourinho is back at Madrid, and Barcelona eye third straight title while new rule changes aim to cut time-wasting.",
+            "url": "https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 12:42:48 +0000",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria mass weddings ease financial burden for couples",
+            "description": "For days, Nigeria’s government has been organising mass weddings to help low-income families overcome marriage cost.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nigeria-mass-weddings-ease-financial-burden-for-couples?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 12:07:51 +0000",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T16:36:58+03:30"
+        }
+    ]
+}
