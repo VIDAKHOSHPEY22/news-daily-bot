@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 12:24:16
+**Last Update:** 2026-08-09 12:37:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Andy Burnham to embark on cost of living tour through the UK
+### 4. Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Irish Prison Service bought a bulletproof and bomb-proof van to transport the 49-year-old to court after his extradition from Dubai.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Andy Burnham to embark on cost of living tour through the UK
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 No 10 says the prime minister's plans will "give people some room to breathe", but opposition figures accuse him of "hypocrisy".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Fifa criticises campaign to oust president Infantino
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Fifa strongly criticises what it calls a "concerted and ongoing effort" to "undermine" the organisation and its president Gianni Infantino.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss)
 
 ---
 
