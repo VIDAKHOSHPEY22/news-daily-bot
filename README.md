@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 16:36:58
+**Last Update:** 2026-08-09 16:57:20
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space
+### 1. Amazon circumvents Gilroy community vote for AI data center
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window">https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230954">https://news.ycombinator.com/item?id=49230954</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window](https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window)
+
+---
+
+### 2. Show HN: DeepSeek-V4 Latent Reasoning – moving "thinking" into latent space
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model">https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230550">https://news.ycombinator.com/item?id=49230550</a></p>
-<p>Points: 6</p>
-<p># Comments: 3</p>
+<p>Points: 9</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model](https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model)
 
 ---
 
-### 2. Reviving a four year old reMarkable 2
+### 3. Reviving a four year old reMarkable 2
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html">https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230514">https://news.ycombinator.com/item?id=49230514</a></p>
-<p>Points: 17</p>
-<p># Comments: 7</p>
+<p>Points: 25</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
-
----
-
-### 3. Everything You Do Is Being Recorded
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/">https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230477">https://news.ycombinator.com/item?id=49230477</a></p>
-<p>Points: 46</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/](https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/)
 
 ---
 
@@ -84,16 +84,16 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 6. Andy Burnham to embark on cost of living tour through the UK
+### 6. More areas of UK likely to move into drought as fifth heatwave builds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-No 10 says the prime minister's plans will "give people some room to breathe", but opposition figures accuse him of "hypocrisy".
+With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss)
 
 ---
 
