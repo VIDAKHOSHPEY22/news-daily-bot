@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 03:20:00
+**Last Update:** 2026-08-09 05:50:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. My server is a phone now
+### 1. The AI Apocalypse Is Here
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seg6.space/posts/phone-server/">https://seg6.space/posts/phone-server/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226636">https://news.ycombinator.com/item?id=49226636</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227521">https://news.ycombinator.com/item?id=49227521</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://seg6.space/posts/phone-server/](https://seg6.space/posts/phone-server/)
+🔗 **Read more:** [https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 
 ---
 
-### 2. Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack
+### 2. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/">https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225918">https://news.ycombinator.com/item?id=49225918</a></p>
-<p>Points: 64</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://os8088.com/">https://os8088.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226923">https://news.ycombinator.com/item?id=49226923</a></p>
+<p>Points: 35</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/](https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/)
+🔗 **Read more:** [https://os8088.com/](https://os8088.com/)
 
 ---
 
-### 3. The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]
+### 3. Dithered QR Codes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf">https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49225676">https://news.ycombinator.com/item?id=49225676</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.andrewt.net/dithered-qr-codes/wtf/">https://www.andrewt.net/dithered-qr-codes/wtf/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226742">https://news.ycombinator.com/item?id=49226742</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf](https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf)
+🔗 **Read more:** [https://www.andrewt.net/dithered-qr-codes/wtf/](https://www.andrewt.net/dithered-qr-codes/wtf/)
 
 ---
 
@@ -97,42 +97,42 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Vance says US ‘destroyed’ Iran’s nuclear programme
+### 7. Israeli settler attacks rise as West Bank residents lose land
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.
+Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss)
 
 ---
 
-### 8. Four killed in helicopter crash in Brazil’s Rio de Janeiro
+### 8. Hungary nominates former Supreme Court chief Andras Baka for presidency
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three Colombian tourists are among the victims of Saturday&#039;s crash on mountainside forest of Tijuca National Park.
+Andras Baka, a strong advocate for judicial independence, becomes governing party&#039;s pick for Hungary&#039;s next president.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss)
 
 ---
 
-### 9. Crews recover 19 bodies from rubble of destroyed Gaza building
+### 9. Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by lack of heavy machinery.
+IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss](https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss)
 
 ---
 

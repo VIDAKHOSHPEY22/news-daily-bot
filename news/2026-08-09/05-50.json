@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T05:50:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI Apocalypse Is Here",
+            "description": "<p>Article URL: <a href=\"https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/\">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227521\">https://news.ycombinator.com/item?id=49227521</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+            "published": "Sun, 09 Aug 2026 01:28:36 +0000",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+            "description": "<p>Article URL: <a href=\"https://os8088.com/\">https://os8088.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226923\">https://news.ycombinator.com/item?id=49226923</a></p>\n<p>Points: 35</p>\n<p># Comments: 10</p>",
+            "url": "https://os8088.com/",
+            "published": "Sat, 08 Aug 2026 23:37:27 +0000",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dithered QR Codes",
+            "description": "<p>Article URL: <a href=\"https://www.andrewt.net/dithered-qr-codes/wtf/\">https://www.andrewt.net/dithered-qr-codes/wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226742\">https://news.ycombinator.com/item?id=49226742</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+            "published": "Sat, 08 Aug 2026 23:05:24 +0000",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to embark on cost of living tour through the UK",
+            "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+            "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:10:50 GMT",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa criticises campaign to oust president Infantino",
+            "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 22:06:44 GMT",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+            "description": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:13:35 GMT",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settler attacks rise as West Bank residents lose land",
+            "description": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 01:43:04 +0000",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
+            "description": "Andras Baka, a strong advocate for judicial independence, becomes governing party&#039;s pick for Hungary&#039;s next president.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 00:41:01 +0000",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+            "description": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T05:50:19+03:30"
+        }
+    ]
+}
