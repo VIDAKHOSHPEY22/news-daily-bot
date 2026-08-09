@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 12:37:47
+**Last Update:** 2026-08-09 13:19:30
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Microsoft Word for Windows 1.1a, Native X64 Port
+### 1. There Are Magic Hexagons of Every Order
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gukov.dev/math/2026/08/02/new-magic-hexagons.html">https://gukov.dev/math/2026/08/02/new-magic-hexagons.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229174">https://news.ycombinator.com/item?id=49229174</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://gukov.dev/math/2026/08/02/new-magic-hexagons.html](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
+
+---
+
+### 2. Microsoft Word for Windows 1.1a, Native X64 Port
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jmarshall23/msword">https://github.com/jmarshall23/msword</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228663">https://news.ycombinator.com/item?id=49228663</a></p>
-<p>Points: 53</p>
-<p># Comments: 17</p>
+<p>Points: 65</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://github.com/jmarshall23/msword](https://github.com/jmarshall23/msword)
 
 ---
 
-### 2. The original URL for this prediction will no longer be available in 11 years (2011)
+### 3. The original URL for this prediction will no longer be available in 11 years (2011)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="http://longbets.org/601/">http://longbets.org/601/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228458">https://news.ycombinator.com/item?id=49228458</a></p>
-<p>Points: 133</p>
-<p># Comments: 48</p>
+<p>Points: 140</p>
+<p># Comments: 58</p>
 
 🔗 **Read more:** [http://longbets.org/601/](http://longbets.org/601/)
-
----
-
-### 3. Illinois just told every operating system to start reporting your kid's age
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://itsfoss.com/news/illinois-age-verification-bill/">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228350">https://news.ycombinator.com/item?id=49228350</a></p>
-<p>Points: 89</p>
-<p># Comments: 52</p>
-
-🔗 **Read more:** [https://itsfoss.com/news/illinois-age-verification-bill/](https://itsfoss.com/news/illinois-age-verification-bill/)
 
 ---
 
@@ -84,7 +84,7 @@ No 10 says the prime minister's plans will "give people some room to breathe", b
 
 ---
 
-### 6. Killed a month after his wedding - why PC Andrew Harper's death touched so many
+### 6. Killed a month after his wedding - why PC Andrew Harper's story touched so many
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Women’s Day in South Africa turns 70 with equality still out of reach
+### 7. It won’t be Trump who kills the ICC
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss)
+
+---
+
+### 8. Women’s Day in South Africa turns 70 with equality still out of reach
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The 1956 march transformed women’s rights and political power, but millions st
 
 ---
 
-### 8. Flight cancellations, evacuations as China braces for Typhoon Dolphin
+### 9. Flight cancellations, evacuations as China braces for Typhoon Dolphin
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ The 1956 march transformed women’s rights and political power, but millions st
 Over 1,600 flights cancelled as Typhoon Dolphin approaches China&#039;s eastern coast, with winds reaching 162km/h overnight.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss)
-
----
-
-### 9. Saudi Arabia says fire extinguished at Aramco facility in Jizan
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
-
----
-
-### 11. Tropical Cyclone Chan-Hom
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
-
----
-
-### 12. Wildfire BUZZARD, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
 
 ---
 
