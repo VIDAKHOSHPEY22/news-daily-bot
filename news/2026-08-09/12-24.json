@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T12:24:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+            "description": "<p>Article URL: <a href=\"https://github.com/jmarshall23/msword\">https://github.com/jmarshall23/msword</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228663\">https://news.ycombinator.com/item?id=49228663</a></p>\n<p>Points: 53</p>\n<p># Comments: 17</p>",
+            "url": "https://github.com/jmarshall23/msword",
+            "published": "Sun, 09 Aug 2026 05:23:41 +0000",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+            "description": "<p>Article URL: <a href=\"http://longbets.org/601/\">http://longbets.org/601/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228458\">https://news.ycombinator.com/item?id=49228458</a></p>\n<p>Points: 133</p>\n<p># Comments: 48</p>",
+            "url": "http://longbets.org/601/",
+            "published": "Sun, 09 Aug 2026 04:30:26 +0000",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Illinois just told every operating system to start reporting your kid's age",
+            "description": "<p>Article URL: <a href=\"https://itsfoss.com/news/illinois-age-verification-bill/\">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228350\">https://news.ycombinator.com/item?id=49228350</a></p>\n<p>Points: 89</p>\n<p># Comments: 52</p>",
+            "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+            "published": "Sun, 09 Aug 2026 04:03:59 +0000",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to embark on cost of living tour through the UK",
+            "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+            "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:10:50 GMT",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa criticises campaign to oust president Infantino",
+            "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 22:06:44 GMT",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+            "description": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:13:35 GMT",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Women’s Day in South Africa turns 70 with equality still out of reach",
+            "description": "The 1956 march transformed women’s rights and political power, but millions still cannot fully enjoy those gains.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/9/womens-day-in-south-africa-turns-70-with-equality-still-out-of-reach?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 08:37:39 +0000",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
+            "description": "Over 1,600 flights cancelled as Typhoon Dolphin approaches China&#039;s eastern coast, with winds reaching 162km/h overnight.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 08:37:37 +0000",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+            "description": "No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 07:58:00 +0000",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T12:24:16+03:30"
+        }
+    ]
+}
