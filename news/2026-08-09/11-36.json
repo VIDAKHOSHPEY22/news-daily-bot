@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T11:36:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lake Mead hits historic low water level as Colorado River struggles",
+            "description": "<p>Article URL: <a href=\"https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d\">https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229160\">https://news.ycombinator.com/item?id=49229160</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://apnews.com/article/colorado-river-lake-mead-record-low-fa402842e76ed624f71360f467b2579d",
+            "published": "Sun, 09 Aug 2026 07:18:03 +0000",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+            "description": "<p>Article URL: <a href=\"https://github.com/jmarshall23/msword\">https://github.com/jmarshall23/msword</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228663\">https://news.ycombinator.com/item?id=49228663</a></p>\n<p>Points: 41</p>\n<p># Comments: 15</p>",
+            "url": "https://github.com/jmarshall23/msword",
+            "published": "Sun, 09 Aug 2026 05:23:41 +0000",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+            "description": "<p>Article URL: <a href=\"http://longbets.org/601/\">http://longbets.org/601/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228458\">https://news.ycombinator.com/item?id=49228458</a></p>\n<p>Points: 116</p>\n<p># Comments: 38</p>",
+            "url": "http://longbets.org/601/",
+            "published": "Sun, 09 Aug 2026 04:30:26 +0000",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham to embark on cost of living tour through the UK",
+            "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+            "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:10:50 GMT",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa criticises campaign to oust president Infantino",
+            "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 22:06:44 GMT",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Killed a month after his wedding - why PC Andrew Harper's death touched so many",
+            "description": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:13:35 GMT",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World number one Sabalenka upset by Alexandrova at Canadian Open",
+            "description": "Ekaterina Alexandrov took down four-time Grand Slam singles champion Aryna Sabalenka in a three-set marathon in Toronto.",
+            "url": "https://www.aljazeera.com/sports/2026/8/9/world-number-one-sabalenka-upset-by-alexandrova-at-canadian-open?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 07:10:56 +0000",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel announces tender for 627 settler units in occupied West Bank",
+            "description": "New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 06:57:56 +0000",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Wildfire forces thousands of evacuations in Western Canada",
+            "description": "A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 06:10:08 +0000",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T11:36:28+03:30"
+        }
+    ]
+}
