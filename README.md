@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 00:27:46
+**Last Update:** 2026-08-10 01:10:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Poland now 6th-largest EU economy, ahead of Switzerland and Belgium
+### 1. Is it all just vapourware?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium">https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235323">https://news.ycombinator.com/item?id=49235323</a></p>
-<p>Points: 25</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware">https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235859">https://news.ycombinator.com/item?id=49235859</a></p>
+<p>Points: 40</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium](https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium)
+🔗 **Read more:** [https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware](https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware)
 
 ---
 
-### 2. Deletes all instances of Microsoft's GDID and prevents minting of new ones
+### 2. I've yet to see any"My AI went rogue and caused us to recognise a workers union
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/yegors/deGDID">https://github.com/yegors/deGDID</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235242">https://news.ycombinator.com/item?id=49235242</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://mastodon.neilzone.co.uk/@neil/117061512483182546">https://mastodon.neilzone.co.uk/@neil/117061512483182546</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235836">https://news.ycombinator.com/item?id=49235836</a></p>
+<p>Points: 35</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://github.com/yegors/deGDID](https://github.com/yegors/deGDID)
+🔗 **Read more:** [https://mastodon.neilzone.co.uk/@neil/117061512483182546](https://mastodon.neilzone.co.uk/@neil/117061512483182546)
 
 ---
 
-### 3. The tragedy of the commons, AI edition
+### 3. Tuxedo No. 2 – Cocktail recipes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition">https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235011">https://news.ycombinator.com/item?id=49235011</a></p>
+<p>Article URL: <a href="https://tuxedono2.com">https://tuxedono2.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235697">https://news.ycombinator.com/item?id=49235697</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition)
+🔗 **Read more:** [https://tuxedono2.com](https://tuxedono2.com)
 
 ---
 
-### 4. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 4. Suspected crime boss Daniel Kinahan appears in court after extradition
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Israel's PM says its military will not pull out from Gaza until Hamas is "genuin
 
 ---
 
-### 5. Ancient Roman shipwreck discovered off Sicily coast
+### 6. Ancient Roman shipwreck discovered off Sicily coast
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Italy's culture minister says it is one of the most important underwater archaeo
 
 ---
 
-### 6. How weight-loss medication is changing relationships with alcohol
+### 7. Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank.
+Espionage, sabotage, cyberattacks, and covert operations are a &#039;constant reality&#039;, says Germany&#039;s interior minister.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss)
 
 ---
 
-### 7. Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace
+### 8. Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 
 ---
 
-### 8. Israel is ‘trying to make Palestine disappear’: The Elders
+### 9. Israel is ‘trying to make Palestine disappear’: The Elders
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss)
-
----
-
-### 9. Can the Doha Framework end the conflict in eastern DRC?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Kinshasa hands over 15 prisoners to powerful rebel alliance.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss)
 
 ---
 
