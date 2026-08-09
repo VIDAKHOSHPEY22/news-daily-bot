@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 07:54:15
+**Last Update:** 2026-08-09 08:12:04
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228166">https://news.ycombinator.com/item?id=49228166</a></p>
-<p>Points: 19</p>
-<p># Comments: 1</p>
+<p>Points: 36</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c4gyrzn8p94o">https://www.bbc.com/news/articles/c4gyrzn8p94o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227686">https://news.ycombinator.com/item?id=49227686</a></p>
-<p>Points: 29</p>
-<p># Comments: 10</p>
+<p>Points: 32</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c4gyrzn8p94o](https://www.bbc.com/news/articles/c4gyrzn8p94o)
 
@@ -97,7 +97,33 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Helicopter crash kills pilot and crew member amid Utah wildfire battle
+### 7. Iran seeks way out of ‘neither war nor peace’ stalemate with US
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss)
+
+---
+
+### 8. Ghana’s cashew apples get a second life
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A fruit long left to rot could become a new source of income for Ghana’s cashew farmers.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/ghanas-cashew-apples-get-a-second-life?traffic_source=rss)
+
+---
+
+### 9. Helicopter crash kills pilot and crew member amid Utah wildfire battle
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The early release of two of his killers has brought a case which still resonates
 Utah wildfire suppression efforts continued, with containment standing at 24 percent.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss)
-
----
-
-### 8. Israeli settler attacks rise as West Bank residents lose land
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss)
-
----
-
-### 9. Hungary nominates former Supreme Court chief Andras Baka for presidency
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Andras Baka, a strong advocate for judicial independence, becomes governing party&#039;s pick for Hungary&#039;s next president.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss)
 
 ---
 
