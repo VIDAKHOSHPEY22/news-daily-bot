@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 09:34:32
+**Last Update:** 2026-08-09 10:37:50
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. "The original URL for this prediction will no longer be available in 11 years." (2011)
+### 1. Microsoft Word for Windows 1.1a, Native X64 Port
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://longbets.org/601/">https://longbets.org/601/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228458">https://news.ycombinator.com/item?id=49228458</a></p>
-<p>Points: 46</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://github.com/jmarshall23/msword">https://github.com/jmarshall23/msword</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228663">https://news.ycombinator.com/item?id=49228663</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://longbets.org/601/](https://longbets.org/601/)
+🔗 **Read more:** [https://github.com/jmarshall23/msword](https://github.com/jmarshall23/msword)
 
 ---
 
-### 2. Illinois Just Told Every Operating System to Start Reporting Your Kid's Age
+### 2. The original URL for this prediction will no longer be available in 11 years (2011)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://longbets.org/601/">http://longbets.org/601/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228458">https://news.ycombinator.com/item?id=49228458</a></p>
+<p>Points: 103</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [http://longbets.org/601/](http://longbets.org/601/)
+
+---
+
+### 3. Illinois just told every operating system to start reporting your kid's age
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://itsfoss.com/news/illinois-age-verification-bill/">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228350">https://news.ycombinator.com/item?id=49228350</a></p>
-<p>Points: 35</p>
-<p># Comments: 9</p>
+<p>Points: 55</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://itsfoss.com/news/illinois-age-verification-bill/](https://itsfoss.com/news/illinois-age-verification-bill/)
-
----
-
-### 3. Retraction: The App Store Rejection of the Week That Was a Correct Rejection
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228166">https://news.ycombinator.com/item?id=49228166</a></p>
-<p>Points: 82</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week)
 
 ---
 
@@ -97,7 +97,20 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Lionel Messi returns to Argentina after father Jorge’s death
+### 7. Wildfire forces thousands of evacuations in Western Canada
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss)
+
+---
+
+### 8. Lionel Messi returns to Argentina after father Jorge’s death
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Football star Lionel Messi returned to Argentina with his family on Saturday, a 
 
 ---
 
-### 8. Iran issues new demands as Pezeshkian seeks deal
+### 9. Iran issues new demands as Pezeshkian seeks deal
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Football star Lionel Messi returned to Argentina with his family on Saturday, a 
 Senior Iranian security official sets broader conditions for reopening Hormuz.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss)
-
----
-
-### 9. ‘Very painful’: Joe Biden’s cancer has spread, son Hunter says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Joe Biden’s son, Hunter Biden, says his father’s prostate cancer has “metastasised into his bones and further”.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss)
 
 ---
 
