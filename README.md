@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 20:15:50
+**Last Update:** 2026-08-09 20:30:56
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Every fast write moves work somewhere else
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/">https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232410">https://news.ycombinator.com/item?id=49232410</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
-
----
-
-### 2. Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://alexanderwanyoike.github.io/vibez/">https://alexanderwanyoike.github.io/vibez/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232369">https://news.ycombinator.com/item?id=49232369</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://alexanderwanyoike.github.io/vibez/](https://alexanderwanyoike.github.io/vibez/)
-
----
-
-### 3. Taxi drivers rarely die of Alzheimer's
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232253">https://news.ycombinator.com/item?id=49232253</a></p>
-<p>Points: 19</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
-
----
-
-### 4. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 1. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Israel's PM says its military will not pull out from Gaza until Hamas is "genuin
 
 ---
 
-### 5. Ancient Roman shipwreck discovered off Sicily coast
+### 2. Ancient Roman shipwreck discovered off Sicily coast
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Italy's culture minister says it is one of the most important underwater archaeo
 
 ---
 
-### 6. How weight-loss medication is changing relationships with alcohol
+### 3. How weight-loss medication is changing relationships with alcohol
 
 **Source:** BBC
 
@@ -97,7 +49,7 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 
 ---
 
-### 7. How Israel’s occupation fuels resistance
+### 4. How Israel’s occupation fuels resistance
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ Israel is trapped in a cycle it created.
 
 ---
 
-### 8. ‘No surprise’: Netanyahu rejects US-backed Gaza plan
+### 5. ‘No surprise’: Netanyahu rejects US-backed Gaza plan
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the 
 
 ---
 
-### 9. Incumbents secure Hawaii primary wins, defying progressive challengers
+### 6. Incumbents secure Hawaii primary wins, defying progressive challengers
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ Their victories highlight ongoing clashes between centrist Democrats and more pr
 
 ---
 
-### 10. Wildfire Wrights Spring, Klamath, Oregon
+### 7. Wildfire Wrights Spring, Klamath, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Tropical Cyclone Chan-Hom
+### 8. Tropical Cyclone Chan-Hom
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire BUZZARD, Kern, California
+### 9. Wildfire BUZZARD, Kern, California
 
 **Source:** NASA
 
