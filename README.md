@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 03:08:33
+**Last Update:** 2026-08-10 03:23:41
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html">https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236541">https://news.ycombinator.com/item?id=49236541</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
+<p>Points: 18</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html](https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html)
 
 ---
 
-### 2. Georgia police officers fired after Flock camera misuse
+### 2. AI assistant hacks gym website in first known Australian autonomous cyber attack
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986">https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236439">https://news.ycombinator.com/item?id=49236439</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986)
+
+---
+
+### 3. Georgia police officers fired after Flock camera misuse
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/">https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49236033">https://news.ycombinator.com/item?id=49236033</a></p>
-<p>Points: 42</p>
-<p># Comments: 9</p>
+<p>Points: 50</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/](https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/)
-
----
-
-### 3. Tuxedo No. 2 – Cocktail recipes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tuxedono2.com">https://tuxedono2.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49235697">https://news.ycombinator.com/item?id=49235697</a></p>
-<p>Points: 25</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://tuxedono2.com](https://tuxedono2.com)
 
 ---
 
@@ -97,7 +97,20 @@ The prime minister is embarking on a UK tour with a series of announcements aime
 
 ---
 
-### 7. Union reports 108 attacks on Palestinian journalists in July
+### 7. F-16s intercept two aircraft near Trump’s New Jersey golf club
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss)
+
+---
+
+### 8. Union reports 108 attacks on Palestinian journalists in July
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Palestinian Journalists Syndicate exposes rising threats, with over 270 journali
 
 ---
 
-### 8. What’s driving unrest in Pakistan-administered Kashmir?
+### 9. What’s driving unrest in Pakistan-administered Kashmir?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Palestinian Journalists Syndicate exposes rising threats, with over 270 journali
 Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera&#039;s Ava Warriner explains.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss)
-
----
-
-### 9. Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Espionage, sabotage, cyberattacks, and covert operations are a &#039;constant reality&#039;, says Germany&#039;s interior minister.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss)
 
 ---
 
