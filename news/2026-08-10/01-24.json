@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-10T01:24:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is it all just vapourware?",
+            "description": "<p>Article URL: <a href=\"https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware\">https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235859\">https://news.ycombinator.com/item?id=49235859</a></p>\n<p>Points: 48</p>\n<p># Comments: 47</p>",
+            "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
+            "published": "Sun, 09 Aug 2026 21:03:43 +0000",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tuxedo No. 2 – Cocktail recipes",
+            "description": "<p>Article URL: <a href=\"https://tuxedono2.com\">https://tuxedono2.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235697\">https://news.ycombinator.com/item?id=49235697</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://tuxedono2.com",
+            "published": "Sun, 09 Aug 2026 20:48:46 +0000",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Zealand lost its music media, and what we're building to replace it",
+            "description": "<p>Article URL: <a href=\"https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media\">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235641\">https://news.ycombinator.com/item?id=49235641</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+            "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+            "published": "Sun, 09 Aug 2026 20:42:29 +0000",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 20:58:18 GMT",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+            "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 21:25:04 GMT",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ancient Roman shipwreck discovered off Sicily coast",
+            "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 12:27:26 GMT",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+            "description": "Espionage, sabotage, cyberattacks, and covert operations are a &#039;constant reality&#039;, says Germany&#039;s interior minister.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 20:40:25 +0000",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
+            "description": "‘We&#039;re going backwards.’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 20:02:57 +0000",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
+            "description": "Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.",
+            "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 19:30:00 +0000",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-10T01:24:30+03:30"
+        }
+    ]
+}
