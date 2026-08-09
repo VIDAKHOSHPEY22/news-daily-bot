@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 22:22:39
+**Last Update:** 2026-08-09 22:38:23
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple lied under oath to a federal court. The decision to lie came from Tim Cook
+### 1. A zero-dependency, ultra-lightweight database time machine for SQLite
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2025/05/09/technology/apple-app-store-antitrust.html">https://www.nytimes.com/2025/05/09/technology/apple-app-store-antitrust.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234097">https://news.ycombinator.com/item?id=49234097</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://github.com/nsrht/time-travel-sqlite-debugger">https://github.com/nsrht/time-travel-sqlite-debugger</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234506">https://news.ycombinator.com/item?id=49234506</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2025/05/09/technology/apple-app-store-antitrust.html](https://www.nytimes.com/2025/05/09/technology/apple-app-store-antitrust.html)
+🔗 **Read more:** [https://github.com/nsrht/time-travel-sqlite-debugger](https://github.com/nsrht/time-travel-sqlite-debugger)
 
 ---
 
-### 2. OpenChamber: An Agentic Development Environment
+### 2. Plug-In Solar Panels Starting to Sprout in U.S. Backyards
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openchamber.dev/">https://openchamber.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49233448">https://news.ycombinator.com/item?id=49233448</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html">https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234393">https://news.ycombinator.com/item?id=49234393</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://openchamber.dev/](https://openchamber.dev/)
+🔗 **Read more:** [https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html](https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html)
 
 ---
 
-### 3. Ask HN: What are you working on? (August 2026)
+### 3. Saying No
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>What are you working on?  What have you been curious about lately?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49233423">https://news.ycombinator.com/item?id=49233423</a></p>
-<p>Points: 41</p>
-<p># Comments: 133</p>
+<p>Article URL: <a href="https://rozumem.xyz/posts/19">https://rozumem.xyz/posts/19</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234379">https://news.ycombinator.com/item?id=49234379</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49233423](https://news.ycombinator.com/item?id=49233423)
+🔗 **Read more:** [https://rozumem.xyz/posts/19](https://rozumem.xyz/posts/19)
 
 ---
 
@@ -98,7 +97,20 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 
 ---
 
-### 7. Jannik Sinner withdraws from Cincinnati Open with knee injury
+### 7. Where does Iran stand on Saudi-Pakistan-Turkiye pact?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss)
+
+---
+
+### 8. Jannik Sinner withdraws from Cincinnati Open with knee injury
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Number one ranked player in men&#039;s tennis will miss the tournament due to a 
 
 ---
 
-### 8. Former Iraqi provincial governor arrested as graft crackdown continues
+### 9. Former Iraqi provincial governor arrested as graft crackdown continues
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Number one ranked player in men&#039;s tennis will miss the tournament due to a 
 Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss)
-
----
-
-### 9. Wildfires in Albania and Spain cause hundreds to evacuate
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss)
 
 ---
 
