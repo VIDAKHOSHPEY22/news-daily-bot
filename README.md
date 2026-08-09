@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 05:50:19
+**Last Update:** 2026-08-09 06:03:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The AI Apocalypse Is Here
+### 1. The phone book that led us to Assad's spy chief in hiding
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gyrzn8p94o">https://www.bbc.com/news/articles/c4gyrzn8p94o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227686">https://news.ycombinator.com/item?id=49227686</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c4gyrzn8p94o](https://www.bbc.com/news/articles/c4gyrzn8p94o)
+
+---
+
+### 2. The AI Apocalypse Is Here
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/">https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49227521">https://news.ycombinator.com/item?id=49227521</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 19</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/](https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/)
 
 ---
 
-### 2. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
+### 3. Os8088: A powerful Mac-like OS for the IBM XT, 286, 386
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://os8088.com/">https://os8088.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226923">https://news.ycombinator.com/item?id=49226923</a></p>
-<p>Points: 35</p>
-<p># Comments: 10</p>
+<p>Points: 51</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://os8088.com/](https://os8088.com/)
-
----
-
-### 3. Dithered QR Codes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.andrewt.net/dithered-qr-codes/wtf/">https://www.andrewt.net/dithered-qr-codes/wtf/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49226742">https://news.ycombinator.com/item?id=49226742</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.andrewt.net/dithered-qr-codes/wtf/](https://www.andrewt.net/dithered-qr-codes/wtf/)
 
 ---
 
