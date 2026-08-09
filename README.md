@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 14:12:36
+**Last Update:** 2026-08-09 14:28:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost
+### 1. CSS: The bomb inside your inbox
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://portswigger.net/research/css-the-bomb-inside-your-inbox">https://portswigger.net/research/css-the-bomb-inside-your-inbox</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230066">https://news.ycombinator.com/item?id=49230066</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://portswigger.net/research/css-the-bomb-inside-your-inbox](https://portswigger.net/research/css-the-bomb-inside-your-inbox)
+
+---
+
+### 2. The Alpha 21264 CPU: NT's Greatest RISC (1998)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://halfhill.com/byte/1998-12_alpha.html">https://halfhill.com/byte/1998-12_alpha.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230022">https://news.ycombinator.com/item?id=49230022</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://halfhill.com/byte/1998-12_alpha.html](https://halfhill.com/byte/1998-12_alpha.html)
+
+---
+
+### 3. Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/">https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229412">https://news.ycombinator.com/item?id=49229412</a></p>
-<p>Points: 28</p>
+<p>Points: 30</p>
 <p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/](https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/)
-
----
-
-### 2. There Are Magic Hexagons of Every Order
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gukov.dev/math/2026/08/02/new-magic-hexagons.html">https://gukov.dev/math/2026/08/02/new-magic-hexagons.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49229174">https://news.ycombinator.com/item?id=49229174</a></p>
-<p>Points: 31</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://gukov.dev/math/2026/08/02/new-magic-hexagons.html](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
-
----
-
-### 3. Microsoft Word for Windows 1.1a, Native X64 Port
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/jmarshall23/msword">https://github.com/jmarshall23/msword</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228663">https://news.ycombinator.com/item?id=49228663</a></p>
-<p>Points: 80</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://github.com/jmarshall23/msword](https://github.com/jmarshall23/msword)
 
 ---
 
@@ -97,42 +97,42 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup
+### 7. Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The two North African nations become the first teams from the continent to qualify for next year&#039;s World Cup in Brazil.
+Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss)
+
+---
+
+### 8. FIFA decries ‘concerted’ effort to undermine Infantino as crisis deepens
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Statement comes after Infantino denies UEFA paid off his alleged lover while he was the body&#039;s general secretary.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/fifa-decries-concerted-effort-to-undermine-infantino-as-crisis-deepens?traffic_source=rss)
+
+---
+
+### 9. Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The North African nations become the first teams from the continent to qualify for next year&#039;s World Cup in Brazil.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup?traffic_source=rss)
-
----
-
-### 8. Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Iranian president calls for an end to deadlock with the US, declaring it the right moment for a lasting agreement.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss)
-
----
-
-### 9. It won’t be Trump who kills the ICC
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-It would be the International Criminal Court’s alleged supporters who refuse to take action to defend it.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/9/it-wont-be-trump-who-kills-the-icc?traffic_source=rss)
 
 ---
 
