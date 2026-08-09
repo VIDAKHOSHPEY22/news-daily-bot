@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 23:10:04
+**Last Update:** 2026-08-09 23:22:36
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499">https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234724">https://news.ycombinator.com/item?id=49234724</a></p>
-<p>Points: 3</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499](https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499)
 
 ---
 
-### 2. I use LLMs to learn complex topics
+### 2. How I use LLMs to learn complex topics
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234675">https://news.ycombinator.com/item?id=49234675</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
+<p>Points: 19</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/nsrht/time-travel-sqlite-debugger">https://github.com/nsrht/time-travel-sqlite-debugger</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49234506">https://news.ycombinator.com/item?id=49234506</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/nsrht/time-travel-sqlite-debugger](https://github.com/nsrht/time-travel-sqlite-debugger)
 
