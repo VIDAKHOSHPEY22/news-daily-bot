@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-10T03:08:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "To Recruit Teachers, School Districts Are Building Homes",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html\">https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49236541\">https://news.ycombinator.com/item?id=49236541</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+            "url": "https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html",
+            "published": "Sun, 09 Aug 2026 22:00:36 +0000",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Georgia police officers fired after Flock camera misuse",
+            "description": "<p>Article URL: <a href=\"https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/\">https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49236033\">https://news.ycombinator.com/item?id=49236033</a></p>\n<p>Points: 42</p>\n<p># Comments: 9</p>",
+            "url": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
+            "published": "Sun, 09 Aug 2026 21:20:24 +0000",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tuxedo No. 2 – Cocktail recipes",
+            "description": "<p>Article URL: <a href=\"https://tuxedono2.com\">https://tuxedono2.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235697\">https://news.ycombinator.com/item?id=49235697</a></p>\n<p>Points: 25</p>\n<p># Comments: 7</p>",
+            "url": "https://tuxedono2.com",
+            "published": "Sun, 09 Aug 2026 20:48:46 +0000",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 20:58:18 GMT",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
+            "description": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
+            "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 21:26:56 GMT",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+            "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+            "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 23:01:39 GMT",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Union reports 108 attacks on Palestinian journalists in July",
+            "description": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 23:01:25 +0000",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s driving unrest in Pakistan-administered Kashmir?",
+            "description": "Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera&#039;s Ava Warriner explains.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 22:37:11 +0000",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+            "description": "Espionage, sabotage, cyberattacks, and covert operations are a &#039;constant reality&#039;, says Germany&#039;s interior minister.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 20:40:25 +0000",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-10T03:08:33+03:30"
+        }
+    ]
+}
