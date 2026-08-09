@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 10:37:50
+**Last Update:** 2026-08-09 10:57:58
 
 **Total News:** 12
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jmarshall23/msword">https://github.com/jmarshall23/msword</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228663">https://news.ycombinator.com/item?id=49228663</a></p>
-<p>Points: 17</p>
-<p># Comments: 5</p>
+<p>Points: 27</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://github.com/jmarshall23/msword](https://github.com/jmarshall23/msword)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="http://longbets.org/601/">http://longbets.org/601/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228458">https://news.ycombinator.com/item?id=49228458</a></p>
-<p>Points: 103</p>
-<p># Comments: 19</p>
+<p>Points: 107</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [http://longbets.org/601/](http://longbets.org/601/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://itsfoss.com/news/illinois-age-verification-bill/">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49228350">https://news.ycombinator.com/item?id=49228350</a></p>
-<p>Points: 55</p>
-<p># Comments: 28</p>
+<p>Points: 66</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://itsfoss.com/news/illinois-age-verification-bill/](https://itsfoss.com/news/illinois-age-verification-bill/)
 
@@ -97,7 +97,20 @@ The early release of two of his killers has brought a case which still resonates
 
 ---
 
-### 7. Wildfire forces thousands of evacuations in Western Canada
+### 7. Israel announces tender for 627 settler units in occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+New settlement tender in West Bank deepens Israeli efforts to sever Palestinian ties to Jerusalem, officials warn.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss)
+
+---
+
+### 8. Wildfire forces thousands of evacuations in Western Canada
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A fast-moving wildfire has forced more than 20,000 people to evacuate parts of B
 
 ---
 
-### 8. Lionel Messi returns to Argentina after father Jorge’s death
+### 9. Lionel Messi returns to Argentina after father Jorge’s death
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A fast-moving wildfire has forced more than 20,000 people to evacuate parts of B
 Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss)
-
----
-
-### 9. Iran issues new demands as Pezeshkian seeks deal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Senior Iranian security official sets broader conditions for reopening Hormuz.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss)
 
 ---
 
