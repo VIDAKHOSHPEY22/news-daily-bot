@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T20:15:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Every fast write moves work somewhere else",
+            "description": "<p>Article URL: <a href=\"https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/\">https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232410\">https://news.ycombinator.com/item?id=49232410</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
+            "published": "Sun, 09 Aug 2026 15:36:52 +0000",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
+            "description": "<p>Article URL: <a href=\"https://alexanderwanyoike.github.io/vibez/\">https://alexanderwanyoike.github.io/vibez/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232369\">https://news.ycombinator.com/item?id=49232369</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+            "url": "https://alexanderwanyoike.github.io/vibez/",
+            "published": "Sun, 09 Aug 2026 15:31:49 +0000",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Taxi drivers rarely die of Alzheimer's",
+            "description": "<p>Article URL: <a href=\"https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650\">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232253\">https://news.ycombinator.com/item?id=49232253</a></p>\n<p>Points: 19</p>\n<p># Comments: 9</p>",
+            "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+            "published": "Sun, 09 Aug 2026 15:21:46 +0000",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+            "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 14:18:10 GMT",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ancient Roman shipwreck discovered off Sicily coast",
+            "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 12:27:26 GMT",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How weight-loss medication is changing relationships with alcohol",
+            "description": "Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank.",
+            "url": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 08 Aug 2026 23:30:06 GMT",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Israel’s occupation fuels resistance",
+            "description": "Israel is trapped in a cycle it created.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 16:19:34 +0000",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+            "description": "Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.",
+            "url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 16:08:19 +0000",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
+            "description": "Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 16:07:23 +0000",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T20:15:50+03:30"
+        }
+    ]
+}
