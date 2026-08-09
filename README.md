@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 20:30:56
+**Last Update:** 2026-08-09 21:08:17
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+### 1. Banksy works cost public almost £150k
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cx2vnny7j5zo">https://www.bbc.co.uk/news/articles/cx2vnny7j5zo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232942">https://news.ycombinator.com/item?id=49232942</a></p>
+<p>Points: 11</p>
+<p># Comments: 18</p>
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2vnny7j5zo](https://www.bbc.co.uk/news/articles/cx2vnny7j5zo)
+
+---
+
+### 2. FCC moves to ban Lidar-equipped foreign drones from US
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows">https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232857">https://news.ycombinator.com/item?id=49232857</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows](https://www.tomshardware.com/tech-industry/drones/fcc-moves-to-ban-lidar-equipped-foreign-drones-from-us-classifies-the-technology-as-military-grade-in-a-proposal-that-could-also-hit-thermal-models-and-the-swarms-used-drone-light-shows)
+
+---
+
+### 3. Every fast write moves work somewhere else
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/">https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49232410">https://news.ycombinator.com/item?id=49232410</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/](https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/)
+
+---
+
+### 4. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Israel's PM says its military will not pull out from Gaza until Hamas is "genuin
 
 ---
 
-### 2. Ancient Roman shipwreck discovered off Sicily coast
+### 5. Ancient Roman shipwreck discovered off Sicily coast
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Italy's culture minister says it is one of the most important underwater archaeo
 
 ---
 
-### 3. How weight-loss medication is changing relationships with alcohol
+### 6. How weight-loss medication is changing relationships with alcohol
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Some people using weight-loss drugs say their cravings for alcohol disappeared o
 
 ---
 
-### 4. How Israel’s occupation fuels resistance
+### 7. Jannik Sinner withdraws from Cincinnati Open with knee injury
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel is trapped in a cycle it created.
+Number one ranked player in men&#039;s tennis will miss the tournament due to a knee issue, he says via organisers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss)
 
 ---
 
-### 5. ‘No surprise’: Netanyahu rejects US-backed Gaza plan
+### 8. Former Iraqi provincial governor arrested as graft crackdown continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.
+Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss](https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss)
 
 ---
 
-### 6. Incumbents secure Hawaii primary wins, defying progressive challengers
+### 9. Wildfires in Albania and Spain cause hundreds to evacuate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.
+Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Wrights Spring, Klamath, Oregon
+### 10. Wildfire Wrights Spring, Klamath, Oregon
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Tropical Cyclone Chan-Hom
+### 11. Tropical Cyclone Chan-Hom
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire BUZZARD, Kern, California
+### 12. Wildfire BUZZARD, Kern, California
 
 **Source:** NASA
 
