@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-09T18:27:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An Israeli professor lost a prestigious US job offer after speaking out on Gaza",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota\">https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231419\">https://news.ycombinator.com/item?id=49231419</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota",
+            "published": "Sun, 09 Aug 2026 13:50:53 +0000",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mea Culpa – Dark Hours",
+            "description": "<p>Article URL: <a href=\"https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html\">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231154\">https://news.ycombinator.com/item?id=49231154</a></p>\n<p>Points: 124</p>\n<p># Comments: 53</p>",
+            "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+            "published": "Sun, 09 Aug 2026 13:20:43 +0000",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+            "description": "<p>Article URL: <a href=\"https://github.com/rochus-keller/OberonSystem/tree/op2-rv32\">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230891\">https://news.ycombinator.com/item?id=49230891</a></p>\n<p>Points: 25</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+            "published": "Sun, 09 Aug 2026 12:43:16 +0000",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+            "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 14:18:10 GMT",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 12:39:18 GMT",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More areas of UK likely to move into drought as fifth heatwave builds",
+            "description": "With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.",
+            "url": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 03:10:56 GMT",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza engineer builds animal shelters out of empty cans",
+            "description": "Gaza engineer builds animal shelters out of empty cans",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 14:28:34 +0000",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+            "description": "As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
+            "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 14:26:30 +0000",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Mecca pact is not just another regional alliance",
+            "description": "It could set the stage for a profound transformation of regional security in the Gulf.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss",
+            "published": "Sun, 09 Aug 2026 14:23:13 +0000",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-09T18:27:45+03:30"
+        }
+    ]
+}

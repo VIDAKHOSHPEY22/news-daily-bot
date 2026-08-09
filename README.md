@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-09 18:12:03
+**Last Update:** 2026-08-09 18:27:45
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mea Culpa – Dark Hours
+### 1. An Israeli professor lost a prestigious US job offer after speaking out on Gaza
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota">https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231419">https://news.ycombinator.com/item?id=49231419</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota](https://www.theguardian.com/us-news/ng-interactive/2026/aug/06/professor-israel-gaza-university-of-minnesota)
+
+---
+
+### 2. Mea Culpa – Dark Hours
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html">https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49231154">https://news.ycombinator.com/item?id=49231154</a></p>
-<p>Points: 94</p>
-<p># Comments: 36</p>
+<p>Points: 124</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 
 ---
 
-### 2. Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
+### 3. Show HN: A Project Oberon System version running on RISC-V instead of RISC-5
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/rochus-keller/OberonSystem/tree/op2-rv32">https://github.com/rochus-keller/OberonSystem/tree/op2-rv32</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230891">https://news.ycombinator.com/item?id=49230891</a></p>
-<p>Points: 21</p>
-<p># Comments: 2</p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/rochus-keller/OberonSystem/tree/op2-rv32](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
-
----
-
-### 3. Why Wall Street Is Ignoring Big Tech's Debt
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=NufJ7g63KSY">https://www.youtube.com/watch?v=NufJ7g63KSY</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49230630">https://news.ycombinator.com/item?id=49230630</a></p>
-<p>Points: 34</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=NufJ7g63KSY](https://www.youtube.com/watch?v=NufJ7g63KSY)
 
 ---
 
@@ -97,7 +97,33 @@ With no significant rain forecast in the coming week, more areas of England coul
 
 ---
 
-### 7. The Mecca pact is not just another regional alliance
+### 7. Gaza engineer builds animal shelters out of empty cans
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gaza engineer builds animal shelters out of empty cans
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss)
+
+---
+
+### 8. What now as Israel rejects Trump’s 15-point plan for Gaza?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss)
+
+---
+
+### 9. The Mecca pact is not just another regional alliance
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ With no significant rain forecast in the coming week, more areas of England coul
 It could set the stage for a profound transformation of regional security in the Gulf.
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/9/the-mecca-pact-is-not-just-another-regional-alliance?traffic_source=rss)
-
----
-
-### 8. Syria says it reached deal with Moscow on future of Russian bases
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss](https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss)
-
----
-
-### 9. Trump targets birthright citizenship again
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump has signed two new executive orders targeting birthright citizenship.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss)
 
 ---
 
