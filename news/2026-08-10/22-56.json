@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-10T22:56:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rust SIMD on the GPU",
+            "description": "<p>Article URL: <a href=\"https://www.vectorware.com/blog/simd-on-gpu/\">https://www.vectorware.com/blog/simd-on-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49247477\">https://news.ycombinator.com/item?id=49247477</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+            "published": "Mon, 10 Aug 2026 18:12:49 +0000",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Security Vulnerability in Pioneer Rekordbox",
+            "description": "<p>Article URL: <a href=\"https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/\">https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49247461\">https://news.ycombinator.com/item?id=49247461</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/",
+            "published": "Mon, 10 Aug 2026 18:11:52 +0000",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Learning more about Claude's mathematical capabilities",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/riemann-zeta\">https://www.anthropic.com/research/riemann-zeta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49247070\">https://news.ycombinator.com/item?id=49247070</a></p>\n<p>Points: 91</p>\n<p># Comments: 68</p>",
+            "url": "https://www.anthropic.com/research/riemann-zeta",
+            "published": "Mon, 10 Aug 2026 17:41:13 +0000",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than two-thirds of England now in drought",
+            "description": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status.",
+            "url": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 17:41:39 GMT",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "30 years later, a former rival will stand trial for Tupac's murder",
+            "description": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
+            "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 16:52:47 GMT",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Record 230 people cross Channel in one small boat",
+            "description": "The Home Office says it shows the \"reckless and dangerous tactics\" used by gangs \"cramming ever greater numbers on to unseaworthy vessels\".",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 14:51:06 GMT",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Migrant children go days without food in Ceuta amid asylum crisis",
+            "description": "A surge of migrant children and families remained in makeshift shelters in Ceuta, Spain’s North African enclave.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 19:08:08 +0000",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "111 dead after Colombia quakes leave trail of destruction",
+            "description": "At least 111 people are dead after a destructive 7.4 magnitude earthquake hit western Colombia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 18:51:02 +0000",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh",
+            "description": "Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 18:37:07 +0000",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-10T22:56:24+03:30"
+        }
+    ]
+}
