@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-10T15:35:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Muse Glimmer – open weights 30B local coding model",
+            "description": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model\">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241679\">https://news.ycombinator.com/item?id=49241679</a></p>\n<p>Points: 165</p>\n<p># Comments: 61</p>",
+            "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+            "published": "Mon, 10 Aug 2026 10:10:02 +0000",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+            "description": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 279</p>\n<p># Comments: 164</p>",
+            "url": "https://www.docker.com/products/docker-sandboxes/",
+            "published": "Mon, 10 Aug 2026 06:02:38 +0000",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Auto mode is now the default in Claude Code",
+            "description": "<p>Article URL: <a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239021\">https://news.ycombinator.com/item?id=49239021</a></p>\n<p>Points: 232</p>\n<p># Comments: 238</p>",
+            "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+            "published": "Mon, 10 Aug 2026 03:50:00 +0000",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Record 230 people cross Channel in one small boat",
+            "description": "A photograph taken near the French coast shows migrants packed into the inflatable small boat.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 11:56:43 GMT",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Dust devil' spins through London park",
+            "description": "Footage captured in London's Greenwich Park on Sunday showed the moment a small whirlwind swirled around people.",
+            "url": "https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 11:14:50 GMT",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge staff gave domestic abuser key to his victim's room",
+            "description": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 05:00:07 GMT",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch",
+            "description": "As Champions League and Europa League winners face off, here is everything to know on the venue, history and more.",
+            "url": "https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 11:28:23 +0000",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters rally in India’s Jharkhand over alleged exam irregularities",
+            "description": "Demonstrators in Ranchi demand an overhaul of ‌the state&#039;s examination system.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 11:23:48 +0000",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
+            "description": "Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they&#039;ve paid a heavy price.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 11:17:16 +0000",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-10T15:35:16+03:30"
+        }
+    ]
+}
