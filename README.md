@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 15:35:16
+**Last Update:** 2026-08-10 16:56:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Meta Muse Glimmer – open weights 30B local coding model
+### 1. 50k Boat Names
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model">https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49241679">https://news.ycombinator.com/item?id=49241679</a></p>
-<p>Points: 165</p>
-<p># Comments: 61</p>
+<p>Article URL: <a href="https://www.beautifulpublicdata.com/boat-names/">https://www.beautifulpublicdata.com/boat-names/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243029">https://news.ycombinator.com/item?id=49243029</a></p>
+<p>Points: 16</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+🔗 **Read more:** [https://www.beautifulpublicdata.com/boat-names/](https://www.beautifulpublicdata.com/boat-names/)
 
 ---
 
-### 2. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
+### 2. Over 181,000 AI meeting recordings left wide open in note taking app
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.docker.com/products/docker-sandboxes/">https://www.docker.com/products/docker-sandboxes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239751">https://news.ycombinator.com/item?id=49239751</a></p>
-<p>Points: 279</p>
-<p># Comments: 164</p>
+<p>Article URL: <a href="https://bobdahacker.com/blog/tldv-hack">https://bobdahacker.com/blog/tldv-hack</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49242739">https://news.ycombinator.com/item?id=49242739</a></p>
+<p>Points: 30</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.docker.com/products/docker-sandboxes/](https://www.docker.com/products/docker-sandboxes/)
+🔗 **Read more:** [https://bobdahacker.com/blog/tldv-hack](https://bobdahacker.com/blog/tldv-hack)
 
 ---
 
-### 3. Auto mode is now the default in Claude Code
+### 3. DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
-<p>Points: 232</p>
-<p># Comments: 238</p>
+<p>Article URL: <a href="https://twitter.com/thdxr/status/2086599224674681242">https://twitter.com/thdxr/status/2086599224674681242</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49242728">https://news.ycombinator.com/item?id=49242728</a></p>
+<p>Points: 20</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
+🔗 **Read more:** [https://twitter.com/thdxr/status/2086599224674681242](https://twitter.com/thdxr/status/2086599224674681242)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-A photograph taken near the French coast shows migrants packed into the inflatable small boat.
+The Home Office says it shows the "reckless and dangerous tactics" used by gangs "cramming ever greater numbers on to unseaworthy vessels".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss)
 
@@ -97,59 +97,46 @@ A woman tells the BBC her attacker kicked her hotel room door "off its hinges" a
 
 ---
 
-### 7. UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch
+### 7. Has the army turned the page on control of western Sudan?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Champions League and Europa League winners face off, here is everything to know on the venue, history and more.
+Sudan&#039;s military repels a series of offensives by the RSF paramilitary in a strategically significant region.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss)
 
 ---
 
-### 8. Protesters rally in India’s Jharkhand over alleged exam irregularities
+### 8. Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrators in Ranchi demand an overhaul of ‌the state&#039;s examination system.
+Investment reportedly values the club at about $5.9bn, making it one of the largest ever football club valuations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/jeff-bezos-consortium-nears-deal-to-buy-stake-in-liverpool-fc-reports?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/jeff-bezos-consortium-nears-deal-to-buy-stake-in-liverpool-fc-reports?traffic_source=rss)
 
 ---
 
-### 9. Remembering Anas, Mohammed and Gaza’s other slain journalists
+### 9. Taiwan holds military drills to prepare for invasion by China
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they&#039;ve paid a heavy price.
+Taiwan holds military drills to prepare for invasion by China
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss)
-
----
-
-### 10. Wildfire Wrights Spring, Klamath, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss)
 
 ---
 
-### 11. Tropical Cyclone Chan-Hom
+### 10. Tropical Storm 15W
 
 **Source:** NASA
 
@@ -158,20 +145,33 @@ Natural event: Wildfires
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
 
 ---
 
-### 12. Wildfire BUZZARD, Kern, California
+### 11. Iceberg A76C
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
+
+---
+
+### 12. Iceberg D32
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Sea and Lake Ice
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
 
 ---
 
