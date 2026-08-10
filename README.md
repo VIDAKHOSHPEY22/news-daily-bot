@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 17:20:33
+**Last Update:** 2026-08-10 18:36:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mistral Patent for "Code implemented tool calls"
+### 1. OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/responsible-ai-infrastructure-texas/">https://openai.com/index/responsible-ai-infrastructure-texas/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49244308">https://news.ycombinator.com/item?id=49244308</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://openai.com/index/responsible-ai-infrastructure-texas/](https://openai.com/index/responsible-ai-infrastructure-texas/)
+
+---
+
+### 2. Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878">https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243880">https://news.ycombinator.com/item?id=49243880</a></p>
+<p>Points: 32</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+
+---
+
+### 3. Mistral Patent for "Code implemented tool calls"
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243397">https://news.ycombinator.com/item?id=49243397</a></p>
-<p>Points: 25</p>
-<p># Comments: 17</p>
+<p>Points: 79</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
-
----
-
-### 2. Defending my own brain against enshittification
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/">https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243269">https://news.ycombinator.com/item?id=49243269</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
-
----
-
-### 3. Resurrecting the SuperH Architecture (2015)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/647636/">https://lwn.net/Articles/647636/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243193">https://news.ycombinator.com/item?id=49243193</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://lwn.net/Articles/647636/](https://lwn.net/Articles/647636/)
 
 ---
 
@@ -71,20 +71,7 @@ The Home Office says it shows the "reckless and dangerous tactics" used by gangs
 
 ---
 
-### 5. 'Dust devil' spins through London park
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Footage captured in London's Greenwich Park on Sunday showed the moment a small whirlwind swirled around people.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Travelodge staff gave domestic abuser key to his victim's room
+### 5. Travelodge staff gave domestic abuser key to his victim's room
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ A woman tells the BBC her attacker kicked her hotel room door "off its hinges" a
 
 ---
 
-### 7. Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
+### 6. Consortium including Jeff Bezos advances talks for stake in Liverpool FC
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
+A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Why choosing low-fat dairy is not necessarily better for your health
+### 7. 7.4-magnitude earthquake hits Colombia killing at least 20
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For years, we thought low-fat dairy was the way to manage obesity. New research is increasingly questioning this logic.
+Emergency teams are still assessing the impact of the quake that was felt across the region.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss)
 
 ---
 
-### 9. Nigel Farage vows to deport foreign criminals from UK prisons
+### 8. Indian police attack protesters seeking action over ‘exam irregularities’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigel Farage vows to deport foreign criminals from UK prisons
+Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss)
+
+---
+
+### 9. Ben-Gvir posts AI video of starving Palestinian ahead of elections
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ben-Gvir posts AI video of starving Palestinian ahead of elections
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss)
 
 ---
 
