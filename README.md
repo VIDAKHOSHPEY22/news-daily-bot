@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 08:15:53
+**Last Update:** 2026-08-10 08:29:54
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Voice driven murder mystery, Interview AI suspects with your voice
+### 1. Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nber.org/papers/w35560">https://www.nber.org/papers/w35560</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239095">https://news.ycombinator.com/item?id=49239095</a></p>
+<p>Points: 15</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.nber.org/papers/w35560](https://www.nber.org/papers/w35560)
+
+---
+
+### 2. Auto mode is now the default in Claude Code
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
+<p>Points: 34</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
+
+---
+
+### 3. Show HN: Voice driven murder mystery, Interview AI suspects with your voice
 
 **Source:** Hacker News
 
@@ -20,42 +52,10 @@
 <p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don't want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case's required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don't.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238851">https://news.ycombinator.com/item?id=49238851</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.whodunnitai.com/](https://www.whodunnitai.com/)
-
----
-
-### 2. Run Android ARM64 VR APKs on Apple Vision Pro
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/shinyquagsire23/Klepton">https://github.com/shinyquagsire23/Klepton</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238818">https://news.ycombinator.com/item?id=49238818</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
-
----
-
-### 3. Turn satellite imagery into a paper globe you fold yourself
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://foldingglobes.com/">https://foldingglobes.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238735">https://news.ycombinator.com/item?id=49238735</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://foldingglobes.com/](https://foldingglobes.com/)
 
 ---
 
