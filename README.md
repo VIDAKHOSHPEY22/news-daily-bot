@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 12:15:36
+**Last Update:** 2026-08-10 12:24:55
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ The Irish Prison Service bought a bulletproof and bombproof van to transport the
 
 ---
 
-### 7. Pakistan-administered Kashmir votes in reduced third phase amid unrest
+### 7. Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss)
+
+---
+
+### 8. Pakistan-administered Kashmir votes in reduced third phase amid unrest
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Voting postponed in seven of 11 Poonch division constituencies as boycott calls 
 
 ---
 
-### 8. North Korea’s hackers using AI for attacks, cybersecurity firm says
+### 9. North Korea’s hackers using AI for attacks, cybersecurity firm says
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Voting postponed in seven of 11 Poonch division constituencies as boycott calls 
 Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss)
-
----
-
-### 9. Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nelson was a five-time NBA champion with the Boston Celtics but is best remembered for his innovative coaching style.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss)
 
 ---
 
