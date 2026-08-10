@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 01:21:07
+**Last Update:** 2026-08-11 01:33:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Europe braces for another heatwave after record-breaking temperatures
+### 7. Colombia’s Espriella to lead emergency efforts following Bogota earthquake
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss)
+
+---
+
+### 8. Europe braces for another heatwave after record-breaking temperatures
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Extreme heat warnings issued in Britain and France with temperatures forecasted 
 
 ---
 
-### 8. Wildfires burn across Indonesia as officials cite El Nino as a cause
+### 9. Wildfires burn across Indonesia as officials cite El Nino as a cause
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Extreme heat warnings issued in Britain and France with temperatures forecasted 
 Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss)
-
----
-
-### 9. Turkiye approves pardon-like bill for thousands of PKK fighters
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss)
 
 ---
 
