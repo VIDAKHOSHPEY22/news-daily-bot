@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 22:56:24
+**Last Update:** 2026-08-10 23:36:18
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.vectorware.com/blog/simd-on-gpu/">https://www.vectorware.com/blog/simd-on-gpu/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49247477">https://news.ycombinator.com/item?id=49247477</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 21</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.vectorware.com/blog/simd-on-gpu/](https://www.vectorware.com/blog/simd-on-gpu/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/">https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49247461">https://news.ycombinator.com/item?id=49247461</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/](https://alphatheta.com/en/information/important-notice-security-vulnerability-in-pro-dj-link/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/research/riemann-zeta">https://www.anthropic.com/research/riemann-zeta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49247070">https://news.ycombinator.com/item?id=49247070</a></p>
-<p>Points: 91</p>
-<p># Comments: 68</p>
+<p>Points: 102</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://www.anthropic.com/research/riemann-zeta](https://www.anthropic.com/research/riemann-zeta)
 
@@ -71,20 +71,7 @@ The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and 
 
 ---
 
-### 5. 30 years later, a former rival will stand trial for Tupac's murder
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It’s been three decades since Tupac was killed, and since then, his reputation has only grown.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Record 230 people cross Channel in one small boat
+### 5. Record 230 people cross Channel in one small boat
 
 **Source:** BBC
 
@@ -97,7 +84,33 @@ The Home Office says it shows the "reckless and dangerous tactics" used by gangs
 
 ---
 
-### 7. Migrant children go days without food in Ceuta amid asylum crisis
+### 6. 30 years later, a former gang member will stand trial for Tupac's murder
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+It’s been three decades since Tupac was killed, and since then, his reputation has only grown.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US Rep. Nancy Mace clashed with CNN&#039;s Omar Jimenez over Islamophobic remarks after Abdul El-Sayed’s win in Michigan.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss)
+
+---
+
+### 8. Migrant children go days without food in Ceuta amid asylum crisis
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A surge of migrant children and families remained in makeshift shelters in Ceuta
 
 ---
 
-### 8. 111 dead after Colombia quakes leave trail of destruction
+### 9. 111 dead after Colombia quakes leave trail of destruction
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ A surge of migrant children and families remained in makeshift shelters in Ceuta
 At least 111 people are dead after a destructive 7.4 magnitude earthquake hit western Colombia.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss)
-
----
-
-### 9. Lebanon ‘files new lawsuit against’ ex-central bank chief Riad Salameh
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Reports citing judicial sources say former commercial banker also indicted over alleged financial crimes.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/lebanon-files-new-lawsuit-against-ex-central-bank-chief-riad-salameh?traffic_source=rss)
-
----
-
-### 10. Tropical Storm 15W
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
-
----
-
-### 11. Wildfire Harris, Rosebud, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430)
-
----
-
-### 12. Wildfire WEISER KNOLL, Fremont, Wyoming
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424)
 
 ---
 
