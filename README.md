@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 02:32:01
+**Last Update:** 2026-08-11 03:12:05
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Amazon backs power plant that may become top source of US climate pollution
+### 1. Google Search Is Dying. What Comes Next Is Worse
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://thewalrus.ca/google-search-is-dying/">https://thewalrus.ca/google-search-is-dying/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250836">https://news.ycombinator.com/item?id=49250836</a></p>
+<p>Points: 24</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://thewalrus.ca/google-search-is-dying/](https://thewalrus.ca/google-search-is-dying/)
+
+---
+
+### 2. Amazon backs power plant that may become top source of US climate pollution
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249971">https://news.ycombinator.com/item?id=49249971</a></p>
-<p>Points: 68</p>
-<p># Comments: 35</p>
+<p>Points: 110</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
 
 ---
 
-### 2. Confessions of a Long-Distance Sailor
+### 3. Confessions of a Long-Distance Sailor
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arachnoid.com/lutusp/sailbook.html">https://arachnoid.com/lutusp/sailbook.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249555">https://news.ycombinator.com/item?id=49249555</a></p>
-<p>Points: 15</p>
-<p># Comments: 3</p>
+<p>Points: 33</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://arachnoid.com/lutusp/sailbook.html](https://arachnoid.com/lutusp/sailbook.html)
-
----
-
-### 3. Stop Killing Games: It's time to sue Sony, join us
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.massaschadeconsument.nl/collectieve-acties/playstation/">https://www.massaschadeconsument.nl/collectieve-acties/playstation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249481">https://news.ycombinator.com/item?id=49249481</a></p>
-<p>Points: 61</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.massaschadeconsument.nl/collectieve-acties/playstation/](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
 
 ---
 
@@ -97,7 +97,33 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Ceuta mayor calls for migrant detention amid mass influx crisis
+### 7. Inside a secret launch site for Ukraine’s deep-strike drones
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+AJ&#039;s Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss)
+
+---
+
+### 8. Moment of terror as powerful earthquake shakes airport in Colombia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss)
+
+---
+
+### 9. Ceuta mayor calls for migrant detention amid mass influx crisis
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss)
-
----
-
-### 8. Al Jazeera reporter on the ground as Colombia quake death toll rises
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss)
-
----
-
-### 9. Colombia’s Espriella to lead emergency efforts following Bogota earthquake
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss)
-
----
-
-### 10. Tropical Storm 15W
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
-
----
-
-### 11. Wildfire Harris, Rosebud, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430)
-
----
-
-### 12. Wildfire WEISER KNOLL, Fremont, Wyoming
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424)
 
 ---
 
