@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 03:12:05
+**Last Update:** 2026-08-11 03:25:54
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google Search Is Dying. What Comes Next Is Worse
+### 1. World Train Map – 1247 train routes around the world
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://worldtrainmap.com/">https://worldtrainmap.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250894">https://news.ycombinator.com/item?id=49250894</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://worldtrainmap.com/](https://worldtrainmap.com/)
+
+---
+
+### 2. Google Search Is Dying. What Comes Next Is Worse
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://thewalrus.ca/google-search-is-dying/">https://thewalrus.ca/google-search-is-dying/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250836">https://news.ycombinator.com/item?id=49250836</a></p>
-<p>Points: 24</p>
-<p># Comments: 9</p>
+<p>Points: 36</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://thewalrus.ca/google-search-is-dying/](https://thewalrus.ca/google-search-is-dying/)
 
 ---
 
-### 2. Amazon backs power plant that may become top source of US climate pollution
+### 3. Amazon backs power plant that may become top source of US climate pollution
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249971">https://news.ycombinator.com/item?id=49249971</a></p>
-<p>Points: 110</p>
-<p># Comments: 66</p>
+<p>Points: 130</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
-
----
-
-### 3. Confessions of a Long-Distance Sailor
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arachnoid.com/lutusp/sailbook.html">https://arachnoid.com/lutusp/sailbook.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249555">https://news.ycombinator.com/item?id=49249555</a></p>
-<p>Points: 33</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://arachnoid.com/lutusp/sailbook.html](https://arachnoid.com/lutusp/sailbook.html)
 
 ---
 
@@ -133,6 +133,45 @@ Video from Pereira airport in Colombia shows violent shaking during a magnitude 
 Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm 15W
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
+
+---
+
+### 11. Wildfire Harris, Rosebud, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430)
+
+---
+
+### 12. Wildfire WEISER KNOLL, Fremont, Wyoming
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424)
 
 ---
 
