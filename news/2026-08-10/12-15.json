@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-10T12:15:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+            "description": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 147</p>\n<p># Comments: 97</p>",
+            "url": "https://www.docker.com/products/docker-sandboxes/",
+            "published": "Mon, 10 Aug 2026 06:02:38 +0000",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Philippines' big offshoring industry is growing despite AI",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai\">https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239226\">https://news.ycombinator.com/item?id=49239226</a></p>\n<p>Points: 45</p>\n<p># Comments: 42</p>",
+            "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+            "published": "Mon, 10 Aug 2026 04:35:24 +0000",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Auto mode is now the default in Claude Code",
+            "description": "<p>Article URL: <a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239021\">https://news.ycombinator.com/item?id=49239021</a></p>\n<p>Points: 183</p>\n<p># Comments: 172</p>",
+            "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+            "published": "Mon, 10 Aug 2026 03:50:00 +0000",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge staff gave domestic abuser key to his victim's room",
+            "description": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 05:00:07 GMT",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+            "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+            "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 07:16:12 GMT",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 20:58:18 GMT",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
+            "description": "Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region&#039;s elections.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 08:05:05 +0000",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+            "description": "Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.",
+            "url": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 07:59:04 +0000",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86",
+            "description": "Nelson was a five-time NBA champion with the Boston Celtics but is best remembered for his innovative coaching style.",
+            "url": "https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 07:47:11 +0000",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-10T12:15:36+03:30"
+        }
+    ]
+}
