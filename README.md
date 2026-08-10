@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 06:09:00
+**Last Update:** 2026-08-10 08:15:53
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How We Pushed CDC into Postgres
+### 1. Show HN: Voice driven murder mystery, Interview AI suspects with your voice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238050">https://news.ycombinator.com/item?id=49238050</a></p>
-<p>Points: 22</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
-
----
-
-### 2. Japanese court overturns Red RAW video patent
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/">https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49237873">https://news.ycombinator.com/item?id=49237873</a></p>
-<p>Points: 31</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/](https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/)
-
----
-
-### 3. The Ambition Project
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.betonit.ai/p/the-ambition-project">https://www.betonit.ai/p/the-ambition-project</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49237407">https://news.ycombinator.com/item?id=49237407</a></p>
+<p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don't want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case's required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don't.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238851">https://news.ycombinator.com/item?id=49238851</a></p>
 <p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.betonit.ai/p/the-ambition-project](https://www.betonit.ai/p/the-ambition-project)
+🔗 **Read more:** [https://www.whodunnitai.com/](https://www.whodunnitai.com/)
+
+---
+
+### 2. Run Android ARM64 VR APKs on Apple Vision Pro
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/shinyquagsire23/Klepton">https://github.com/shinyquagsire23/Klepton</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238818">https://news.ycombinator.com/item?id=49238818</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
+
+---
+
+### 3. Turn satellite imagery into a paper globe you fold yourself
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://foldingglobes.com/">https://foldingglobes.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49238735">https://news.ycombinator.com/item?id=49238735</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://foldingglobes.com/](https://foldingglobes.com/)
 
 ---
 
@@ -97,42 +98,42 @@ Frans Mathipa was shot while driving - we got access to the prosecution case aga
 
 ---
 
-### 7. Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition
+### 7. Trump names Will Scharf as White House counsel ahead of midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.
+Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss)
 
 ---
 
-### 8. Houthis launch fresh ballistic missile and drone attacks on al-Makha port
+### 8. Brazilian player falls into tunnel celebrating goal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.
+Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss)
 
 ---
 
-### 9. Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?
+### 9. Trump signals shift to economic pressure on Iran over new military strikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.
+US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss)
 
 ---
 
