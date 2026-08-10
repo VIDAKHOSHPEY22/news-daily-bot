@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-10T06:09:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How We Pushed CDC into Postgres",
+            "description": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238050\">https://news.ycombinator.com/item?id=49238050</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
+            "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+            "published": "Mon, 10 Aug 2026 01:01:34 +0000",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Japanese court overturns Red RAW video patent",
+            "description": "<p>Article URL: <a href=\"https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/\">https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49237873\">https://news.ycombinator.com/item?id=49237873</a></p>\n<p>Points: 31</p>\n<p># Comments: 3</p>",
+            "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+            "published": "Mon, 10 Aug 2026 00:36:24 +0000",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Ambition Project",
+            "description": "<p>Article URL: <a href=\"https://www.betonit.ai/p/the-ambition-project\">https://www.betonit.ai/p/the-ambition-project</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49237407\">https://news.ycombinator.com/item?id=49237407</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://www.betonit.ai/p/the-ambition-project",
+            "published": "Sun, 09 Aug 2026 23:36:05 +0000",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+            "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+            "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 20:58:18 GMT",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+            "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+            "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 23:01:39 GMT",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Evidence that South African special forces murdered top detective shared with BBC",
+            "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+            "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Aug 2026 23:05:29 GMT",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition",
+            "description": "Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 01:43:37 +0000",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
+            "description": "Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 01:34:26 +0000",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?",
+            "description": "Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 00:51:19 +0000",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-10T06:09:00+03:30"
+        }
+    ]
+}
