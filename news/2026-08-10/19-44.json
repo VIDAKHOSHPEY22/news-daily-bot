@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-10T19:44:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300\">https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245062\">https://news.ycombinator.com/item?id=49245062</a></p>\n<p>Points: 21</p>\n<p># Comments: 23</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300",
+            "published": "Mon, 10 Aug 2026 15:35:00 +0000",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1j1kjy7gewo\">https://www.bbc.com/news/articles/c1j1kjy7gewo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245023\">https://news.ycombinator.com/item?id=49245023</a></p>\n<p>Points: 59</p>\n<p># Comments: 38</p>",
+            "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+            "published": "Mon, 10 Aug 2026 15:32:04 +0000",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Convince an AI it's not alive in psychological horror game Prove You're Human",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio\">https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245019\">https://news.ycombinator.com/item?id=49245019</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio",
+            "published": "Mon, 10 Aug 2026 15:31:55 +0000",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Record 230 people cross Channel in one small boat",
+            "description": "The Home Office says it shows the \"reckless and dangerous tactics\" used by gangs \"cramming ever greater numbers on to unseaworthy vessels\".",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 14:51:06 GMT",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge staff gave domestic abuser key to his victim's room",
+            "description": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 05:00:07 GMT",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
+            "description": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 13:16:51 GMT",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
+            "description": "10 August marks one year on from Israel’s killing of Al Jazeera reporter Anas al-Sharif and fellow colleagues.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 15:51:26 +0000",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oil prices, stocks surge as Hormuz closure drags on",
+            "description": "US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.",
+            "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 15:45:39 +0000",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
+            "description": "Emergency teams are still assessing the impact of the quake that was felt across the region.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 14:57:08 +0000",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A76C",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359",
+            "published": "2021-05-28T00:00:00Z",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D32",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+            "published": "2022-10-21T00:00:00Z",
+            "fetched": "2026-08-10T19:44:02+03:30"
+        }
+    ]
+}

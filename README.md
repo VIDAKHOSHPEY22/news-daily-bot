@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 18:57:22
+**Last Update:** 2026-08-10 19:44:02
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas
+### 1. OpenAI's New Device Will Be Hockey Puck-Sized and Cost over $300
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/responsible-ai-infrastructure-texas/">https://openai.com/index/responsible-ai-infrastructure-texas/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49244308">https://news.ycombinator.com/item?id=49244308</a></p>
-<p>Points: 27</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300">https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245062">https://news.ycombinator.com/item?id=49245062</a></p>
+<p>Points: 21</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://openai.com/index/responsible-ai-infrastructure-texas/](https://openai.com/index/responsible-ai-infrastructure-texas/)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300)
 
 ---
 
-### 2. Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models
+### 2. Mars Bar from 1991 found – and it's 20g bigger than today's
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878">https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243880">https://news.ycombinator.com/item?id=49243880</a></p>
-<p>Points: 47</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c1j1kjy7gewo">https://www.bbc.com/news/articles/c1j1kjy7gewo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245023">https://news.ycombinator.com/item?id=49245023</a></p>
+<p>Points: 59</p>
 <p># Comments: 38</p>
 
-🔗 **Read more:** [https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c1j1kjy7gewo](https://www.bbc.com/news/articles/c1j1kjy7gewo)
 
 ---
 
-### 3. Mistral Patent for "Code implemented tool calls"
+### 3. Convince an AI it's not alive in psychological horror game Prove You're Human
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243397">https://news.ycombinator.com/item?id=49243397</a></p>
-<p>Points: 87</p>
-<p># Comments: 82</p>
+<p>Article URL: <a href="https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio">https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49245019">https://news.ycombinator.com/item?id=49245019</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
+🔗 **Read more:** [https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio](https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio)
 
 ---
 
@@ -97,7 +97,33 @@ A group including Amazon founder Jeff Bezos advances its talks to buy about a 30
 
 ---
 
-### 7. Earthquake with 7.4 magnitude hits Colombia, killing at least 20
+### 7. Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+10 August marks one year on from Israel’s killing of Al Jazeera reporter Anas al-Sharif and fellow colleagues.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/anas-al-sharif-one-year-on-from-israels-killing-of-al-jazeera-reporter?traffic_source=rss)
+
+---
+
+### 8. Oil prices, stocks surge as Hormuz closure drags on
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss)
+
+---
+
+### 9. Earthquake with 7.4 magnitude hits Colombia, killing at least 20
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A group including Amazon founder Jeff Bezos advances its talks to buy about a 30
 Emergency teams are still assessing the impact of the quake that was felt across the region.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss)
-
----
-
-### 8. Indian police attack protesters seeking action over ‘exam irregularities’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss)
-
----
-
-### 9. Ben-Gvir posts AI video of starving Palestinian ahead of elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ben-Gvir posts AI video of starving Palestinian ahead of elections
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss)
 
 ---
 
