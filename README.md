@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 01:33:04
+**Last Update:** 2026-08-11 02:17:48
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249971">https://news.ycombinator.com/item?id=49249971</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
+<p>Points: 68</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
 
 ---
 
-### 2. Stop Killing Games: It's time to sue Sony, join us
+### 2. Confessions of a Long-Distance Sailor
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arachnoid.com/lutusp/sailbook.html">https://arachnoid.com/lutusp/sailbook.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249555">https://news.ycombinator.com/item?id=49249555</a></p>
+<p>Points: 15</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://arachnoid.com/lutusp/sailbook.html](https://arachnoid.com/lutusp/sailbook.html)
+
+---
+
+### 3. Stop Killing Games: It's time to sue Sony, join us
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.massaschadeconsument.nl/collectieve-acties/playstation/">https://www.massaschadeconsument.nl/collectieve-acties/playstation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249481">https://news.ycombinator.com/item?id=49249481</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Points: 61</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.massaschadeconsument.nl/collectieve-acties/playstation/](https://www.massaschadeconsument.nl/collectieve-acties/playstation/)
-
----
-
-### 3. Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://linuxstans.com/illinois-hb5511-operating-system-age-verification/">https://linuxstans.com/illinois-hb5511-operating-system-age-verification/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249150">https://news.ycombinator.com/item?id=49249150</a></p>
-<p>Points: 162</p>
-<p># Comments: 162</p>
-
-🔗 **Read more:** [https://linuxstans.com/illinois-hb5511-operating-system-age-verification/](https://linuxstans.com/illinois-hb5511-operating-system-age-verification/)
 
 ---
 
@@ -97,7 +97,33 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Colombia’s Espriella to lead emergency efforts following Bogota earthquake
+### 7. Ceuta mayor calls for migrant detention amid mass influx crisis
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss)
+
+---
+
+### 8. Al Jazeera reporter on the ground as Colombia quake death toll rises
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss)
+
+---
+
+### 9. Colombia’s Espriella to lead emergency efforts following Bogota earthquake
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss)
-
----
-
-### 8. Europe braces for another heatwave after record-breaking temperatures
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss)
-
----
-
-### 9. Wildfires burn across Indonesia as officials cite El Nino as a cause
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss)
 
 ---
 
