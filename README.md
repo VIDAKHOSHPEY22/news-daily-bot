@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 09:46:00
+**Last Update:** 2026-08-10 10:17:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why do we assume everyone should be working?
+### 1. Docker Sandboxes – Disposable, isolated sandboxes for AI agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/">https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239467">https://news.ycombinator.com/item?id=49239467</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.docker.com/products/docker-sandboxes/">https://www.docker.com/products/docker-sandboxes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239751">https://news.ycombinator.com/item?id=49239751</a></p>
+<p>Points: 36</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/](https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/)
+🔗 **Read more:** [https://www.docker.com/products/docker-sandboxes/](https://www.docker.com/products/docker-sandboxes/)
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai">https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239226">https://news.ycombinator.com/item?id=49239226</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 11</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai](https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai)
 
 ---
 
-### 3. Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)
+### 3. Auto mode is now the default in Claude Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nber.org/papers/w35560">https://www.nber.org/papers/w35560</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239095">https://news.ycombinator.com/item?id=49239095</a></p>
-<p>Points: 48</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://claude.com/blog/auto-mode-default-in-claude-code">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49239021">https://news.ycombinator.com/item?id=49239021</a></p>
+<p>Points: 137</p>
+<p># Comments: 106</p>
 
-🔗 **Read more:** [https://www.nber.org/papers/w35560](https://www.nber.org/papers/w35560)
+🔗 **Read more:** [https://claude.com/blog/auto-mode-default-in-claude-code](https://claude.com/blog/auto-mode-default-in-claude-code)
 
 ---
 
