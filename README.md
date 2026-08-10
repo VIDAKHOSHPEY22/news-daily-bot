@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 13:55:02
+**Last Update:** 2026-08-10 14:10:25
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The boat made the journey on Saturday, when a total of 258 migrants made the crossing on four boats.
+The 230 people on one boat breaks the previous record from July, which was 165 on a vessel.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ The seven-figure payment was given to Steve Buck as part of package to persuade 
 
 ---
 
-### 7. UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan
+### 7. June and July hottest on record in Western Europe, monitor says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Copernicus Climate Change Service says historically low rainfall has worsened the situation in several countries.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/june-and-july-hottest-on-record-in-western-europe-monitor-says?traffic_source=rss)
+
+---
+
+### 8. UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Three confederations release letter criticising FIFA&#039;s president over his p
 
 ---
 
-### 8. One year on, Gaza mourns journalist Anas al-Sharif’s death
+### 9. One year on, Gaza mourns journalist Anas al-Sharif’s death
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Three confederations release letter criticising FIFA&#039;s president over his p
 Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilian lives.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss)
-
----
-
-### 9. Who is Mohsen Rezaei, and how significant is his appointment?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Former IRGC commander Rezaei will be taking over as secretary of Iran&#039;s top security body amid Hormuz talks.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss)
 
 ---
 
