@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-10T13:55:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+            "description": "<p>Article URL: <a href=\"https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant\">https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241303\">https://news.ycombinator.com/item?id=49241303</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
+            "published": "Mon, 10 Aug 2026 09:22:25 +0000",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+            "description": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 225</p>\n<p># Comments: 144</p>",
+            "url": "https://www.docker.com/products/docker-sandboxes/",
+            "published": "Mon, 10 Aug 2026 06:02:38 +0000",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Auto mode is now the default in Claude Code",
+            "description": "<p>Article URL: <a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239021\">https://news.ycombinator.com/item?id=49239021</a></p>\n<p>Points: 217</p>\n<p># Comments: 222</p>",
+            "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+            "published": "Mon, 10 Aug 2026 03:50:00 +0000",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Record 230 people cross Channel in one small boat",
+            "description": "The boat made the journey on Saturday, when a total of 258 migrants made the crossing on four boats.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 10:20:13 GMT",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge staff gave domestic abuser key to his victim's room",
+            "description": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 05:00:07 GMT",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thames Water gave finance boss a £1m signing-on fee",
+            "description": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+            "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 09:34:20 GMT",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan",
+            "description": "Three confederations release letter criticising FIFA&#039;s president over his proposal to sell off stakes in the World Cup.",
+            "url": "https://www.aljazeera.com/sports/2026/8/10/uefa-afc-concacaf-hit-out-at-infantino-over-world-cup-privatisation-plan?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 10:15:02 +0000",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
+            "description": "Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilian lives.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 10:13:31 +0000",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Mohsen Rezaei, and how significant is his appointment?",
+            "description": "Former IRGC commander Rezaei will be taking over as secretary of Iran&#039;s top security body amid Hormuz talks.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 10:11:48 +0000",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wrights Spring, Klamath, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22196",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Chan-Hom",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22306",
+            "published": "2026-08-05T18:00:00Z",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BUZZARD, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22195",
+            "published": "2026-08-05T11:08:00Z",
+            "fetched": "2026-08-10T13:55:02+03:30"
+        }
+    ]
+}
