@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-10T17:20:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mistral Patent for \"Code implemented tool calls\"",
+            "description": "<p>Article URL: <a href=\"https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html\">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49243397\">https://news.ycombinator.com/item?id=49243397</a></p>\n<p>Points: 25</p>\n<p># Comments: 17</p>",
+            "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+            "published": "Mon, 10 Aug 2026 13:29:12 +0000",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Defending my own brain against enshittification",
+            "description": "<p>Article URL: <a href=\"https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/\">https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49243269\">https://news.ycombinator.com/item?id=49243269</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
+            "published": "Mon, 10 Aug 2026 13:20:09 +0000",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Resurrecting the SuperH Architecture (2015)",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/647636/\">https://lwn.net/Articles/647636/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49243193\">https://news.ycombinator.com/item?id=49243193</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://lwn.net/Articles/647636/",
+            "published": "Mon, 10 Aug 2026 13:13:47 +0000",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Record 230 people cross Channel in one small boat",
+            "description": "The Home Office says it shows the \"reckless and dangerous tactics\" used by gangs \"cramming ever greater numbers on to unseaworthy vessels\".",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 13:27:38 GMT",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Dust devil' spins through London park",
+            "description": "Footage captured in London's Greenwich Park on Sunday showed the moment a small whirlwind swirled around people.",
+            "url": "https://www.bbc.co.uk/news/videos/c07r0njvpm1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 11:14:50 GMT",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge staff gave domestic abuser key to his victim's room",
+            "description": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 05:00:07 GMT",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea",
+            "description": "Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 13:32:05 +0000",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why choosing low-fat dairy is not necessarily better for your health",
+            "description": "For years, we thought low-fat dairy was the way to manage obesity. New research is increasingly questioning this logic.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 13:31:09 +0000",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigel Farage vows to deport foreign criminals from UK prisons",
+            "description": "Nigel Farage vows to deport foreign criminals from UK prisons",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 13:24:52 +0000",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A76C",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359",
+            "published": "2021-05-28T00:00:00Z",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D32",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+            "published": "2022-10-21T00:00:00Z",
+            "fetched": "2026-08-10T17:20:33+03:30"
+        }
+    ]
+}

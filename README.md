@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-10 16:56:35
+**Last Update:** 2026-08-10 17:20:33
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. 50k Boat Names
+### 1. Mistral Patent for "Code implemented tool calls"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.beautifulpublicdata.com/boat-names/">https://www.beautifulpublicdata.com/boat-names/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243029">https://news.ycombinator.com/item?id=49243029</a></p>
-<p>Points: 16</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html">https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243397">https://news.ycombinator.com/item?id=49243397</a></p>
+<p>Points: 25</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.beautifulpublicdata.com/boat-names/](https://www.beautifulpublicdata.com/boat-names/)
+🔗 **Read more:** [https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html](https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html)
 
 ---
 
-### 2. Over 181,000 AI meeting recordings left wide open in note taking app
+### 2. Defending my own brain against enshittification
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bobdahacker.com/blog/tldv-hack">https://bobdahacker.com/blog/tldv-hack</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49242739">https://news.ycombinator.com/item?id=49242739</a></p>
-<p>Points: 30</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/">https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243269">https://news.ycombinator.com/item?id=49243269</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://bobdahacker.com/blog/tldv-hack](https://bobdahacker.com/blog/tldv-hack)
+🔗 **Read more:** [https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/)
 
 ---
 
-### 3. DeepSeek costs OpenCode Go user $1.14/day; dual DGX breaks even in 24 years
+### 3. Resurrecting the SuperH Architecture (2015)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/thdxr/status/2086599224674681242">https://twitter.com/thdxr/status/2086599224674681242</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49242728">https://news.ycombinator.com/item?id=49242728</a></p>
-<p>Points: 20</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://lwn.net/Articles/647636/">https://lwn.net/Articles/647636/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49243193">https://news.ycombinator.com/item?id=49243193</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/thdxr/status/2086599224674681242](https://twitter.com/thdxr/status/2086599224674681242)
+🔗 **Read more:** [https://lwn.net/Articles/647636/](https://lwn.net/Articles/647636/)
 
 ---
 
@@ -97,42 +97,42 @@ A woman tells the BBC her attacker kicked her hotel room door "off its hinges" a
 
 ---
 
-### 7. Has the army turned the page on control of western Sudan?
+### 7. Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sudan&#039;s military repels a series of offensives by the RSF paramilitary in a strategically significant region.
+Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/gaza-honours-al-jazeeras-anas-al-sharif-and-mohammed-qraiqea?traffic_source=rss)
 
 ---
 
-### 8. Jeff Bezos consortium nears deal to buy stake in Liverpool FC: Reports
+### 8. Why choosing low-fat dairy is not necessarily better for your health
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Investment reportedly values the club at about $5.9bn, making it one of the largest ever football club valuations.
+For years, we thought low-fat dairy was the way to manage obesity. New research is increasingly questioning this logic.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/10/jeff-bezos-consortium-nears-deal-to-buy-stake-in-liverpool-fc-reports?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/10/jeff-bezos-consortium-nears-deal-to-buy-stake-in-liverpool-fc-reports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/why-choosing-low-fat-dairy-is-not-necessarily-better-for-your-health?traffic_source=rss)
 
 ---
 
-### 9. Taiwan holds military drills to prepare for invasion by China
+### 9. Nigel Farage vows to deport foreign criminals from UK prisons
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Taiwan holds military drills to prepare for invasion by China
+Nigel Farage vows to deport foreign criminals from UK prisons
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/nigel-farage-vows-to-deport-foreign-criminals-from-uk-prisons?traffic_source=rss)
 
 ---
 
