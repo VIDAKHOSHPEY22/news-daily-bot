@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T01:21:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon backs power plant that may become top source of US climate pollution",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/\">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49249971\">https://news.ycombinator.com/item?id=49249971</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+            "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+            "published": "Mon, 10 Aug 2026 21:26:16 +0000",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Stop Killing Games: It's time to sue Sony, join us",
+            "description": "<p>Article URL: <a href=\"https://www.massaschadeconsument.nl/collectieve-acties/playstation/\">https://www.massaschadeconsument.nl/collectieve-acties/playstation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49249481\">https://news.ycombinator.com/item?id=49249481</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+            "published": "Mon, 10 Aug 2026 20:47:13 +0000",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+            "description": "<p>Article URL: <a href=\"https://linuxstans.com/illinois-hb5511-operating-system-age-verification/\">https://linuxstans.com/illinois-hb5511-operating-system-age-verification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49249150\">https://news.ycombinator.com/item?id=49249150</a></p>\n<p>Points: 162</p>\n<p># Comments: 162</p>",
+            "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+            "published": "Mon, 10 Aug 2026 20:20:06 +0000",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than two-thirds of England now in drought",
+            "description": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status.",
+            "url": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 17:41:39 GMT",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New Forest firefighting to continue overnight as cars abandoned",
+            "description": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.",
+            "url": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 20:24:05 GMT",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+            "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+            "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 21:33:51 GMT",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Europe braces for another heatwave after record-breaking temperatures",
+            "description": "Extreme heat warnings issued in Britain and France with temperatures forecasted to reach mid-30s Celsius this week.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 21:29:32 +0000",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
+            "description": "Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 21:15:41 +0000",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
+            "description": "Text envisages a return to civilian life for some of the Kurdistan Workers’ Party fighters who lay down their weapons.",
+            "url": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
+            "published": "Mon, 10 Aug 2026 21:14:16 +0000",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T01:21:07+03:30"
+        }
+    ]
+}
