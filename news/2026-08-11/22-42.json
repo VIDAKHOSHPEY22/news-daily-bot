@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T22:42:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We Used to Get Jobs",
+            "description": "<p>Article URL: <a href=\"https://ironicsans.ghost.io/how-we-used-to-get-jobs/\">https://ironicsans.ghost.io/how-we-used-to-get-jobs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49262211\">https://news.ycombinator.com/item?id=49262211</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+            "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+            "published": "Tue, 11 Aug 2026 18:09:56 +0000",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenSSH 10.5/10.5p1",
+            "description": "<p>Article URL: <a href=\"https://www.openssh.org/releasenotes.html#10.5\">https://www.openssh.org/releasenotes.html#10.5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261895\">https://news.ycombinator.com/item?id=49261895</a></p>\n<p>Points: 30</p>\n<p># Comments: 10</p>",
+            "url": "https://www.openssh.org/releasenotes.html#10.5",
+            "published": "Tue, 11 Aug 2026 17:49:37 +0000",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+            "description": "<p>Article URL: <a href=\"https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/\">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49261133\">https://news.ycombinator.com/item?id=49261133</a></p>\n<p>Points: 117</p>\n<p># Comments: 123</p>",
+            "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+            "published": "Tue, 11 Aug 2026 16:57:09 +0000",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+            "description": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
+            "url": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 14:23:52 GMT",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
+            "description": "The PM says the justice secretary will present a plan in September to prevent more early releases.",
+            "url": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:19:38 GMT",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Eclipse chasers scramble for glasses as stocks run low",
+            "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:31:43 GMT",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UNESCO says 2.4 million Afghan girls denied access to further education",
+            "description": "UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 18:59:42 +0000",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuela and Israel restore consular ties as relations warm",
+            "description": "Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 18:58:33 +0000",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tightened blockade on Gaza causes prices to soar",
+            "description": "As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 18:45:26 +0000",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T22:42:45+03:30"
+        }
+    ]
+}

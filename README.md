@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 21:42:01
+**Last Update:** 2026-08-11 22:42:45
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Woman Pulled over at Gunpoint Twice After Flock Camera Glitch
+### 1. We Used to Get Jobs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/">https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261218">https://news.ycombinator.com/item?id=49261218</a></p>
-<p>Points: 36</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://ironicsans.ghost.io/how-we-used-to-get-jobs/">https://ironicsans.ghost.io/how-we-used-to-get-jobs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262211">https://news.ycombinator.com/item?id=49262211</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/](https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/)
+🔗 **Read more:** [https://ironicsans.ghost.io/how-we-used-to-get-jobs/](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
 
 ---
 
-### 2. Why Go Is an Ideal Language for AI-Assisted Software Engineering
+### 2. OpenSSH 10.5/10.5p1
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.5">https://www.openssh.org/releasenotes.html#10.5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261895">https://news.ycombinator.com/item?id=49261895</a></p>
+<p>Points: 30</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.5](https://www.openssh.org/releasenotes.html#10.5)
+
+---
+
+### 3. Why Go Is an Ideal Language for AI-Assisted Software Engineering
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261133">https://news.ycombinator.com/item?id=49261133</a></p>
-<p>Points: 36</p>
-<p># Comments: 29</p>
+<p>Points: 117</p>
+<p># Comments: 123</p>
 
 🔗 **Read more:** [https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
-
----
-
-### 3. Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/TheRealYT/git-knife">https://github.com/TheRealYT/git-knife</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49259611">https://news.ycombinator.com/item?id=49259611</a></p>
-<p>Points: 69</p>
-<p># Comments: 49</p>
-
-🔗 **Read more:** [https://github.com/TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
 
 ---
 
@@ -84,55 +84,94 @@ The PM says the justice secretary will present a plan in September to prevent mo
 
 ---
 
-### 6. Watch: Was Trump smuggled out of Air Force One in a catering truck?
+### 6. Eclipse chasers scramble for glasses as stocks run low
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.
+Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US jury in Luigi Mangione murder trial to remain anonymous
+### 7. UNESCO says 2.4 million Afghan girls denied access to further education
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The closely watched state trial over the killing of UnitedHealthcare CEO Brian Thompson is set to begin next month.
+UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/us-jury-in-luigi-mangione-murder-trial-to-remain-anonymous?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss)
 
 ---
 
-### 8. Russia frees ex-US Marine Robert Gilman from detention
+### 8. Venezuela and Israel restore consular ties as relations warm
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US government had recently designated Gilman as wrongfully detained.
+Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss)
 
 ---
 
-### 9. Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA
+### 9. Tightened blockade on Gaza causes prices to soar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Poland says their preparations to host the Women&#039;s Under-20 World Cup remain on schedule, despite UEFA-FIFA fallout.
+As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm 15W
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386)
+
+---
+
+### 11. Wildfire Harris, Rosebud, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430)
+
+---
+
+### 12. Wildfire WEISER KNOLL, Fremont, Wyoming
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424)
 
 ---
 
