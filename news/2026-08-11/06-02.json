@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T06:02:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chicken Scheme 6.0",
+            "description": "<p>Article URL: <a href=\"https://code.call-cc.org/releases/6.0.0/NEWS\">https://code.call-cc.org/releases/6.0.0/NEWS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49251702\">https://news.ycombinator.com/item?id=49251702</a></p>\n<p>Points: 50</p>\n<p># Comments: 4</p>",
+            "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+            "published": "Tue, 11 Aug 2026 00:24:15 +0000",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The UK's War on Anonymity Has Come to America",
+            "description": "<p>Article URL: <a href=\"https://www.effort.news/uk-lobby\">https://www.effort.news/uk-lobby</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49251411\">https://news.ycombinator.com/item?id=49251411</a></p>\n<p>Points: 218</p>\n<p># Comments: 137</p>",
+            "url": "https://www.effort.news/uk-lobby",
+            "published": "Mon, 10 Aug 2026 23:45:50 +0000",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+            "description": "<p>Article URL: <a href=\"https://everycube.alen.is/\">https://everycube.alen.is/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49251179\">https://news.ycombinator.com/item?id=49251179</a></p>\n<p>Points: 71</p>\n<p># Comments: 13</p>",
+            "url": "https://everycube.alen.is/",
+            "published": "Mon, 10 Aug 2026 23:16:25 +0000",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Amber heat health alerts for almost all of England as next heatwave begins",
+            "description": "The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 01:38:14 GMT",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+            "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+            "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 21:33:51 GMT",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New Forest firefighting to continue overnight as cars abandoned",
+            "description": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.",
+            "url": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 02:25:31 GMT",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Soldiers take cover as Colombia quake flattens military barracks",
+            "description": "Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 01:06:36 +0000",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+            "description": "Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 00:55:09 +0000",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Seventy years after South Africa’s women’s march, the struggle is not over",
+            "description": "Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.",
+            "url": "https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 00:26:02 +0000",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T06:02:16+03:30"
+        }
+    ]
+}
