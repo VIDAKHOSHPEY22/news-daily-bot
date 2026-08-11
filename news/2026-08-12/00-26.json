@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T00:26:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The brain may be about to have its Ozempic moment",
+            "description": "<p>Article URL: <a href=\"https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment\">https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263658\">https://news.ycombinator.com/item?id=49263658</a></p>\n<p>Points: 38</p>\n<p># Comments: 19</p>",
+            "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+            "published": "Tue, 11 Aug 2026 20:01:27 +0000",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Compression Is Prediction",
+            "description": "<p>Article URL: <a href=\"https://ngrok.com/blog/compression-is-prediction\">https://ngrok.com/blog/compression-is-prediction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263497\">https://news.ycombinator.com/item?id=49263497</a></p>\n<p>Points: 47</p>\n<p># Comments: 23</p>",
+            "url": "https://ngrok.com/blog/compression-is-prediction",
+            "published": "Tue, 11 Aug 2026 19:49:44 +0000",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/\">https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49263461\">https://news.ycombinator.com/item?id=49263461</a></p>\n<p>Points: 22</p>\n<p># Comments: 23</p>",
+            "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+            "published": "Tue, 11 Aug 2026 19:45:41 +0000",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+            "description": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
+            "url": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 14:23:52 GMT",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
+            "description": "The PM says the justice secretary will present a plan in September to prevent more early releases.",
+            "url": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 20:09:52 GMT",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Eclipse chasers scramble for glasses as stocks run low",
+            "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:31:43 GMT",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan interior minister in Tehran amid talks to reopen Hormuz",
+            "description": "Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 20:35:50 +0000",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "In Gaza’s tents, widows face war’s harshest realities alone",
+            "description": "Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 20:30:11 +0000",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone",
+            "description": "Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous.",
+            "url": "https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 20:29:34 +0000",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T00:26:14+03:30"
+        }
+    ]
+}

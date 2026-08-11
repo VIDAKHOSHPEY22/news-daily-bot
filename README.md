@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 23:01:05
+**Last Update:** 2026-08-12 00:26:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Making holograms with a pen plotter
+### 1. The brain may be about to have its Ozempic moment
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.jordan.matelsky.com/Penplotter-holography/">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262811">https://news.ycombinator.com/item?id=49262811</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263658">https://news.ycombinator.com/item?id=49263658</a></p>
+<p>Points: 38</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://blog.jordan.matelsky.com/Penplotter-holography/](https://blog.jordan.matelsky.com/Penplotter-holography/)
+🔗 **Read more:** [https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 
 ---
 
-### 2. The Tradeoffs Facing Japan's Economy
+### 2. Compression Is Prediction
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/">https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262761">https://news.ycombinator.com/item?id=49262761</a></p>
-<p>Points: 23</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://ngrok.com/blog/compression-is-prediction">https://ngrok.com/blog/compression-is-prediction</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263497">https://news.ycombinator.com/item?id=49263497</a></p>
+<p>Points: 47</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/](https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/)
+🔗 **Read more:** [https://ngrok.com/blog/compression-is-prediction](https://ngrok.com/blog/compression-is-prediction)
 
 ---
 
-### 3. How we used to get jobs: A newspaper classifieds story
+### 3. Bluesky's active user base is shrinking as its focus expands beyond the app
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ironicsans.ghost.io/how-we-used-to-get-jobs/">https://ironicsans.ghost.io/how-we-used-to-get-jobs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262211">https://news.ycombinator.com/item?id=49262211</a></p>
-<p>Points: 27</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/">https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263461">https://news.ycombinator.com/item?id=49263461</a></p>
+<p>Points: 22</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://ironicsans.ghost.io/how-we-used-to-get-jobs/](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
+🔗 **Read more:** [https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
 
 ---
 
@@ -97,42 +97,42 @@ Specialist glasses are all but sold out online ahead of the UK's most significan
 
 ---
 
-### 7. UNESCO says 2.4 million Afghan girls denied access to further education
+### 7. Pakistan interior minister in Tehran amid talks to reopen Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.
+Pakistan’s interior minister Mohsin Naqvi has held talks with Iranian Foreign Minister Abbas Araghchi in Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/pakistan-interior-minister-in-tehran-amid-talks-to-reopen-hormuz?traffic_source=rss)
 
 ---
 
-### 8. Venezuela and Israel restore consular ties as relations warm
+### 8. In Gaza’s tents, widows face war’s harshest realities alone
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.
+Widows in Gaza struggle alone under displacement, burdened by loss, insecurity, and daily battles for survival.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss)
 
 ---
 
-### 9. Tightened blockade on Gaza causes prices to soar
+### 9. Fishermen face deadly dangers as Yemen’s Red Sea becomes a warzone
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.
+Many Yemeni fishermen have abandoned the trade, seeking safer livelihoods as Red Sea becomes too dangerous.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss](https://www.aljazeera.com/features/2026/8/11/yemen-red-sea-fishermen?traffic_source=rss)
 
 ---
 
