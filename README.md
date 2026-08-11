@@ -1,48 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 09:40:33
+**Last Update:** 2026-08-11 10:52:15
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Half of Europe's towns and villages have fewer residents than 60 years ago
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/">https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253813">https://news.ycombinator.com/item?id=49253813</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/)
-
----
-
-### 2. DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself">https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253738">https://news.ycombinator.com/item?id=49253738</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself)
-
----
-
-### 3. Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%
+### 1. Show HN: Mcptoon – Token-efficient MCP CLI client
 
 **Source:** Hacker News
 
@@ -51,10 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news.ycombinator.com/item?id=49253721</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
+<p>Points: 27</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://github.com/activeing123/mcptoon](https://github.com/activeing123/mcptoon)
+
+---
+
+### 2. Hyperspace
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hypercritical.co/hyperspace/">https://hypercritical.co/hyperspace/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252493">https://news.ycombinator.com/item?id=49252493</a></p>
+<p>Points: 59</p>
+<p># Comments: 41</p>
+
+🔗 **Read more:** [https://hypercritical.co/hyperspace/](https://hypercritical.co/hyperspace/)
+
+---
+
+### 3. Recycle – Floppydisks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.floppydisk.com/recycle">https://www.floppydisk.com/recycle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252462">https://news.ycombinator.com/item?id=49252462</a></p>
+<p>Points: 49</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.floppydisk.com/recycle](https://www.floppydisk.com/recycle)
 
 ---
 
@@ -97,7 +97,20 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Somali referee arrives for UEFA Super Cup after World Cup exclusion
+### 7. Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss)
+
+---
+
+### 8. Somali referee arrives for UEFA Super Cup after World Cup exclusion
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Somali referee Omar Artan will make history as the first non-European referee to
 
 ---
 
-### 8. Family watches helplessly as Colombia quake destroys home
+### 9. Family watches helplessly as Colombia quake destroys home
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Somali referee Omar Artan will make history as the first non-European referee to
 A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss)
-
----
-
-### 9. Trump’s media company reports $238m loss
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump Media &amp; Technology Group earns less than $2m in Q2.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss)
 
 ---
 
