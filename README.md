@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 00:26:14
+**Last Update:** 2026-08-12 00:39:43
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263658">https://news.ycombinator.com/item?id=49263658</a></p>
-<p>Points: 38</p>
-<p># Comments: 19</p>
+<p>Points: 51</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://ngrok.com/blog/compression-is-prediction">https://ngrok.com/blog/compression-is-prediction</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263497">https://news.ycombinator.com/item?id=49263497</a></p>
-<p>Points: 47</p>
-<p># Comments: 23</p>
+<p>Points: 68</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://ngrok.com/blog/compression-is-prediction](https://ngrok.com/blog/compression-is-prediction)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/">https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263461">https://news.ycombinator.com/item?id=49263461</a></p>
-<p>Points: 22</p>
-<p># Comments: 23</p>
+<p>Points: 26</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/)
 
 ---
 
-### 4. Summer 2026 on course to be UK's hottest on record, says Met Office
+### 4. Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Summer 2026 on course to be UK's hottest on record, says Met Office
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Only average conditions are needed for the remainder of August to break the reco
 
 ---
 
-### 5. Burnham 'confident' early release of PC Harper's killers can be halted
+### 6. Burnham 'confident' early release of PC Harper's killers can be halted
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ Only average conditions are needed for the remainder of August to break the reco
 The PM says the justice secretary will present a plan in September to prevent more early releases.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Eclipse chasers scramble for glasses as stocks run low
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss)
 
 ---
 
