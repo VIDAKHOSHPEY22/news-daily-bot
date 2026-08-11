@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 03:25:54
+**Last Update:** 2026-08-11 05:48:42
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. World Train Map – 1247 train routes around the world
+### 1. Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://worldtrainmap.com/">https://worldtrainmap.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250894">https://news.ycombinator.com/item?id=49250894</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html">https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251978">https://news.ycombinator.com/item?id=49251978</a></p>
+<p>Points: 44</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://worldtrainmap.com/](https://worldtrainmap.com/)
+🔗 **Read more:** [https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html](https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html)
 
 ---
 
-### 2. Google Search Is Dying. What Comes Next Is Worse
+### 2. Chicken Scheme 6.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://thewalrus.ca/google-search-is-dying/">https://thewalrus.ca/google-search-is-dying/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49250836">https://news.ycombinator.com/item?id=49250836</a></p>
-<p>Points: 36</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://code.call-cc.org/releases/6.0.0/NEWS">https://code.call-cc.org/releases/6.0.0/NEWS</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251702">https://news.ycombinator.com/item?id=49251702</a></p>
+<p>Points: 31</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://thewalrus.ca/google-search-is-dying/](https://thewalrus.ca/google-search-is-dying/)
+🔗 **Read more:** [https://code.call-cc.org/releases/6.0.0/NEWS](https://code.call-cc.org/releases/6.0.0/NEWS)
 
 ---
 
-### 3. Amazon backs power plant that may become top source of US climate pollution
+### 3. The UK's War on Anonymity Has Come to America
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/">https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49249971">https://news.ycombinator.com/item?id=49249971</a></p>
-<p>Points: 130</p>
-<p># Comments: 78</p>
+<p>Article URL: <a href="https://www.effort.news/uk-lobby">https://www.effort.news/uk-lobby</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251411">https://news.ycombinator.com/item?id=49251411</a></p>
+<p>Points: 168</p>
+<p># Comments: 93</p>
 
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/](https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/)
+🔗 **Read more:** [https://www.effort.news/uk-lobby](https://www.effort.news/uk-lobby)
 
 ---
 
-### 4. More than two-thirds of England now in drought
+### 4. Amber heat health alerts for almost all of England as next heatwave begins
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status.
+The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. New Forest firefighting to continue overnight as cars abandoned
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Councils to get more powers to stop vape and betting shops, PM announces
+### 5. Councils to get more powers to stop vape and betting shops, PM announces
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 7. Inside a secret launch site for Ukraine’s deep-strike drones
+### 6. New Forest firefighting to continue overnight as cars abandoned
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-AJ&#039;s Audrey MacAlpine reports from a secret launch site in eastern Ukraine, where soldiers prepare long-range drones.
+One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Moment of terror as powerful earthquake shakes airport in Colombia
+### 7. Soldiers take cover as Colombia quake flattens military barracks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake
+Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss)
 
 ---
 
-### 9. Ceuta mayor calls for migrant detention amid mass influx crisis
+### 8. Turkiye passes law giving thousands of PKK members chance at amnesty
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.
+Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss)
+
+---
+
+### 9. Seventy years after South Africa’s women’s march, the struggle is not over
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss](https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss)
 
 ---
 
