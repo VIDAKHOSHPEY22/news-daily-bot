@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T11:13:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+            "description": "<p>Article URL: <a href=\"https://github.com/activeing123/mcptoon\">https://github.com/activeing123/mcptoon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253721\">https://news.ycombinator.com/item?id=49253721</a></p>\n<p>Points: 30</p>\n<p># Comments: 20</p>",
+            "url": "https://github.com/activeing123/mcptoon",
+            "published": "Tue, 11 Aug 2026 05:26:58 +0000",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hyperspace",
+            "description": "<p>Article URL: <a href=\"https://hypercritical.co/hyperspace/\">https://hypercritical.co/hyperspace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49252493\">https://news.ycombinator.com/item?id=49252493</a></p>\n<p>Points: 64</p>\n<p># Comments: 44</p>",
+            "url": "https://hypercritical.co/hyperspace/",
+            "published": "Tue, 11 Aug 2026 02:04:35 +0000",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Recycle – Floppydisks",
+            "description": "<p>Article URL: <a href=\"https://www.floppydisk.com/recycle\">https://www.floppydisk.com/recycle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49252462\">https://news.ycombinator.com/item?id=49252462</a></p>\n<p>Points: 51</p>\n<p># Comments: 21</p>",
+            "url": "https://www.floppydisk.com/recycle",
+            "published": "Tue, 11 Aug 2026 02:01:01 +0000",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Amber heat health alerts for almost all of England as next heatwave begins",
+            "description": "The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 01:38:14 GMT",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+            "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+            "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 21:33:51 GMT",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 132 killed in Colombia's largest  earthquake in years",
+            "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+            "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 04:06:07 GMT",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
+            "description": "Trump&#039;s comments are the first time he has spoken in FIFA president&#039;s defence since FFE plans were leaked on July 28.",
+            "url": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 07:13:29 +0000",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
+            "description": "A children&#039;s hospital has also been struck in Kyiv, according to Ukraine&#039;s state emergency service.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 07:07:51 +0000",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+            "description": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 06:05:07 +0000",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T11:13:37+03:30"
+        }
+    ]
+}
