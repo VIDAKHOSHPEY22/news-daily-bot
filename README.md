@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 15:33:06
+**Last Update:** 2026-08-11 16:52:25
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Panic of 1873
+### 1. OpenAI's Only Ethicist Reportedly Left Last Month
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Panic_of_1873">https://en.wikipedia.org/wiki/Panic_of_1873</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255918">https://news.ycombinator.com/item?id=49255918</a></p>
-<p>Points: 13</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883">https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257160">https://news.ycombinator.com/item?id=49257160</a></p>
+<p>Points: 28</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Panic_of_1873](https://en.wikipedia.org/wiki/Panic_of_1873)
+🔗 **Read more:** [https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883](https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883)
 
 ---
 
-### 2. Closing Canario Terminal source code
+### 2. How to organize Claude Code for product work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rapha.land/closing-canario-terminal-source-code/">https://rapha.land/closing-canario-terminal-source-code/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254881">https://news.ycombinator.com/item?id=49254881</a></p>
-<p>Points: 11</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.theaithinker.com/p/how-to-organize-claude-code-for-product">https://www.theaithinker.com/p/how-to-organize-claude-code-for-product</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49256258">https://news.ycombinator.com/item?id=49256258</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://rapha.land/closing-canario-terminal-source-code/](https://rapha.land/closing-canario-terminal-source-code/)
+🔗 **Read more:** [https://www.theaithinker.com/p/how-to-organize-claude-code-for-product](https://www.theaithinker.com/p/how-to-organize-claude-code-for-product)
 
 ---
 
-### 3. France to ban unsolicited telemarketing calls
+### 3. Nvidia's Risky Business
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 329</p>
-<p># Comments: 202</p>
+<p>Article URL: <a href="https://stratechery.com/2026/nvidias-risky-business/">https://stratechery.com/2026/nvidias-risky-business/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255710">https://news.ycombinator.com/item?id=49255710</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+🔗 **Read more:** [https://stratechery.com/2026/nvidias-risky-business/](https://stratechery.com/2026/nvidias-risky-business/)
 
 ---
 
@@ -84,55 +84,55 @@ An amber weather warning for extreme heat has been issued for Thursday, when ext
 
 ---
 
-### 6. Councils to get more powers to stop vape and betting shops, PM announces
+### 6. Eclipse chasers scramble for glasses as stocks run low
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prime Minister Andy Burnham said town centres had been "hollowed out" by decades of decline.
+Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Syrian court sentences Bashar al-Assad to death in absentia
+### 7. Hunter Biden defends Tucker Carlson over Netanyahu comments
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrian court sentences Bashar al-Assad to death in absentia
+Hunter Biden defends Tucker Carlson over Netanyahu comments
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss)
 
 ---
 
-### 8. ‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war
+### 8. Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.
+Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss)
 
 ---
 
-### 9. Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out
+### 9. What to know about US primary election in Minnesota
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.
+Immigration is at the centre of another closely watched Democratic Senate race.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss)
 
 ---
 
