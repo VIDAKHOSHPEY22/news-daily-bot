@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T12:38:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "France to ban unsolicited telemarketing calls",
+            "description": "<p>Article URL: <a href=\"https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html\">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49254880\">https://news.ycombinator.com/item?id=49254880</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+            "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+            "published": "Tue, 11 Aug 2026 08:15:46 +0000",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+            "description": "<p>Article URL: <a href=\"https://github.com/activeing123/mcptoon\">https://github.com/activeing123/mcptoon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253721\">https://news.ycombinator.com/item?id=49253721</a></p>\n<p>Points: 40</p>\n<p># Comments: 27</p>",
+            "url": "https://github.com/activeing123/mcptoon",
+            "published": "Tue, 11 Aug 2026 05:26:58 +0000",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Recycle – Floppydisks",
+            "description": "<p>Article URL: <a href=\"https://www.floppydisk.com/recycle\">https://www.floppydisk.com/recycle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49252462\">https://news.ycombinator.com/item?id=49252462</a></p>\n<p>Points: 58</p>\n<p># Comments: 25</p>",
+            "url": "https://www.floppydisk.com/recycle",
+            "published": "Tue, 11 Aug 2026 02:01:01 +0000",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+            "description": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 08:57:26 GMT",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
+            "description": "The amber alerts are in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 08:00:06 GMT",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+            "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+            "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 21:33:51 GMT",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rescue efforts intensify as quake devastates western Colombia towns",
+            "description": "Rescue teams rush to find survivors as western Colombia grapples with deadly earthquake devastation.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 08:47:34 +0000",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swiatek to face Svitolina in Canadian Open semifinal",
+            "description": "Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.",
+            "url": "https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 08:47:07 +0000",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What to know about the US primaries in Connecticut, Vermont, and Alabama",
+            "description": "Four redrawn Alabama districts will hold special elections for US House nominees on Tuesday.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 08:39:14 +0000",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T12:38:03+03:30"
+        }
+    ]
+}

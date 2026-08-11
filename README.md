@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 11:13:37
+**Last Update:** 2026-08-11 12:38:03
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Mcptoon – Token-efficient MCP CLI client
+### 1. France to ban unsolicited telemarketing calls
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+
+---
+
+### 2. Show HN: Mcptoon – Token-efficient MCP CLI client
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/activeing123/mcptoon">https://github.com/activeing123/mcptoon</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49253721">https://news.ycombinator.com/item?id=49253721</a></p>
-<p>Points: 30</p>
-<p># Comments: 20</p>
+<p>Points: 40</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://github.com/activeing123/mcptoon](https://github.com/activeing123/mcptoon)
-
----
-
-### 2. Hyperspace
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://hypercritical.co/hyperspace/">https://hypercritical.co/hyperspace/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252493">https://news.ycombinator.com/item?id=49252493</a></p>
-<p>Points: 64</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://hypercritical.co/hyperspace/](https://hypercritical.co/hyperspace/)
 
 ---
 
@@ -51,27 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://www.floppydisk.com/recycle">https://www.floppydisk.com/recycle</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252462">https://news.ycombinator.com/item?id=49252462</a></p>
-<p>Points: 51</p>
-<p># Comments: 21</p>
+<p>Points: 58</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://www.floppydisk.com/recycle](https://www.floppydisk.com/recycle)
 
 ---
 
-### 4. Amber heat health alerts for almost all of England as next heatwave begins
+### 4. Trump hidden in catering truck in secret plane swap over Iran threat, reports say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.
+The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Amber heat health alerts in place for almost all of England as next heatwave hits
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The amber alerts are in place until Friday evening to cover high and even extreme temperatures expected through this week.
 
 🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Councils to get more powers to stop vape and betting shops, PM announces
+### 6. Councils to get more powers to stop vape and betting shops, PM announces
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Prime Minister Andy Burnham said town centres had been "hollowed out" by decades
 
 ---
 
-### 6. At least 132 killed in Colombia's largest  earthquake in years
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’
+### 7. Rescue efforts intensify as quake devastates western Colombia towns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump&#039;s comments are the first time he has spoken in FIFA president&#039;s defence since FFE plans were leaked on July 28.
+Rescue teams rush to find survivors as western Colombia grapples with deadly earthquake devastation.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss)
 
 ---
 
-### 8. Russian attacks kill six in Ukraine’s Zaporizhzhia
+### 8. Swiatek to face Svitolina in Canadian Open semifinal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A children&#039;s hospital has also been struck in Kyiv, according to Ukraine&#039;s state emergency service.
+Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss)
 
 ---
 
-### 9. Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib
+### 9. What to know about the US primaries in Connecticut, Vermont, and Alabama
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.
+Four redrawn Alabama districts will hold special elections for US House nominees on Tuesday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss)
 
 ---
 
