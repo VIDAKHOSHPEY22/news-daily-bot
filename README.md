@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 16:52:25
+**Last Update:** 2026-08-11 17:19:02
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI's Only Ethicist Reportedly Left Last Month
+### 1. It's time Amazon played by the same rules as everyone else [video]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.youtube.com/watch?v=91DoiansHqk">https://www.youtube.com/watch?v=91DoiansHqk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257601">https://news.ycombinator.com/item?id=49257601</a></p>
+<p>Points: 44</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.youtube.com/watch?v=91DoiansHqk](https://www.youtube.com/watch?v=91DoiansHqk)
+
+---
+
+### 2. England set to be one of the first countries to eliminate hepatitis C
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c75gk620r22o">https://www.bbc.com/news/articles/c75gk620r22o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257377">https://news.ycombinator.com/item?id=49257377</a></p>
+<p>Points: 44</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c75gk620r22o](https://www.bbc.com/news/articles/c75gk620r22o)
+
+---
+
+### 3. OpenAI's Only Ethicist Reportedly Left Last Month
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883">https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257160">https://news.ycombinator.com/item?id=49257160</a></p>
-<p>Points: 28</p>
-<p># Comments: 30</p>
+<p>Points: 42</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883](https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883)
-
----
-
-### 2. How to organize Claude Code for product work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theaithinker.com/p/how-to-organize-claude-code-for-product">https://www.theaithinker.com/p/how-to-organize-claude-code-for-product</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49256258">https://news.ycombinator.com/item?id=49256258</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.theaithinker.com/p/how-to-organize-claude-code-for-product](https://www.theaithinker.com/p/how-to-organize-claude-code-for-product)
-
----
-
-### 3. Nvidia's Risky Business
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://stratechery.com/2026/nvidias-risky-business/">https://stratechery.com/2026/nvidias-risky-business/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255710">https://news.ycombinator.com/item?id=49255710</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://stratechery.com/2026/nvidias-risky-business/](https://stratechery.com/2026/nvidias-risky-business/)
 
 ---
 
@@ -123,7 +123,7 @@ Omar Artan was turned away on arrival at Miami International Airport before Worl
 
 ---
 
-### 9. What to know about US primary election in Minnesota
+### 9. What to know about the US primary election in Minnesota
 
 **Source:** Al Jazeera
 

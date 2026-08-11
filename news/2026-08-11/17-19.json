@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T17:19:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "It's time Amazon played by the same rules as everyone else [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=91DoiansHqk\">https://www.youtube.com/watch?v=91DoiansHqk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257601\">https://news.ycombinator.com/item?id=49257601</a></p>\n<p>Points: 44</p>\n<p># Comments: 10</p>",
+            "url": "https://www.youtube.com/watch?v=91DoiansHqk",
+            "published": "Tue, 11 Aug 2026 13:00:34 +0000",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "England set to be one of the first countries to eliminate hepatitis C",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c75gk620r22o\">https://www.bbc.com/news/articles/c75gk620r22o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257377\">https://news.ycombinator.com/item?id=49257377</a></p>\n<p>Points: 44</p>\n<p># Comments: 17</p>",
+            "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+            "published": "Tue, 11 Aug 2026 12:41:59 +0000",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
+            "description": "<p>Article URL: <a href=\"https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883\">https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257160\">https://news.ycombinator.com/item?id=49257160</a></p>\n<p>Points: 42</p>\n<p># Comments: 56</p>",
+            "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
+            "published": "Tue, 11 Aug 2026 12:23:07 +0000",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+            "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 09:58:45 GMT",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
+            "description": "An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 12:21:43 GMT",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Eclipse chasers scramble for glasses as stocks run low",
+            "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 13:35:51 GMT",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
+            "description": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 13:10:49 +0000",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
+            "description": "Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.",
+            "url": "https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 13:09:21 +0000",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What to know about the US primary election in Minnesota",
+            "description": "Immigration is at the centre of another closely watched Democratic Senate race.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 12:56:41 +0000",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T17:19:02+03:30"
+        }
+    ]
+}
