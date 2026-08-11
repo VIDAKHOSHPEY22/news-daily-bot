@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T15:21:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Panic of 1873",
+            "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Panic_of_1873\">https://en.wikipedia.org/wiki/Panic_of_1873</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49255918\">https://news.ycombinator.com/item?id=49255918</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
+            "url": "https://en.wikipedia.org/wiki/Panic_of_1873",
+            "published": "Tue, 11 Aug 2026 10:26:49 +0000",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Closing Canario Terminal source code",
+            "description": "<p>Article URL: <a href=\"https://rapha.land/closing-canario-terminal-source-code/\">https://rapha.land/closing-canario-terminal-source-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49254881\">https://news.ycombinator.com/item?id=49254881</a></p>\n<p>Points: 11</p>\n<p># Comments: 8</p>",
+            "url": "https://rapha.land/closing-canario-terminal-source-code/",
+            "published": "Tue, 11 Aug 2026 08:16:19 +0000",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "France to ban unsolicited telemarketing calls",
+            "description": "<p>Article URL: <a href=\"https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html\">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49254880\">https://news.ycombinator.com/item?id=49254880</a></p>\n<p>Points: 315</p>\n<p># Comments: 189</p>",
+            "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+            "published": "Tue, 11 Aug 2026 08:15:46 +0000",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+            "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 09:58:45 GMT",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
+            "description": "An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 10:37:50 GMT",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+            "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+            "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 09:23:58 GMT",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+            "description": "After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 11:30:48 +0000",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
+            "description": "Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 11:28:53 +0000",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
+            "description": "Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump&#039;s 15-point peace plan.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 11:28:05 +0000",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T15:21:27+03:30"
+        }
+    ]
+}
