@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 06:02:16
+**Last Update:** 2026-08-11 07:56:18
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Chicken Scheme 6.0
+### 1. Hyperspace
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://code.call-cc.org/releases/6.0.0/NEWS">https://code.call-cc.org/releases/6.0.0/NEWS</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251702">https://news.ycombinator.com/item?id=49251702</a></p>
-<p>Points: 50</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://hypercritical.co/hyperspace/">https://hypercritical.co/hyperspace/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252493">https://news.ycombinator.com/item?id=49252493</a></p>
+<p>Points: 15</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://code.call-cc.org/releases/6.0.0/NEWS](https://code.call-cc.org/releases/6.0.0/NEWS)
+🔗 **Read more:** [https://hypercritical.co/hyperspace/](https://hypercritical.co/hyperspace/)
 
 ---
 
-### 2. The UK's War on Anonymity Has Come to America
+### 2. Claude will watermark AI-generated text and images
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.effort.news/uk-lobby">https://www.effort.news/uk-lobby</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251411">https://news.ycombinator.com/item?id=49251411</a></p>
-<p>Points: 218</p>
-<p># Comments: 137</p>
+<p>Article URL: <a href="https://tokenstead.ai/">https://tokenstead.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252486">https://news.ycombinator.com/item?id=49252486</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.effort.news/uk-lobby](https://www.effort.news/uk-lobby)
+🔗 **Read more:** [https://tokenstead.ai/](https://tokenstead.ai/)
 
 ---
 
-### 3. Show HN: Scroll through all 43252003274489856000 Rubik's Cube states
+### 3. Recycle – Floppydisks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://everycube.alen.is/">https://everycube.alen.is/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49251179">https://news.ycombinator.com/item?id=49251179</a></p>
-<p>Points: 71</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.floppydisk.com/recycle">https://www.floppydisk.com/recycle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49252462">https://news.ycombinator.com/item?id=49252462</a></p>
+<p>Points: 28</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://everycube.alen.is/](https://everycube.alen.is/)
+🔗 **Read more:** [https://www.floppydisk.com/recycle](https://www.floppydisk.com/recycle)
 
 ---
 
@@ -97,42 +97,42 @@ One woman says she thought her family's car might go up in flames as the fire to
 
 ---
 
-### 7. Soldiers take cover as Colombia quake flattens military barracks
+### 7. Fire rages after drone strikes Libya’s largest oil refinery
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake
+A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss)
 
 ---
 
-### 8. Turkiye passes law giving thousands of PKK members chance at amnesty
+### 8. Where did all the money go if the US is running out of weapons?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.
+The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss)
 
 ---
 
-### 9. Seventy years after South Africa’s women’s march, the struggle is not over
+### 9. Colombia’s far-right government recognises Israeli claim over Golan Heights
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.
+The South American nation is only the second country to recognise Israel&#039;s claims over the illegally annexed territory.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss](https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss)
 
 ---
 

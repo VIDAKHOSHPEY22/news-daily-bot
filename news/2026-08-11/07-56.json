@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T07:56:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hyperspace",
+            "description": "<p>Article URL: <a href=\"https://hypercritical.co/hyperspace/\">https://hypercritical.co/hyperspace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49252493\">https://news.ycombinator.com/item?id=49252493</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+            "url": "https://hypercritical.co/hyperspace/",
+            "published": "Tue, 11 Aug 2026 02:04:35 +0000",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude will watermark AI-generated text and images",
+            "description": "<p>Article URL: <a href=\"https://tokenstead.ai/\">https://tokenstead.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49252486\">https://news.ycombinator.com/item?id=49252486</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://tokenstead.ai/",
+            "published": "Tue, 11 Aug 2026 02:03:37 +0000",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Recycle – Floppydisks",
+            "description": "<p>Article URL: <a href=\"https://www.floppydisk.com/recycle\">https://www.floppydisk.com/recycle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49252462\">https://news.ycombinator.com/item?id=49252462</a></p>\n<p>Points: 28</p>\n<p># Comments: 3</p>",
+            "url": "https://www.floppydisk.com/recycle",
+            "published": "Tue, 11 Aug 2026 02:01:01 +0000",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Amber heat health alerts for almost all of England as next heatwave begins",
+            "description": "The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 01:38:14 GMT",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+            "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+            "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 21:33:51 GMT",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New Forest firefighting to continue overnight as cars abandoned",
+            "description": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.",
+            "url": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 03:51:06 GMT",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fire rages after drone strikes Libya’s largest oil refinery",
+            "description": "A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 04:09:10 +0000",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Where did all the money go if the US is running out of weapons?",
+            "description": "The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 03:32:57 +0000",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
+            "description": "The South American nation is only the second country to recognise Israel&#039;s claims over the illegally annexed territory.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 02:44:39 +0000",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T07:56:18+03:30"
+        }
+    ]
+}
