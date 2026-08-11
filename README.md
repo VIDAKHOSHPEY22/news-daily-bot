@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 01:27:21
+**Last Update:** 2026-08-12 01:39:05
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The brain may be about to have its Ozempic moment
+### 1. The 19th-Century Family Fortunes Funding Degrowth
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.effort.news/p4ne">https://www.effort.news/p4ne</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264352">https://news.ycombinator.com/item?id=49264352</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.effort.news/p4ne](https://www.effort.news/p4ne)
+
+---
+
+### 2. OpenAI launches ChatGPT desktop app for Linux
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/">https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264334">https://news.ycombinator.com/item?id=49264334</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
+
+---
+
+### 3. The brain may be about to have its Ozempic moment
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263658">https://news.ycombinator.com/item?id=49263658</a></p>
-<p>Points: 72</p>
-<p># Comments: 106</p>
+<p>Points: 75</p>
+<p># Comments: 112</p>
 
 🔗 **Read more:** [https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
-
----
-
-### 2. Compression is prediction
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ngrok.com/blog/compression-is-prediction">https://ngrok.com/blog/compression-is-prediction</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263497">https://news.ycombinator.com/item?id=49263497</a></p>
-<p>Points: 109</p>
-<p># Comments: 49</p>
-
-🔗 **Read more:** [https://ngrok.com/blog/compression-is-prediction](https://ngrok.com/blog/compression-is-prediction)
-
----
-
-### 3. Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/">https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263340">https://news.ycombinator.com/item?id=49263340</a></p>
-<p>Points: 110</p>
-<p># Comments: 41</p>
-
-🔗 **Read more:** [https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
 
 ---
 
