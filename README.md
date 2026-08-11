@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 01:39:05
+**Last Update:** 2026-08-12 02:25:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The 19th-Century Family Fortunes Funding Degrowth
+### 1. WorldClaw Agentic 3D open-world generation at scale
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.effort.news/p4ne">https://www.effort.news/p4ne</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264352">https://news.ycombinator.com/item?id=49264352</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.effort.news/p4ne](https://www.effort.news/p4ne)
-
----
-
-### 2. OpenAI launches ChatGPT desktop app for Linux
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/">https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264334">https://news.ycombinator.com/item?id=49264334</a></p>
+<p>Article URL: <a href="https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/">https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265051">https://news.ycombinator.com/item?id=49265051</a></p>
 <p>Points: 17</p>
-<p># Comments: 2</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/](https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/)
+🔗 **Read more:** [https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
 
 ---
 
-### 3. The brain may be about to have its Ozempic moment
+### 2. pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49263658">https://news.ycombinator.com/item?id=49263658</a></p>
-<p>Points: 75</p>
-<p># Comments: 112</p>
+<p>Article URL: <a href="https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026">https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49265031">https://news.ycombinator.com/item?id=49265031</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+🔗 **Read more:** [https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026](https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026)
+
+---
+
+### 3. Suzanne: AI tool for designing and manufacturing physical products
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.suzanne3d.com/">https://www.suzanne3d.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49264755">https://news.ycombinator.com/item?id=49264755</a></p>
+<p>Points: 12</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.suzanne3d.com/](https://www.suzanne3d.com/)
 
 ---
 
