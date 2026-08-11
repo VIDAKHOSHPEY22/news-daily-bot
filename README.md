@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 17:19:02
+**Last Update:** 2026-08-11 18:36:20
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. It's time Amazon played by the same rules as everyone else [video]
+### 1. Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=91DoiansHqk">https://www.youtube.com/watch?v=91DoiansHqk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257601">https://news.ycombinator.com/item?id=49257601</a></p>
-<p>Points: 44</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave">https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49258581">https://news.ycombinator.com/item?id=49258581</a></p>
+<p>Points: 19</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=91DoiansHqk](https://www.youtube.com/watch?v=91DoiansHqk)
+🔗 **Read more:** [https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave](https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave)
 
 ---
 
-### 2. England set to be one of the first countries to eliminate hepatitis C
+### 2. $580M undersea cable rerouted to avoid the grave of Dobby the House Elf
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c75gk620r22o">https://www.bbc.com/news/articles/c75gk620r22o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257377">https://news.ycombinator.com/item?id=49257377</a></p>
-<p>Points: 44</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site">https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49258202">https://news.ycombinator.com/item?id=49258202</a></p>
+<p>Points: 18</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c75gk620r22o](https://www.bbc.com/news/articles/c75gk620r22o)
+🔗 **Read more:** [https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site](https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site)
 
 ---
 
-### 3. OpenAI's Only Ethicist Reportedly Left Last Month
+### 3. Nvidia Nemotron 3.5 Lightning
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883">https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257160">https://news.ycombinator.com/item?id=49257160</a></p>
-<p>Points: 42</p>
-<p># Comments: 56</p>
+<p>Article URL: <a href="https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4">https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49257947">https://news.ycombinator.com/item?id=49257947</a></p>
+<p>Points: 35</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883](https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883)
+🔗 **Read more:** [https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4)
 
 ---
 
-### 4. Trump hid in catering truck in secret plane swap over Iran threat, reports say
+### 4. Summer 2026 on course to be UK's hottest on record, says Met Office
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Only average conditions are needed for the remainder of August to break the record, which was set just last year.
+
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Trump hid in catering truck in secret plane swap over Iran threat, reports say
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Amber Met Office extreme heat warning issued as temperatures could reach 38C
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Specialist glasses are all but sold out online ahead of the UK's most significan
 
 ---
 
-### 7. Hunter Biden defends Tucker Carlson over Netanyahu comments
+### 7. ‘Only job I know’: Philippine sailors return to sea despite wartime risks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hunter Biden defends Tucker Carlson over Netanyahu comments
+Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss](https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss)
 
 ---
 
-### 8. Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup
+### 8. What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.
+The Mecca defence pact combines a top oil exporter, NATO&#039;s second-largest army and the only Muslim nuclear arsenal.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss)
 
 ---
 
-### 9. What to know about the US primary election in Minnesota
+### 9. Under Fire: Lebanon’s first responders | Al Jazeera Originals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Immigration is at the centre of another closely watched Democratic Senate race.
+First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/what-to-know-about-us-primary-election-in-minnesota?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss)
 
 ---
 

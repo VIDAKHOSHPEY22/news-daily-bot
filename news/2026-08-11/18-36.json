@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T18:36:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+            "description": "<p>Article URL: <a href=\"https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave\">https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49258581\">https://news.ycombinator.com/item?id=49258581</a></p>\n<p>Points: 19</p>\n<p># Comments: 13</p>",
+            "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+            "published": "Tue, 11 Aug 2026 14:03:18 +0000",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "$580M undersea cable rerouted to avoid the grave of Dobby the House Elf",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site\">https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49258202\">https://news.ycombinator.com/item?id=49258202</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
+            "url": "https://www.tomshardware.com/networking/usd580-million-undersea-cable-rerouted-to-avoid-the-grave-of-dobby-the-house-elf-company-caves-to-fan-demands-to-safeguard-harry-potter-filming-location-will-instead-pass-by-bronze-age-burial-site",
+            "published": "Tue, 11 Aug 2026 13:42:27 +0000",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia Nemotron 3.5 Lightning",
+            "description": "<p>Article URL: <a href=\"https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4\">https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257947\">https://news.ycombinator.com/item?id=49257947</a></p>\n<p>Points: 35</p>\n<p># Comments: 9</p>",
+            "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+            "published": "Tue, 11 Aug 2026 13:26:02 +0000",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+            "description": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
+            "url": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 14:23:52 GMT",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+            "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 14:47:28 GMT",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Eclipse chasers scramble for glasses as stocks run low",
+            "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 14:10:49 GMT",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
+            "description": "Despite risks in the Strait of Hormuz and Black Sea, seafarers from the Philippines are still competing for jobs.",
+            "url": "https://www.aljazeera.com/features/2026/8/11/only-job-i-know-philippine-sailors-return-to-sea-despite-wartime-risks?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 14:06:09 +0000",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+            "description": "The Mecca defence pact combines a top oil exporter, NATO&#039;s second-largest army and the only Muslim nuclear arsenal.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 13:47:50 +0000",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
+            "description": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
+            "url": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 13:46:44 +0000",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T18:36:20+03:30"
+        }
+    ]
+}
