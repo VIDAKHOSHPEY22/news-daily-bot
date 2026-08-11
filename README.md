@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 20:35:36
+**Last Update:** 2026-08-11 20:53:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/TheRealYT/git-knife">https://github.com/TheRealYT/git-knife</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49259611">https://news.ycombinator.com/item?id=49259611</a></p>
-<p>Points: 56</p>
-<p># Comments: 34</p>
+<p>Points: 62</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://github.com/TheRealYT/git-knife](https://github.com/TheRealYT/git-knife)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md">https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49259339">https://news.ycombinator.com/item?id=49259339</a></p>
-<p>Points: 122</p>
-<p># Comments: 23</p>
+<p>Points: 138</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
 
@@ -52,8 +52,8 @@
 <p>Hi HN! We’re Zack and Tommy the Co-Founders of Keet (<a href="https://trykeet.com">https://trykeet.com</a>). We are building a mobile app that generates courses on any topic, with short videos for explanation and games for reinforcement. Courses mirror a real curriculum to help you learn over an extended period of time.<p>Tommy and I met in linear algebra class in college and spent the next 4 years taking classes together. Our friendship was formed around learning new things. In school, someone else designs the curriculum, delivers the content, and writes the assessments. All you have to do is show up. Learning without this structure was frustrating, and there was a lot of friction to get started.<p>Zack has a coffee obsession and struggled to assemble youtube videos, conversations with ChatGPT, and the books he was reading into a coherent understanding of all of the different variables that go into brewing a cup of coffee. His attempts gave him the freedom to follow his curiosity, but the instructional design was difficult. Every piece of content either presumed some prerequisite knowledge or none at all.<p>Keet is our attempt at providing the autonomy to teach yourself anything while adding a structure conducive to learning. It finds a custom starting point and sequences lessons in a logical order.<p>We have found Keet most useful in the following scenarios:<p>- You have a subject matter interest that you enjoy passively learning about. (i.e. you really enjoy learning about medieval history and generate courses on medieval engineering)<p>- You want to explore a niche topic of a subject area you already know a lot about. (i.e. You know a lot about biology but want to explore how migratory animals sense Earth’s magnetic field.)<p>- You see a really niche topic get mentioned somewhere you want to explore more (i.e History of Penny Universities, Double Entry Book keeping or Robert Moses and the creation of the BQE)<p>When you create a course we ask some questions about how difficult it should be, how much depth the course should go into, and a few optional intent questions to understand what content you want to learn about. In the future, we’d like to have a global prerequisite map so that we can understand what each user already knows, so we can generate tailored courses to someone’s prerequisite knowledge. If someone majored in Computer Science, for example, their course should look pretty different to someone who might have no background in STEM.<p>After understanding your goals and intent, we categorize the course based on Biglan categories. Biglan categories have four quadrants:<p>- Hard–Pure (e.g., mathematics, theoretical physics)<p>- Hard-Applied (e.g., engineering, and applied sciences)<p>- Soft–Pure (e.g., history, literature, philosophy)<p>- Soft-Applied (e.g., policy, management, education, social work)<p>We use these categories to adjust instructions to better suit the topic. One instance of this is when searching for examples. A hard-pure course will look for worked problems, proofs, and real world cases, whereas soft-pure courses use primary source narratives and contrasting perspectives.<p>We tried building this as a website and then as a mobile app with just text. The website was bad because we couldn’t engage with the content from anywhere, and when we did engage, the text was boring and couldn’t add clarity to complex ideas. Vox and 3B1B videos made complex ideas accessible, which inspired us to move towards video based lessons. There was never one aha moment that made it work. Over the course of the past year, we’ve been using and iterating on the product until we enjoyed using it.<p>We have two types of explainer videos that are built using Manim (<a href="https://www.manim.community/" rel="nofollow">https://www.manim.community/</a>) and Remotion (<a href="https://www.remotion.dev/" rel="nofollow">https://www.remotion.dev/</a>). Manim is used for videos that require math visualizations while the Remotion videos are intended to animate processes and show primary source material to mimic something like a Vox video.<p>We are also building more engaging ways to complete assessments via custom activities. For example, in a genetics course, learners might interact with a Watson-Crick DNA model rather than answering a multiple choice question about base pairs.<p>You can download the Test flight beta (<a href="https://testflight.apple.com/join/wkWW2enA" rel="nofollow">https://testflight.apple.com/join/wkWW2enA</a>) today. We are giving 3 free course generations to every user. You can use the code “KEETHN” on the waitlist screen. When you download the app, try to generate a course on a niche interest/something very specific. The coolest courses that we’ve seen are generated in those categories.<p>[ Notes ]<p>- Personalization is still early. Today, Keet mostly adapts around the topic and course goal; we want it to adapt much more around a learner’s background, pace, and weak spots.<p>- Course generation is slow. We made a deliberate trade off to sacrifice generation time in order to gain higher quality courses, since users are going to be taking these courses for an extended period of time.<p>- We are actively working to improve reinforcement quality. It is easy to generate quizzes, but much harder to generate interactions drive home the concept.<p>[ Pricing ]<p>We plan to have a monthly subscription that gives users credits they can use to generate courses. This will be a model similar to Suno (<a href="https://suno.com/" rel="nofollow">https://suno.com/</a>).</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49259309">https://news.ycombinator.com/item?id=49259309</a></p>
-<p>Points: 15</p>
-<p># Comments: 19</p>
+<p>Points: 17</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.trykeet.com/](https://www.trykeet.com/)
 
@@ -98,42 +98,42 @@ US media reports say the president secretly left via a catering truck to avoid a
 
 ---
 
-### 7. Hungary elects supreme court judge ousted by Orban as new president
+### 7. Russia frees ex-US Marine Robert Gilman from detention
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.
+The US government had recently designated Gilman as wrongfully detained.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss)
 
 ---
 
-### 8. Rwanda: The genocide against the Tutsi
+### 8. Poland says Women’s World Cup plan on course despite UEFA boycott of FIFA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How colonial identity, extremist politics and &#039;hate radio&#039; helped turn Rwanda’s genocide into organised mass murder.
+Poland says their preparations to host the Women&#039;s Under-20 World Cup remain on schedule, despite UEFA-FIFA fallout.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss](https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/poland-says-womens-world-cup-plan-on-course-despite-uefa-boycott-of-fifa?traffic_source=rss)
 
 ---
 
-### 9. Lebanon parliament votes to end death penalty, 1st in Middle East to do so
+### 9. PSG vs Aston Villa: UEFA Super Cup – prediction, lineups, teams
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Death sentences will be replaced with life imprisonment with aggravated hard labour.
+The traditional curtain raiser for Europe&#039;s football league season pits Paris Saint-Germain against Aston Villa.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss](https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/11/psg-vs-aston-villa-uefa-super-cup-teams-start-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/11/psg-vs-aston-villa-uefa-super-cup-teams-start-lineups?traffic_source=rss)
 
 ---
 
