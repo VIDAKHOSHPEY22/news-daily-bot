@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T09:40:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Half of Europe's towns and villages have fewer residents than 60 years ago",
+            "description": "<p>Article URL: <a href=\"https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/\">https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253813\">https://news.ycombinator.com/item?id=49253813</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/",
+            "published": "Tue, 11 Aug 2026 05:46:16 +0000",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+            "description": "<p>Article URL: <a href=\"https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself\">https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253738\">https://news.ycombinator.com/item?id=49253738</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+            "published": "Tue, 11 Aug 2026 05:30:24 +0000",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+            "description": "<p>Article URL: <a href=\"https://github.com/activeing123/mcptoon\">https://github.com/activeing123/mcptoon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253721\">https://news.ycombinator.com/item?id=49253721</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+            "url": "https://github.com/activeing123/mcptoon",
+            "published": "Tue, 11 Aug 2026 05:26:58 +0000",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+            "description": "Andy Burnham is confident a solution can be found to exclude two of PC Harper's killers from an early release scheme, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 04:25:55 GMT",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Amber heat health alerts for almost all of England as next heatwave begins",
+            "description": "The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 01:38:14 GMT",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+            "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+            "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Aug 2026 21:33:51 GMT",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
+            "description": "Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 05:12:05 +0000",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Family watches helplessly as Colombia quake destroys home",
+            "description": "A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 05:02:58 +0000",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump’s media company reports $238m loss",
+            "description": "Trump Media &amp; Technology Group earns less than $2m in Q2.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 04:52:07 +0000",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T09:40:33+03:30"
+        }
+    ]
+}
