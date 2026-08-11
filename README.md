@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 14:27:19
+**Last Update:** 2026-08-11 14:40:33
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. London Underground begins scanning passengers' faces
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/">https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49255496">https://news.ycombinator.com/item?id=49255496</a></p>
-<p>Points: 58</p>
-<p># Comments: 50</p>
-
-🔗 **Read more:** [https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
-
----
-
-### 2. Closing Canario Terminal source code
+### 1. Closing Canario Terminal source code
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://rapha.land/closing-canario-terminal-source-code/">https://rapha.land/closing-canario-terminal-source-code/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254881">https://news.ycombinator.com/item?id=49254881</a></p>
-<p>Points: 5</p>
-<p># Comments: 3</p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://rapha.land/closing-canario-terminal-source-code/](https://rapha.land/closing-canario-terminal-source-code/)
 
 ---
 
-### 3. France to ban unsolicited telemarketing calls
+### 2. France to ban unsolicited telemarketing calls
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254880">https://news.ycombinator.com/item?id=49254880</a></p>
-<p>Points: 210</p>
-<p># Comments: 130</p>
+<p>Points: 238</p>
+<p># Comments: 144</p>
 
 🔗 **Read more:** [https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+
+---
+
+### 3. The Water Footprint of AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://doi.org/10.1016/j.watres.2026.125866">https://doi.org/10.1016/j.watres.2026.125866</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49254351">https://news.ycombinator.com/item?id=49254351</a></p>
+<p>Points: 30</p>
+<p># Comments: 32</p>
+
+🔗 **Read more:** [https://doi.org/10.1016/j.watres.2026.125866](https://doi.org/10.1016/j.watres.2026.125866)
 
 ---
 
