@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-11 22:42:45
+**Last Update:** 2026-08-11 23:01:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. We Used to Get Jobs
+### 1. Making holograms with a pen plotter
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.jordan.matelsky.com/Penplotter-holography/">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262811">https://news.ycombinator.com/item?id=49262811</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.jordan.matelsky.com/Penplotter-holography/](https://blog.jordan.matelsky.com/Penplotter-holography/)
+
+---
+
+### 2. The Tradeoffs Facing Japan's Economy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/">https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262761">https://news.ycombinator.com/item?id=49262761</a></p>
+<p>Points: 23</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/](https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/)
+
+---
+
+### 3. How we used to get jobs: A newspaper classifieds story
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://ironicsans.ghost.io/how-we-used-to-get-jobs/">https://ironicsans.ghost.io/how-we-used-to-get-jobs/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49262211">https://news.ycombinator.com/item?id=49262211</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
+<p>Points: 27</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://ironicsans.ghost.io/how-we-used-to-get-jobs/](https://ironicsans.ghost.io/how-we-used-to-get-jobs/)
-
----
-
-### 2. OpenSSH 10.5/10.5p1
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.5">https://www.openssh.org/releasenotes.html#10.5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261895">https://news.ycombinator.com/item?id=49261895</a></p>
-<p>Points: 30</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.5](https://www.openssh.org/releasenotes.html#10.5)
-
----
-
-### 3. Why Go Is an Ideal Language for AI-Assisted Software Engineering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/">https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49261133">https://news.ycombinator.com/item?id=49261133</a></p>
-<p>Points: 117</p>
-<p># Comments: 123</p>
-
-🔗 **Read more:** [https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-11T23:01:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Making holograms with a pen plotter",
+            "description": "<p>Article URL: <a href=\"https://blog.jordan.matelsky.com/Penplotter-holography/\">https://blog.jordan.matelsky.com/Penplotter-holography/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49262811\">https://news.ycombinator.com/item?id=49262811</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+            "published": "Tue, 11 Aug 2026 18:51:35 +0000",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Tradeoffs Facing Japan's Economy",
+            "description": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/\">https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49262761\">https://news.ycombinator.com/item?id=49262761</a></p>\n<p>Points: 23</p>\n<p># Comments: 0</p>",
+            "url": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
+            "published": "Tue, 11 Aug 2026 18:47:54 +0000",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How we used to get jobs: A newspaper classifieds story",
+            "description": "<p>Article URL: <a href=\"https://ironicsans.ghost.io/how-we-used-to-get-jobs/\">https://ironicsans.ghost.io/how-we-used-to-get-jobs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49262211\">https://news.ycombinator.com/item?id=49262211</a></p>\n<p>Points: 27</p>\n<p># Comments: 9</p>",
+            "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+            "published": "Tue, 11 Aug 2026 18:09:56 +0000",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+            "description": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
+            "url": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 14:23:52 GMT",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
+            "description": "The PM says the justice secretary will present a plan in September to prevent more early releases.",
+            "url": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:19:38 GMT",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Eclipse chasers scramble for glasses as stocks run low",
+            "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:31:43 GMT",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UNESCO says 2.4 million Afghan girls denied access to further education",
+            "description": "UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/unesco-says-2-4-million-afghan-girls-denied-access-to-further-education?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 18:59:42 +0000",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuela and Israel restore consular ties as relations warm",
+            "description": "Despite cutting diplomatic ties with Israel in 2009, Caracas has shifted alignment in wake of Maduro abduction.",
+            "url": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 18:58:33 +0000",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tightened blockade on Gaza causes prices to soar",
+            "description": "As Israel tightens its blockade on Gaza, both lighters and fans have become the backbone of energy in the strip.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/tightened-blockade-on-gaza-causes-prices-to-soar?traffic_source=rss",
+            "published": "Tue, 11 Aug 2026 18:45:26 +0000",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-11T23:01:05+03:30"
+        }
+    ]
+}
