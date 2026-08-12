@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T20:54:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer\">https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275465\">https://news.ycombinator.com/item?id=49275465</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+            "published": "Wed, 12 Aug 2026 17:00:21 +0000",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis\">https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275385\">https://news.ycombinator.com/item?id=49275385</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+            "published": "Wed, 12 Aug 2026 16:54:25 +0000",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+            "description": "<p>Article URL: <a href=\"https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/\">https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275335\">https://news.ycombinator.com/item?id=49275335</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+            "published": "Wed, 12 Aug 2026 16:51:25 +0000",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three ways to watch the solar eclipse safely without glasses",
+            "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:29:28 GMT",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ann Widdecombe's loved ones gather for her funeral",
+            "description": "A requiem mass is held for the former MP at Buckfast Abbey in Devon, near her Dartmoor home.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 16:31:07 GMT",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Double killer and rapist given whole life sentence",
+            "description": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 14:25:00 GMT",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Drought exposes Nazi-era warship wrecks beneath the Danube",
+            "description": "Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 16:58:16 +0000",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+            "description": "Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 16:23:28 +0000",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
+            "description": "Live coverage and text updates from our commentary stream as PSG&#039;s Dembele, Doue and Barcola target more trophies.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/8/12/psg-vs-aston-villa-live-uefa-super-cup-2026?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 16:00:46 +0000",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T20:54:05+03:30"
+        }
+    ]
+}
