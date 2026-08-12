@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 19:44:47
+**Last Update:** 2026-08-12 20:34:21
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Grok 4.6
+### 1. Glaciers on the Climate Dashboard
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://x.ai/news/grok-4-6">https://x.ai/news/grok-4-6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49274027">https://news.ycombinator.com/item?id=49274027</a></p>
-<p>Points: 71</p>
-<p># Comments: 49</p>
-
-🔗 **Read more:** [https://x.ai/news/grok-4-6](https://x.ai/news/grok-4-6)
-
----
-
-### 2. Qwen/Qwen3.8-2.4T-A95B
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B">https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273478">https://news.ycombinator.com/item?id=49273478</a></p>
-<p>Points: 91</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
-
----
-
-### 3. GiveCampus (YC S15) Is Hiring Engineering Managers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://job-boards.greenhouse.io/givecampus/jobs/4112793009">https://job-boards.greenhouse.io/givecampus/jobs/4112793009</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273395">https://news.ycombinator.com/item?id=49273395</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://climate.metoffice.cloud/glaciers.html">https://climate.metoffice.cloud/glaciers.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275132">https://news.ycombinator.com/item?id=49275132</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://job-boards.greenhouse.io/givecampus/jobs/4112793009](https://job-boards.greenhouse.io/givecampus/jobs/4112793009)
+🔗 **Read more:** [https://climate.metoffice.cloud/glaciers.html](https://climate.metoffice.cloud/glaciers.html)
+
+---
+
+### 2. DeepSeek V4 Pro 0813 quietly released
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://api-docs.deepseek.com/guides/responses_api/">https://api-docs.deepseek.com/guides/responses_api/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275114">https://news.ycombinator.com/item?id=49275114</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://api-docs.deepseek.com/guides/responses_api/](https://api-docs.deepseek.com/guides/responses_api/)
+
+---
+
+### 3. Wednesday, August 12: GitHub, Incident with Pull Requests and Issues
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.githubstatus.com/incidents/76t89hbfb09h">https://www.githubstatus.com/incidents/76t89hbfb09h</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49274894">https://news.ycombinator.com/item?id=49274894</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.githubstatus.com/incidents/76t89hbfb09h](https://www.githubstatus.com/incidents/76t89hbfb09h)
 
 ---
 
@@ -71,7 +71,20 @@ With some shops running out of stock, it may be too late to buy eclipse glasses 
 
 ---
 
-### 5. Double killer and rapist given whole life sentence
+### 5. Ann Widdecombe's loved ones gather for her funeral
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A requiem mass is held for the former MP at Buckfast Abbey in Devon, near her Dartmoor home.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Double killer and rapist given whole life sentence
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Simon Levy, from Tottenham, will spend the rest of his life in prison for the mu
 
 ---
 
-### 6. Burnham considers disposable BBQ ban over wildfire risks
+### 7. Trump remarks on diminishing impact of pro-Israel groups in Congress
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.
+Trump claims pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss)
 
 ---
 
-### 7. PSG vs Aston Villa LIVE: UEFA Super Cup 2026
+### 8. PSG vs Aston Villa LIVE: UEFA Super Cup 2026
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Live coverage and text updates from our commentary stream as PSG&#039;s Dembele,
 
 ---
 
-### 8. Europe prepares for first total solar eclipse in 27 years
+### 9. Europe prepares for first total solar eclipse in 27 years
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Live coverage and text updates from our commentary stream as PSG&#039;s Dembele,
 Europe is gearing up for its first total solar eclipse in 27 years.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/europe-prepares-for-first-total-solar-eclipse-in-27-years?traffic_source=rss)
-
----
-
-### 9. Colombia declares three days of mourning after deadly earthquake
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hundreds are dead as rescuers race to find survivors of the magnitude 7.4 quake.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss)
 
 ---
 
