@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 01:25:02
+**Last Update:** 2026-08-13 01:37:17
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Building Security Agents That Cannot Escape Their Trust Boundary
+### 1. Why Can't You Find Canned Sardines?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279013">https://news.ycombinator.com/item?id=49279013</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
+
+---
+
+### 2. Breaking the WAL
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
+<p>Points: 23</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
+
+---
+
+### 3. Building Security Agents That Cannot Escape Their Trust Boundary
 
 **Source:** Hacker News
 
@@ -23,38 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://cynative.com/blog/agent-trust-boundaries/](https://cynative.com/blog/agent-trust-boundaries/)
-
----
-
-### 2. Delta
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 247</p>
-<p># Comments: 83</p>
-
-🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
-
----
-
-### 3. People who grew up with high economic connectedness earn more
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276534">https://news.ycombinator.com/item?id=49276534</a></p>
-<p>Points: 89</p>
-<p># Comments: 80</p>
-
-🔗 **Read more:** [https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
 
 ---
 
@@ -97,7 +97,33 @@ Another record number of students are expected to secure a place at their first 
 
 ---
 
-### 7. PSG win back-to-back UEFA Super Cups with victory over Aston Villa
+### 7. US strikes in Yemen killed 153 civilians in 2025, says Pentagon review
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss)
+
+---
+
+### 8. Hegseth cautions that ICC may investigate US boat strikes in Latin America
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss)
+
+---
+
+### 9. PSG win back-to-back UEFA Super Cups with victory over Aston Villa
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Another record number of students are expected to secure a place at their first 
 Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo&#039;s goal is in vain for Aston Villa.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss)
-
----
-
-### 8. Thousands missing after Colombia quake as rescue continues
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands missing after Colombia quake as rescue continues
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss)
-
----
-
-### 9. Morocco says working to prevent potential new Ceuta crossings surge
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss)
 
 ---
 
