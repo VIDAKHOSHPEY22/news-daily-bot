@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T00:25:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Breaking the WAL",
+            "description": "<p>Article URL: <a href=\"https://antithesis.com/blog/2026/wal-reset-bug/\">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277799\">https://news.ycombinator.com/item?id=49277799</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
+            "published": "Wed, 12 Aug 2026 20:00:16 +0000",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+            "description": "<p>Article URL: <a href=\"https://cynative.com/blog/agent-trust-boundaries/\">https://cynative.com/blog/agent-trust-boundaries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277437\">https://news.ycombinator.com/item?id=49277437</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://cynative.com/blog/agent-trust-boundaries/",
+            "published": "Wed, 12 Aug 2026 19:29:34 +0000",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Delta",
+            "description": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-delta\">https://zed.dev/blog/introducing-delta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276574\">https://news.ycombinator.com/item?id=49276574</a></p>\n<p>Points: 187</p>\n<p># Comments: 64</p>",
+            "url": "https://zed.dev/blog/introducing-delta",
+            "published": "Wed, 12 Aug 2026 18:19:59 +0000",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+            "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Double killer and rapist given whole life sentence",
+            "description": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 14:25:00 GMT",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
+            "description": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 19:05:38 GMT",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
+            "description": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 20:26:07 +0000",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Solar eclipse plunges parts of Europe into darkness",
+            "description": "A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 20:16:10 +0000",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
+            "description": "Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 20:15:38 +0000",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T00:25:00+03:30"
+        }
+    ]
+}

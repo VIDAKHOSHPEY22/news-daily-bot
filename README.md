@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 23:02:01
+**Last Update:** 2026-08-13 00:25:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zed: Delta
+### 1. Breaking the WAL
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
+
+---
+
+### 2. Building Security Agents That Cannot Escape Their Trust Boundary
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cynative.com/blog/agent-trust-boundaries/">https://cynative.com/blog/agent-trust-boundaries/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277437">https://news.ycombinator.com/item?id=49277437</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://cynative.com/blog/agent-trust-boundaries/](https://cynative.com/blog/agent-trust-boundaries/)
+
+---
+
+### 3. Delta
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 100</p>
-<p># Comments: 30</p>
+<p>Points: 187</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
-
----
-
-### 2. Your Key to Success Isn't More Luck or Hard Work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276534">https://news.ycombinator.com/item?id=49276534</a></p>
-<p>Points: 21</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/](https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/)
-
----
-
-### 3. Reflex (YC W23) Is hiring Growth and GTM Roles
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer">https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49275465">https://news.ycombinator.com/item?id=49275465</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer)
 
 ---
 
@@ -97,42 +97,42 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. Iraq says September 30 withdrawal deadline for US-led coalition ‘final’
+### 7. Israel vows to keep troops in Lebanon, Gaza and Syria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US official confirmed that the United States expects to complete its pullout by September 30.
+Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss)
 
 ---
 
-### 8. Thousands flee drought in Somalia amid sharp aid decline
+### 8. Photos: Solar eclipse plunges parts of Europe into darkness
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.
+A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss)
 
 ---
 
-### 9. Paramount Skydance mulls CNN sale amid antitrust merger challenge
+### 9. ‘Platformicide’ of Palestine: Activists struggle to be heard on Meta
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.
+Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss)
 
 ---
 
