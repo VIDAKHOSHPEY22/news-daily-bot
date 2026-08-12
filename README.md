@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 06:31:04
+**Last Update:** 2026-08-12 08:24:13
 
 **Total News:** 12
 
@@ -10,7 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. The lifesaving secret hidden inside a horseshoe crab's blue blood
+### 1. The Human Is the Loop
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://brentfitzgerald.com/posts/the-human-is-the-loop/">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267108">https://news.ycombinator.com/item?id=49267108</a></p>
+<p>Points: 26</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://brentfitzgerald.com/posts/the-human-is-the-loop/](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+
+---
+
+### 2. Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267057">https://news.ycombinator.com/item?id=49267057</a></p>
+<p>Points: 73</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+
+---
+
+### 3. The lifesaving secret hidden inside a horseshoe crab's blue blood
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/">https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266921">https://news.ycombinator.com/item?id=49266921</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
-
----
-
-### 2. New Bedford police officer accused of using Flock cameras to track ex-partner
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/">https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266899">https://news.ycombinator.com/item?id=49266899</a></p>
-<p>Points: 34</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
-
----
-
-### 3. DEF CON crowd suspected in fake-hotspot attack on Delta flight
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/">https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266560">https://news.ycombinator.com/item?id=49266560</a></p>
-<p>Points: 25</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
 
 ---
 
@@ -97,42 +97,42 @@ The intervention comes after Andy Burnham said he was "confident" the early rele
 
 ---
 
-### 7. Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran
+### 7. Trump says secret plane switch ‘up to the Secret Service’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.
+US President Donald Trump says the decision to make a plane switch in Turkiye after the NATO summit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss)
 
 ---
 
-### 8. Stronghold of Syrian revolution celebrates Assad’s death sentence
+### 8. Drone strikes power station near Libya’s largest oil refinery
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrians in Idlib gathered in celebration after a court sentenced ousted President Bashar al-Assad
+A drone has struck a power station in Libya’s western city of Zawiya
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss)
 
 ---
 
-### 9. On the ground in Cali, Colombia’s worst-hit city after the quake
+### 9. Russia frees ex-US marine Gilman jailed since 2022
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Reporting from the rubble of an apartment building, Al Jazeera’s Latin America Editor Lucia Newman describes the scene.
+Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss)
 
 ---
 
