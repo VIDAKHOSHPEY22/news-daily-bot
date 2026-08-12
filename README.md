@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 18:35:21
+**Last Update:** 2026-08-12 18:55:35
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -26,7 +26,23 @@
 
 ---
 
-### 2. License Plate Reader Searches Should Require a Warrant
+### 2. Hax – a minimalist, terminal-native coding agent written in C
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://usehax.dev/">https://usehax.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273175">https://news.ycombinator.com/item?id=49273175</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://usehax.dev/](https://usehax.dev/)
+
+---
+
+### 3. License Plate Reader Searches Should Require a Warrant
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/">https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273165">https://news.ycombinator.com/item?id=49273165</a></p>
-<p>Points: 30</p>
-<p># Comments: 3</p>
+<p>Points: 81</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
-
----
-
-### 3. Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tailscale.com/blog/sqlite-wal-reset-bug">https://tailscale.com/blog/sqlite-wal-reset-bug</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49272832">https://news.ycombinator.com/item?id=49272832</a></p>
-<p>Points: 25</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://tailscale.com/blog/sqlite-wal-reset-bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 
 ---
 
@@ -97,7 +97,33 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. Lebanon passes long-sought amnesty law, a day after death penalty repeal
+### 7. US consumer inflation slows in July as energy prices briefly retreat
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss)
+
+---
+
+### 8. As Strait of Hormuz transit drops, Trump again says US has ‘control’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss)
+
+---
+
+### 9. Lebanon passes long-sought amnesty law, a day after death penalty repeal
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The PM wants the public to avoid using single-use grills during the current spel
 The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss)
-
----
-
-### 8. Why the UK faces a prisons crisis amid row over release of cop killers
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The killers of PC Andrew Harper had been set to partake in early release scheme as prison system on verge of collapse.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss)
-
----
-
-### 9. Iran is not anti-imperialist. It is a state calculating survival
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss)
 
 ---
 
