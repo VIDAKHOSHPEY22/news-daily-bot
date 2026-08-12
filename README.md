@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 08:40:36
+**Last Update:** 2026-08-12 09:50:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Human Is the Loop
+### 1. llama.cpp
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://llama.app">https://llama.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267928">https://news.ycombinator.com/item?id=49267928</a></p>
+<p>Points: 62</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://llama.app](https://llama.app)
+
+---
+
+### 2. The Human Is the Loop
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://brentfitzgerald.com/posts/the-human-is-the-loop/">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267108">https://news.ycombinator.com/item?id=49267108</a></p>
-<p>Points: 27</p>
-<p># Comments: 4</p>
+<p>Points: 51</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://brentfitzgerald.com/posts/the-human-is-the-loop/](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
 
 ---
 
-### 2. Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI
+### 3. Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI
 
 **Source:** Hacker News
 
@@ -35,37 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267057">https://news.ycombinator.com/item?id=49267057</a></p>
-<p>Points: 85</p>
-<p># Comments: 19</p>
+<p>Points: 140</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 
 ---
 
-### 3. The lifesaving secret hidden inside a horseshoe crab's blue blood
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/">https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266921">https://news.ycombinator.com/item?id=49266921</a></p>
-<p>Points: 36</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
-
----
-
-### 4. 'Overwhelmed' probation officers warn  of early prison release crime risk
+### 4. Early release scheme risks more serious crimes, probation chief warns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-England and Wales' probation services are already under "unprecedented pressure" - set to increase with the scheme, the chief inspector said.
+The chief inspector of probation for England and Wales tells the BBC services are already under "unprecedented pressure".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ Serial sex offender Simon Levy went on to murder two women and rape a third afte
 
 ---
 
-### 6. More weather records broken as UK heat set to spike again
+### 6. UK to get best eclipse since 1999 as Moon blocks out Sun across Europe
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.
+Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump says secret plane switch ‘up to the Secret Service’
+### 7. Why have several nations raised red flags over Indian farm exports?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says the decision to make a plane switch in Turkiye after the NATO summit.
+As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag spices, Indian growers ask what&#039;s wrong.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss)
 
 ---
 
-### 8. Drone strikes power station near Libya’s largest oil refinery
+### 8. Zelenskyy says Ukraine has sent proposals to US to end war with Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A drone has struck a power station in Libya’s western city of Zawiya
+Ukraine&#039;s president also says Russia will use its election next month as a pretext to declare a new mobilisation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss)
 
 ---
 
-### 9. Russia frees ex-US marine Gilman jailed since 2022
+### 9. Can Trump keep his ‘irritation’ with Netanyahu in check?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.
+Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss)
 
 ---
 

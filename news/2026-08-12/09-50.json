@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T09:50:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "llama.cpp",
+            "description": "<p>Article URL: <a href=\"https://llama.app\">https://llama.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267928\">https://news.ycombinator.com/item?id=49267928</a></p>\n<p>Points: 62</p>\n<p># Comments: 13</p>",
+            "url": "https://llama.app",
+            "published": "Wed, 12 Aug 2026 04:51:59 +0000",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Human Is the Loop",
+            "description": "<p>Article URL: <a href=\"https://brentfitzgerald.com/posts/the-human-is-the-loop/\">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267108\">https://news.ycombinator.com/item?id=49267108</a></p>\n<p>Points: 51</p>\n<p># Comments: 21</p>",
+            "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+            "published": "Wed, 12 Aug 2026 02:15:01 +0000",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/\">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267057\">https://news.ycombinator.com/item?id=49267057</a></p>\n<p>Points: 140</p>\n<p># Comments: 31</p>",
+            "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+            "published": "Wed, 12 Aug 2026 02:05:42 +0000",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Early release scheme risks more serious crimes, probation chief warns",
+            "description": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
+            "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 05:00:23 GMT",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+            "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+            "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:00:46 GMT",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
+            "description": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 23:17:15 GMT",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why have several nations raised red flags over Indian farm exports?",
+            "description": "As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag spices, Indian growers ask what&#039;s wrong.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 05:34:14 +0000",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+            "description": "Ukraine&#039;s president also says Russia will use its election next month as a pretext to declare a new mobilisation.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 05:26:26 +0000",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
+            "description": "Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 05:01:43 +0000",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T09:50:43+03:30"
+        }
+    ]
+}
