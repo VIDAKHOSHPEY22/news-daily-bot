@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T12:13:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LinkedIn CringeBot 3000",
+            "description": "<p>Article URL: <a href=\"https://www.cringebot3000.com/\">https://www.cringebot3000.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49268564\">https://news.ycombinator.com/item?id=49268564</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
+            "url": "https://www.cringebot3000.com/",
+            "published": "Wed, 12 Aug 2026 06:30:49 +0000",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "llama.cpp",
+            "description": "<p>Article URL: <a href=\"https://llama.app\">https://llama.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267928\">https://news.ycombinator.com/item?id=49267928</a></p>\n<p>Points: 172</p>\n<p># Comments: 75</p>",
+            "url": "https://llama.app",
+            "published": "Wed, 12 Aug 2026 04:51:59 +0000",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dropbox is an obvious PE Target?",
+            "description": "<p>Article URL: <a href=\"https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/\">https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267818\">https://news.ycombinator.com/item?id=49267818</a></p>\n<p>Points: 51</p>\n<p># Comments: 75</p>",
+            "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
+            "published": "Wed, 12 Aug 2026 04:30:34 +0000",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Early release scheme risks more serious crimes, probation chief warns",
+            "description": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
+            "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 06:52:15 GMT",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+            "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+            "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:00:46 GMT",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three ways to watch the solar eclipse safely without glasses",
+            "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:29:28 GMT",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine’s strikes on Russia’s Wildberries ‘aren’t about the front line’",
+            "description": "The company akin to Amazon has come under heavy attacks in Russia as Kyiv tries to bring the sense of war home.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 08:19:05 +0000",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Clacton by-election: Farage may win the town, but can he win the country?",
+            "description": "Reform UK leader is set to claim victory over the seaside town that adores him, but the party&#039;s popularity is in doubt.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 08:14:07 +0000",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Taiwan’s Foxconn reports 35 percent rise in profit on AI demand",
+            "description": "World&#039;s largest contract electronics maker forecasts strong growth in 2026 amid AI boom.",
+            "url": "https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 07:58:04 +0000",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T12:13:32+03:30"
+        }
+    ]
+}
