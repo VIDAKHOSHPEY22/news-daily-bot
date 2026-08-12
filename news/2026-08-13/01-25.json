@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T01:25:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+            "description": "<p>Article URL: <a href=\"https://cynative.com/blog/agent-trust-boundaries/\">https://cynative.com/blog/agent-trust-boundaries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277437\">https://news.ycombinator.com/item?id=49277437</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://cynative.com/blog/agent-trust-boundaries/",
+            "published": "Wed, 12 Aug 2026 19:29:34 +0000",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Delta",
+            "description": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-delta\">https://zed.dev/blog/introducing-delta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276574\">https://news.ycombinator.com/item?id=49276574</a></p>\n<p>Points: 247</p>\n<p># Comments: 83</p>",
+            "url": "https://zed.dev/blog/introducing-delta",
+            "published": "Wed, 12 Aug 2026 18:19:59 +0000",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "People who grew up with high economic connectedness earn more",
+            "description": "<p>Article URL: <a href=\"https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/\">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276534\">https://news.ycombinator.com/item?id=49276534</a></p>\n<p>Points: 89</p>\n<p># Comments: 80</p>",
+            "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+            "published": "Wed, 12 Aug 2026 18:17:03 +0000",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Solar eclipse seen over UK skies",
+            "description": "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse.",
+            "url": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 21:46:21 GMT",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+            "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Students wait for A-level, T-level and BTec results",
+            "description": "Another record number of students are expected to secure a place at their first choice of university.",
+            "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 19:26:55 GMT",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
+            "description": "Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo&#039;s goal is in vain for Aston Villa.",
+            "url": "https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 21:50:27 +0000",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands missing after Colombia quake as rescue continues",
+            "description": "Thousands missing after Colombia quake as rescue continues",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-missing-after-colombia-quake-as-rescue-continues?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 21:25:08 +0000",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Morocco says working to prevent potential new Ceuta crossings surge",
+            "description": "Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 21:07:12 +0000",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T01:25:02+03:30"
+        }
+    ]
+}
