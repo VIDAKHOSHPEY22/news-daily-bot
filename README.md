@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 02:37:07
+**Last Update:** 2026-08-13 03:20:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Breaking the WAL
+### 1. Show HN: A marketplace where AI agents buy services from AI agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
-<p>Points: 31</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://aaas-marketplace-1089237826218.asia-northeast1.run.app">https://aaas-marketplace-1089237826218.asia-northeast1.run.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279804">https://news.ycombinator.com/item?id=49279804</a></p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
+🔗 **Read more:** [https://aaas-marketplace-1089237826218.asia-northeast1.run.app](https://aaas-marketplace-1089237826218.asia-northeast1.run.app)
 
 ---
 
-### 2. Show HN: Programmable timer web app (for gym workouts or stretching sessions)
+### 2. I built a browser-native SysEx librarian for 80s/90s synthesizers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Over the last couple of months, I’ve been building a timer web app for myself that I use for workout and stretching sessions. My main use-case is gym routines that consist of repeatable sequences, e.g. where you are holding certain positions for a set time (rinse and repeat). The app counts down the program, beeps, and reads the activities out loud.<p>Two things (I suppose) are special about it:<p>- The timers are “programmable”, so you can freely express your own routines and procedures in a declarative notation.<p>- The app is all static (no backend): the entire program is encoded in the URL and can be bookmarked or shared/transferred via QR-code.<p>You can check it out at <a href="https://timer.jotaen.net" rel="nofollow">https://timer.jotaen.net</a>, optionally with a demo program pre-loaded: <a href="https://timer.jotaen.net/#demo" rel="nofollow">https://timer.jotaen.net/#demo</a>.<p>Source code is at <a href="https://github.com/jotaen/timer" rel="nofollow">https://github.com/jotaen/timer</a>. I’ve also written up a small behind-the-scenes on my blog: <a href="https://www.jotaen.net/SAKxq" rel="nofollow">https://www.jotaen.net/SAKxq</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276673">https://news.ycombinator.com/item?id=49276673</a></p>
+<p>Article URL: <a href="https://bipluk.com/">https://bipluk.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279628">https://news.ycombinator.com/item?id=49279628</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://bipluk.com/](https://bipluk.com/)
+
+---
+
+### 3. Process as a Proxy for Motivation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bengodfrey.dev/blog/process/">https://bengodfrey.dev/blog/process/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279197">https://news.ycombinator.com/item?id=49279197</a></p>
 <p>Points: 7</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://timer.jotaen.net](https://timer.jotaen.net)
-
----
-
-### 3. Delta
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 312</p>
-<p># Comments: 102</p>
-
-🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
+🔗 **Read more:** [https://bengodfrey.dev/blog/process/](https://bengodfrey.dev/blog/process/)
 
 ---
 
@@ -98,7 +97,33 @@ Grain exports from both Russia and Ukraine are falling as both countries attack 
 
 ---
 
-### 7. Trump administration plans to give ICE officers electric-shock gloves
+### 7. Trump administration arrests Southern Poverty Law Center expert for fraud
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss)
+
+---
+
+### 8. Media groups sue Trump over paid access to public social media posts
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss)
+
+---
+
+### 9. Trump administration plans to give ICE officers electric-shock gloves
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ Grain exports from both Russia and Ukraine are falling as both countries attack 
 US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president&#039;s immigration crackdown.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss)
-
----
-
-### 8. US strikes in Yemen killed 153 civilians in 2025, says Pentagon review
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss)
-
----
-
-### 9. Hegseth cautions that ICC may investigate US boat strikes in Latin America
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss)
 
 ---
 

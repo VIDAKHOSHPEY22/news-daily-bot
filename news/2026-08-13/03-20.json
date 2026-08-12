@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T03:20:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A marketplace where AI agents buy services from AI agents",
+            "description": "<p>Article URL: <a href=\"https://aaas-marketplace-1089237826218.asia-northeast1.run.app\">https://aaas-marketplace-1089237826218.asia-northeast1.run.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279804\">https://news.ycombinator.com/item?id=49279804</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
+            "url": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
+            "published": "Wed, 12 Aug 2026 23:07:32 +0000",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I built a browser-native SysEx librarian for 80s/90s synthesizers",
+            "description": "<p>Article URL: <a href=\"https://bipluk.com/\">https://bipluk.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279628\">https://news.ycombinator.com/item?id=49279628</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://bipluk.com/",
+            "published": "Wed, 12 Aug 2026 22:47:20 +0000",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Process as a Proxy for Motivation",
+            "description": "<p>Article URL: <a href=\"https://bengodfrey.dev/blog/process/\">https://bengodfrey.dev/blog/process/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279197\">https://news.ycombinator.com/item?id=49279197</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://bengodfrey.dev/blog/process/",
+            "published": "Wed, 12 Aug 2026 22:01:43 +0000",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+            "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 21:53:45 GMT",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Millions watch 'surreal' solar eclipse in UK and Europe",
+            "description": "More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.",
+            "url": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 22:45:52 GMT",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+            "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+            "description": "Heidi Beirich, an expert on far-right groups, has been charged over alleged misuse of donor funds to pay informants.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 23:23:14 +0000",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Media groups sue Trump over paid access to public social media posts",
+            "description": "Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts.",
+            "url": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 23:23:00 +0000",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration plans to give ICE officers electric-shock gloves",
+            "description": "US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president&#039;s immigration crackdown.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 22:22:57 +0000",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T03:20:58+03:30"
+        }
+    ]
+}
