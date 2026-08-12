@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 09:50:43
+**Last Update:** 2026-08-12 10:19:11
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,42 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://llama.app">https://llama.app</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267928">https://news.ycombinator.com/item?id=49267928</a></p>
-<p>Points: 62</p>
-<p># Comments: 13</p>
+<p>Points: 99</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://llama.app](https://llama.app)
 
 ---
 
-### 2. The Human Is the Loop
+### 2. CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://brentfitzgerald.com/posts/the-human-is-the-loop/">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267108">https://news.ycombinator.com/item?id=49267108</a></p>
-<p>Points: 51</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://github.com/sgkdev/bad_garbage">https://github.com/sgkdev/bad_garbage</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267550">https://news.ycombinator.com/item?id=49267550</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://brentfitzgerald.com/posts/the-human-is-the-loop/](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+🔗 **Read more:** [https://github.com/sgkdev/bad_garbage](https://github.com/sgkdev/bad_garbage)
 
 ---
 
-### 3. Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI
+### 3. DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267057">https://news.ycombinator.com/item?id=49267057</a></p>
-<p>Points: 140</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/">https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267527">https://news.ycombinator.com/item?id=49267527</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
+🔗 **Read more:** [https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/](https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/)
 
 ---
 
@@ -97,7 +97,20 @@ Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain
 
 ---
 
-### 7. Why have several nations raised red flags over Indian farm exports?
+### 7. At least 15 dead, dozens missing as ferry capsizes in Zimbabwe
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Zimbabwe’s Civil Protection Unit says the ferry was carrying more than its capacity of 90 people when it capsized.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss)
+
+---
+
+### 8. Why have several nations raised red flags over Indian farm exports?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag s
 
 ---
 
-### 8. Zelenskyy says Ukraine has sent proposals to US to end war with Russia
+### 9. Zelenskyy says Ukraine has sent proposals to US to end war with Russia
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag s
 Ukraine&#039;s president also says Russia will use its election next month as a pretext to declare a new mobilisation.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss)
-
----
-
-### 9. Can Trump keep his ‘irritation’ with Netanyahu in check?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel’s PM Benjamin Netanyahu has rejected Donald Trump’s Gaza peace plan which has exposed tensions between the two.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss)
 
 ---
 

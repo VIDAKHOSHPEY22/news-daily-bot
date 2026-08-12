@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T10:19:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "llama.cpp",
+            "description": "<p>Article URL: <a href=\"https://llama.app\">https://llama.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267928\">https://news.ycombinator.com/item?id=49267928</a></p>\n<p>Points: 99</p>\n<p># Comments: 41</p>",
+            "url": "https://llama.app",
+            "published": "Wed, 12 Aug 2026 04:51:59 +0000",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CVE-2026-53361 AF_Unix GC vs. MSG_PEEK use-after-free container escape",
+            "description": "<p>Article URL: <a href=\"https://github.com/sgkdev/bad_garbage\">https://github.com/sgkdev/bad_garbage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267550\">https://news.ycombinator.com/item?id=49267550</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/sgkdev/bad_garbage",
+            "published": "Wed, 12 Aug 2026 03:31:42 +0000",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+            "description": "<p>Article URL: <a href=\"https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/\">https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267527\">https://news.ycombinator.com/item?id=49267527</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+            "published": "Wed, 12 Aug 2026 03:27:31 +0000",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Early release scheme risks more serious crimes, probation chief warns",
+            "description": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
+            "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 05:00:23 GMT",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+            "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+            "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:00:46 GMT",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
+            "description": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 23:17:15 GMT",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
+            "description": "Zimbabwe’s Civil Protection Unit says the ferry was carrying more than its capacity of 90 people when it capsized.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 06:29:37 +0000",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why have several nations raised red flags over Indian farm exports?",
+            "description": "As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag spices, Indian growers ask what&#039;s wrong.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 05:34:14 +0000",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+            "description": "Ukraine&#039;s president also says Russia will use its election next month as a pretext to declare a new mobilisation.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 05:26:26 +0000",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T10:19:11+03:30"
+        }
+    ]
+}
