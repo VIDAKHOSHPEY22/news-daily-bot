@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T13:45:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Facebook is paying controversial creators to produce rage-bait content",
+            "description": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696\">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269818\">https://news.ycombinator.com/item?id=49269818</a></p>\n<p>Points: 24</p>\n<p># Comments: 12</p>",
+            "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+            "published": "Wed, 12 Aug 2026 09:35:30 +0000",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Beef and dairy drive 41% of biodiversity damage linked to global farmland",
+            "description": "<p>Article URL: <a href=\"https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland\">https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269789\">https://news.ycombinator.com/item?id=49269789</a></p>\n<p>Points: 22</p>\n<p># Comments: 6</p>",
+            "url": "https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland",
+            "published": "Wed, 12 Aug 2026 09:30:47 +0000",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dutch Train Map Simulator",
+            "description": "<p>Article URL: <a href=\"https://spoorkaart.zaza.dev\">https://spoorkaart.zaza.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49269641\">https://news.ycombinator.com/item?id=49269641</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+            "url": "https://spoorkaart.zaza.dev",
+            "published": "Wed, 12 Aug 2026 09:09:21 +0000",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three ways to watch the solar eclipse safely without glasses",
+            "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:29:28 GMT",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman attacked by Simon Levy feels betrayed he was allowed to attack more women",
+            "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+            "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:00:46 GMT",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
+            "description": "The Government will meet to discuss this summer's record-breaking heat as the tally for days above 30C in the UK is broken.",
+            "url": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 08:08:43 GMT",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 100 passengers rescued after Indonesia ferry fire",
+            "description": "More than 100 passengers rescued after Indonesia ferry fire",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/more-than-100-passengers-rescued-after-indonesia-ferry-fire?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 09:26:45 +0000",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pogba suffers new injury setback with Monaco future now in doubt",
+            "description": "Former France and Manchester United star Paul Pogba suffers latest injury setback, sparking rumours about Monaco future.",
+            "url": "https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 09:24:59 +0000",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zambia’s president rallies for second term ahead of election",
+            "description": "Zambia&#039;s president rallies for second term ahead of election",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 09:16:22 +0000",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T13:45:07+03:30"
+        }
+    ]
+}
