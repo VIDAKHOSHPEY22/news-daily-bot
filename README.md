@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 02:21:46
+**Last Update:** 2026-08-13 02:37:07
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Thanks to social media, canned sardines are a scarcity on the supermarket shelf
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49279013">https://news.ycombinator.com/item?id=49279013</a></p>
-<p>Points: 28</p>
-<p># Comments: 26</p>
-
-🔗 **Read more:** [https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/](https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/)
-
----
-
-### 2. Breaking the WAL
+### 1. Breaking the WAL
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
-<p>Points: 28</p>
-<p># Comments: 29</p>
+<p>Points: 31</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
 
 ---
 
-### 3. Show HN: Programmable timer web app (for gym workouts or stretching sessions)
+### 2. Show HN: Programmable timer web app (for gym workouts or stretching sessions)
 
 **Source:** Hacker News
 
@@ -52,10 +36,26 @@
 <p>Over the last couple of months, I’ve been building a timer web app for myself that I use for workout and stretching sessions. My main use-case is gym routines that consist of repeatable sequences, e.g. where you are holding certain positions for a set time (rinse and repeat). The app counts down the program, beeps, and reads the activities out loud.<p>Two things (I suppose) are special about it:<p>- The timers are “programmable”, so you can freely express your own routines and procedures in a declarative notation.<p>- The app is all static (no backend): the entire program is encoded in the URL and can be bookmarked or shared/transferred via QR-code.<p>You can check it out at <a href="https://timer.jotaen.net" rel="nofollow">https://timer.jotaen.net</a>, optionally with a demo program pre-loaded: <a href="https://timer.jotaen.net/#demo" rel="nofollow">https://timer.jotaen.net/#demo</a>.<p>Source code is at <a href="https://github.com/jotaen/timer" rel="nofollow">https://github.com/jotaen/timer</a>. I’ve also written up a small behind-the-scenes on my blog: <a href="https://www.jotaen.net/SAKxq" rel="nofollow">https://www.jotaen.net/SAKxq</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276673">https://news.ycombinator.com/item?id=49276673</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://timer.jotaen.net](https://timer.jotaen.net)
+
+---
+
+### 3. Delta
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
+<p>Points: 312</p>
+<p># Comments: 102</p>
+
+🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
 
 ---
 
