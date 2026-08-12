@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T18:35:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
+            "description": "<p>Article URL: <a href=\"https://job-boards.greenhouse.io/givecampus/jobs/4112793009\">https://job-boards.greenhouse.io/givecampus/jobs/4112793009</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273395\">https://news.ycombinator.com/item?id=49273395</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
+            "published": "Wed, 12 Aug 2026 14:55:27 +0000",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "License Plate Reader Searches Should Require a Warrant",
+            "description": "<p>Article URL: <a href=\"https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/\">https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49273165\">https://news.ycombinator.com/item?id=49273165</a></p>\n<p>Points: 30</p>\n<p># Comments: 3</p>",
+            "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+            "published": "Wed, 12 Aug 2026 14:43:39 +0000",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+            "description": "<p>Article URL: <a href=\"https://tailscale.com/blog/sqlite-wal-reset-bug\">https://tailscale.com/blog/sqlite-wal-reset-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49272832\">https://news.ycombinator.com/item?id=49272832</a></p>\n<p>Points: 25</p>\n<p># Comments: 0</p>",
+            "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+            "published": "Wed, 12 Aug 2026 14:22:30 +0000",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Double killer and rapist given whole life sentence",
+            "description": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 14:25:00 GMT",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three ways to watch the solar eclipse safely without glasses",
+            "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:29:28 GMT",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham considers disposable BBQ ban over wildfire risks",
+            "description": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 13:31:51 GMT",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
+            "description": "The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 14:26:45 +0000",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why the UK faces a prisons crisis amid row over release of cop killers",
+            "description": "The killers of PC Andrew Harper had been set to partake in early release scheme as prison system on verge of collapse.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 14:23:34 +0000",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran is not anti-imperialist. It is a state calculating survival",
+            "description": "Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 14:23:13 +0000",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T18:35:21+03:30"
+        }
+    ]
+}

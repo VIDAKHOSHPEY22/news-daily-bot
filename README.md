@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 17:23:48
+**Last Update:** 2026-08-12 18:35:21
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Facebook ads are so hard to block that uBlock Origin stopped filtering them
+### 1. GiveCampus (YC S15) Is Hiring Engineering Managers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49271126">https://news.ycombinator.com/item?id=49271126</a></p>
-<p>Points: 91</p>
-<p># Comments: 76</p>
+<p>Article URL: <a href="https://job-boards.greenhouse.io/givecampus/jobs/4112793009">https://job-boards.greenhouse.io/givecampus/jobs/4112793009</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273395">https://news.ycombinator.com/item?id=49273395</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
+🔗 **Read more:** [https://job-boards.greenhouse.io/givecampus/jobs/4112793009](https://job-boards.greenhouse.io/givecampus/jobs/4112793009)
 
 ---
 
-### 2. 2026 Eclipse Webcams
+### 2. License Plate Reader Searches Should Require a Warrant
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jonty.github.io/2026_eclipse_webcams/">https://jonty.github.io/2026_eclipse_webcams/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270953">https://news.ycombinator.com/item?id=49270953</a></p>
-<p>Points: 165</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/">https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49273165">https://news.ycombinator.com/item?id=49273165</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://jonty.github.io/2026_eclipse_webcams/](https://jonty.github.io/2026_eclipse_webcams/)
+🔗 **Read more:** [https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
 
 ---
 
-### 3. Delphi 13 Community Edition Is Now Available
+### 3. Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/">https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270621">https://news.ycombinator.com/item?id=49270621</a></p>
-<p>Points: 54</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://tailscale.com/blog/sqlite-wal-reset-bug">https://tailscale.com/blog/sqlite-wal-reset-bug</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49272832">https://news.ycombinator.com/item?id=49272832</a></p>
+<p>Points: 25</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
+🔗 **Read more:** [https://tailscale.com/blog/sqlite-wal-reset-bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 
 ---
 
-### 4. Three ways to watch the solar eclipse safely without glasses
+### 4. Double killer and rapist given whole life sentence
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Three ways to watch the solar eclipse safely without glasses
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ With some shops running out of stock, it may be too late to buy eclipse glasses 
 
 ---
 
-### 5. Burnham considers disposable BBQ ban over wildfire risks
+### 6. Burnham considers disposable BBQ ban over wildfire risks
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 6. Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Sudanese army intercepts RSF drones over el-Obeid
+### 7. Lebanon passes long-sought amnesty law, a day after death penalty repeal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.
+The legislation will &#039;exceptionally&#039; reduce certain prison terms, says Lebanon&#039;s parliament speaker.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/lebanon-passes-long-sought-amnesty-law-a-day-after-death-penalty-repeal?traffic_source=rss)
 
 ---
 
-### 8. Why has North Korea fired a missile ahead of US-South Korea drills?
+### 8. Why the UK faces a prisons crisis amid row over release of cop killers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.
+The killers of PC Andrew Harper had been set to partake in early release scheme as prison system on verge of collapse.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/why-the-uk-faces-a-prisons-crisis-amid-row-over-release-of-cop-killers?traffic_source=rss)
 
 ---
 
-### 9. Egyptian student livestreams his kidnapping
+### 9. Iran is not anti-imperialist. It is a state calculating survival
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Egyptian student livestreams his kidnapping
+Regardless of its current hostile rhetoric, the Islamic Republic will likely reach a settlement with the US and Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss)
 
 ---
 
