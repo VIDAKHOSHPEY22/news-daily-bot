@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 00:25:00
+**Last Update:** 2026-08-13 00:39:09
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://antithesis.com/blog/2026/wal-reset-bug/">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49277799">https://news.ycombinator.com/item?id=49277799</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Points: 17</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://antithesis.com/blog/2026/wal-reset-bug/](https://antithesis.com/blog/2026/wal-reset-bug/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://zed.dev/blog/introducing-delta">https://zed.dev/blog/introducing-delta</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49276574">https://news.ycombinator.com/item?id=49276574</a></p>
-<p>Points: 187</p>
-<p># Comments: 64</p>
+<p>Points: 211</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://zed.dev/blog/introducing-delta](https://zed.dev/blog/introducing-delta)
 
@@ -97,42 +97,42 @@ The PM wants the public to avoid using single-use grills during the current spel
 
 ---
 
-### 7. Israel vows to keep troops in Lebanon, Gaza and Syria
+### 7. Drone attacks on energy infrastructure deepen Libya’s energy crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.
+Repeated drone strikes on oil and power infrastructure are deepening Libya&#039;s energy crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss)
 
 ---
 
-### 8. Photos: Solar eclipse plunges parts of Europe into darkness
+### 8. Israeli air strike kills one in northern Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.
+Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss)
 
 ---
 
-### 9. ‘Platformicide’ of Palestine: Activists struggle to be heard on Meta
+### 9. Deadly India landslide kills at least seven in Mumbai
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.
+Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss)
 
 ---
 
