@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T06:03:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+            "description": "<p>Article URL: <a href=\"https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/\">https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266899\">https://news.ycombinator.com/item?id=49266899</a></p>\n<p>Points: 15</p>\n<p># Comments: 8</p>",
+            "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+            "published": "Wed, 12 Aug 2026 01:42:46 +0000",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/\">https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266560\">https://news.ycombinator.com/item?id=49266560</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+            "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+            "published": "Wed, 12 Aug 2026 00:58:00 +0000",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+            "description": "<p>Article URL: <a href=\"https://www.cftc.gov/PressRoom/PressReleases/9281-26\">https://www.cftc.gov/PressRoom/PressReleases/9281-26</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266277\">https://news.ycombinator.com/item?id=49266277</a></p>\n<p>Points: 123</p>\n<p># Comments: 104</p>",
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+            "published": "Wed, 12 Aug 2026 00:17:59 +0000",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+            "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+            "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:00:46 GMT",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More weather records as UK heat set to spike again",
+            "description": "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.",
+            "url": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 23:37:43 GMT",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+            "description": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:21:44 GMT",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Stronghold of Syrian revolution celebrates Assad’s death sentence",
+            "description": "Syrians in Idlib gathered in celebration after a court sentenced ousted President Bashar al-Assad",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/stronghold-of-syrian-revolution-celebrates-assads-death-sentence?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 02:21:20 +0000",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "On the ground in Cali, Colombia’s worst-hit city after the quake",
+            "description": "Reporting from the rubble of an apartment building, Al Jazeera’s Latin America Editor Lucia Newman describes the scene.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 01:40:33 +0000",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zambia to vote as economic hardship tests government reforms",
+            "description": "Debt restructuring, inflation and copper revenues are emerging as key issues in the vote.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 01:18:29 +0000",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T06:03:27+03:30"
+        }
+    ]
+}
