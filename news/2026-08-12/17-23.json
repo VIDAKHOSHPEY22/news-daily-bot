@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T17:23:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Facebook ads are so hard to block that uBlock Origin stopped filtering them",
+            "description": "<p>Article URL: <a href=\"https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/\">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49271126\">https://news.ycombinator.com/item?id=49271126</a></p>\n<p>Points: 91</p>\n<p># Comments: 76</p>",
+            "url": "https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/",
+            "published": "Wed, 12 Aug 2026 12:07:16 +0000",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "2026 Eclipse Webcams",
+            "description": "<p>Article URL: <a href=\"https://jonty.github.io/2026_eclipse_webcams/\">https://jonty.github.io/2026_eclipse_webcams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270953\">https://news.ycombinator.com/item?id=49270953</a></p>\n<p>Points: 165</p>\n<p># Comments: 44</p>",
+            "url": "https://jonty.github.io/2026_eclipse_webcams/",
+            "published": "Wed, 12 Aug 2026 11:53:01 +0000",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Delphi 13 Community Edition Is Now Available",
+            "description": "<p>Article URL: <a href=\"https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/\">https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49270621\">https://news.ycombinator.com/item?id=49270621</a></p>\n<p>Points: 54</p>\n<p># Comments: 40</p>",
+            "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+            "published": "Wed, 12 Aug 2026 11:13:36 +0000",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three ways to watch the solar eclipse safely without glasses",
+            "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 16:29:28 GMT",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham considers disposable BBQ ban over wildfire risks",
+            "description": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 13:31:51 GMT",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
+            "description": "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.",
+            "url": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 12:32:24 GMT",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudanese army intercepts RSF drones over el-Obeid",
+            "description": "Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 13:29:29 +0000",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
+            "description": "Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 13:10:14 +0000",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Egyptian student livestreams his kidnapping",
+            "description": "Egyptian student livestreams his kidnapping",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 12:36:01 +0000",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T17:23:48+03:30"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 16:57:24
+**Last Update:** 2026-08-12 17:23:48
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49271126">https://news.ycombinator.com/item?id=49271126</a></p>
-<p>Points: 65</p>
-<p># Comments: 32</p>
+<p>Points: 91</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://jonty.github.io/2026_eclipse_webcams/">https://jonty.github.io/2026_eclipse_webcams/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270953">https://news.ycombinator.com/item?id=49270953</a></p>
-<p>Points: 118</p>
-<p># Comments: 28</p>
+<p>Points: 165</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://jonty.github.io/2026_eclipse_webcams/](https://jonty.github.io/2026_eclipse_webcams/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/">https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270621">https://news.ycombinator.com/item?id=49270621</a></p>
-<p>Points: 40</p>
-<p># Comments: 26</p>
+<p>Points: 54</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
 
@@ -71,14 +71,14 @@ With some shops running out of stock, it may be too late to buy eclipse glasses 
 
 ---
 
-### 5. Burnham says disposable BBQ ban under consideration
+### 5. Burnham considers disposable BBQ ban over wildfire risks
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The PM said the public should not be using single-use grills "at this moment in time" amid wildfire risks.
+The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ The actress, best known for playing Dawn in The Office, has revealed she has inc
 
 ---
 
-### 7. Why has North Korea fired a missile ahead of US-South Korea drills?
+### 7. Sudanese army intercepts RSF drones over el-Obeid
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sudanese army air defenses reportedly intercepted drones launched by the Rapid Support Forces (RSF) over el-Obeid.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-sudan-intercepts-rsf-drones-su?traffic_source=rss)
+
+---
+
+### 8. Why has North Korea fired a missile ahead of US-South Korea drills?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Pyongyang has repeatedly condemned US–South Korea military drills, claiming th
 
 ---
 
-### 8. Egyptian student livestreams his kidnapping
+### 9. Egyptian student livestreams his kidnapping
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Pyongyang has repeatedly condemned US–South Korea military drills, claiming th
 Egyptian student livestreams his kidnapping
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss)
-
----
-
-### 9. Top Iranian commander visited Iraq to discuss disarmament plan: Source
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Esmail Qaani held meetings over Iraqi government&#039;s plan to disarm armed groups and bring weapons under state control.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss)
 
 ---
 
