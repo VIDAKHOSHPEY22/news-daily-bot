@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T23:02:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zed: Delta",
+            "description": "<p>Article URL: <a href=\"https://zed.dev/blog/introducing-delta\">https://zed.dev/blog/introducing-delta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276574\">https://news.ycombinator.com/item?id=49276574</a></p>\n<p>Points: 100</p>\n<p># Comments: 30</p>",
+            "url": "https://zed.dev/blog/introducing-delta",
+            "published": "Wed, 12 Aug 2026 18:19:59 +0000",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Your Key to Success Isn't More Luck or Hard Work",
+            "description": "<p>Article URL: <a href=\"https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/\">https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276534\">https://news.ycombinator.com/item?id=49276534</a></p>\n<p>Points: 21</p>\n<p># Comments: 16</p>",
+            "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+            "published": "Wed, 12 Aug 2026 18:17:03 +0000",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer\">https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49275465\">https://news.ycombinator.com/item?id=49275465</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+            "published": "Wed, 12 Aug 2026 17:00:21 +0000",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+            "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Double killer and rapist given whole life sentence",
+            "description": "Simon Levy, from Tottenham, will spend the rest of his life in prison for the murder of two women and rape of a third.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 14:25:00 GMT",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
+            "description": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 19:05:38 GMT",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
+            "description": "A US official confirmed that the United States expects to complete its pullout by September 30.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 19:11:03 +0000",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands flee drought in Somalia amid sharp aid decline",
+            "description": "Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought in Somalia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 19:06:23 +0000",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
+            "description": "Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.",
+            "url": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 18:23:59 +0000",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T23:02:01+03:30"
+        }
+    ]
+}
