@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 08:24:13
+**Last Update:** 2026-08-12 08:40:36
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://brentfitzgerald.com/posts/the-human-is-the-loop/">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267108">https://news.ycombinator.com/item?id=49267108</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Points: 27</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://brentfitzgerald.com/posts/the-human-is-the-loop/](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49267057">https://news.ycombinator.com/item?id=49267057</a></p>
-<p>Points: 73</p>
-<p># Comments: 15</p>
+<p>Points: 85</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/](https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/">https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266921">https://news.ycombinator.com/item?id=49266921</a></p>
-<p>Points: 31</p>
-<p># Comments: 5</p>
+<p>Points: 36</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
 
 ---
 
-### 4. Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again
+### 4. 'Overwhelmed' probation officers warn  of early prison release crime risk
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+England and Wales' probation services are already under "unprecedented pressure" - set to increase with the scheme, the chief inspector said.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Serial sex offender Simon Levy went on to murder two women and rape a third afte
 
 ---
 
-### 5. More weather records as UK heat set to spike again
+### 6. More weather records broken as UK heat set to spike again
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ Serial sex offender Simon Levy went on to murder two women and rape a third afte
 Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.
 
 🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Police chiefs call for PM to prevent early release of PC Harper's killers
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The intervention comes after Andy Burnham said he was "confident" the early release of PC Harper's killers could be prevented.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss)
 
 ---
 

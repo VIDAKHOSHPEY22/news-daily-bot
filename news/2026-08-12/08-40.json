@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-12T08:40:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Human Is the Loop",
+            "description": "<p>Article URL: <a href=\"https://brentfitzgerald.com/posts/the-human-is-the-loop/\">https://brentfitzgerald.com/posts/the-human-is-the-loop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267108\">https://news.ycombinator.com/item?id=49267108</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+            "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+            "published": "Wed, 12 Aug 2026 02:15:01 +0000",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/\">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49267057\">https://news.ycombinator.com/item?id=49267057</a></p>\n<p>Points: 85</p>\n<p># Comments: 19</p>",
+            "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+            "published": "Wed, 12 Aug 2026 02:05:42 +0000",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+            "description": "<p>Article URL: <a href=\"https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/\">https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49266921\">https://news.ycombinator.com/item?id=49266921</a></p>\n<p>Points: 36</p>\n<p># Comments: 7</p>",
+            "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+            "published": "Wed, 12 Aug 2026 01:45:51 +0000",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Overwhelmed' probation officers warn  of early prison release crime risk",
+            "description": "England and Wales' probation services are already under \"unprecedented pressure\" - set to increase with the scheme, the chief inspector said.",
+            "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 05:00:23 GMT",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+            "description": "Serial sex offender Simon Levy went on to murder two women and rape a third after a series of disastrous decisions that left him free to roam the streets.",
+            "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 21:00:46 GMT",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More weather records broken as UK heat set to spike again",
+            "description": "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.",
+            "url": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 05:09:55 GMT",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says secret plane switch ‘up to the Secret Service’",
+            "description": "US President Donald Trump says the decision to make a plane switch in Turkiye after the NATO summit.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 04:15:51 +0000",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Drone strikes power station near Libya’s largest oil refinery",
+            "description": "A drone has struck a power station in Libya’s western city of Zawiya",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 04:13:34 +0000",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia frees ex-US marine Gilman jailed since 2022",
+            "description": "Russia has released former US marine Robert Gilman, who had been jailed since 2022 for attacking a police officer.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 03:57:01 +0000",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire WEISER KNOLL, Fremont, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22424",
+            "published": "2026-08-09T16:32:00Z",
+            "fetched": "2026-08-12T08:40:36+03:30"
+        }
+    ]
+}
