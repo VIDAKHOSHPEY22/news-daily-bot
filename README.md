@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 13:45:07
+**Last Update:** 2026-08-12 14:01:41
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ The Government will meet to discuss this summer's record-breaking heat as the ta
 
 ---
 
-### 7. More than 100 passengers rescued after Indonesia ferry fire
+### 7. ‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A Lebanon rescuer’s work is shaped by the daughter he lost in an Israeli attack on his station.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss)
+
+---
+
+### 8. More than 100 passengers rescued after Indonesia ferry fire
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ More than 100 passengers rescued after Indonesia ferry fire
 
 ---
 
-### 8. Pogba suffers new injury setback with Monaco future now in doubt
+### 9. Pogba suffers new injury setback with Monaco future now in doubt
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ More than 100 passengers rescued after Indonesia ferry fire
 Former France and Manchester United star Paul Pogba suffers latest injury setback, sparking rumours about Monaco future.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/12/pogba-suffers-new-injury-setback-with-monaco-future-now-in-doubt?traffic_source=rss)
-
----
-
-### 9. Zambia’s president rallies for second term ahead of election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Zambia&#039;s president rallies for second term ahead of election
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/zambias-president-rallies-for-second-term-ahead-of-election?traffic_source=rss)
 
 ---
 
