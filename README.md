@@ -1,65 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 15:34:14
+**Last Update:** 2026-08-12 16:57:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation
+### 1. Facebook ads are so hard to block that uBlock Origin stopped filtering them
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Woxi is an interpreter for the Wolfram Language written in Rust.<p>It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.<p>Compared with wolframscript / Mathematica, the main differences are:<p>- Free and open source
-- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes
-- Embeddable - It can run in a browser via WASM or be embedded into another application as a scripting language<p>A more detailed comparison with Mathematica is available here:
-<a href="https://woxi.ad-si.com/docs/comparison/mathematica/" rel="nofollow">https://woxi.ad-si.com/docs/comparison/mathematica/</a>.<p>Conformance is ensured with ~26'000 unit tests and ~900 .wls script snapshot tests.<p>The current focus is on fixing remaining edge cases, improving performance, and growing the community.<p>If you use the Wolfram Language, I'd be particularly interested in feedback on compatibility and missing functionality.
-Contributions and bug reports are also very welcome: <a href="https://github.com/ad-si/Woxi" rel="nofollow">https://github.com/ad-si/Woxi</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270040">https://news.ycombinator.com/item?id=49270040</a></p>
-<p>Points: 74</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/">https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49271126">https://news.ycombinator.com/item?id=49271126</a></p>
+<p>Points: 65</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://woxi.ad-si.com](https://woxi.ad-si.com)
+🔗 **Read more:** [https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/](https://www.neowin.net/news/facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them/)
 
 ---
 
-### 2. What sort of maths are LLMs good at?
+### 2. 2026 Eclipse Webcams
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/">https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270022">https://news.ycombinator.com/item?id=49270022</a></p>
-<p>Points: 87</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://jonty.github.io/2026_eclipse_webcams/">https://jonty.github.io/2026_eclipse_webcams/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270953">https://news.ycombinator.com/item?id=49270953</a></p>
+<p>Points: 118</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)
+🔗 **Read more:** [https://jonty.github.io/2026_eclipse_webcams/](https://jonty.github.io/2026_eclipse_webcams/)
 
 ---
 
-### 3. Facebook is paying controversial creators to produce rage-bait content
+### 3. Delphi 13 Community Edition Is Now Available
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696">https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49269818">https://news.ycombinator.com/item?id=49269818</a></p>
-<p>Points: 151</p>
-<p># Comments: 78</p>
+<p>Article URL: <a href="https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/">https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49270621">https://news.ycombinator.com/item?id=49270621</a></p>
+<p>Points: 40</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696](https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696)
+🔗 **Read more:** [https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/](https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/)
 
 ---
 
@@ -89,55 +84,55 @@ The PM said the public should not be using single-use grills "at this moment in 
 
 ---
 
-### 6. Trump confirms he switched planes after Nato summit because of possible threat
+### 6. Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Journalists and White House staff who were on board the jet were unaware the president had left.
+The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Putin warns of tit-for-tat seizures of European vessels
+### 7. Why has North Korea fired a missile ahead of US-South Korea drills?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-If European states seize vessels with Russian cargo, Moscow will respond in kind &#039;wherever necessary&#039;, says Putin.
+Pyongyang has repeatedly condemned US–South Korea military drills, claiming they are a &#039;rehearsal for invasion&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss)
 
 ---
 
-### 8. Lebanon ends executions: Where does the death penalty still exist in 2026?
+### 8. Egyptian student livestreams his kidnapping
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three-quarters of the world has abolished the death penalty in law or in practice, according to Amnesty International.
+Egyptian student livestreams his kidnapping
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/lebanon-ends-executions-where-does-the-death-penalty-still-exist-in-2026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/egyptian-student-livestreams-his-kidnapping?traffic_source=rss)
 
 ---
 
-### 9. Woman rescued after 36 hours under rubble in Colombia
+### 9. Top Iranian commander visited Iraq to discuss disarmament plan: Source
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 32-year-old woman was rescued after 36 hours under rubble following a 7.4-magnitude earthquake in Colombia.
+Esmail Qaani held meetings over Iraqi government&#039;s plan to disarm armed groups and bring weapons under state control.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/12-08-sv-colombia-earthquake-rescue-co?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss)
 
 ---
 
