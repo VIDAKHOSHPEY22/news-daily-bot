@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-12 06:03:27
+**Last Update:** 2026-08-12 06:31:04
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. New Bedford police officer accused of using Flock cameras to track ex-partner
+### 1. The lifesaving secret hidden inside a horseshoe crab's blue blood
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/">https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266921">https://news.ycombinator.com/item?id=49266921</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+
+---
+
+### 2. New Bedford police officer accused of using Flock cameras to track ex-partner
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/">https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266899">https://news.ycombinator.com/item?id=49266899</a></p>
-<p>Points: 15</p>
-<p># Comments: 8</p>
+<p>Points: 34</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/)
 
 ---
 
-### 2. DEF CON crowd suspected in fake-hotspot attack on Delta flight
+### 3. DEF CON crowd suspected in fake-hotspot attack on Delta flight
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/">https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266560">https://news.ycombinator.com/item?id=49266560</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
+<p>Points: 25</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/](https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/)
-
----
-
-### 3. CFTC declares market emergency, orders Kalshi to continue to operate in New York
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cftc.gov/PressRoom/PressReleases/9281-26">https://www.cftc.gov/PressRoom/PressReleases/9281-26</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49266277">https://news.ycombinator.com/item?id=49266277</a></p>
-<p>Points: 123</p>
-<p># Comments: 104</p>
-
-🔗 **Read more:** [https://www.cftc.gov/PressRoom/PressReleases/9281-26](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
 
 ---
 
@@ -97,7 +97,20 @@ The intervention comes after Andy Burnham said he was "confident" the early rele
 
 ---
 
-### 7. Stronghold of Syrian revolution celebrates Assad’s death sentence
+### 7. Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran&#039;s top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss)
+
+---
+
+### 8. Stronghold of Syrian revolution celebrates Assad’s death sentence
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Syrians in Idlib gathered in celebration after a court sentenced ousted Presiden
 
 ---
 
-### 8. On the ground in Cali, Colombia’s worst-hit city after the quake
+### 9. On the ground in Cali, Colombia’s worst-hit city after the quake
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Syrians in Idlib gathered in celebration after a court sentenced ousted Presiden
 Reporting from the rubble of an apartment building, Al Jazeera’s Latin America Editor Lucia Newman describes the scene.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/12/on-the-ground-in-cali-colombias-worst-hit-city-after-the-quake?traffic_source=rss)
-
----
-
-### 9. Zambia to vote as economic hardship tests government reforms
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Debt restructuring, inflation and copper revenues are emerging as key issues in the vote.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/12/zambia-to-vote-as-economic-hardship-tests-government-reforms?traffic_source=rss)
 
 ---
 
