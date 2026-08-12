@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T02:21:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+            "description": "<p>Article URL: <a href=\"https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/\">https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49279013\">https://news.ycombinator.com/item?id=49279013</a></p>\n<p>Points: 28</p>\n<p># Comments: 26</p>",
+            "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+            "published": "Wed, 12 Aug 2026 21:45:29 +0000",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Breaking the WAL",
+            "description": "<p>Article URL: <a href=\"https://antithesis.com/blog/2026/wal-reset-bug/\">https://antithesis.com/blog/2026/wal-reset-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49277799\">https://news.ycombinator.com/item?id=49277799</a></p>\n<p>Points: 28</p>\n<p># Comments: 29</p>",
+            "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
+            "published": "Wed, 12 Aug 2026 20:00:16 +0000",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Programmable timer web app (for gym workouts or stretching sessions)",
+            "description": "<p>Over the last couple of months, I’ve been building a timer web app for myself that I use for workout and stretching sessions. My main use-case is gym routines that consist of repeatable sequences, e.g. where you are holding certain positions for a set time (rinse and repeat). The app counts down the program, beeps, and reads the activities out loud.<p>Two things (I suppose) are special about it:<p>- The timers are “programmable”, so you can freely express your own routines and procedures in a declarative notation.<p>- The app is all static (no backend): the entire program is encoded in the URL and can be bookmarked or shared/transferred via QR-code.<p>You can check it out at <a href=\"https://timer.jotaen.net\" rel=\"nofollow\">https://timer.jotaen.net</a>, optionally with a demo program pre-loaded: <a href=\"https://timer.jotaen.net/#demo\" rel=\"nofollow\">https://timer.jotaen.net/#demo</a>.<p>Source code is at <a href=\"https://github.com/jotaen/timer\" rel=\"nofollow\">https://github.com/jotaen/timer</a>. I’ve also written up a small behind-the-scenes on my blog: <a href=\"https://www.jotaen.net/SAKxq\" rel=\"nofollow\">https://www.jotaen.net/SAKxq</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49276673\">https://news.ycombinator.com/item?id=49276673</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://timer.jotaen.net",
+            "published": "Wed, 12 Aug 2026 18:27:52 +0000",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+            "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 21:53:45 GMT",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Millions watch 'surreal' solar eclipse in UK and Europe",
+            "description": "More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.",
+            "url": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 22:45:52 GMT",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+            "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration plans to give ICE officers electric-shock gloves",
+            "description": "US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president&#039;s immigration crackdown.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 22:22:57 +0000",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+            "description": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 21:53:17 +0000",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+            "description": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.",
+            "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
+            "published": "Wed, 12 Aug 2026 21:52:18 +0000",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T02:21:46+03:30"
+        }
+    ]
+}
