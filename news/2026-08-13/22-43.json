@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T22:43:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Accelerating GPT-5.6 Sol Ultrafast",
+            "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289844\">https://news.ycombinator.com/item?id=49289844</a></p>\n<p>Points: 90</p>\n<p># Comments: 15</p>",
+            "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+            "published": "Thu, 13 Aug 2026 18:10:02 +0000",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Where did the old web go? We followed 657,607 links to find out",
+            "description": "<p>Article URL: <a href=\"https://0.mk/blog/link-rot\">https://0.mk/blog/link-rot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289532\">https://news.ycombinator.com/item?id=49289532</a></p>\n<p>Points: 34</p>\n<p># Comments: 11</p>",
+            "url": "https://0.mk/blog/link-rot",
+            "published": "Thu, 13 Aug 2026 17:49:18 +0000",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Choose Boring Technology (2015)",
+            "description": "<p>Article URL: <a href=\"https://mcfunley.com/choose-boring-technology\">https://mcfunley.com/choose-boring-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289512\">https://news.ycombinator.com/item?id=49289512</a></p>\n<p>Points: 75</p>\n<p># Comments: 39</p>",
+            "url": "https://mcfunley.com/choose-boring-technology",
+            "published": "Thu, 13 Aug 2026 17:48:13 +0000",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Aerial footage shows derailed train",
+            "description": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
+            "url": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 17:09:23 GMT",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+            "description": "An amber extreme heat warning is in place for parts of England until midnight.",
+            "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 18:54:25 GMT",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from results day 2026",
+            "description": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 16:49:28 GMT",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Europe swelters in latest wave of extreme heat",
+            "description": "UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 18:34:51 +0000",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Carrick urges Manchester United to sign more transfers to boost title bid",
+            "description": "United&#039;s preseason outlay pales in comparison with some of their fellow title contenders.",
+            "url": "https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 18:33:28 +0000",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+            "description": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 18:28:14 +0000",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 01C",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-13T22:43:12+03:30"
+        }
+    ]
+}

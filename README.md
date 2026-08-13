@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 21:43:28
+**Last Update:** 2026-08-13 22:43:12
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Where did the old web go? We followed 657,607 links to find out
+### 1. Accelerating GPT-5.6 Sol Ultrafast
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai">https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289844">https://news.ycombinator.com/item?id=49289844</a></p>
+<p>Points: 90</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+
+---
+
+### 2. Where did the old web go? We followed 657,607 links to find out
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://0.mk/blog/link-rot">https://0.mk/blog/link-rot</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289532">https://news.ycombinator.com/item?id=49289532</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 34</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://0.mk/blog/link-rot](https://0.mk/blog/link-rot)
 
 ---
 
-### 2. Choose Boring Technology (2015)
+### 3. Choose Boring Technology (2015)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://mcfunley.com/choose-boring-technology">https://mcfunley.com/choose-boring-technology</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289512">https://news.ycombinator.com/item?id=49289512</a></p>
-<p>Points: 27</p>
-<p># Comments: 6</p>
+<p>Points: 75</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://mcfunley.com/choose-boring-technology](https://mcfunley.com/choose-boring-technology)
-
----
-
-### 3. Donkey.bas is 45 Years Old – 131 line of Glory
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://donkeybas.com/">https://donkeybas.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289465">https://news.ycombinator.com/item?id=49289465</a></p>
-<p>Points: 17</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://donkeybas.com/](https://donkeybas.com/)
 
 ---
 
@@ -97,42 +97,42 @@ Top grades and students going to university are on the up, but technical subject
 
 ---
 
-### 7. Gaza mural for Burger King worker fired for shouting ‘Free Palestine’
+### 7. Europe swelters in latest wave of extreme heat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Artists in Gaza painted a mural honouring former Burger King employee Arianna Hamilton.
+UK records its hottest day of the year as the temperature in west London reaches 38.1 degrees Celsius.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/europe-swelters-in-latest-wave-of-extreme-heat?traffic_source=rss)
 
 ---
 
-### 8. Trump administration ‘gutted’ federal civil rights enforcement, HRW says
+### 8. Carrick urges Manchester United to sign more transfers to boost title bid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally.
+United&#039;s preseason outlay pales in comparison with some of their fellow title contenders.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/carrick-urges-manchester-united-to-sign-more-transfers-to-boost-title-bid?traffic_source=rss)
 
 ---
 
-### 9. DR Congo Ebola outbreak spreads to a sixth province
+### 9. Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.
+Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss)
 
 ---
 
