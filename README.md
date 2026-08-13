@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 10:22:26
+**Last Update:** 2026-08-13 11:57:07
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Ballet – Workflow automation that writes integrations against any API
+### 1. ChatGPT Desktop (Codex Desktop) for Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ballet.dev/">https://www.ballet.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280184">https://news.ycombinator.com/item?id=49280184</a></p>
-<p>Points: 28</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
+<p>Points: 44</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.ballet.dev/](https://www.ballet.dev/)
+🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 67</p>
+<p>Points: 81</p>
 <p># Comments: 20</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
 
 ---
 
-### 3. Build Wide, Ship Narrow
+### 3. Flutter 3.47
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://adapt.com/blog/build-wide-ship-narrow">https://adapt.com/blog/build-wide-ship-narrow</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280047">https://news.ycombinator.com/item?id=49280047</a></p>
-<p>Points: 78</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
+<p>Points: 86</p>
+<p># Comments: 76</p>
 
-🔗 **Read more:** [https://adapt.com/blog/build-wide-ship-narrow](https://adapt.com/blog/build-wide-ship-narrow)
+🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 
 ---
 
@@ -71,68 +71,68 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 5. Temperatures to soar to 38C as amber extreme heat warning comes into force
+### 5. Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heat will spike again on Thursday with a rare warning in place and more records set to tumble.
+More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC
+### 6. UK economy grows between April and June but experts warn of challenges in coming months
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only "destroy Ukraine, not conquer it", with the war now in its fifth year.
+The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The US is now using the ‘terrorist’ label to interfere in Brazil’s election
+### 7. Swiatek sinks Svitolina to set up Rybakina title clash in Toronto
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The designation of PCC and CV serves to expand Washington’s reach into the country’s politics and security.
+Iga Swiatek will face Elena Rybakina for the Toronto tennis title, as Elina Svitolina and Coco Gauff exit in semifinals.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/13/the-us-is-now-using-the-terrorist-label-to-interfere-in-brazils-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/swiatek-sinks-svitolina-to-set-up-rybakina-title-clash-in-toronto?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/swiatek-sinks-svitolina-to-set-up-rybakina-title-clash-in-toronto?traffic_source=rss)
 
 ---
 
-### 8. Will the Houthis shut down Saudi Arabian shipping?
+### 8. US defence secretary says drug cartels will be ‘targeted like ISIS’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The announcement of a new naval blockade threatens to restart full-scale war between Yemen&#039;s Houthis and Saudi Arabia
+US defence secretary says drug cartels will be ‘targeted like ISIS’
 
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/8/13/will-the-houthis-shut-down-saudi-arabian-shipping?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/us-defence-secretary-says-drug-cartels-will-be-targeted-like?traffic_source=rss)
 
 ---
 
-### 9. Polls open in Zambia presidential election as economic reforms tested
+### 9. Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The vote will test if incumbent Hakainde Hichilema&#039;s reforms are enough to overcome widespread economic frustration.
+Malawi will face Cameroon in the Women&#039;s Africa Cup of Nations final after respective wins over Algeria and Morocco.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/polls-open-in-zambia-presidential-election-as-economic-reforms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/malawi-shock-algeria-and-cameroon-beat-morocco-to-reach-wafcon-final?traffic_source=rss)
 
 ---
 
