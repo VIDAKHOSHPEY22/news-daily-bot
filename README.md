@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 20:33:51
+**Last Update:** 2026-08-13 20:55:07
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.seangoedecke.com/text-ai-watermarks/">https://www.seangoedecke.com/text-ai-watermarks/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49287153">https://news.ycombinator.com/item?id=49287153</a></p>
-<p>Points: 41</p>
-<p># Comments: 28</p>
+<p>Points: 45</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://www.seangoedecke.com/text-ai-watermarks/](https://www.seangoedecke.com/text-ai-watermarks/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286662">https://news.ycombinator.com/item?id=49286662</a></p>
-<p>Points: 92</p>
-<p># Comments: 95</p>
+<p>Points: 99</p>
+<p># Comments: 105</p>
 
 🔗 **Read more:** [https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://oxide.computer/blog/kubernetes-on-oxide">https://oxide.computer/blog/kubernetes-on-oxide</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286485">https://news.ycombinator.com/item?id=49286485</a></p>
-<p>Points: 67</p>
-<p># Comments: 18</p>
+<p>Points: 76</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://oxide.computer/blog/kubernetes-on-oxide](https://oxide.computer/blog/kubernetes-on-oxide)
 
 ---
 
-### 4. UK sees hottest day of the year as 38.1C recorded in Kew Gardens
+### 4. Aerial footage shows derailed train
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A train has derailed near Lewes in East Sussex, British Transport Police say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. UK sees hottest day of the year as 38.1C recorded in Kew Gardens
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ An amber extreme heat warning is in place for parts of England until midnight.
 
 ---
 
-### 5. Five key takeaways from results day 2026
+### 6. Five key takeaways from results day 2026
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ An amber extreme heat warning is in place for parts of England until midnight.
 Top grades and students going to university are on the up, but technical subjects are also becoming more popular.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Son pays tribute to dad, 102, who died after allegedly being assaulted in pub
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss)
 
 ---
 

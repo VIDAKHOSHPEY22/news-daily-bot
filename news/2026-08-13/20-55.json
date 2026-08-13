@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T20:55:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Text AI watermarks will always be trivial to remove",
+            "description": "<p>Article URL: <a href=\"https://www.seangoedecke.com/text-ai-watermarks/\">https://www.seangoedecke.com/text-ai-watermarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49287153\">https://news.ycombinator.com/item?id=49287153</a></p>\n<p>Points: 45</p>\n<p># Comments: 36</p>",
+            "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+            "published": "Thu, 13 Aug 2026 15:07:10 +0000",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I requested a copy of my data from McDonald’s loyalty program",
+            "description": "<p>Article URL: <a href=\"https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/\">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286662\">https://news.ycombinator.com/item?id=49286662</a></p>\n<p>Points: 99</p>\n<p># Comments: 105</p>",
+            "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+            "published": "Thu, 13 Aug 2026 14:37:51 +0000",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+            "description": "<p>Article URL: <a href=\"https://oxide.computer/blog/kubernetes-on-oxide\">https://oxide.computer/blog/kubernetes-on-oxide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286485\">https://news.ycombinator.com/item?id=49286485</a></p>\n<p>Points: 76</p>\n<p># Comments: 19</p>",
+            "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+            "published": "Thu, 13 Aug 2026 14:26:41 +0000",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Aerial footage shows derailed train",
+            "description": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
+            "url": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 17:09:23 GMT",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+            "description": "An amber extreme heat warning is in place for parts of England until midnight.",
+            "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 17:22:42 GMT",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from results day 2026",
+            "description": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 16:49:28 GMT",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China and Indonesia’s joint naval drills anger Taiwan",
+            "description": "Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 16:44:27 +0000",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Reports of US sailors in Middle East trying to jump ship spark outcry",
+            "description": "US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 16:44:15 +0000",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Russia’s economy cracking despite the Iran war windfall?",
+            "description": "A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.",
+            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 16:40:42 +0000",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 01C",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-13T20:55:07+03:30"
+        }
+    ]
+}
