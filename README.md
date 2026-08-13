@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 02:22:45
+**Last Update:** 2026-08-14 02:38:21
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. NP-Overrated
+### 1. US sells 30-year bonds at highest borrowing costs since 2001
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://archive.ph/cbzl0" rel="nofollow">https://archive.ph/cbzl0</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292567">https://news.ycombinator.com/item?id=49292567</a></p>
+<p>Points: 29</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
+
+---
+
+### 2. NP-Overrated
 
 **Source:** Hacker News
 
@@ -19,14 +36,14 @@
 **Description:**
 <p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 86</p>
-<p># Comments: 40</p>
+<p>Points: 93</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
 
 ---
 
-### 2. How Gödel's Proof Works (2020)
+### 3. How Gödel's Proof Works (2020)
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.quantamagazine.org/how-godels-proof-works-20200714/">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290969">https://news.ycombinator.com/item?id=49290969</a></p>
-<p>Points: 49</p>
-<p># Comments: 29</p>
+<p>Points: 53</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/how-godels-proof-works-20200714/](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
-
----
-
-### 3. How Organizations Use AI: Evidence from ChatGPT [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290768">https://news.ycombinator.com/item?id=49290768</a></p>
-<p>Points: 44</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 
 ---
 
