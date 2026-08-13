@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T08:28:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+            "description": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+            "url": "https://www.ballet.dev/",
+            "published": "Thu, 13 Aug 2026 00:01:43 +0000",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+            "description": "<p>Article URL: <a href=\"https://sharktastica.co.uk/articles/pc-fxt-45\">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280103\">https://news.ycombinator.com/item?id=49280103</a></p>\n<p>Points: 48</p>\n<p># Comments: 16</p>",
+            "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+            "published": "Wed, 12 Aug 2026 23:50:33 +0000",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Build Wide, Ship Narrow",
+            "description": "<p>Article URL: <a href=\"https://adapt.com/blog/build-wide-ship-narrow\">https://adapt.com/blog/build-wide-ship-narrow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280047\">https://news.ycombinator.com/item?id=49280047</a></p>\n<p>Points: 62</p>\n<p># Comments: 9</p>",
+            "url": "https://adapt.com/blog/build-wide-ship-narrow",
+            "published": "Wed, 12 Aug 2026 23:43:48 +0000",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Results day dawns for A-level, T-level and BTec students",
+            "description": "Another record number of students are expected to secure a place at their first choice of university.",
+            "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 19:26:55 GMT",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+            "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 21:53:45 GMT",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
+            "description": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 02:31:39 GMT",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oman says oil spill from stricken tanker has reached its coast",
+            "description": "Up to 40km of coastline affected by oil pollution, Omani environmental authority says.",
+            "url": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 04:26:11 +0000",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
+            "description": "Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 03:54:09 +0000",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Solar eclipse carves Eiffel Tower’s silhouette in Paris sky",
+            "description": "A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 02:42:24 +0000",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T08:28:44+03:30"
+        }
+    ]
+}
