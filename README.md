@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 13:46:48
+**Last Update:** 2026-08-13 14:02:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. If I own Claude's outputs why can't I train my own model on them?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model">https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49283563">https://news.ycombinator.com/item?id=49283563</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model](https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model)
-
----
-
-### 2. ChatGPT Desktop (Codex Desktop) for Linux
+### 1. ChatGPT Desktop (Codex Desktop) for Linux
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 142</p>
-<p># Comments: 73</p>
+<p>Points: 149</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
 
 ---
 
-### 3. Happy 45th Birthday to the IBM PC and Model F/XT
+### 2. Happy 45th Birthday to the IBM PC and Model F/XT
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 92</p>
-<p># Comments: 25</p>
+<p>Points: 94</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
+
+---
+
+### 3. Flutter 3.47
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
+<p>Points: 115</p>
+<p># Comments: 111</p>
+
+🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 
 ---
 
