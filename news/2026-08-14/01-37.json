@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T01:37:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NP-Overrated",
+            "description": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-13/\">https://gruhn.me/blog/2026-08-13/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49291268\">https://news.ycombinator.com/item?id=49291268</a></p>\n<p>Points: 72</p>\n<p># Comments: 24</p>",
+            "url": "https://gruhn.me/blog/2026-08-13/",
+            "published": "Thu, 13 Aug 2026 20:14:17 +0000",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Gödel's Proof Works (2020)",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-godels-proof-works-20200714/\">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290969\">https://news.ycombinator.com/item?id=49290969</a></p>\n<p>Points: 40</p>\n<p># Comments: 24</p>",
+            "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+            "published": "Thu, 13 Aug 2026 19:44:46 +0000",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+            "description": "<p>Article URL: <a href=\"https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf\">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290768\">https://news.ycombinator.com/item?id=49290768</a></p>\n<p>Points: 32</p>\n<p># Comments: 16</p>",
+            "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+            "published": "Thu, 13 Aug 2026 19:25:38 +0000",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two seriously hurt as passenger train derails in East Sussex",
+            "description": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
+            "url": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 21:36:39 GMT",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
+            "description": "Multiple fires burned across the West Midlands and destroyed homes.",
+            "url": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 20:26:25 GMT",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+            "description": "An amber extreme heat warning is in place for parts of England until midnight.",
+            "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 18:54:25 GMT",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
+            "description": "Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre ahead of their bail hearing.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 21:17:45 +0000",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strikes in Gaza kill two, including police chief",
+            "description": "Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 21:10:47 +0000",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexico says Colombia rejected its earthquake rescue team",
+            "description": "Colombia denies politics played a role after Mexico said its military rescuers were refused entry.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 21:04:45 +0000",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T01:37:20+03:30"
+        }
+    ]
+}
