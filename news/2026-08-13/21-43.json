@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T21:43:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Where did the old web go? We followed 657,607 links to find out",
+            "description": "<p>Article URL: <a href=\"https://0.mk/blog/link-rot\">https://0.mk/blog/link-rot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289532\">https://news.ycombinator.com/item?id=49289532</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://0.mk/blog/link-rot",
+            "published": "Thu, 13 Aug 2026 17:49:18 +0000",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Choose Boring Technology (2015)",
+            "description": "<p>Article URL: <a href=\"https://mcfunley.com/choose-boring-technology\">https://mcfunley.com/choose-boring-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289512\">https://news.ycombinator.com/item?id=49289512</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+            "url": "https://mcfunley.com/choose-boring-technology",
+            "published": "Thu, 13 Aug 2026 17:48:13 +0000",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+            "description": "<p>Article URL: <a href=\"https://donkeybas.com/\">https://donkeybas.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49289465\">https://news.ycombinator.com/item?id=49289465</a></p>\n<p>Points: 17</p>\n<p># Comments: 8</p>",
+            "url": "https://donkeybas.com/",
+            "published": "Thu, 13 Aug 2026 17:45:50 +0000",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Aerial footage shows derailed train",
+            "description": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
+            "url": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 17:09:23 GMT",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+            "description": "An amber extreme heat warning is in place for parts of England until midnight.",
+            "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 17:22:42 GMT",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from results day 2026",
+            "description": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 16:49:28 GMT",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
+            "description": "Artists in Gaza painted a mural honouring former Burger King employee Arianna Hamilton.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 17:57:21 +0000",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
+            "description": "A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 17:46:18 +0000",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DR Congo Ebola outbreak spreads to a sixth province",
+            "description": "Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 17:18:01 +0000",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 01C",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-13T21:43:28+03:30"
+        }
+    ]
+}

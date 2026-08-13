@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 20:55:07
+**Last Update:** 2026-08-13 21:43:28
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Text AI watermarks will always be trivial to remove
+### 1. Where did the old web go? We followed 657,607 links to find out
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.seangoedecke.com/text-ai-watermarks/">https://www.seangoedecke.com/text-ai-watermarks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49287153">https://news.ycombinator.com/item?id=49287153</a></p>
-<p>Points: 45</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://0.mk/blog/link-rot">https://0.mk/blog/link-rot</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289532">https://news.ycombinator.com/item?id=49289532</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.seangoedecke.com/text-ai-watermarks/](https://www.seangoedecke.com/text-ai-watermarks/)
+🔗 **Read more:** [https://0.mk/blog/link-rot](https://0.mk/blog/link-rot)
 
 ---
 
-### 2. I requested a copy of my data from McDonald’s loyalty program
+### 2. Choose Boring Technology (2015)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286662">https://news.ycombinator.com/item?id=49286662</a></p>
-<p>Points: 99</p>
-<p># Comments: 105</p>
+<p>Article URL: <a href="https://mcfunley.com/choose-boring-technology">https://mcfunley.com/choose-boring-technology</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289512">https://news.ycombinator.com/item?id=49289512</a></p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
+🔗 **Read more:** [https://mcfunley.com/choose-boring-technology](https://mcfunley.com/choose-boring-technology)
 
 ---
 
-### 3. Kubernetes on Oxide: How customer needs shaped our integrations
+### 3. Donkey.bas is 45 Years Old – 131 line of Glory
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://oxide.computer/blog/kubernetes-on-oxide">https://oxide.computer/blog/kubernetes-on-oxide</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286485">https://news.ycombinator.com/item?id=49286485</a></p>
-<p>Points: 76</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://donkeybas.com/">https://donkeybas.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49289465">https://news.ycombinator.com/item?id=49289465</a></p>
+<p>Points: 17</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://oxide.computer/blog/kubernetes-on-oxide](https://oxide.computer/blog/kubernetes-on-oxide)
+🔗 **Read more:** [https://donkeybas.com/](https://donkeybas.com/)
 
 ---
 
@@ -97,42 +97,42 @@ Top grades and students going to university are on the up, but technical subject
 
 ---
 
-### 7. China and Indonesia’s joint naval drills anger Taiwan
+### 7. Gaza mural for Burger King worker fired for shouting ‘Free Palestine’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chinese state media have released footage of a joint naval drill with Indonesia in waters east of Taiwan.
+Artists in Gaza painted a mural honouring former Burger King employee Arianna Hamilton.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss)
 
 ---
 
-### 8. Reports of US sailors in Middle East trying to jump ship spark outcry
+### 8. Trump administration ‘gutted’ federal civil rights enforcement, HRW says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US senators call for inquiry as USS Lincoln has record-long period without port stop amid war on Iran.
+A new report finds key federal agencies have stopped providing oversight of civil rights laws nationally.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss)
 
 ---
 
-### 9. Is Russia’s economy cracking despite the Iran war windfall?
+### 9. DR Congo Ebola outbreak spreads to a sixth province
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A widening deficit and Ukrainian strikes are testing Russia&#039;s economy, even as war in the Middle East lifts oil revenue.
+Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss)
 
 ---
 
