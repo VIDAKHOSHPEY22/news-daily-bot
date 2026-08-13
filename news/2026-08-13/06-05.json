@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T06:05:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+            "description": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+            "url": "https://www.ballet.dev/",
+            "published": "Thu, 13 Aug 2026 00:01:43 +0000",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+            "description": "<p>Article URL: <a href=\"https://sharktastica.co.uk/articles/pc-fxt-45\">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280103\">https://news.ycombinator.com/item?id=49280103</a></p>\n<p>Points: 33</p>\n<p># Comments: 9</p>",
+            "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+            "published": "Wed, 12 Aug 2026 23:50:33 +0000",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What's New in Flutter 3.47",
+            "description": "<p>Article URL: <a href=\"https://flutter.dev/blog/whats-new-in-flutter-3-47\">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280061\">https://news.ycombinator.com/item?id=49280061</a></p>\n<p>Points: 47</p>\n<p># Comments: 33</p>",
+            "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+            "published": "Wed, 12 Aug 2026 23:46:00 +0000",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+            "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 21:53:45 GMT",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+            "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 17:47:01 GMT",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Students wait for A-level, T-level and BTec results",
+            "description": "Another record number of students are expected to secure a place at their first choice of university.",
+            "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 19:26:55 GMT",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Olympic skateboarder times epic stunt with solar eclipse",
+            "description": "Spanish Olympic skateboarder Danny León timed a jump with the moon passing in front of the sun during a solar eclipse.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_skateboarder-times-epic-stunt-with-solar-eclipse-120826?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 01:56:11 +0000",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zimbabwe’s land reform enters a new chapter",
+            "description": "A new land policy is reopening disputes over farms seized during Zimbabwe’s land reform after 2000.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/zimbabwes-land-reform-enters-a-new-chapter?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 01:48:39 +0000",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
+            "description": "Erling Haaland’s name and image turned up on hundreds of cocaine bricks seized by Ecuadorian police.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_erling-haaland-branded-cocaine-seized-in-ecuador-120826?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 00:05:28 +0000",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T06:05:03+03:30"
+        }
+    ]
+}
