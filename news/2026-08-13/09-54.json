@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T09:54:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+            "description": "<p>Article URL: <a href=\"https://www.ballet.dev/\">https://www.ballet.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280184\">https://news.ycombinator.com/item?id=49280184</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
+            "url": "https://www.ballet.dev/",
+            "published": "Thu, 13 Aug 2026 00:01:43 +0000",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+            "description": "<p>Article URL: <a href=\"https://sharktastica.co.uk/articles/pc-fxt-45\">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280103\">https://news.ycombinator.com/item?id=49280103</a></p>\n<p>Points: 62</p>\n<p># Comments: 20</p>",
+            "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+            "published": "Wed, 12 Aug 2026 23:50:33 +0000",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Build Wide, Ship Narrow",
+            "description": "<p>Article URL: <a href=\"https://adapt.com/blog/build-wide-ship-narrow\">https://adapt.com/blog/build-wide-ship-narrow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280047\">https://news.ycombinator.com/item?id=49280047</a></p>\n<p>Points: 73</p>\n<p># Comments: 16</p>",
+            "url": "https://adapt.com/blog/build-wide-ship-narrow",
+            "published": "Wed, 12 Aug 2026 23:43:48 +0000",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+            "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 21:53:45 GMT",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
+            "description": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 02:31:39 GMT",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+            "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+            "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 04:55:58 GMT",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How clinic closures left 3.7 million Afghan children acutely malnourished",
+            "description": "One in 10 children in Afghanistan are suffering as healthcare funding plummets, Save the Children says.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/how-clinic-closures-left-3-7-million-afghan-children-acutely-malnourished?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 06:00:55 +0000",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
+            "description": "Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 05:26:05 +0000",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why tariffs are not the right tool to bolster US production",
+            "description": "Donald Trump’s second term has been defined by tariffs, but experts question whether they actually work.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 05:00:07 +0000",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T09:54:52+03:30"
+        }
+    ]
+}
