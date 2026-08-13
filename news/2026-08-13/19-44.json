@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-13T19:44:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Water bills set to rise for many after firms permitted extra funding",
+            "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 13:38:30 GMT",
+            "fetched": "2026-08-13T19:44:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
+            "description": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 14:58:14 GMT",
+            "fetched": "2026-08-13T19:44:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The key signs you may have damaged your eyes by looking at the eclipse",
+            "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+            "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 11:57:28 GMT",
+            "fetched": "2026-08-13T19:44:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zambian president Hichilema votes as he seeks second term",
+            "description": "Zambian president Hakainde Hichilema has cast his vote in the capital Lusaka, as he bids for a second term.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 15:51:52 +0000",
+            "fetched": "2026-08-13T19:44:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+            "description": "Analysts say Saudi Arabia is strengthening its position with regional allies as the Houthis increase their attacks.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 15:27:52 +0000",
+            "fetched": "2026-08-13T19:44:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye’s AK Party turns 25: A journey of change and renewal",
+            "description": "In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 15:07:42 +0000",
+            "fetched": "2026-08-13T19:44:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-13T19:44:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-13T19:44:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 01C",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-13T19:44:44+03:30"
+        }
+    ]
+}
