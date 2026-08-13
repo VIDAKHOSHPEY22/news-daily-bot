@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 18:35:08
+**Last Update:** 2026-08-13 18:56:54
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kubernetes on Oxide: How Customer Needs Shaped Our Integrations
+### 1. McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/">https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286662">https://news.ycombinator.com/item?id=49286662</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)
+
+---
+
+### 2. Kubernetes on Oxide: How Customer Needs Shaped Our Integrations
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://oxide.computer/blog/kubernetes-on-oxide">https://oxide.computer/blog/kubernetes-on-oxide</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286485">https://news.ycombinator.com/item?id=49286485</a></p>
-<p>Points: 8</p>
+<p>Points: 16</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://oxide.computer/blog/kubernetes-on-oxide](https://oxide.computer/blog/kubernetes-on-oxide)
 
 ---
 
-### 2. Graduate Student Proves a Quantum Uncertainty Principle for Fractals
+### 3. Graduate Student Proves a Quantum Uncertainty Principle for Fractals
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/">https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286424">https://news.ycombinator.com/item?id=49286424</a></p>
-<p>Points: 4</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
-
----
-
-### 3. We eliminated 1,400 CVEs in NanoClaw's container images
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood">https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286357">https://news.ycombinator.com/item?id=49286357</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood)
 
 ---
 
@@ -97,7 +97,20 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 
 ---
 
-### 7. Pro-Palestine football fans lament West Ham for signing Manor Solomon
+### 7. Iran says Strait of Hormuz under its control, rejects Trump claims
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss)
+
+---
+
+### 8. Pro-Palestine football fans lament West Ham for signing Manor Solomon
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The 27-year-old Israeli player has used his platform to defend Israel amid the g
 
 ---
 
-### 8. Oman says massive oil spill reaches coastline: What damage could it do?
+### 9. Oman says massive oil spill reaches coastline: What damage could it do?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The 27-year-old Israeli player has used his platform to defend Israel amid the g
 Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss)
-
----
-
-### 9. Ukraine attacks key Russian grain terminal on Black Sea port
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss)
 
 ---
 
