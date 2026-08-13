@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 15:34:43
+**Last Update:** 2026-08-13 17:05:18
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. ChatGPT Desktop (Codex Desktop) for Linux
+### 1. Choosing an AI model: one prompt, 11 models, different results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 209</p>
-<p># Comments: 125</p>
+<p>Article URL: <a href="https://www.netlify.com/blog/one-prompt-11-models-very-different-results/">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285327">https://news.ycombinator.com/item?id=49285327</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
+🔗 **Read more:** [https://www.netlify.com/blog/one-prompt-11-models-very-different-results/](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
 
 ---
 
-### 2. Happy 45th Birthday to the IBM PC and Model F/XT
+### 2. My Rules for Using Spreadsheets
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 101</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/">https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285268">https://news.ycombinator.com/item?id=49285268</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
+🔗 **Read more:** [https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
 
 ---
 
-### 3. Flutter 3.47
+### 3. Deutsche Bank becomes first foreign yuan clearing bank in Europe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
-<p>Points: 127</p>
-<p># Comments: 140</p>
+<p>Article URL: <a href="https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/">https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49284774">https://news.ycombinator.com/item?id=49284774</a></p>
+<p>Points: 142</p>
+<p># Comments: 103</p>
 
-🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
-
----
-
-### 4. Met chief accepts mistakes made over Simon Levy but defends investigation into murders
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
 
 ---
 
-### 5. Water bills set to rise for many after firms permitted extra funding
+### 4. Water bills set to rise for many after firms permitted extra funding
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Ofwat has given provisional approval for 13 water companies to charge customers 
 
 ---
 
-### 6. Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post
+### 5. Man, 102, dies after alleged pub assault
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27.
+Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Five charts that explain the high cost of living in the UK
+### 6. The key signs you may have damaged your eyes by looking at the eclipse
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Symptoms after looking at the sun without eclipse glasses can include blurred vision
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Spanish Super Cup will be held in Turkiye in 2027
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.
+The tournament from February 2 to 7 will feature Barcelona, Real Madrid, Atletico Madrid and Real Sociedad.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss)
 
 ---
 
-### 8. US-Iran talks in deadlock – what’s the latest?
+### 8. Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.
+Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss)
 
 ---
 
-### 9. Colombia earthquake response tests new far-right government
+### 9. Falling Danube flow forces shutdown of Romania’s sole nuclear plant
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.
+Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss)
 
 ---
 
