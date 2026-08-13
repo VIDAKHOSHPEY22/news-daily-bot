@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T15:24:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+            "description": "<p>Article URL: <a href=\"https://openai.com/codex/\">https://openai.com/codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281916\">https://news.ycombinator.com/item?id=49281916</a></p>\n<p>Points: 209</p>\n<p># Comments: 125</p>",
+            "url": "https://openai.com/codex/",
+            "published": "Thu, 13 Aug 2026 04:53:41 +0000",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+            "description": "<p>Article URL: <a href=\"https://sharktastica.co.uk/articles/pc-fxt-45\">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280103\">https://news.ycombinator.com/item?id=49280103</a></p>\n<p>Points: 101</p>\n<p># Comments: 35</p>",
+            "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+            "published": "Wed, 12 Aug 2026 23:50:33 +0000",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flutter 3.47",
+            "description": "<p>Article URL: <a href=\"https://flutter.dev/blog/whats-new-in-flutter-3-47\">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280061\">https://news.ycombinator.com/item?id=49280061</a></p>\n<p>Points: 127</p>\n<p># Comments: 140</p>",
+            "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+            "published": "Wed, 12 Aug 2026 23:46:00 +0000",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
+            "description": "Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.",
+            "url": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 11:16:27 GMT",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK defends seizing shadow fleet tanker after Putin threat",
+            "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 11:05:03 GMT",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+            "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 21:53:45 GMT",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombia earthquake response tests new far-right government",
+            "description": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 11:39:46 +0000",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 135 million people in Europe set for temperatures over 35C",
+            "description": "Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 11:38:39 +0000",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+            "description": "Israel carts away Gaza&#039;s rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.",
+            "url": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 11:29:32 +0000",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T15:24:24+03:30"
+        }
+    ]
+}

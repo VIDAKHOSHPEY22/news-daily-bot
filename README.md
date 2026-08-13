@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 14:02:43
+**Last Update:** 2026-08-13 15:24:24
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 149</p>
-<p># Comments: 78</p>
+<p>Points: 209</p>
+<p># Comments: 125</p>
 
 🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 94</p>
-<p># Comments: 26</p>
+<p>Points: 101</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
-<p>Points: 115</p>
-<p># Comments: 111</p>
+<p>Points: 127</p>
+<p># Comments: 140</p>
 
 🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
 
@@ -71,7 +71,20 @@ Critics - including Labour MP Jess Phillips - have accused the Met of overlookin
 
 ---
 
-### 5. Once-in-a-generation solar eclipse wows millions in UK and Europe
+### 5. UK defends seizing shadow fleet tanker after Putin threat
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The UK government says it is "disrupting and deterring shadow fleet vessels" in accordance with the law.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Once-in-a-generation solar eclipse wows millions in UK and Europe
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 6. Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Life and loss as a first responder in southern Lebanon
+### 7. Colombia earthquake response tests new far-right government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon&#039;s largest city.
+Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss)
 
 ---
 
-### 8. What postcolonialism looks like in Southeast Asia
+### 8. More than 135 million people in Europe set for temperatures over 35C
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AJ&#039;s Jamal Elshayyal moderates a panel of academics and leaders from four countries
+Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss](https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss)
 
 ---
 
-### 9. Japan protests as Russia’s Putin visits disputed Kuril Islands
+### 9. Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Japanese PM says Putin&#039;s visit to the Pacific island chain, seized by the Soviet Union in 1945, is &#039;unacceptable&#039;.
+Israel carts away Gaza&#039;s rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss](https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss)
 
 ---
 
