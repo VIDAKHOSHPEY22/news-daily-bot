@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 12:18:01
+**Last Update:** 2026-08-13 13:46:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. ChatGPT Desktop (Codex Desktop) for Linux
+### 1. If I own Claude's outputs why can't I train my own model on them?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model">https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49283563">https://news.ycombinator.com/item?id=49283563</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model](https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model)
+
+---
+
+### 2. ChatGPT Desktop (Codex Desktop) for Linux
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/codex/">https://openai.com/codex/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49281916">https://news.ycombinator.com/item?id=49281916</a></p>
-<p>Points: 56</p>
-<p># Comments: 23</p>
+<p>Points: 142</p>
+<p># Comments: 73</p>
 
 🔗 **Read more:** [https://openai.com/codex/](https://openai.com/codex/)
 
 ---
 
-### 2. Happy 45th Birthday to the IBM PC and Model F/XT
+### 3. Happy 45th Birthday to the IBM PC and Model F/XT
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 82</p>
-<p># Comments: 21</p>
+<p>Points: 92</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
 
 ---
 
-### 3. Flutter 3.47
+### 4. Met chief accepts mistakes made over Simon Levy but defends investigation into murders
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://flutter.dev/blog/whats-new-in-flutter-3-47">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280061">https://news.ycombinator.com/item?id=49280061</a></p>
-<p>Points: 93</p>
-<p># Comments: 86</p>
+Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.
 
-🔗 **Read more:** [https://flutter.dev/blog/whats-new-in-flutter-3-47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Once-in-a-generation solar eclipse wows millions in UK and Europe
+### 5. Once-in-a-generation solar eclipse wows millions in UK and Europe
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 5. Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe
+### 6. Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse
 
 ---
 
-### 6. UK economy grows between April and June but experts warn of challenges in coming months
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Part of children’s hospital collapses in Colombia earthquake
+### 7. Life and loss as a first responder in southern Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Security cameras captured the moment part of a children&#039;s hospital in Cali collapsed.
+A new Al Jazeera film speaks to the head of the Civil Defence in Tyre, southern Lebanon&#039;s largest city.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-clip-colombia-hospital-co?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/life-and-loss-as-a-first-responder-in-southern-lebanon?traffic_source=rss)
 
 ---
 
-### 8. As temperatures soar, ‘exceptionally serious’ drought imperils UK farmers
+### 8. What postcolonialism looks like in Southeast Asia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Farmers trying to adapt to extreme weather say even with the best planning, their industry is facing its toughest test.
+AJ&#039;s Jamal Elshayyal moderates a panel of academics and leaders from four countries
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/uk-drought-imperils-farmers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss](https://www.aljazeera.com/video/centre-stage/2026/8/13/what-postcolonialism-looks-like-in-southeast-asia?traffic_source=rss)
 
 ---
 
-### 9. Three US states to hold executions on same day for first time since 2010
+### 9. Japan protests as Russia’s Putin visits disputed Kuril Islands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The last three executions on the same day happened 16 years ago, in Louisiana, Ohio and Texas.
+Japanese PM says Putin&#039;s visit to the Pacific island chain, seized by the Soviet Union in 1945, is &#039;unacceptable&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/three-us-states-to-hold-executions-on-same-day-for-first-time-since-2010?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/three-us-states-to-hold-executions-on-same-day-for-first-time-since-2010?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/japan-protests-as-russias-putin-visits-disputed-kuril-islands?traffic_source=rss)
 
 ---
 
