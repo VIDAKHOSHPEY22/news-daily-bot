@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T00:39:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NP-Overrated",
+            "description": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-13/\">https://gruhn.me/blog/2026-08-13/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49291268\">https://news.ycombinator.com/item?id=49291268</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+            "url": "https://gruhn.me/blog/2026-08-13/",
+            "published": "Thu, 13 Aug 2026 20:14:17 +0000",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Gödel's Proof Works",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-godels-proof-works-20200714/\">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290969\">https://news.ycombinator.com/item?id=49290969</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
+            "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+            "published": "Thu, 13 Aug 2026 19:44:46 +0000",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
+            "description": "<p>Article URL: <a href=\"https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788\">https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49290785\">https://news.ycombinator.com/item?id=49290785</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
+            "published": "Thu, 13 Aug 2026 19:26:58 +0000",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Houses engulfed in flames across Stourbridge",
+            "description": "Multiple fires burned across the West Midlands and destroyed homes there.",
+            "url": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 20:26:25 GMT",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+            "description": "An amber extreme heat warning is in place for parts of England until midnight.",
+            "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 18:54:25 GMT",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from results day 2026",
+            "description": "Top grades and students going to university are on the up, but technical subjects are also becoming more popular.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 16:49:28 GMT",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Are We in the Singularity?",
+            "description": "Sam Altman just said AI has entered &quot;the singularity.&quot;",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 20:07:29 +0000",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan army says RSF advance on key town bordering Ethiopia",
+            "description": "Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 19:53:21 +0000",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Passenger train derails, injuring several in southern England",
+            "description": "A passenger train derailed near Lewes in East Sussex, England,  injuring at least 11 people, and two of them seriously.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 19:48:35 +0000",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 01C",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T00:39:22+03:30"
+        }
+    ]
+}

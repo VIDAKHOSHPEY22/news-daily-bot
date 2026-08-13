@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 00:23:31
+**Last Update:** 2026-08-14 00:39:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.quantamagazine.org/how-godels-proof-works-20200714/">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290969">https://news.ycombinator.com/item?id=49290969</a></p>
-<p>Points: 17</p>
+<p>Points: 21</p>
 <p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/how-godels-proof-works-20200714/](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 
 ---
 
-### 3. How Organizations Use AI: Evidence from ChatGPT [pdf]
+### 3. Airbnb Eval-driven development: Lessons from evaluating GenAI at scale
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290768">https://news.ycombinator.com/item?id=49290768</a></p>
-<p>Points: 19</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788">https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290785">https://news.ycombinator.com/item?id=49290785</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+🔗 **Read more:** [https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
 
 ---
 
