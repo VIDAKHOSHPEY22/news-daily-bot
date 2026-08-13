@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 17:24:03
+**Last Update:** 2026-08-13 18:35:08
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Choosing an AI model: one prompt, 11 models, different results
+### 1. Kubernetes on Oxide: How Customer Needs Shaped Our Integrations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.netlify.com/blog/one-prompt-11-models-very-different-results/">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285327">https://news.ycombinator.com/item?id=49285327</a></p>
-<p>Points: 27</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.netlify.com/blog/one-prompt-11-models-very-different-results/](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
-
----
-
-### 2. My Rules for Using Spreadsheets
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/">https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285268">https://news.ycombinator.com/item?id=49285268</a></p>
+<p>Article URL: <a href="https://oxide.computer/blog/kubernetes-on-oxide">https://oxide.computer/blog/kubernetes-on-oxide</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286485">https://news.ycombinator.com/item?id=49286485</a></p>
 <p>Points: 8</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/](https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/)
-
----
-
-### 3. DeepSeek Harness
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/deepseek-ai/deepseek-harness">https://github.com/deepseek-ai/deepseek-harness</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49285244">https://news.ycombinator.com/item?id=49285244</a></p>
-<p>Points: 18</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+🔗 **Read more:** [https://oxide.computer/blog/kubernetes-on-oxide](https://oxide.computer/blog/kubernetes-on-oxide)
+
+---
+
+### 2. Graduate Student Proves a Quantum Uncertainty Principle for Fractals
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/">https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286424">https://news.ycombinator.com/item?id=49286424</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/](https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/)
+
+---
+
+### 3. We eliminated 1,400 CVEs in NanoClaw's container images
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood">https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49286357">https://news.ycombinator.com/item?id=49286357</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood](https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood)
 
 ---
 
@@ -71,7 +71,7 @@ Ofwat has given provisional approval for 13 water companies to charge customers 
 
 ---
 
-### 5. Man, 102, dies after alleged pub assault
+### 5. Son pays tribute to dad, 102, who died after allegedly being assaulted in pub
 
 **Source:** BBC
 
@@ -97,42 +97,81 @@ Symptoms after looking at the sun without eclipse glasses can include blurred vi
 
 ---
 
-### 7. Spanish Super Cup will be held in Turkiye in 2027
+### 7. Pro-Palestine football fans lament West Ham for signing Manor Solomon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The tournament from February 2 to 7 will feature Barcelona, Real Madrid, Atletico Madrid and Real Sociedad.
+The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss)
 
 ---
 
-### 8. Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia
+### 8. Oman says massive oil spill reaches coastline: What damage could it do?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.
+Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss)
 
 ---
 
-### 9. Falling Danube flow forces shutdown of Romania’s sole nuclear plant
+### 9. Ukraine attacks key Russian grain terminal on Black Sea port
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity.
+Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Hernan
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+
+---
+
+### 11. Tropical Storm Nangka
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm 01C
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

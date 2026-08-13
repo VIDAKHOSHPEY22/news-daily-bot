@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T18:35:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+            "description": "<p>Article URL: <a href=\"https://oxide.computer/blog/kubernetes-on-oxide\">https://oxide.computer/blog/kubernetes-on-oxide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286485\">https://news.ycombinator.com/item?id=49286485</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+            "published": "Thu, 13 Aug 2026 14:26:41 +0000",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/\">https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286424\">https://news.ycombinator.com/item?id=49286424</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+            "published": "Thu, 13 Aug 2026 14:22:54 +0000",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+            "description": "<p>Article URL: <a href=\"https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood\">https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49286357\">https://news.ycombinator.com/item?id=49286357</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+            "published": "Thu, 13 Aug 2026 14:18:34 +0000",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Water bills set to rise for many after firms permitted extra funding",
+            "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 13:38:30 GMT",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Son pays tribute to dad, 102, who died after allegedly being assaulted in pub",
+            "description": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 14:58:14 GMT",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The key signs you may have damaged your eyes by looking at the eclipse",
+            "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+            "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 11:57:28 GMT",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
+            "description": "The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 14:41:58 +0000",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
+            "description": "Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 14:29:58 +0000",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
+            "description": "Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 14:29:20 +0000",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 01C",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-13T18:35:08+03:30"
+        }
+    ]
+}
