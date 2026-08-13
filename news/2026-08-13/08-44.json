@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-13T08:44:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Results day dawns for A-level, T-level and BTec students",
+            "description": "Another record number of students are expected to secure a place at their first choice of university.",
+            "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 19:26:55 GMT",
+            "fetched": "2026-08-13T08:44:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+            "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 21:53:45 GMT",
+            "fetched": "2026-08-13T08:44:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
+            "description": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
+            "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 02:31:39 GMT",
+            "fetched": "2026-08-13T08:44:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why tariffs are not the right tool to bolster US production",
+            "description": "Donald Trump’s second term has been defined by tariffs, but experts question whether they actually work.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 05:00:07 +0000",
+            "fetched": "2026-08-13T08:44:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Leavitt to leave as White House press secretary",
+            "description": "Karoline Leavitt has announced that she will be stepping down from her position as White House press secretary.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 04:58:49 +0000",
+            "fetched": "2026-08-13T08:44:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three Palestinian families besieged in their homes by Israeli settlers",
+            "description": "Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 04:34:46 +0000",
+            "fetched": "2026-08-13T08:44:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T08:44:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T08:44:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T08:44:00+03:30"
+        }
+    ]
+}

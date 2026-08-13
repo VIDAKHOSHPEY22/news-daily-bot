@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-13 08:28:44
+**Last Update:** 2026-08-13 08:44:00
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Ballet – Workflow automation that writes integrations against any API
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ballet.dev/">https://www.ballet.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280184">https://news.ycombinator.com/item?id=49280184</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.ballet.dev/](https://www.ballet.dev/)
-
----
-
-### 2. Happy 45th Birthday to the IBM PC and Model F/XT
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sharktastica.co.uk/articles/pc-fxt-45">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280103">https://news.ycombinator.com/item?id=49280103</a></p>
-<p>Points: 48</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://sharktastica.co.uk/articles/pc-fxt-45](https://sharktastica.co.uk/articles/pc-fxt-45)
-
----
-
-### 3. Build Wide, Ship Narrow
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://adapt.com/blog/build-wide-ship-narrow">https://adapt.com/blog/build-wide-ship-narrow</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49280047">https://news.ycombinator.com/item?id=49280047</a></p>
-<p>Points: 62</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://adapt.com/blog/build-wide-ship-narrow](https://adapt.com/blog/build-wide-ship-narrow)
-
----
-
-### 4. Results day dawns for A-level, T-level and BTec students
+### 1. Results day dawns for A-level, T-level and BTec students
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Another record number of students are expected to secure a place at their first 
 
 ---
 
-### 5. Once-in-a-generation solar eclipse wows millions in UK and Europe
+### 2. Once-in-a-generation solar eclipse wows millions in UK and Europe
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spa
 
 ---
 
-### 6. Temperatures to soar to 38C as amber extreme heat warning comes into force
+### 3. Temperatures to soar to 38C as amber extreme heat warning comes into force
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Heat will spike again on Thursday with a rare warning in place and more records 
 
 ---
 
-### 7. Oman says oil spill from stricken tanker has reached its coast
+### 4. Why tariffs are not the right tool to bolster US production
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Up to 40km of coastline affected by oil pollution, Omani environmental authority says.
+Donald Trump’s second term has been defined by tariffs, but experts question whether they actually work.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss)
 
 ---
 
-### 8. Israeli settlers besiege three Palestinian families in West Bank’s Qusra
+### 5. Leavitt to leave as White House press secretary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.
+Karoline Leavitt has announced that she will be stepping down from her position as White House press secretary.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss)
 
 ---
 
-### 9. Solar eclipse carves Eiffel Tower’s silhouette in Paris sky
+### 6. Three Palestinian families besieged in their homes by Israeli settlers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A partial solar eclipse illuminated Paris’s sky over the city’s iconic Eiffel Tower.
+Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/solar-eclipse-carves-eiffel-towers-silhouette-in-paris-sky?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Cristobal
+### 7. Tropical Storm Cristobal
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm 15W
+### 8. Tropical Storm 15W
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Harris, Rosebud, Montana
+### 9. Wildfire Harris, Rosebud, Montana
 
 **Source:** NASA
 
