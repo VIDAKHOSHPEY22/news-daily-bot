@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-13T15:34:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+            "description": "<p>Article URL: <a href=\"https://openai.com/codex/\">https://openai.com/codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49281916\">https://news.ycombinator.com/item?id=49281916</a></p>\n<p>Points: 209</p>\n<p># Comments: 125</p>",
+            "url": "https://openai.com/codex/",
+            "published": "Thu, 13 Aug 2026 04:53:41 +0000",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+            "description": "<p>Article URL: <a href=\"https://sharktastica.co.uk/articles/pc-fxt-45\">https://sharktastica.co.uk/articles/pc-fxt-45</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280103\">https://news.ycombinator.com/item?id=49280103</a></p>\n<p>Points: 101</p>\n<p># Comments: 35</p>",
+            "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+            "published": "Wed, 12 Aug 2026 23:50:33 +0000",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flutter 3.47",
+            "description": "<p>Article URL: <a href=\"https://flutter.dev/blog/whats-new-in-flutter-3-47\">https://flutter.dev/blog/whats-new-in-flutter-3-47</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49280061\">https://news.ycombinator.com/item?id=49280061</a></p>\n<p>Points: 127</p>\n<p># Comments: 140</p>",
+            "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+            "published": "Wed, 12 Aug 2026 23:46:00 +0000",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
+            "description": "Critics - including Labour MP Jess Phillips - have accused the Met of overlooking the first murder carried out by Levy.",
+            "url": "https://www.bbc.co.uk/news/articles/cp30pppgxyeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 11:16:27 GMT",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Water bills set to rise for many after firms permitted extra funding",
+            "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 11:49:27 GMT",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Key moments from Karoline Leavitt's White House tenure as Trump says she will leave post",
+            "description": "Leavitt became the youngest press secretary in the country's history when she took the job in January 2025 at age 27.",
+            "url": "https://www.bbc.co.uk/news/videos/c86nd59z7vqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 22:56:32 GMT",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Five charts that explain the high cost of living in the UK",
+            "description": "UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 11:57:23 +0000",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US-Iran talks in deadlock – what’s the latest?",
+            "description": "The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 11:56:40 +0000",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombia earthquake response tests new far-right government",
+            "description": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 11:39:46 +0000",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Cristobal",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22560",
+            "published": "2026-08-12T15:00:00Z",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm 15W",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22386",
+            "published": "2026-08-10T06:00:00Z",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Rosebud, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22430",
+            "published": "2026-08-09T16:55:00Z",
+            "fetched": "2026-08-13T15:34:43+03:30"
+        }
+    ]
+}
