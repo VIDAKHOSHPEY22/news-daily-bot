@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-13T17:24:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Choosing an AI model: one prompt, 11 models, different results",
+            "description": "<p>Article URL: <a href=\"https://www.netlify.com/blog/one-prompt-11-models-very-different-results/\">https://www.netlify.com/blog/one-prompt-11-models-very-different-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285327\">https://news.ycombinator.com/item?id=49285327</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+            "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+            "published": "Thu, 13 Aug 2026 13:05:29 +0000",
+            "fetched": "2026-08-13T17:24:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My Rules for Using Spreadsheets",
+            "description": "<p>Article URL: <a href=\"https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/\">https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285268\">https://news.ycombinator.com/item?id=49285268</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+            "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
+            "published": "Thu, 13 Aug 2026 13:00:24 +0000",
+            "fetched": "2026-08-13T17:24:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek Harness",
+            "description": "<p>Article URL: <a href=\"https://github.com/deepseek-ai/deepseek-harness\">https://github.com/deepseek-ai/deepseek-harness</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49285244\">https://news.ycombinator.com/item?id=49285244</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/deepseek-ai/deepseek-harness",
+            "published": "Thu, 13 Aug 2026 12:58:02 +0000",
+            "fetched": "2026-08-13T17:24:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Water bills set to rise for many after firms permitted extra funding",
+            "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 13:38:30 GMT",
+            "fetched": "2026-08-13T17:24:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man, 102, dies after alleged pub assault",
+            "description": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 12:27:41 GMT",
+            "fetched": "2026-08-13T17:24:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The key signs you may have damaged your eyes by looking at the eclipse",
+            "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+            "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 11:57:28 GMT",
+            "fetched": "2026-08-13T17:24:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spanish Super Cup will be held in Turkiye in 2027",
+            "description": "The tournament from February 2 to 7 will feature Barcelona, Real Madrid, Atletico Madrid and Real Sociedad.",
+            "url": "https://www.aljazeera.com/sports/2026/8/13/spanish-super-cup-will-be-held-in-turkiye-in-2027?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 13:06:56 +0000",
+            "fetched": "2026-08-13T17:24:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
+            "description": "Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 12:42:28 +0000",
+            "fetched": "2026-08-13T17:24:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
+            "description": "Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country&#039;s electricity.",
+            "url": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
+            "published": "Thu, 13 Aug 2026 12:30:08 +0000",
+            "fetched": "2026-08-13T17:24:03+03:30"
+        }
+    ]
+}
