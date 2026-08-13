@@ -1,33 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 02:38:21
+**Last Update:** 2026-08-14 03:21:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. US sells 30-year bonds at highest borrowing costs since 2001
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://archive.ph/cbzl0" rel="nofollow">https://archive.ph/cbzl0</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292567">https://news.ycombinator.com/item?id=49292567</a></p>
-<p>Points: 29</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9)
-
----
-
-### 2. NP-Overrated
+### 1. NP-Overrated
 
 **Source:** Hacker News
 
@@ -36,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 93</p>
-<p># Comments: 43</p>
+<p>Points: 103</p>
+<p># Comments: 51</p>
 
 🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
 
 ---
 
-### 3. How Gödel's Proof Works (2020)
+### 2. How Gödel's Proof Works (2020)
 
 **Source:** Hacker News
 
@@ -53,22 +36,38 @@
 <p>Article URL: <a href="https://www.quantamagazine.org/how-godels-proof-works-20200714/">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290969">https://news.ycombinator.com/item?id=49290969</a></p>
 <p>Points: 53</p>
-<p># Comments: 31</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/how-godels-proof-works-20200714/](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 
 ---
 
-### 4. Two seriously hurt as passenger train derails in East Sussex
+### 3. How Organizations Use AI: Evidence from ChatGPT [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290768">https://news.ycombinator.com/item?id=49290768</a></p>
+<p>Points: 51</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
+
+---
+
+### 4. Multiple fires destroy homes and cause devastation in West Midlands
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"It was pandemonium... I could feel the carriage rocking," says one passenger who was on the train with his six-year-old daughter.
+The region's fire chief says the service took thousands of 999 calls across "one of the most significant" incidents in its history.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -85,20 +84,33 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 6. UK sees hottest day of the year as 38.1C recorded in Kew Gardens
+### 6. Two seriously hurt as passenger train derails in East Sussex
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An amber extreme heat warning is in place for parts of England until midnight.
+"It was pandemonium... I could feel the carriage rocking," says one passenger who was on the train with his six-year-old daughter.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Tate supporters rally for brothers ahead of bail hearing in Miami
+### 7. Gaza City police chief killed as Israel pushes on with deadly strikes
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss)
+
+---
+
+### 8. Tate supporters rally for brothers ahead of bail hearing in Miami
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre 
 
 ---
 
-### 8. Israeli strikes in Gaza kill two, including police chief
+### 9. Israeli strikes in Gaza kill two, including police chief
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre 
 Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss)
-
----
-
-### 9. Mexico says Colombia rejected its earthquake rescue team
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Colombia denies politics played a role after Mexico said its military rescuers were refused entry.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss)
 
 ---
 
