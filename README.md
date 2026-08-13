@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 00:39:22
+**Last Update:** 2026-08-14 01:24:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 68</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
 
 ---
 
-### 2. How Gödel's Proof Works
+### 2. How Gödel's Proof Works (2020)
 
 **Source:** Hacker News
 
@@ -35,43 +35,56 @@
 **Description:**
 <p>Article URL: <a href="https://www.quantamagazine.org/how-godels-proof-works-20200714/">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290969">https://news.ycombinator.com/item?id=49290969</a></p>
-<p>Points: 21</p>
-<p># Comments: 5</p>
+<p>Points: 40</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://www.quantamagazine.org/how-godels-proof-works-20200714/](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
 
 ---
 
-### 3. Airbnb Eval-driven development: Lessons from evaluating GenAI at scale
+### 3. How Organizations Use AI: Evidence from ChatGPT [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788">https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290785">https://news.ycombinator.com/item?id=49290785</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290768">https://news.ycombinator.com/item?id=49290768</a></p>
+<p>Points: 31</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788](https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788)
+🔗 **Read more:** [https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 
 ---
 
-### 4. Watch: Houses engulfed in flames across Stourbridge
+### 4. Two seriously hurt as passenger train derails in East Sussex
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Multiple fires burned across the West Midlands and destroyed homes there.
+"It was pandemonium... I could feel the carriage rocking," says one passenger who was on the train with his six-year-old daughter.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Aerial footage shows homes engulfed in flames in Stourbridge
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Multiple fires burned across the West Midlands and destroyed homes.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. UK sees hottest day of the year as 38.1C recorded in Kew Gardens
+### 6. UK sees hottest day of the year as 38.1C recorded in Kew Gardens
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ An amber extreme heat warning is in place for parts of England until midnight.
 
 ---
 
-### 6. Five key takeaways from results day 2026
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Top grades and students going to university are on the up, but technical subjects are also becoming more popular.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Are We in the Singularity?
+### 7. Tate supporters rally for brothers ahead of bail hearing in Miami
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sam Altman just said AI has entered &quot;the singularity.&quot;
+Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre ahead of their bail hearing.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/are-we-in-the-singularity?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss)
 
 ---
 
-### 8. Sudan army says RSF advance on key town bordering Ethiopia
+### 8. Israeli strikes in Gaza kill two, including police chief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.
+Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss)
 
 ---
 
-### 9. Passenger train derails, injuring several in southern England
+### 9. Mexico says Colombia rejected its earthquake rescue team
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A passenger train derailed near Lewes in East Sussex, England,  injuring at least 11 people, and two of them seriously.
+Colombia denies politics played a role after Mexico said its military rescuers were refused entry.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/passenger-train-derails-injuring-several-in-southern-england?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss)
 
 ---
 
