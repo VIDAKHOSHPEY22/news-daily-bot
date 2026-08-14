@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 02:15:10
+**Last Update:** 2026-08-15 02:58:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Everything is about to "go dark"
+### 1. RISC-V: They should have known better
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV">https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305492">https://news.ycombinator.com/item?id=49305492</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+
+---
+
+### 2. Going Dark, and the era of law enforcement hacking
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
-<p>Points: 85</p>
-<p># Comments: 61</p>
+<p>Points: 123</p>
+<p># Comments: 83</p>
 
 🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-
----
-
-### 2. Study links coffee consumption to metabolic health and sex hormones
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones">https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304368">https://news.ycombinator.com/item?id=49304368</a></p>
-<p>Points: 46</p>
-<p># Comments: 46</p>
-
-🔗 **Read more:** [https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://iafisher.com/2026/07/pelham-123">https://iafisher.com/2026/07/pelham-123</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303957">https://news.ycombinator.com/item?id=49303957</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://iafisher.com/2026/07/pelham-123](https://iafisher.com/2026/07/pelham-123)
 
@@ -97,42 +97,42 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
+### 7. Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
+Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss)
 
 ---
 
-### 8. Wildfires rage across Europe as heatwaves drive record temperatures
+### 8. Houthi attack on port kills four eroding truce with Yemen’s government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.
+Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss)
 
 ---
 
-### 9. Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
+### 9. Yemen’s government says Houthi attack on al-Makha kills at least four
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
+Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss)
 
 ---
 
