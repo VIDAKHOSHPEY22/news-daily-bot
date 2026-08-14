@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T20:50:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.12700\">https://arxiv.org/abs/2608.12700</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301417\">https://news.ycombinator.com/item?id=49301417</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2608.12700",
+            "published": "Fri, 14 Aug 2026 16:57:14 +0000",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Discrete Fourier Transform by Hand",
+            "description": "<p>Article URL: <a href=\"https://www.byhand.ai/p/28-discrete-fourier-transform\">https://www.byhand.ai/p/28-discrete-fourier-transform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301342\">https://news.ycombinator.com/item?id=49301342</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+            "published": "Fri, 14 Aug 2026 16:52:46 +0000",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/ce97mm3vvemo\">https://www.bbc.com/news/articles/ce97mm3vvemo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301260\">https://news.ycombinator.com/item?id=49301260</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+            "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+            "published": "Fri, 14 Aug 2026 16:45:49 +0000",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 16:49:23 GMT",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+            "description": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 14:50:02 GMT",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+            "description": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.",
+            "url": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 16:47:21 GMT",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Liverpool to sell minority stake to consortium including Jeff Bezos",
+            "description": "The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 16:59:41 +0000",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
+            "description": "Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 16:46:30 +0000",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
+            "description": "What’s next for far-right Reform UK after Farage’s by-election win?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 16:35:45 +0000",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T20:50:37+03:30"
+        }
+    ]
+}

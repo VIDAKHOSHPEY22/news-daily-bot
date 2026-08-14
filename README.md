@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 19:40:42
+**Last Update:** 2026-08-14 20:50:37
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Graft – Claude Code hooks that cut grep tokens by 42%
+### 1. A Contract-Grade Verifier for LLM-Generated GPU Kernels
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/NanoNets/Graft">https://github.com/NanoNets/Graft</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299985">https://news.ycombinator.com/item?id=49299985</a></p>
+<p>Article URL: <a href="https://arxiv.org/abs/2608.12700">https://arxiv.org/abs/2608.12700</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301417">https://news.ycombinator.com/item?id=49301417</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/NanoNets/Graft](https://github.com/NanoNets/Graft)
+🔗 **Read more:** [https://arxiv.org/abs/2608.12700](https://arxiv.org/abs/2608.12700)
 
 ---
 
-### 2. AV1 vs. AV2: Which Video Codec Should You Use in 2026?
+### 2. Discrete Fourier Transform by Hand
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.red5.net/blog/av1-vs-av2/">https://www.red5.net/blog/av1-vs-av2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299970">https://news.ycombinator.com/item?id=49299970</a></p>
+<p>Article URL: <a href="https://www.byhand.ai/p/28-discrete-fourier-transform">https://www.byhand.ai/p/28-discrete-fourier-transform</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301342">https://news.ycombinator.com/item?id=49301342</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.red5.net/blog/av1-vs-av2/](https://www.red5.net/blog/av1-vs-av2/)
+🔗 **Read more:** [https://www.byhand.ai/p/28-discrete-fourier-transform](https://www.byhand.ai/p/28-discrete-fourier-transform)
 
 ---
 
-### 3. Introducing Toast 1
+### 3. Count Binface receives over a quarter of votes in Clacton by-election
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mixedbread.com/blog/toast-1">https://www.mixedbread.com/blog/toast-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49299746">https://news.ycombinator.com/item?id=49299746</a></p>
-<p>Points: 31</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/ce97mm3vvemo">https://www.bbc.com/news/articles/ce97mm3vvemo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301260">https://news.ycombinator.com/item?id=49301260</a></p>
+<p>Points: 3</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.mixedbread.com/blog/toast-1](https://www.mixedbread.com/blog/toast-1)
+🔗 **Read more:** [https://www.bbc.com/news/articles/ce97mm3vvemo](https://www.bbc.com/news/articles/ce97mm3vvemo)
 
 ---
 
@@ -84,55 +84,55 @@ As expected, the Reform UK leader easily won the Clacton by-election but was now
 
 ---
 
-### 6. Watch: Moment €9m worth of art stolen from Italy museum
+### 6. Britain's Finlay Tarling dies in Volta a Portugal accident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police released the CCTV footage after the art, which was stolen in March, was recovered.
+British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Top French court upholds assisted dying law, rejects teen social media ban
+### 7. Liverpool to sell minority stake to consortium including Jeff Bezos
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.
+The 1892 Holdings consortium, led by former QPR chairman Amit Bhatia, also includes Bezos’s K5 Sports Fund.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss)
 
 ---
 
-### 8. Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
+### 8. Analysis: Israel’s government can’t disown West Bank settler violence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mangione admits to shooting Brian Thompson in federal court, still faces separate state charges.
+Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss)
 
 ---
 
-### 9. Zambia suspends vote counting in election citing violence
+### 9. What’s next for far-right Reform UK after Farage’s by-election win?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zambia&#039;s electoral commission on Friday suspended vote counting nationwide.
+What’s next for far-right Reform UK after Farage’s by-election win?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss)
 
 ---
 
