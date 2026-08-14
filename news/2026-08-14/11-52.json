@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T11:52:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+            "description": "<p>Article URL: <a href=\"https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain\">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49295238\">https://news.ycombinator.com/item?id=49295238</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+            "published": "Fri, 14 Aug 2026 06:09:04 +0000",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+            "description": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.3\">https://z.ai/blog/glm-5.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49294997\">https://news.ycombinator.com/item?id=49294997</a></p>\n<p>Points: 339</p>\n<p># Comments: 123</p>",
+            "url": "https://z.ai/blog/glm-5.3",
+            "published": "Fri, 14 Aug 2026 05:19:59 +0000",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+            "description": "<p>Article URL: <a href=\"https://github.com/JustVugg/lumabri\">https://github.com/JustVugg/lumabri</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293523\">https://news.ycombinator.com/item?id=49293523</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/JustVugg/lumabri",
+            "published": "Fri, 14 Aug 2026 00:47:04 +0000",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage's by-election victory won't stop questions about finances",
+            "description": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+            "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 08:18:02 GMT",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Video shows scale of devastation in Stourbridge",
+            "description": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
+            "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 07:26:53 GMT",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Final day of heatwave for many before weekend cooldown",
+            "description": "Heatwave conditions continue on Friday in south-east England but it is turning fresher for all into the weekend.",
+            "url": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 00:08:16 GMT",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Stolen Matisse art found in Brazil",
+            "description": "Stolen Matisse art found in Brazil",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 07:47:05 +0000",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
+            "description": "South Africa and Ghana claim Africa&#039;s two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 07:44:25 +0000",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
+            "description": "Prichard Colon suffered neurological damage that required emergency surgery following a boxing bout in 2015.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 07:11:26 +0000",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T11:52:49+03:30"
+        }
+    ]
+}

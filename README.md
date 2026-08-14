@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 10:19:32
+**Last Update:** 2026-08-14 11:52:49
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
+### 1. Ruby 4.0 Universal RCE Deserialization Gadget Chain
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
+
+---
+
+### 2. GLM-5.3: Frontier coding with emergent cyber capabilities
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=49294997</a></p>
-<p>Points: 199</p>
-<p># Comments: 65</p>
+<p>Points: 339</p>
+<p># Comments: 123</p>
 
 🔗 **Read more:** [https://z.ai/blog/glm-5.3](https://z.ai/blog/glm-5.3)
 
 ---
 
-### 2. Bluesky Protocol Services
+### 3. Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 134</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://github.com/JustVugg/lumabri">https://github.com/JustVugg/lumabri</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293523">https://news.ycombinator.com/item?id=49293523</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
-
----
-
-### 3. Blog about things you don't understand yet
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293087">https://news.ycombinator.com/item?id=49293087</a></p>
-<p>Points: 70</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
+🔗 **Read more:** [https://github.com/JustVugg/lumabri](https://github.com/JustVugg/lumabri)
 
 ---
 
@@ -71,16 +71,16 @@ Nigel Farage triggered the Clacton by-election and the result was predictable - 
 
 ---
 
-### 5. NHS service admits data breach due to pager use
+### 5. Watch: Video shows scale of devastation in Stourbridge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The medical data of transplant patients from across the UK was sent over an unencrypted pager network.
+Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Heatwave conditions continue on Friday in south-east England but it is turning f
 
 ---
 
-### 7. Flock adds safeguards to licence-plate readers after wave of stalking cases
+### 7. Stolen Matisse art found in Brazil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.
+Stolen Matisse art found in Brazil
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss)
 
 ---
 
-### 8. North Korea fumes over upcoming US-South Korea military drills
+### 8. South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.
+South Africa and Ghana claim Africa&#039;s two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss)
 
 ---
 
-### 9. Fear and attacks grip Taybeh, the last all-Christian town in the West Bank
+### 9. Prichard Colon dies from boxing injury that resulted in 221-day coma
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.
+Prichard Colon suffered neurological damage that required emergency surgery following a boxing bout in 2015.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss)
 
 ---
 
