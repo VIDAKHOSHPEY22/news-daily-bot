@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T18:41:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen3.8-27B",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/alibaba_qwen/status/2088280182356611304\">https://twitter.com/alibaba_qwen/status/2088280182356611304</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299684\">https://news.ycombinator.com/item?id=49299684</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+            "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+            "published": "Fri, 14 Aug 2026 15:03:54 +0000",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen 3.8 27B is out: open weights, best local dense model yet",
+            "description": "<p>Article URL: <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B-FP8\">https://huggingface.co/Qwen/Qwen3.8-27B-FP8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299605\">https://news.ycombinator.com/item?id=49299605</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+            "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+            "published": "Fri, 14 Aug 2026 15:00:00 +0000",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+            "description": "<p>Article URL: <a href=\"https://weightythoughts.com/p/when-genius-failsthe-intellectual\">https://weightythoughts.com/p/when-genius-failsthe-intellectual</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299282\">https://news.ycombinator.com/item?id=49299282</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+            "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+            "published": "Fri, 14 Aug 2026 14:34:49 +0000",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 14:30:46 GMT",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+            "description": "The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.",
+            "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 13:58:55 GMT",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prisoners charged over attack on Sara Sharif's father",
+            "description": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 13:21:56 GMT",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ahmed al-Sharaa: A New Vision for Syria",
+            "description": "An exclusive interview with the man who became president of Syria in 2025 about his vision for his country’s future.",
+            "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 15:00:00 +0000",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
+            "description": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 14:48:54 +0000",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
+            "description": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 14:19:30 +0000",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T18:41:54+03:30"
+        }
+    ]
+}
