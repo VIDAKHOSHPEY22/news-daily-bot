@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 19:31:14
+**Last Update:** 2026-08-14 19:40:42
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ Police released the CCTV footage after the art, which was stolen in March, was r
 
 ---
 
-### 7. Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
+### 7. Top French court upholds assisted dying law, rejects teen social media ban
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss)
+
+---
+
+### 8. Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Mangione admits to shooting Brian Thompson in federal court, still faces separat
 
 ---
 
-### 8. Zambia suspends vote counting in election citing violence
+### 9. Zambia suspends vote counting in election citing violence
 
 **Source:** Al Jazeera
 
@@ -123,16 +136,42 @@ Zambia&#039;s electoral commission on Friday suspended vote counting nationwide.
 
 ---
 
-### 9. Qatar challenges AFC over open letter attacking FIFA President Infantino
+### 10. Tropical Storm Hernan
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Qatar FA President Hamad bin Khalifa Al-Thani complains about lack of consultation about AFC open letter to FIFA.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+
+---
+
+### 11. Tropical Storm Nangka
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
