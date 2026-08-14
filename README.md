@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 15:21:35
+**Last Update:** 2026-08-14 15:32:54
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. For the love of god stop using CPU limits in Kubernetes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/inevolin/k8s-cpu-limits-analyzed">https://github.com/inevolin/k8s-cpu-limits-analyzed</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296939">https://news.ycombinator.com/item?id=49296939</a></p>
-<p>Points: 38</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://github.com/inevolin/k8s-cpu-limits-analyzed](https://github.com/inevolin/k8s-cpu-limits-analyzed)
-
----
-
-### 2. Why does Opus 5 feel worse to work with?
+### 1. Why does Opus 5 feel worse to work with?
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296740">https://news.ycombinator.com/item?id=49296740</a></p>
-<p>Points: 84</p>
-<p># Comments: 86</p>
+<p>Points: 92</p>
+<p># Comments: 95</p>
 
 🔗 **Read more:** [https://mun-logadan.github.io/why-does-opus-5-feel-worse/](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 
 ---
 
-### 3. DeepSeek peak/off-peak pricing update
+### 2. DeepSeek peak/off-peak pricing update
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://api-docs.deepseek.com/news/news260813/">https://api-docs.deepseek.com/news/news260813/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296627">https://news.ycombinator.com/item?id=49296627</a></p>
-<p>Points: 53</p>
-<p># Comments: 15</p>
+<p>Points: 56</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://api-docs.deepseek.com/news/news260813/](https://api-docs.deepseek.com/news/news260813/)
+
+---
+
+### 3. Ruby 4.0 Universal RCE Deserialization Gadget Chain
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
+<p>Points: 42</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
 
 ---
 
