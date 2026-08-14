@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 09:50:42
+**Last Update:** 2026-08-14 10:19:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=49294997</a></p>
-<p>Points: 142</p>
-<p># Comments: 42</p>
+<p>Points: 199</p>
+<p># Comments: 65</p>
 
 🔗 **Read more:** [https://z.ai/blog/glm-5.3](https://z.ai/blog/glm-5.3)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 129</p>
+<p>Points: 134</p>
 <p># Comments: 22</p>
 
 🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293087">https://news.ycombinator.com/item?id=49293087</a></p>
-<p>Points: 65</p>
-<p># Comments: 27</p>
+<p>Points: 70</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 
@@ -97,7 +97,20 @@ Heatwave conditions continue on Friday in south-east England but it is turning f
 
 ---
 
-### 7. North Korea fumes over upcoming US-South Korea military drills
+### 7. Flock adds safeguards to licence-plate readers after wave of stalking cases
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US firm tightens oversight of automatic licence-plate readers after reports of misuse by police officers.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss)
+
+---
+
+### 8. North Korea fumes over upcoming US-South Korea military drills
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear 
 
 ---
 
-### 8. Fear and attacks grip Taybeh, the last all-Christian town in the West Bank
+### 9. Fear and attacks grip Taybeh, the last all-Christian town in the West Bank
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear 
 Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss)
-
----
-
-### 9. Record rainfall leaves four dead, thousands stranded in Japan
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Record rainfall in Chiba claims lives as more than 22,000 households without power on busy Bon Buddhist holiday week.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss)
 
 ---
 
