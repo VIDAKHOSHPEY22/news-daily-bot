@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 11:52:49
+**Last Update:** 2026-08-14 12:11:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=49294997</a></p>
-<p>Points: 339</p>
-<p># Comments: 123</p>
+<p>Points: 356</p>
+<p># Comments: 136</p>
 
 🔗 **Read more:** [https://z.ai/blog/glm-5.3](https://z.ai/blog/glm-5.3)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/JustVugg/lumabri">https://github.com/JustVugg/lumabri</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293523">https://news.ycombinator.com/item?id=49293523</a></p>
-<p>Points: 4</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/JustVugg/lumabri](https://github.com/JustVugg/lumabri)
@@ -97,7 +97,33 @@ Heatwave conditions continue on Friday in south-east England but it is turning f
 
 ---
 
-### 7. Stolen Matisse art found in Brazil
+### 7. Engine debris shattered Ryanair window, pulling passenger out, NTSB says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Flight crews had recorded four suspected bird strikes involving the same engine during the previous year.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss)
+
+---
+
+### 8. The Gambian women turning grief into song
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Known as Kanyeleng, the women have transformed infertility and child loss through a tradition of music and sisterhood.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss)
+
+---
+
+### 9. Stolen Matisse art found in Brazil
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Heatwave conditions continue on Friday in south-east England but it is turning f
 Stolen Matisse art found in Brazil
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss)
-
----
-
-### 8. South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-South Africa and Ghana claim Africa&#039;s two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss)
-
----
-
-### 9. Prichard Colon dies from boxing injury that resulted in 221-day coma
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Prichard Colon suffered neurological damage that required emergency surgery following a boxing bout in 2015.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss)
 
 ---
 
