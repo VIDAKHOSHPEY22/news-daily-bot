@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T23:30:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Z.ai Security Disclosure",
+            "description": "<p>Article URL: <a href=\"https://cvd.z.ai\">https://cvd.z.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303433\">https://news.ycombinator.com/item?id=49303433</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://cvd.z.ai",
+            "published": "Fri, 14 Aug 2026 19:22:00 +0000",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Claude's text watermarking works",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-text-watermark\">https://www.anthropic.com/news/claude-text-watermark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303350\">https://news.ycombinator.com/item?id=49303350</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+            "url": "https://www.anthropic.com/news/claude-text-watermark",
+            "published": "Fri, 14 Aug 2026 19:15:51 +0000",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Open WireGuard Endpoints",
+            "description": "<p>Article URL: <a href=\"https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html\">https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303237\">https://news.ycombinator.com/item?id=49303237</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+            "published": "Fri, 14 Aug 2026 19:05:46 +0000",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-Cambridge professor at centre of plagiarism row found dead",
+            "description": "Jason Arday was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon, officials said.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:54:13 GMT",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+            "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:20:43 GMT",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New aerial video reveals huge scale of oil spill off Oman",
+            "description": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 19:36:45 +0000",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
+            "description": "Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 19:02:49 +0000",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+            "description": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 18:55:24 +0000",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T23:30:34+03:30"
+        }
+    ]
+}

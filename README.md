@@ -1,67 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 22:54:32
+**Last Update:** 2026-08-14 23:30:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Mole – Deep research agent for your terminal
+### 1. Z.ai Security Disclosure
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.<p>1. Never spend more than you budgeted (measured overshoot is 0%).
-2. Every claim carries a source
-3. Data stays local (give a CSV, it'll analyze it without the data ever leaving your machine)<p>Works with most LLMs, including coding agents, subscriptions, local models, etc.<p>It's free and open source, would appreciate all feedback!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303046">https://news.ycombinator.com/item?id=49303046</a></p>
+<p>Article URL: <a href="https://cvd.z.ai">https://cvd.z.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303433">https://news.ycombinator.com/item?id=49303433</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://cvd.z.ai](https://cvd.z.ai)
+
+---
+
+### 2. How Claude's text watermarking works
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.anthropic.com/news/claude-text-watermark">https://www.anthropic.com/news/claude-text-watermark</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303350">https://news.ycombinator.com/item?id=49303350</a></p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.anthropic.com/news/claude-text-watermark](https://www.anthropic.com/news/claude-text-watermark)
+
+---
+
+### 3. Open WireGuard Endpoints
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html">https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303237">https://news.ycombinator.com/item?id=49303237</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/lajosdeme/mole](https://github.com/lajosdeme/mole)
+🔗 **Read more:** [https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
 
 ---
 
-### 2. Show HN: Embed a real Linux terminal on your website
+### 4. Ex-Cambridge professor at centre of plagiarism row found dead
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://sandbox.bio/training/embed">https://sandbox.bio/training/embed</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303027">https://news.ycombinator.com/item?id=49303027</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+Jason Arday was found "unresponsive" at an address in Battersea, south London, on Friday afternoon, officials said.
 
-🔗 **Read more:** [https://sandbox.bio/training/embed](https://sandbox.bio/training/embed)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. A Contract-Grade Verifier for LLM-Generated GPU Kernels
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.12700">https://arxiv.org/abs/2608.12700</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301417">https://news.ycombinator.com/item?id=49301417</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2608.12700](https://arxiv.org/abs/2608.12700)
-
----
-
-### 4. Temporary ban on sale of disposable BBQs over wildfire risk
+### 5. Temporary ban on sale of disposable BBQs over wildfire risk
 
 **Source:** BBC
 
@@ -74,7 +84,7 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 5. Mangione admits killing healthcare CEO and pleads guilty to federal charges
+### 6. Mangione admits killing healthcare CEO and pleads guilty to federal charges
 
 **Source:** BBC
 
@@ -87,20 +97,33 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 6. Derailed Essex to London train leads to travel chaos
+### 7. New aerial video reveals huge scale of oil spill off Oman
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It has happened less than 24 hours after a train came off the tracks in East Sussex.
+A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss)
 
 ---
 
-### 7. Woman charged over vandalism of World War II Memorial in Washington, DC
+### 8. Trump asks US Supreme Court to allow $400m ballroom project to proceed
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss)
+
+---
+
+### 9. Woman charged over vandalism of World War II Memorial in Washington, DC
 
 **Source:** Al Jazeera
 
@@ -110,32 +133,6 @@ It has happened less than 24 hours after a train came off the tracks in East Sus
 The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss)
-
----
-
-### 8. Art offers young Gaza survivors solace and escape from war’s devastation
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss)
-
----
-
-### 9. Italian police recover stolen paintings worth over $10m
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss)
 
 ---
 
