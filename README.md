@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 12:11:18
+**Last Update:** 2026-08-14 13:42:07
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ruby 4.0 Universal RCE Deserialization Gadget Chain
+### 1. Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil">https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295515">https://news.ycombinator.com/item?id=49295515</a></p>
+<p>Points: 55</p>
+<p># Comments: 35</p>
+
+🔗 **Read more:** [https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil](https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil)
+
+---
+
+### 2. Ruby 4.0 Universal RCE Deserialization Gadget Chain
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
 
 ---
 
-### 2. GLM-5.3: Frontier coding with emergent cyber capabilities
+### 3. GLM-5.3: Frontier coding with emergent cyber capabilities
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=49294997</a></p>
-<p>Points: 356</p>
-<p># Comments: 136</p>
+<p>Points: 464</p>
+<p># Comments: 192</p>
 
 🔗 **Read more:** [https://z.ai/blog/glm-5.3](https://z.ai/blog/glm-5.3)
-
----
-
-### 3. Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/JustVugg/lumabri">https://github.com/JustVugg/lumabri</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293523">https://news.ycombinator.com/item?id=49293523</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/JustVugg/lumabri](https://github.com/JustVugg/lumabri)
 
 ---
 
@@ -84,55 +84,55 @@ Multiple fires tore through the West Midlands on Thursday, with firefighters sti
 
 ---
 
-### 6. Final day of heatwave for many before weekend cooldown
+### 6. 'Unprecedented' rain in Japan kills six people
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heatwave conditions continue on Friday in south-east England but it is turning fresher for all into the weekend.
+The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Engine debris shattered Ryanair window, pulling passenger out, NTSB says
+### 7. New Zealand break ranks with Oceania as FIFA’s Infantino divide grows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flight crews had recorded four suspected bird strikes involving the same engine during the previous year.
+Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/engine-debris-shattered-ryanair-window-pulling-passenger-out-ntsb-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss)
 
 ---
 
-### 8. The Gambian women turning grief into song
+### 8. Russia says hit Ukrainian railway and port facilities in new strikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Known as Kanyeleng, the women have transformed infertility and child loss through a tradition of music and sisterhood.
+Kyiv targets Baltic oil hub and warehouse near Moscow with drones.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/14/the-gambian-women-turning-grief-into-song?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss)
 
 ---
 
-### 9. Stolen Matisse art found in Brazil
+### 9. Swiatek defeats Rybakina to claim Canadian Open title​
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Stolen Matisse art found in Brazil
+Six-time Grand Slam champion Iga Swiatek defeats Elena Rybakina in Toronto to claim the WTA Canadian Open title.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss)
 
 ---
 
