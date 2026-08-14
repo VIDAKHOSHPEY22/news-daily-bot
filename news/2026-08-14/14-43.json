@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T14:43:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Everyone talks about AI agents. This is what one looks from the inside",
+            "description": "<p>Article URL: <a href=\"https://pssah4.github.io/vault-operator/guides/capabilities\">https://pssah4.github.io/vault-operator/guides/capabilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296964\">https://news.ycombinator.com/item?id=49296964</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://pssah4.github.io/vault-operator/guides/capabilities",
+            "published": "Fri, 14 Aug 2026 10:44:12 +0000",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "For the love of god stop using CPU limits in Kubernetes",
+            "description": "<p>Article URL: <a href=\"https://github.com/inevolin/k8s-cpu-limits-analyzed\">https://github.com/inevolin/k8s-cpu-limits-analyzed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296939\">https://news.ycombinator.com/item?id=49296939</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+            "published": "Fri, 14 Aug 2026 10:41:21 +0000",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why does Opus 5 feel worse to work with?",
+            "description": "<p>Article URL: <a href=\"https://mun-logadan.github.io/why-does-opus-5-feel-worse/\">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296740\">https://news.ycombinator.com/item?id=49296740</a></p>\n<p>Points: 68</p>\n<p># Comments: 63</p>",
+            "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+            "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage's by-election victory won't stop questions about finances",
+            "description": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+            "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 08:18:02 GMT",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Video shows scale of devastation in Stourbridge",
+            "description": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
+            "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 07:26:53 GMT",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Eurovision proposes new rules to tackle mass voting",
+            "description": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
+            "url": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 10:23:08 GMT",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+            "description": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 10:32:22 +0000",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Seven killed in tunnel accident at Indian hydropower project",
+            "description": "Water and debris burst into a state-run hydropower tunnel in Uttarakhand following a landslide.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 10:28:34 +0000",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows",
+            "description": "Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 09:35:06 +0000",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T14:43:25+03:30"
+        }
+    ]
+}
