@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 16:53:15
+**Last Update:** 2026-08-14 17:19:39
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why does Opus 5 feel worse to work with?
+### 1. France's tax authority had data stolen on 680k taxpayers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html">https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49298303">https://news.ycombinator.com/item?id=49298303</a></p>
+<p>Points: 28</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html](https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html)
+
+---
+
+### 2. Dear people who work at the airport
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/">https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49297801">https://news.ycombinator.com/item?id=49297801</a></p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/](https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/)
+
+---
+
+### 3. Why does Opus 5 feel worse to work with?
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296740">https://news.ycombinator.com/item?id=49296740</a></p>
-<p>Points: 197</p>
-<p># Comments: 178</p>
+<p>Points: 239</p>
+<p># Comments: 223</p>
 
 🔗 **Read more:** [https://mun-logadan.github.io/why-does-opus-5-feel-worse/](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
-
----
-
-### 2. DeepSeek peak/off-peak pricing update
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://api-docs.deepseek.com/news/news260813/">https://api-docs.deepseek.com/news/news260813/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296627">https://news.ycombinator.com/item?id=49296627</a></p>
-<p>Points: 97</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://api-docs.deepseek.com/news/news260813/](https://api-docs.deepseek.com/news/news260813/)
-
----
-
-### 3. Ruby 4.0 Universal RCE Deserialization Gadget Chain
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
-<p>Points: 50</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
 
 ---
 
@@ -97,7 +97,33 @@ Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences rel
 
 ---
 
-### 7. US missionary kidnapped in Niger released after nine months in captivity
+### 7. Pakistan PM’s ‘red line’ warning to India over water treaty
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss)
+
+---
+
+### 8. Russia stance will be defended in court, pledges World Athletics chief Coe
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss)
+
+---
+
+### 9. US missionary kidnapped in Niger released after nine months in captivity
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences rel
 Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss)
-
----
-
-### 8. Saudi Arabia announces start of Red Sea defence alliance: Will it work?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thirteen countries have become members of the Saudi-led maritime alliance.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss)
-
----
-
-### 9. Israeli soldiers prevent aid delivery to besieged Palestinians
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli soldiers prevent aid delivery to besieged Palestinians
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss)
 
 ---
 

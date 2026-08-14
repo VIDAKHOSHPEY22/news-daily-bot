@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T17:19:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "France's tax authority had data stolen on 680k taxpayers",
+            "description": "<p>Article URL: <a href=\"https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html\">https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49298303\">https://news.ycombinator.com/item?id=49298303</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+            "url": "https://korben.info/en/france-tax-authority-data-breach-680000-taxpayers.html",
+            "published": "Fri, 14 Aug 2026 13:18:53 +0000",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dear people who work at the airport",
+            "description": "<p>Article URL: <a href=\"https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/\">https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49297801\">https://news.ycombinator.com/item?id=49297801</a></p>\n<p>Points: 20</p>\n<p># Comments: 8</p>",
+            "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
+            "published": "Fri, 14 Aug 2026 12:23:22 +0000",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why does Opus 5 feel worse to work with?",
+            "description": "<p>Article URL: <a href=\"https://mun-logadan.github.io/why-does-opus-5-feel-worse/\">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296740\">https://news.ycombinator.com/item?id=49296740</a></p>\n<p>Points: 239</p>\n<p># Comments: 223</p>",
+            "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+            "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Government issues a temporary ban on the sale of disposable barbeques as they pose a \"significant risk to the public\".",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 13:42:11 GMT",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+            "description": "The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.",
+            "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 13:34:55 GMT",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prisoners charged over attack on Sara Sharif's father",
+            "description": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 13:21:56 GMT",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
+            "description": "Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 13:07:19 +0000",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia stance will be defended in court, pledges World Athletics chief Coe",
+            "description": "Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 13:04:23 +0000",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US missionary kidnapped in Niger released after nine months in captivity",
+            "description": "Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 12:54:30 +0000",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T17:19:39+03:30"
+        }
+    ]
+}
