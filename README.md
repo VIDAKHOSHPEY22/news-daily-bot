@@ -1,16 +1,35 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 22:35:41
+**Last Update:** 2026-08-14 22:54:32
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Embed a real Linux terminal on your website
+### 1. Show HN: Mole – Deep research agent for your terminal
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.<p>1. Never spend more than you budgeted (measured overshoot is 0%).
+2. Every claim carries a source
+3. Data stays local (give a CSV, it'll analyze it without the data ever leaving your machine)<p>Works with most LLMs, including coding agents, subscriptions, local models, etc.<p>It's free and open source, would appreciate all feedback!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303046">https://news.ycombinator.com/item?id=49303046</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/lajosdeme/mole](https://github.com/lajosdeme/mole)
+
+---
+
+### 2. Show HN: Embed a real Linux terminal on your website
 
 **Source:** Hacker News
 
@@ -19,14 +38,14 @@
 **Description:**
 <p>Article URL: <a href="https://sandbox.bio/training/embed">https://sandbox.bio/training/embed</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303027">https://news.ycombinator.com/item?id=49303027</a></p>
-<p>Points: 3</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://sandbox.bio/training/embed](https://sandbox.bio/training/embed)
 
 ---
 
-### 2. A Contract-Grade Verifier for LLM-Generated GPU Kernels
+### 3. A Contract-Grade Verifier for LLM-Generated GPU Kernels
 
 **Source:** Hacker News
 
@@ -35,26 +54,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2608.12700">https://arxiv.org/abs/2608.12700</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301417">https://news.ycombinator.com/item?id=49301417</a></p>
-<p>Points: 11</p>
+<p>Points: 12</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2608.12700](https://arxiv.org/abs/2608.12700)
-
----
-
-### 3. Discrete Fourier Transform by Hand
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.byhand.ai/p/28-discrete-fourier-transform">https://www.byhand.ai/p/28-discrete-fourier-transform</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301342">https://news.ycombinator.com/item?id=49301342</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.byhand.ai/p/28-discrete-fourier-transform](https://www.byhand.ai/p/28-discrete-fourier-transform)
 
 ---
 
@@ -71,68 +74,107 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 5. Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?
+### 5. Mangione admits killing healthcare CEO and pleads guilty to federal charges
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.
+"I shot Mr Thompson in Manhattan and he died," the 28-year-old said after pleading guilty to charges of stalking resulting in death.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule
+### 6. Derailed Essex to London train leads to travel chaos
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.
+It has happened less than 24 hours after a train came off the tracks in East Sussex.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. CEO pay skyrockets in 2025 amid growing income inequality in the US
+### 7. Woman charged over vandalism of World War II Memorial in Washington, DC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Elon Musk earned 2.5 million times more than a Tesla worker&#039;s median pay in 2025, despite revenue and sales declines.
+The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss)
 
 ---
 
-### 8. Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing
+### 8. Art offers young Gaza survivors solace and escape from war’s devastation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.
+Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss)
 
 ---
 
-### 9. British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19
+### 9. Italian police recover stolen paintings worth over $10m
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Organisers said on social media that Tarling died following a &#039;serious accident&#039; on the stage between Melgaco and Fafe.
+Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Hernan
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+
+---
+
+### 11. Tropical Storm Nangka
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

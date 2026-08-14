@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T22:54:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Mole – Deep research agent for your terminal",
+            "description": "<p>Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.<p>1. Never spend more than you budgeted (measured overshoot is 0%).\n2. Every claim carries a source\n3. Data stays local (give a CSV, it'll analyze it without the data ever leaving your machine)<p>Works with most LLMs, including coding agents, subscriptions, local models, etc.<p>It's free and open source, would appreciate all feedback!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303046\">https://news.ycombinator.com/item?id=49303046</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/lajosdeme/mole",
+            "published": "Fri, 14 Aug 2026 18:52:48 +0000",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Embed a real Linux terminal on your website",
+            "description": "<p>Article URL: <a href=\"https://sandbox.bio/training/embed\">https://sandbox.bio/training/embed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303027\">https://news.ycombinator.com/item?id=49303027</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://sandbox.bio/training/embed",
+            "published": "Fri, 14 Aug 2026 18:51:27 +0000",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.12700\">https://arxiv.org/abs/2608.12700</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301417\">https://news.ycombinator.com/item?id=49301417</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2608.12700",
+            "published": "Fri, 14 Aug 2026 16:57:14 +0000",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+            "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:20:43 GMT",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Derailed Essex to London train leads to travel chaos",
+            "description": "It has happened less than 24 hours after a train came off the tracks in East Sussex.",
+            "url": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:20:48 GMT",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+            "description": "The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 18:55:24 +0000",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+            "description": "Young survivors of Israel&#039;s genocidal war in Gaza find safe spaces to process trauma and rediscover joy.",
+            "url": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 18:43:36 +0000",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Italian police recover stolen paintings worth over $10m",
+            "description": "Nine Moldovans are being investigated in connection with the theft of paintings by Cezanne, Renoir and Matisse.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 18:37:59 +0000",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T22:54:32+03:30"
+        }
+    ]
+}
