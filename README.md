@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 08:25:35
+**Last Update:** 2026-08-14 08:41:12
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 113</p>
-<p># Comments: 21</p>
+<p>Points: 116</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
-<p>Points: 137</p>
-<p># Comments: 35</p>
+<p>Points: 138</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
 
@@ -97,20 +97,7 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 7. Al Jazeera speaks to Count Binface as Farage claims Clacton victory
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Al Jazeera’s Jonah Hull spoke to candidate for MP, Count Binface, as votes were counted in Clacton.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-clacton-by-election-reported?traffic_source=rss)
-
----
-
-### 8. Water supply for three US states drips down, Lake Mead at record low
+### 7. Water supply for three US states drips down, Lake Mead at record low
 
 **Source:** Al Jazeera
 
@@ -123,7 +110,7 @@ The largest reservoir in the United States, located on the border of Arizona and
 
 ---
 
-### 9. Brazil begins exploring retaliatory options to new US tariffs
+### 8. Brazil begins exploring retaliatory options to new US tariffs
 
 **Source:** Al Jazeera
 
@@ -133,6 +120,58 @@ The largest reservoir in the United States, located on the border of Arizona and
 Brazil has not yet decided whether it will proceed with retaliatory measures, but commits to defending its position.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss)
+
+---
+
+### 9. Mali says 82 soldiers captured by armed groups have been freed
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Malian army says the soldiers were held prisoner by Tuareg and al-Qaeda-linked armed groups in the northern region.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss)
+
+---
+
+### 10. Tropical Storm Hernan
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
+
+---
+
+### 11. Tropical Storm Nangka
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
+
+---
+
+### 12. Tropical Storm Lala
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 

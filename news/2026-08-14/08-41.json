@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T08:41:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bluesky Protocol Services",
+            "description": "<p>Article URL: <a href=\"https://atproto.com/blog/introducing-bluesky-protocol-services\">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293324\">https://news.ycombinator.com/item?id=49293324</a></p>\n<p>Points: 116</p>\n<p># Comments: 22</p>",
+            "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+            "published": "Fri, 14 Aug 2026 00:14:28 +0000",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SparrowMap – Cameras that watch government vehicles",
+            "description": "<p>Article URL: <a href=\"https://sparrowmap.com/\">https://sparrowmap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293294\">https://news.ycombinator.com/item?id=49293294</a></p>\n<p>Points: 138</p>\n<p># Comments: 34</p>",
+            "url": "https://sparrowmap.com/",
+            "published": "Fri, 14 Aug 2026 00:10:04 +0000",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Blog about things you don't understand yet",
+            "description": "<p>Article URL: <a href=\"https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/\">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293087\">https://news.ycombinator.com/item?id=49293087</a></p>\n<p>Points: 51</p>\n<p># Comments: 19</p>",
+            "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+            "published": "Thu, 13 Aug 2026 23:39:33 +0000",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Multiple fires destroy homes and cause devastation in West Midlands",
+            "description": "The region's fire chief says the service took thousands of 999 calls across \"one of the most significant\" incidents in its history.",
+            "url": "https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 22:29:57 GMT",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
+            "description": "Multiple fires burned across the West Midlands and destroyed homes.",
+            "url": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 20:26:25 GMT",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two seriously hurt as passenger train derails in East Sussex",
+            "description": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
+            "url": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 21:36:39 GMT",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Water supply for three US states drips down, Lake Mead at record low",
+            "description": "The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 04:26:09 +0000",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil begins exploring retaliatory options to new US tariffs",
+            "description": "Brazil has not yet decided whether it will proceed with retaliatory measures, but commits to defending its position.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 04:00:20 +0000",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mali says 82 soldiers captured by armed groups have been freed",
+            "description": "Malian army says the soldiers were held prisoner by Tuareg and al-Qaeda-linked armed groups in the northern region.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 03:24:54 +0000",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T08:41:12+03:30"
+        }
+    ]
+}
