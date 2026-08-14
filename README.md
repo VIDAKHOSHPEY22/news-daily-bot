@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 01:15:16
+**Last Update:** 2026-08-15 02:01:01
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Points: 85</p>
+<p># Comments: 61</p>
 
 🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones">https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304368">https://news.ycombinator.com/item?id=49304368</a></p>
-<p>Points: 27</p>
-<p># Comments: 13</p>
+<p>Points: 46</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://iafisher.com/2026/07/pelham-123">https://iafisher.com/2026/07/pelham-123</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303957">https://news.ycombinator.com/item?id=49303957</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://iafisher.com/2026/07/pelham-123](https://iafisher.com/2026/07/pelham-123)
 
@@ -97,42 +97,42 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Trump dismisses mental health concerns on USS Lincoln aircraft carrier
+### 7. Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.
+Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss)
 
 ---
 
-### 8. Mount Etna eruption and volcanic ash shut Sicily’s busiest airport
+### 8. Wildfires rage across Europe as heatwaves drive record temperatures
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.
+Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss)
 
 ---
 
-### 9. Former Cambridge professor accused of plagiarism found dead
+### 9. Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jason Arday&#039;s body was found in south London just a week after he resigned from the University of Cambridge.
+Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss)
 
 ---
 
