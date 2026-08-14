@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T18:29:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Every Fucking Website",
+            "description": "<p>Article URL: <a href=\"https://lxe.github.io/everywebsite/\">https://lxe.github.io/everywebsite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49299222\">https://news.ycombinator.com/item?id=49299222</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://lxe.github.io/everywebsite/",
+            "published": "Fri, 14 Aug 2026 14:31:08 +0000",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+            "description": "<p>Article URL: <a href=\"https://e360.yale.edu/digest/australia-home-batteries\">https://e360.yale.edu/digest/australia-home-batteries</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49298910\">https://news.ycombinator.com/item?id=49298910</a></p>\n<p>Points: 79</p>\n<p># Comments: 32</p>",
+            "url": "https://e360.yale.edu/digest/australia-home-batteries",
+            "published": "Fri, 14 Aug 2026 14:07:52 +0000",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+            "description": "<p>Article URL: <a href=\"https://hashagent.pages.dev/\">https://hashagent.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49298088\">https://news.ycombinator.com/item?id=49298088</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://hashagent.pages.dev/",
+            "published": "Fri, 14 Aug 2026 12:57:02 +0000",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 14:30:46 GMT",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+            "description": "The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.",
+            "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 13:58:55 GMT",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prisoners charged over attack on Sara Sharif's father",
+            "description": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 13:21:56 GMT",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan",
+            "description": "Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 14:48:54 +0000",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
+            "description": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 14:19:30 +0000",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
+            "description": "Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 13:07:19 +0000",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T18:29:45+03:30"
+        }
+    ]
+}
