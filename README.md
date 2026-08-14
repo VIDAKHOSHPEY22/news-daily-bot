@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 13:42:07
+**Last Update:** 2026-08-14 13:59:37
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun
+### 1. Why does Opus 5 feel worse to work with?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil">https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295515">https://news.ycombinator.com/item?id=49295515</a></p>
-<p>Points: 55</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296740">https://news.ycombinator.com/item?id=49296740</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil](https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil)
+🔗 **Read more:** [https://mun-logadan.github.io/why-does-opus-5-feel-worse/](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 
 ---
 
-### 2. Ruby 4.0 Universal RCE Deserialization Gadget Chain
+### 2. DeepSeek peak/off-peak pricing update
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://api-docs.deepseek.com/news/news260813/">https://api-docs.deepseek.com/news/news260813/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296627">https://news.ycombinator.com/item?id=49296627</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://api-docs.deepseek.com/news/news260813/](https://api-docs.deepseek.com/news/news260813/)
+
+---
+
+### 3. Ruby 4.0 Universal RCE Deserialization Gadget Chain
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Points: 31</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
-
----
-
-### 3. GLM-5.3: Frontier coding with emergent cyber capabilities
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=49294997</a></p>
-<p>Points: 464</p>
-<p># Comments: 192</p>
-
-🔗 **Read more:** [https://z.ai/blog/glm-5.3](https://z.ai/blog/glm-5.3)
 
 ---
 

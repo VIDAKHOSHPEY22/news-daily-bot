@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T13:59:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why does Opus 5 feel worse to work with?",
+            "description": "<p>Article URL: <a href=\"https://mun-logadan.github.io/why-does-opus-5-feel-worse/\">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296740\">https://news.ycombinator.com/item?id=49296740</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+            "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek peak/off-peak pricing update",
+            "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/news/news260813/\">https://api-docs.deepseek.com/news/news260813/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296627\">https://news.ycombinator.com/item?id=49296627</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://api-docs.deepseek.com/news/news260813/",
+            "published": "Fri, 14 Aug 2026 09:55:33 +0000",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+            "description": "<p>Article URL: <a href=\"https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain\">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49295238\">https://news.ycombinator.com/item?id=49295238</a></p>\n<p>Points: 31</p>\n<p># Comments: 8</p>",
+            "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+            "published": "Fri, 14 Aug 2026 06:09:04 +0000",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage's by-election victory won't stop questions about finances",
+            "description": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+            "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 08:18:02 GMT",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Video shows scale of devastation in Stourbridge",
+            "description": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
+            "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 07:26:53 GMT",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Unprecedented' rain in Japan kills six people",
+            "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+            "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 07:00:56 GMT",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows",
+            "description": "Oceania have offered support to Gianni Infantino, but New Zealand have gone against their own confederation in FIFA row.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 09:35:06 +0000",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
+            "description": "Kyiv targets Baltic oil hub and warehouse near Moscow with drones.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 09:28:03 +0000",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swiatek defeats Rybakina to claim Canadian Open title​",
+            "description": "Six-time Grand Slam champion Iga Swiatek defeats Elena Rybakina in Toronto to claim the WTA Canadian Open title.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 09:26:54 +0000",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T13:59:37+03:30"
+        }
+    ]
+}
