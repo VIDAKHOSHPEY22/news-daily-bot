@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T00:21:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Every exterior shot in The Taking of Pelham 123",
+            "description": "<p>Article URL: <a href=\"https://iafisher.com/2026/07/pelham-123\">https://iafisher.com/2026/07/pelham-123</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303957\">https://news.ycombinator.com/item?id=49303957</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://iafisher.com/2026/07/pelham-123",
+            "published": "Fri, 14 Aug 2026 20:10:49 +0000",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1j1ye6n30no\">https://www.bbc.com/news/articles/c1j1ye6n30no</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303774\">https://news.ycombinator.com/item?id=49303774</a></p>\n<p>Points: 42</p>\n<p># Comments: 26</p>",
+            "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+            "published": "Fri, 14 Aug 2026 19:51:49 +0000",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.11158\">https://arxiv.org/abs/2608.11158</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303652\">https://news.ycombinator.com/item?id=49303652</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://arxiv.org/abs/2608.11158",
+            "published": "Fri, 14 Aug 2026 19:41:42 +0000",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "Emergency services said a man was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 20:32:55 GMT",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+            "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:20:43 GMT",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+            "description": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 19:44:43 +0000",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New aerial video reveals huge scale of oil spill off Oman",
+            "description": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 19:36:45 +0000",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
+            "description": "Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 19:02:49 +0000",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T00:21:31+03:30"
+        }
+    ]
+}

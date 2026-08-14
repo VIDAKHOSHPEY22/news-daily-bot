@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 00:07:31
+**Last Update:** 2026-08-15 00:21:31
 
 **Total News:** 12
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 2. Jason Arday: Former Cambridge university professor found dead
+### 2. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c1j1ye6n30no">https://www.bbc.com/news/articles/c1j1ye6n30no</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303774">https://news.ycombinator.com/item?id=49303774</a></p>
-<p>Points: 23</p>
-<p># Comments: 6</p>
+<p>Points: 42</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c1j1ye6n30no](https://www.bbc.com/news/articles/c1j1ye6n30no)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2608.11158">https://arxiv.org/abs/2608.11158</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303652">https://news.ycombinator.com/item?id=49303652</a></p>
-<p>Points: 5</p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2608.11158](https://arxiv.org/abs/2608.11158)
