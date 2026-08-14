@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 08:41:12
+**Last Update:** 2026-08-14 09:50:42
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bluesky Protocol Services
+### 1. GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://z.ai/blog/glm-5.3">https://z.ai/blog/glm-5.3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49294997">https://news.ycombinator.com/item?id=49294997</a></p>
+<p>Points: 142</p>
+<p># Comments: 42</p>
+
+🔗 **Read more:** [https://z.ai/blog/glm-5.3](https://z.ai/blog/glm-5.3)
+
+---
+
+### 2. Bluesky Protocol Services
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
-<p>Points: 116</p>
+<p>Points: 129</p>
 <p># Comments: 22</p>
 
 🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
-
----
-
-### 2. SparrowMap – Cameras that watch government vehicles
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
-<p>Points: 138</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
 
 ---
 
@@ -51,88 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293087">https://news.ycombinator.com/item?id=49293087</a></p>
-<p>Points: 51</p>
-<p># Comments: 19</p>
+<p>Points: 65</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 
 ---
 
-### 4. Multiple fires destroy homes and cause devastation in West Midlands
+### 4. Farage's by-election victory won't stop questions about finances
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The region's fire chief says the service took thousands of 999 calls across "one of the most significant" incidents in its history.
+Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Aerial footage shows homes engulfed in flames in Stourbridge
+### 5. NHS service admits data breach due to pager use
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Multiple fires burned across the West Midlands and destroyed homes.
+The medical data of transplant patients from across the UK was sent over an unencrypted pager network.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Two seriously hurt as passenger train derails in East Sussex
+### 6. Final day of heatwave for many before weekend cooldown
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"It was pandemonium... I could feel the carriage rocking," says one passenger who was on the train with his six-year-old daughter.
+Heatwave conditions continue on Friday in south-east England but it is turning fresher for all into the weekend.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Water supply for three US states drips down, Lake Mead at record low
+### 7. North Korea fumes over upcoming US-South Korea military drills
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The largest reservoir in the United States, located on the border of Arizona and Nevada, just hit a record low.
+Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/water-supply-for-three-us-states-drips-down-lake-mead-at-record-low?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss)
 
 ---
 
-### 8. Brazil begins exploring retaliatory options to new US tariffs
+### 8. Fear and attacks grip Taybeh, the last all-Christian town in the West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil has not yet decided whether it will proceed with retaliatory measures, but commits to defending its position.
+Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss](https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Mali says 82 soldiers captured by armed groups have been freed
+### 9. Record rainfall leaves four dead, thousands stranded in Japan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Malian army says the soldiers were held prisoner by Tuareg and al-Qaeda-linked armed groups in the northern region.
+Record rainfall in Chiba claims lives as more than 22,000 households without power on busy Bon Buddhist holiday week.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/mali-says-82-soldiers-captured-by-armed-groups-have-been-freed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss)
 
 ---
 

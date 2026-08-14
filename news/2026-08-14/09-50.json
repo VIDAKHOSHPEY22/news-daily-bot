@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T09:50:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+            "description": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.3\">https://z.ai/blog/glm-5.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49294997\">https://news.ycombinator.com/item?id=49294997</a></p>\n<p>Points: 142</p>\n<p># Comments: 42</p>",
+            "url": "https://z.ai/blog/glm-5.3",
+            "published": "Fri, 14 Aug 2026 05:19:59 +0000",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bluesky Protocol Services",
+            "description": "<p>Article URL: <a href=\"https://atproto.com/blog/introducing-bluesky-protocol-services\">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293324\">https://news.ycombinator.com/item?id=49293324</a></p>\n<p>Points: 129</p>\n<p># Comments: 22</p>",
+            "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+            "published": "Fri, 14 Aug 2026 00:14:28 +0000",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Blog about things you don't understand yet",
+            "description": "<p>Article URL: <a href=\"https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/\">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293087\">https://news.ycombinator.com/item?id=49293087</a></p>\n<p>Points: 65</p>\n<p># Comments: 27</p>",
+            "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+            "published": "Thu, 13 Aug 2026 23:39:33 +0000",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage's by-election victory won't stop questions about finances",
+            "description": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+            "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 05:22:27 GMT",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NHS service admits data breach due to pager use",
+            "description": "The medical data of transplant patients from across the UK was sent over an unencrypted pager network.",
+            "url": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 05:12:44 GMT",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Final day of heatwave for many before weekend cooldown",
+            "description": "Heatwave conditions continue on Friday in south-east England but it is turning fresher for all into the weekend.",
+            "url": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 00:08:16 GMT",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea fumes over upcoming US-South Korea military drills",
+            "description": "Pyongyang has accused the US of pushing the world &#039;to the brink of nuclear war&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 05:40:45 +0000",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
+            "description": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
+            "url": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 05:08:32 +0000",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Record rainfall leaves four dead, thousands stranded in Japan",
+            "description": "Record rainfall in Chiba claims lives as more than 22,000 households without power on busy Bon Buddhist holiday week.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 05:02:19 +0000",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T09:50:42+03:30"
+        }
+    ]
+}
