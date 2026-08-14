@@ -1,71 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 23:30:34
+**Last Update:** 2026-08-15 00:07:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Z.ai Security Disclosure
+### 1. Every exterior shot in The Taking of Pelham 123
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cvd.z.ai">https://cvd.z.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303433">https://news.ycombinator.com/item?id=49303433</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://cvd.z.ai](https://cvd.z.ai)
-
----
-
-### 2. How Claude's text watermarking works
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/claude-text-watermark">https://www.anthropic.com/news/claude-text-watermark</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303350">https://news.ycombinator.com/item?id=49303350</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.anthropic.com/news/claude-text-watermark](https://www.anthropic.com/news/claude-text-watermark)
-
----
-
-### 3. Open WireGuard Endpoints
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html">https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303237">https://news.ycombinator.com/item?id=49303237</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://iafisher.com/2026/07/pelham-123">https://iafisher.com/2026/07/pelham-123</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303957">https://news.ycombinator.com/item?id=49303957</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html](https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html)
+🔗 **Read more:** [https://iafisher.com/2026/07/pelham-123](https://iafisher.com/2026/07/pelham-123)
 
 ---
 
-### 4. Ex-Cambridge professor at centre of plagiarism row found dead
+### 2. Jason Arday: Former Cambridge university professor found dead
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c1j1ye6n30no">https://www.bbc.com/news/articles/c1j1ye6n30no</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303774">https://news.ycombinator.com/item?id=49303774</a></p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c1j1ye6n30no](https://www.bbc.com/news/articles/c1j1ye6n30no)
+
+---
+
+### 3. New Lower and Upper Bounds for the Grothendieck Constant
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2608.11158">https://arxiv.org/abs/2608.11158</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303652">https://news.ycombinator.com/item?id=49303652</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2608.11158](https://arxiv.org/abs/2608.11158)
+
+---
+
+### 4. Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jason Arday was found "unresponsive" at an address in Battersea, south London, on Friday afternoon, officials said.
+Emergency services said a man was found "unresponsive" at an address in Battersea, south London, on Friday afternoon.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. New aerial video reveals huge scale of oil spill off Oman
+### 7. Son of Mexico’s former president AMLO alleges US revoked his visa
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss)
+
+---
+
+### 8. New aerial video reveals huge scale of oil spill off Oman
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A potential environmental disaster is unfolding off Oman, where a grounded tanke
 
 ---
 
-### 8. Trump asks US Supreme Court to allow $400m ballroom project to proceed
+### 9. Trump asks US Supreme Court to allow $400m ballroom project to proceed
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A potential environmental disaster is unfolding off Oman, where a grounded tanke
 Appeals court previously ruled that Trump administration must seek authorisation from Congress to continue with project.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss)
-
----
-
-### 9. Woman charged over vandalism of World War II Memorial in Washington, DC
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The arrest comes weeks after Trump criticised Jeanine Pirro for dropping charges over damage to the Reflecting Pool.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss)
 
 ---
 
