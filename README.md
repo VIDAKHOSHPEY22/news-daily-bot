@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 01:02:16
+**Last Update:** 2026-08-15 01:15:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Study links coffee consumption to metabolic health and sex hormones
+### 1. Everything is about to "go dark"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+
+---
+
+### 2. Study links coffee consumption to metabolic health and sex hormones
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones">https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304368">https://news.ycombinator.com/item?id=49304368</a></p>
-<p>Points: 16</p>
-<p># Comments: 6</p>
+<p>Points: 27</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones](https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones)
 
 ---
 
-### 2. Every exterior shot in The Taking of Pelham 123
+### 3. Every exterior shot in The Taking of Pelham 123
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://iafisher.com/2026/07/pelham-123">https://iafisher.com/2026/07/pelham-123</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303957">https://news.ycombinator.com/item?id=49303957</a></p>
-<p>Points: 11</p>
+<p>Points: 12</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://iafisher.com/2026/07/pelham-123](https://iafisher.com/2026/07/pelham-123)
-
----
-
-### 3. New Lower and Upper Bounds for the Grothendieck Constant
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.11158">https://arxiv.org/abs/2608.11158</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303652">https://news.ycombinator.com/item?id=49303652</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2608.11158](https://arxiv.org/abs/2608.11158)
 
 ---
 
