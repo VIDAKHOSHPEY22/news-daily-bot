@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T03:13:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RISC-V: They should have known better",
+            "description": "<p>Article URL: <a href=\"https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV\">https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49305492\">https://news.ycombinator.com/item?id=49305492</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+            "published": "Fri, 14 Aug 2026 22:38:34 +0000",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Going Dark, and the era of law enforcement hacking",
+            "description": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/\">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49304447\">https://news.ycombinator.com/item?id=49304447</a></p>\n<p>Points: 123</p>\n<p># Comments: 83</p>",
+            "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+            "published": "Fri, 14 Aug 2026 20:52:44 +0000",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Every exterior shot in The Taking of Pelham 123",
+            "description": "<p>Article URL: <a href=\"https://iafisher.com/2026/07/pelham-123\">https://iafisher.com/2026/07/pelham-123</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303957\">https://news.ycombinator.com/item?id=49303957</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
+            "url": "https://iafisher.com/2026/07/pelham-123",
+            "published": "Fri, 14 Aug 2026 20:10:49 +0000",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 22:05:27 GMT",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fires prompt national alert as 19 homes destroyed",
+            "description": "The prime minister said 37 fires were currently burning across England and Wales",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 20:56:53 GMT",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
+            "description": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 23:02:55 +0000",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthi attack on port kills four eroding truce with Yemen’s government",
+            "description": "Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 22:58:58 +0000",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s government says Houthi attack on al-Makha kills at least four",
+            "description": "Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 22:45:19 +0000",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T03:13:17+03:30"
+        }
+    ]
+}
