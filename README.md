@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 21:26:45
+**Last Update:** 2026-08-14 21:41:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.byhand.ai/p/28-discrete-fourier-transform">https://www.byhand.ai/p/28-discrete-fourier-transform</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301342">https://news.ycombinator.com/item?id=49301342</a></p>
-<p>Points: 9</p>
+<p>Points: 10</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.byhand.ai/p/28-discrete-fourier-transform](https://www.byhand.ai/p/28-discrete-fourier-transform)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/ce97mm3vvemo">https://www.bbc.com/news/articles/ce97mm3vvemo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49301260">https://news.ycombinator.com/item?id=49301260</a></p>
-<p>Points: 55</p>
-<p># Comments: 10</p>
+<p>Points: 92</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/ce97mm3vvemo](https://www.bbc.com/news/articles/ce97mm3vvemo)
 
@@ -71,20 +71,7 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 5. Weekend cancellations after East Sussex train derailment
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Three train carriages left the tracks on an embankment near Lewes, leaving 20 people injured.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwxg6jwv77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwxg6jwv77o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?
+### 5. Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?
 
 **Source:** BBC
 
@@ -94,6 +81,19 @@ Three train carriages left the tracks on an embankment near Lewes, leaving 20 pe
 As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Britain's Finlay Tarling dies in Volta a Portugal accident
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss)
 
 ---
 
