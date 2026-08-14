@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T01:02:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Study links coffee consumption to metabolic health and sex hormones",
+            "description": "<p>Article URL: <a href=\"https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones\">https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49304368\">https://news.ycombinator.com/item?id=49304368</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
+            "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
+            "published": "Fri, 14 Aug 2026 20:46:04 +0000",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Every exterior shot in The Taking of Pelham 123",
+            "description": "<p>Article URL: <a href=\"https://iafisher.com/2026/07/pelham-123\">https://iafisher.com/2026/07/pelham-123</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303957\">https://news.ycombinator.com/item?id=49303957</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://iafisher.com/2026/07/pelham-123",
+            "published": "Fri, 14 Aug 2026 20:10:49 +0000",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.11158\">https://arxiv.org/abs/2608.11158</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303652\">https://news.ycombinator.com/item?id=49303652</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+            "url": "https://arxiv.org/abs/2608.11158",
+            "published": "Fri, 14 Aug 2026 19:41:42 +0000",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 21:26:34 GMT",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fires prompt national alert as 19 homes destroyed",
+            "description": "The prime minister said 37 fires were currently burning across England and Wales",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 20:56:53 GMT",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
+            "description": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 21:17:15 +0000",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
+            "description": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 21:03:07 +0000",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former Cambridge professor accused of plagiarism found dead",
+            "description": "Jason Arday&#039;s body was found in south London just a week after he resigned from the University of Cambridge.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 20:46:40 +0000",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T01:02:16+03:30"
+        }
+    ]
+}
