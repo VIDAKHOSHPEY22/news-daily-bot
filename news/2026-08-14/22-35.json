@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-14T22:35:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Embed a real Linux terminal on your website",
+            "description": "<p>Article URL: <a href=\"https://sandbox.bio/training/embed\">https://sandbox.bio/training/embed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49303027\">https://news.ycombinator.com/item?id=49303027</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://sandbox.bio/training/embed",
+            "published": "Fri, 14 Aug 2026 18:51:27 +0000",
+            "fetched": "2026-08-14T22:35:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.12700\">https://arxiv.org/abs/2608.12700</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301417\">https://news.ycombinator.com/item?id=49301417</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2608.12700",
+            "published": "Fri, 14 Aug 2026 16:57:14 +0000",
+            "fetched": "2026-08-14T22:35:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Discrete Fourier Transform by Hand",
+            "description": "<p>Article URL: <a href=\"https://www.byhand.ai/p/28-discrete-fourier-transform\">https://www.byhand.ai/p/28-discrete-fourier-transform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49301342\">https://news.ycombinator.com/item?id=49301342</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+            "published": "Fri, 14 Aug 2026 16:52:46 +0000",
+            "fetched": "2026-08-14T22:35:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 17:42:00 GMT",
+            "fetched": "2026-08-14T22:35:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+            "description": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 14:50:02 GMT",
+            "fetched": "2026-08-14T22:35:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+            "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+            "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 18:25:38 GMT",
+            "fetched": "2026-08-14T22:35:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
+            "description": "Elon Musk earned 2.5 million times more than a Tesla worker&#039;s median pay in 2025, despite revenue and sales declines.",
+            "url": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 18:28:17 +0000",
+            "fetched": "2026-08-14T22:35:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
+            "description": "Luigi Mangione pleaded guilty to killing UnitedHealthcare CEO Brian Thompson in 2024.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 18:09:12 +0000",
+            "fetched": "2026-08-14T22:35:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19",
+            "description": "Organisers said on social media that Tarling died following a &#039;serious accident&#039; on the stage between Melgaco and Fafe.",
+            "url": "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 18:04:08 +0000",
+            "fetched": "2026-08-14T22:35:41+03:30"
+        }
+    ]
+}
