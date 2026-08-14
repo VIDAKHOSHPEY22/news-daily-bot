@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T16:53:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why does Opus 5 feel worse to work with?",
+            "description": "<p>Article URL: <a href=\"https://mun-logadan.github.io/why-does-opus-5-feel-worse/\">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296740\">https://news.ycombinator.com/item?id=49296740</a></p>\n<p>Points: 197</p>\n<p># Comments: 178</p>",
+            "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+            "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek peak/off-peak pricing update",
+            "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/news/news260813/\">https://api-docs.deepseek.com/news/news260813/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49296627\">https://news.ycombinator.com/item?id=49296627</a></p>\n<p>Points: 97</p>\n<p># Comments: 44</p>",
+            "url": "https://api-docs.deepseek.com/news/news260813/",
+            "published": "Fri, 14 Aug 2026 09:55:33 +0000",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+            "description": "<p>Article URL: <a href=\"https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain\">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49295238\">https://news.ycombinator.com/item?id=49295238</a></p>\n<p>Points: 50</p>\n<p># Comments: 13</p>",
+            "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+            "published": "Fri, 14 Aug 2026 06:09:04 +0000",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Government issues a temporary ban on the sale of disposable barbeques as they pose a \"significant risk to the public\".",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 13:20:11 GMT",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+            "description": "The investigation into a £5m gift received by Farage reopens, as he returns as the MP for Clacton.",
+            "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 11:20:52 GMT",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prisoners charged over attack on Sara Sharif's father",
+            "description": "Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 13:21:56 GMT",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US missionary kidnapped in Niger released after nine months in captivity",
+            "description": "Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 12:54:30 +0000",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
+            "description": "Thirteen countries have become members of the Saudi-led maritime alliance.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 12:45:11 +0000",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli soldiers prevent aid delivery to besieged Palestinians",
+            "description": "Israeli soldiers prevent aid delivery to besieged Palestinians",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 12:11:56 +0000",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T16:53:15+03:30"
+        }
+    ]
+}

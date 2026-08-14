@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 15:32:54
+**Last Update:** 2026-08-14 16:53:15
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://mun-logadan.github.io/why-does-opus-5-feel-worse/">https://mun-logadan.github.io/why-does-opus-5-feel-worse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296740">https://news.ycombinator.com/item?id=49296740</a></p>
-<p>Points: 92</p>
-<p># Comments: 95</p>
+<p>Points: 197</p>
+<p># Comments: 178</p>
 
 🔗 **Read more:** [https://mun-logadan.github.io/why-does-opus-5-feel-worse/](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://api-docs.deepseek.com/news/news260813/">https://api-docs.deepseek.com/news/news260813/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49296627">https://news.ycombinator.com/item?id=49296627</a></p>
-<p>Points: 56</p>
-<p># Comments: 21</p>
+<p>Points: 97</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://api-docs.deepseek.com/news/news260813/](https://api-docs.deepseek.com/news/news260813/)
 
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain">https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49295238">https://news.ycombinator.com/item?id=49295238</a></p>
-<p>Points: 42</p>
-<p># Comments: 10</p>
+<p>Points: 50</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
 
 ---
 
-### 4. Video shows scale of devastation in Stourbridge
+### 4. Temporary ban on sale of disposable BBQs over wildfire risk
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.
+Government issues a temporary ban on the sale of disposable barbeques as they pose a "significant risk to the public".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The investigation into a £5m gift received by Farage reopens, as he returns as 
 
 ---
 
-### 6. Farage's by-election victory won't stop questions about finances
+### 6. Prisoners charged over attack on Sara Sharif's father
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?
+Steven Sansom, 47, and Adam Watson, 39, are also charged with other offences relating to the Belmarsh Prison incident.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?
+### 7. US missionary kidnapped in Niger released after nine months in captivity
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.
+Kevin Rideout, a pilot with the evangelical missionary agency SIM International, was abducted in the capital, Niamey.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity?traffic_source=rss)
 
 ---
 
-### 8. Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link
+### 8. Saudi Arabia announces start of Red Sea defence alliance: Will it work?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester City&#039;s Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.
+Thirteen countries have become members of the Saudi-led maritime alliance.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss)
 
 ---
 
-### 9. US threatens ‘indefinite’ blockade against Iran: How long can it last?
+### 9. Israeli soldiers prevent aid delivery to besieged Palestinians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.
+Israeli soldiers prevent aid delivery to besieged Palestinians
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss)
 
 ---
 
