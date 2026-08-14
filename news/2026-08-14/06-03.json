@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-14T06:03:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bluesky Protocol Services",
+            "description": "<p>Article URL: <a href=\"https://atproto.com/blog/introducing-bluesky-protocol-services\">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293324\">https://news.ycombinator.com/item?id=49293324</a></p>\n<p>Points: 73</p>\n<p># Comments: 16</p>",
+            "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+            "published": "Fri, 14 Aug 2026 00:14:28 +0000",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SparrowMap – Cameras that watch government vehicles",
+            "description": "<p>Article URL: <a href=\"https://sparrowmap.com/\">https://sparrowmap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293294\">https://news.ycombinator.com/item?id=49293294</a></p>\n<p>Points: 44</p>\n<p># Comments: 9</p>",
+            "url": "https://sparrowmap.com/",
+            "published": "Fri, 14 Aug 2026 00:10:04 +0000",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Blog about things you don't understand yet",
+            "description": "<p>Article URL: <a href=\"https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/\">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49293087\">https://news.ycombinator.com/item?id=49293087</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+            "published": "Thu, 13 Aug 2026 23:39:33 +0000",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Multiple fires destroy homes and cause devastation in West Midlands",
+            "description": "The region's fire chief says the service took thousands of 999 calls across \"one of the most significant\" incidents in its history.",
+            "url": "https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 22:29:57 GMT",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
+            "description": "Multiple fires burned across the West Midlands and destroyed homes.",
+            "url": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 20:26:25 GMT",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two seriously hurt as passenger train derails in East Sussex",
+            "description": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
+            "url": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 21:36:39 GMT",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+            "description": "UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 02:21:29 +0000",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could Trump actually run for a third term as president?",
+            "description": "Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 02:12:23 +0000",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bodycam captures lightning striking metres from US police officers",
+            "description": "Bodycam video captured the moment lightning struck just metres from South Dakota Highway Patrol officers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss",
+            "published": "Fri, 14 Aug 2026 02:09:18 +0000",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-14T06:03:19+03:30"
+        }
+    ]
+}

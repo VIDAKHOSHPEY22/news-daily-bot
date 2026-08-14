@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 03:33:34
+**Last Update:** 2026-08-14 06:03:19
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How AI text watermarking works
+### 1. Bluesky Protocol Services
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://declaude.org/watermarking/">https://declaude.org/watermarking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292932">https://news.ycombinator.com/item?id=49292932</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://atproto.com/blog/introducing-bluesky-protocol-services">https://atproto.com/blog/introducing-bluesky-protocol-services</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293324">https://news.ycombinator.com/item?id=49293324</a></p>
+<p>Points: 73</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://declaude.org/watermarking/](https://declaude.org/watermarking/)
+🔗 **Read more:** [https://atproto.com/blog/introducing-bluesky-protocol-services](https://atproto.com/blog/introducing-bluesky-protocol-services)
 
 ---
 
-### 2. PBS loses 70 years of TV history after cloud storage vendor goes defunct
+### 2. SparrowMap – Cameras that watch government vehicles
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation">https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292843">https://news.ycombinator.com/item?id=49292843</a></p>
-<p>Points: 29</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://sparrowmap.com/">https://sparrowmap.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293294">https://news.ycombinator.com/item?id=49293294</a></p>
+<p>Points: 44</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
+🔗 **Read more:** [https://sparrowmap.com/](https://sparrowmap.com/)
 
 ---
 
-### 3. NP-Overrated
+### 3. Blog about things you don't understand yet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 109</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/">https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49293087">https://news.ycombinator.com/item?id=49293087</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
+🔗 **Read more:** [https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/](https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/)
 
 ---
 
@@ -97,42 +97,42 @@ Multiple fires burned across the West Midlands and destroyed homes.
 
 ---
 
-### 7. Gaza City police chief killed as Israel pushes on with deadly strikes
+### 7. UN, Palestinian ministry condemn Israeli settler siege of West Bank homes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.
+UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss)
 
 ---
 
-### 8. Tate supporters rally for brothers ahead of bail hearing in Miami
+### 8. Could Trump actually run for a third term as president?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre ahead of their bail hearing.
+Donald Trump says the law stopping him from seeking a third presidential term is ‘very strong’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/could-trump-actually-run-for-a-third-term-as-president?traffic_source=rss)
 
 ---
 
-### 9. Israeli strikes in Gaza kill two, including police chief
+### 9. Bodycam captures lightning striking metres from US police officers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.
+Bodycam video captured the moment lightning struck just metres from South Dakota Highway Patrol officers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-s-dakota-lightning-clip?traffic_source=rss)
 
 ---
 
