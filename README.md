@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-14 03:21:26
+**Last Update:** 2026-08-14 03:33:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. NP-Overrated
+### 1. How AI text watermarking works
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://declaude.org/watermarking/">https://declaude.org/watermarking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292932">https://news.ycombinator.com/item?id=49292932</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://declaude.org/watermarking/](https://declaude.org/watermarking/)
+
+---
+
+### 2. PBS loses 70 years of TV history after cloud storage vendor goes defunct
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation">https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49292843">https://news.ycombinator.com/item?id=49292843</a></p>
+<p>Points: 29</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation](https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation)
+
+---
+
+### 3. NP-Overrated
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://gruhn.me/blog/2026-08-13/">https://gruhn.me/blog/2026-08-13/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49291268">https://news.ycombinator.com/item?id=49291268</a></p>
-<p>Points: 103</p>
-<p># Comments: 51</p>
+<p>Points: 109</p>
+<p># Comments: 57</p>
 
 🔗 **Read more:** [https://gruhn.me/blog/2026-08-13/](https://gruhn.me/blog/2026-08-13/)
-
----
-
-### 2. How Gödel's Proof Works (2020)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/how-godels-proof-works-20200714/">https://www.quantamagazine.org/how-godels-proof-works-20200714/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290969">https://news.ycombinator.com/item?id=49290969</a></p>
-<p>Points: 53</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://www.quantamagazine.org/how-godels-proof-works-20200714/](https://www.quantamagazine.org/how-godels-proof-works-20200714/)
-
----
-
-### 3. How Organizations Use AI: Evidence from ChatGPT [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf">https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49290768">https://news.ycombinator.com/item?id=49290768</a></p>
-<p>Points: 51</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf](https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf)
 
 ---
 
