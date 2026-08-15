@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T17:06:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Brazilian election filter in X For You timeline",
+            "description": "<p>Article URL: <a href=\"https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs\">https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310291\">https://news.ycombinator.com/item?id=49310291</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+            "published": "Sat, 15 Aug 2026 13:18:27 +0000",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "388 years ago, Galileo worked out why human giants can't exist",
+            "description": "<p>Article URL: <a href=\"https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/\">https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310277\">https://news.ycombinator.com/item?id=49310277</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+            "published": "Sat, 15 Aug 2026 13:15:48 +0000",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+            "description": "<p>Article URL: <a href=\"https://medicalxpress.com/news/2026-07-brain-rem-eeg.html\">https://medicalxpress.com/news/2026-07-brain-rem-eeg.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310248\">https://news.ycombinator.com/item?id=49310248</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+            "published": "Sat, 15 Aug 2026 13:09:28 +0000",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham said the former Cambridge professor's death was a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 11:06:39 GMT",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "The academic's Cambridge appointment in 2023 drew worldwide attention",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 11:21:10 GMT",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+            "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:35:57 GMT",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Afghans mark five years of Taliban rule",
+            "description": "Afghans have gathered in Kabul to mark five years since the Taliban returned to power.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 13:12:51 +0000",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Black professor at centre of Cambridge plagiarism row found dead",
+            "description": "Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 13:11:31 +0000",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Vienna woman sues city for discrimination over toilet fees",
+            "description": "An Austrian activist in Vienna is challenging the city over public toilet fees.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 13:01:31 +0000",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T17:06:21+03:30"
+        }
+    ]
+}
