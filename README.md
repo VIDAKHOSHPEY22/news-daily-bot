@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 01:59:31
+**Last Update:** 2026-08-16 02:13:29
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bede Liu, a digital signal processing pioneer, has died
+### 1. Engineers will do anything to avoid learning from history
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/">https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314744">https://news.ycombinator.com/item?id=49314744</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/](https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/)
+
+---
+
+### 2. Modeling and Verification of Keeta's Consensus [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://xescu.re/keeta-consensus.pdf">https://xescu.re/keeta-consensus.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314642">https://news.ycombinator.com/item?id=49314642</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://xescu.re/keeta-consensus.pdf](https://xescu.re/keeta-consensus.pdf)
+
+---
+
+### 3. Bede Liu, a digital signal processing pioneer, has died
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/digital-signal-processing">https://spectrum.ieee.org/digital-signal-processing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314615">https://news.ycombinator.com/item?id=49314615</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/digital-signal-processing](https://spectrum.ieee.org/digital-signal-processing)
-
----
-
-### 2. The Wow signal was a strong narrowband radio signal detected on August 15, 1977
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wow!_signal">https://en.wikipedia.org/wiki/Wow!_signal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314596">https://news.ycombinator.com/item?id=49314596</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Wow!_signal](https://en.wikipedia.org/wiki/Wow!_signal)
-
----
-
-### 3. No-New-Physics Consciousness
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.overcomingbias.com/p/no-new-physics-consciousness">https://www.overcomingbias.com/p/no-new-physics-consciousness</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314567">https://news.ycombinator.com/item?id=49314567</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.overcomingbias.com/p/no-new-physics-consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
 
 ---
 
@@ -97,7 +97,20 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. Why is the latest Ebola outbreak worsening?
+### 7. US Democrats finalise major shakeup to 2028 presidential primary calendar
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss)
+
+---
+
+### 8. Why is the latest Ebola outbreak worsening?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Virus spreading in DRC faster than containment efforts.
 
 ---
 
-### 8. Qatar denies it is detaining three Iranian bomber pilots
+### 9. Qatar denies it is detaining three Iranian bomber pilots
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Virus spreading in DRC faster than containment efforts.
 Iran says Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss)
-
----
-
-### 9. California tackles multiple wildfires as firefighter workforce faces strain
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss)
 
 ---
 
