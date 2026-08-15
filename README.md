@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 14:57:38
+**Last Update:** 2026-08-15 15:10:05
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
+### 1. Debian has begun voting on the future of AI/LLM contributions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
+
+---
+
+### 2. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://uecker.codeberg.page/2026-07-14.html">https://uecker.codeberg.page/2026-07-14.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308685">https://news.ycombinator.com/item?id=49308685</a></p>
-<p>Points: 25</p>
+<p>Points: 26</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://uecker.codeberg.page/2026-07-14.html](https://uecker.codeberg.page/2026-07-14.html)
 
 ---
 
-### 2. Suspecting court of using AI, man injected prompts in filings to try to win case
+### 3. Suspecting court of using AI, man injected prompts in filings to try to win case
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308553">https://news.ycombinator.com/item?id=49308553</a></p>
-<p>Points: 37</p>
-<p># Comments: 27</p>
+<p>Points: 40</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
-
----
-
-### 3. Show HN: ThoughtDAG – An editable context graph for LLM conversations
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://chenxiachan.github.io/thoughtdag/">https://chenxiachan.github.io/thoughtdag/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307700">https://news.ycombinator.com/item?id=49307700</a></p>
-<p>Points: 45</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://chenxiachan.github.io/thoughtdag/](https://chenxiachan.github.io/thoughtdag/)
 
 ---
 
@@ -97,42 +97,42 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. What the Taliban achieved and failed to achieve in five years
+### 7. Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Taliban government brought security and stability but is facing increasing alienation of the general population.
+Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss)
 
 ---
 
-### 8. World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona
+### 8. Modi threatens to target ‘intellectual Naxals’ in Independence Day speech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five-year deal.
+The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss)
 
 ---
 
-### 9. Arsenal vs Manchester City: Community Shield – prediction, lineups, teams
+### 9. Aftermath of deadly Indonesia earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Premier League winners Arsenal and FA Cup holders Man City prepare to trade blows as English top-flight season nears.
+Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss)
 
 ---
 
