@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 01:10:26
+**Last Update:** 2026-08-16 01:59:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cultivating a state of mind where new ideas are born (2023)
+### 1. Bede Liu, a digital signal processing pioneer, has died
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.henrikkarlsson.xyz/p/good-ideas">https://www.henrikkarlsson.xyz/p/good-ideas</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314235">https://news.ycombinator.com/item?id=49314235</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://spectrum.ieee.org/digital-signal-processing">https://spectrum.ieee.org/digital-signal-processing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314615">https://news.ycombinator.com/item?id=49314615</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.henrikkarlsson.xyz/p/good-ideas](https://www.henrikkarlsson.xyz/p/good-ideas)
+🔗 **Read more:** [https://spectrum.ieee.org/digital-signal-processing](https://spectrum.ieee.org/digital-signal-processing)
 
 ---
 
-### 2. Why tech bosses keep sharing their manifestos about AI
+### 2. The Wow signal was a strong narrowband radio signal detected on August 15, 1977
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cz97ljy91zxo">https://www.bbc.com/news/articles/cz97ljy91zxo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313519">https://news.ycombinator.com/item?id=49313519</a></p>
-<p>Points: 14</p>
-<p># Comments: 31</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Wow!_signal">https://en.wikipedia.org/wiki/Wow!_signal</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314596">https://news.ycombinator.com/item?id=49314596</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cz97ljy91zxo](https://www.bbc.com/news/articles/cz97ljy91zxo)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Wow!_signal](https://en.wikipedia.org/wiki/Wow!_signal)
 
 ---
 
-### 3. Israeli PR wants to answer your ChatGPT questions
+### 3. No-New-Physics Consciousness
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138">https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313477">https://news.ycombinator.com/item?id=49313477</a></p>
-<p>Points: 35</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.overcomingbias.com/p/no-new-physics-consciousness">https://www.overcomingbias.com/p/no-new-physics-consciousness</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314567">https://news.ycombinator.com/item?id=49314567</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138](https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138)
+🔗 **Read more:** [https://www.overcomingbias.com/p/no-new-physics-consciousness](https://www.overcomingbias.com/p/no-new-physics-consciousness)
 
 ---
 
@@ -97,7 +97,20 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. Qatar denies it is detaining three Iranian bomber pilots
+### 7. Why is the latest Ebola outbreak worsening?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Virus spreading in DRC faster than containment efforts.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss)
+
+---
+
+### 8. Qatar denies it is detaining three Iranian bomber pilots
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Iran says Qatar is holding three pilots who were shot down in March. Doha decrie
 
 ---
 
-### 8. California tackles multiple wildfires as firefighter workforce faces strain
+### 9. California tackles multiple wildfires as firefighter workforce faces strain
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Iran says Qatar is holding three pilots who were shot down in March. Doha decrie
 The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss)
-
----
-
-### 9. Canadian petition to expel US ambassador gains over 170,000 signatures
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss)
 
 ---
 
