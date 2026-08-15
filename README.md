@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 09:01:33
+**Last Update:** 2026-08-15 09:16:49
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Rent vs. buy, backtested across 241 US metros with pinned data
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/assumptionsshown/RunTheNumbers">https://github.com/assumptionsshown/RunTheNumbers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307653">https://news.ycombinator.com/item?id=49307653</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/assumptionsshown/RunTheNumbers](https://github.com/assumptionsshown/RunTheNumbers)
-
----
-
-### 2. The other Sean Byrne doesn't exist
+### 1. The other Sean Byrne doesn't exist
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307592">https://news.ycombinator.com/item?id=49307592</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://conic.al/writing/the-other-sean-byrne-doesnt-exist/](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 
 ---
 
-### 3. AI Driven Testing
+### 2. AI Driven Testing
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
-<p>Points: 15</p>
+<p>Points: 18</p>
 <p># Comments: 7</p>
 
 🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
+
+---
+
+### 3. Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
+<p>Points: 158</p>
+<p># Comments: 30</p>
+
+🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
 ---
 
