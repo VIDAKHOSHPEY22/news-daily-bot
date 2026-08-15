@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 19:11:03
+**Last Update:** 2026-08-15 20:03:25
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Secondhand book sales are booming. Is it because of AI?
+### 1. AI Can Now Design Functional Viruses. Should We Worry?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310725">https://news.ycombinator.com/item?id=49310725</a></p>
-<p>Points: 32</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://spectrum.ieee.org/ai-designed-virus">https://spectrum.ieee.org/ai-designed-virus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49311445">https://news.ycombinator.com/item?id=49311445</a></p>
+<p>Points: 27</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3rprx2wl4o](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
+🔗 **Read more:** [https://spectrum.ieee.org/ai-designed-virus](https://spectrum.ieee.org/ai-designed-virus)
 
 ---
 
-### 2. The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis
+### 2. The AI Situation in Software Development
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://srikanth.ch/posts/the-ai-situation/">https://srikanth.ch/posts/the-ai-situation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310755">https://news.ycombinator.com/item?id=49310755</a></p>
+<p>Points: 27</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://srikanth.ch/posts/the-ai-situation/](https://srikanth.ch/posts/the-ai-situation/)
+
+---
+
+### 3. The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/">https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310682">https://news.ycombinator.com/item?id=49310682</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 66</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
-
----
-
-### 3. Writergate: Zig I/O Interface Overhaul
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://alexrios.me/blog/writergate/">https://alexrios.me/blog/writergate/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310623">https://news.ycombinator.com/item?id=49310623</a></p>
-<p>Points: 24</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://alexrios.me/blog/writergate/](https://alexrios.me/blog/writergate/)
 
 ---
 
@@ -84,20 +84,46 @@ Barely 1% of professors at UK universities are black, so he was joining a small 
 
 ---
 
-### 6. Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia
+### 6. Fire services stretched as residents still not home
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.
+Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests
+### 7. Ukraine hits Russian Starlink-style network, Moscow tracks arms package
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss)
+
+---
+
+### 8. Israeli settlers besiege Palestinian families in occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss)
+
+---
+
+### 9. Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 A decade ago, student leaders were jailed for shouting &#039;Azadi&#039;, which means freedom.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss](https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss)
-
----
-
-### 8. How blind football is helping women overcome barriers in Mexico
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mexico is sending its first blind women&#039;s football team to compete in an international tournament. Players cannot wait.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss)
-
----
-
-### 9. The next Yemen war might be different
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Drones are no longer the advantage for only one side.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss](https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T20:03:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-designed-virus\">https://spectrum.ieee.org/ai-designed-virus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49311445\">https://news.ycombinator.com/item?id=49311445</a></p>\n<p>Points: 27</p>\n<p># Comments: 19</p>",
+            "url": "https://spectrum.ieee.org/ai-designed-virus",
+            "published": "Sat, 15 Aug 2026 15:32:25 +0000",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI Situation in Software Development",
+            "description": "<p>Article URL: <a href=\"https://srikanth.ch/posts/the-ai-situation/\">https://srikanth.ch/posts/the-ai-situation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310755\">https://news.ycombinator.com/item?id=49310755</a></p>\n<p>Points: 27</p>\n<p># Comments: 21</p>",
+            "url": "https://srikanth.ch/posts/the-ai-situation/",
+            "published": "Sat, 15 Aug 2026 14:12:27 +0000",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+            "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/\">https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310682\">https://news.ycombinator.com/item?id=49310682</a></p>\n<p>Points: 66</p>\n<p># Comments: 17</p>",
+            "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+            "published": "Sat, 15 Aug 2026 14:04:49 +0000",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:56:30 GMT",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:48:38 GMT",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fire services stretched as residents still not home",
+            "description": "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 16:08:57 GMT",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+            "description": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 15:50:06 +0000",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
+            "description": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 15:48:07 +0000",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+            "description": "A decade ago, student leaders were jailed for shouting &#039;Azadi&#039;, which means freedom.",
+            "url": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 15:25:51 +0000",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D32",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+            "published": "2022-10-21T00:00:00Z",
+            "fetched": "2026-08-15T20:03:25+03:30"
+        }
+    ]
+}
