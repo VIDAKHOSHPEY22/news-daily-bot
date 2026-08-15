@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-15T18:00:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Secondhand book sales are booming. Is it because of AI?",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cp3rprx2wl4o\">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310725\">https://news.ycombinator.com/item?id=49310725</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+            "published": "Sat, 15 Aug 2026 14:08:55 +0000",
+            "fetched": "2026-08-15T18:00:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+            "description": "<p>Hi! This is my little project introducing quasicrystals animations with some parameters. It uses a custom shader to allow higher resolution.<p>Not all combinations look equally good. For example the \"Spectrum\" color palette IMO makes sense only for low values of \"Tempo\" and \"Pattern Density\".<p>If you have VR googles, I recommend trying the WebXR version - it's really nice.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310533\">https://news.ycombinator.com/item?id=49310533</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://hypnagogic-quasicrystals.github.io/",
+            "published": "Sat, 15 Aug 2026 13:48:43 +0000",
+            "fetched": "2026-08-15T18:00:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+            "description": "<p>Article URL: <a href=\"http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html\">http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310495\">https://news.ycombinator.com/item?id=49310495</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+            "published": "Sat, 15 Aug 2026 13:43:46 +0000",
+            "fetched": "2026-08-15T18:00:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:56:30 GMT",
+            "fetched": "2026-08-15T18:00:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:48:38 GMT",
+            "fetched": "2026-08-15T18:00:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+            "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:35:57 GMT",
+            "fetched": "2026-08-15T18:00:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Afghans mark five years of Taliban rule",
+            "description": "Afghans have gathered in Kabul to mark five years since the Taliban returned to power.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 13:12:51 +0000",
+            "fetched": "2026-08-15T18:00:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Black professor at centre of Cambridge plagiarism row found dead",
+            "description": "Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 13:11:31 +0000",
+            "fetched": "2026-08-15T18:00:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Vienna woman sues city for discrimination over toilet fees",
+            "description": "An Austrian activist in Vienna is challenging the city over public toilet fees.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 13:01:31 +0000",
+            "fetched": "2026-08-15T18:00:29+03:30"
+        }
+    ]
+}
