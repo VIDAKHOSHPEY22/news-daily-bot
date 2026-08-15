@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 13:59:56
+**Last Update:** 2026-08-15 14:14:18
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
+### 1. Debian has begun voting on the future of AI/LLM contributions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
+
+---
+
+### 2. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://uecker.codeberg.page/2026-07-14.html">https://uecker.codeberg.page/2026-07-14.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308685">https://news.ycombinator.com/item?id=49308685</a></p>
-<p>Points: 4</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://uecker.codeberg.page/2026-07-14.html](https://uecker.codeberg.page/2026-07-14.html)
 
 ---
 
-### 2. Suspecting court of using AI, man injected prompts in filings to try to win case
+### 3. Suspecting court of using AI, man injected prompts in filings to try to win case
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308553">https://news.ycombinator.com/item?id=49308553</a></p>
-<p>Points: 22</p>
-<p># Comments: 15</p>
+<p>Points: 28</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
-
----
-
-### 3. Ask HN: How do you keep up with HN these days?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.<p>How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308059">https://news.ycombinator.com/item?id=49308059</a></p>
-<p>Points: 35</p>
-<p># Comments: 61</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49308059](https://news.ycombinator.com/item?id=49308059)
 
 ---
 

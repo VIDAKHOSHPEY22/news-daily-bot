@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T14:14:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Debian has begun voting on the future of AI/LLM contributions",
+            "description": "<p>Article URL: <a href=\"https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html\">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309050\">https://news.ycombinator.com/item?id=49309050</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+            "published": "Sat, 15 Aug 2026 09:20:07 +0000",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+            "description": "<p>Article URL: <a href=\"https://uecker.codeberg.page/2026-07-14.html\">https://uecker.codeberg.page/2026-07-14.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308685\">https://news.ycombinator.com/item?id=49308685</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://uecker.codeberg.page/2026-07-14.html",
+            "published": "Sat, 15 Aug 2026 07:59:42 +0000",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/\">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308553\">https://news.ycombinator.com/item?id=49308553</a></p>\n<p>Points: 28</p>\n<p># Comments: 18</p>",
+            "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+            "published": "Sat, 15 Aug 2026 07:31:46 +0000",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+            "description": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 10:14:59 GMT",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 03:58:31 GMT",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+            "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 08:52:55 GMT",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh rock Australia as historic Test win in sight",
+            "description": "Australia close Day Three of the first Test against Bangladesh on 161-4, trailing the record-chasing tourists by 67.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 08:50:56 +0000",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
+            "description": "World Athletics&#039; president says political influence in sport must be kept in check with LA Olympics on horizon.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 08:44:36 +0000",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
+            "description": "Seven-time Grand Slam winner Venus Williams defeated 6-2, 6-2 by Emiliana Arango in the first round of Cincinnati Open.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 08:32:07 +0000",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T14:14:18+03:30"
+        }
+    ]
+}
