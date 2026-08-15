@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 07:19:19
+**Last Update:** 2026-08-15 07:28:55
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 6</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 104</p>
-<p># Comments: 18</p>
+<p>Points: 122</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 44</p>
-<p># Comments: 27</p>
+<p>Points: 50</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 
@@ -84,7 +84,7 @@ The prime minister said 37 fires were currently burning across England and Wales
 
 ---
 
-### 6. Temporary ban on sale of disposable BBQs over wildfire risk
+### 6. Temporary ban on disposable BBQs as military deployed to help battle wildfires
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. India marks 80th Independence Day with military display
+### 7. Did the US really destroy Iran’s ballistic missile capability?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss)
+
+---
+
+### 8. India marks 80th Independence Day with military display
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ India marked its 80th Independence Day at Delhi’s historic Red Fort.
 
 ---
 
-### 8. HRW says US civil rights enforcement reduced under Trump: What to know
+### 9. HRW says US civil rights enforcement reduced under Trump: What to know
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ India marked its 80th Independence Day at Delhi’s historic Red Fort.
 A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss)
-
----
-
-### 9. US President Trump says he will declare Strait of Hormuz US territory
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss)
 
 ---
 
