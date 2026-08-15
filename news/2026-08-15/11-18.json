@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T11:18:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"That's not SOC 2 compliant\"",
+            "description": "<p>Article URL: <a href=\"https://ampcode.com/notes/thats-not-soc-2-compliant\">https://ampcode.com/notes/thats-not-soc-2-compliant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308073\">https://news.ycombinator.com/item?id=49308073</a></p>\n<p>Points: 36</p>\n<p># Comments: 16</p>",
+            "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+            "published": "Sat, 15 Aug 2026 06:01:19 +0000",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+            "description": "<p>Article URL: <a href=\"https://chenxiachan.github.io/thoughtdag/\">https://chenxiachan.github.io/thoughtdag/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307700\">https://news.ycombinator.com/item?id=49307700</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://chenxiachan.github.io/thoughtdag/",
+            "published": "Sat, 15 Aug 2026 04:42:07 +0000",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The other Sean Byrne doesn't exist",
+            "description": "<p>Article URL: <a href=\"https://conic.al/writing/the-other-sean-byrne-doesnt-exist/\">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307592\">https://news.ycombinator.com/item?id=49307592</a></p>\n<p>Points: 74</p>\n<p># Comments: 18</p>",
+            "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+            "published": "Sat, 15 Aug 2026 04:18:44 +0000",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 01:41:24 GMT",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fires prompt national alert as 19 homes destroyed",
+            "description": "The prime minister said 37 fires were currently burning across England and Wales",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 02:54:04 GMT",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 03:58:31 GMT",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
+            "description": "Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA&#039;s Gianni Infantino &#039;it&#039;s just politics&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 07:27:59 +0000",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
+            "description": "Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 07:27:32 +0000",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+            "description": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 07:18:13 +0000",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T11:18:58+03:30"
+        }
+    ]
+}
