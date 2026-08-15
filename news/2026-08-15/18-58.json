@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T18:58:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Secondhand book sales are booming. Is it because of AI?",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cp3rprx2wl4o\">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310725\">https://news.ycombinator.com/item?id=49310725</a></p>\n<p>Points: 30</p>\n<p># Comments: 27</p>",
+            "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+            "published": "Sat, 15 Aug 2026 14:08:55 +0000",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+            "description": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/\">https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310682\">https://news.ycombinator.com/item?id=49310682</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+            "published": "Sat, 15 Aug 2026 14:04:49 +0000",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Writergate: Zig I/O Interface Overhaul",
+            "description": "<p>Article URL: <a href=\"https://alexrios.me/blog/writergate/\">https://alexrios.me/blog/writergate/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310623\">https://news.ycombinator.com/item?id=49310623</a></p>\n<p>Points: 24</p>\n<p># Comments: 8</p>",
+            "url": "https://alexrios.me/blog/writergate/",
+            "published": "Sat, 15 Aug 2026 13:59:47 +0000",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:56:30 GMT",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:48:38 GMT",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+            "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:35:57 GMT",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How blind football is helping women overcome barriers in Mexico",
+            "description": "Mexico is sending its first blind women&#039;s football team to compete in an international tournament. Players cannot wait.",
+            "url": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 15:15:45 +0000",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The next Yemen war might be different",
+            "description": "Drones are no longer the advantage for only one side.",
+            "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 14:32:07 +0000",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Afghans mark five years of Taliban rule",
+            "description": "Afghans have gathered in Kabul to mark five years since the Taliban returned to power.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 13:12:51 +0000",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D32",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+            "published": "2022-10-21T00:00:00Z",
+            "fetched": "2026-08-15T18:58:25+03:30"
+        }
+    ]
+}
