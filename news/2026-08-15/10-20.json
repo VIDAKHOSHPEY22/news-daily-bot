@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T10:20:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"That's not SoC 2 compliant\"",
+            "description": "<p>Article URL: <a href=\"https://ampcode.com/notes/thats-not-soc-2-compliant\">https://ampcode.com/notes/thats-not-soc-2-compliant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308073\">https://news.ycombinator.com/item?id=49308073</a></p>\n<p>Points: 16</p>\n<p># Comments: 9</p>",
+            "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+            "published": "Sat, 15 Aug 2026 06:01:19 +0000",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: How do you keep up with HN these days?",
+            "description": "<p>In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.<p>How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308059\">https://news.ycombinator.com/item?id=49308059</a></p>\n<p>Points: 17</p>\n<p># Comments: 21</p>",
+            "url": "https://news.ycombinator.com/item?id=49308059",
+            "published": "Sat, 15 Aug 2026 05:59:12 +0000",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+            "description": "<p>Article URL: <a href=\"https://chenxiachan.github.io/thoughtdag/\">https://chenxiachan.github.io/thoughtdag/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307700\">https://news.ycombinator.com/item?id=49307700</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://chenxiachan.github.io/thoughtdag/",
+            "published": "Sat, 15 Aug 2026 04:42:07 +0000",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 01:41:24 GMT",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fires prompt national alert as 19 homes destroyed",
+            "description": "The prime minister said 37 fires were currently burning across England and Wales",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 02:54:04 GMT",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 03:58:31 GMT",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+            "description": "Greenhouses and rented plots are lifelines for Gaza&#039;s farmers, helping them grow crops despite the extensive destruction",
+            "url": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 06:10:07 +0000",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+            "description": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 05:14:40 +0000",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+            "description": "Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 04:54:53 +0000",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T10:20:59+03:30"
+        }
+    ]
+}
