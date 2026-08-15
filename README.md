@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 22:22:16
+**Last Update:** 2026-08-15 22:56:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312845">https://news.ycombinator.com/item?id=49312845</a></p>
-<p>Points: 53</p>
-<p># Comments: 41</p>
+<p>Points: 134</p>
+<p># Comments: 93</p>
 
 🔗 **Read more:** [https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
 
 ---
 
-### 3. TreasuryDirect: Prepare for ID.me – Your New Way to Log In
+### 3. Thunderbird's Desktop Calendar Visual Redesign
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.treasurydirect.gov/savings-bonds/idme-one-month/">https://www.treasurydirect.gov/savings-bonds/idme-one-month/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312465">https://news.ycombinator.com/item?id=49312465</a></p>
-<p>Points: 20</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/">https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312823">https://news.ycombinator.com/item?id=49312823</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.treasurydirect.gov/savings-bonds/idme-one-month/](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
+🔗 **Read more:** [https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 
 ---
 
@@ -84,7 +84,7 @@ Barely 1% of professors at UK universities are black, so he was joining a small 
 
 ---
 
-### 6. Fire services stretched as residents still not home
+### 6. Major incidents across UK put firefighters under 'incredible pressure', fire chief says
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 
 ---
 
-### 7. Cleanup underway as Russian oil spill reaches Oman’s coastline
+### 7. Death toll from Zimbabwe ferry disaster rises to 69
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Police say 23 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss)
+
+---
+
+### 8. La Liga: Real Madrid key talking points heading into new 2026-27 season
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss)
+
+---
+
+### 9. Cleanup underway as Russian oil spill reaches Oman’s coastline
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss)
-
----
-
-### 8. US aircraft carrier expected to relieve USS Lincoln in Middle East
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss)
-
----
-
-### 9. Inter Milan sign England’s Djed Spence from Tottenham Hotspur
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss)
 
 ---
 
@@ -149,29 +149,29 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Iceberg C39
+### 11. Tropical Storm Nangka
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
 
 ---
 
-### 12. Iceberg D32
+### 12. Tropical Storm Lala
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
 
 ---
 
