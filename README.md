@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 05:13:03
+**Last Update:** 2026-08-15 05:23:53
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -97,7 +97,20 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Mangione pleads guilty as polarising CEO killing reaches new phase
+### 7. At least two killed as magnitude 7.7 quake hits Indonesia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss)
+
+---
+
+### 8. Mangione pleads guilty as polarising CEO killing reaches new phase
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Luigi Mangione pleaded guilty to federal charges over the fatal shooting of Unit
 
 ---
 
-### 8. Buenaventura residents criticise state neglect after Colombia’s earthquake
+### 9. Buenaventura residents criticise state neglect after Colombia’s earthquake
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Luigi Mangione pleaded guilty to federal charges over the fatal shooting of Unit
 Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss)
-
----
-
-### 9. Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil&#039;s high-stakes presidential election.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss)
 
 ---
 
