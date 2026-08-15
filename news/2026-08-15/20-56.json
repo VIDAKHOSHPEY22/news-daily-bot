@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T20:56:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+            "description": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-02448-x\">https://www.nature.com/articles/d41586-026-02448-x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312008\">https://news.ycombinator.com/item?id=49312008</a></p>\n<p>Points: 27</p>\n<p># Comments: 0</p>",
+            "url": "https://www.nature.com/articles/d41586-026-02448-x",
+            "published": "Sat, 15 Aug 2026 16:38:34 +0000",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+            "description": "<p>Article URL: <a href=\"https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432\">https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49311651\">https://news.ycombinator.com/item?id=49311651</a></p>\n<p>Points: 39</p>\n<p># Comments: 10</p>",
+            "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+            "published": "Sat, 15 Aug 2026 15:58:53 +0000",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Spectre Is Haunting Unicode",
+            "description": "<p>Article URL: <a href=\"https://www.dampfkraft.com/ghost-characters.html\">https://www.dampfkraft.com/ghost-characters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310926\">https://news.ycombinator.com/item?id=49310926</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+            "url": "https://www.dampfkraft.com/ghost-characters.html",
+            "published": "Sat, 15 Aug 2026 14:34:04 +0000",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:56:30 GMT",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:48:38 GMT",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fire services stretched as residents still not home",
+            "description": "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 16:08:57 GMT",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+            "description": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 16:39:52 +0000",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One killed, dozens injured after wildfire hits Croatian coast",
+            "description": "At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 16:33:05 +0000",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+            "description": "Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 16:17:43 +0000",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D32",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+            "published": "2022-10-21T00:00:00Z",
+            "fetched": "2026-08-15T20:56:51+03:30"
+        }
+    ]
+}
