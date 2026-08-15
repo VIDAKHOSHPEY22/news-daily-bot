@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 05:23:53
+**Last Update:** 2026-08-15 06:29:04
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 68</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Points: 30</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 
 ---
 
-### 3. Simplifying and Refactoring Introductory Calculus
+### 3. NSA and IETF, Part 9
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/1811.03459">https://arxiv.org/abs/1811.03459</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306196">https://news.ycombinator.com/item?id=49306196</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://blog.cr.yp.to/20260814-update.html">https://blog.cr.yp.to/20260814-update.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306432">https://news.ycombinator.com/item?id=49306432</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/1811.03459](https://arxiv.org/abs/1811.03459)
+🔗 **Read more:** [https://blog.cr.yp.to/20260814-update.html](https://blog.cr.yp.to/20260814-update.html)
 
 ---
 
@@ -97,42 +97,42 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. At least two killed as magnitude 7.7 quake hits Indonesia
+### 7. US President Trump says he will declare Strait of Hormuz US territory
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.
+US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss)
 
 ---
 
-### 8. Mangione pleads guilty as polarising CEO killing reaches new phase
+### 8. Venezuela says 131 political prisoners freed amid post-Maduro talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.
+As detainees granted &#039;alternative&#039; to imprisonment, US welcomes release as crucial step for Venezuela&#039;s reconciliation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss)
 
 ---
 
-### 9. Buenaventura residents criticise state neglect after Colombia’s earthquake
+### 9. 7.7-magnitude earthquake strikes eastern Indonesia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.
+A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss)
 
 ---
 

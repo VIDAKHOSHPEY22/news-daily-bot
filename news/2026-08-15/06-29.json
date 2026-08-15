@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T06:29:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+            "description": "<p>Article URL: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive\">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306577\">https://news.ycombinator.com/item?id=49306577</a></p>\n<p>Points: 68</p>\n<p># Comments: 14</p>",
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+            "published": "Sat, 15 Aug 2026 01:14:05 +0000",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Ploopy A+ Trackball Is Here",
+            "description": "<p>Article URL: <a href=\"https://blog.ploopy.co/the-aplus-is-finally-here-499\">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306443\">https://news.ycombinator.com/item?id=49306443</a></p>\n<p>Points: 30</p>\n<p># Comments: 18</p>",
+            "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+            "published": "Sat, 15 Aug 2026 00:55:31 +0000",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NSA and IETF, Part 9",
+            "description": "<p>Article URL: <a href=\"https://blog.cr.yp.to/20260814-update.html\">https://blog.cr.yp.to/20260814-update.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306432\">https://news.ycombinator.com/item?id=49306432</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://blog.cr.yp.to/20260814-update.html",
+            "published": "Sat, 15 Aug 2026 00:54:01 +0000",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 01:41:24 GMT",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fires prompt national alert as 19 homes destroyed",
+            "description": "The prime minister said 37 fires were currently burning across England and Wales",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 02:54:04 GMT",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US President Trump says he will declare Strait of Hormuz US territory",
+            "description": "US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 02:25:09 +0000",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
+            "description": "As detainees granted &#039;alternative&#039; to imprisonment, US welcomes release as crucial step for Venezuela&#039;s reconciliation.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 02:08:02 +0000",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+            "description": "A powerful 7.7-magnitude earthquake struck eastern Indonesia, damaging buildings and sending residents to higher ground.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 02:03:22 +0000",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T06:29:04+03:30"
+        }
+    ]
+}
