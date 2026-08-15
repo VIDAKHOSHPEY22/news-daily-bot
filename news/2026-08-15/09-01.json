@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T09:01:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Rent vs. buy, backtested across 241 US metros with pinned data",
+            "description": "<p>Article URL: <a href=\"https://github.com/assumptionsshown/RunTheNumbers\">https://github.com/assumptionsshown/RunTheNumbers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307653\">https://news.ycombinator.com/item?id=49307653</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/assumptionsshown/RunTheNumbers",
+            "published": "Sat, 15 Aug 2026 04:31:03 +0000",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The other Sean Byrne doesn't exist",
+            "description": "<p>Article URL: <a href=\"https://conic.al/writing/the-other-sean-byrne-doesnt-exist/\">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307592\">https://news.ycombinator.com/item?id=49307592</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+            "published": "Sat, 15 Aug 2026 04:18:44 +0000",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Driven Testing",
+            "description": "<p>Article URL: <a href=\"https://app.deltix.ai\">https://app.deltix.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307099\">https://news.ycombinator.com/item?id=49307099</a></p>\n<p>Points: 15</p>\n<p># Comments: 7</p>",
+            "url": "https://app.deltix.ai",
+            "published": "Sat, 15 Aug 2026 02:42:14 +0000",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 01:41:24 GMT",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fires prompt national alert as 19 homes destroyed",
+            "description": "The prime minister said 37 fires were currently burning across England and Wales",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 02:54:04 GMT",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 03:58:31 GMT",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+            "description": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 05:14:40 +0000",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+            "description": "Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 04:54:53 +0000",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
+            "description": "A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 04:49:47 +0000",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T09:01:33+03:30"
+        }
+    ]
+}

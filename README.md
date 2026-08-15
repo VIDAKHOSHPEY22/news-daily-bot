@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 08:22:51
+**Last Update:** 2026-08-15 09:01:33
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Driven Testing
+### 1. Show HN: Rent vs. buy, backtested across 241 US metros with pinned data
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/assumptionsshown/RunTheNumbers">https://github.com/assumptionsshown/RunTheNumbers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307653">https://news.ycombinator.com/item?id=49307653</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/assumptionsshown/RunTheNumbers](https://github.com/assumptionsshown/RunTheNumbers)
+
+---
+
+### 2. The other Sean Byrne doesn't exist
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://conic.al/writing/the-other-sean-byrne-doesnt-exist/">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307592">https://news.ycombinator.com/item?id=49307592</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://conic.al/writing/the-other-sean-byrne-doesnt-exist/](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
+
+---
+
+### 3. AI Driven Testing
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://app.deltix.ai">https://app.deltix.ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49307099">https://news.ycombinator.com/item?id=49307099</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 15</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://app.deltix.ai](https://app.deltix.ai)
-
----
-
-### 2. Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
-<p>Points: 141</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
-
----
-
-### 3. The Ploopy A+ Trackball Is Here
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
-<p>Points: 58</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 
 ---
 
@@ -97,42 +97,42 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Iran says no decision yet on a return to talks with the US
+### 7. How a Sudanese refugee became a head teacher in a Chadian camp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.
+Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss)
 
 ---
 
-### 8. What we know about the crisis aboard the USS Lincoln
+### 8. Morocco boosts Ceuta security amid calls for mass migrant crossing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln.
+Morocco has added barbed wire and more police near Spain’s Ceuta enclave after online calls for another mass crossing.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss)
 
 ---
 
-### 9. Did the US really destroy Iran’s ballistic missile capability?
+### 9. On the ground in Indonesia following 7.7 magnitude earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.
+A powerful 7.7 magnitude earthquake struck off eastern Indonesia early Saturday, killing at least five people.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss)
 
 ---
 
