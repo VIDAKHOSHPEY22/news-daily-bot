@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T12:08:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+            "description": "<p>Article URL: <a href=\"https://chenxiachan.github.io/thoughtdag/\">https://chenxiachan.github.io/thoughtdag/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307700\">https://news.ycombinator.com/item?id=49307700</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://chenxiachan.github.io/thoughtdag/",
+            "published": "Sat, 15 Aug 2026 04:42:07 +0000",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The other Sean Byrne doesn't exist",
+            "description": "<p>Article URL: <a href=\"https://conic.al/writing/the-other-sean-byrne-doesnt-exist/\">https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307592\">https://news.ycombinator.com/item?id=49307592</a></p>\n<p>Points: 99</p>\n<p># Comments: 34</p>",
+            "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+            "published": "Sat, 15 Aug 2026 04:18:44 +0000",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Deltix – AI Driven Testing",
+            "description": "<p>Article URL: <a href=\"https://app.deltix.ai\">https://app.deltix.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307099\">https://news.ycombinator.com/item?id=49307099</a></p>\n<p>Points: 26</p>\n<p># Comments: 9</p>",
+            "url": "https://app.deltix.ai",
+            "published": "Sat, 15 Aug 2026 02:42:14 +0000",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+            "description": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 07:53:48 GMT",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 03:58:31 GMT",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five years after the Taliban swept to power, does the West have any influence?",
+            "description": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 17:00:14 GMT",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arteta assures Arsenal fans over contract before Man City clash",
+            "description": "Mikel Arteta, who ended Arsenal&#039;s 22-year wait for a Premier League title, says contract negotiations will be resolved.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 07:44:35 +0000",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
+            "description": "Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA&#039;s Gianni Infantino &#039;it&#039;s just politics&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 07:27:59 +0000",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
+            "description": "Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 07:27:32 +0000",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T12:08:04+03:30"
+        }
+    ]
+}
