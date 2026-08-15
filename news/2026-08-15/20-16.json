@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T20:16:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The price of a Costco hot dog has gone up",
+            "description": "<p>Article URL: <a href=\"https://sina.bio/posts/costco-hotdog.html\">https://sina.bio/posts/costco-hotdog.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49311685\">https://news.ycombinator.com/item?id=49311685</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://sina.bio/posts/costco-hotdog.html",
+            "published": "Sat, 15 Aug 2026 16:01:57 +0000",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-designed-virus\">https://spectrum.ieee.org/ai-designed-virus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49311445\">https://news.ycombinator.com/item?id=49311445</a></p>\n<p>Points: 35</p>\n<p># Comments: 30</p>",
+            "url": "https://spectrum.ieee.org/ai-designed-virus",
+            "published": "Sat, 15 Aug 2026 15:32:25 +0000",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Spectre Is Haunting Unicode",
+            "description": "<p>Article URL: <a href=\"https://www.dampfkraft.com/ghost-characters.html\">https://www.dampfkraft.com/ghost-characters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49310926\">https://news.ycombinator.com/item?id=49310926</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.dampfkraft.com/ghost-characters.html",
+            "published": "Sat, 15 Aug 2026 14:34:04 +0000",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:56:30 GMT",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:48:38 GMT",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fire services stretched as residents still not home",
+            "description": "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 16:08:57 GMT",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One killed, dozens injured after wildfire hits Croatian coast",
+            "description": "At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 16:33:05 +0000",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+            "description": "Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 16:17:43 +0000",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+            "description": "Ukraine used domestically produced Flamingo missiles to hit targets in Russia&#039;s southwestern Samara region.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 15:50:06 +0000",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D32",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+            "published": "2022-10-21T00:00:00Z",
+            "fetched": "2026-08-15T20:16:13+03:30"
+        }
+    ]
+}
