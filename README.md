@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 22:56:52
+**Last Update:** 2026-08-15 23:10:51
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Voltair (YC W26) Is Hiring a Test Flight Engineer
+### 1. So How Is AI Drug Discovery Doing, Really?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really">https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313367">https://news.ycombinator.com/item?id=49313367</a></p>
+<p>Points: 12</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+
+---
+
+### 2. First human trials of designer protein therapies stun US neuroscientists
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08">https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313097">https://news.ycombinator.com/item?id=49313097</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
+
+---
+
+### 3. Voltair (YC W26) Is Hiring a Test Flight Engineer
 
 **Source:** Hacker News
 
@@ -23,38 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
-
----
-
-### 2. AI Isn't Outthinking Mathematicians. It's Out-Remembering Them
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312845">https://news.ycombinator.com/item?id=49312845</a></p>
-<p>Points: 134</p>
-<p># Comments: 93</p>
-
-🔗 **Read more:** [https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
-
----
-
-### 3. Thunderbird's Desktop Calendar Visual Redesign
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/">https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312823">https://news.ycombinator.com/item?id=49312823</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/](https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/)
 
 ---
 
