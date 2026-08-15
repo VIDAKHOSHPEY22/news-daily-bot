@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 00:58:22
+**Last Update:** 2026-08-16 01:10:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Many residents forced to flee their houses following blazes in the West Midlands are still unsure when they will be allowed to return home.
+Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
 
@@ -84,16 +84,16 @@ Andy Burnham says the former Cambridge professor's death is a "really sad, sad a
 
 ---
 
-### 6. Analysis: Arday's death will send shockwaves through a divided academia
+### 6. Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.
+A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss)
 
 ---
 

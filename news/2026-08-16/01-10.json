@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T01:10:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cultivating a state of mind where new ideas are born (2023)",
+            "description": "<p>Article URL: <a href=\"https://www.henrikkarlsson.xyz/p/good-ideas\">https://www.henrikkarlsson.xyz/p/good-ideas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314235\">https://news.ycombinator.com/item?id=49314235</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+            "published": "Sat, 15 Aug 2026 20:54:11 +0000",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why tech bosses keep sharing their manifestos about AI",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cz97ljy91zxo\">https://www.bbc.com/news/articles/cz97ljy91zxo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313519\">https://news.ycombinator.com/item?id=49313519</a></p>\n<p>Points: 14</p>\n<p># Comments: 31</p>",
+            "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+            "published": "Sat, 15 Aug 2026 19:30:32 +0000",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Israeli PR wants to answer your ChatGPT questions",
+            "description": "<p>Article URL: <a href=\"https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138\">https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313477\">https://news.ycombinator.com/item?id=49313477</a></p>\n<p>Points: 35</p>\n<p># Comments: 5</p>",
+            "url": "https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138",
+            "published": "Sat, 15 Aug 2026 19:26:33 +0000",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+            "description": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 21:28:54 GMT",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 17:43:04 GMT",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+            "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 20:00:15 GMT",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar denies it is detaining three Iranian bomber pilots",
+            "description": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:55:29 +0000",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "California tackles multiple wildfires as firefighter workforce faces strain",
+            "description": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:40:48 +0000",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+            "description": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:09:33 +0000",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T01:10:26+03:30"
+        }
+    ]
+}
