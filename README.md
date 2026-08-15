@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 21:11:33
+**Last Update:** 2026-08-15 22:10:05
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. TreasuryDirect: Prepare for ID.me – Your New Way to Log In
+### 1. Voltair (YC W26) Is Hiring a Test Flight Engineer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer">https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313047">https://news.ycombinator.com/item?id=49313047</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer)
+
+---
+
+### 2. AI Isn't Outthinking Mathematicians. It's Out-Remembering Them
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312845">https://news.ycombinator.com/item?id=49312845</a></p>
+<p>Points: 53</p>
+<p># Comments: 41</p>
+
+🔗 **Read more:** [https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+
+---
+
+### 3. TreasuryDirect: Prepare for ID.me – Your New Way to Log In
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.treasurydirect.gov/savings-bonds/idme-one-month/">https://www.treasurydirect.gov/savings-bonds/idme-one-month/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312465">https://news.ycombinator.com/item?id=49312465</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 20</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.treasurydirect.gov/savings-bonds/idme-one-month/](https://www.treasurydirect.gov/savings-bonds/idme-one-month/)
-
----
-
-### 2. Europe's scorched landscapes seen from space after summer heatwaves
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c4gxy0wqqd9o">https://www.bbc.com/news/articles/c4gxy0wqqd9o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312413">https://news.ycombinator.com/item?id=49312413</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/c4gxy0wqqd9o](https://www.bbc.com/news/articles/c4gxy0wqqd9o)
-
----
-
-### 3. The Dutch Community Where People Live on Strips of Land in a Lake
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.core77.com/posts/144869">https://www.core77.com/posts/144869</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49312165">https://news.ycombinator.com/item?id=49312165</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.core77.com/posts/144869](https://www.core77.com/posts/144869)
 
 ---
 
@@ -97,42 +97,42 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 
 ---
 
-### 7. Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact
+### 7. La Liga: Real Madrid key talking points heading into new 2026-27 season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.
+Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss)
 
 ---
 
-### 8. One killed, dozens injured after wildfire hits Croatian coast
+### 8. Cleanup underway as Russian oil spill reaches Oman’s coastline
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least one person was killed and around 42 others were injured after a violent wildfire hit a coastal town in Croatia.
+Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss)
 
 ---
 
-### 9. Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return
+### 9. US aircraft carrier expected to relieve USS Lincoln in Middle East
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al-Burhan pledged temporary immunity and legal protections for participants in a Sudanese national dialogue.
+The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss)
 
 ---
 
