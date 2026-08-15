@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 00:14:08
+**Last Update:** 2026-08-16 00:58:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why tech bosses keep sharing their manifestos about AI
+### 1. Cultivating a state of mind where new ideas are born (2023)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.henrikkarlsson.xyz/p/good-ideas">https://www.henrikkarlsson.xyz/p/good-ideas</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49314235">https://news.ycombinator.com/item?id=49314235</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.henrikkarlsson.xyz/p/good-ideas](https://www.henrikkarlsson.xyz/p/good-ideas)
+
+---
+
+### 2. Why tech bosses keep sharing their manifestos about AI
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cz97ljy91zxo">https://www.bbc.com/news/articles/cz97ljy91zxo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313519">https://news.ycombinator.com/item?id=49313519</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 14</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cz97ljy91zxo](https://www.bbc.com/news/articles/cz97ljy91zxo)
 
 ---
 
-### 2. AI in drug discovery — what it is, where we stand and the path forward
+### 3. Israeli PR wants to answer your ChatGPT questions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really">https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313367">https://news.ycombinator.com/item?id=49313367</a></p>
-<p>Points: 32</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138">https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313477">https://news.ycombinator.com/item?id=49313477</a></p>
+<p>Points: 35</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-
----
-
-### 3. First human trials of designer protein therapies stun US neuroscientists
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08">https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49313097">https://news.ycombinator.com/item?id=49313097</a></p>
-<p>Points: 18</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08](https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08)
+🔗 **Read more:** [https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138](https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.
+Many residents forced to flee their houses following blazes in the West Midlands are still unsure when they will be allowed to return home.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ Barely 1% of professors at UK universities are black, so he was joining a small 
 
 ---
 
-### 7. Canadian petition to expel US ambassador gains over 170,000 signatures
+### 7. Qatar denies it is detaining three Iranian bomber pilots
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran says Qatar is holding three pilots who were shot down in March. Doha decries &#039;misleading statements&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss)
+
+---
+
+### 8. California tackles multiple wildfires as firefighter workforce faces strain
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss)
+
+---
+
+### 9. Canadian petition to expel US ambassador gains over 170,000 signatures
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Barely 1% of professors at UK universities are black, so he was joining a small 
 The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss)
-
----
-
-### 8. Moroccan Police Intercept Migrants Heading for Ceuta Enclave
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss)
-
----
-
-### 9. Moroccan police arrest over 100 migrants trying to reach Spanish enclave
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss)
 
 ---
 
