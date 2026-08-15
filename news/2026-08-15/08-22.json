@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T08:22:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Driven Testing",
+            "description": "<p>Article URL: <a href=\"https://app.deltix.ai\">https://app.deltix.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307099\">https://news.ycombinator.com/item?id=49307099</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://app.deltix.ai",
+            "published": "Sat, 15 Aug 2026 02:42:14 +0000",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+            "description": "<p>Article URL: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive\">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306577\">https://news.ycombinator.com/item?id=49306577</a></p>\n<p>Points: 141</p>\n<p># Comments: 27</p>",
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+            "published": "Sat, 15 Aug 2026 01:14:05 +0000",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Ploopy A+ Trackball Is Here",
+            "description": "<p>Article URL: <a href=\"https://blog.ploopy.co/the-aplus-is-finally-here-499\">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306443\">https://news.ycombinator.com/item?id=49306443</a></p>\n<p>Points: 58</p>\n<p># Comments: 31</p>",
+            "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+            "published": "Sat, 15 Aug 2026 00:55:31 +0000",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 01:41:24 GMT",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fires prompt national alert as 19 homes destroyed",
+            "description": "The prime minister said 37 fires were currently burning across England and Wales",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 02:54:04 GMT",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 03:58:31 GMT",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran says no decision yet on a return to talks with the US",
+            "description": "FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 04:24:02 +0000",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What we know about the crisis aboard the USS Lincoln",
+            "description": "The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 04:21:07 +0000",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Did the US really destroy Iran’s ballistic missile capability?",
+            "description": "The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 03:52:08 +0000",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T08:22:51+03:30"
+        }
+    ]
+}
