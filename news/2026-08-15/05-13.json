@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T05:13:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+            "description": "<p>Article URL: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive\">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306577\">https://news.ycombinator.com/item?id=49306577</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+            "published": "Sat, 15 Aug 2026 01:14:05 +0000",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Ploopy A+ Trackball Is Here",
+            "description": "<p>Article URL: <a href=\"https://blog.ploopy.co/the-aplus-is-finally-here-499\">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306443\">https://news.ycombinator.com/item?id=49306443</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+            "published": "Sat, 15 Aug 2026 00:55:31 +0000",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Simplifying and Refactoring Introductory Calculus",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/1811.03459\">https://arxiv.org/abs/1811.03459</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49306196\">https://news.ycombinator.com/item?id=49306196</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/1811.03459",
+            "published": "Sat, 15 Aug 2026 00:15:23 +0000",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+            "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+            "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 01:41:24 GMT",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fires prompt national alert as 19 homes destroyed",
+            "description": "The prime minister said 37 fires were currently burning across England and Wales",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 20:56:53 GMT",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 19:17:16 GMT",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
+            "description": "Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 01:20:06 +0000",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Buenaventura residents criticise state neglect after Colombia’s earthquake",
+            "description": "Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.",
+            "url": "https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 01:12:02 +0000",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
+            "description": "A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil&#039;s high-stakes presidential election.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 00:32:56 +0000",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T05:13:03+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 03:13:17
+**Last Update:** 2026-08-15 05:13:03
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. RISC-V: They should have known better
+### 1. Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV">https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49305492">https://news.ycombinator.com/item?id=49305492</a></p>
-<p>Points: 27</p>
+<p>Article URL: <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive">https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306577">https://news.ycombinator.com/item?id=49306577</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive)
+
+---
+
+### 2. The Ploopy A+ Trackball Is Here
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.ploopy.co/the-aplus-is-finally-here-499">https://blog.ploopy.co/the-aplus-is-finally-here-499</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306443">https://news.ycombinator.com/item?id=49306443</a></p>
+<p>Points: 11</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+🔗 **Read more:** [https://blog.ploopy.co/the-aplus-is-finally-here-499](https://blog.ploopy.co/the-aplus-is-finally-here-499)
 
 ---
 
-### 2. Going Dark, and the era of law enforcement hacking
+### 3. Simplifying and Refactoring Introductory Calculus
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49304447">https://news.ycombinator.com/item?id=49304447</a></p>
-<p>Points: 123</p>
-<p># Comments: 83</p>
+<p>Article URL: <a href="https://arxiv.org/abs/1811.03459">https://arxiv.org/abs/1811.03459</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49306196">https://news.ycombinator.com/item?id=49306196</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-
----
-
-### 3. Every exterior shot in The Taking of Pelham 123
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://iafisher.com/2026/07/pelham-123">https://iafisher.com/2026/07/pelham-123</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49303957">https://news.ycombinator.com/item?id=49303957</a></p>
-<p>Points: 21</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://iafisher.com/2026/07/pelham-123](https://iafisher.com/2026/07/pelham-123)
+🔗 **Read more:** [https://arxiv.org/abs/1811.03459](https://arxiv.org/abs/1811.03459)
 
 ---
 
@@ -97,42 +97,42 @@ Single-use grills pose a "significant risk to the public" in current drought and
 
 ---
 
-### 7. Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal
+### 7. Mangione pleads guilty as polarising CEO killing reaches new phase
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.
+Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss)
 
 ---
 
-### 8. Houthi attack on port kills four eroding truce with Yemen’s government
+### 8. Buenaventura residents criticise state neglect after Colombia’s earthquake
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six Houthi ballistic missiles struck Yemen&#039;s government-held al-Makha port, killing at least four.
+Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss)
 
 ---
 
-### 9. Yemen’s government says Houthi attack on al-Makha kills at least four
+### 9. Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hostilities are rising between Iran-backed Houthis and Yemen&#039;s internationally recognised government.
+A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil&#039;s high-stakes presidential election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss](https://www.aljazeera.com/news/2026/8/14/yemens-government-says-houthi-attack-on-al-makha-kills-at-least-four?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss)
 
 ---
 
