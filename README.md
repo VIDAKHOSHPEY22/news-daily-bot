@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 22:10:05
+**Last Update:** 2026-08-15 22:22:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -97,20 +97,7 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 
 ---
 
-### 7. La Liga: Real Madrid key talking points heading into new 2026-27 season
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss)
-
----
-
-### 8. Cleanup underway as Russian oil spill reaches Oman’s coastline
+### 7. Cleanup underway as Russian oil spill reaches Oman’s coastline
 
 **Source:** Al Jazeera
 
@@ -123,7 +110,7 @@ Cleanup crews are responding along 12 kilometres of Omani coastline following an
 
 ---
 
-### 9. US aircraft carrier expected to relieve USS Lincoln in Middle East
+### 8. US aircraft carrier expected to relieve USS Lincoln in Middle East
 
 **Source:** Al Jazeera
 
@@ -133,6 +120,19 @@ Cleanup crews are responding along 12 kilometres of Omani coastline following an
 The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss)
+
+---
+
+### 9. Inter Milan sign England’s Djed Spence from Tottenham Hotspur
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss)
 
 ---
 

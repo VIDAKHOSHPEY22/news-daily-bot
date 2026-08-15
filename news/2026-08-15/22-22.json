@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T22:22:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer\">https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313047\">https://news.ycombinator.com/item?id=49313047</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+            "published": "Sat, 15 Aug 2026 18:33:25 +0000",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+            "description": "<p>Article URL: <a href=\"https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\">https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312845\">https://news.ycombinator.com/item?id=49312845</a></p>\n<p>Points: 53</p>\n<p># Comments: 41</p>",
+            "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+            "published": "Sat, 15 Aug 2026 18:13:02 +0000",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TreasuryDirect: Prepare for ID.me – Your New Way to Log In",
+            "description": "<p>Article URL: <a href=\"https://www.treasurydirect.gov/savings-bonds/idme-one-month/\">https://www.treasurydirect.gov/savings-bonds/idme-one-month/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49312465\">https://news.ycombinator.com/item?id=49312465</a></p>\n<p>Points: 20</p>\n<p># Comments: 16</p>",
+            "url": "https://www.treasurydirect.gov/savings-bonds/idme-one-month/",
+            "published": "Sat, 15 Aug 2026 17:30:02 +0000",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 17:43:04 GMT",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:48:38 GMT",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fire services stretched as residents still not home",
+            "description": "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 17:41:54 GMT",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+            "description": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 18:11:12 +0000",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+            "description": "The USS Washington&#039;s movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 17:49:42 +0000",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
+            "description": "The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 17:48:32 +0000",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D32",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+            "published": "2022-10-21T00:00:00Z",
+            "fetched": "2026-08-15T22:22:16+03:30"
+        }
+    ]
+}
