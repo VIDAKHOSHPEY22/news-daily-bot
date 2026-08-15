@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T00:14:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why tech bosses keep sharing their manifestos about AI",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cz97ljy91zxo\">https://www.bbc.com/news/articles/cz97ljy91zxo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313519\">https://news.ycombinator.com/item?id=49313519</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+            "published": "Sat, 15 Aug 2026 19:30:32 +0000",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI in drug discovery — what it is, where we stand and the path forward",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really\">https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313367\">https://news.ycombinator.com/item?id=49313367</a></p>\n<p>Points: 32</p>\n<p># Comments: 17</p>",
+            "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+            "published": "Sat, 15 Aug 2026 19:12:53 +0000",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "First human trials of designer protein therapies stun US neuroscientists",
+            "description": "<p>Article URL: <a href=\"https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08\">https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49313097\">https://news.ycombinator.com/item?id=49313097</a></p>\n<p>Points: 18</p>\n<p># Comments: 35</p>",
+            "url": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
+            "published": "Sat, 15 Aug 2026 18:37:09 +0000",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+            "description": "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 17:41:54 GMT",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jason Arday death 'tragedy on so many levels' says PM",
+            "description": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 17:43:04 GMT",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+            "description": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 13:48:38 GMT",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
+            "description": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:09:33 +0000",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+            "description": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 20:07:07 +0000",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+            "description": "A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.",
+            "url": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 19:46:20 +0000",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T00:14:08+03:30"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 00:01:08
+**Last Update:** 2026-08-16 00:14:08
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -58,33 +58,7 @@
 
 ---
 
-### 4. Jason Arday death 'tragedy on so many levels' says PM
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Andy Burnham says the former Cambridge professor's death is a "really sad, sad and sorry state of affairs".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Analysis: Arday's death will send shockwaves through a divided academia
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Major incidents across UK put firefighters under 'incredible pressure', fire chief says
+### 4. Major incidents across UK putting firefighters under 'incredible pressure', fire chief says
 
 **Source:** BBC
 
@@ -97,7 +71,59 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 
 ---
 
-### 7. Moroccan police arrest over 100 migrants trying to reach Spanish enclave
+### 5. Jason Arday death 'tragedy on so many levels' says PM
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Andy Burnham says the former Cambridge professor's death is a "really sad, sad and sorry state of affairs".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Analysis: Arday's death will send shockwaves through a divided academia
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Canadian petition to expel US ambassador gains over 170,000 signatures
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss)
+
+---
+
+### 8. Moroccan Police Intercept Migrants Heading for Ceuta Enclave
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss)
+
+---
+
+### 9. Moroccan police arrest over 100 migrants trying to reach Spanish enclave
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Major incidents are declared across the UK including in Stourbridge, Sandwell an
 A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss)
-
----
-
-### 8. Death toll from Zimbabwe ferry disaster rises to 72
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Police say 26 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss)
-
----
-
-### 9. La Liga: Real Madrid key talking points heading into new 2026-27 season
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Real Madrid welcome back Jose Mourinho as manager as they attempt to stop a three-peat by Barcelona in La Liga.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss)
 
 ---
 
