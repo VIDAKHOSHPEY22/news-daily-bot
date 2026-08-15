@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 18:58:25
+**Last Update:** 2026-08-15 19:11:03
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp3rprx2wl4o">https://www.bbc.co.uk/news/articles/cp3rprx2wl4o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310725">https://news.ycombinator.com/item?id=49310725</a></p>
-<p>Points: 30</p>
+<p>Points: 32</p>
 <p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3rprx2wl4o](https://www.bbc.co.uk/news/articles/cp3rprx2wl4o)
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/">https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49310682">https://news.ycombinator.com/item?id=49310682</a></p>
-<p>Points: 5</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
@@ -97,7 +97,20 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. How blind football is helping women overcome barriers in Mexico
+### 7. Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A decade ago, student leaders were jailed for shouting &#039;Azadi&#039;, which means freedom.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss](https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss)
+
+---
+
+### 8. How blind football is helping women overcome barriers in Mexico
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Mexico is sending its first blind women&#039;s football team to compete in an in
 
 ---
 
-### 8. The next Yemen war might be different
+### 9. The next Yemen war might be different
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Mexico is sending its first blind women&#039;s football team to compete in an in
 Drones are no longer the advantage for only one side.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss](https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss)
-
----
-
-### 9. Afghans mark five years of Taliban rule
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Afghans have gathered in Kabul to mark five years since the Taliban returned to power.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss)
 
 ---
 
