@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-15T13:03:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims\">https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308748\">https://news.ycombinator.com/item?id=49308748</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+            "published": "Sat, 15 Aug 2026 08:11:20 +0000",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/\">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308553\">https://news.ycombinator.com/item?id=49308553</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+            "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+            "published": "Sat, 15 Aug 2026 07:31:46 +0000",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+            "description": "<p>Article URL: <a href=\"https://chenxiachan.github.io/thoughtdag/\">https://chenxiachan.github.io/thoughtdag/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49307700\">https://news.ycombinator.com/item?id=49307700</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+            "url": "https://chenxiachan.github.io/thoughtdag/",
+            "published": "Sat, 15 Aug 2026 04:42:07 +0000",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+            "description": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
+            "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 07:53:48 GMT",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+            "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+            "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 03:58:31 GMT",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five years after the Taliban swept to power, does the West have any influence?",
+            "description": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Aug 2026 17:00:14 GMT",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh rock Australia as historic Test win in sight",
+            "description": "Australia close Day Three of the first Test against Bangladesh on 161-4, trailing the record-chasing tourists by 67.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/bangladesh-rock-australia-as-historic-test-win-in-sight?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 08:50:56 +0000",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
+            "description": "World Athletics&#039; president says political influence in sport must be kept in check with LA Olympics on horizon.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 08:44:36 +0000",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
+            "description": "Seven-time Grand Slam winner Venus Williams defeated 6-2, 6-2 by Emiliana Arango in the first round of Cincinnati Open.",
+            "url": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
+            "published": "Sat, 15 Aug 2026 08:32:07 +0000",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-15T13:03:05+03:30"
+        }
+    ]
+}
