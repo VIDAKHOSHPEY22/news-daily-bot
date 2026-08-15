@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-15 15:10:05
+**Last Update:** 2026-08-15 16:22:30
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Debian has begun voting on the future of AI/LLM contributions
+### 1. Auto-research with codex: How I achieved a 232x Faster Kernel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sankalp.bearblog.dev/autoresearch/">https://sankalp.bearblog.dev/autoresearch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309549">https://news.ycombinator.com/item?id=49309549</a></p>
+<p>Points: 57</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://sankalp.bearblog.dev/autoresearch/](https://sankalp.bearblog.dev/autoresearch/)
+
+---
+
+### 2. OpenAI rolling out ads for Europe later this month
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/policies/eu-privacy-policy-preview/">https://openai.com/policies/eu-privacy-policy-preview/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309509">https://news.ycombinator.com/item?id=49309509</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://openai.com/policies/eu-privacy-policy-preview/](https://openai.com/policies/eu-privacy-policy-preview/)
+
+---
+
+### 3. Debian has begun voting on the future of AI/LLM contributions
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html">https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49309050">https://news.ycombinator.com/item?id=49309050</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
+<p>Points: 43</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html](https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html)
-
----
-
-### 2. Using GCC's Nested Functions with Wide Pointers and No Trampolines II
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://uecker.codeberg.page/2026-07-14.html">https://uecker.codeberg.page/2026-07-14.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308685">https://news.ycombinator.com/item?id=49308685</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://uecker.codeberg.page/2026-07-14.html](https://uecker.codeberg.page/2026-07-14.html)
-
----
-
-### 3. Suspecting court of using AI, man injected prompts in filings to try to win case
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49308553">https://news.ycombinator.com/item?id=49308553</a></p>
-<p>Points: 40</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/)
 
 ---
 
@@ -84,7 +84,7 @@ The academic's Cambridge appointment in 2023 drew worldwide attention
 
 ---
 
-### 6. Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia
+### 6. Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ A search and rescue operation is under way to find survivors in Flores, an islan
 
 ---
 
-### 7. Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
+### 7. Afghan refugees face an uncertain future as Europe shifts to the right
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+With the fall of the former government in Kabul, thousands of Afghans were forced to flee the country, many to Europe.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss)
+
+---
+
+### 8. Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Taiwan has long prepared for a Chinese military invasion but wars in Iran and Uk
 
 ---
 
-### 8. Modi threatens to target ‘intellectual Naxals’ in Independence Day speech
+### 9. Modi threatens to target ‘intellectual Naxals’ in Independence Day speech
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Taiwan has long prepared for a Chinese military invasion but wars in Iran and Uk
 The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss](https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss)
-
----
-
-### 9. Aftermath of deadly Indonesia earthquake
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss)
 
 ---
 
