@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 14:00:40
+**Last Update:** 2026-08-16 14:14:35
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 116</p>
-<p># Comments: 78</p>
+<p>Points: 123</p>
+<p># Comments: 82</p>
 
 🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
-<p>Points: 18</p>
+<p>Points: 21</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
@@ -97,7 +97,20 @@ Hundreds of homes and public buildings have been severely damaged with at least 
 
 ---
 
-### 7. The post-Hormuz era offers Africa a great opportunity
+### 7. Doctor describes amputating girl’s leg in Gaza without anaesthesia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+‘We were praying for her to faint’.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss)
+
+---
+
+### 8. The post-Hormuz era offers Africa a great opportunity
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ But to capture its benefits, the continent needs to develop an effective, common
 
 ---
 
-### 8. Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa
+### 9. Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ But to capture its benefits, the continent needs to develop an effective, common
 The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss)
-
----
-
-### 9. Live video captures panic as gunman opens fire at park in Kentucky
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Live video captures panic as gunman opens fire at park in Kentucky
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss)
 
 ---
 

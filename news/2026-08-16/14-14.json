@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T14:14:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What happens when an LLM never sees material beyond fifth grade?",
+            "description": "<p>Article URL: <a href=\"https://littlelearner-ll.github.io/\">https://littlelearner-ll.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49317760\">https://news.ycombinator.com/item?id=49317760</a></p>\n<p>Points: 123</p>\n<p># Comments: 82</p>",
+            "url": "https://littlelearner-ll.github.io/",
+            "published": "Sun, 16 Aug 2026 07:37:53 +0000",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Falstad Math and Physics Simulations",
+            "description": "<p>Article URL: <a href=\"https://www.falstad.com/mathphysics.html\">https://www.falstad.com/mathphysics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316872\">https://news.ycombinator.com/item?id=49316872</a></p>\n<p>Points: 21</p>\n<p># Comments: 4</p>",
+            "url": "https://www.falstad.com/mathphysics.html",
+            "published": "Sun, 16 Aug 2026 04:19:32 +0000",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/stimulated-geologic-hydrogen\">https://spectrum.ieee.org/stimulated-geologic-hydrogen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316395\">https://news.ycombinator.com/item?id=49316395</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
+            "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+            "published": "Sun, 16 Aug 2026 02:36:10 +0000",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "People who fled Stourbridge fires start to return home",
+            "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 10:40:42 GMT",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
+            "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
+            "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 00:39:22 GMT",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+            "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 08:23:38 GMT",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+            "description": "‘We were praying for her to faint’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 10:32:42 +0000",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The post-Hormuz era offers Africa a great opportunity",
+            "description": "But to capture its benefits, the continent needs to develop an effective, common maritime policy.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 10:09:32 +0000",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
+            "description": "The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.",
+            "url": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 09:48:42 +0000",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T14:14:35+03:30"
+        }
+    ]
+}
