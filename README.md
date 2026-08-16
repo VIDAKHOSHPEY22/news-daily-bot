@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 14:14:35
+**Last Update:** 2026-08-16 14:57:09
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 123</p>
-<p># Comments: 82</p>
+<p>Points: 134</p>
+<p># Comments: 93</p>
 
 🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
-<p>Points: 21</p>
+<p>Points: 22</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
@@ -97,81 +97,42 @@ Hundreds of homes and public buildings have been severely damaged with at least 
 
 ---
 
-### 7. Doctor describes amputating girl’s leg in Gaza without anaesthesia
+### 7. Trump threatens to make the Strait of Hormuz a US territory: Can he?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-‘We were praying for her to faint’.
+US president has yet another outlandish threat for Iran, with no end to war in sight.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss)
 
 ---
 
-### 8. The post-Hormuz era offers Africa a great opportunity
+### 8. Arsenal vs Manchester City LIVE: FA Community Shield
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-But to capture its benefits, the continent needs to develop an effective, common maritime policy.
+Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss)
 
 ---
 
-### 9. Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa
+### 9. Why has Israel escalated attacks in southern Lebanon despite ceasefire?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Egyptian forward, who joined the Turkish club on a free transfer, came off the bench early in the second half.
+At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Hernan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562)
-
----
-
-### 11. Tropical Storm Nangka
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561)
-
----
-
-### 12. Tropical Storm Lala
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss)
 
 ---
 
