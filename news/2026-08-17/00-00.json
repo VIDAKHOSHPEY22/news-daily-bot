@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T00:00:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Models Are Getting Dumber on Purpose",
+            "description": "<p>Article URL: <a href=\"https://w4g1.dev/blog/models-are-getting-dumber-on-purpose\">https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322695\">https://news.ycombinator.com/item?id=49322695</a></p>\n<p>Points: 93</p>\n<p># Comments: 43</p>",
+            "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+            "published": "Sun, 16 Aug 2026 19:04:26 +0000",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Protobuf has LSP support. You're welcome",
+            "description": "<p>Article URL: <a href=\"https://buf.build/blog/protobuf-lsp\">https://buf.build/blog/protobuf-lsp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322573\">https://news.ycombinator.com/item?id=49322573</a></p>\n<p>Points: 28</p>\n<p># Comments: 4</p>",
+            "url": "https://buf.build/blog/protobuf-lsp",
+            "published": "Sun, 16 Aug 2026 18:48:27 +0000",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MathCode, Mathematical Coding Agent",
+            "description": "<p>Article URL: <a href=\"https://math-ai-org.github.io/mathcode/\">https://math-ai-org.github.io/mathcode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322330\">https://news.ycombinator.com/item?id=49322330</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+            "url": "https://math-ai-org.github.io/mathcode/",
+            "published": "Sun, 16 Aug 2026 18:17:10 +0000",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+            "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+            "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:58:14 GMT",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+            "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:03:04 GMT",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
+            "description": "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 15:53:21 GMT",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
+            "description": "Thousands gathered in Saint-Louis, Senegal, for the annual regatta.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 20:04:51 +0000",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
+            "description": "Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 20:02:09 +0000",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+            "description": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 19:29:31 +0000",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T00:00:49+03:30"
+        }
+    ]
+}

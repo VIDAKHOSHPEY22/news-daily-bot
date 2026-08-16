@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 23:10:04
+**Last Update:** 2026-08-17 00:00:49
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Protobuf has LSP support. You're welcome
+### 1. Models Are Getting Dumber on Purpose
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://w4g1.dev/blog/models-are-getting-dumber-on-purpose">https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322695">https://news.ycombinator.com/item?id=49322695</a></p>
+<p>Points: 93</p>
+<p># Comments: 43</p>
+
+🔗 **Read more:** [https://w4g1.dev/blog/models-are-getting-dumber-on-purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
+
+---
+
+### 2. Protobuf has LSP support. You're welcome
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://buf.build/blog/protobuf-lsp">https://buf.build/blog/protobuf-lsp</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322573">https://news.ycombinator.com/item?id=49322573</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 28</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://buf.build/blog/protobuf-lsp](https://buf.build/blog/protobuf-lsp)
 
 ---
 
-### 2. MathCode, Mathematical Coding Agent
+### 3. MathCode, Mathematical Coding Agent
 
 **Source:** Hacker News
 
@@ -35,31 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://math-ai-org.github.io/mathcode/">https://math-ai-org.github.io/mathcode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322330">https://news.ycombinator.com/item?id=49322330</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 24</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://math-ai-org.github.io/mathcode/](https://math-ai-org.github.io/mathcode/)
 
 ---
 
-### 3. Tell HN: Cloudflare silently injects its analytics when you switch nameservers
+### 4. Trump envoy Kushner meets Hamas leader to push Gaza peace plan
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322107">https://news.ycombinator.com/item?id=49322107</a></p>
-<p>Points: 60</p>
-<p># Comments: 8</p>
+The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49322107](https://news.ycombinator.com/item?id=49322107)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Russia says at least seven killed in largest Ukrainian attack of 2026
+### 5. Russia says at least seven killed in largest Ukrainian attack of 2026
 
 **Source:** BBC
 
@@ -69,19 +81,6 @@
 Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: BBC visits smouldering market in Ukraine after strikes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,42 +97,42 @@ The alert took many by surprise when it was sent to millions of phones on Friday
 
 ---
 
-### 7. Erdogan calls for Strait of Hormuz reopening amid oil disruption
+### 7. Senegal’s Saint-Louis Regatta keeps centuries of tradition alive
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.
+Thousands gathered in Saint-Louis, Senegal, for the annual regatta.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss)
 
 ---
 
-### 8. Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone
+### 8. Anti-corruption raids in Baghdad as dozens of officials arrested
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Israeli captive Rom Braslavski asked Ben Gvir to allow him to execute Palestinian prisoners by hanging.
+Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss)
 
 ---
 
-### 9. Israeli army besieges Palestinian homes in occupied West Bank
+### 9. Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank.
+Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss)
 
 ---
 
