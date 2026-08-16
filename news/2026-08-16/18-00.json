@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T18:00:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+            "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/head-of-design-engineering\">https://tasklet.ai/careers/head-of-design-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319892\">https://news.ycombinator.com/item?id=49319892</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://tasklet.ai/careers/head-of-design-engineering",
+            "published": "Sun, 16 Aug 2026 13:30:27 +0000",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Firefox for iOS now has a native adblocker",
+            "description": "<p>Article URL: <a href=\"https://support.mozilla.org/en-US/kb/block-ads-firefox-ios\">https://support.mozilla.org/en-US/kb/block-ads-firefox-ios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319633\">https://news.ycombinator.com/item?id=49319633</a></p>\n<p>Points: 51</p>\n<p># Comments: 17</p>",
+            "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+            "published": "Sun, 16 Aug 2026 12:58:10 +0000",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US oil reserves are so low, the caverns holding them could be damaged",
+            "description": "<p>Article URL: <a href=\"https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html\">https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319566\">https://news.ycombinator.com/item?id=49319566</a></p>\n<p>Points: 41</p>\n<p># Comments: 10</p>",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html",
+            "published": "Sun, 16 Aug 2026 12:49:56 +0000",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+            "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+            "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 12:18:09 GMT",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "People who fled Stourbridge fires start to return home",
+            "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 14:21:05 GMT",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Murder inquiry after man bitten by dog dies",
+            "description": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+            "description": "Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 13:53:20 +0000",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Patients treated in tents after earthquake damages Indonesia hospital",
+            "description": "Patients treated in tents after earthquake damages Indonesia hospital",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 13:19:35 +0000",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+            "description": "Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 13:18:28 +0000",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T18:00:49+03:30"
+        }
+    ]
+}

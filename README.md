@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 17:19:25
+**Last Update:** 2026-08-16 18:00:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">https://support.mozilla.org/en-US/kb/block-ads-firefox-ios</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319633">https://news.ycombinator.com/item?id=49319633</a></p>
-<p>Points: 12</p>
-<p># Comments: 7</p>
+<p>Points: 51</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://support.mozilla.org/en-US/kb/block-ads-firefox-ios](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
 
 ---
 
-### 3. Is the industry ready for tokens-constrained work?
+### 3. US oil reserves are so low, the caverns holding them could be damaged
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out">https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319582">https://news.ycombinator.com/item?id=49319582</a></p>
-<p>Points: 16</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html">https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319566">https://news.ycombinator.com/item?id=49319566</a></p>
+<p>Points: 41</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out](https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out)
+🔗 **Read more:** [https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html](https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html)
 
 ---
 
@@ -84,55 +84,55 @@ Many families are only just discovering the extent of damage to their homes for 
 
 ---
 
-### 6. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
+### 6. Murder inquiry after man bitten by dog dies
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.
+Police appeal for two people who stopped to help the victim in Wakefield to come forward.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Belgium’s largest wildfire on record spreads towards German border
+### 7. Who is DEI critic and Jason Arday accuser, Nathan Cofnas?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.
+Nathan Cofnas, who accused Jason Arday of plagiarism, believes intelligence varies between racial groups.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss)
 
 ---
 
-### 8. ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
+### 8. Patients treated in tents after earthquake damages Indonesia hospital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.
+Patients treated in tents after earthquake damages Indonesia hospital
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss)
 
 ---
 
-### 9. ‘Limited options’ for many Iranians as war with US chokes economy
+### 9. Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
+Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss)
 
 ---
 
