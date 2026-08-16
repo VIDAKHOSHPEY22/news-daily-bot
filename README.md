@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 18:58:44
+**Last Update:** 2026-08-16 19:11:51
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://vectoral.com/blog/who-are-the-token-brokers">https://vectoral.com/blog/who-are-the-token-brokers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320611">https://news.ycombinator.com/item?id=49320611</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Points: 44</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://vectoral.com/blog/who-are-the-token-brokers](https://vectoral.com/blog/who-are-the-token-brokers)
 
 ---
 
-### 2. Anthropic revenue reportedly jumps to more than $11.5B in second quarter
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html">https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320144">https://news.ycombinator.com/item?id=49320144</a></p>
-<p>Points: 20</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html)
-
----
-
-### 3. Tasklet (YC P26) Is Hiring a Head of Design Engineering
+### 2. Tasklet (YC P26) Is Hiring a Head of Design Engineering
 
 **Source:** Hacker News
 
@@ -58,7 +42,36 @@
 
 ---
 
-### 4. Watch: BBC visits smouldering market in Ukraine after strikes
+### 3. Show HN: A public AI whose memory is shared across all users
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://wildstatic.com/">https://wildstatic.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319814">https://news.ycombinator.com/item?id=49319814</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://wildstatic.com/](https://wildstatic.com/)
+
+---
+
+### 4. Russia says at least seven killed in largest Ukrainian attack of 2026
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: BBC visits smouldering market in Ukraine after strikes
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Six people were injured in the strike on the market selling second-hand records,
 
 ---
 
-### 5. People who fled Stourbridge fires start to return home
+### 6. People who fled Stourbridge fires start to return home
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ Six people were injured in the strike on the market selling second-hand records,
 Many families are only just discovering the extent of damage to their homes for the first time.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Murder inquiry after man bitten by dog dies
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Police appeal for two people who stopped to help the victim in Wakefield to come forward.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&at_campaign=rss)
 
 ---
 

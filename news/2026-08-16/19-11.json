@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T19:11:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI Credit Resale Economy",
+            "description": "<p>Article URL: <a href=\"https://vectoral.com/blog/who-are-the-token-brokers\">https://vectoral.com/blog/who-are-the-token-brokers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320611\">https://news.ycombinator.com/item?id=49320611</a></p>\n<p>Points: 44</p>\n<p># Comments: 10</p>",
+            "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+            "published": "Sun, 16 Aug 2026 14:44:55 +0000",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+            "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/head-of-design-engineering\">https://tasklet.ai/careers/head-of-design-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319892\">https://news.ycombinator.com/item?id=49319892</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://tasklet.ai/careers/head-of-design-engineering",
+            "published": "Sun, 16 Aug 2026 13:30:27 +0000",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A public AI whose memory is shared across all users",
+            "description": "<p>Article URL: <a href=\"https://wildstatic.com/\">https://wildstatic.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319814\">https://news.ycombinator.com/item?id=49319814</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://wildstatic.com/",
+            "published": "Sun, 16 Aug 2026 13:21:45 +0000",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+            "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 15:14:01 GMT",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+            "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+            "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 12:18:09 GMT",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "People who fled Stourbridge fires start to return home",
+            "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 15:22:53 GMT",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+            "description": "The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 14:55:51 +0000",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘The Mediterranean is a bridge, not a border’",
+            "description": "Chris Fearne says Europe must look beyond its borders to solve its migration problem.",
+            "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 14:40:38 +0000",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+            "description": "Israel’s far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 14:35:15 +0000",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T19:11:51+03:30"
+        }
+    ]
+}
