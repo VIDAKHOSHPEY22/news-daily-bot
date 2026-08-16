@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 18:00:49
+**Last Update:** 2026-08-16 18:13:48
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tasklet (YC P26) Is Hiring a Head of Design Engineering
+### 1. Anthropic revenue reportedly jumps to more than $11.5B in second quarter
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html">https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320144">https://news.ycombinator.com/item?id=49320144</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html](https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html)
+
+---
+
+### 2. Tasklet (YC P26) Is Hiring a Head of Design Engineering
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. Firefox for iOS now has a native adblocker
+### 3. Firefox for iOS now has a native adblocker
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://support.mozilla.org/en-US/kb/block-ads-firefox-ios">https://support.mozilla.org/en-US/kb/block-ads-firefox-ios</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319633">https://news.ycombinator.com/item?id=49319633</a></p>
-<p>Points: 51</p>
-<p># Comments: 17</p>
+<p>Points: 83</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://support.mozilla.org/en-US/kb/block-ads-firefox-ios](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
-
----
-
-### 3. US oil reserves are so low, the caverns holding them could be damaged
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html">https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319566">https://news.ycombinator.com/item?id=49319566</a></p>
-<p>Points: 41</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html](https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html)
 
 ---
 
