@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 12:08:56
+**Last Update:** 2026-08-16 12:22:13
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 46</p>
-<p># Comments: 22</p>
+<p>Points: 63</p>
+<p># Comments: 41</p>
 
 🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
-<p>Points: 41</p>
-<p># Comments: 29</p>
+<p>Points: 42</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
 
@@ -71,20 +71,7 @@ Hundreds of homes and public buildings have been severely damaged with at least 
 
 ---
 
-### 5. Three killed as Russia launches fresh aerial attacks across Ukraine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
+### 5. Reform proposes £50bn welfare bill cut with changes to disability payments for millions
 
 **Source:** BBC
 
@@ -94,6 +81,19 @@ Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that 
 The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. People who fled Stourbridge fires start to return home
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Many families are only just discovering the extent of damage to their homes for the first time.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss)
 
 ---
 
