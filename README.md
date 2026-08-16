@@ -1,32 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 22:21:34
+**Last Update:** 2026-08-16 22:56:49
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. I've built a free, open-source local and remote memory system for agentw and CL
+### 1. MathCode, Mathematical Coding Agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lorekit.io/blog/give-your-agent-a-memory">https://www.lorekit.io/blog/give-your-agent-a-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322206">https://news.ycombinator.com/item?id=49322206</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://math-ai-org.github.io/mathcode/">https://math-ai-org.github.io/mathcode/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322330">https://news.ycombinator.com/item?id=49322330</a></p>
+<p>Points: 10</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.lorekit.io/blog/give-your-agent-a-memory](https://www.lorekit.io/blog/give-your-agent-a-memory)
+🔗 **Read more:** [https://math-ai-org.github.io/mathcode/](https://math-ai-org.github.io/mathcode/)
 
 ---
 
-### 2. A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
+### 2. Tell HN: Cloudflare silently injects its analytics when you switch nameservers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322107">https://news.ycombinator.com/item?id=49322107</a></p>
+<p>Points: 44</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49322107](https://news.ycombinator.com/item?id=49322107)
+
+---
+
+### 3. A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://rvembedded.com/blog_post/12/">https://rvembedded.com/blog_post/12/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321717">https://news.ycombinator.com/item?id=49321717</a></p>
-<p>Points: 73</p>
-<p># Comments: 23</p>
+<p>Points: 134</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://rvembedded.com/blog_post/12/](https://rvembedded.com/blog_post/12/)
-
----
-
-### 3. NIH is ending a key grant for budding clinical researchers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers">https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321353">https://news.ycombinator.com/item?id=49321353</a></p>
-<p>Points: 61</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
 
 ---
 
