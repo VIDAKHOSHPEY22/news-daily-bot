@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 16:36:04
+**Last Update:** 2026-08-16 17:07:13
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://scholar.google.com/scholar?q=%22kidney+disappointment%22">https://scholar.google.com/scholar?q=%22kidney+disappointment%22</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319389">https://news.ycombinator.com/item?id=49319389</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 21</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://scholar.google.com/scholar?q=%22kidney+disappointment%22](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
 
@@ -42,19 +42,19 @@
 
 ---
 
-### 3. Access to telemetry data: Automotive industry criticizes intelligence reform
+### 3. Show HN: Grafana agent observability for Hermes Agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html">https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319170">https://news.ycombinator.com/item?id=49319170</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/alexander-akhmetov/grafana-agento11y-hermes">https://github.com/alexander-akhmetov/grafana-agento11y-hermes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49318128">https://news.ycombinator.com/item?id=49318128</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html](https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html)
+🔗 **Read more:** [https://github.com/alexander-akhmetov/grafana-agento11y-hermes](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 
 ---
 
@@ -97,42 +97,42 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 7. Belgium’s largest wildfire on record spreads towards German border
+### 7. Patients treated in tents after earthquake damages Indonesia hospital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.
+Patients treated in tents after earthquake damages Indonesia hospital
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss)
 
 ---
 
-### 8. ‘Spearhead of annexation’: Israel hands West Bank rule to civilian police
+### 8. Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.
+Houthi missile and drone strikes target Marib and al-Makha, killing at least four people and injuring eight.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss)
 
 ---
 
-### 9. ‘Limited options’ for many Iranians as war with US chokes economy
+### 9. Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
+Israeli settlers encircle Palestinian homes and cut off supplies, leading to a declaration of a military zone.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss)
 
 ---
 
