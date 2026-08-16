@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T01:10:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323686\">https://news.ycombinator.com/item?id=49323686</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+            "published": "Sun, 16 Aug 2026 21:07:10 +0000",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/\">https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323620\">https://news.ycombinator.com/item?id=49323620</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
+            "published": "Sun, 16 Aug 2026 21:00:25 +0000",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Case Against Formal Verification, 50 Years Later",
+            "description": "<p>Article URL: <a href=\"https://ivan-gavran.github.io/0-social-processes-paper\">https://ivan-gavran.github.io/0-social-processes-paper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323459\">https://news.ycombinator.com/item?id=49323459</a></p>\n<p>Points: 31</p>\n<p># Comments: 20</p>",
+            "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+            "published": "Sun, 16 Aug 2026 20:38:58 +0000",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+            "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+            "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:58:14 GMT",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+            "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:03:04 GMT",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+            "description": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 20:07:40 GMT",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anwar Ibrahim: Malaysia between the superpowers",
+            "description": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.",
+            "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 21:23:03 +0000",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+            "description": "The boat overturned during heavy winds near the Zambian border.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 21:03:53 +0000",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+            "description": "CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 21:02:08 +0000",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T01:10:04+03:30"
+        }
+    ]
+}
