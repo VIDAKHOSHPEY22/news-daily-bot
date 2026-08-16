@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T21:10:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
+            "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/08/260811052857.htm\">https://www.sciencedaily.com/releases/2026/08/260811052857.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321783\">https://news.ycombinator.com/item?id=49321783</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm",
+            "published": "Sun, 16 Aug 2026 17:10:04 +0000",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NIH is ending a key grant for budding clinical researchers",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers\">https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321353\">https://news.ycombinator.com/item?id=49321353</a></p>\n<p>Points: 24</p>\n<p># Comments: 3</p>",
+            "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+            "published": "Sun, 16 Aug 2026 16:14:55 +0000",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The weekend is 100 years old",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it\">https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49320984\">https://news.ycombinator.com/item?id=49320984</a></p>\n<p>Points: 71</p>\n<p># Comments: 34</p>",
+            "url": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
+            "published": "Sun, 16 Aug 2026 15:30:15 +0000",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+            "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 15:50:12 GMT",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+            "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+            "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 12:18:09 GMT",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
+            "description": "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 15:53:21 GMT",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+            "description": "Israeli settlers and soldiers besiege Qusra families for eight days, blocking water and aid.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 17:18:00 +0000",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cristiano Ronaldo hints at retirement at end of season",
+            "description": "Superstar forward gave his clearest indication yet that he might end his playing career after the current season.",
+            "url": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 17:03:18 +0000",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arsenal cruise to 3-0 win over Manchester City in Community Shield",
+            "description": "Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge.",
+            "url": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 16:17:36 +0000",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T21:10:00+03:30"
+        }
+    ]
+}

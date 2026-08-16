@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 20:56:14
+**Last Update:** 2026-08-16 21:10:00
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. NIH is ending a key grant for budding clinical researchers
+### 1. Ordinary WiFi can now identify you with near-perfect accuracy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/08/260811052857.htm">https://www.sciencedaily.com/releases/2026/08/260811052857.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321783">https://news.ycombinator.com/item?id=49321783</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/08/260811052857.htm](https://www.sciencedaily.com/releases/2026/08/260811052857.htm)
+
+---
+
+### 2. NIH is ending a key grant for budding clinical researchers
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers">https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321353">https://news.ycombinator.com/item?id=49321353</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
 
 ---
 
-### 2. The weekend is 100 years old
+### 3. The weekend is 100 years old
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it">https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320984">https://news.ycombinator.com/item?id=49320984</a></p>
-<p>Points: 65</p>
-<p># Comments: 26</p>
+<p>Points: 71</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
-
----
-
-### 3. St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core">https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320856">https://news.ycombinator.com/item?id=49320856</a></p>
-<p>Points: 59</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
 
 ---
 
@@ -97,7 +97,33 @@ The alert took many by surprise when it was sent to millions of phones on Friday
 
 ---
 
-### 7. Arsenal cruise to 3-0 win over Manchester City in Community Shield
+### 7. ‘Water and salt’: Qusra residents trapped in Israeli settler siege
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli settlers and soldiers besiege Qusra families for eight days, blocking water and aid.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss)
+
+---
+
+### 8. Cristiano Ronaldo hints at retirement at end of season
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Superstar forward gave his clearest indication yet that he might end his playing career after the current season.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss)
+
+---
+
+### 9. Arsenal cruise to 3-0 win over Manchester City in Community Shield
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The alert took many by surprise when it was sent to millions of phones on Friday
 Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss)
-
----
-
-### 8. Moroccan migrants stage sit-in as thousands remain stranded in Ceuta
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss)
-
----
-
-### 9. Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss)
 
 ---
 
