@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 11:07:55
+**Last Update:** 2026-08-16 11:20:32
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jitpass/jit">https://github.com/jitpass/jit</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317546">https://news.ycombinator.com/item?id=49317546</a></p>
-<p>Points: 12</p>
-<p># Comments: 7</p>
+<p>Points: 24</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://github.com/jitpass/jit](https://github.com/jitpass/jit)
 
 ---
 
-### 2. Falstad Math and Physics Simulations
+### 2. Health benefits of Tai Chi
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi">https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317279">https://news.ycombinator.com/item?id=49317279</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi](https://www.health.harvard.edu/exercise-and-fitness/the-health-benefits-of-tai-chi)
+
+---
+
+### 3. Falstad Math and Physics Simulations
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
-
----
-
-### 3. Government sponsored study on alcohol doesn't stand up to scrutiny
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
-<p>Points: 34</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
 
 ---
 
