@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 00:13:28
+**Last Update:** 2026-08-17 00:57:30
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Models Are Getting Dumber on Purpose
+### 1. The Case Against Formal Verification, 50 Years Later
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://w4g1.dev/blog/models-are-getting-dumber-on-purpose">https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322695">https://news.ycombinator.com/item?id=49322695</a></p>
-<p>Points: 118</p>
-<p># Comments: 69</p>
+<p>Article URL: <a href="https://ivan-gavran.github.io/0-social-processes-paper">https://ivan-gavran.github.io/0-social-processes-paper</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323459">https://news.ycombinator.com/item?id=49323459</a></p>
+<p>Points: 21</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://w4g1.dev/blog/models-are-getting-dumber-on-purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
+🔗 **Read more:** [https://ivan-gavran.github.io/0-social-processes-paper](https://ivan-gavran.github.io/0-social-processes-paper)
 
 ---
 
-### 2. Protobuf has LSP support. You're welcome
+### 2. Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://buf.build/blog/protobuf-lsp">https://buf.build/blog/protobuf-lsp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322573">https://news.ycombinator.com/item?id=49322573</a></p>
-<p>Points: 36</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://buf.build/blog/protobuf-lsp](https://buf.build/blog/protobuf-lsp)
-
----
-
-### 3. MathCode, Mathematical Coding Agent
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://math-ai-org.github.io/mathcode/">https://math-ai-org.github.io/mathcode/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322330">https://news.ycombinator.com/item?id=49322330</a></p>
-<p>Points: 27</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion">https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323381">https://news.ycombinator.com/item?id=49323381</a></p>
+<p>Points: 19</p>
 <p># Comments: 9</p>
 
-🔗 **Read more:** [https://math-ai-org.github.io/mathcode/](https://math-ai-org.github.io/mathcode/)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion)
+
+---
+
+### 3. ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/">https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323157">https://news.ycombinator.com/item?id=49323157</a></p>
+<p>Points: 67</p>
+<p># Comments: 30</p>
+
+🔗 **Read more:** [https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/](https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/)
 
 ---
 
@@ -97,42 +97,42 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 
 ---
 
-### 7. Senegal’s Saint-Louis Regatta keeps centuries of tradition alive
+### 7. Death toll rises to 84 from capsized ferry in Zimbabwe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands gathered in Saint-Louis, Senegal, for the annual regatta.
+The boat overturned during heavy winds near the Zambian border.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss)
 
 ---
 
-### 8. Anti-corruption raids in Baghdad as dozens of officials arrested
+### 8. Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.
+CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss)
 
 ---
 
-### 9. Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye
+### 9. Erdogan says Hamas acted sincerely, criticises Israeli attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.
+Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss)
 
 ---
 

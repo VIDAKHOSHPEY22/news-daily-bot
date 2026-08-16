@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T00:57:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Case Against Formal Verification, 50 Years Later",
+            "description": "<p>Article URL: <a href=\"https://ivan-gavran.github.io/0-social-processes-paper\">https://ivan-gavran.github.io/0-social-processes-paper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323459\">https://news.ycombinator.com/item?id=49323459</a></p>\n<p>Points: 21</p>\n<p># Comments: 8</p>",
+            "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+            "published": "Sun, 16 Aug 2026 20:38:58 +0000",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\">https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323381\">https://news.ycombinator.com/item?id=49323381</a></p>\n<p>Points: 19</p>\n<p># Comments: 9</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+            "published": "Sun, 16 Aug 2026 20:31:16 +0000",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
+            "description": "<p>Article URL: <a href=\"https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/\">https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323157\">https://news.ycombinator.com/item?id=49323157</a></p>\n<p>Points: 67</p>\n<p># Comments: 30</p>",
+            "url": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
+            "published": "Sun, 16 Aug 2026 20:05:24 +0000",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+            "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+            "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:58:14 GMT",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+            "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:03:04 GMT",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+            "description": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 20:07:40 GMT",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+            "description": "The boat overturned during heavy winds near the Zambian border.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 21:03:53 +0000",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+            "description": "CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 21:02:08 +0000",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+            "description": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 20:55:19 +0000",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T00:57:30+03:30"
+        }
+    ]
+}
