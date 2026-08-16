@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 16:24:02
+**Last Update:** 2026-08-16 16:36:04
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer
+### 1. Research papers using "kidney disappointment" instead of "kidney failure"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://scholar.google.com/scholar?q=%22kidney+disappointment%22">https://scholar.google.com/scholar?q=%22kidney+disappointment%22</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319389">https://news.ycombinator.com/item?id=49319389</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://scholar.google.com/scholar?q=%22kidney+disappointment%22](https://scholar.google.com/scholar?q=%22kidney+disappointment%22)
+
+---
+
+### 2. Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer
 
 **Source:** Hacker News
 
@@ -26,7 +42,7 @@
 
 ---
 
-### 2. Access to telemetry data: Automotive industry criticizes intelligence reform
+### 3. Access to telemetry data: Automotive industry criticizes intelligence reform
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html">https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319170">https://news.ycombinator.com/item?id=49319170</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html](https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html)
-
----
-
-### 3. Show HN: Grafana agent observability for Hermes Agent
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/alexander-akhmetov/grafana-agento11y-hermes">https://github.com/alexander-akhmetov/grafana-agento11y-hermes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49318128">https://news.ycombinator.com/item?id=49318128</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/alexander-akhmetov/grafana-agento11y-hermes](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)
 
 ---
 

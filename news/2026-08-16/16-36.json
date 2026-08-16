@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T16:36:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+            "description": "<p>Article URL: <a href=\"https://scholar.google.com/scholar?q=%22kidney+disappointment%22\">https://scholar.google.com/scholar?q=%22kidney+disappointment%22</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319389\">https://news.ycombinator.com/item?id=49319389</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+            "published": "Sun, 16 Aug 2026 12:22:20 +0000",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer\">https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319215\">https://news.ycombinator.com/item?id=49319215</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+            "published": "Sun, 16 Aug 2026 12:00:23 +0000",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Access to telemetry data: Automotive industry criticizes intelligence reform",
+            "description": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html\">https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49319170\">https://news.ycombinator.com/item?id=49319170</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html",
+            "published": "Sun, 16 Aug 2026 11:52:23 +0000",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+            "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+            "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 12:18:09 GMT",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "People who fled Stourbridge fires start to return home",
+            "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 12:14:44 GMT",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
+            "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
+            "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 00:39:22 GMT",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Belgium’s largest wildfire on record spreads towards German border",
+            "description": "Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 12:35:31 +0000",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+            "description": "Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 11:54:55 +0000",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Limited options’ for many Iranians as war with US chokes economy",
+            "description": "Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 11:38:50 +0000",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T16:36:04+03:30"
+        }
+    ]
+}
