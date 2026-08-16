@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 02:12:54
+**Last Update:** 2026-08-17 02:57:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,43 +19,42 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324087">https://news.ycombinator.com/item?id=49324087</a></p>
-<p>Points: 28</p>
-<p># Comments: 18</p>
+<p>Points: 75</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
 
 ---
 
-### 2. Claude Seems Down
+### 2. Stop Turning every purchase into a tip request
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Throwing "Authentication service was unavailable.", no updates on their status page, but there are on downdetector</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324078">https://news.ycombinator.com/item?id=49324078</a></p>
-<p>Points: 45</p>
-<p># Comments: 34</p>
+<p>Article URL: <a href="https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request">https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323874">https://news.ycombinator.com/item?id=49323874</a></p>
+<p>Points: 33</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49324078](https://news.ycombinator.com/item?id=49324078)
+🔗 **Read more:** [https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request](https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request)
 
 ---
 
-### 3. Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe
+### 3. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll">https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323932">https://news.ycombinator.com/item?id=49323932</a></p>
-<p>Points: 29</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323686">https://news.ycombinator.com/item?id=49323686</a></p>
+<p>Points: 57</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
+🔗 **Read more:** [https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
 
 ---
 
