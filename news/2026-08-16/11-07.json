@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T11:07:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
+            "description": "<p>Article URL: <a href=\"https://github.com/jitpass/jit\">https://github.com/jitpass/jit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49317546\">https://news.ycombinator.com/item?id=49317546</a></p>\n<p>Points: 12</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/jitpass/jit",
+            "published": "Sun, 16 Aug 2026 06:55:04 +0000",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Falstad Math and Physics Simulations",
+            "description": "<p>Article URL: <a href=\"https://www.falstad.com/mathphysics.html\">https://www.falstad.com/mathphysics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316872\">https://news.ycombinator.com/item?id=49316872</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.falstad.com/mathphysics.html",
+            "published": "Sun, 16 Aug 2026 04:19:32 +0000",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Government sponsored study on alcohol doesn't stand up to scrutiny",
+            "description": "<p>Article URL: <a href=\"https://nntaleb.substack.com/p/have-another-drink\">https://nntaleb.substack.com/p/have-another-drink</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316611\">https://news.ycombinator.com/item?id=49316611</a></p>\n<p>Points: 34</p>\n<p># Comments: 15</p>",
+            "url": "https://nntaleb.substack.com/p/have-another-drink",
+            "published": "Sun, 16 Aug 2026 03:23:34 +0000",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+            "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 04:13:32 GMT",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform UK plans to overhaul welfare system to save £50bn",
+            "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
+            "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 00:39:22 GMT",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+            "description": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 21:28:54 GMT",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+            "description": "Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.",
+            "url": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 07:04:29 +0000",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh make history with first-ever Test cricket win in Australia",
+            "description": "Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.",
+            "url": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 06:40:50 +0000",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How a simple lighter has become the backbone of life in Gaza",
+            "description": "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.",
+            "url": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 06:10:58 +0000",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T11:07:55+03:30"
+        }
+    ]
+}
