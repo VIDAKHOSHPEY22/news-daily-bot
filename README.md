@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 13:04:20
+**Last Update:** 2026-08-16 13:17:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://littlelearner-ll.github.io/">https://littlelearner-ll.github.io/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49317760">https://news.ycombinator.com/item?id=49317760</a></p>
-<p>Points: 88</p>
-<p># Comments: 56</p>
+<p>Points: 107</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://littlelearner-ll.github.io/](https://littlelearner-ll.github.io/)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
-<p>Points: 12</p>
+<p>Points: 15</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
@@ -97,7 +97,20 @@ Hundreds of homes and public buildings have been severely damaged with at least 
 
 ---
 
-### 7. Cincinnati Open: Djokovic stunned by Tirante in second round
+### 7. Live video captures panic as gunman opens fire at park in Kentucky
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Live video captures panic as gunman opens fire at park in Kentucky
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss)
+
+---
+
+### 8. Cincinnati Open: Djokovic stunned by Tirante in second round
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Op
 
 ---
 
-### 8. 3-year-old girl rescued 100 hours after Colombia earthquake
+### 9. 3-year-old girl rescued 100 hours after Colombia earthquake
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Op
 A three-year-old girl and a 75-year-old man have been pulled alive from the rubble days after Colombia’s earthquake.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/3-year-old-girl-rescued-100-hours-after-colombia-earthquake?traffic_source=rss)
-
----
-
-### 9. At least 12 people killed in Hungary bus crash
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Bus carrying Polish tourists overturns, killing 12 people and injuring 10 others on the M3 motorway near Mezokeresztes.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss)
 
 ---
 
