@@ -90,7 +90,16 @@
                 "Hacker News",
                 "Al Jazeera"
             ]
+        },
+        {
+            "time": "05-30",
+            "news_count": 9,
+            "sources": [
+                "BBC",
+                "Hacker News",
+                "Al Jazeera"
+            ]
         }
     ],
-    "total_news": 108
+    "total_news": 117
 }

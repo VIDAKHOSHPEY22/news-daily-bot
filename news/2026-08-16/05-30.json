@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-16T05:30:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The complete AI SEO playbook: from zero to 4.6M impressions in 3 months",
+            "description": "<p>Article URL: <a href=\"https://github.com/TraceCohenTech/ai-seo-playbook\">https://github.com/TraceCohenTech/ai-seo-playbook</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49315620\">https://news.ycombinator.com/item?id=49315620</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/TraceCohenTech/ai-seo-playbook",
+            "published": "Sun, 16 Aug 2026 00:19:59 +0000",
+            "fetched": "2026-08-16T05:30:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tea5767-Radio-Tuner",
+            "description": "<p>Article URL: <a href=\"https://github.com/turtushig22-blip/tea5767-radio-tuner\">https://github.com/turtushig22-blip/tea5767-radio-tuner</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49315456\">https://news.ycombinator.com/item?id=49315456</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+            "published": "Sat, 15 Aug 2026 23:54:35 +0000",
+            "fetched": "2026-08-16T05:30:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+            "description": "<p>Article URL: <a href=\"https://sugartrack-beta.vercel.app/\">https://sugartrack-beta.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49314884\">https://news.ycombinator.com/item?id=49314884</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+            "url": "https://sugartrack-beta.vercel.app/",
+            "published": "Sat, 15 Aug 2026 22:28:14 +0000",
+            "fetched": "2026-08-16T05:30:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+            "description": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 21:28:54 GMT",
+            "fetched": "2026-08-16T05:30:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+            "description": "Scotland Yard copied in all those who had signed up to receive a monthly update.",
+            "url": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 00:51:29 GMT",
+            "fetched": "2026-08-16T05:30:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+            "description": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
+            "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 00:39:22 GMT",
+            "fetched": "2026-08-16T05:30:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Army drops roses on Syrian crowds in a far cry from war",
+            "description": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 00:50:12 +0000",
+            "fetched": "2026-08-16T05:30:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+            "description": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 00:44:59 +0000",
+            "fetched": "2026-08-16T05:30:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
+            "description": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 00:00:45 +0000",
+            "fetched": "2026-08-16T05:30:48+03:30"
+        }
+    ]
+}
