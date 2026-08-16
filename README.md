@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 19:11:51
+**Last Update:** 2026-08-16 20:03:55
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The AI Credit Resale Economy
+### 1. The weekend is 100 years old
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vectoral.com/blog/who-are-the-token-brokers">https://vectoral.com/blog/who-are-the-token-brokers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320611">https://news.ycombinator.com/item?id=49320611</a></p>
-<p>Points: 44</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://vectoral.com/blog/who-are-the-token-brokers](https://vectoral.com/blog/who-are-the-token-brokers)
-
----
-
-### 2. Tasklet (YC P26) Is Hiring a Head of Design Engineering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tasklet.ai/careers/head-of-design-engineering">https://tasklet.ai/careers/head-of-design-engineering</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319892">https://news.ycombinator.com/item?id=49319892</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://tasklet.ai/careers/head-of-design-engineering](https://tasklet.ai/careers/head-of-design-engineering)
-
----
-
-### 3. Show HN: A public AI whose memory is shared across all users
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://wildstatic.com/">https://wildstatic.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49319814">https://news.ycombinator.com/item?id=49319814</a></p>
-<p>Points: 14</p>
+<p>Article URL: <a href="https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it">https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320984">https://news.ycombinator.com/item?id=49320984</a></p>
+<p>Points: 28</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://wildstatic.com/](https://wildstatic.com/)
+🔗 **Read more:** [https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
+
+---
+
+### 2. St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core">https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320856">https://news.ycombinator.com/item?id=49320856</a></p>
+<p>Points: 28</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
+
+---
+
+### 3. GPS and the Lost Art of Getting Lost
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost">https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320673">https://news.ycombinator.com/item?id=49320673</a></p>
+<p>Points: 8</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost](https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost)
 
 ---
 
@@ -84,20 +84,46 @@ Six people were injured in the strike on the market selling second-hand records,
 
 ---
 
-### 6. People who fled Stourbridge fires start to return home
+### 6. Emergency phone alert put domestic abuse victims at risk, campaigners say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Many families are only just discovering the extent of damage to their homes for the first time.
+The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii
+### 7. Moroccan migrants stage sit-in as thousands remain stranded in Ceuta
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss)
+
+---
+
+### 8. Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ukraine launched hundreds of drones across Russia, killing at least six people and striking a Wildberries logistics hub.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss)
+
+---
+
+### 9. Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Many families are only just discovering the extent of damage to their homes for 
 The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss)
-
----
-
-### 8. ‘The Mediterranean is a bridge, not a border’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Chris Fearne says Europe must look beyond its borders to solve its migration problem.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss)
-
----
-
-### 9. Ben-Gvir calls for nightly killings of Palestinians in Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel’s far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss)
 
 ---
 
