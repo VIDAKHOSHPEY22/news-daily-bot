@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 00:00:49
+**Last Update:** 2026-08-17 00:13:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://w4g1.dev/blog/models-are-getting-dumber-on-purpose">https://w4g1.dev/blog/models-are-getting-dumber-on-purpose</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322695">https://news.ycombinator.com/item?id=49322695</a></p>
-<p>Points: 93</p>
-<p># Comments: 43</p>
+<p>Points: 118</p>
+<p># Comments: 69</p>
 
 🔗 **Read more:** [https://w4g1.dev/blog/models-are-getting-dumber-on-purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://buf.build/blog/protobuf-lsp">https://buf.build/blog/protobuf-lsp</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322573">https://news.ycombinator.com/item?id=49322573</a></p>
-<p>Points: 28</p>
-<p># Comments: 4</p>
+<p>Points: 36</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://buf.build/blog/protobuf-lsp](https://buf.build/blog/protobuf-lsp)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://math-ai-org.github.io/mathcode/">https://math-ai-org.github.io/mathcode/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322330">https://news.ycombinator.com/item?id=49322330</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
+<p>Points: 27</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://math-ai-org.github.io/mathcode/](https://math-ai-org.github.io/mathcode/)
 
@@ -84,16 +84,16 @@ Moscow also launched deadly strikes against Ukraine overnight, sparking fires ac
 
 ---
 
-### 6. Emergency phone alert put domestic abuse victims at risk, campaigners say
+### 6. Five teenagers dead and four injured after car drives on wrong side of motorway
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk.
+The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss)
 
 ---
 
