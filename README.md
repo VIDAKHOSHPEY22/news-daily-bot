@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 06:37:42
+**Last Update:** 2026-08-16 06:54:02
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Mic Drop, a real-time multiplayer karaoke game
+### 1. Guiding Ships with Moire Patterns
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/">https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315995">https://news.ycombinator.com/item?id=49315995</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
+
+---
+
+### 2. Show HN: Mic Drop, a real-time multiplayer karaoke game
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.micdrop.gg/">https://www.micdrop.gg/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315742">https://news.ycombinator.com/item?id=49315742</a></p>
-<p>Points: 20</p>
+<p>Points: 23</p>
 <p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.micdrop.gg/](https://www.micdrop.gg/)
 
 ---
 
-### 2. Show HN: I built a native app for coding agents with Rust and GPUI
+### 3. Show HN: I built a native app for coding agents with Rust and GPUI
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://waku.sh">https://waku.sh</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315709">https://news.ycombinator.com/item?id=49315709</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://waku.sh](https://waku.sh)
-
----
-
-### 3. Big Pickle on SWE Atlas – Codebase QnA
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/PhillipChaffee/big-pickle-swe-atlas">https://github.com/PhillipChaffee/big-pickle-swe-atlas</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49315563">https://news.ycombinator.com/item?id=49315563</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/PhillipChaffee/big-pickle-swe-atlas](https://github.com/PhillipChaffee/big-pickle-swe-atlas)
 
 ---
 

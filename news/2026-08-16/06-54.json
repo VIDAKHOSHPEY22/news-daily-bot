@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T06:54:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Guiding Ships with Moire Patterns",
+            "description": "<p>Article URL: <a href=\"https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/\">https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49315995\">https://news.ycombinator.com/item?id=49315995</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+            "published": "Sun, 16 Aug 2026 01:26:44 +0000",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+            "description": "<p>Article URL: <a href=\"https://www.micdrop.gg/\">https://www.micdrop.gg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49315742\">https://news.ycombinator.com/item?id=49315742</a></p>\n<p>Points: 23</p>\n<p># Comments: 11</p>",
+            "url": "https://www.micdrop.gg/",
+            "published": "Sun, 16 Aug 2026 00:46:29 +0000",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+            "description": "<p>Article URL: <a href=\"https://waku.sh\">https://waku.sh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49315709\">https://news.ycombinator.com/item?id=49315709</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+            "url": "https://waku.sh",
+            "published": "Sun, 16 Aug 2026 00:38:44 +0000",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+            "description": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
+            "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 00:39:22 GMT",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+            "description": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 21:28:54 GMT",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+            "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 20:58:31 GMT",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+            "description": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 02:26:54 +0000",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+            "description": "Riders say the switch is helping them cut fuel and maintenance costs.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 01:43:57 +0000",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Army drops roses on Syrian crowds in a far cry from war",
+            "description": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 00:50:12 +0000",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T06:54:02+03:30"
+        }
+    ]
+}
