@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 09:19:30
+**Last Update:** 2026-08-16 10:22:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The quirky personal homepages of programming language creators
+### 1. Falstad Math and Physics Simulations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://breck.lol/plMakers.html">https://breck.lol/plMakers.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316888">https://news.ycombinator.com/item?id=49316888</a></p>
-<p>Points: 39</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.falstad.com/mathphysics.html">https://www.falstad.com/mathphysics.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316872">https://news.ycombinator.com/item?id=49316872</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://breck.lol/plMakers.html](https://breck.lol/plMakers.html)
-
----
-
-### 2. 21,000 MCP servers exposed: the protocol reaches a security inflection point
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/">https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316815">https://news.ycombinator.com/item?id=49316815</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/](https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/)
+🔗 **Read more:** [https://www.falstad.com/mathphysics.html](https://www.falstad.com/mathphysics.html)
 
 ---
 
-### 3. Targeted marine cloud brightening weakens subsequent El Niño
+### 2. Targeted marine cloud brightening weakens subsequent El Niño
 
 **Source:** Hacker News
 
@@ -51,14 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/doi/10.1126/sciadv.adx3012">https://www.science.org/doi/10.1126/sciadv.adx3012</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316685">https://news.ycombinator.com/item?id=49316685</a></p>
-<p>Points: 6</p>
+<p>Points: 15</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.science.org/doi/10.1126/sciadv.adx3012](https://www.science.org/doi/10.1126/sciadv.adx3012)
 
 ---
 
-### 4. Reform UK plans to overhaul welfare system to save £50bn
+### 3. Government sponsored study on alcohol doesn't stand up to scrutiny
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nntaleb.substack.com/p/have-another-drink">https://nntaleb.substack.com/p/have-another-drink</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49316611">https://news.ycombinator.com/item?id=49316611</a></p>
+<p>Points: 31</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://nntaleb.substack.com/p/have-another-drink](https://nntaleb.substack.com/p/have-another-drink)
+
+---
+
+### 4. Rescuers search for survivors of powerful Indonesia earthquake
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Reform UK plans to overhaul welfare system to save £50bn
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The party's proposed changes were they to come to power include a replacement fo
 
 ---
 
-### 5. Major incidents across UK putting firefighters under 'incredible pressure', fire chief says
+### 6. Major incidents across UK putting firefighters under 'incredible pressure', fire chief says
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ Major incidents declared across England and Wales with blazes in Stourbridge, Sa
 
 ---
 
-### 6. Ariana Grande leaves problems at home as her tour hits the UK
+### 7. How a simple lighter has become the backbone of life in Gaza
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The star plays the first of 10 dates in London, after which she will "step back" from public life.
+In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss)
 
 ---
 
-### 7. Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands
+### 8. A nation divided: What do Israelis want in October’s elections?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss)
+
+---
+
+### 9. Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The star plays the first of 10 dates in London, after which she will "step back"
 Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss)
-
----
-
-### 8. Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss)
-
----
-
-### 9. Israel strikes south Lebanon again as families flee north
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss)
 
 ---
 
