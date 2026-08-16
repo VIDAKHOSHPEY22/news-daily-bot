@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T01:59:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+            "description": "<p>Article URL: <a href=\"https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49324087\">https://news.ycombinator.com/item?id=49324087</a></p>\n<p>Points: 13</p>\n<p># Comments: 10</p>",
+            "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+            "published": "Sun, 16 Aug 2026 21:53:43 +0000",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Seems Down",
+            "description": "<p>Throwing \"Authentication service was unavailable.\", no updates on their status page, but there are on downdetector</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49324078\">https://news.ycombinator.com/item?id=49324078</a></p>\n<p>Points: 37</p>\n<p># Comments: 21</p>",
+            "url": "https://news.ycombinator.com/item?id=49324078",
+            "published": "Sun, 16 Aug 2026 21:52:59 +0000",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323686\">https://news.ycombinator.com/item?id=49323686</a></p>\n<p>Points: 28</p>\n<p># Comments: 3</p>",
+            "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+            "published": "Sun, 16 Aug 2026 21:07:10 +0000",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+            "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+            "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:58:14 GMT",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+            "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:03:04 GMT",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+            "description": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 20:07:40 GMT",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What could stop Israeli settler attacks on Palestinians?",
+            "description": "Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 21:54:58 +0000",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
+            "description": "Nearly 300 migrants and 61 alleged facilitators detained during mass migration attempt.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 21:51:39 +0000",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anwar Ibrahim: Malaysia between the superpowers",
+            "description": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.",
+            "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 21:23:03 +0000",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T01:59:31+03:30"
+        }
+    ]
+}

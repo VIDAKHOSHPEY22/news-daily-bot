@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 01:10:04
+**Last Update:** 2026-08-17 01:59:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
+### 1. Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324087">https://news.ycombinator.com/item?id=49324087</a></p>
+<p>Points: 13</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+
+---
+
+### 2. Claude Seems Down
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Throwing "Authentication service was unavailable.", no updates on their status page, but there are on downdetector</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324078">https://news.ycombinator.com/item?id=49324078</a></p>
+<p>Points: 37</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49324078](https://news.ycombinator.com/item?id=49324078)
+
+---
+
+### 3. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323686">https://news.ycombinator.com/item?id=49323686</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 28</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
-
----
-
-### 2. Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/">https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323620">https://news.ycombinator.com/item?id=49323620</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/](https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/)
-
----
-
-### 3. The Case Against Formal Verification, 50 Years Later
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ivan-gavran.github.io/0-social-processes-paper">https://ivan-gavran.github.io/0-social-processes-paper</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323459">https://news.ycombinator.com/item?id=49323459</a></p>
-<p>Points: 31</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://ivan-gavran.github.io/0-social-processes-paper](https://ivan-gavran.github.io/0-social-processes-paper)
 
 ---
 
@@ -97,7 +98,33 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 
 ---
 
-### 7. Anwar Ibrahim: Malaysia between the superpowers
+### 7. What could stop Israeli settler attacks on Palestinians?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss)
+
+---
+
+### 8. Hundreds of migrants arrested near Ceuta border in latest crackdown
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Nearly 300 migrants and 61 alleged facilitators detained during mass migration attempt.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss)
+
+---
+
+### 9. Anwar Ibrahim: Malaysia between the superpowers
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss](https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss)
-
----
-
-### 8. Death toll rises to 84 from capsized ferry in Zimbabwe
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The boat overturned during heavy winds near the Zambian border.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss)
-
----
-
-### 9. Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-CCTV from a Palestinian-owned cafe in Iceland shows what appear to be Israeli tourists ripping a framed map of Palestine
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss)
 
 ---
 
