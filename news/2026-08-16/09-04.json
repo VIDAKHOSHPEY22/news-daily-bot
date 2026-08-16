@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-16T09:04:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The quirky personal homepages of programming language creators",
+            "description": "<p>Article URL: <a href=\"https://breck.lol/plMakers.html\">https://breck.lol/plMakers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316888\">https://news.ycombinator.com/item?id=49316888</a></p>\n<p>Points: 32</p>\n<p># Comments: 9</p>",
+            "url": "https://breck.lol/plMakers.html",
+            "published": "Sun, 16 Aug 2026 04:24:00 +0000",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "21,000 MCP servers exposed: the protocol reaches a security inflection point",
+            "description": "<p>Article URL: <a href=\"https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/\">https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316815\">https://news.ycombinator.com/item?id=49316815</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
+            "published": "Sun, 16 Aug 2026 04:07:18 +0000",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Targeted marine cloud brightening weakens subsequent El Niño",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/sciadv.adx3012\">https://www.science.org/doi/10.1126/sciadv.adx3012</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49316685\">https://news.ycombinator.com/item?id=49316685</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.science.org/doi/10.1126/sciadv.adx3012",
+            "published": "Sun, 16 Aug 2026 03:40:05 +0000",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+            "description": "The party will release a full 50-page plan on Monday outlining the proposed changes - including a replacement for the disability payments system Pip - were they to come to power.",
+            "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 00:39:22 GMT",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+            "description": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 21:28:54 GMT",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ariana Grande leaves problems at home as her tour hits the UK",
+            "description": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 02:01:42 GMT",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+            "description": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar incidents.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 04:54:33 +0000",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel strikes south Lebanon again as families flee north",
+            "description": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 04:43:21 +0000",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+            "description": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.",
+            "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
+            "published": "Sun, 16 Aug 2026 04:35:26 +0000",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-16T09:04:32+03:30"
+        }
+    ]
+}
