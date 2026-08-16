@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-16 22:09:10
+**Last Update:** 2026-08-16 22:21:34
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
+### 1. I've built a free, open-source local and remote memory system for agentw and CL
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lorekit.io/blog/give-your-agent-a-memory">https://www.lorekit.io/blog/give-your-agent-a-memory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49322206">https://news.ycombinator.com/item?id=49322206</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.lorekit.io/blog/give-your-agent-a-memory](https://www.lorekit.io/blog/give-your-agent-a-memory)
+
+---
+
+### 2. A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://rvembedded.com/blog_post/12/">https://rvembedded.com/blog_post/12/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321717">https://news.ycombinator.com/item?id=49321717</a></p>
-<p>Points: 47</p>
-<p># Comments: 16</p>
+<p>Points: 73</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://rvembedded.com/blog_post/12/](https://rvembedded.com/blog_post/12/)
 
 ---
 
-### 2. NIH is ending a key grant for budding clinical researchers
+### 3. NIH is ending a key grant for budding clinical researchers
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers">https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49321353">https://news.ycombinator.com/item?id=49321353</a></p>
-<p>Points: 49</p>
-<p># Comments: 12</p>
+<p>Points: 61</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers)
-
----
-
-### 3. The weekend is 100 years old
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it">https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49320984">https://news.ycombinator.com/item?id=49320984</a></p>
-<p>Points: 94</p>
-<p># Comments: 58</p>
-
-🔗 **Read more:** [https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it)
 
 ---
 
