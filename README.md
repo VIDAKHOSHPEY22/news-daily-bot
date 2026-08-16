@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 01:59:31
+**Last Update:** 2026-08-17 02:12:54
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324087">https://news.ycombinator.com/item?id=49324087</a></p>
-<p>Points: 13</p>
-<p># Comments: 10</p>
+<p>Points: 28</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
 
@@ -36,26 +36,26 @@
 <p>Throwing "Authentication service was unavailable.", no updates on their status page, but there are on downdetector</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324078">https://news.ycombinator.com/item?id=49324078</a></p>
-<p>Points: 37</p>
-<p># Comments: 21</p>
+<p>Points: 45</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49324078](https://news.ycombinator.com/item?id=49324078)
 
 ---
 
-### 3. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
+### 3. Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323686">https://news.ycombinator.com/item?id=49323686</a></p>
-<p>Points: 28</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll">https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323932">https://news.ycombinator.com/item?id=49323932</a></p>
+<p>Points: 29</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
+🔗 **Read more:** [https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll](https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll)
 
 ---
 
