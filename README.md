@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 02:02:13
+**Last Update:** 2026-08-18 02:16:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 36</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html">https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338404">https://news.ycombinator.com/item?id=49338404</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Points: 11</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
 
 ---
 
-### 3. Fairphone 6 and PostmarketOS working main camera
+### 3. Quake Shareware, a CD-ROM just a little too full
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera">https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338285">https://news.ycombinator.com/item?id=49338285</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://fabiensanglard.net/quake_shareware_cd/index.html">https://fabiensanglard.net/quake_shareware_cd/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338328">https://news.ycombinator.com/item?id=49338328</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+🔗 **Read more:** [https://fabiensanglard.net/quake_shareware_cd/index.html](https://fabiensanglard.net/quake_shareware_cd/index.html)
 
 ---
 
