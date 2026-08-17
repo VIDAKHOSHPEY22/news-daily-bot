@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 03:09:50
+**Last Update:** 2026-08-17 05:17:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing
+### 1. Physicists discover a hidden gluon structure inside protons
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49324087">https://news.ycombinator.com/item?id=49324087</a></p>
-<p>Points: 75</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/08/260815064805.htm">https://www.sciencedaily.com/releases/2026/08/260815064805.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325508">https://news.ycombinator.com/item?id=49325508</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/08/260815064805.htm](https://www.sciencedaily.com/releases/2026/08/260815064805.htm)
 
 ---
 
-### 2. Stop Turning every purchase into a tip request
+### 2. Rhombus 1.1 is now available
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request">https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323874">https://news.ycombinator.com/item?id=49323874</a></p>
-<p>Points: 33</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://blog.racket-lang.org/2026/08/rhombus-v1.1.html">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325384">https://news.ycombinator.com/item?id=49325384</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request](https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request)
+🔗 **Read more:** [https://blog.racket-lang.org/2026/08/rhombus-v1.1.html](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
 
 ---
 
-### 3. Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
+### 3. The Life and Death of Direct File [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/">https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49323686">https://news.ycombinator.com/item?id=49323686</a></p>
-<p>Points: 57</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf">https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325185">https://news.ycombinator.com/item?id=49325185</a></p>
+<p>Points: 41</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/](https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/)
+🔗 **Read more:** [https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
 
 ---
 
@@ -97,42 +97,42 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 
 ---
 
-### 7. What could stop Israeli settler attacks on Palestinians?
+### 7. Israeli settlers pitch tents for new illegal outpost in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.
+UN Special Rapporteur Albanese warns that Israel is &#039;using settlers to advance ethnic cleansing&#039; in the West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Hundreds of migrants arrested near Ceuta border in latest crackdown
+### 8. Can the AU make its current Sudan mission count?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nearly 300 migrants and 61 alleged facilitators detained during mass migration attempt.
+The African Union is seeking progress in Sudan, but must overcome deep battlefield and diplomatic divisions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss)
 
 ---
 
-### 9. Anwar Ibrahim: Malaysia between the superpowers
+### 9. Trump says US to ‘substantially reduce’ military drills with South Korea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.
+US president says he&#039;s &#039;not happy&#039; about the drills, citing his &#039;very good relationship&#039; with North Korea&#039;s Kim Jong Un.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss](https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss)
 
 ---
 
