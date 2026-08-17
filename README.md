@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 00:18:54
+**Last Update:** 2026-08-18 01:02:35
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Will you have spent more of your life with computers than your family?
+### 1. The Origin of Consciousness (2008)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.plover.com/brain/Jaynes.html">https://blog.plover.com/brain/Jaynes.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336909">https://news.ycombinator.com/item?id=49336909</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://blog.plover.com/brain/Jaynes.html](https://blog.plover.com/brain/Jaynes.html)
+
+---
+
+### 2. Will you have spent more of your life with computers than your family?
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/">https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336672">https://news.ycombinator.com/item?id=49336672</a></p>
-<p>Points: 38</p>
-<p># Comments: 23</p>
+<p>Points: 64</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/](https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/)
 
 ---
 
-### 2. AI;DR (AI; Didn't Read)
+### 3. AI;DR (AI; Didn't Read)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.rickmanelius.com/p/aidr-ai-didnt-read">https://www.rickmanelius.com/p/aidr-ai-didnt-read</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336573">https://news.ycombinator.com/item?id=49336573</a></p>
-<p>Points: 194</p>
-<p># Comments: 93</p>
+<p>Points: 316</p>
+<p># Comments: 184</p>
 
 🔗 **Read more:** [https://www.rickmanelius.com/p/aidr-ai-didnt-read](https://www.rickmanelius.com/p/aidr-ai-didnt-read)
-
----
-
-### 3. India has paved the way for charging merchants a fee on UPI transactions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c8xnwqe00v1o">https://www.bbc.com/news/articles/c8xnwqe00v1o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336304">https://news.ycombinator.com/item?id=49336304</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/c8xnwqe00v1o](https://www.bbc.com/news/articles/c8xnwqe00v1o)
 
 ---
 
@@ -91,48 +91,48 @@ The US actress, who has died at the age of 36, starred in the TV shows Heroes an
 **Category:** world
 
 **Description:**
-Senior Fifa figure Kevin Lamour is sacked football's world governing body three weeks after criticising its president Gianni Infantino.
+Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
 
 🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why did Trump scale back war games with South Korea?
+### 7. Palestinian American reunites with family under siege in West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president cites good relationship with North Korean leader Kim Jong Un
+Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Gaza flotilla sets sail from the UK in bid to break Israeli siege
+### 8. Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.
+UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss)
 
 ---
 
-### 9. Photos: Search for Indonesia earthquake victims continues
+### 9. Trump says Iran will not make the deal he believes is necessary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.
+Trump says Iran will not make the deal he believes is necessary
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss)
 
 ---
 
