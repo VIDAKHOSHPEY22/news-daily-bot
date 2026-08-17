@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T22:20:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
+            "description": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world\">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49335600\">https://news.ycombinator.com/item?id=49335600</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+            "published": "Mon, 17 Aug 2026 18:34:09 +0000",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How I Over-Engineered My Book",
+            "description": "<p>Article URL: <a href=\"https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/\">https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49335292\">https://news.ycombinator.com/item?id=49335292</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
+            "published": "Mon, 17 Aug 2026 18:15:27 +0000",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+            "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html\">https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49335163\">https://news.ycombinator.com/item?id=49335163</a></p>\n<p>Points: 18</p>\n<p># Comments: 5</p>",
+            "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+            "published": "Mon, 17 Aug 2026 18:06:30 +0000",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+            "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 16:26:34 GMT",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36",
+            "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 17:31:36 GMT",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 14:24:58 GMT",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
+            "description": "Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 18:02:15 +0000",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
+            "description": "Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 17:42:02 +0000",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+            "description": "Family members allege security officers ignored warnings about the man&#039;s hemophilia and subjected him to severe abuse.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 17:37:31 +0000",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T22:20:28+03:30"
+        }
+    ]
+}

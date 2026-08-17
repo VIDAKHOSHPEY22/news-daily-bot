@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 21:20:23
+**Last Update:** 2026-08-17 22:20:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Buy Your Friends Batteries
+### 1. The Lonely Men Who Work in Patagonia, at the End of the World
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://domenkozar.com/2026/08/17/buy-your-friends-batteries/">https://domenkozar.com/2026/08/17/buy-your-friends-batteries/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49333932">https://news.ycombinator.com/item?id=49333932</a></p>
-<p>Points: 44</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335600">https://news.ycombinator.com/item?id=49335600</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://domenkozar.com/2026/08/17/buy-your-friends-batteries/](https://domenkozar.com/2026/08/17/buy-your-friends-batteries/)
+🔗 **Read more:** [https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 
 ---
 
-### 2. Sun Clock
+### 2. How I Over-Engineered My Book
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sunclock.net/">https://sunclock.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49333824">https://news.ycombinator.com/item?id=49333824</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/">https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335292">https://news.ycombinator.com/item?id=49335292</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://sunclock.net/](https://sunclock.net/)
+🔗 **Read more:** [https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
 
 ---
 
-### 3. Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study
+### 3. Meta faces 'astronomical' consequences as legal fight reaches critical moment
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/">https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49332981">https://news.ycombinator.com/item?id=49332981</a></p>
-<p>Points: 266</p>
-<p># Comments: 349</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html">https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335163">https://news.ycombinator.com/item?id=49335163</a></p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/](https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/)
+🔗 **Read more:** [https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
 
 ---
 
@@ -78,7 +78,7 @@ Trump's threat on Oman, which has been holding its own talks with Iran to reopen
 **Category:** world
 
 **Description:**
-Police say there were no signs of foul play or suspicious circumstances in the Heroes and Nashville star's death.
+The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Downing Street has declined to comment on the security breach, first reported by
 
 ---
 
-### 7. Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections
+### 7. CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-On Monday, Israel&#039;s governing party will determine its candidate list for the next election.
+Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss)
 
 ---
 
-### 8. Palestinians, Israelis sceptical of Gaza plan as Kushner visits region
+### 8. Clashes between government and opposition fighters in Somalia’s Baidoa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.
+Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss)
 
 ---
 
-### 9. British PM Burnham duped by White House impostor
+### 9. Syria launches probe into death of ‘White Helmet’ rescuer in police custody
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The FBI has warned of &#039;malicious actors&#039; misusing AI to impersonate senior government officials.
+Family members allege security officers ignored warnings about the man&#039;s hemophilia and subjected him to severe abuse.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss)
 
 ---
 
