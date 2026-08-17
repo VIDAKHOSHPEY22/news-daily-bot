@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T19:02:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: GitHub employees what's going on? Why?",
+            "description": "<p>Pretty self explanatory. Could you folks shed some light on why these issues keep happening?<p>I’ve noticed most posts and replies are just people coming to their own conclusions based on whatever published data.<p>I think it would be helpful to get some actual, non-corporate/marketing information on the goings-on by those that actually see what’s happening on the inside.<p>Thanks<p>Can</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49332495\">https://news.ycombinator.com/item?id=49332495</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://news.ycombinator.com/item?id=49332495",
+            "published": "Mon, 17 Aug 2026 15:19:31 +0000",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP",
+            "description": "<p>Article URL: <a href=\"https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu\">https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331607\">https://news.ycombinator.com/item?id=49331607</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu",
+            "published": "Mon, 17 Aug 2026 14:29:18 +0000",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Eve Software Factory",
+            "description": "<p>Build a software factory in minutes with this free OSS template</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331599\">https://news.ycombinator.com/item?id=49331599</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/vercel-labs/eve-software-factory-template/tree/main",
+            "published": "Mon, 17 Aug 2026 14:28:49 +0000",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+            "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 14:59:02 GMT",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 14:24:58 GMT",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police execute controlled World War II–era Mine explosion",
+            "description": "Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 15:08:17 +0000",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
+            "description": "President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November&#039;s US midterms.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 15:06:14 +0000",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+            "description": "Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 14:15:17 +0000",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T19:02:12+03:30"
+        }
+    ]
+}

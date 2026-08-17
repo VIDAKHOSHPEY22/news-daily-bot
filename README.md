@@ -1,60 +1,62 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 18:19:55
+**Last Update:** 2026-08-17 19:02:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira
+### 1. Ask HN: GitHub employees what's going on? Why?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331423">https://news.ycombinator.com/item?id=49331423</a></p>
-<p>Points: 4</p>
+<p>Pretty self explanatory. Could you folks shed some light on why these issues keep happening?<p>I’ve noticed most posts and replies are just people coming to their own conclusions based on whatever published data.<p>I think it would be helpful to get some actual, non-corporate/marketing information on the goings-on by those that actually see what’s happening on the inside.<p>Thanks<p>Can</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49332495">https://news.ycombinator.com/item?id=49332495</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49332495](https://news.ycombinator.com/item?id=49332495)
 
 ---
 
-### 2. Apple's App Tracking Transparency treated its own apps better than rivals
+### 2. Qwen3.8-27B at 256K on a 24GB RTX PRO 4000 SFF (432 GB/s): 50 tok/s with MTP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html">https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331222">https://news.ycombinator.com/item?id=49331222</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu">https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331607">https://news.ycombinator.com/item?id=49331607</a></p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
+🔗 **Read more:** [https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu](https://piszczek.pl/blog/qwen38-27b-256k-50-tps-24gb-gpu)
 
 ---
 
-### 3. How to disable or avoid intrusive AI
+### 3. Show HN: Eve Software Factory
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.librarian.net/notoai/">https://www.librarian.net/notoai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331220">https://news.ycombinator.com/item?id=49331220</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Build a software factory in minutes with this free OSS template</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331599">https://news.ycombinator.com/item?id=49331599</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.librarian.net/notoai/](https://www.librarian.net/notoai/)
+🔗 **Read more:** [https://github.com/vercel-labs/eve-software-factory-template/tree/main](https://github.com/vercel-labs/eve-software-factory-template/tree/main)
 
 ---
 
@@ -97,7 +99,33 @@ Mothers describe battles to make ex-partners pay, while fathers say they have be
 
 ---
 
-### 7. Iran signals readiness for ‘US ground operations’ as MoU expires
+### 7. Police execute controlled World War II–era Mine explosion
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss)
+
+---
+
+### 8. Trump demands Iran ‘put up the white flag of surrender’ as MoU expires
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+President also claims US is in direct contact with IRGC, denies a rush to end conflict ahead of November&#039;s US midterms.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss)
+
+---
+
+### 9. Iran signals readiness for ‘US ground operations’ as MoU expires
 
 **Source:** Al Jazeera
 
@@ -107,32 +135,6 @@ Mothers describe battles to make ex-partners pay, while fathers say they have be
 Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss)
-
----
-
-### 8. Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss)
-
----
-
-### 9. Lula and Bolsonaro’s son launch rival bids for Brazil presidency
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Brazil’s presidential race is officially underway.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss)
 
 ---
 
