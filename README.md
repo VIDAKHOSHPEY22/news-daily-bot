@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 12:34:46
+**Last Update:** 2026-08-17 13:21:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://duti.dev/blog/2026/spr/">https://duti.dev/blog/2026/spr/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327490">https://news.ycombinator.com/item?id=49327490</a></p>
-<p>Points: 21</p>
-<p># Comments: 4</p>
+<p>Points: 28</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://duti.dev/blog/2026/spr/](https://duti.dev/blog/2026/spr/)
 
 ---
 
-### 2. $12B of US ratepayers' money wasted on a modeling mistake in PJM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326825">https://news.ycombinator.com/item?id=49326825</a></p>
-<p>Points: 41</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
-
----
-
-### 3. Linear algebra done right
+### 2. Linear algebra done right
 
 **Source:** Hacker News
 
@@ -51,27 +35,30 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 60</p>
-<p># Comments: 28</p>
+<p>Points: 78</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
 ---
 
-### 4. Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan
+### 3. GIMP Development Update
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.
+<p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
+<p>Points: 164</p>
+<p># Comments: 96</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
 ---
 
-### 5. Parents pushed to breaking point by Child Maintenance Service, BBC told
+### 4. Parents pushed to breaking point by Child Maintenance Service, BBC told
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime 
 Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,33 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Scottie Scheffler wins St Jude Championship by eight shots
+### 7. Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Modi&#039;s BJP once controlled media narratives in India, but this might be changing with the &#039;Cockroach&#039; movement.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss)
+
+---
+
+### 8. Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Children on Tonle Sap sacrifice education, with many working to help their families cover increasing fuel costs.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss)
+
+---
+
+### 9. Scottie Scheffler wins St Jude Championship by eight shots
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 Scheffler&#039;s 21st career PGA Tour title earns the American $3.6m for his resounding victory at TPC Southwind.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss)
-
----
-
-### 8. Cincinnati Open: Sabalenka takes six match points to defeat Gibson
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Top-ranked Aryna Sabalenka escapes with a nail-biting win while Felix Auger-Aliassime downs ex-champ Stefanos Tsitsipas.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/cincinnati-open-sabalenka-takes-six-match-points-to-defeat-gibson?traffic_source=rss)
-
----
-
-### 9. Outrage as Colombia’s president hands out footballs as residents await aid
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss)
 
 ---
 
