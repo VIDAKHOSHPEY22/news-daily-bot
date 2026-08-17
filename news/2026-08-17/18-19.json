@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T18:19:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+            "description": "<p>Article URL: <a href=\"https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331423\">https://news.ycombinator.com/item?id=49331423</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+            "published": "Mon, 17 Aug 2026 14:18:38 +0000",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+            "description": "<p>Article URL: <a href=\"https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html\">https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331222\">https://news.ycombinator.com/item?id=49331222</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+            "published": "Mon, 17 Aug 2026 14:07:59 +0000",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to disable or avoid intrusive AI",
+            "description": "<p>Article URL: <a href=\"https://www.librarian.net/notoai/\">https://www.librarian.net/notoai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331220\">https://news.ycombinator.com/item?id=49331220</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://www.librarian.net/notoai/",
+            "published": "Mon, 17 Aug 2026 14:07:56 +0000",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+            "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 14:36:44 GMT",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 14:24:58 GMT",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+            "description": "Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 14:15:17 +0000",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+            "description": "Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 14:12:08 +0000",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
+            "description": "Brazil’s presidential race is officially underway.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 14:03:26 +0000",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T18:19:55+03:30"
+        }
+    ]
+}

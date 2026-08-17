@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 18:05:53
+**Last Update:** 2026-08-17 18:19:55
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331423">https://news.ycombinator.com/item?id=49331423</a></p>
-<p>Points: 3</p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html">https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331222">https://news.ycombinator.com/item?id=49331222</a></p>
-<p>Points: 6</p>
+<p>Points: 13</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://www.librarian.net/notoai/">https://www.librarian.net/notoai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49331220">https://news.ycombinator.com/item?id=49331220</a></p>
-<p>Points: 5</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.librarian.net/notoai/](https://www.librarian.net/notoai/)
 
 ---
 
-### 4. Parents pushed to breaking point by Child Maintenance Service, BBC told
+### 4. Trump threatens to bomb Oman if it 'gets in the way' over Iran issue
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
+The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,16 +84,16 @@ Downing Street has declined to comment on the security breach, first reported by
 
 ---
 
-### 6. Rain on way for UK with temperatures to drop to overnight lows of 3C in some places
+### 6. Parents pushed to breaking point by Child Maintenance Service, BBC told
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-After an exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains
+Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss)
 
 ---
 
