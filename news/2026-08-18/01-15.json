@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T01:15:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Origin of Consciousness (2008)",
+            "description": "<p>Article URL: <a href=\"https://blog.plover.com/brain/Jaynes.html\">https://blog.plover.com/brain/Jaynes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336909\">https://news.ycombinator.com/item?id=49336909</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.plover.com/brain/Jaynes.html",
+            "published": "Mon, 17 Aug 2026 20:12:58 +0000",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Will you have spent more of your life with computers than your family?",
+            "description": "<p>Article URL: <a href=\"https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/\">https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336672\">https://news.ycombinator.com/item?id=49336672</a></p>\n<p>Points: 64</p>\n<p># Comments: 54</p>",
+            "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
+            "published": "Mon, 17 Aug 2026 19:56:30 +0000",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI;DR (AI; Didn't Read)",
+            "description": "<p>Article URL: <a href=\"https://www.rickmanelius.com/p/aidr-ai-didnt-read\">https://www.rickmanelius.com/p/aidr-ai-didnt-read</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336573\">https://news.ycombinator.com/item?id=49336573</a></p>\n<p>Points: 316</p>\n<p># Comments: 184</p>",
+            "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+            "published": "Mon, 17 Aug 2026 19:47:15 +0000",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+            "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 19:25:05 GMT",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+            "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 21:43:57 GMT",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
+            "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 20:46:08 GMT",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian American reunites with family under siege in West Bank",
+            "description": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 20:57:19 +0000",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
+            "description": "UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 20:54:03 +0000",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says Iran will not make the deal he believes is necessary",
+            "description": "Trump says Iran will not make the deal he believes is necessary",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 20:49:30 +0000",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T01:15:38+03:30"
+        }
+    ]
+}
