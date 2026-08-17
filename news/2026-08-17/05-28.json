@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T05:28:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rhombus 1.1 is now available",
+            "description": "<p>Article URL: <a href=\"https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325384\">https://news.ycombinator.com/item?id=49325384</a></p>\n<p>Points: 13</p>\n<p># Comments: 5</p>",
+            "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+            "published": "Mon, 17 Aug 2026 00:48:21 +0000",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Life and Death of Direct File [pdf]",
+            "description": "<p>Article URL: <a href=\"https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf\">https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325185\">https://news.ycombinator.com/item?id=49325185</a></p>\n<p>Points: 48</p>\n<p># Comments: 17</p>",
+            "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+            "published": "Mon, 17 Aug 2026 00:17:57 +0000",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The federal keyword lists that canceled billions in research funding",
+            "description": "<p>Article URL: <a href=\"https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/\">https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325159\">https://news.ycombinator.com/item?id=49325159</a></p>\n<p>Points: 45</p>\n<p># Comments: 3</p>",
+            "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+            "published": "Mon, 17 Aug 2026 00:14:10 +0000",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+            "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+            "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:58:14 GMT",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+            "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:03:04 GMT",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+            "description": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 20:07:40 GMT",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
+            "description": "UN Special Rapporteur Albanese warns that Israel is &#039;using settlers to advance ethnic cleansing&#039; in the West Bank.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 01:28:13 +0000",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can the AU make its current Sudan mission count?",
+            "description": "The African Union is seeking progress in Sudan, but must overcome deep battlefield and diplomatic divisions.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 01:13:37 +0000",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
+            "description": "US president says he&#039;s &#039;not happy&#039; about the drills, citing his &#039;very good relationship&#039; with North Korea&#039;s Kim Jong Un.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 00:11:18 +0000",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T05:28:52+03:30"
+        }
+    ]
+}

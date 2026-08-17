@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 05:17:49
+**Last Update:** 2026-08-17 05:28:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Physicists discover a hidden gluon structure inside protons
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/08/260815064805.htm">https://www.sciencedaily.com/releases/2026/08/260815064805.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325508">https://news.ycombinator.com/item?id=49325508</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/08/260815064805.htm](https://www.sciencedaily.com/releases/2026/08/260815064805.htm)
-
----
-
-### 2. Rhombus 1.1 is now available
+### 1. Rhombus 1.1 is now available
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.racket-lang.org/2026/08/rhombus-v1.1.html">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325384">https://news.ycombinator.com/item?id=49325384</a></p>
-<p>Points: 8</p>
-<p># Comments: 3</p>
+<p>Points: 13</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://blog.racket-lang.org/2026/08/rhombus-v1.1.html](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
 
 ---
 
-### 3. The Life and Death of Direct File [pdf]
+### 2. The Life and Death of Direct File [pdf]
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf">https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325185">https://news.ycombinator.com/item?id=49325185</a></p>
-<p>Points: 41</p>
-<p># Comments: 11</p>
+<p>Points: 48</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+
+---
+
+### 3. The federal keyword lists that canceled billions in research funding
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/">https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325159">https://news.ycombinator.com/item?id=49325159</a></p>
+<p>Points: 45</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/](https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/)
 
 ---
 
