@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 23:04:20
+**Last Update:** 2026-08-17 23:17:26
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/">https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336050">https://news.ycombinator.com/item?id=49336050</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 35</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335600">https://news.ycombinator.com/item?id=49335600</a></p>
-<p>Points: 44</p>
-<p># Comments: 9</p>
+<p>Points: 47</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://blog.roboflow.com/roboflow-playground/">https://blog.roboflow.com/roboflow-playground/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335517">https://news.ycombinator.com/item?id=49335517</a></p>
-<p>Points: 7</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://blog.roboflow.com/roboflow-playground/](https://blog.roboflow.com/roboflow-playground/)
@@ -97,7 +97,20 @@ Downing Street has declined to comment on the security breach, first reported by
 
 ---
 
-### 7. Death toll from capsized ferry in Zimbabwe rises to 92
+### 7. Photos: Search for Indonesia earthquake victims continues
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least 68 killed in eastern Indonesia as aftershocks and landslides hamper aid.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss)
+
+---
+
+### 8. Death toll from capsized ferry in Zimbabwe rises to 92
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Search efforts to recover the remaining victims are still underway.
 
 ---
 
-### 8. Russian politician sentenced to 11 years for opposing war in Ukraine
+### 9. Russian politician sentenced to 11 years for opposing war in Ukraine
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Search efforts to recover the remaining victims are still underway.
 Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss)
-
----
-
-### 9. Russia maintains election ban on opposition Yabloko, jails deputy head
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Supreme Court ruling supports Kremlin&#039;s clampdown on the political party ahead of September&#039;s parliamentary vote.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss)
 
 ---
 
