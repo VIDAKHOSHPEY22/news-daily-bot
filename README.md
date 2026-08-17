@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 09:25:56
+**Last Update:** 2026-08-17 10:39:20
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gmail might partially be to blame for receiving emails from other Sean Conners
+### 1. $12B of US ratepayers' money wasted on a modeling mistake in PJM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://boston.conman.org/2026/08/11.1">https://boston.conman.org/2026/08/11.1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326229">https://news.ycombinator.com/item?id=49326229</a></p>
-<p>Points: 25</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://boston.conman.org/2026/08/11.1](https://boston.conman.org/2026/08/11.1)
-
----
-
-### 2. Strong Gravitational Lensing and Microlensing of Supernovae
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5">https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326071">https://news.ycombinator.com/item?id=49326071</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
-
----
-
-### 3. AGI-64 Brings Sierra Adventures to the Commodore 64
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325714">https://news.ycombinator.com/item?id=49325714</a></p>
-<p>Points: 50</p>
+<p>Article URL: <a href="https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326825">https://news.ycombinator.com/item?id=49326825</a></p>
+<p>Points: 22</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
+🔗 **Read more:** [https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
+
+---
+
+### 2. Linear Algebra Done Right – Sheldon Axler
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
+
+---
+
+### 3. GIMP Development Update
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
 ---
 
@@ -97,42 +97,42 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Iran’s top negotiator declares victory in war against the US and Israel
+### 7. Rodri headed to Barcelona after Man City accepts transfer bid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.
+Spain’s World Cup-winning captain Rodri is returning to his homeland after Man City agree transfer to Barcelona.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/rodri-headed-to-barcelona-after-man-city-accepts-transfer-bid?traffic_source=rss)
 
 ---
 
-### 8. Lawyer says Israel’s targeting of Palestinian women is a form of genocide
+### 8. Japan’s economy slows, missing growth forecasts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.
+GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss)
 
 ---
 
-### 9. Thieves steal Renaissance artworks in museum heist during Italian holiday
+### 9. Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.
+The Indomitable Lionesses outshine their opponents to claim first final victory on their fourth attempt in Morocco.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss)
 
 ---
 
