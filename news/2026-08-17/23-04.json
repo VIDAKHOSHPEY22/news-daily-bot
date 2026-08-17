@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T23:04:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AirTag reveals Amazon is trashing rare books to train AI",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/\">https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336050\">https://news.ycombinator.com/item?id=49336050</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+            "published": "Mon, 17 Aug 2026 19:06:11 +0000",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
+            "description": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world\">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49335600\">https://news.ycombinator.com/item?id=49335600</a></p>\n<p>Points: 44</p>\n<p># Comments: 9</p>",
+            "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+            "published": "Mon, 17 Aug 2026 18:34:09 +0000",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+            "description": "<p>Article URL: <a href=\"https://blog.roboflow.com/roboflow-playground/\">https://blog.roboflow.com/roboflow-playground/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49335517\">https://news.ycombinator.com/item?id=49335517</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.roboflow.com/roboflow-playground/",
+            "published": "Mon, 17 Aug 2026 18:28:07 +0000",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+            "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 19:25:05 GMT",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+            "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 17:31:36 GMT",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 18:51:22 GMT",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Death toll from capsized ferry in Zimbabwe rises to 92",
+            "description": "Search efforts to recover the remaining victims are still underway.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 19:12:19 +0000",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
+            "description": "Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 18:53:06 +0000",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+            "description": "Supreme Court ruling supports Kremlin&#039;s clampdown on the political party ahead of September&#039;s parliamentary vote.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 18:46:12 +0000",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T23:04:20+03:30"
+        }
+    ]
+}

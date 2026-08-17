@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 22:34:42
+**Last Update:** 2026-08-17 23:04:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Lonely Men Who Work in Patagonia, at the End of the World
+### 1. AirTag reveals Amazon is trashing rare books to train AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/">https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49336050">https://news.ycombinator.com/item?id=49336050</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/](https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/)
+
+---
+
+### 2. The Lonely Men Who Work in Patagonia, at the End of the World
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335600">https://news.ycombinator.com/item?id=49335600</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Points: 44</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 
 ---
 
-### 2. Roboflow Playground: Try and Compare 30 Computer Vision Models
+### 3. Roboflow Playground: Try and Compare 30 Computer Vision Models
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.roboflow.com/roboflow-playground/">https://blog.roboflow.com/roboflow-playground/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335517">https://news.ycombinator.com/item?id=49335517</a></p>
-<p>Points: 4</p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://blog.roboflow.com/roboflow-playground/](https://blog.roboflow.com/roboflow-playground/)
-
----
-
-### 3. How I Over-Engineered My Book
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/">https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335292">https://news.ycombinator.com/item?id=49335292</a></p>
-<p>Points: 7</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
 
 ---
 
@@ -71,7 +71,7 @@ Trump's threat on Oman, which has been holding its own talks with Iran to reopen
 
 ---
 
-### 5. Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36
+### 5. Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Downing Street has declined to comment on the security breach, first reported by
 
 ---
 
-### 7. CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations
+### 7. Death toll from capsized ferry in Zimbabwe rises to 92
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Abbott accuses airports of religious discrimination over wudu stations, calls for federal investigation.
+Search efforts to recover the remaining victims are still underway.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss)
 
 ---
 
-### 8. Clashes between government and opposition fighters in Somalia’s Baidoa
+### 8. Russian politician sentenced to 11 years for opposing war in Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.
+Lev Shlosberg, a senior member of the Yabloko party, was sentenced to 11 years and one month in prison on Monday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss)
 
 ---
 
-### 9. Syria launches probe into death of ‘White Helmet’ rescuer in police custody
+### 9. Russia maintains election ban on opposition Yabloko, jails deputy head
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Family members allege security officers ignored warnings about the man&#039;s hemophilia and subjected him to severe abuse.
+Supreme Court ruling supports Kremlin&#039;s clampdown on the political party ahead of September&#039;s parliamentary vote.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss)
 
 ---
 
