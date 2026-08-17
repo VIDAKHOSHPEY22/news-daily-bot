@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 08:33:50
+**Last Update:** 2026-08-17 09:10:44
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gmail might partially be to blame for receiving emails from other Sean Conners
+### 1. Hayden Panetierre Dies at 36
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473">https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326443">https://news.ycombinator.com/item?id=49326443</a></p>
+<p>Points: 11</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473](https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473)
+
+---
+
+### 2. Gmail might partially be to blame for receiving emails from other Sean Conners
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://boston.conman.org/2026/08/11.1">https://boston.conman.org/2026/08/11.1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326229">https://news.ycombinator.com/item?id=49326229</a></p>
-<p>Points: 19</p>
-<p># Comments: 17</p>
+<p>Points: 25</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://boston.conman.org/2026/08/11.1](https://boston.conman.org/2026/08/11.1)
 
 ---
 
-### 2. AGI-64 Brings Sierra Adventures to the Commodore 64
+### 3. AGI-64 Brings Sierra Adventures to the Commodore 64
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325714">https://news.ycombinator.com/item?id=49325714</a></p>
-<p>Points: 37</p>
+<p>Points: 44</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
-
----
-
-### 3. Prolly: A content-addressed ordered map built on prolly trees
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/crabbuild/prolly">https://github.com/crabbuild/prolly</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325458">https://news.ycombinator.com/item?id=49325458</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/crabbuild/prolly](https://github.com/crabbuild/prolly)
 
 ---
 
@@ -71,16 +71,16 @@ US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime 
 
 ---
 
-### 5. Heroes actress Hayden Panettiere dies aged 36
+### 5. Parents pushed to breaking point by Child Maintenance Service, BBC told
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.
+Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,33 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Thieves steal Renaissance artworks in museum heist during Italian holiday
+### 7. Iran’s top negotiator declares victory in war against the US and Israel
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss)
+
+---
+
+### 8. Lawyer says Israel’s targeting of Palestinian women is a form of genocide
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss)
+
+---
+
+### 9. Thieves steal Renaissance artworks in museum heist during Italian holiday
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss)
-
----
-
-### 8. Palestinian-American travels to West Bank home encircled by Israeli settler
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss)
-
----
-
-### 9. Rare Pallas’s cat captured on camera in northern Iran mountains
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Footage shows a rare sighting of one of Iran’s most elusive wild felines.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss)
 
 ---
 
