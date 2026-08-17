@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 06:54:25
+**Last Update:** 2026-08-17 07:38:16
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325714">https://news.ycombinator.com/item?id=49325714</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Points: 19</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
 
 ---
 
-### 2. Rhombus 1.1 is now available
+### 2. Prolly: A content-addressed ordered map built on prolly trees
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/crabbuild/prolly">https://github.com/crabbuild/prolly</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325458">https://news.ycombinator.com/item?id=49325458</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/crabbuild/prolly](https://github.com/crabbuild/prolly)
+
+---
+
+### 3. Rhombus 1.1 is now available
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.racket-lang.org/2026/08/rhombus-v1.1.html">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325384">https://news.ycombinator.com/item?id=49325384</a></p>
-<p>Points: 23</p>
-<p># Comments: 10</p>
+<p>Points: 30</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://blog.racket-lang.org/2026/08/rhombus-v1.1.html](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
-
----
-
-### 3. The Life and Death of Direct File [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf">https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325185">https://news.ycombinator.com/item?id=49325185</a></p>
-<p>Points: 100</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
 
 ---
 
@@ -97,7 +97,33 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 
 ---
 
-### 7. Rare Pallas’s cat captured on camera in northern Iran mountains
+### 7. Thieves steal Renaissance artworks in museum heist during Italian holiday
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss)
+
+---
+
+### 8. Palestinian-American travels to West Bank home encircled by Israeli settler
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss)
+
+---
+
+### 9. Rare Pallas’s cat captured on camera in northern Iran mountains
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 Footage shows a rare sighting of one of Iran’s most elusive wild felines.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss)
-
----
-
-### 8. Zambia incumbent takes early election lead as opposition alleges armed raid
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-President Hakainde Hichilema appears on course for outright win as observers cite violence and a tilted campaign field.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/zambia-incumbent-takes-early-election-lead-as-opposition-alleges-armed-raid?traffic_source=rss)
-
----
-
-### 9. Ebola outbreak in DR Congo becomes deadliest in country’s history
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A top UN official says &#039;speed, scale, and solidarity&#039; needed &#039;before this virus gets even further ahead of us&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss)
 
 ---
 

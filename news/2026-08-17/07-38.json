@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T07:38:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+            "description": "<p>Article URL: <a href=\"https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64\">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325714\">https://news.ycombinator.com/item?id=49325714</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+            "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+            "published": "Mon, 17 Aug 2026 01:45:36 +0000",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Prolly: A content-addressed ordered map built on prolly trees",
+            "description": "<p>Article URL: <a href=\"https://github.com/crabbuild/prolly\">https://github.com/crabbuild/prolly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325458\">https://news.ycombinator.com/item?id=49325458</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/crabbuild/prolly",
+            "published": "Mon, 17 Aug 2026 01:00:45 +0000",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rhombus 1.1 is now available",
+            "description": "<p>Article URL: <a href=\"https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325384\">https://news.ycombinator.com/item?id=49325384</a></p>\n<p>Points: 30</p>\n<p># Comments: 12</p>",
+            "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+            "published": "Mon, 17 Aug 2026 00:48:21 +0000",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+            "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+            "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 19:58:14 GMT",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to turn cooler with rain after exceptional heat and dry spell",
+            "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+            "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 02:08:56 GMT",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
+            "description": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 16 Aug 2026 20:07:40 GMT",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
+            "description": "As Messina celebrated Sicilian holiday Ferragosto, thieves struck the MuMe museum to steal the masterworks by Antonello.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 03:53:07 +0000",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+            "description": "Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 03:41:30 +0000",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rare Pallas’s cat captured on camera in northern Iran mountains",
+            "description": "Footage shows a rare sighting of one of Iran’s most elusive wild felines.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 02:55:01 +0000",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T07:38:16+03:30"
+        }
+    ]
+}
