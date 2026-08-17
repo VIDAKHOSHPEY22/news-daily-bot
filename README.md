@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 13:32:09
+**Last Update:** 2026-08-17 14:09:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://duti.dev/blog/2026/spr/">https://duti.dev/blog/2026/spr/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327490">https://news.ycombinator.com/item?id=49327490</a></p>
-<p>Points: 33</p>
-<p># Comments: 25</p>
+<p>Points: 42</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://duti.dev/blog/2026/spr/](https://duti.dev/blog/2026/spr/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 82</p>
-<p># Comments: 31</p>
+<p>Points: 85</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 172</p>
-<p># Comments: 111</p>
+<p>Points: 178</p>
+<p># Comments: 126</p>
 
 🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
@@ -71,16 +71,16 @@ Mothers, like Katy, describe battles to make ex-partners pay, while fathers say 
 
 ---
 
-### 5. Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan
+### 5. Burnham exchanged messages with person posing as Trump's chief of staff
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.
+Downing Street has declined to comment on the security breach, first reported by Politico.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,33 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
+### 7. Thousands await aid after deadly Indonesia quake as rescue work conducted
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands remain displaced after magnitude 7.7 quake struck East Nusa Tenggara province on Saturday.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss)
+
+---
+
+### 8. Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Britain&#039;s new premier has promised to ease the suffering of millions of families unable to afford basic items.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss)
+
+---
+
+### 9. Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 Modi&#039;s BJP once controlled media narratives in India, but this might be changing with the &#039;Cockroach&#039; movement.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss)
-
----
-
-### 8. Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Children on Tonle Sap sacrifice education, with many working to help their families cover increasing fuel costs.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss)
-
----
-
-### 9. Scottie Scheffler wins St Jude Championship by eight shots
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Scheffler&#039;s 21st career PGA Tour title earns the American $3.6m for his resounding victory at TPC Southwind.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/17/scottie-scheffler-wins-st-jude-championship-by-eight-shots?traffic_source=rss)
 
 ---
 

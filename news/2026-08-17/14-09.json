@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T14:09:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "HackEurope 2026: A short rant on AI and hackathons",
+            "description": "<p>Article URL: <a href=\"https://duti.dev/blog/2026/spr/\">https://duti.dev/blog/2026/spr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327490\">https://news.ycombinator.com/item?id=49327490</a></p>\n<p>Points: 42</p>\n<p># Comments: 35</p>",
+            "url": "https://duti.dev/blog/2026/spr/",
+            "published": "Mon, 17 Aug 2026 07:28:43 +0000",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linear algebra done right",
+            "description": "<p>Article URL: <a href=\"https://linear.axler.net/\">https://linear.axler.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326816\">https://news.ycombinator.com/item?id=49326816</a></p>\n<p>Points: 85</p>\n<p># Comments: 36</p>",
+            "url": "https://linear.axler.net/",
+            "published": "Mon, 17 Aug 2026 05:21:34 +0000",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GIMP Development Update",
+            "description": "<p>Article URL: <a href=\"https://www.gimp.org/news/2026/08/16/dev-update-august-2026/\">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326156\">https://news.ycombinator.com/item?id=49326156</a></p>\n<p>Points: 178</p>\n<p># Comments: 126</p>",
+            "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+            "published": "Mon, 17 Aug 2026 03:08:47 +0000",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 10:16:25 GMT",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+            "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+            "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 02:08:56 GMT",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands await aid after deadly Indonesia quake as rescue work conducted",
+            "description": "Thousands remain displaced after magnitude 7.7 quake struck East Nusa Tenggara province on Saturday.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 10:14:28 +0000",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inside the UK’s ‘stressful’ cost of living crisis Burnham hopes to tackle",
+            "description": "Britain&#039;s new premier has promised to ease the suffering of millions of families unable to afford basic items.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/who-can-live-on-340-a-month-inside-the-uks-cost-of-living-crisis?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 09:41:19 +0000",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
+            "description": "Modi&#039;s BJP once controlled media narratives in India, but this might be changing with the &#039;Cockroach&#039; movement.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 09:03:57 +0000",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T14:09:37+03:30"
+        }
+    ]
+}
