@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 06:37:34
+**Last Update:** 2026-08-17 06:54:25
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -36,7 +36,7 @@
 <p>Article URL: <a href="https://blog.racket-lang.org/2026/08/rhombus-v1.1.html">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325384">https://news.ycombinator.com/item?id=49325384</a></p>
 <p>Points: 23</p>
-<p># Comments: 9</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://blog.racket-lang.org/2026/08/rhombus-v1.1.html](https://blog.racket-lang.org/2026/08/rhombus-v1.1.html)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf">https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325185">https://news.ycombinator.com/item?id=49325185</a></p>
-<p>Points: 98</p>
+<p>Points: 100</p>
 <p># Comments: 31</p>
 
 🔗 **Read more:** [https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
@@ -97,7 +97,20 @@ The collision occurred on on the M9 Northbound at about 03:00 local time on Sund
 
 ---
 
-### 7. Zambia incumbent takes early election lead as opposition alleges armed raid
+### 7. Rare Pallas’s cat captured on camera in northern Iran mountains
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Footage shows a rare sighting of one of Iran’s most elusive wild felines.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/rare-pallass-cat-captured-on-camera-in-northern-iran-mountains?traffic_source=rss)
+
+---
+
+### 8. Zambia incumbent takes early election lead as opposition alleges armed raid
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ President Hakainde Hichilema appears on course for outright win as observers cit
 
 ---
 
-### 8. Ebola outbreak in DR Congo becomes deadliest in country’s history
+### 9. Ebola outbreak in DR Congo becomes deadliest in country’s history
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ President Hakainde Hichilema appears on course for outright win as observers cit
 A top UN official says &#039;speed, scale, and solidarity&#039; needed &#039;before this virus gets even further ahead of us&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss)
-
----
-
-### 9. Israeli settlers pitch tents for new illegal outpost in occupied West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-UN Special Rapporteur Albanese warns that Israel is &#039;using settlers to advance ethnic cleansing&#039; in the West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
