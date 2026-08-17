@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 22:20:28
+**Last Update:** 2026-08-17 22:34:42
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335600">https://news.ycombinator.com/item?id=49335600</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world)
 
 ---
 
-### 2. How I Over-Engineered My Book
+### 2. Roboflow Playground: Try and Compare 30 Computer Vision Models
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.roboflow.com/roboflow-playground/">https://blog.roboflow.com/roboflow-playground/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335517">https://news.ycombinator.com/item?id=49335517</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.roboflow.com/roboflow-playground/](https://blog.roboflow.com/roboflow-playground/)
+
+---
+
+### 3. How I Over-Engineered My Book
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/">https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335292">https://news.ycombinator.com/item?id=49335292</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 7</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/](https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/)
-
----
-
-### 3. Meta faces 'astronomical' consequences as legal fight reaches critical moment
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html">https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49335163">https://news.ycombinator.com/item?id=49335163</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html](https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html)
 
 ---
 
