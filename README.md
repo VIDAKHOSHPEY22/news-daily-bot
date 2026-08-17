@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 13:21:30
+**Last Update:** 2026-08-17 13:32:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://duti.dev/blog/2026/spr/">https://duti.dev/blog/2026/spr/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49327490">https://news.ycombinator.com/item?id=49327490</a></p>
-<p>Points: 28</p>
-<p># Comments: 23</p>
+<p>Points: 33</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://duti.dev/blog/2026/spr/](https://duti.dev/blog/2026/spr/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 78</p>
-<p># Comments: 30</p>
+<p>Points: 82</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 164</p>
-<p># Comments: 96</p>
+<p>Points: 172</p>
+<p># Comments: 111</p>
 
 🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
 
