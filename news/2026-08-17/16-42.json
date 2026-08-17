@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-17T16:42:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T16:42:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 11:20:23 GMT",
+            "fetched": "2026-08-17T16:42:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+            "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+            "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 02:08:56 GMT",
+            "fetched": "2026-08-17T16:42:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump scales down war games with South Korea: Why it matters",
+            "description": "US president cites Seoul&#039;s reluctance to back his war on Iran, and his warm ties with North Korea&#039;s leader as reasons.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 12:20:47 +0000",
+            "fetched": "2026-08-17T16:42:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Europe hear a landmark Russian climate change case?",
+            "description": "The European Court of Human Rights has dismissed the case, but the plaintiffs aren&#039;t giving up.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 12:19:40 +0000",
+            "fetched": "2026-08-17T16:42:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s religious right is changing the state from within",
+            "description": "Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 12:15:49 +0000",
+            "fetched": "2026-08-17T16:42:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T16:42:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T16:42:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T16:42:14+03:30"
+        }
+    ]
+}

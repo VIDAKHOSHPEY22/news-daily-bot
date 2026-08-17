@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 16:28:16
+**Last Update:** 2026-08-17 16:42:14
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. David Sacks on X: Some thoughts on Dario's post
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/DavidSacks/status/2089227290769080656">https://twitter.com/DavidSacks/status/2089227290769080656</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329844">https://news.ycombinator.com/item?id=49329844</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://twitter.com/DavidSacks/status/2089227290769080656](https://twitter.com/DavidSacks/status/2089227290769080656)
-
----
-
-### 2. Buyer cancels showing after Deflock shows two cameras utilized by the HOA
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/lydiakauppi/status/2089196932413452386">https://twitter.com/lydiakauppi/status/2089196932413452386</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329660">https://news.ycombinator.com/item?id=49329660</a></p>
-<p>Points: 30</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://twitter.com/lydiakauppi/status/2089196932413452386](https://twitter.com/lydiakauppi/status/2089196932413452386)
-
----
-
-### 3. Mexico Crackdown on Coastal Development Underway
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/">https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49329583">https://news.ycombinator.com/item?id=49329583</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/](https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/)
-
----
-
-### 4. Parents pushed to breaking point by Child Maintenance Service, BBC told
+### 1. Parents pushed to breaking point by Child Maintenance Service, BBC told
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Mothers, like Katy, describe battles to make ex-partners pay, while fathers say 
 
 ---
 
-### 5. Burnham exchanged messages with person posing as Trump's chief of staff
+### 2. Burnham exchanged messages with person posing as Trump's chief of staff
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Downing Street has declined to comment on the security breach, first reported by
 
 ---
 
-### 6. Rain on way for UK with temperatures to drop to overnight lows of 3C in some places
+### 3. Rain on way for UK with temperatures to drop to overnight lows of 3C in some places
 
 **Source:** BBC
 
@@ -97,20 +49,7 @@ After and exceptional summer of heatwaves and drought, the weather will turn wet
 
 ---
 
-### 7. Yemen’s drone war: Rivals flex growing aerial muscle
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Houthi and government forces exchange drone attacks, marking a major shift in war tactics.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss)
-
----
-
-### 8. Trump scales down war games with South Korea: Why it matters
+### 4. Trump scales down war games with South Korea: Why it matters
 
 **Source:** Al Jazeera
 
@@ -123,7 +62,7 @@ US president cites Seoul&#039;s reluctance to back his war on Iran, and his warm
 
 ---
 
-### 9. Will Europe hear a landmark Russian climate change case?
+### 5. Will Europe hear a landmark Russian climate change case?
 
 **Source:** Al Jazeera
 
@@ -136,7 +75,20 @@ The European Court of Human Rights has dismissed the case, but the plaintiffs ar
 
 ---
 
-### 10. Cyclone Hernan
+### 6. Israel’s religious right is changing the state from within
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Religious fundamentalism is advancing through Israel’s institutions, narrowing freedoms and deepening inequality.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/17/israels-religious-right-is-changing-the-state-from-within?traffic_source=rss)
+
+---
+
+### 7. Cyclone Hernan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Nangka
+### 8. Tropical Storm Nangka
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Storm Lala
+### 9. Tropical Storm Lala
 
 **Source:** NASA
 
