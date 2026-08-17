@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T16:28:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "David Sacks on X: Some thoughts on Dario's post",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/DavidSacks/status/2089227290769080656\">https://twitter.com/DavidSacks/status/2089227290769080656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329844\">https://news.ycombinator.com/item?id=49329844</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://twitter.com/DavidSacks/status/2089227290769080656",
+            "published": "Mon, 17 Aug 2026 12:35:01 +0000",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Buyer cancels showing after Deflock shows two cameras utilized by the HOA",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/lydiakauppi/status/2089196932413452386\">https://twitter.com/lydiakauppi/status/2089196932413452386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329660\">https://news.ycombinator.com/item?id=49329660</a></p>\n<p>Points: 30</p>\n<p># Comments: 4</p>",
+            "url": "https://twitter.com/lydiakauppi/status/2089196932413452386",
+            "published": "Mon, 17 Aug 2026 12:18:24 +0000",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mexico Crackdown on Coastal Development Underway",
+            "description": "<p>Article URL: <a href=\"https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/\">https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329583\">https://news.ycombinator.com/item?id=49329583</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
+            "published": "Mon, 17 Aug 2026 12:10:22 +0000",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers, like Katy, describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 11:20:23 GMT",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+            "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+            "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 02:08:56 GMT",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
+            "description": "Houthi and government forces exchange drone attacks, marking a major shift in war tactics.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 12:44:01 +0000",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump scales down war games with South Korea: Why it matters",
+            "description": "US president cites Seoul&#039;s reluctance to back his war on Iran, and his warm ties with North Korea&#039;s leader as reasons.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 12:20:47 +0000",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Europe hear a landmark Russian climate change case?",
+            "description": "The European Court of Human Rights has dismissed the case, but the plaintiffs aren&#039;t giving up.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/no-roads-will-europe-hear-a-landmark-russian-climate-change-case?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 12:19:40 +0000",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T16:28:16+03:30"
+        }
+    ]
+}
