@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 10:39:20
+**Last Update:** 2026-08-17 10:58:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted">https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326825">https://news.ycombinator.com/item?id=49326825</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted](https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://linear.axler.net/">https://linear.axler.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326816">https://news.ycombinator.com/item?id=49326816</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 17</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://linear.axler.net/](https://linear.axler.net/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.gimp.org/news/2026/08/16/dev-update-august-2026/">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326156">https://news.ycombinator.com/item?id=49326156</a></p>
-<p>Points: 9</p>
+<p>Points: 20</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.gimp.org/news/2026/08/16/dev-update-august-2026/](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
@@ -84,7 +84,7 @@ Mothers, like Katy, describe battles to make ex-partners pay, while fathers say 
 
 ---
 
-### 6. UK to turn cooler with rain after exceptional heat and dry spell
+### 6. Rain on way for UK with temperatures to drop to overnight lows of 3C in some places
 
 **Source:** BBC
 
