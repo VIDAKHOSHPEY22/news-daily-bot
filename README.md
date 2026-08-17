@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 02:16:08
+**Last Update:** 2026-08-18 02:59:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bluesky draws its logo on screenshots
+### 1. How Bluesky draws its logo on screenshots
 
 **Source:** Hacker News
 
@@ -19,42 +19,43 @@
 **Description:**
 <p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 36</p>
-<p># Comments: 15</p>
+<p>Points: 77</p>
+<p># Comments: 51</p>
 
 🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
 ---
 
-### 2. Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest
+### 2. scScript for Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html">https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338404">https://news.ycombinator.com/item?id=49338404</a></p>
-<p>Points: 11</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://scapplications.com/">https://scapplications.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338428">https://news.ycombinator.com/item?id=49338428</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
+🔗 **Read more:** [https://scapplications.com/](https://scapplications.com/)
 
 ---
 
-### 3. Quake Shareware, a CD-ROM just a little too full
+### 3. Colorado River plummets as lakes Powell and Mead drop to record lows
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fabiensanglard.net/quake_shareware_cd/index.html">https://fabiensanglard.net/quake_shareware_cd/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338328">https://news.ycombinator.com/item?id=49338328</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p><a href="https://archive.ph/cD5hF" rel="nofollow">https://archive.ph/cD5hF</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338404">https://news.ycombinator.com/item?id=49338404</a></p>
+<p>Points: 22</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://fabiensanglard.net/quake_shareware_cd/index.html](https://fabiensanglard.net/quake_shareware_cd/index.html)
+🔗 **Read more:** [https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
 
 ---
 
@@ -97,7 +98,20 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. ‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins
+### 7. As rubble clears, Colombia begins focusing on recovery after the earthquake
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss)
+
+---
+
+### 8. ‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, w
 
 ---
 
-### 8. Palestinian American reunites with family under siege in West Bank
+### 9. Palestinian American reunites with family under siege in West Bank
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, w
 Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss)
-
----
-
-### 9. Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-UN peacekeeping force recorded an average of 137 projectiles fired daily in the region over the last two weeks.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss)
 
 ---
 

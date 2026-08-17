@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T02:59:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Bluesky draws its logo on screenshots",
+            "description": "<p>Article URL: <a href=\"https://timmarinin.net/2026/bluesky-screenshots/\">https://timmarinin.net/2026/bluesky-screenshots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338459\">https://news.ycombinator.com/item?id=49338459</a></p>\n<p>Points: 77</p>\n<p># Comments: 51</p>",
+            "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+            "published": "Mon, 17 Aug 2026 22:20:40 +0000",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "scScript for Linux",
+            "description": "<p>Article URL: <a href=\"https://scapplications.com/\">https://scapplications.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338428\">https://news.ycombinator.com/item?id=49338428</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://scapplications.com/",
+            "published": "Mon, 17 Aug 2026 22:18:05 +0000",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Colorado River plummets as lakes Powell and Mead drop to record lows",
+            "description": "<p><a href=\"https://archive.ph/cD5hF\" rel=\"nofollow\">https://archive.ph/cD5hF</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338404\">https://news.ycombinator.com/item?id=49338404</a></p>\n<p>Points: 22</p>\n<p># Comments: 26</p>",
+            "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+            "published": "Mon, 17 Aug 2026 22:15:38 +0000",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+            "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 19:25:05 GMT",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+            "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 23:28:54 GMT",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
+            "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 20:46:08 GMT",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+            "description": "A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 22:26:12 +0000",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
+            "description": "Prosecutors claim Duane Davis was ‘on-site commander’ in murder of Shakur, who died after drive-by shooting in 1996.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 21:39:22 +0000",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian American reunites with family under siege in West Bank",
+            "description": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 20:57:19 +0000",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T02:59:31+03:30"
+        }
+    ]
+}
