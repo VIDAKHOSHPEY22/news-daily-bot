@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-17T17:27:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Incident with Github.com",
+            "description": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/zkxwbgr0cnmx\">https://www.githubstatus.com/incidents/zkxwbgr0cnmx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330684\">https://news.ycombinator.com/item?id=49330684</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+            "published": "Mon, 17 Aug 2026 13:40:55 +0000",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitHub down again? no PR access",
+            "description": "<p>Githubstatus.com currently says everything is working, but it isn't</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330632\">https://news.ycombinator.com/item?id=49330632</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+            "url": "https://news.ycombinator.com/item?id=49330632",
+            "published": "Mon, 17 Aug 2026 13:37:28 +0000",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
+            "description": "<p>Hi HN. I built 1667 for my own fiction work and now use it each day. This probably has a limited audience. Maybe an audience of one...<p>Why a terminal interface for story writing? I'm a dev. I like to use terminals for a lot of stuff. Most WebUIs feel off to me. That's the only  reason.<p>One thing that bothers me about writing in existing tools is that they don't fit the way I write. The mental model of my story is a tree. I try many takes usually continue with just one, but sometimes I want to try an alternate route and see where this goes. And that can branch again in many places. See what happens if I kill off this character or they don't take the job or whatever.<p>1667 is a full-screen terminal app for long-form fiction. Each story part can have several takes. All takes stay in a tree. You select one path through that tree as the story line. Export writes that line to Markdown in the project folder.<p>Some technical details:\n- A project stores its stories and settings in a `.1667/` directory. Exported Markdown sits beside it.\n- Provider secrets stay in private machine files. Requests go to the provider that the writer selects.\n- An optional Vault Password seals project files at rest.\n- An operating-system lock permits one writer process for each project.\n- The request viewer shows the next provider request without its credential.\n- Each generated take keeps a Generation Record with its model and effective settings.<p>Version 0.9.5 runs on macOS, Linux, and Windows x64. The website has Shell and PowerShell installers. An npm package is also available.<p>1667 imports Markdown, SillyTavern chats and cards, and NovelAI archives. It can use OpenAI-compatible, Anthropic, and local endpoints such as Ollama, LM Studio, llama.cpp, and KoboldCpp.<p>Current limits: the release is pre-1.0. The interface is a terminal. There is no account or cloud sync, and I don't plan to add any. No tracking.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49330604\">https://news.ycombinator.com/item?id=49330604</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://1667.ai/",
+            "published": "Mon, 17 Aug 2026 13:35:31 +0000",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+            "description": "Mothers describe battles to make ex-partners pay, while fathers say they have been wrongly charged thousands.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 05:03:31 GMT",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+            "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+            "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 13:30:35 GMT",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
+            "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+            "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 02:08:56 GMT",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
+            "description": "Italian media reports that the Cagliari forward was rescued after swallowing a lot of water in a swimming pool in Porto Cervo.",
+            "url": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 13:24:57 +0000",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
+            "description": "Jared Kushner to meet Netanyahu next, after Israel rejected Trump&#039;s 15-point Gaza roadmap.",
+            "url": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 13:07:19 +0000",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cameroon celebrates after winning first ever WAFCON title",
+            "description": "Cameroon wins its first WAFCON title, beating Malawi 3–0 in the final.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss",
+            "published": "Mon, 17 Aug 2026 13:06:47 +0000",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Hernan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22562",
+            "published": "2026-08-13T06:00:00Z",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nangka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22561",
+            "published": "2026-08-13T00:00:00Z",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lala",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22563",
+            "published": "2026-08-12T18:00:00Z",
+            "fetched": "2026-08-17T17:27:41+03:30"
+        }
+    ]
+}
