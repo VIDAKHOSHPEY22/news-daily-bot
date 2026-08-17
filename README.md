@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-17 09:10:44
+**Last Update:** 2026-08-17 09:25:56
 
 **Total News:** 12
 
@@ -10,23 +10,7 @@
 
 ## 📰 Latest News
 
-### 1. Hayden Panetierre Dies at 36
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473">https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326443">https://news.ycombinator.com/item?id=49326443</a></p>
-<p>Points: 11</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473](https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473)
-
----
-
-### 2. Gmail might partially be to blame for receiving emails from other Sean Conners
+### 1. Gmail might partially be to blame for receiving emails from other Sean Conners
 
 **Source:** Hacker News
 
@@ -36,9 +20,25 @@
 <p>Article URL: <a href="https://boston.conman.org/2026/08/11.1">https://boston.conman.org/2026/08/11.1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326229">https://news.ycombinator.com/item?id=49326229</a></p>
 <p>Points: 25</p>
-<p># Comments: 25</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://boston.conman.org/2026/08/11.1](https://boston.conman.org/2026/08/11.1)
+
+---
+
+### 2. Strong Gravitational Lensing and Microlensing of Supernovae
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5">https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49326071">https://news.ycombinator.com/item?id=49326071</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5](https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5)
 
 ---
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49325714">https://news.ycombinator.com/item?id=49325714</a></p>
-<p>Points: 44</p>
+<p>Points: 50</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
