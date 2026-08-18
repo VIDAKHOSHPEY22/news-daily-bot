@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 17:32:06
+**Last Update:** 2026-08-18 18:11:02
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. A group of Gandalfs protest outside the home of Peter Thiel in Argentina
+### 1. Python Polars Cheatsheet (based on our O'Reilly book)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/">https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345438">https://news.ycombinator.com/item?id=49345438</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://opensource.posit.co/resources/cheatsheets/polars/">https://opensource.posit.co/resources/cheatsheets/polars/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345476">https://news.ycombinator.com/item?id=49345476</a></p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/](https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/)
+🔗 **Read more:** [https://opensource.posit.co/resources/cheatsheets/polars/](https://opensource.posit.co/resources/cheatsheets/polars/)
 
 ---
 
@@ -35,27 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/pitiflautico/neobrowser">https://github.com/pitiflautico/neobrowser</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345320">https://news.ycombinator.com/item?id=49345320</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser)
 
 ---
 
-### 3. Ask HN: Good content on using AI to modernize professional services delivery
+### 3. The Amazon Tax
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I'm curious if the HN community has a good resources (blogs, podcasts, other content) on practical uses of SOTA AI to improve professional services (e.g. outsourced finance, etc.)<p>I've read a fair amount of what people think should be done (theory) but haven't found a ton of content from people who actually have done it (practice)</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345255">https://news.ycombinator.com/item?id=49345255</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://seths.blog/2026/08/the-amazon-tax/">https://seths.blog/2026/08/the-amazon-tax/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345263">https://news.ycombinator.com/item?id=49345263</a></p>
+<p>Points: 40</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49345255](https://news.ycombinator.com/item?id=49345255)
+🔗 **Read more:** [https://seths.blog/2026/08/the-amazon-tax/](https://seths.blog/2026/08/the-amazon-tax/)
 
 ---
 
@@ -85,55 +84,94 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 6. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
+### 6. Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.
+The 62-year-old man is charged with misconduct in public office and appears before magistrates.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’
+### 7. Hichilema re-elected as Zambia president amid opposition concerns over vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.
+Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss)
 
 ---
 
-### 8. Palestinian-American confronts Israeli settler at his besieged home
+### 8. What to know about Gaza working groups and their mandate?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.
+What to know about the new Gaza working groups conditioning reconstruction on immediate disarmament.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss)
 
 ---
 
-### 9. Who is Wassim al-Assad, sentenced to death for Syria war atrocities?
+### 9. Yemeni government escalates attacks against Houthis: What’s next?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death
+Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss)
+
+---
+
+### 10. Wildfire Picture Rock, Lake, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798)
+
+---
+
+### 11. Wildfire CATO 2, Chaves, New Mexico
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
+
+---
+
+### 12. Wildfire THE H1, Palm Beach, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791)
 
 ---
 
