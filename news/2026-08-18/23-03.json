@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T23:03:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+            "description": "<p>Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should?<p>A GPU can show normal temperatures and utilization and still be underperforming, unstable under certain workloads, or have memory, PCIe, or configuration issues.<p>PantheonGPU actively tests the GPU instead of only monitoring telemetry. It currently includes 45+ tests covering compute, tensor workloads, memory, cache, PCIe, thermals, stability, and AI/LLM inference.<p>It supports both NVIDIA CUDA and AMD ROCm.<p>I’m also exploring a larger use case: running Pantheon across GPU fleets to identify individual GPUs that behave differently from the rest of a server or cluster.<p>I’d especially appreciate feedback from people running AI infrastructure, multi-GPU systems, local LLMs, or GPU clouds.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49350637\">https://news.ycombinator.com/item?id=49350637</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://pantheongpu.com/",
+            "published": "Tue, 18 Aug 2026 18:47:51 +0000",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How does IKEA come up with names for its products?",
+            "description": "<p>Article URL: <a href=\"https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html\">https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349984\">https://news.ycombinator.com/item?id=49349984</a></p>\n<p>Points: 65</p>\n<p># Comments: 35</p>",
+            "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+            "published": "Tue, 18 Aug 2026 18:11:53 +0000",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+            "description": "<p>Article URL: <a href=\"https://github.com/RyanCodrai/turbovec\">https://github.com/RyanCodrai/turbovec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349898\">https://news.ycombinator.com/item?id=49349898</a></p>\n<p>Points: 56</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/RyanCodrai/turbovec",
+            "published": "Tue, 18 Aug 2026 18:07:21 +0000",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says he's not embarrassed about hoax message exchange",
+            "description": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:22:58 GMT",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge says government can revoke deportation protections for Ethiopians",
+            "description": "Ruling permits Trump administration to nix Ethiopians&#039; protected status despite concern over conditions in the country.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 19:09:23 +0000",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Landmark trial on Meta’s impact on children’s mental health begins in US",
+            "description": "Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregard for young people’s mental health and user safety.",
+            "url": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 18:33:11 +0000",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike on Gaza City cafe kills six, including child",
+            "description": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 18:32:24 +0000",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T23:03:30+03:30"
+        }
+    ]
+}
