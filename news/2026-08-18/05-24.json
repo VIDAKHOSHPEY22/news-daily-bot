@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T05:24:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Repair Cafe – Fix Your Broken Items",
+            "description": "<p>Article URL: <a href=\"https://www.repaircafe.org/\">https://www.repaircafe.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339097\">https://news.ycombinator.com/item?id=49339097</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+            "url": "https://www.repaircafe.org/",
+            "published": "Mon, 17 Aug 2026 23:28:28 +0000",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Puppy PPE",
+            "description": "<p>Article URL: <a href=\"http://amosdudley.com/weblog/Designing-PPE-for-Hilde\">http://amosdudley.com/weblog/Designing-PPE-for-Hilde</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338953\">https://news.ycombinator.com/item?id=49338953</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
+            "published": "Mon, 17 Aug 2026 23:10:06 +0000",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Bluesky draws its logo on screenshots",
+            "description": "<p>Article URL: <a href=\"https://timmarinin.net/2026/bluesky-screenshots/\">https://timmarinin.net/2026/bluesky-screenshots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338459\">https://news.ycombinator.com/item?id=49338459</a></p>\n<p>Points: 226</p>\n<p># Comments: 156</p>",
+            "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+            "published": "Mon, 17 Aug 2026 22:20:40 +0000",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+            "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 19:25:05 GMT",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia warns UK over supplying drones to Ukraine",
+            "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 01:16:41 GMT",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa official sacked after Infantino plan criticism",
+            "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 20:46:08 GMT",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Vigil held in central London for late Cambridge professor Jason Arday",
+            "description": "Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 01:26:31 +0000",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zambia’s Hichilema wins second term as president",
+            "description": "Official results show Hichilema receiving about 60 percent of votes, compared with ⁠38 percent for his main challenger.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 01:17:50 +0000",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+            "description": "US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T05:24:57+03:30"
+        }
+    ]
+}
