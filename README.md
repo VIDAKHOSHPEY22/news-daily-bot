@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 19:08:46
+**Last Update:** 2026-08-18 19:22:53
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet
+### 1. One Oakland police officer made $490k in overtime
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/">https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49346312">https://news.ycombinator.com/item?id=49346312</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://oaklandside.org/2026/01/29/oakland-police-overtime/">https://oaklandside.org/2026/01/29/oakland-police-overtime/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49347055">https://news.ycombinator.com/item?id=49347055</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://oaklandside.org/2026/01/29/oakland-police-overtime/](https://oaklandside.org/2026/01/29/oakland-police-overtime/)
+
+---
+
+### 2. Code-native generation of highly programmable 3D assets (2026)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2607.22738">https://arxiv.org/abs/2607.22738</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49346538">https://news.ycombinator.com/item?id=49346538</a></p>
+<p>Points: 5</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/](https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/)
+🔗 **Read more:** [https://arxiv.org/abs/2607.22738](https://arxiv.org/abs/2607.22738)
 
 ---
 
-### 2. Babies born under sugar rationing grew into adults with lower cancer risk
+### 3. The coolest anti-surveillance tools at Defcon [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873">https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345843">https://news.ycombinator.com/item?id=49345843</a></p>
-<p>Points: 34</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=-2uAsJ5EPAw">https://www.youtube.com/watch?v=-2uAsJ5EPAw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49346444">https://news.ycombinator.com/item?id=49346444</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
-
----
-
-### 3. Python Polars Cheatsheet (based on our O'Reilly book)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://opensource.posit.co/resources/cheatsheets/polars/">https://opensource.posit.co/resources/cheatsheets/polars/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345476">https://news.ycombinator.com/item?id=49345476</a></p>
-<p>Points: 46</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://opensource.posit.co/resources/cheatsheets/polars/](https://opensource.posit.co/resources/cheatsheets/polars/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=-2uAsJ5EPAw](https://www.youtube.com/watch?v=-2uAsJ5EPAw)
 
 ---
 
@@ -97,7 +97,20 @@ The 62-year-old man is charged with misconduct in public office and appears befo
 
 ---
 
-### 7. US cites India on voter IDs, but are elections under Modi clean?
+### 7. Iran clubs face Qatar and UAE sides at neutral venues in Champions League
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Following the start of the US-Israel war on Iran, the first match of the Iranian league was played last week.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss)
+
+---
+
+### 8. US cites India on voter IDs, but are elections under Modi clean?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Trump highlights India&#039;s voter ID rules to bolster his case for stricter US
 
 ---
 
-### 8. Why is Russia threatening UK with ‘consequences’ over Ukraine drones?
+### 9. Why is Russia threatening UK with ‘consequences’ over Ukraine drones?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Trump highlights India&#039;s voter ID rules to bolster his case for stricter US
 Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss)
-
----
-
-### 9. Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss)
 
 ---
 
