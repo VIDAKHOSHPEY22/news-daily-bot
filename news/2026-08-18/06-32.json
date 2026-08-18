@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T06:32:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
+            "description": "<p>Article URL: <a href=\"https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy\">https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339599\">https://news.ycombinator.com/item?id=49339599</a></p>\n<p>Points: 38</p>\n<p># Comments: 10</p>",
+            "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+            "published": "Tue, 18 Aug 2026 00:29:15 +0000",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Repair Cafe – Fix Your Broken Items",
+            "description": "<p>Article URL: <a href=\"https://www.repaircafe.org/\">https://www.repaircafe.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339097\">https://news.ycombinator.com/item?id=49339097</a></p>\n<p>Points: 24</p>\n<p># Comments: 8</p>",
+            "url": "https://www.repaircafe.org/",
+            "published": "Mon, 17 Aug 2026 23:28:28 +0000",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Bluesky draws its logo on screenshots",
+            "description": "<p>Article URL: <a href=\"https://timmarinin.net/2026/bluesky-screenshots/\">https://timmarinin.net/2026/bluesky-screenshots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338459\">https://news.ycombinator.com/item?id=49338459</a></p>\n<p>Points: 259</p>\n<p># Comments: 191</p>",
+            "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+            "published": "Mon, 17 Aug 2026 22:20:40 +0000",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+            "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 19:25:05 GMT",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia warns UK over supplying drones to Ukraine",
+            "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 01:16:41 GMT",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa official sacked after Infantino plan criticism",
+            "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 20:46:08 GMT",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says talking to North Korea’s Kim makes the south safer",
+            "description": "US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 01:58:11 +0000",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
+            "description": "At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 01:54:01 +0000",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Vigil held in central London for late Cambridge professor Jason Arday",
+            "description": "Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 01:26:31 +0000",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T06:32:59+03:30"
+        }
+    ]
+}

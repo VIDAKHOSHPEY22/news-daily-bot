@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 05:24:57
+**Last Update:** 2026-08-18 06:32:59
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Repair Cafe – Fix Your Broken Items
+### 1. Google wins bankruptcy auction for Spirit Airlines emails, chats, documents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy">https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339599">https://news.ycombinator.com/item?id=49339599</a></p>
+<p>Points: 38</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy](https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy)
+
+---
+
+### 2. Repair Cafe – Fix Your Broken Items
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
+<p>Points: 24</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
-
----
-
-### 2. Puppy PPE
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="http://amosdudley.com/weblog/Designing-PPE-for-Hilde">http://amosdudley.com/weblog/Designing-PPE-for-Hilde</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338953">https://news.ycombinator.com/item?id=49338953</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [http://amosdudley.com/weblog/Designing-PPE-for-Hilde](http://amosdudley.com/weblog/Designing-PPE-for-Hilde)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 226</p>
-<p># Comments: 156</p>
+<p>Points: 259</p>
+<p># Comments: 191</p>
 
 🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
@@ -97,7 +97,33 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Vigil held in central London for late Cambridge professor Jason Arday
+### 7. Trump says talking to North Korea’s Kim makes the south safer
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss)
+
+---
+
+### 8. Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss)
+
+---
+
+### 9. Vigil held in central London for late Cambridge professor Jason Arday
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss)
-
----
-
-### 8. Zambia’s Hichilema wins second term as president
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Official results show Hichilema receiving about 60 percent of votes, compared with ⁠38 percent for his main challenger.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss)
-
----
-
-### 9. Iran war live: Trump rejects MoU extension as US claims control of Hormuz
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss)
 
 ---
 
