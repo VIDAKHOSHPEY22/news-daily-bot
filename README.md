@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 14:22:07
+**Last Update:** 2026-08-18 15:02:30
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343559">https://news.ycombinator.com/item?id=49343559</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 72</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 130</p>
-<p># Comments: 15</p>
+<p>Points: 199</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 51</p>
-<p># Comments: 10</p>
+<p>Points: 80</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
 
@@ -97,42 +97,42 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 7. India’s ‘Cockroach’ movement makes schools next battleground against Modi
+### 7. Premier League what to know: Schedule, prediction, transfers and more
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cockroach leaders asked supporters to audit their nearest government-run schools. But it has started with a killing.
+Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss](https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss)
 
 ---
 
-### 8. Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain
+### 8. What to know about California’s special election to replace Eric Swalwell
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al-Ahli and Al Ain, who will also face Cristiano Ronaldo&#039;s Al-Nassr, are the pick of the match-ups in AFC&#039;s Elite draw.
+A race that once received little attention has seen outside spending from the American Israel Public Affairs Committee.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss)
 
 ---
 
-### 9. Eight air strikes hit airbase in Syria’s Idlib
+### 9. Tupac Shakur murder trial begins thirty years after his death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrian state TV quotes military source as saying Israeli forces carried out attack, causing damage and no casualties.
+Former gang boss Duane ‘Keffe D’ Davis stands trial over Tupac Shakur’s 1996 murder, the first prosecution in the case.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss)
 
 ---
 
