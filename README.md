@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 10:26:35
+**Last Update:** 2026-08-18 10:41:06
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Expert Witness to ChatGPT: "Show how 3M is 0 percent at fault"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/">https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341009">https://news.ycombinator.com/item?id=49341009</a></p>
-<p>Points: 30</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/](https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/)
-
----
-
-### 2. The Benchmarkpocalypse
+### 1. The Benchmarkpocalypse
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinator.com/item?id=49340299</a></p>
-<p>Points: 63</p>
+<p>Points: 66</p>
 <p># Comments: 8</p>
 
 🔗 **Read more:** [https://danluu.com/benchpocalypse/](https://danluu.com/benchpocalypse/)
 
 ---
 
-### 3. Repair Cafe – Fix Your Broken Items
+### 2. Repair Cafe – Fix Your Broken Items
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 82</p>
+<p>Points: 84</p>
 <p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
+
+---
+
+### 3. How Bluesky draws its logo on screenshots
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
+<p>Points: 416</p>
+<p># Comments: 278</p>
+
+🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
 ---
 
@@ -97,7 +97,33 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?
+### 7. Russia says more than 600 drones targeted Moscow region
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss)
+
+---
+
+### 8. Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+British maritime agency says the incident caused one casualty and damaged the vessel&#039;s engine room.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss)
+
+---
+
+### 9. Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 Beijing&#039;s new &#039;Ice Silk Road&#039; cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss)
-
----
-
-### 8. Trump says N Korea’s Kim has responded to his request for a conversation
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US president says conversations with Kim Jong Un at a &#039;positive&#039; stage and slams Seoul for refusing to join war on Iran.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss)
-
----
-
-### 9. Can Trump limit birthright citizenship? Legal experts are doubtful
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss)
 
 ---
 
