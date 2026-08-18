@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T10:26:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Expert Witness to ChatGPT: \"Show how 3M is 0 percent at fault\"",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/\">https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49341009\">https://news.ycombinator.com/item?id=49341009</a></p>\n<p>Points: 30</p>\n<p># Comments: 10</p>",
+            "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
+            "published": "Tue, 18 Aug 2026 03:44:41 +0000",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Benchmarkpocalypse",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/benchpocalypse/\">https://danluu.com/benchpocalypse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49340299\">https://news.ycombinator.com/item?id=49340299</a></p>\n<p>Points: 63</p>\n<p># Comments: 8</p>",
+            "url": "https://danluu.com/benchpocalypse/",
+            "published": "Tue, 18 Aug 2026 02:11:02 +0000",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Repair Cafe – Fix Your Broken Items",
+            "description": "<p>Article URL: <a href=\"https://www.repaircafe.org/\">https://www.repaircafe.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339097\">https://news.ycombinator.com/item?id=49339097</a></p>\n<p>Points: 82</p>\n<p># Comments: 11</p>",
+            "url": "https://www.repaircafe.org/",
+            "published": "Mon, 17 Aug 2026 23:28:28 +0000",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+            "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+            "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 05:00:04 GMT",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+            "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 06:40:00 GMT",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa official sacked after Infantino plan criticism",
+            "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 20:46:08 GMT",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
+            "description": "Beijing&#039;s new &#039;Ice Silk Road&#039; cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 06:28:31 +0000",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says N Korea’s Kim has responded to his request for a conversation",
+            "description": "US president says conversations with Kim Jong Un at a &#039;positive&#039; stage and slams Seoul for refusing to join war on Iran.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 05:44:05 +0000",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
+            "description": "Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 05:23:54 +0000",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T10:26:35+03:30"
+        }
+    ]
+}

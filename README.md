@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 09:20:57
+**Last Update:** 2026-08-18 10:26:35
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. I don't enjoy the Internet any more
+### 1. Expert Witness to ChatGPT: "Show how 3M is 0 percent at fault"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/">https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341551">https://news.ycombinator.com/item?id=49341551</a></p>
-<p>Points: 43</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/">https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341009">https://news.ycombinator.com/item?id=49341009</a></p>
+<p>Points: 30</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/](https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/)
-
----
-
-### 2. What's Better Than Binary? – Advent of Computing Episode 187
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary">https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340315">https://news.ycombinator.com/item?id=49340315</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary](https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary)
+🔗 **Read more:** [https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/](https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/)
 
 ---
 
-### 3. The Benchmarkpocalypse
+### 2. The Benchmarkpocalypse
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinator.com/item?id=49340299</a></p>
-<p>Points: 41</p>
-<p># Comments: 2</p>
+<p>Points: 63</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://danluu.com/benchpocalypse/](https://danluu.com/benchpocalypse/)
+
+---
+
+### 3. Repair Cafe – Fix Your Broken Items
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
+<p>Points: 82</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
 ---
 
@@ -71,7 +71,7 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 5. Russia warns UK over supplying drones to Ukraine
+### 5. Russia says UK 'will pay' for supplying drones to Ukraine
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Can Trump limit birthright citizenship? Legal experts are doubtful
+### 7. Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Beijing&#039;s new &#039;Ice Silk Road&#039; cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss)
+
+---
+
+### 8. Trump says N Korea’s Kim has responded to his request for a conversation
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US president says conversations with Kim Jong Un at a &#039;positive&#039; stage and slams Seoul for refusing to join war on Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss)
+
+---
+
+### 9. Can Trump limit birthright citizenship? Legal experts are doubtful
 
 **Source:** Al Jazeera
 
@@ -110,29 +136,42 @@ Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle a
 
 ---
 
-### 8. A hero’s welcome as Cameroon parades its first Women’s AFCON title
+### 10. Wildfire Picture Rock, Lake, Oregon
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Cameroon’s women’s football team received a hero’s welcome in Yaounde after winning its first Women’s Africa Cup
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798)
 
 ---
 
-### 9. Hichilema wins second term as president of copper-rich Zambia
+### 11. Wildfire CATO 2, Chaves, New Mexico
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
+
+---
+
+### 12. Wildfire THE H1, Palm Beach, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791)
 
 ---
 
