@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 16:44:22
+**Last Update:** 2026-08-18 17:32:06
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Using the railway network as a flatbed scanner
+### 1. A group of Gandalfs protest outside the home of Peter Thiel in Argentina
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://philo.gay/linecam/">https://philo.gay/linecam/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344825">https://news.ycombinator.com/item?id=49344825</a></p>
+<p>Article URL: <a href="https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/">https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345438">https://news.ycombinator.com/item?id=49345438</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/](https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/)
+
+---
+
+### 2. NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/pitiflautico/neobrowser">https://github.com/pitiflautico/neobrowser</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345320">https://news.ycombinator.com/item?id=49345320</a></p>
 <p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://philo.gay/linecam/](https://philo.gay/linecam/)
+🔗 **Read more:** [https://github.com/pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser)
 
 ---
 
-### 2. Meta Files Patent for Facial Recognition, Automatic Recording of People
+### 3. Ask HN: Good content on using AI to modernize professional services delivery
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/">https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344654">https://news.ycombinator.com/item?id=49344654</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>I'm curious if the HN community has a good resources (blogs, podcasts, other content) on practical uses of SOTA AI to improve professional services (e.g. outsourced finance, etc.)<p>I've read a fair amount of what people think should be done (theory) but haven't found a ton of content from people who actually have done it (practice)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345255">https://news.ycombinator.com/item?id=49345255</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/](https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/)
-
----
-
-### 3. Claude writing a macOS driver for my obscure HP printer built only for Windows
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/kuberwastaken/status/2089377982536388964">https://twitter.com/kuberwastaken/status/2089377982536388964</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344643">https://news.ycombinator.com/item?id=49344643</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://twitter.com/kuberwastaken/status/2089377982536388964](https://twitter.com/kuberwastaken/status/2089377982536388964)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49345255](https://news.ycombinator.com/item?id=49345255)
 
 ---
 
@@ -97,81 +98,42 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 7. Japanese activist keeps protesting against Israel’s genocide in Gaza
+### 7. Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Japanese activist keeps protesting against Israel’s genocide in Gaza
+Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss)
 
 ---
 
-### 8. Bashar al-Assad’s cousin Wassim sentenced to death in Syria
+### 8. Palestinian-American confronts Israeli settler at his besieged home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.
+Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss)
 
 ---
 
-### 9. Qatar rejects Iran’s ‘false’ claims about missing pilots
+### 9. Who is Wassim al-Assad, sentenced to death for Syria war atrocities?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.
+The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss)
-
----
-
-### 10. Wildfire Picture Rock, Lake, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798)
-
----
-
-### 11. Wildfire CATO 2, Chaves, New Mexico
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
-
----
-
-### 12. Wildfire THE H1, Palm Beach, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-18T17:32:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A group of Gandalfs protest outside the home of Peter Thiel in Argentina",
+            "description": "<p>Article URL: <a href=\"https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/\">https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345438\">https://news.ycombinator.com/item?id=49345438</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://dangerousminds.net/weird-news/gandalfs-protest-outside-the-home-peter-thiel-argentina/",
+            "published": "Tue, 18 Aug 2026 13:35:27 +0000",
+            "fetched": "2026-08-18T17:32:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+            "description": "<p>Article URL: <a href=\"https://github.com/pitiflautico/neobrowser\">https://github.com/pitiflautico/neobrowser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345320\">https://news.ycombinator.com/item?id=49345320</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/pitiflautico/neobrowser",
+            "published": "Tue, 18 Aug 2026 13:25:54 +0000",
+            "fetched": "2026-08-18T17:32:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Good content on using AI to modernize professional services delivery",
+            "description": "<p>I'm curious if the HN community has a good resources (blogs, podcasts, other content) on practical uses of SOTA AI to improve professional services (e.g. outsourced finance, etc.)<p>I've read a fair amount of what people think should be done (theory) but haven't found a ton of content from people who actually have done it (practice)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345255\">https://news.ycombinator.com/item?id=49345255</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://news.ycombinator.com/item?id=49345255",
+            "published": "Tue, 18 Aug 2026 13:21:38 +0000",
+            "fetched": "2026-08-18T17:32:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-18T17:32:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 13:56:26 GMT",
+            "fetched": "2026-08-18T17:32:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+            "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+            "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 08:07:37 GMT",
+            "fetched": "2026-08-18T17:32:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar: Iran’s claim that Doha is holding missing pilots is a ‘media ploy’",
+            "description": "Qatar says Iran’s claim it is holding missing aircrew is untrue and a “media ploy”, with Tehran yet to verify it.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/qatar-irans-claim-that-doha-is-holding-missing-pilots-is-a-media-ploy?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 13:12:56 +0000",
+            "fetched": "2026-08-18T17:32:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian-American confronts Israeli settler at his besieged home",
+            "description": "Palestinian-American Loui Abu Ridi confronted an Israeli settler at his home in Qusra, south of Nablus.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 13:11:21 +0000",
+            "fetched": "2026-08-18T17:32:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
+            "description": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
+            "url": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 13:06:20 +0000",
+            "fetched": "2026-08-18T17:32:06+03:30"
+        }
+    ]
+}
