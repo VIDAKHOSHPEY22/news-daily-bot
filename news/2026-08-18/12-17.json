@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T12:17:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Exercise intensity modulates interorgan communication and is associated with",
+            "description": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue\">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49341411\">https://news.ycombinator.com/item?id=49341411</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+            "published": "Tue, 18 Aug 2026 04:51:33 +0000",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Benchmarkpocalypse",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/benchpocalypse/\">https://danluu.com/benchpocalypse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49340299\">https://news.ycombinator.com/item?id=49340299</a></p>\n<p>Points: 83</p>\n<p># Comments: 19</p>",
+            "url": "https://danluu.com/benchpocalypse/",
+            "published": "Tue, 18 Aug 2026 02:11:02 +0000",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Repair Cafe – Fix Your Broken Items",
+            "description": "<p>Article URL: <a href=\"https://www.repaircafe.org/\">https://www.repaircafe.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339097\">https://news.ycombinator.com/item?id=49339097</a></p>\n<p>Points: 99</p>\n<p># Comments: 15</p>",
+            "url": "https://www.repaircafe.org/",
+            "published": "Mon, 17 Aug 2026 23:28:28 +0000",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+            "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+            "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 08:07:37 GMT",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+            "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 06:40:00 GMT",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa official sacked after Infantino plan criticism",
+            "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 20:46:08 GMT",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump lashes out at CNN reporter over South Korea question",
+            "description": "Trump lashes out at CNN reporter over South Korea question",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 08:33:46 +0000",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian court sentences Wassim al-Assad to death",
+            "description": "The former regime figure was found guilty of charges including premeditated murder and torture.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 08:23:59 +0000",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Chinese company unveils new ‘Superman’ humanoid robot",
+            "description": "Chinese company unveils new ‘Superman’ humanoid robot",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/chinese-company-unveils-new-superman-humanoid-robot?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 08:10:36 +0000",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T12:17:23+03:30"
+        }
+    ]
+}
