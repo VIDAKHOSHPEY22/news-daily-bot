@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 02:15:46
+**Last Update:** 2026-08-19 02:59:21
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. fx :Tiny, open, native coding agent.
+### 1. Terry A. Davis Quotes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fx.sh">https://fx.sh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353339">https://news.ycombinator.com/item?id=49353339</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://en.wikiquote.org/wiki/Terry_A._Davis">https://en.wikiquote.org/wiki/Terry_A._Davis</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353774">https://news.ycombinator.com/item?id=49353774</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://fx.sh](https://fx.sh)
+🔗 **Read more:** [https://en.wikiquote.org/wiki/Terry_A._Davis](https://en.wikiquote.org/wiki/Terry_A._Davis)
 
 ---
 
-### 2. A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+### 2. The Microsoft Rebrand Registry
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/DenisSergeevitch/desktop-fly">https://github.com/DenisSergeevitch/desktop-fly</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353221">https://news.ycombinator.com/item?id=49353221</a></p>
-<p>Points: 19</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.msrebrandregistry.com/analysis.html">https://www.msrebrandregistry.com/analysis.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353753">https://news.ycombinator.com/item?id=49353753</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
+🔗 **Read more:** [https://www.msrebrandregistry.com/analysis.html](https://www.msrebrandregistry.com/analysis.html)
 
 ---
 
-### 3. Claude Code Teaching macOS to Natively Print to the HP Laser 1008a
+### 3. Who owns the code?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cdn.kuber.studio/chat/hp-laser-1008a-driver">https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49352806">https://news.ycombinator.com/item?id=49352806</a></p>
-<p>Points: 68</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://whoownsthecode.com/">https://whoownsthecode.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353603">https://news.ycombinator.com/item?id=49353603</a></p>
+<p>Points: 20</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://cdn.kuber.studio/chat/hp-laser-1008a-driver](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
+🔗 **Read more:** [https://whoownsthecode.com/](https://whoownsthecode.com/)
 
 ---
 
@@ -97,7 +97,20 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 7. Bolivia arrests political adviser to Latin American right-wingers
+### 7. Minnesota official sues Texas governor to force ICE agent’s extradition
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss)
+
+---
+
+### 8. Bolivia arrests political adviser to Latin American right-wingers
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Arrest comes after attack on activist Nadia Beller, who says she was targeted fo
 
 ---
 
-### 8. Trump administration moves to end rule protecting swaths of forest land
+### 9. Trump administration moves to end rule protecting swaths of forest land
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Arrest comes after attack on activist Nadia Beller, who says she was targeted fo
 US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss)
-
----
-
-### 9. Why is the US ramping up Tomahawk production?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss)
 
 ---
 

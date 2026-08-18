@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T02:59:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Terry A. Davis Quotes",
+            "description": "<p>Article URL: <a href=\"https://en.wikiquote.org/wiki/Terry_A._Davis\">https://en.wikiquote.org/wiki/Terry_A._Davis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353774\">https://news.ycombinator.com/item?id=49353774</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://en.wikiquote.org/wiki/Terry_A._Davis",
+            "published": "Tue, 18 Aug 2026 22:35:45 +0000",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Microsoft Rebrand Registry",
+            "description": "<p>Article URL: <a href=\"https://www.msrebrandregistry.com/analysis.html\">https://www.msrebrandregistry.com/analysis.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353753\">https://news.ycombinator.com/item?id=49353753</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.msrebrandregistry.com/analysis.html",
+            "published": "Tue, 18 Aug 2026 22:33:50 +0000",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Who owns the code?",
+            "description": "<p>Article URL: <a href=\"https://whoownsthecode.com/\">https://whoownsthecode.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353603\">https://news.ycombinator.com/item?id=49353603</a></p>\n<p>Points: 20</p>\n<p># Comments: 21</p>",
+            "url": "https://whoownsthecode.com/",
+            "published": "Tue, 18 Aug 2026 22:21:30 +0000",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three dead after family get into difficulty in sea",
+            "description": "A man, a woman and a teenage girl die and a younger girl is in a critical condition after swimming off the Sussex coast.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:30:56 GMT",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+            "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:31:11 GMT",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
+            "description": "State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 22:55:50 +0000",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bolivia arrests political adviser to Latin American right-wingers",
+            "description": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 21:50:43 +0000",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration moves to end rule protecting swaths of forest land",
+            "description": "US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 21:26:47 +0000",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T02:59:21+03:30"
+        }
+    ]
+}
