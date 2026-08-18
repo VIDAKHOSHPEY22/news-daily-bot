@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 02:59:21
+**Last Update:** 2026-08-19 03:11:57
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Terry A. Davis Quotes
+### 1. Programmable Property-Based Testing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikiquote.org/wiki/Terry_A._Davis">https://en.wikiquote.org/wiki/Terry_A._Davis</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353774">https://news.ycombinator.com/item?id=49353774</a></p>
+<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3828685">https://dl.acm.org/doi/10.1145/3828685</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353618">https://news.ycombinator.com/item?id=49353618</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://en.wikiquote.org/wiki/Terry_A._Davis](https://en.wikiquote.org/wiki/Terry_A._Davis)
+🔗 **Read more:** [https://dl.acm.org/doi/10.1145/3828685](https://dl.acm.org/doi/10.1145/3828685)
 
 ---
 
-### 2. The Microsoft Rebrand Registry
+### 2. AI usage patterns in software teams
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.msrebrandregistry.com/analysis.html">https://www.msrebrandregistry.com/analysis.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353753">https://news.ycombinator.com/item?id=49353753</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://linear.app/data">https://linear.app/data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353432">https://news.ycombinator.com/item?id=49353432</a></p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.msrebrandregistry.com/analysis.html](https://www.msrebrandregistry.com/analysis.html)
+🔗 **Read more:** [https://linear.app/data](https://linear.app/data)
 
 ---
 
-### 3. Who owns the code?
+### 3. GLM-5.3 Artificial Analysis Benchmarks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://whoownsthecode.com/">https://whoownsthecode.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353603">https://news.ycombinator.com/item?id=49353603</a></p>
-<p>Points: 20</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/models/glm-5-3">https://artificialanalysis.ai/models/glm-5-3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353407">https://news.ycombinator.com/item?id=49353407</a></p>
+<p>Points: 52</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://whoownsthecode.com/](https://whoownsthecode.com/)
+🔗 **Read more:** [https://artificialanalysis.ai/models/glm-5-3](https://artificialanalysis.ai/models/glm-5-3)
 
 ---
 
@@ -133,45 +133,6 @@ Arrest comes after attack on activist Nadia Beller, who says she was targeted fo
 US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss)
-
----
-
-### 10. Wildfire Picture Rock, Lake, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798)
-
----
-
-### 11. Wildfire CATO 2, Chaves, New Mexico
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
-
----
-
-### 12. Wildfire THE H1, Palm Beach, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791)
 
 ---
 

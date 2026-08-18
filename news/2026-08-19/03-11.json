@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-19T03:11:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Programmable Property-Based Testing",
+            "description": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3828685\">https://dl.acm.org/doi/10.1145/3828685</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353618\">https://news.ycombinator.com/item?id=49353618</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://dl.acm.org/doi/10.1145/3828685",
+            "published": "Tue, 18 Aug 2026 22:22:41 +0000",
+            "fetched": "2026-08-19T03:11:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI usage patterns in software teams",
+            "description": "<p>Article URL: <a href=\"https://linear.app/data\">https://linear.app/data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353432\">https://news.ycombinator.com/item?id=49353432</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://linear.app/data",
+            "published": "Tue, 18 Aug 2026 22:08:07 +0000",
+            "fetched": "2026-08-19T03:11:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GLM-5.3 Artificial Analysis Benchmarks",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/glm-5-3\">https://artificialanalysis.ai/models/glm-5-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353407\">https://news.ycombinator.com/item?id=49353407</a></p>\n<p>Points: 52</p>\n<p># Comments: 17</p>",
+            "url": "https://artificialanalysis.ai/models/glm-5-3",
+            "published": "Tue, 18 Aug 2026 22:06:10 +0000",
+            "fetched": "2026-08-19T03:11:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three dead after family get into difficulty in sea",
+            "description": "A man, a woman and a teenage girl die and a younger girl is in a critical condition after swimming off the Sussex coast.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:30:56 GMT",
+            "fetched": "2026-08-19T03:11:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+            "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:31:11 GMT",
+            "fetched": "2026-08-19T03:11:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-19T03:11:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
+            "description": "State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 22:55:50 +0000",
+            "fetched": "2026-08-19T03:11:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bolivia arrests political adviser to Latin American right-wingers",
+            "description": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 21:50:43 +0000",
+            "fetched": "2026-08-19T03:11:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration moves to end rule protecting swaths of forest land",
+            "description": "US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 21:26:47 +0000",
+            "fetched": "2026-08-19T03:11:57+03:30"
+        }
+    ]
+}
