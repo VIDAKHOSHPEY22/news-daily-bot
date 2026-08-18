@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 12:29:13
+**Last Update:** 2026-08-18 13:11:03
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Linux 7.3 improves performance when running out of vRAM
+### 1. When I worked at Apple, I remember seeing code that was 15 years old
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/sean_geiger/status/2089487682305216534">https://twitter.com/sean_geiger/status/2089487682305216534</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343187">https://news.ycombinator.com/item?id=49343187</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://twitter.com/sean_geiger/status/2089487682305216534](https://twitter.com/sean_geiger/status/2089487682305216534)
+
+---
+
+### 2. Linux 7.3 improves performance when running out of vRAM
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 70</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
 ---
 
-### 2. Rethinking Database Programming
+### 3. Rethinking Database Programming
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 25</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
 
 ---
 
-### 3. Exercise intensity modulates interorgan communication and is associated with
+### 4. Russia warns UK will pay for supplying drones to Ukraine
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341411">https://news.ycombinator.com/item?id=49341411</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.
 
-🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
+### 5. IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Multiple children are feared to have been conceived using sperm and egg donors w
 
 ---
 
-### 5. Russia says UK 'will pay' for supplying drones to Ukraine
+### 6. British couple on honeymoon killed in helicopter crash on Greek island
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-An MoD spokesperson responds by saying Britain stands "shoulder to shoulder" with Ukraine.
+The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Fifa official sacked after Infantino plan criticism
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump lashes out at CNN reporter over South Korea question
+### 7. Videos show deadly school shooting in Philippines
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump lashes out at CNN reporter over South Korea question
+A ninth-grade student opened fire at a high school in Zamboanga, Philippines, killing a fellow student and himself.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss)
 
 ---
 
-### 8. Syrian court sentences Wassim al-Assad to death
+### 8. Drone video shows drought-hit fields in England after driest July on record
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The former regime figure was found guilty of charges including premeditated murder and torture.
+Drone video shows drought-hit fields in England after driest July on record
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss)
 
 ---
 
-### 9. Chinese company unveils new ‘Superman’ humanoid robot
+### 9. Pakistan top court orders Imran Khan’s hospital transfer amid access battle
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chinese company unveils new ‘Superman’ humanoid robot
+Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/chinese-company-unveils-new-superman-humanoid-robot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/chinese-company-unveils-new-superman-humanoid-robot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss)
 
 ---
 

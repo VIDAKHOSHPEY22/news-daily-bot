@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T13:11:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When I worked at Apple, I remember seeing code that was 15 years old",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/sean_geiger/status/2089487682305216534\">https://twitter.com/sean_geiger/status/2089487682305216534</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343187\">https://news.ycombinator.com/item?id=49343187</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://twitter.com/sean_geiger/status/2089487682305216534",
+            "published": "Tue, 18 Aug 2026 09:05:48 +0000",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux 7.3 improves performance when running out of vRAM",
+            "description": "<p>Article URL: <a href=\"https://pixelcluster.dev/VRAM-Overcommit/\">https://pixelcluster.dev/VRAM-Overcommit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342719\">https://news.ycombinator.com/item?id=49342719</a></p>\n<p>Points: 70</p>\n<p># Comments: 7</p>",
+            "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+            "published": "Tue, 18 Aug 2026 07:51:50 +0000",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rethinking Database Programming",
+            "description": "<p>Article URL: <a href=\"https://acadia.engineering/blog/rethinking-database-programming\">https://acadia.engineering/blog/rethinking-database-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342530\">https://news.ycombinator.com/item?id=49342530</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
+            "url": "https://acadia.engineering/blog/rethinking-database-programming",
+            "published": "Tue, 18 Aug 2026 07:28:27 +0000",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia warns UK will pay for supplying drones to Ukraine",
+            "description": "Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 09:33:49 GMT",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+            "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+            "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 08:07:37 GMT",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 09:23:57 GMT",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Videos show deadly school shooting in Philippines",
+            "description": "A ninth-grade student opened fire at a high school in Zamboanga, Philippines, killing a fellow student and himself.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 09:31:56 +0000",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Drone video shows drought-hit fields in England after driest July on record",
+            "description": "Drone video shows drought-hit fields in England after driest July on record",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 09:29:30 +0000",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+            "description": "Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 09:15:03 +0000",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T13:11:03+03:30"
+        }
+    ]
+}
