@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T23:15:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Norway Should Buy OpenAI",
+            "description": "<p>Article URL: <a href=\"https://www.onethousandmeans.com/p/norway-should-buy-openai\">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49351330\">https://news.ycombinator.com/item?id=49351330</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+            "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+            "published": "Tue, 18 Aug 2026 19:30:29 +0000",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
+            "description": "<p>Article URL: <a href=\"https://github.com/argus-testing/argus\">https://github.com/argus-testing/argus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49351020\">https://news.ycombinator.com/item?id=49351020</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/argus-testing/argus",
+            "published": "Tue, 18 Aug 2026 19:10:16 +0000",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
+            "description": "<p>Article URL: <a href=\"https://burgeonlab.com/blog/inaugural-hwc-ap-recap/\">https://burgeonlab.com/blog/inaugural-hwc-ap-recap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49350980\">https://news.ycombinator.com/item?id=49350980</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
+            "published": "Tue, 18 Aug 2026 19:07:47 +0000",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says he's not embarrassed about hoax message exchange",
+            "description": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:22:58 GMT",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge says government can revoke deportation protections for Ethiopians",
+            "description": "Ruling permits Trump administration to nix Ethiopians&#039; protected status despite concern over conditions in the country.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 19:09:23 +0000",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Landmark trial on Meta’s impact on children’s mental health begins in US",
+            "description": "Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregard for young people’s mental health and user safety.",
+            "url": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 18:33:11 +0000",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike on Gaza City cafe kills six, including child",
+            "description": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 18:32:24 +0000",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T23:15:39+03:30"
+        }
+    ]
+}
