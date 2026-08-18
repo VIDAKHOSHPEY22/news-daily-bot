@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T20:09:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Code-native generation of highly programmable 3D assets (2026)",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.22738\">https://arxiv.org/abs/2607.22738</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49346538\">https://news.ycombinator.com/item?id=49346538</a></p>\n<p>Points: 14</p>\n<p># Comments: 9</p>",
+            "url": "https://arxiv.org/abs/2607.22738",
+            "published": "Tue, 18 Aug 2026 14:54:44 +0000",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The coolest anti-surveillance tools at Defcon [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-2uAsJ5EPAw\">https://www.youtube.com/watch?v=-2uAsJ5EPAw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49346444\">https://news.ycombinator.com/item?id=49346444</a></p>\n<p>Points: 31</p>\n<p># Comments: 0</p>",
+            "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+            "published": "Tue, 18 Aug 2026 14:49:19 +0000",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+            "description": "<p>Working on Mac, Linux, and Windows now. I include a simple GUI to find new models and get things built and set up. It is working quite well across a few models for me. The GitHub README and DESIGN.md files go into detail of the how/why and it's working remarkably well so far. <a href=\"https://github.com/notactuallytreyanastasio/shoehorn\" rel=\"nofollow\">https://github.com/notactuallytreyanastasio/shoehorn</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49346135\">https://news.ycombinator.com/item?id=49346135</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+            "published": "Tue, 18 Aug 2026 14:29:20 +0000",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says he's not embarrassed about hoax message exchange",
+            "description": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:22:58 GMT",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain builds tent cities for the thousands stuck in Ceuta",
+            "description": "Spain is building four temporary reception sites with 1,500 places as an estimated 5,000 migrants remain in Ceuta.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 15:53:42 +0000",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian living in caves older than Israel",
+            "description": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 15:53:38 +0000",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
+            "description": "Palestinian-American Loui Ridi expressed distress over how Israeli settlers have roamed around Qusra unchallenged.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 15:53:12 +0000",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T20:09:52+03:30"
+        }
+    ]
+}
