@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 21:04:17
+**Last Update:** 2026-08-18 21:18:55
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows
+### 1. Why your Amazon order confirmation emails have become so unhelpful
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data">https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348627">https://news.ycombinator.com/item?id=49348627</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)
+
+---
+
+### 2. Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows">https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348356">https://news.ycombinator.com/item?id=49348356</a></p>
-<p>Points: 12</p>
+<p>Points: 15</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows](https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows)
 
 ---
 
-### 2. Degraded performance for multiple models
+### 3. Degraded performance for multiple models
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://status.claude.com/incidents/q7txxvbsftgq">https://status.claude.com/incidents/q7txxvbsftgq</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348163">https://news.ycombinator.com/item?id=49348163</a></p>
-<p>Points: 123</p>
-<p># Comments: 101</p>
+<p>Points: 127</p>
+<p># Comments: 108</p>
 
 🔗 **Read more:** [https://status.claude.com/incidents/q7txxvbsftgq](https://status.claude.com/incidents/q7txxvbsftgq)
-
----
-
-### 3. Superpowers, Not Superintelligence
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bond.now/news/superpowers-not-superintelligence">https://bond.now/news/superpowers-not-superintelligence</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49348152">https://news.ycombinator.com/item?id=49348152</a></p>
-<p>Points: 8</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://bond.now/news/superpowers-not-superintelligence](https://bond.now/news/superpowers-not-superintelligence)
 
 ---
 
@@ -97,7 +97,20 @@ The PM communicated with a person posing as Susie Wiles, the chief of staff to D
 
 ---
 
-### 7. Tropical Storm Lala leaves Hawaii flooded and without power
+### 7. The British state has recast protest as terrorism
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Britain’s ever-broader terrorism laws are erasing the line between political violence, protest and dissent.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism?traffic_source=rss)
+
+---
+
+### 8. Tropical Storm Lala leaves Hawaii flooded and without power
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Tropical Storm Lala leaves Hawaii flooded and without power
 
 ---
 
-### 8. Iran prepares to keep economy alive as US threatens further sanctions
+### 9. Iran prepares to keep economy alive as US threatens further sanctions
 
 **Source:** Al Jazeera
 
@@ -120,58 +133,6 @@ Tropical Storm Lala leaves Hawaii flooded and without power
 Iran’s authorities say they could shift to offensive operations as Washington considers further sanctions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss)
-
----
-
-### 9. Disney sues US regulator, claiming political retaliation over ABC stations
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-FCC faces scrutiny as Disney claims licence renewal order is tied to political motives against ABC&#039;s coverage.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss)
-
----
-
-### 10. Wildfire Picture Rock, Lake, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798)
-
----
-
-### 11. Wildfire CATO 2, Chaves, New Mexico
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
-
----
-
-### 12. Wildfire THE H1, Palm Beach, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791)
 
 ---
 
