@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T16:44:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Using the railway network as a flatbed scanner",
+            "description": "<p>Article URL: <a href=\"https://philo.gay/linecam/\">https://philo.gay/linecam/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344825\">https://news.ycombinator.com/item?id=49344825</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://philo.gay/linecam/",
+            "published": "Tue, 18 Aug 2026 12:43:54 +0000",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+            "description": "<p>Article URL: <a href=\"https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/\">https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344654\">https://news.ycombinator.com/item?id=49344654</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+            "published": "Tue, 18 Aug 2026 12:23:55 +0000",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/kuberwastaken/status/2089377982536388964\">https://twitter.com/kuberwastaken/status/2089377982536388964</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344643\">https://news.ycombinator.com/item?id=49344643</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+            "published": "Tue, 18 Aug 2026 12:22:58 +0000",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:43:09 GMT",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+            "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+            "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 08:07:37 GMT",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+            "description": "Japanese activist keeps protesting against Israel’s genocide in Gaza",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 12:47:41 +0000",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
+            "description": "A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 12:41:33 +0000",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
+            "description": "Majed al-Ansari says the Iranian planes &#039;violated Qatar’s sovereignty&#039; and were dealt with in accordance with the law.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 12:39:43 +0000",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T16:44:22+03:30"
+        }
+    ]
+}

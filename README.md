@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 16:30:24
+**Last Update:** 2026-08-18 16:44:22
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. As Wisconsin cities flee Flock, its shared camera network loses value
+### 1. Using the railway network as a flatbed scanner
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/">https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344114">https://news.ycombinator.com/item?id=49344114</a></p>
-<p>Points: 39</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://philo.gay/linecam/">https://philo.gay/linecam/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344825">https://news.ycombinator.com/item?id=49344825</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
+🔗 **Read more:** [https://philo.gay/linecam/](https://philo.gay/linecam/)
 
 ---
 
-### 2. Google buys crashed airline Spirit's data at auction, because AI
+### 2. Meta Files Patent for Facial Recognition, Automatic Recording of People
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343559">https://news.ycombinator.com/item?id=49343559</a></p>
-<p>Points: 188</p>
-<p># Comments: 107</p>
+<p>Article URL: <a href="https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/">https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344654">https://news.ycombinator.com/item?id=49344654</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+🔗 **Read more:** [https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/](https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/)
 
 ---
 
-### 3. Linux 7.3 improves performance when running out of vRAM
+### 3. Claude writing a macOS driver for my obscure HP printer built only for Windows
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 271</p>
-<p># Comments: 83</p>
+<p>Article URL: <a href="https://twitter.com/kuberwastaken/status/2089377982536388964">https://twitter.com/kuberwastaken/status/2089377982536388964</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344643">https://news.ycombinator.com/item?id=49344643</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
+🔗 **Read more:** [https://twitter.com/kuberwastaken/status/2089377982536388964](https://twitter.com/kuberwastaken/status/2089377982536388964)
 
 ---
 
