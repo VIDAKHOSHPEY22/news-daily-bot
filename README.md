@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 11:16:52
+**Last Update:** 2026-08-18 11:29:01
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Exercise intensity modulates interorgan communication and is associated with
+### 1. Micron, SK Commit Billions to RAM Capacity, but Almost Nothing Lands Before 2028
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028">https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341774">https://news.ycombinator.com/item?id=49341774</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028](https://www.storagereview.com/news/micron-and-sk-hynix-commit-billions-to-memory-capacity-but-almost-nothing-lands-before-2028)
+
+---
+
+### 2. Exercise intensity modulates interorgan communication and is associated with
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341411">https://news.ycombinator.com/item?id=49341411</a></p>
-<p>Points: 3</p>
+<p>Points: 5</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
 
 ---
 
-### 2. The Benchmarkpocalypse
+### 3. The Benchmarkpocalypse
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinator.com/item?id=49340299</a></p>
-<p>Points: 73</p>
-<p># Comments: 11</p>
+<p>Points: 75</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://danluu.com/benchpocalypse/](https://danluu.com/benchpocalypse/)
-
----
-
-### 3. Repair Cafe – Fix Your Broken Items
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 87</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
 ---
 
@@ -97,42 +97,42 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Israeli settler children attack ambulance in occupied West Bank
+### 7. Palestine weekly: Global outcry fails to break West Bank siege
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video released by the Palestinian Red Crescent shows Israeli settler children attacking and blocking an ambulance.
+Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss](https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss)
 
 ---
 
-### 8. Russia says more than 600 drones targeted Moscow region
+### 8. Israel’s siege on Gaza is creating a breast cancer crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.
+Al Jazeera looks at the devastating impact that Israel&#039;s war and siege on Gaza are having on women with breast cancer.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss](https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss)
 
 ---
 
-### 9. Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
+### 9. Canada battles the clock, politics in scramble to avert Trump’s tariffs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-British maritime agency says the incident caused one casualty and damaged the vessel&#039;s engine room.
+Canadian officials are making a last-ditch effort to negotiate a reprieve from 50-percent tariffs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/18/canada-battles-the-clock-politics-in-scramble-to-avert-trumps-tariffs?traffic_source=rss)
 
 ---
 
