@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 07:33:08
+**Last Update:** 2026-08-18 08:13:13
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. California's new tire efficiency rules could save drivers $1B a year
+### 1. What's Better Than Binary? – Advent of Computing Episode 187
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/">https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340710">https://news.ycombinator.com/item?id=49340710</a></p>
-<p>Points: 11</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary">https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340315">https://news.ycombinator.com/item?id=49340315</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/](https://grist.org/transportation/californias-new-tire-efficiency-rules-could-save-drivers-1b-a-year/)
+🔗 **Read more:** [https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary](https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary)
 
 ---
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinator.com/item?id=49340299</a></p>
-<p>Points: 5</p>
+<p>Points: 19</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://danluu.com/benchpocalypse/](https://danluu.com/benchpocalypse/)
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 44</p>
+<p>Points: 54</p>
 <p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
@@ -97,7 +97,20 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
+### 7. Hichilema wins second second term as president of copper-rich Zambia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss)
+
+---
+
+### 8. Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Mourners blame relentless and &#039;racist&#039; media scrutiny for former Cambr
 
 ---
 
-### 8. Two killed as student opens fire at Philippines high school, official says
+### 9. Two killed as student opens fire at Philippines high school, officials say
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Mourners blame relentless and &#039;racist&#039; media scrutiny for former Cambr
 Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss)
-
----
-
-### 9. Trump says talking to North Korea’s Kim makes the south safer
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss)
 
 ---
 
