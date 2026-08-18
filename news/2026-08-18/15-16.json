@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T15:16:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/\">https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344114\">https://news.ycombinator.com/item?id=49344114</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+            "published": "Tue, 18 Aug 2026 11:27:03 +0000",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google buys crashed airline Spirit's data at auction, because AI",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343559\">https://news.ycombinator.com/item?id=49343559</a></p>\n<p>Points: 88</p>\n<p># Comments: 45</p>",
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+            "published": "Tue, 18 Aug 2026 10:13:28 +0000",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux 7.3 improves performance when running out of vRAM",
+            "description": "<p>Article URL: <a href=\"https://pixelcluster.dev/VRAM-Overcommit/\">https://pixelcluster.dev/VRAM-Overcommit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342719\">https://news.ycombinator.com/item?id=49342719</a></p>\n<p>Points: 212</p>\n<p># Comments: 56</p>",
+            "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+            "published": "Tue, 18 Aug 2026 07:51:50 +0000",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Prime Minister Andy Burnham vows to support Ukraine in its \"hour of need\" after Russia accuses the UK of escalating the Ukraine war by supplying British-made drones.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 11:41:23 GMT",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 11:43:27 GMT",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+            "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+            "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 08:07:37 GMT",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Premier League what to know: Schedule, prediction, transfers and more",
+            "description": "Matchday 1 fixtures, title predictions, where to watch and latest transfer news ahead of the new Premier League season.",
+            "url": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 11:22:27 +0000",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What to know about California’s special election to replace Eric Swalwell",
+            "description": "A race that once received little attention has seen outside spending from the American Israel Public Affairs Committee.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 11:09:24 +0000",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tupac Shakur murder trial begins thirty years after his death",
+            "description": "Former gang boss Duane ‘Keffe D’ Davis stands trial over Tupac Shakur’s 1996 murder, the first prosecution in the case.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 10:55:16 +0000",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T15:16:20+03:30"
+        }
+    ]
+}

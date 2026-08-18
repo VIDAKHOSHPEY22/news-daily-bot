@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 15:02:30
+**Last Update:** 2026-08-18 15:16:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google buys crashed airline Spirit's data at auction, because AI
+### 1. As Wisconsin cities flee Flock, its shared camera network loses value
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/">https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49344114">https://news.ycombinator.com/item?id=49344114</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/](https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/)
+
+---
+
+### 2. Google buys crashed airline Spirit's data at auction, because AI
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343559">https://news.ycombinator.com/item?id=49343559</a></p>
-<p>Points: 72</p>
-<p># Comments: 26</p>
+<p>Points: 88</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 
 ---
 
-### 2. Linux 7.3 improves performance when running out of vRAM
+### 3. Linux 7.3 improves performance when running out of vRAM
 
 **Source:** Hacker News
 
@@ -35,37 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 199</p>
-<p># Comments: 47</p>
+<p>Points: 212</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
 ---
 
-### 3. Rethinking Database Programming
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 80</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
-
----
-
-### 4. Russia warns UK will pay for supplying drones to Ukraine
+### 4. UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Russia accuses the UK of escalating the Ukraine war after British-made drones were used in strikes, but the MoD says it stands against Russian aggression.
+Prime Minister Andy Burnham vows to support Ukraine in its "hour of need" after Russia accuses the UK of escalating the Ukraine war by supplying British-made drones.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
 
