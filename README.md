@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 00:14:41
+**Last Update:** 2026-08-19 01:01:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.onethousandmeans.com/p/norway-should-buy-openai">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351330">https://news.ycombinator.com/item?id=49351330</a></p>
-<p>Points: 130</p>
-<p># Comments: 136</p>
+<p>Points: 149</p>
+<p># Comments: 168</p>
 
 🔗 **Read more:** [https://www.onethousandmeans.com/p/norway-should-buy-openai](https://www.onethousandmeans.com/p/norway-should-buy-openai)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351324">https://news.ycombinator.com/item?id=49351324</a></p>
-<p>Points: 142</p>
-<p># Comments: 27</p>
+<p>Points: 263</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
 
 ---
 
-### 3. llms.txt: a proposed standard no major AI platform has confirmed it uses
+### 3. IndieWeb Homebrew Website Club Asia Pacific: Reflections
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://geojacker.com/llms-txt">https://geojacker.com/llms-txt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351232">https://news.ycombinator.com/item?id=49351232</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://burgeonlab.com/blog/inaugural-hwc-ap-recap/">https://burgeonlab.com/blog/inaugural-hwc-ap-recap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49350980">https://news.ycombinator.com/item?id=49350980</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://geojacker.com/llms-txt](https://geojacker.com/llms-txt)
+🔗 **Read more:** [https://burgeonlab.com/blog/inaugural-hwc-ap-recap/](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
 
 ---
 
@@ -97,42 +97,42 @@ The PM communicated with a person posing as Susie Wiles, the chief of staff to D
 
 ---
 
-### 7. Russian missile strike kills 10 civilians in Kharkiv
+### 7. Trump administration moves to end rule protecting swaths of forest land
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.
+US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss)
 
 ---
 
-### 8. Trump and Carney speak ahead of US tariff deadline
+### 8. Why is the US ramping up Tomahawk production?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.
+Pentagon contracts defence manufacturer to increase output of cruise missiles.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss)
 
 ---
 
-### 9. US sanctions International Criminal Court president and trial lawyer
+### 9. Syria opens Assad-era nuclear programme to UN probe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Trump administration has led a campaign to &#039;dismantle&#039; the court, calling it a threat to national sovereignty.
+UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss)
 
 ---
 
