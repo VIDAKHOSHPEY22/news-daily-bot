@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 10:41:06
+**Last Update:** 2026-08-18 11:16:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Benchmarkpocalypse
+### 1. Exercise intensity modulates interorgan communication and is associated with
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341411">https://news.ycombinator.com/item?id=49341411</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
+
+---
+
+### 2. The Benchmarkpocalypse
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/benchpocalypse/">https://danluu.com/benchpocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49340299">https://news.ycombinator.com/item?id=49340299</a></p>
-<p>Points: 66</p>
-<p># Comments: 8</p>
+<p>Points: 73</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://danluu.com/benchpocalypse/](https://danluu.com/benchpocalypse/)
 
 ---
 
-### 2. Repair Cafe – Fix Your Broken Items
+### 3. Repair Cafe – Fix Your Broken Items
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 84</p>
-<p># Comments: 11</p>
+<p>Points: 87</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
-
----
-
-### 3. How Bluesky draws its logo on screenshots
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 416</p>
-<p># Comments: 278</p>
-
-🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
 
 ---
 
@@ -97,7 +97,20 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Russia says more than 600 drones targeted Moscow region
+### 7. Israeli settler children attack ambulance in occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Video released by the Palestinian Red Crescent shows Israeli settler children attacking and blocking an ambulance.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss)
+
+---
+
+### 8. Russia says more than 600 drones targeted Moscow region
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The attacks injured at least three people, including a girl, and damaged a Wildb
 
 ---
 
-### 8. Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
+### 9. Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The attacks injured at least three people, including a girl, and damaged a Wildb
 British maritime agency says the incident caused one casualty and damaged the vessel&#039;s engine room.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss)
-
----
-
-### 9. Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Beijing&#039;s new &#039;Ice Silk Road&#039; cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss)
 
 ---
 
