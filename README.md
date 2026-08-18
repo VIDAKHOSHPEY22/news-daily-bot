@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 13:11:03
+**Last Update:** 2026-08-18 13:24:49
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. When I worked at Apple, I remember seeing code that was 15 years old
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/sean_geiger/status/2089487682305216534">https://twitter.com/sean_geiger/status/2089487682305216534</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343187">https://news.ycombinator.com/item?id=49343187</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://twitter.com/sean_geiger/status/2089487682305216534](https://twitter.com/sean_geiger/status/2089487682305216534)
-
----
-
-### 2. Linux 7.3 improves performance when running out of vRAM
+### 1. Linux 7.3 improves performance when running out of vRAM
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 70</p>
-<p># Comments: 7</p>
+<p>Points: 91</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
 ---
 
-### 3. Rethinking Database Programming
+### 2. Rethinking Database Programming
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 25</p>
-<p># Comments: 5</p>
+<p>Points: 30</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
+
+---
+
+### 3. Exercise intensity modulates interorgan communication and is associated with
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341411">https://news.ycombinator.com/item?id=49341411</a></p>
+<p>Points: 28</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Russia accuses the UK after British-made drones were used in Ukrainian strikes, but the MoD says it stands against Russian aggression.
+Russia accuses the UK of escalating the Ukraine war after British-made drones were used in strikes, but the MoD says it stands against Russian aggression.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
 
@@ -97,33 +97,7 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 7. Videos show deadly school shooting in Philippines
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A ninth-grade student opened fire at a high school in Zamboanga, Philippines, killing a fellow student and himself.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss)
-
----
-
-### 8. Drone video shows drought-hit fields in England after driest July on record
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Drone video shows drought-hit fields in England after driest July on record
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss)
-
----
-
-### 9. Pakistan top court orders Imran Khan’s hospital transfer amid access battle
+### 7. Pakistan top court orders Imran Khan’s hospital transfer amid access battle
 
 **Source:** Al Jazeera
 
@@ -133,6 +107,32 @@ Drone video shows drought-hit fields in England after driest July on record
 Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss)
+
+---
+
+### 8. Cincinnati Open: Williams sisters fall in doubles while Zverev advances
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss)
+
+---
+
+### 9. Trump lashes out at CNN reporter over South Korea question
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump lashes out at CNN reporter over South Korea question
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss)
 
 ---
 
