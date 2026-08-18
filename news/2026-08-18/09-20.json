@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-18T09:20:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I don't enjoy the Internet any more",
+            "description": "<p>Article URL: <a href=\"https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/\">https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49341551\">https://news.ycombinator.com/item?id=49341551</a></p>\n<p>Points: 43</p>\n<p># Comments: 22</p>",
+            "url": "https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/",
+            "published": "Tue, 18 Aug 2026 05:17:14 +0000",
+            "fetched": "2026-08-18T09:20:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What's Better Than Binary? – Advent of Computing Episode 187",
+            "description": "<p>Article URL: <a href=\"https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary\">https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49340315\">https://news.ycombinator.com/item?id=49340315</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://adventofcomputing.libsyn.com/episode-187-whats-better-than-binary",
+            "published": "Tue, 18 Aug 2026 02:14:04 +0000",
+            "fetched": "2026-08-18T09:20:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Benchmarkpocalypse",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/benchpocalypse/\">https://danluu.com/benchpocalypse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49340299\">https://news.ycombinator.com/item?id=49340299</a></p>\n<p>Points: 41</p>\n<p># Comments: 2</p>",
+            "url": "https://danluu.com/benchpocalypse/",
+            "published": "Tue, 18 Aug 2026 02:11:02 +0000",
+            "fetched": "2026-08-18T09:20:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+            "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+            "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 05:00:04 GMT",
+            "fetched": "2026-08-18T09:20:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia warns UK over supplying drones to Ukraine",
+            "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 04:59:25 GMT",
+            "fetched": "2026-08-18T09:20:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa official sacked after Infantino plan criticism",
+            "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Aug 2026 20:46:08 GMT",
+            "fetched": "2026-08-18T09:20:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
+            "description": "Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 05:23:54 +0000",
+            "fetched": "2026-08-18T09:20:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A hero’s welcome as Cameroon parades its first Women’s AFCON title",
+            "description": "Cameroon’s women’s football team received a hero’s welcome in Yaounde after winning its first Women’s Africa Cup",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 05:07:07 +0000",
+            "fetched": "2026-08-18T09:20:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hichilema wins second term as president of copper-rich Zambia",
+            "description": "Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 04:07:13 +0000",
+            "fetched": "2026-08-18T09:20:57+03:30"
+        }
+    ]
+}
