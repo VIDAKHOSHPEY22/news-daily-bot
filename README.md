@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 06:32:59
+**Last Update:** 2026-08-18 06:43:12
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google wins bankruptcy auction for Spirit Airlines emails, chats, documents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy">https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339599">https://news.ycombinator.com/item?id=49339599</a></p>
-<p>Points: 38</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy](https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy)
-
----
-
-### 2. Repair Cafe – Fix Your Broken Items
+### 1. Repair Cafe – Fix Your Broken Items
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.repaircafe.org/">https://www.repaircafe.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49339097">https://news.ycombinator.com/item?id=49339097</a></p>
-<p>Points: 24</p>
+<p>Points: 30</p>
 <p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.repaircafe.org/](https://www.repaircafe.org/)
 
 ---
 
-### 3. How Bluesky draws its logo on screenshots
+### 2. How Bluesky draws its logo on screenshots
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://timmarinin.net/2026/bluesky-screenshots/">https://timmarinin.net/2026/bluesky-screenshots/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338459">https://news.ycombinator.com/item?id=49338459</a></p>
-<p>Points: 259</p>
-<p># Comments: 191</p>
+<p>Points: 273</p>
+<p># Comments: 194</p>
 
 🔗 **Read more:** [https://timmarinin.net/2026/bluesky-screenshots/](https://timmarinin.net/2026/bluesky-screenshots/)
+
+---
+
+### 3. scScript for Linux
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://scapplications.com/">https://scapplications.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49338428">https://news.ycombinator.com/item?id=49338428</a></p>
+<p>Points: 19</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://scapplications.com/](https://scapplications.com/)
 
 ---
 
@@ -97,7 +97,20 @@ Senior Fifa figure Kevin Lamour is sacked by football's world governing body thr
 
 ---
 
-### 7. Trump says talking to North Korea’s Kim makes the south safer
+### 7. Two killed as gunman opens fire at Philippines high school, official says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss)
+
+---
+
+### 8. Trump says talking to North Korea’s Kim makes the south safer
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US President Donald Trump has revealed North Korea’s leader Kim Jong Un has re
 
 ---
 
-### 8. Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah
+### 9. Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US President Donald Trump has revealed North Korea’s leader Kim Jong Un has re
 At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss)
-
----
-
-### 9. Vigil held in central London for late Cambridge professor Jason Arday
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss)
 
 ---
 
