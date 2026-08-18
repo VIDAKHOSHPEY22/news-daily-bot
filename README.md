@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 18:11:02
+**Last Update:** 2026-08-18 18:27:34
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Python Polars Cheatsheet (based on our O'Reilly book)
+### 1. Babies born under sugar rationing grew into adults with lower cancer risk
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873">https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345843">https://news.ycombinator.com/item?id=49345843</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873](https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873)
+
+---
+
+### 2. Python Polars Cheatsheet (based on our O'Reilly book)
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://opensource.posit.co/resources/cheatsheets/polars/">https://opensource.posit.co/resources/cheatsheets/polars/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345476">https://news.ycombinator.com/item?id=49345476</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://opensource.posit.co/resources/cheatsheets/polars/](https://opensource.posit.co/resources/cheatsheets/polars/)
 
 ---
 
-### 2. NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions
+### 3. NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/pitiflautico/neobrowser">https://github.com/pitiflautico/neobrowser</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345320">https://news.ycombinator.com/item?id=49345320</a></p>
-<p>Points: 16</p>
-<p># Comments: 5</p>
+<p>Points: 18</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://github.com/pitiflautico/neobrowser](https://github.com/pitiflautico/neobrowser)
-
----
-
-### 3. The Amazon Tax
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://seths.blog/2026/08/the-amazon-tax/">https://seths.blog/2026/08/the-amazon-tax/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49345263">https://news.ycombinator.com/item?id=49345263</a></p>
-<p>Points: 40</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://seths.blog/2026/08/the-amazon-tax/](https://seths.blog/2026/08/the-amazon-tax/)
 
 ---
 
@@ -97,7 +97,20 @@ The 62-year-old man is charged with misconduct in public office and appears befo
 
 ---
 
-### 7. Hichilema re-elected as Zambia president amid opposition concerns over vote
+### 7. What to watch in the Alaska and Wyoming primary elections
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Republican-led states face leadership shuffling.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss)
+
+---
+
+### 8. Hichilema re-elected as Zambia president amid opposition concerns over vote
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Hakainde Hichilema’s second term will test whether economic recovery can deliv
 
 ---
 
-### 8. What to know about Gaza working groups and their mandate?
+### 9. What to know about Gaza working groups and their mandate?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Hakainde Hichilema’s second term will test whether economic recovery can deliv
 What to know about the new Gaza working groups conditioning reconstruction on immediate disarmament.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss)
-
----
-
-### 9. Yemeni government escalates attacks against Houthis: What’s next?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss)
 
 ---
 

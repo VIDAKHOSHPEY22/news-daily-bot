@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T18:27:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+            "description": "<p>Article URL: <a href=\"https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873\">https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345843\">https://news.ycombinator.com/item?id=49345843</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+            "published": "Tue, 18 Aug 2026 14:06:50 +0000",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+            "description": "<p>Article URL: <a href=\"https://opensource.posit.co/resources/cheatsheets/polars/\">https://opensource.posit.co/resources/cheatsheets/polars/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345476\">https://news.ycombinator.com/item?id=49345476</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+            "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+            "published": "Tue, 18 Aug 2026 13:38:23 +0000",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+            "description": "<p>Article URL: <a href=\"https://github.com/pitiflautico/neobrowser\">https://github.com/pitiflautico/neobrowser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345320\">https://news.ycombinator.com/item?id=49345320</a></p>\n<p>Points: 18</p>\n<p># Comments: 10</p>",
+            "url": "https://github.com/pitiflautico/neobrowser",
+            "published": "Tue, 18 Aug 2026 13:25:54 +0000",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 13:56:26 GMT",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
+            "description": "The 62-year-old man is charged with misconduct in public office and appears before magistrates.",
+            "url": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 11:10:45 GMT",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What to watch in the Alaska and Wyoming primary elections",
+            "description": "Republican-led states face leadership shuffling.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 14:29:11 +0000",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
+            "description": "Hakainde Hichilema’s second term will test whether economic recovery can deliver real change for Zambians.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 14:01:47 +0000",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What to know about Gaza working groups and their mandate?",
+            "description": "What to know about the new Gaza working groups conditioning reconstruction on immediate disarmament.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 13:58:58 +0000",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T18:27:34+03:30"
+        }
+    ]
+}
