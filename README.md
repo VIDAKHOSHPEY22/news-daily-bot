@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 22:19:47
+**Last Update:** 2026-08-18 22:33:21
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html">https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49349984">https://news.ycombinator.com/item?id=49349984</a></p>
-<p>Points: 21</p>
-<p># Comments: 4</p>
+<p>Points: 44</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/RyanCodrai/turbovec">https://github.com/RyanCodrai/turbovec</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49349898">https://news.ycombinator.com/item?id=49349898</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
+<p>Points: 38</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://github.com/RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
 
@@ -52,7 +52,7 @@
 <p>Hey HN,<p>I've been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn't a good way to use the modern macOS Data Protection Keychain.<p>Electron's safeStorage [2] uses the legacy file-based keychain, which allows other apps/agents to query it with the `security` CLI. Not great when you have a dozen agents running in the background! The Data Protection Keychain is nice because it limits access via code-signing access groups and lets you set access rules like Touch ID and/or password.<p>1: <a href="https://hansel.so/" rel="nofollow">https://hansel.so/</a><p>2. <a href="https://www.electronjs.org/docs/latest/api/safe-storage" rel="nofollow">https://www.electronjs.org/docs/latest/api/safe-storage</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49349159">https://news.ycombinator.com/item?id=49349159</a></p>
-<p>Points: 6</p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/biw/keychain-store](https://github.com/biw/keychain-store)
