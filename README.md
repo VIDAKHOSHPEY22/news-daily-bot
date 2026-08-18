@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 01:13:10
+**Last Update:** 2026-08-19 02:01:40
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Code Teaching macOS to Natively Print to the HP Laser 1008a
+### 1. A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/DenisSergeevitch/desktop-fly">https://github.com/DenisSergeevitch/desktop-fly</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353221">https://news.ycombinator.com/item?id=49353221</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
+
+---
+
+### 2. Flock impersonates journalist in order to cancel his hotel reservations
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://xcancel.com/bennjordan/status/2089430236945342508">https://xcancel.com/bennjordan/status/2089430236945342508</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49353181">https://news.ycombinator.com/item?id=49353181</a></p>
+<p>Points: 34</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://xcancel.com/bennjordan/status/2089430236945342508](https://xcancel.com/bennjordan/status/2089430236945342508)
+
+---
+
+### 3. Claude Code Teaching macOS to Natively Print to the HP Laser 1008a
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://cdn.kuber.studio/chat/hp-laser-1008a-driver">https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49352806">https://news.ycombinator.com/item?id=49352806</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
+<p>Points: 59</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://cdn.kuber.studio/chat/hp-laser-1008a-driver](https://cdn.kuber.studio/chat/hp-laser-1008a-driver)
-
----
-
-### 2. Norway Should Buy OpenAI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.onethousandmeans.com/p/norway-should-buy-openai">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351330">https://news.ycombinator.com/item?id=49351330</a></p>
-<p>Points: 158</p>
-<p># Comments: 174</p>
-
-🔗 **Read more:** [https://www.onethousandmeans.com/p/norway-should-buy-openai](https://www.onethousandmeans.com/p/norway-should-buy-openai)
-
----
-
-### 3. Beware Management Consultants
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351324">https://news.ycombinator.com/item?id=49351324</a></p>
-<p>Points: 305</p>
-<p># Comments: 46</p>
-
-🔗 **Read more:** [https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
 
 ---
 
@@ -71,16 +71,16 @@ A man, a woman and a teenage girl die and a younger girl is in a critical condit
 
 ---
 
-### 5. UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning
+### 5. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its "hour of need".
+Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 7. Trump administration moves to end rule protecting swaths of forest land
+### 7. Bolivia arrests political adviser to Latin American right-wingers
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss)
+
+---
+
+### 8. Trump administration moves to end rule protecting swaths of forest land
 
 **Source:** Al Jazeera
 
@@ -110,29 +123,55 @@ US Agriculture Department says rescinding 2001 rule will help reduce wildfire ri
 
 ---
 
-### 8. Why is the US ramping up Tomahawk production?
+### 9. Why is the US ramping up Tomahawk production?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pentagon contracts defence manufacturer to increase output of cruise missiles.
+The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss)
 
 ---
 
-### 9. Syria opens Assad-era nuclear programme to UN probe
+### 10. Wildfire Picture Rock, Lake, Oregon
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.
+Natural event: Wildfires
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798)
+
+---
+
+### 11. Wildfire CATO 2, Chaves, New Mexico
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
+
+---
+
+### 12. Wildfire THE H1, Palm Beach, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T02:01:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+            "description": "<p>Article URL: <a href=\"https://github.com/DenisSergeevitch/desktop-fly\">https://github.com/DenisSergeevitch/desktop-fly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353221\">https://news.ycombinator.com/item?id=49353221</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/DenisSergeevitch/desktop-fly",
+            "published": "Tue, 18 Aug 2026 21:50:33 +0000",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flock impersonates journalist in order to cancel his hotel reservations",
+            "description": "<p>Article URL: <a href=\"https://xcancel.com/bennjordan/status/2089430236945342508\">https://xcancel.com/bennjordan/status/2089430236945342508</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353181\">https://news.ycombinator.com/item?id=49353181</a></p>\n<p>Points: 34</p>\n<p># Comments: 12</p>",
+            "url": "https://xcancel.com/bennjordan/status/2089430236945342508",
+            "published": "Tue, 18 Aug 2026 21:48:12 +0000",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+            "description": "<p>Article URL: <a href=\"https://cdn.kuber.studio/chat/hp-laser-1008a-driver\">https://cdn.kuber.studio/chat/hp-laser-1008a-driver</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49352806\">https://news.ycombinator.com/item?id=49352806</a></p>\n<p>Points: 59</p>\n<p># Comments: 34</p>",
+            "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+            "published": "Tue, 18 Aug 2026 21:14:21 +0000",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three dead after family get into difficulty in sea",
+            "description": "A man, a woman and a teenage girl die and a younger girl is in a critical condition after swimming off the Sussex coast.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:30:56 GMT",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+            "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:31:11 GMT",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bolivia arrests political adviser to Latin American right-wingers",
+            "description": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 21:50:43 +0000",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration moves to end rule protecting swaths of forest land",
+            "description": "US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 21:26:47 +0000",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is the US ramping up Tomahawk production?",
+            "description": "The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 21:26:07 +0000",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T02:01:40+03:30"
+        }
+    ]
+}
