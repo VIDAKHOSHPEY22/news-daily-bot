@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T00:02:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Norway Should Buy OpenAI",
+            "description": "<p>Article URL: <a href=\"https://www.onethousandmeans.com/p/norway-should-buy-openai\">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49351330\">https://news.ycombinator.com/item?id=49351330</a></p>\n<p>Points: 108</p>\n<p># Comments: 99</p>",
+            "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+            "published": "Tue, 18 Aug 2026 19:30:29 +0000",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Beware Management Consultants",
+            "description": "<p>Article URL: <a href=\"https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/\">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49351324\">https://news.ycombinator.com/item?id=49351324</a></p>\n<p>Points: 59</p>\n<p># Comments: 11</p>",
+            "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+            "published": "Tue, 18 Aug 2026 19:29:51 +0000",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
+            "description": "<p>Article URL: <a href=\"https://github.com/argus-testing/argus\">https://github.com/argus-testing/argus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49351020\">https://news.ycombinator.com/item?id=49351020</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/argus-testing/argus",
+            "published": "Tue, 18 Aug 2026 19:10:16 +0000",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says he's not embarrassed about hoax message exchange",
+            "description": "The PM communicated with a person posing as Susie Wiles, the chief of staff to Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:22:58 GMT",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian missile strike kills 10 civilians in Kharkiv",
+            "description": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 20:26:01 +0000",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump and Carney speak ahead of US tariff deadline",
+            "description": "The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.",
+            "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 20:19:27 +0000",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US sanctions International Criminal Court president and trial lawyer",
+            "description": "The Trump administration has led a campaign to &#039;dismantle&#039; the court, calling it a threat to national sovereignty.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 20:09:07 +0000",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T00:02:26+03:30"
+        }
+    ]
+}

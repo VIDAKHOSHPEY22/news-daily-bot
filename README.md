@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 23:15:39
+**Last Update:** 2026-08-19 00:02:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.onethousandmeans.com/p/norway-should-buy-openai">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351330">https://news.ycombinator.com/item?id=49351330</a></p>
-<p>Points: 15</p>
-<p># Comments: 9</p>
+<p>Points: 108</p>
+<p># Comments: 99</p>
 
 🔗 **Read more:** [https://www.onethousandmeans.com/p/norway-should-buy-openai](https://www.onethousandmeans.com/p/norway-should-buy-openai)
 
 ---
 
-### 2. Show HN: Argus, agentic QA for teams whose coding agents move faster than QA
+### 2. Beware Management Consultants
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351324">https://news.ycombinator.com/item?id=49351324</a></p>
+<p>Points: 59</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
+
+---
+
+### 3. Show HN: Argus, agentic QA for teams whose coding agents move faster than QA
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/argus-testing/argus">https://github.com/argus-testing/argus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351020">https://news.ycombinator.com/item?id=49351020</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 7</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/argus-testing/argus](https://github.com/argus-testing/argus)
-
----
-
-### 3. IndieWeb Homebrew Website Club Asia Pacific: Reflections
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://burgeonlab.com/blog/inaugural-hwc-ap-recap/">https://burgeonlab.com/blog/inaugural-hwc-ap-recap/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49350980">https://news.ycombinator.com/item?id=49350980</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://burgeonlab.com/blog/inaugural-hwc-ap-recap/](https://burgeonlab.com/blog/inaugural-hwc-ap-recap/)
 
 ---
 
@@ -97,42 +97,42 @@ The PM communicated with a person posing as Susie Wiles, the chief of staff to D
 
 ---
 
-### 7. US judge says government can revoke deportation protections for Ethiopians
+### 7. Russian missile strike kills 10 civilians in Kharkiv
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ruling permits Trump administration to nix Ethiopians&#039; protected status despite concern over conditions in the country.
+A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-judge-says-government-can-revoke-deportation-protections-for-ethiopians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss)
 
 ---
 
-### 8. Landmark trial on Meta’s impact on children’s mental health begins in US
+### 8. Trump and Carney speak ahead of US tariff deadline
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Case follows whistleblower’s 2021 claims about Meta’s profit-driven disregard for young people’s mental health and user safety.
+The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss)
 
 ---
 
-### 9. Israeli strike on Gaza City cafe kills six, including child
+### 9. US sanctions International Criminal Court president and trial lawyer
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.
+The Trump administration has led a campaign to &#039;dismantle&#039; the court, calling it a threat to national sovereignty.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/us-sanctions-international-criminal-court-president-and-trial-lawyer?traffic_source=rss)
 
 ---
 
