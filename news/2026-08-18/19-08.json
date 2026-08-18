@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T19:08:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
+            "description": "<p>Article URL: <a href=\"https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/\">https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49346312\">https://news.ycombinator.com/item?id=49346312</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
+            "published": "Tue, 18 Aug 2026 14:40:42 +0000",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
+            "description": "<p>Article URL: <a href=\"https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873\">https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345843\">https://news.ycombinator.com/item?id=49345843</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
+            "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
+            "published": "Tue, 18 Aug 2026 14:06:50 +0000",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+            "description": "<p>Article URL: <a href=\"https://opensource.posit.co/resources/cheatsheets/polars/\">https://opensource.posit.co/resources/cheatsheets/polars/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49345476\">https://news.ycombinator.com/item?id=49345476</a></p>\n<p>Points: 46</p>\n<p># Comments: 7</p>",
+            "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+            "published": "Tue, 18 Aug 2026 13:38:23 +0000",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+            "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 12:36:11 GMT",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 15:30:13 GMT",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
+            "description": "The 62-year-old man is charged with misconduct in public office and appears before magistrates.",
+            "url": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 11:10:45 GMT",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US cites India on voter IDs, but are elections under Modi clean?",
+            "description": "Trump highlights India&#039;s voter ID rules to bolster his case for stricter US election laws.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 15:04:24 +0000",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+            "description": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 14:49:56 +0000",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
+            "description": "Former France, Arsenal and Manchester City midfielder Patrick Vieira replaces Pape Thiaw as Senegal coach.",
+            "url": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 14:46:59 +0000",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T19:08:46+03:30"
+        }
+    ]
+}
