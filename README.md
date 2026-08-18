@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 00:02:26
+**Last Update:** 2026-08-19 00:14:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.onethousandmeans.com/p/norway-should-buy-openai">https://www.onethousandmeans.com/p/norway-should-buy-openai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351330">https://news.ycombinator.com/item?id=49351330</a></p>
-<p>Points: 108</p>
-<p># Comments: 99</p>
+<p>Points: 130</p>
+<p># Comments: 136</p>
 
 🔗 **Read more:** [https://www.onethousandmeans.com/p/norway-should-buy-openai](https://www.onethousandmeans.com/p/norway-should-buy-openai)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/">https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351324">https://news.ycombinator.com/item?id=49351324</a></p>
-<p>Points: 59</p>
-<p># Comments: 11</p>
+<p>Points: 142</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/)
 
 ---
 
-### 3. Show HN: Argus, agentic QA for teams whose coding agents move faster than QA
+### 3. llms.txt: a proposed standard no major AI platform has confirmed it uses
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/argus-testing/argus">https://github.com/argus-testing/argus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351020">https://news.ycombinator.com/item?id=49351020</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://geojacker.com/llms-txt">https://geojacker.com/llms-txt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49351232">https://news.ycombinator.com/item?id=49351232</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/argus-testing/argus](https://github.com/argus-testing/argus)
+🔗 **Read more:** [https://geojacker.com/llms-txt](https://geojacker.com/llms-txt)
 
 ---
 
