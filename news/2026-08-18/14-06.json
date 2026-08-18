@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-18T14:06:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google buys crashed airline Spirit's data at auction, because AI",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343559\">https://news.ycombinator.com/item?id=49343559</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+            "published": "Tue, 18 Aug 2026 10:13:28 +0000",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux 7.3 improves performance when running out of vRAM",
+            "description": "<p>Article URL: <a href=\"https://pixelcluster.dev/VRAM-Overcommit/\">https://pixelcluster.dev/VRAM-Overcommit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342719\">https://news.ycombinator.com/item?id=49342719</a></p>\n<p>Points: 130</p>\n<p># Comments: 15</p>",
+            "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+            "published": "Tue, 18 Aug 2026 07:51:50 +0000",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rethinking Database Programming",
+            "description": "<p>Article URL: <a href=\"https://acadia.engineering/blog/rethinking-database-programming\">https://acadia.engineering/blog/rethinking-database-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342530\">https://news.ycombinator.com/item?id=49342530</a></p>\n<p>Points: 51</p>\n<p># Comments: 10</p>",
+            "url": "https://acadia.engineering/blog/rethinking-database-programming",
+            "published": "Tue, 18 Aug 2026 07:28:27 +0000",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia warns UK will pay for supplying drones to Ukraine",
+            "description": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used in strikes, but the MoD says it stands against Russian aggression.",
+            "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 09:55:00 GMT",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+            "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+            "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 08:07:37 GMT",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British couple on honeymoon killed in helicopter crash on Greek island",
+            "description": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 09:23:57 GMT",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
+            "description": "Brazil&#039;s president says Amazon oil is ‘passport to the future’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 10:08:04 +0000",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian man dies in custody after alleged abuse by security officers",
+            "description": "A Syrian man died in police custody after his family alleged he was severely beaten.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 10:07:24 +0000",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Meta lawsuits: Is social media facing a global legal reckoning?",
+            "description": "Meta battles legal challenges in the US, Europe and beyond over platform design and its impact on younger users.",
+            "url": "https://www.aljazeera.com/news/2026/8/18/meta-lawsuits-is-social-media-facing-a-global-legal-reckoning?traffic_source=rss",
+            "published": "Tue, 18 Aug 2026 09:49:19 +0000",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-18T14:06:36+03:30"
+        }
+    ]
+}

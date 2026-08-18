@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-18 13:24:49
+**Last Update:** 2026-08-18 14:06:36
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. Linux 7.3 improves performance when running out of vRAM
+### 1. Google buys crashed airline Spirit's data at auction, because AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962">https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49343559">https://news.ycombinator.com/item?id=49343559</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
+
+---
+
+### 2. Linux 7.3 improves performance when running out of vRAM
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://pixelcluster.dev/VRAM-Overcommit/">https://pixelcluster.dev/VRAM-Overcommit/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342719">https://news.ycombinator.com/item?id=49342719</a></p>
-<p>Points: 91</p>
-<p># Comments: 8</p>
+<p>Points: 130</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://pixelcluster.dev/VRAM-Overcommit/](https://pixelcluster.dev/VRAM-Overcommit/)
 
 ---
 
-### 2. Rethinking Database Programming
+### 3. Rethinking Database Programming
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://acadia.engineering/blog/rethinking-database-programming">https://acadia.engineering/blog/rethinking-database-programming</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49342530">https://news.ycombinator.com/item?id=49342530</a></p>
-<p>Points: 30</p>
-<p># Comments: 6</p>
+<p>Points: 51</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://acadia.engineering/blog/rethinking-database-programming](https://acadia.engineering/blog/rethinking-database-programming)
-
----
-
-### 3. Exercise intensity modulates interorgan communication and is associated with
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49341411">https://news.ycombinator.com/item?id=49341411</a></p>
-<p>Points: 28</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue)
 
 ---
 
@@ -97,42 +97,42 @@ The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside 
 
 ---
 
-### 7. Pakistan top court orders Imran Khan’s hospital transfer amid access battle
+### 7. Brazil’s president says Amazon oil is ‘passport to the future’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Supreme Court grants jailed ex-PM Imran Khan transfer to hospital for a month after concerns raised over blood pressure.
+Brazil&#039;s president says Amazon oil is ‘passport to the future’
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss)
 
 ---
 
-### 8. Cincinnati Open: Williams sisters fall in doubles while Zverev advances
+### 8. Syrian man dies in custody after alleged abuse by security officers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Alexander Zverev survives third-round scare versus Terrance Atmane while Venus, Serena Williams lose in doubles return.
+A Syrian man died in police custody after his family alleged he was severely beaten.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss)
 
 ---
 
-### 9. Trump lashes out at CNN reporter over South Korea question
+### 9. Meta lawsuits: Is social media facing a global legal reckoning?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump lashes out at CNN reporter over South Korea question
+Meta battles legal challenges in the US, Europe and beyond over platform design and its impact on younger users.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/18/meta-lawsuits-is-social-media-facing-a-global-legal-reckoning?traffic_source=rss](https://www.aljazeera.com/news/2026/8/18/meta-lawsuits-is-social-media-facing-a-global-legal-reckoning?traffic_source=rss)
 
 ---
 
