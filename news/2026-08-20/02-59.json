@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T02:59:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Collaborative Human Agent Protocol (CHAP)",
+            "description": "<p>Article URL: <a href=\"https://github.com/BrightbeamAI/chap\">https://github.com/BrightbeamAI/chap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367836\">https://news.ycombinator.com/item?id=49367836</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/BrightbeamAI/chap",
+            "published": "Wed, 19 Aug 2026 22:09:16 +0000",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Feature Request: Support AGENTS.md",
+            "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/6235\">https://github.com/anthropics/claude-code/issues/6235</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367350\">https://news.ycombinator.com/item?id=49367350</a></p>\n<p>Points: 74</p>\n<p># Comments: 35</p>",
+            "url": "https://github.com/anthropics/claude-code/issues/6235",
+            "published": "Wed, 19 Aug 2026 21:19:50 +0000",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+            "description": "<p>Article URL: <a href=\"https://os8088.com/spotlight/\">https://os8088.com/spotlight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367256\">https://news.ycombinator.com/item?id=49367256</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
+            "url": "https://os8088.com/spotlight/",
+            "published": "Wed, 19 Aug 2026 21:11:31 +0000",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan moving back to UK",
+            "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 21:59:03 GMT",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+            "description": "Police say the family travelled from their home in London and went into the sea for a swim.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 18:45:51 GMT",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What the social media addiction lawsuit could cost Meta",
+            "description": "Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram&#039;s operations.",
+            "url": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 22:01:26 +0000",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "“I get along with him very well.”",
+            "description": "US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 21:35:34 +0000",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+            "description": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 21:22:17 +0000",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T02:59:40+03:30"
+        }
+    ]
+}

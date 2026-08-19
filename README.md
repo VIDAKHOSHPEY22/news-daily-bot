@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 02:16:43
+**Last Update:** 2026-08-20 02:59:40
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombinator.com/item?id=49367836</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
 
 ---
 
-### 2. Anthropic Refuses to Support Agents.md
+### 2. Feature Request: Support AGENTS.md
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Points: 74</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://os8088.com/spotlight/">https://os8088.com/spotlight/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367256">https://news.ycombinator.com/item?id=49367256</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Points: 23</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://os8088.com/spotlight/](https://os8088.com/spotlight/)
 
