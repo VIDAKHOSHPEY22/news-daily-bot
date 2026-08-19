@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 19:08:52
+**Last Update:** 2026-08-19 19:22:19
 
 **Total News:** 12
 
@@ -10,19 +10,19 @@
 
 ## 📰 Latest News
 
-### 1. The science behind Pixel Watch's insulin resistance feature
+### 1. X262: X264 with MPEG-2 Support
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.empirical.health/blog/wearable-insulin-resistance/">https://www.empirical.health/blog/wearable-insulin-resistance/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49362512">https://news.ycombinator.com/item?id=49362512</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/kierank/x262">https://github.com/kierank/x262</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49362396">https://news.ycombinator.com/item?id=49362396</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.empirical.health/blog/wearable-insulin-resistance/](https://www.empirical.health/blog/wearable-insulin-resistance/)
+🔗 **Read more:** [https://github.com/kierank/x262](https://github.com/kierank/x262)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/NoubarAfeyan/status/2090050162441752787">https://twitter.com/NoubarAfeyan/status/2090050162441752787</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49361395">https://news.ycombinator.com/item?id=49361395</a></p>
-<p>Points: 164</p>
-<p># Comments: 47</p>
+<p>Points: 193</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://twitter.com/NoubarAfeyan/status/2090050162441752787](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.raphaelbauer.com:443/posts/postgresql-everything/">https://www.raphaelbauer.com:443/posts/postgresql-everything/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49361279">https://news.ycombinator.com/item?id=49361279</a></p>
-<p>Points: 106</p>
-<p># Comments: 76</p>
+<p>Points: 121</p>
+<p># Comments: 86</p>
 
 🔗 **Read more:** [https://www.raphaelbauer.com:443/posts/postgresql-everything/](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
 
