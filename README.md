@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 23:15:44
+**Last Update:** 2026-08-20 00:06:46
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Police officer used Flock cameras to track estranged wife 717 times
+### 1. Pixel 11 Pro Fold feels like the end of an era
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/">https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365733">https://news.ycombinator.com/item?id=49365733</a></p>
-<p>Points: 36</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review">https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366264">https://news.ycombinator.com/item?id=49366264</a></p>
+<p>Points: 19</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/](https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/)
+🔗 **Read more:** [https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
 
 ---
 
-### 2. Unsloth Dynamic 3.0 GGUFs
+### 2. From Quantum Relative Entropy to the Semiclassical Einstein Equations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsloth.ai/docs/basics/dynamic-3.0-ggufs">https://unsloth.ai/docs/basics/dynamic-3.0-ggufs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365443">https://news.ycombinator.com/item?id=49365443</a></p>
-<p>Points: 28</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2510.24491">https://arxiv.org/abs/2510.24491</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366115">https://news.ycombinator.com/item?id=49366115</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://unsloth.ai/docs/basics/dynamic-3.0-ggufs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+🔗 **Read more:** [https://arxiv.org/abs/2510.24491](https://arxiv.org/abs/2510.24491)
 
 ---
 
-### 3. Rules of Good Social Skills
+### 3. Ramp Launches a Model Router
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/">https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365419">https://news.ycombinator.com/item?id=49365419</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://router.com">https://router.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366067">https://news.ycombinator.com/item?id=49366067</a></p>
+<p>Points: 25</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/](https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/)
+🔗 **Read more:** [https://router.com](https://router.com)
 
 ---
 
@@ -97,7 +97,33 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 7. 582 skeletons, including children discovered in Sri Lanka mass grave
+### 7. What’s behind Israel’s latest attack on Syria?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss)
+
+---
+
+### 8. Seven people, mostly foreign tourists, killed in helicopter crash in Kenya
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ecuador&#039;s intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss)
+
+---
+
+### 9. 582 skeletons, including children discovered in Sri Lanka mass grave
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss)
-
----
-
-### 8. Protests in Kyiv back ex-defence minister Fedorov’s call for elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss)
-
----
-
-### 9. Violence in the New Syria?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss)
 
 ---
 
