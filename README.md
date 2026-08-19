@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 20:22:12
+**Last Update:** 2026-08-19 21:02:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -20,8 +20,8 @@
 <p>Hi HN, Jonathan & Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent.<p>Here’s what you can do with it:<p>1. get a sandboxed agent, with all the OneCLI capabilities in place like connect your GitHub account, Gmail, Notion, or Dropbox simply from the chat.<p>2. deterministic human in the loop approval in the chat itself for things that you need 100% control like sending an email or deleting the Linear ticket.<p>3. manage team policy in one place, enforced across every agent in the workspace<p>4. enjoy global connections at the team level, like shared LLM keys or service accounts<p>Here’s a demo: <a href="https://www.youtube.com/watch?v=dlW-44ntpbE" rel="nofollow">https://www.youtube.com/watch?v=dlW-44ntpbE</a><p>We started working on this by accident, even though our careers were in the security space. We were working on a devtool called ChartDB, an open-source DB tool. When OpenClaw took off back in January, we started using it to orchestrate agents on top of ChartDB. We quickly understood there is a big issue around auth. Agents need credentials to do real work, but to give them those secrets would not be the best idea. They keep them in their memory and also write them down to local files and their sessions as plain text. And we knew that agents can easily be fooled into giving up those API keys/secrets. So we needed some way to control the agent and stop prompt injections from tricking it into using its services for an attacker's benefit.<p>We created OneCLI that started as a vault for AI Agents built in Rust.<p>We found out that most of our demand for OneCLI came from autonomous agents like Hermes, OpenClaw and NanoClaw for individuals and teams.<p>Users looked for useful agents that do things for the person who runs them with two missing parts: 1) managing secrets and permissions. 2) and for teams - multiplayer management.<p>We decided to pivot and provide the agent itself as a harness for teams, to give each employee an agent. We saw that teams had to deal with setting up their own harness again and again, and basically as we already had the vault as a gateway. We got the idea to provide the missing piece of the agent management out of the box and open source it (Apache-2.0, with a small enterprise exception).<p>We're open source first - the entire platform, not just a small portion of it like other agents, so companies can actually see the code, evaluate it, and trust it instead of taking our word for it. They run it isolated, in their own environment, fully under their control, at production quality, not a locked black box hosted somewhere else. That means the safety isn't just a promise, it's something they can verify themselves. Combined with real autonomy and least-privilege access, that's what makes it something a company can fully own and trust, not just adopt.<p>We also approach this from a company perspective rather than an individual one. Our solution manages agents on behalf of each employee, wrapped in deterministic guardrails that company admins configure through centralized policies.<p>For the agent engine itself we’re using jcode which is the core of the agent-loop. We found out that it improves the experience and makes the agent smarter and faster.<p>Here’s how it works:<p>It runs on infra you control. Fully open-source, self-host or cloud in minutes.<p>The agent never holds a real secret. It gets a placeholder. The real credential is injected at the gateway, per request, after the call is authorized. It never enters the agent's context, memory, or logs.<p>Enforcement outside the model. Prompts are suggestions. Policies defined by the org admin run at the network layer, outside the agent and the LLM. Block endpoints, rate limit per agent, require approval, scope per employee. The gateway decides. The agent can't bypass it.<p>Isolated VM per agent. Own memory, own keys, own permissions. Blast radius is one agent.<p>Speed of the Harness: Rust engine under the agent loop.<p>Full identity trail. Every agent is bound to an employee. Every call logged with who it acted for and which policy allowed it.<p>Some things people are doing with the platform include:<p>- Managing their company life cycle entirely from the sales calls, to the product side automatically open tickets to the engineering teams, that would kick the development agents to deliver and ship to production.<p>- Operational side, like automatically hygiene the CRM after calls, sourcing leads, book meetings and manage follow ups emails.<p>- Some of our customers also doing their entire grocery shopping using those agents and send them to take care of their chores like ordering things online.<p>About the team: Both founders come from cybersecurity backgrounds. Jonathan spent years at Axis Security building zero trust network access. The core idea is that you never trust the client. You decide exactly what a person can reach, and you enforce it outside of them, at the network layer, so it doesn't matter what the client tries to do. That's how every serious company gives access to humans today. Guy was the 1st employee in Argon security doing AppSec.<p>We would love to hear your thoughts on the move, happy to get issues open to improve and get your agent to be powerful and secure - designed for teams, not just individuals.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49363710">https://news.ycombinator.com/item?id=49363710</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/onecli/onecli](https://github.com/onecli/onecli)
 
@@ -36,26 +36,26 @@
 **Description:**
 <p>Article URL: <a href="https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/">https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49363668">https://news.ycombinator.com/item?id=49363668</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/)
 
 ---
 
-### 3. Chain-of-Thought Reasoning in the Wild Is Not Always Faithful
+### 3. How Kubernetes Probes Work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2503.08679">https://arxiv.org/abs/2503.08679</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49363587">https://news.ycombinator.com/item?id=49363587</a></p>
+<p>Article URL: <a href="https://ngrok.com/blog/probes">https://ngrok.com/blog/probes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49363665">https://news.ycombinator.com/item?id=49363665</a></p>
 <p>Points: 8</p>
-<p># Comments: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2503.08679](https://arxiv.org/abs/2503.08679)
+🔗 **Read more:** [https://ngrok.com/blog/probes](https://ngrok.com/blog/probes)
 
 ---
 
@@ -98,7 +98,20 @@ The five-year old Gaza girl initially survived the attack and pleaded for help b
 
 ---
 
-### 7. Why extreme heat is much more dangerous for the elderly than we realised
+### 7. US and Canada reach ‘very fair’ trade agreement, Trump says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+New trade deal ensures no tariffs for US farmers and businesses exporting to Canada, Trump announces
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss)
+
+---
+
+### 8. Why extreme heat is much more dangerous for the elderly than we realised
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Human heat tolerance limits are lower than previously thought, and age is a majo
 
 ---
 
-### 8. India rout Pakistan at Hockey World Cup 2026 to qualify for second round
+### 9. India rout Pakistan at Hockey World Cup 2026 to qualify for second round
 
 **Source:** Al Jazeera
 
@@ -124,20 +137,20 @@ India hold off Pakistan 5-3 to finish second with six points as England top Pool
 
 ---
 
-### 9. Seven decades of US regime change efforts: What have they achieved?
+### 10. Tropical Storm Saudel
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926)
 
 ---
 
-### 10. Wildfire Picture Rock, Lake, Oregon
+### 11. Wildfire Picture Rock, Lake, Oregon
 
 **Source:** NASA
 
@@ -150,7 +163,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire CATO 2, Chaves, New Mexico
+### 12. Wildfire CATO 2, Chaves, New Mexico
 
 **Source:** NASA
 
@@ -160,19 +173,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800)
-
----
-
-### 12. Wildfire THE H1, Palm Beach, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791)
 
 ---
 
