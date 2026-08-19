@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 14:20:52
+**Last Update:** 2026-08-19 15:02:39
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 56</p>
-<p># Comments: 19</p>
+<p>Points: 67</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 66</p>
-<p># Comments: 52</p>
+<p>Points: 75</p>
+<p># Comments: 60</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
@@ -97,42 +97,42 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 7. Why White House envoys cannot sway Israel’s war leader
+### 7. Humanitarianism is not collapsing. It is being traded and compromised
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.
+This is endangering the lives of humanitarian workers and the vulnerable communities they serve.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss)
 
 ---
 
-### 8. Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test
+### 8. ‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the two-Test series.
+Analysts say Trump&#039;s attempted rapprochement with Kim Jong Un is driven by political signals to Pyongyang and Seoul.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss)
 
 ---
 
-### 9. At least five killed in Russian air attacks on Ukraine
+### 9. Top India court allows passive euthanasia, but few aware of ‘living wills’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.
+Families of terminally ill patients have little or no awareness or preparedness for what comes next.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss)
 
 ---
 
