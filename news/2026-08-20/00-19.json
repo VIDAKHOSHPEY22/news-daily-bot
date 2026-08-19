@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T00:19:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pressed Penny Machine Map",
+            "description": "<p>Article URL: <a href=\"https://pennypresses.net/home/map.php\">https://pennypresses.net/home/map.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49366597\">https://news.ycombinator.com/item?id=49366597</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://pennypresses.net/home/map.php",
+            "published": "Wed, 19 Aug 2026 20:13:47 +0000",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "XWayland 26.1-rc1 Released Two Years After the Last Release",
+            "description": "<p>Article URL: <a href=\"https://lists.x.org/archives/xorg/2026-August/062280.html\">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49366474\">https://news.ycombinator.com/item?id=49366474</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+            "published": "Wed, 19 Aug 2026 20:03:03 +0000",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "From Quantum Relative Entropy to the Semiclassical Einstein Equations",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.24491\">https://arxiv.org/abs/2510.24491</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49366115\">https://news.ycombinator.com/item?id=49366115</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2510.24491",
+            "published": "Wed, 19 Aug 2026 19:31:02 +0000",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+            "description": "Police say the family travelled from their home in London and went into the sea for a swim.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 18:45:51 GMT",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+            "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 12:09:47 GMT",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s behind Israel’s latest attack on Syria?",
+            "description": "US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 20:18:40 +0000",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
+            "description": "Ecuador&#039;s intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 19:53:12 +0000",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
+            "description": "A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 19:26:58 +0000",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T00:19:53+03:30"
+        }
+    ]
+}

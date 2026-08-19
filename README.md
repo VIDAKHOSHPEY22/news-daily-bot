@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 00:06:46
+**Last Update:** 2026-08-20 00:19:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pixel 11 Pro Fold feels like the end of an era
+### 1. Pressed Penny Machine Map
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review">https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366264">https://news.ycombinator.com/item?id=49366264</a></p>
-<p>Points: 19</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://pennypresses.net/home/map.php">https://pennypresses.net/home/map.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366597">https://news.ycombinator.com/item?id=49366597</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
+🔗 **Read more:** [https://pennypresses.net/home/map.php](https://pennypresses.net/home/map.php)
 
 ---
 
-### 2. From Quantum Relative Entropy to the Semiclassical Einstein Equations
+### 2. XWayland 26.1-rc1 Released Two Years After the Last Release
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lists.x.org/archives/xorg/2026-August/062280.html">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366474">https://news.ycombinator.com/item?id=49366474</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
+
+---
+
+### 3. From Quantum Relative Entropy to the Semiclassical Einstein Equations
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2510.24491">https://arxiv.org/abs/2510.24491</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366115">https://news.ycombinator.com/item?id=49366115</a></p>
-<p>Points: 9</p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2510.24491](https://arxiv.org/abs/2510.24491)
-
----
-
-### 3. Ramp Launches a Model Router
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://router.com">https://router.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366067">https://news.ycombinator.com/item?id=49366067</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://router.com](https://router.com)
 
 ---
 
