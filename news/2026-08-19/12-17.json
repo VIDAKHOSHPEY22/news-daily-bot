@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T12:17:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+            "description": "<p>Article URL: <a href=\"https://www.modular.com/blog/modcon-announcements\">https://www.modular.com/blog/modcon-announcements</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358327\">https://news.ycombinator.com/item?id=49358327</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+            "url": "https://www.modular.com/blog/modcon-announcements",
+            "published": "Wed, 19 Aug 2026 07:47:19 +0000",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Where Human Sleep Went Wrong",
+            "description": "<p>Article URL: <a href=\"https://nautil.us/where-human-sleep-went-wrong-1283797\">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358259\">https://news.ycombinator.com/item?id=49358259</a></p>\n<p>Points: 27</p>\n<p># Comments: 10</p>",
+            "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+            "published": "Wed, 19 Aug 2026 07:40:32 +0000",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/\">https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358220\">https://news.ycombinator.com/item?id=49358220</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+            "url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+            "published": "Wed, 19 Aug 2026 07:35:59 +0000",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
+            "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 03:42:16 GMT",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sacked Ukrainian defence minister calls for presidential election",
+            "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+            "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 07:14:50 GMT",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Demand for degree apprenticeships in England quadruples in three years",
+            "description": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 05:00:12 GMT",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Aid workers faced record number of attacks in 2025, UN says",
+            "description": "Gaza remains the deadliest place for humanitarian workers for third consecutive year, with 186 killed in 2025.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 08:40:54 +0000",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who won and lost in Florida primaries: Key takeaways",
+            "description": "Florida primaries reveal political shifts, reshaping key races ahead of crucial US midterm elections in November.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/who-won-and-lost-in-florida-primaries-key-takeaways?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 08:38:29 +0000",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Africa to Australia: Why coal profits are surging during Iran war",
+            "description": "Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 06:27:30 +0000",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T12:17:37+03:30"
+        }
+    ]
+}

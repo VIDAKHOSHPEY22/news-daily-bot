@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 11:28:38
+**Last Update:** 2026-08-19 12:17:37
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Privacy focused client side password generator
+### 1. The Mojo language (by Modular, now Qualcomm) is now open-source
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://password-generator.aaqa.dev/">https://password-generator.aaqa.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357881">https://news.ycombinator.com/item?id=49357881</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://password-generator.aaqa.dev/](https://password-generator.aaqa.dev/)
+🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
 ---
 
-### 2. λλ: A Programming Language for Silicon Photonics
+### 2. Where Human Sleep Went Wrong
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3789240.3829151">https://dl.acm.org/doi/10.1145/3789240.3829151</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357501">https://news.ycombinator.com/item?id=49357501</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
+<p>Points: 27</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://dl.acm.org/doi/10.1145/3789240.3829151](https://dl.acm.org/doi/10.1145/3789240.3829151)
+🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
 ---
 
-### 3. Palomar: A registry of Lean verified mathematics
+### 3. "Sabotage": Experts, lawmakers blast RFK Jr. for destroying healthcare research
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355968">https://news.ycombinator.com/item?id=49355968</a></p>
-<p>Points: 85</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/">https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358220">https://news.ycombinator.com/item?id=49358220</a></p>
+<p>Points: 23</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+🔗 **Read more:** [https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
 
 ---
 
@@ -97,7 +97,33 @@ The popularity of degree apprenticeships has grown as the cost of university has
 
 ---
 
-### 7. South Africa to Australia: Why coal profits are surging during Iran war
+### 7. Aid workers faced record number of attacks in 2025, UN says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gaza remains the deadliest place for humanitarian workers for third consecutive year, with 186 killed in 2025.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss)
+
+---
+
+### 8. Who won and lost in Florida primaries: Key takeaways
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Florida primaries reveal political shifts, reshaping key races ahead of crucial US midterm elections in November.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/who-won-and-lost-in-florida-primaries-key-takeaways?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/who-won-and-lost-in-florida-primaries-key-takeaways?traffic_source=rss)
+
+---
+
+### 9. South Africa to Australia: Why coal profits are surging during Iran war
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The popularity of degree apprenticeships has grown as the cost of university has
 Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss)
-
----
-
-### 8. Scaling back US-South Korea drills may fail to woo Kim away from China
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss)
-
----
-
-### 9. Ukraine’s ousted defence minister calls for elections during war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mykhailo Fedorov&#039;s call is first such demand by a major Ukrainian political figure since Russia&#039;s full-scale invasion.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss)
 
 ---
 
