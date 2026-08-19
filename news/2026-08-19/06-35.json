@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T06:35:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta's blockbuster trial draws parallels to big tobacco",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco\">https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355825\">https://news.ycombinator.com/item?id=49355825</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+            "published": "Wed, 19 Aug 2026 02:24:34 +0000",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenLogi",
+            "description": "<p>Article URL: <a href=\"https://openlogi.org/en\">https://openlogi.org/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355606\">https://news.ycombinator.com/item?id=49355606</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://openlogi.org/en",
+            "published": "Wed, 19 Aug 2026 01:58:28 +0000",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Integer",
+            "description": "<p>Article URL: <a href=\"https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b\">https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355368\">https://news.ycombinator.com/item?id=49355368</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+            "url": "https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b",
+            "published": "Wed, 19 Aug 2026 01:23:45 +0000",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three dead after family get into difficulty in sea",
+            "description": "A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:30:56 GMT",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sacked Ukrainian defence minister calls for presidential election",
+            "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+            "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 01:31:15 GMT",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+            "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:31:11 GMT",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+            "description": "Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.",
+            "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 02:35:15 +0000",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US refineries taking in half of Venezuela’s oil output, official says",
+            "description": "US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 02:00:43 +0000",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
+            "description": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 00:53:34 +0000",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T06:35:19+03:30"
+        }
+    ]
+}

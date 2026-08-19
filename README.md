@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 05:27:05
+**Last Update:** 2026-08-19 06:35:19
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Three dead after family get into difficulty in sea
+### 1. Meta's blockbuster trial draws parallels to big tobacco
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco">https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355825">https://news.ycombinator.com/item?id=49355825</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
+
+---
+
+### 2. OpenLogi
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openlogi.org/en">https://openlogi.org/en</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355606">https://news.ycombinator.com/item?id=49355606</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://openlogi.org/en](https://openlogi.org/en)
+
+---
+
+### 3. The Integer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b">https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355368">https://news.ycombinator.com/item?id=49355368</a></p>
+<p>Points: 19</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b](https://gist.github.com/17twenty/1f230ab8256f42d4cd3ba931b9bd440b)
+
+---
+
+### 4. Three dead after family get into difficulty in sea
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ A man, a woman and a teenage girl die, and a younger girl is in critical conditi
 
 ---
 
-### 2. Sacked Ukrainian defence minister calls for presidential election
+### 5. Sacked Ukrainian defence minister calls for presidential election
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Martial law has been in place in Ukraine since February 2022, under which electi
 
 ---
 
-### 3. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
+### 6. 'Everyone in for Christmas' - Burnham unveils rough sleeping plan
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 4. How Ebola became the deadliest outbreak in DR Congo’s history
+### 7. US, Canada reach trade deal to avert steep tariffs, Trump says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss)
+
+---
+
+### 8. US refineries taking in half of Venezuela’s oil output, official says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss)
+
+---
+
+### 9. How Ebola became the deadliest outbreak in DR Congo’s history
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Conflict, delayed detection, and mistrust are complicating efforts to contain th
 
 ---
 
-### 5. US ambassador to Israel calls settler violence ‘terror’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss)
-
----
-
-### 6. Quebec separatist says no independence referendum while Trump in office
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Leader of Canadian province&#039;s secessionist party says debate over independence stymied by turbulence in US politics.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss)
-
----
-
-### 7. Wildfire Picture Rock, Lake, Oregon
+### 10. Wildfire Picture Rock, Lake, Oregon
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire CATO 2, Chaves, New Mexico
+### 11. Wildfire CATO 2, Chaves, New Mexico
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire THE H1, Palm Beach, Florida
+### 12. Wildfire THE H1, Palm Beach, Florida
 
 **Source:** NASA
 
