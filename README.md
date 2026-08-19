@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 22:15:59
+**Last Update:** 2026-08-19 22:28:47
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Introducing MicroLighter
+### 1. The A.I. In Google's New Pixel 11 Is Not Helpful
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html">https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365383">https://news.ycombinator.com/item?id=49365383</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)
+
+---
+
+### 2. Introducing MicroLighter
 
 **Source:** Hacker News
 
@@ -19,47 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://daverupert.com/2026/08/microlighter/">https://daverupert.com/2026/08/microlighter/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365326">https://news.ycombinator.com/item?id=49365326</a></p>
-<p>Points: 7</p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://daverupert.com/2026/08/microlighter/](https://daverupert.com/2026/08/microlighter/)
 
 ---
 
-### 2. Cop Explains Why He Used License Plate Reader to Stalk Woman
+### 3. A revisit of remote Spectre attacks on Cloudflare Workers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/">https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49364789">https://news.ycombinator.com/item?id=49364789</a></p>
-<p>Points: 18</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/">https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49364721">https://news.ycombinator.com/item?id=49364721</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/](https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/)
+🔗 **Read more:** [https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/)
 
 ---
 
-### 3. Openrouter is joining Stripe
+### 4. Couple and teenage daughter who died in water off Shoreham named by police
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Previously: Stripe will reportedly acquire OpenRouter for $7B+ <a href="https://news.ycombinator.com/item?id=49323381">https://news.ycombinator.com/item?id=49323381</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49364559">https://news.ycombinator.com/item?id=49364559</a></p>
-<p>Points: 133</p>
-<p># Comments: 93</p>
+Police say the family travelled from their home in London and went into the sea for a swim.
 
-🔗 **Read more:** [https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Track defect found on approach to site of Lewes derailment, initial report says
+### 5. Track defect found on approach to site of Lewes derailment, initial report says
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 5. Thunderstorm warnings issued for parts of UK with flash flooding expected
+### 6. Thunderstorm warnings issued for parts of UK with flash flooding expected
 
 **Source:** BBC
 
@@ -85,20 +97,20 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 6. Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation
+### 7. Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.
+Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss)
 
 ---
 
-### 7. Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’
+### 8. Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Canada official condemns Israel&#039;s &#039;invasion&#039; of Lebanon, calls fo
 
 ---
 
-### 8. Kennedy Center board says it won’t try to immediately restore Trump’s name
+### 9. Kennedy Center board says it won’t try to immediately restore Trump’s name
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Canada official condemns Israel&#039;s &#039;invasion&#039; of Lebanon, calls fo
 Opponents argue the venue seems &#039;intent on defying&#039; a court order to remove the president&#039;s name from the building.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss)
-
----
-
-### 9. Brazil bus crash kills at least 23 and injures five in Parana state
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The bus was travelling to hospitals near Curitiba when the accident occurred.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss)
 
 ---
 
