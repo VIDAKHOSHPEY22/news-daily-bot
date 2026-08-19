@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 23:02:17
+**Last Update:** 2026-08-19 23:15:44
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Unsloth Dynamic 3.0 GGUFs
+### 1. Police officer used Flock cameras to track estranged wife 717 times
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/">https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365733">https://news.ycombinator.com/item?id=49365733</a></p>
+<p>Points: 36</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/](https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/)
+
+---
+
+### 2. Unsloth Dynamic 3.0 GGUFs
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://unsloth.ai/docs/basics/dynamic-3.0-ggufs">https://unsloth.ai/docs/basics/dynamic-3.0-ggufs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365443">https://news.ycombinator.com/item?id=49365443</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 28</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://unsloth.ai/docs/basics/dynamic-3.0-ggufs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
 
 ---
 
-### 2. Rules of Good Social Skills
+### 3. Rules of Good Social Skills
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/">https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365419">https://news.ycombinator.com/item?id=49365419</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/](https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/)
-
----
-
-### 3. Go 1.27
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://go.dev/blog/go1.27">https://go.dev/blog/go1.27</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365405">https://news.ycombinator.com/item?id=49365405</a></p>
-<p>Points: 78</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://go.dev/blog/go1.27](https://go.dev/blog/go1.27)
 
 ---
 
@@ -97,7 +97,20 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 7. Protests in Kyiv back ex-defence minister Fedorov’s call for elections
+### 7. 582 skeletons, including children discovered in Sri Lanka mass grave
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss)
+
+---
+
+### 8. Protests in Kyiv back ex-defence minister Fedorov’s call for elections
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo 
 
 ---
 
-### 8. Violence in the New Syria?
+### 9. Violence in the New Syria?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo 
 The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss)
-
----
-
-### 9. Trump nominates Heidi Overton to lead US Food and Drug Administration
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Former think tank policy officer Heidi Overton to lead FDA in a controversial push to reshape US health regulations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/trump-nominates-heidi-overton-to-lead-us-food-and-drug-administration?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/trump-nominates-heidi-overton-to-lead-us-food-and-drug-administration?traffic_source=rss)
 
 ---
 

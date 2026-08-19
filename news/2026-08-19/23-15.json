@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T23:15:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Police officer used Flock cameras to track estranged wife 717 times",
+            "description": "<p>Article URL: <a href=\"https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/\">https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365733\">https://news.ycombinator.com/item?id=49365733</a></p>\n<p>Points: 36</p>\n<p># Comments: 1</p>",
+            "url": "https://www.wsbtv.com/news/trending/affidavit-police-officer-used-flock-cameras-track-estranged-wife-717-times/5DVBYU2XTJEVDJR7LPZCBR7M5M/",
+            "published": "Wed, 19 Aug 2026 18:58:29 +0000",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Unsloth Dynamic 3.0 GGUFs",
+            "description": "<p>Article URL: <a href=\"https://unsloth.ai/docs/basics/dynamic-3.0-ggufs\">https://unsloth.ai/docs/basics/dynamic-3.0-ggufs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365443\">https://news.ycombinator.com/item?id=49365443</a></p>\n<p>Points: 28</p>\n<p># Comments: 4</p>",
+            "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+            "published": "Wed, 19 Aug 2026 18:36:45 +0000",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rules of Good Social Skills",
+            "description": "<p>Article URL: <a href=\"https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/\">https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365419\">https://news.ycombinator.com/item?id=49365419</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/",
+            "published": "Wed, 19 Aug 2026 18:34:45 +0000",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+            "description": "Police say the family travelled from their home in London and went into the sea for a swim.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 18:45:51 GMT",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+            "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 12:09:47 GMT",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
+            "description": "A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 19:26:58 +0000",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
+            "description": "Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 19:09:53 +0000",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Violence in the New Syria?",
+            "description": "The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 18:50:17 +0000",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T23:15:44+03:30"
+        }
+    ]
+}
