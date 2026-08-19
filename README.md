@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 14:06:09
+**Last Update:** 2026-08-19 14:20:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Mojo language (by Modular, now Qualcomm) is now open-source
+### 1. Air Theremin – a browser theremin you play by waving at your webcam
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
+
+---
+
+### 2. The Mojo language (by Modular, now Qualcomm) is now open-source
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 45</p>
-<p># Comments: 17</p>
+<p>Points: 56</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
 ---
 
-### 2. Where Human Sleep Went Wrong
+### 3. Where Human Sleep Went Wrong
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 55</p>
-<p># Comments: 43</p>
+<p>Points: 66</p>
+<p># Comments: 52</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
-
----
-
-### 3. λλ: A Programming Language for Silicon Photonics
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3789240.3829151">https://dl.acm.org/doi/10.1145/3789240.3829151</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357501">https://news.ycombinator.com/item?id=49357501</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://dl.acm.org/doi/10.1145/3789240.3829151](https://dl.acm.org/doi/10.1145/3789240.3829151)
 
 ---
 
@@ -71,7 +71,20 @@ A 2.9% rise in inflation had been widely expected by economists, with Chancellor
 
 ---
 
-### 5. Burnham unveils plan to get rough sleepers off streets for Christmas
+### 5. Thunderstorm warnings issued for parts of UK with flash flooding expected
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Burnham unveils plan to get rough sleepers off streets for Christmas
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 6. Tennis player Nick Kyrgios suspended after testing positive for cocaine
+### 7. Why White House envoys cannot sway Israel’s war leader
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.
+Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss)
 
 ---
 
-### 7. Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test
+### 8. Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the
 
 ---
 
-### 8. At least five killed in Russian air attacks on Ukraine
+### 9. At least five killed in Russian air attacks on Ukraine
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the
 Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss)
-
----
-
-### 9. Nick Kyrgios provisionally suspended after positive test for cocaine
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Australian said he made no excuses but admitted to struggling with the twilight of his career.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss)
 
 ---
 
