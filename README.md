@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 16:46:44
+**Last Update:** 2026-08-19 17:32:36
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Geolocating a random island using geometry and CUDA programming
+### 1. Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/NoubarAfeyan/status/2090050162441752787">https://twitter.com/NoubarAfeyan/status/2090050162441752787</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49361395">https://news.ycombinator.com/item?id=49361395</a></p>
+<p>Points: 23</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://twitter.com/NoubarAfeyan/status/2090050162441752787](https://twitter.com/NoubarAfeyan/status/2090050162441752787)
+
+---
+
+### 2. PostgreSQL for Everything
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.raphaelbauer.com:443/posts/postgresql-everything/">https://www.raphaelbauer.com:443/posts/postgresql-everything/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49361279">https://news.ycombinator.com/item?id=49361279</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.raphaelbauer.com:443/posts/postgresql-everything/](https://www.raphaelbauer.com:443/posts/postgresql-everything/)
+
+---
+
+### 3. Geolocating a random island using geometry and CUDA programming
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://yassa9.github.io/osint/gralhix-004/">https://yassa9.github.io/osint/gralhix-004/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360545">https://news.ycombinator.com/item?id=49360545</a></p>
-<p>Points: 27</p>
-<p># Comments: 9</p>
+<p>Points: 88</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://yassa9.github.io/osint/gralhix-004/](https://yassa9.github.io/osint/gralhix-004/)
-
----
-
-### 2. GrapheneOS in 2027 available on high-end Motorola phones
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117078064184215730">https://grapheneos.social/@GrapheneOS/117078064184215730</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49360242">https://news.ycombinator.com/item?id=49360242</a></p>
-<p>Points: 132</p>
-<p># Comments: 45</p>
-
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117078064184215730](https://grapheneos.social/@GrapheneOS/117078064184215730)
-
----
-
-### 3. Air Theremin – a browser theremin you play by waving at your webcam
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://theremin.bizibah.com/">https://theremin.bizibah.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49359425">https://news.ycombinator.com/item?id=49359425</a></p>
-<p>Points: 79</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://theremin.bizibah.com/](https://theremin.bizibah.com/)
 
 ---
 
@@ -71,14 +71,14 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 5. Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza
+### 5. Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.
+She initially survived the attack but her body was recovered days later in Gaza City in 2024.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ A 2.9% rise in inflation had been widely expected by economists, with Chancellor
 
 ---
 
-### 7. Why aid entering Gaza may not reach those who need it
+### 7. Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Jose Mourinho is back for a second spell at Real Madrid who, he says, didn&#039;t need Barcelona&#039;s new signing Rodri.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss)
+
+---
+
+### 8. Israeli forces mark Palestinians with numbers amid mass arrests
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinian detainees were marked with numbers during a mass Israeli arrest campaign in Qabatiya.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss)
+
+---
+
+### 9. Why aid entering Gaza may not reach those who need it
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ A 2.9% rise in inflation had been widely expected by economists, with Chancellor
 It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss)
-
----
-
-### 8. War on Iran: Iran allegedly targets the UAE
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss)
-
----
-
-### 9. Palestinian factions explore broad alliance for November elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hamas, breakaway Fatah faction consider unified electoral list to challenge Mahmoud Abbas as political landscape shifts.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss)
 
 ---
 

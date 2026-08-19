@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T17:32:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/NoubarAfeyan/status/2090050162441752787\">https://twitter.com/NoubarAfeyan/status/2090050162441752787</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361395\">https://news.ycombinator.com/item?id=49361395</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+            "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+            "published": "Wed, 19 Aug 2026 13:33:35 +0000",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PostgreSQL for Everything",
+            "description": "<p>Article URL: <a href=\"https://www.raphaelbauer.com:443/posts/postgresql-everything/\">https://www.raphaelbauer.com:443/posts/postgresql-everything/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361279\">https://news.ycombinator.com/item?id=49361279</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
+            "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+            "published": "Wed, 19 Aug 2026 13:21:21 +0000",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Geolocating a random island using geometry and CUDA programming",
+            "description": "<p>Article URL: <a href=\"https://yassa9.github.io/osint/gralhix-004/\">https://yassa9.github.io/osint/gralhix-004/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49360545\">https://news.ycombinator.com/item?id=49360545</a></p>\n<p>Points: 88</p>\n<p># Comments: 19</p>",
+            "url": "https://yassa9.github.io/osint/gralhix-004/",
+            "published": "Wed, 19 Aug 2026 12:19:52 +0000",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+            "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 12:09:47 GMT",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+            "description": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
+            "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 13:53:51 GMT",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+            "description": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.",
+            "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 09:02:03 GMT",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+            "description": "Jose Mourinho is back for a second spell at Real Madrid who, he says, didn&#039;t need Barcelona&#039;s new signing Rodri.",
+            "url": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 13:24:34 +0000",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
+            "description": "Palestinian detainees were marked with numbers during a mass Israeli arrest campaign in Qabatiya.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 13:20:08 +0000",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why aid entering Gaza may not reach those who need it",
+            "description": "It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 13:01:39 +0000",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T17:32:36+03:30"
+        }
+    ]
+}
