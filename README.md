@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 08:27:31
+**Last Update:** 2026-08-19 09:07:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355968">https://news.ycombinator.com/item?id=49355968</a></p>
-<p>Points: 36</p>
-<p># Comments: 4</p>
+<p>Points: 49</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco">https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355825">https://news.ycombinator.com/item?id=49355825</a></p>
-<p>Points: 108</p>
-<p># Comments: 74</p>
+<p>Points: 136</p>
+<p># Comments: 92</p>
 
 🔗 **Read more:** [https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
 
@@ -52,8 +52,8 @@
 <p>Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.<p>So I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can be placed alongside the original game resources. There's no game-specific code involved; all the logic is generic, though of course Sierra introduces new idioms and mechanics in every game so every new supported game needs a bunch of engine work.<p>So for example in Leisure Suit Larry 2, the patched game prevents you from boarding the cruise ship until you have both the sunscreen and the Grotesque Gulp. Without them you die on the raft 3 play-hours later.<p>So far this works on Leisure Suit Larry 2 (SCI0), King's Quest 4 (SCI0), King's Quest 6 (SCI1.1), and Laura Bow 2 (SCI1.1). I'm currently working on King's Quest 5 (SCI1.0).<p>This is work done with Claude -- I do the design and playtesting and it does the rest :D<p>Any feedback, play testing, and suggestions would be great!</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355607">https://news.ycombinator.com/item?id=49355607</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/katiahayati/lucasartsifier/](https://github.com/katiahayati/lucasartsifier/)
 
@@ -98,7 +98,33 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 
 ---
 
-### 7. Attackers go ‘house to house’ killing 25 villagers in central Nigeria
+### 7. Former US official calls shift in relations with Syria ‘surreal’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A former US State Department advisor on Syria tells Al Jazeera’s ‘This is America’ the improved relationship
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss)
+
+---
+
+### 8. South Korea, US scale back annual military drills after Trump’s order
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss)
+
+---
+
+### 9. Attackers go ‘house to house’ killing 25 villagers in central Nigeria
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ Rough sleepers in England will be offered housing, in a move likened to the “E
 An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss)
-
----
-
-### 8. Bali gym owner kicks out three Israeli tourists for links to ‘IDF’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A gym owner in Indonesia has posted a video on social media explaining why he refused service to three Israeli tourists.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss)
-
----
-
-### 9. US unions sue over new visa rule for foreign students, journalists
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-New rule caps student and exchange visas to four years, while most journalist visas will be limited to 240 days.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/us-unions-sue-over-new-visa-rule-for-foreign-students-journalists?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/us-unions-sue-over-new-visa-rule-for-foreign-students-journalists?traffic_source=rss)
 
 ---
 
