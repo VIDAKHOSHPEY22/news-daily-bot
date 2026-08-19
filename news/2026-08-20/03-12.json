@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T03:12:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Collaborative Human Agent Protocol (CHAP)",
+            "description": "<p>Article URL: <a href=\"https://github.com/BrightbeamAI/chap\">https://github.com/BrightbeamAI/chap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367836\">https://news.ycombinator.com/item?id=49367836</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/BrightbeamAI/chap",
+            "published": "Wed, 19 Aug 2026 22:09:16 +0000",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Feature Request: Support AGENTS.md",
+            "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/6235\">https://github.com/anthropics/claude-code/issues/6235</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367350\">https://news.ycombinator.com/item?id=49367350</a></p>\n<p>Points: 79</p>\n<p># Comments: 39</p>",
+            "url": "https://github.com/anthropics/claude-code/issues/6235",
+            "published": "Wed, 19 Aug 2026 21:19:50 +0000",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+            "description": "<p>Article URL: <a href=\"https://os8088.com/spotlight/\">https://os8088.com/spotlight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367256\">https://news.ycombinator.com/item?id=49367256</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+            "url": "https://os8088.com/spotlight/",
+            "published": "Wed, 19 Aug 2026 21:11:31 +0000",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan moving back to UK",
+            "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 21:59:03 GMT",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+            "description": "Police say the family travelled from their home in London and went into the sea for a swim.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 18:45:51 GMT",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pentagon quizzes NATO allies on political loyalty, documents reveal",
+            "description": "NATO allies probed on loyalty to US policies in Pentagon questionnaire obtained exclusively by Al Jazeera.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 23:24:43 +0000",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+            "description": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 23:21:32 +0000",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump announces ‘most crushing economic operation ever’ against Iran",
+            "description": "US president also says any country that trades with Iran will &#039;face tremendous economic consequences&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 23:18:32 +0000",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T03:12:52+03:30"
+        }
+    ]
+}

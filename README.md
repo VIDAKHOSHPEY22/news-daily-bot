@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 02:59:40
+**Last Update:** 2026-08-20 03:12:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -20,7 +20,7 @@
 <p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombinator.com/item?id=49367836</a></p>
 <p>Points: 13</p>
-<p># Comments: 2</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 74</p>
-<p># Comments: 35</p>
+<p>Points: 79</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://os8088.com/spotlight/">https://os8088.com/spotlight/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367256">https://news.ycombinator.com/item?id=49367256</a></p>
-<p>Points: 23</p>
+<p>Points: 25</p>
 <p># Comments: 9</p>
 
 🔗 **Read more:** [https://os8088.com/spotlight/](https://os8088.com/spotlight/)
@@ -97,42 +97,42 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 7. What the social media addiction lawsuit could cost Meta
+### 7. Pentagon quizzes NATO allies on political loyalty, documents reveal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram&#039;s operations.
+NATO allies probed on loyalty to US policies in Pentagon questionnaire obtained exclusively by Al Jazeera.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss)
 
 ---
 
-### 8. “I get along with him very well.”
+### 8. Lebanon hands former Syrian army general to Damascus after arrest warrant
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.
+The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss)
 
 ---
 
-### 9. Israeli strike on Gaza City police headquarters kills women’s police chief
+### 9. Trump announces ‘most crushing economic operation ever’ against Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.
+US president also says any country that trades with Iran will &#039;face tremendous economic consequences&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss)
 
 ---
 
