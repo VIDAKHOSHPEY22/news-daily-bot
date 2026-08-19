@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T01:16:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DFlash 2: Keep Drafting Parallel",
+            "description": "<p>Article URL: <a href=\"https://inco.ai/blog/dflash2/\">https://inco.ai/blog/dflash2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49366792\">https://news.ycombinator.com/item?id=49366792</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
+            "url": "https://inco.ai/blog/dflash2/",
+            "published": "Wed, 19 Aug 2026 20:28:43 +0000",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pressed Penny Machine Map",
+            "description": "<p>Article URL: <a href=\"https://pennypresses.net/home/map.php\">https://pennypresses.net/home/map.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49366597\">https://news.ycombinator.com/item?id=49366597</a></p>\n<p>Points: 23</p>\n<p># Comments: 11</p>",
+            "url": "https://pennypresses.net/home/map.php",
+            "published": "Wed, 19 Aug 2026 20:13:47 +0000",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "XWayland 26.1-rc1 Released Two Years After the Last Release",
+            "description": "<p>Article URL: <a href=\"https://lists.x.org/archives/xorg/2026-August/062280.html\">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49366474\">https://news.ycombinator.com/item?id=49366474</a></p>\n<p>Points: 23</p>\n<p># Comments: 0</p>",
+            "url": "https://lists.x.org/archives/xorg/2026-August/062280.html",
+            "published": "Wed, 19 Aug 2026 20:03:03 +0000",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan to return to UK",
+            "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 21:41:30 GMT",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+            "description": "Police say the family travelled from their home in London and went into the sea for a swim.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 18:45:51 GMT",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "“I get along with him very well.”",
+            "description": "US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 21:35:34 +0000",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+            "description": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 21:22:17 +0000",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+            "description": "“You can&#039;t do anything. Just stand here and watch.”\nAl Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 21:10:39 +0000",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T01:16:13+03:30"
+        }
+    ]
+}

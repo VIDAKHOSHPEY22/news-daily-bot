@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 01:02:46
+**Last Update:** 2026-08-20 01:16:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://inco.ai/blog/dflash2/">https://inco.ai/blog/dflash2/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366792">https://news.ycombinator.com/item?id=49366792</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
+<p>Points: 21</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://inco.ai/blog/dflash2/](https://inco.ai/blog/dflash2/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://pennypresses.net/home/map.php">https://pennypresses.net/home/map.php</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366597">https://news.ycombinator.com/item?id=49366597</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://pennypresses.net/home/map.php](https://pennypresses.net/home/map.php)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://lists.x.org/archives/xorg/2026-August/062280.html">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366474">https://news.ycombinator.com/item?id=49366474</a></p>
-<p>Points: 14</p>
+<p>Points: 23</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
@@ -97,42 +97,43 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 7. USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts
+### 7. “I get along with him very well.”
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.
+US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss)
 
 ---
 
-### 8. Spain plans transfer of 500 migrant children from Ceuta to mainland
+### 8. Israeli strike on Gaza City police headquarters kills women’s police chief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.
+An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss)
 
 ---
 
-### 9. Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread
+### 9. Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moderna&#039;s mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials.
+“You can&#039;t do anything. Just stand here and watch.”
+Al Jazeera’s Ali Hashem watched Israeli attacks near his home town.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss)
 
 ---
 
