@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T20:09:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+            "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2013/11/civic-hygiene/\">https://shkspr.mobi/blog/2013/11/civic-hygiene/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49363433\">https://news.ycombinator.com/item?id=49363433</a></p>\n<p>Points: 49</p>\n<p># Comments: 9</p>",
+            "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+            "published": "Wed, 19 Aug 2026 16:07:14 +0000",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Remote workers report the highest well-being in study of 7,700 employees",
+            "description": "<p>Article URL: <a href=\"https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees\">https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362934\">https://news.ycombinator.com/item?id=49362934</a></p>\n<p>Points: 56</p>\n<p># Comments: 23</p>",
+            "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+            "published": "Wed, 19 Aug 2026 15:32:08 +0000",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
+            "description": "<p>Article URL: <a href=\"https://www.casio.com/uk/watches/casio/product.F-B100W-1A/\">https://www.casio.com/uk/watches/casio/product.F-B100W-1A/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362887\">https://news.ycombinator.com/item?id=49362887</a></p>\n<p>Points: 62</p>\n<p># Comments: 44</p>",
+            "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+            "published": "Wed, 19 Aug 2026 15:28:01 +0000",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+            "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 12:09:47 GMT",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+            "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+            "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
+            "description": "India hold off Pakistan 5-3 to finish second with six points as England top Pool D with nine points from three wins.",
+            "url": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 15:48:20 +0000",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Seven decades of US regime change efforts: What have they achieved?",
+            "description": "US interventions in Iran and beyond reveal a recurring pattern of regime changes, with high human and financial costs.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 15:46:05 +0000",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+            "description": "The Israeli military has announced a criminal investigation into the killing that shook the world.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 15:44:02 +0000",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T20:09:10+03:30"
+        }
+    ]
+}
