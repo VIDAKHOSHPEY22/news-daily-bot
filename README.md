@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 13:11:25
+**Last Update:** 2026-08-19 13:24:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 35</p>
-<p># Comments: 9</p>
+<p>Points: 40</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 46</p>
-<p># Comments: 33</p>
+<p>Points: 51</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/">https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358220">https://news.ycombinator.com/item?id=49358220</a></p>
-<p>Points: 44</p>
-<p># Comments: 6</p>
+<p>Points: 46</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
 
@@ -97,7 +97,20 @@ Nick Kyrgios is provisionally suspended from tennis after testing positive for c
 
 ---
 
-### 7. Nick Kyrgios provisionally suspended after positive test for cocaine
+### 7. At least five killed in Russian air attacks on Ukraine
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss)
+
+---
+
+### 8. Nick Kyrgios provisionally suspended after positive test for cocaine
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The Australian said he made no excuses but admitted to struggling with the twili
 
 ---
 
-### 8. Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US
+### 9. Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The Australian said he made no excuses but admitted to struggling with the twili
 Far-right protesters clashed with police at an anti-Muslim rally in the US city of Dearborn.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss)
-
----
-
-### 9. Maradona’s doctors missed renal red flag, Argentinian court told
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Second trial claims Diego Maradona&#039;s doctors missed crucial warning signs before Argentina football icon&#039;s 2020 passing.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss)
 
 ---
 
