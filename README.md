@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 13:24:30
+**Last Update:** 2026-08-19 14:06:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.modular.com/blog/modcon-announcements">https://www.modular.com/blog/modcon-announcements</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358327">https://news.ycombinator.com/item?id=49358327</a></p>
-<p>Points: 40</p>
-<p># Comments: 11</p>
+<p>Points: 45</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.modular.com/blog/modcon-announcements](https://www.modular.com/blog/modcon-announcements)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://nautil.us/where-human-sleep-went-wrong-1283797">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358259">https://news.ycombinator.com/item?id=49358259</a></p>
-<p>Points: 51</p>
-<p># Comments: 40</p>
+<p>Points: 55</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://nautil.us/where-human-sleep-went-wrong-1283797](https://nautil.us/where-human-sleep-went-wrong-1283797)
 
 ---
 
-### 3. "Sabotage": Experts, lawmakers blast RFK Jr. for destroying healthcare research
+### 3. λλ: A Programming Language for Silicon Photonics
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/">https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49358220">https://news.ycombinator.com/item?id=49358220</a></p>
-<p>Points: 46</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://dl.acm.org/doi/10.1145/3789240.3829151">https://dl.acm.org/doi/10.1145/3789240.3829151</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357501">https://news.ycombinator.com/item?id=49357501</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)
+🔗 **Read more:** [https://dl.acm.org/doi/10.1145/3789240.3829151](https://dl.acm.org/doi/10.1145/3789240.3829151)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The 2.9% rise in inflation in July had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.
+A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war “continues to impact prices here at home”.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ Nick Kyrgios is provisionally suspended from tennis after testing positive for c
 
 ---
 
-### 7. At least five killed in Russian air attacks on Ukraine
+### 7. Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the two-Test series.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss)
+
+---
+
+### 8. At least five killed in Russian air attacks on Ukraine
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight i
 
 ---
 
-### 8. Nick Kyrgios provisionally suspended after positive test for cocaine
+### 9. Nick Kyrgios provisionally suspended after positive test for cocaine
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight i
 The Australian said he made no excuses but admitted to struggling with the twilight of his career.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss)
-
----
-
-### 9. Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Far-right protesters clashed with police at an anti-Muslim rally in the US city of Dearborn.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss)
 
 ---
 
