@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 00:19:53
+**Last Update:** 2026-08-20 01:02:46
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pressed Penny Machine Map
+### 1. DFlash 2: Keep Drafting Parallel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://inco.ai/blog/dflash2/">https://inco.ai/blog/dflash2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366792">https://news.ycombinator.com/item?id=49366792</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://inco.ai/blog/dflash2/](https://inco.ai/blog/dflash2/)
+
+---
+
+### 2. Pressed Penny Machine Map
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://pennypresses.net/home/map.php">https://pennypresses.net/home/map.php</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366597">https://news.ycombinator.com/item?id=49366597</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://pennypresses.net/home/map.php](https://pennypresses.net/home/map.php)
 
 ---
 
-### 2. XWayland 26.1-rc1 Released Two Years After the Last Release
+### 3. XWayland 26.1-rc1 Released Two Years After the Last Release
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://lists.x.org/archives/xorg/2026-August/062280.html">https://lists.x.org/archives/xorg/2026-August/062280.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366474">https://news.ycombinator.com/item?id=49366474</a></p>
-<p>Points: 5</p>
+<p>Points: 14</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://lists.x.org/archives/xorg/2026-August/062280.html](https://lists.x.org/archives/xorg/2026-August/062280.html)
 
 ---
 
-### 3. From Quantum Relative Entropy to the Semiclassical Einstein Equations
+### 4. Prince Harry and Meghan to return to UK
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2510.24491">https://arxiv.org/abs/2510.24491</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366115">https://news.ycombinator.com/item?id=49366115</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.
 
-🔗 **Read more:** [https://arxiv.org/abs/2510.24491](https://arxiv.org/abs/2510.24491)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Couple and teenage daughter who died in water off Shoreham named by police
+### 5. Couple and teenage daughter who died in water off Shoreham named by police
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Police say the family travelled from their home in London and went into the sea 
 
 ---
 
-### 5. Track defect found on approach to site of Lewes derailment, initial report says
+### 6. Track defect found on approach to site of Lewes derailment, initial report says
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Initial findings from an RAIB investigation show an "irregularity" at the site n
 
 ---
 
-### 6. Thunderstorm warnings issued for parts of UK with flash flooding expected
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. What’s behind Israel’s latest attack on Syria?
+### 7. USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US envoy warns Israel&#039;s strike could have sparked direct confrontation with Turkish forces.
+Reports of dire conditions underscore supply challenges, questions of US plans going forward, experts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss)
 
 ---
 
-### 8. Seven people, mostly foreign tourists, killed in helicopter crash in Kenya
+### 8. Spain plans transfer of 500 migrant children from Ceuta to mainland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ecuador&#039;s intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.
+Ceuta leaders want children returned to Morocco, but Madrid says deporting them is &#039;outrageous&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/spain-plans-transfer-of-500-migrant-children-from-ceuta-to-mainland?traffic_source=rss)
 
 ---
 
-### 9. 582 skeletons, including children discovered in Sri Lanka mass grave
+### 9. Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.
+Moderna&#039;s mRNA vaccine Intismeran shows promise, reducing melanoma recurrence and spread in late-stage trials.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss)
 
 ---
 
