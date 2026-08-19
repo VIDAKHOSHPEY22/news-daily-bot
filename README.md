@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 12:17:37
+**Last Update:** 2026-08-19 12:30:11
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -97,20 +97,7 @@ The popularity of degree apprenticeships has grown as the cost of university has
 
 ---
 
-### 7. Aid workers faced record number of attacks in 2025, UN says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Gaza remains the deadliest place for humanitarian workers for third consecutive year, with 186 killed in 2025.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss)
-
----
-
-### 8. Who won and lost in Florida primaries: Key takeaways
+### 7. Who won and lost in Florida primaries: Key takeaways
 
 **Source:** Al Jazeera
 
@@ -123,7 +110,7 @@ Florida primaries reveal political shifts, reshaping key races ahead of crucial 
 
 ---
 
-### 9. South Africa to Australia: Why coal profits are surging during Iran war
+### 8. South Africa to Australia: Why coal profits are surging during Iran war
 
 **Source:** Al Jazeera
 
@@ -133,6 +120,19 @@ Florida primaries reveal political shifts, reshaping key races ahead of crucial 
 Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss)
+
+---
+
+### 9. Scaling back US-South Korea drills may fail to woo Kim away from China
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump is scaling back US-South Korea military exercises as he signals interest in renewed talks with Kim Jong Un.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss)
 
 ---
 
