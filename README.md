@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 02:02:16
+**Last Update:** 2026-08-20 02:16:43
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -26,7 +26,23 @@
 
 ---
 
-### 2. Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
+### 2. Anthropic Refuses to Support Agents.md
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
+
+---
+
+### 3. Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://os8088.com/spotlight/">https://os8088.com/spotlight/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367256">https://news.ycombinator.com/item?id=49367256</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Points: 14</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://os8088.com/spotlight/](https://os8088.com/spotlight/)
-
----
-
-### 3. DFlash 2: Keep Drafting Parallel
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://inco.ai/blog/dflash2/">https://inco.ai/blog/dflash2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49366792">https://news.ycombinator.com/item?id=49366792</a></p>
-<p>Points: 41</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://inco.ai/blog/dflash2/](https://inco.ai/blog/dflash2/)
 
 ---
 
