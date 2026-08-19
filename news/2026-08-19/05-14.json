@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T05:14:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tiny satellite will use the dark side of the Moon as a shield",
+            "description": "<p>Article URL: <a href=\"https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe\">https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355232\">https://news.ycombinator.com/item?id=49355232</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
+            "published": "Wed, 19 Aug 2026 01:06:03 +0000",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+            "description": "<p>Article URL: <a href=\"https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf\">https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355142\">https://news.ycombinator.com/item?id=49355142</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
+            "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+            "published": "Wed, 19 Aug 2026 00:53:51 +0000",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1l1r1zne1ro\">https://www.bbc.com/news/articles/c1l1r1zne1ro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355105\">https://news.ycombinator.com/item?id=49355105</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+            "published": "Wed, 19 Aug 2026 00:48:23 +0000",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three dead after family get into difficulty in sea",
+            "description": "A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:30:56 GMT",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sacked Ukrainian defence minister calls for presidential election",
+            "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+            "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 01:31:15 GMT",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+            "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:31:11 GMT",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
+            "description": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 00:53:34 +0000",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US ambassador to Israel calls settler violence ‘terror’",
+            "description": "US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 00:49:10 +0000",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Quebec separatist says no independence referendum while Trump in office",
+            "description": "Leader of Canadian province&#039;s secessionist party says debate over independence stymied by turbulence in US politics.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 00:17:01 +0000",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T05:14:41+03:30"
+        }
+    ]
+}
