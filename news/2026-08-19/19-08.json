@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T19:08:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The science behind Pixel Watch's insulin resistance feature",
+            "description": "<p>Article URL: <a href=\"https://www.empirical.health/blog/wearable-insulin-resistance/\">https://www.empirical.health/blog/wearable-insulin-resistance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49362512\">https://news.ycombinator.com/item?id=49362512</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://www.empirical.health/blog/wearable-insulin-resistance/",
+            "published": "Wed, 19 Aug 2026 14:57:18 +0000",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/NoubarAfeyan/status/2090050162441752787\">https://twitter.com/NoubarAfeyan/status/2090050162441752787</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361395\">https://news.ycombinator.com/item?id=49361395</a></p>\n<p>Points: 164</p>\n<p># Comments: 47</p>",
+            "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+            "published": "Wed, 19 Aug 2026 13:33:35 +0000",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PostgreSQL for Everything",
+            "description": "<p>Article URL: <a href=\"https://www.raphaelbauer.com:443/posts/postgresql-everything/\">https://www.raphaelbauer.com:443/posts/postgresql-everything/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49361279\">https://news.ycombinator.com/item?id=49361279</a></p>\n<p>Points: 106</p>\n<p># Comments: 76</p>",
+            "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+            "published": "Wed, 19 Aug 2026 13:21:21 +0000",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+            "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 12:09:47 GMT",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+            "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+            "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian refugee and two relatives drown off English coast",
+            "description": "A girl is taken to hospital in critical condition in what PM Burnham calls a &#039;terrible family tragedy&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 14:52:39 +0000",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel numbers Palestinian detainee foreheads: What we know",
+            "description": "Palestinian news outlets reported a man with the number ‘44’ written on his forehead following a raid in Qabatiya.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 14:48:55 +0000",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+            "description": "The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 14:44:09 +0000",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T19:08:52+03:30"
+        }
+    ]
+}
