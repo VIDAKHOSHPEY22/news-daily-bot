@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 10:41:26
+**Last Update:** 2026-08-19 11:17:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Palomar: A registry of Lean verified mathematics
+### 1. Show HN: Privacy focused client side password generator
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://password-generator.aaqa.dev/">https://password-generator.aaqa.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49357881">https://news.ycombinator.com/item?id=49357881</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://password-generator.aaqa.dev/](https://password-generator.aaqa.dev/)
+
+---
+
+### 2. Japan's Gen X workers are struggling
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling">https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49356115">https://news.ycombinator.com/item?id=49356115</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling](https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling)
+
+---
+
+### 3. Palomar: A registry of Lean verified mathematics
 
 **Source:** Hacker News
 
@@ -19,44 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355968">https://news.ycombinator.com/item?id=49355968</a></p>
-<p>Points: 73</p>
-<p># Comments: 14</p>
+<p>Points: 78</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-
----
-
-### 2. Meta's blockbuster trial draws parallels to big tobacco
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://archive.ph/a3165" rel="nofollow">https://archive.ph/a3165</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355825">https://news.ycombinator.com/item?id=49355825</a></p>
-<p>Points: 196</p>
-<p># Comments: 140</p>
-
-🔗 **Read more:** [https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco](https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco)
-
----
-
-### 3. Show HN: Automatically detect and patch walking-dead states in Sierra games
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.<p>So I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can be placed alongside the original game resources. There's no game-specific code involved; all the logic is generic, though of course Sierra introduces new idioms and mechanics in every game so every new supported game needs a bunch of engine work.<p>So for example in Leisure Suit Larry 2, the patched game prevents you from boarding the cruise ship until you have both the sunscreen and the Grotesque Gulp. Without them you die on the raft 3 play-hours later.<p>So far this works on Leisure Suit Larry 2 (SCI0), King's Quest 4 (SCI0), King's Quest 6 (SCI1.1), and Laura Bow 2 (SCI1.1). I'm currently working on King's Quest 5 (SCI1.0).<p>This is work done with Claude -- I do the design and playtesting and it does the rest :D<p>Any feedback, play testing, and suggestions would be great!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49355607">https://news.ycombinator.com/item?id=49355607</a></p>
-<p>Points: 37</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://github.com/katiahayati/lucasartsifier/](https://github.com/katiahayati/lucasartsifier/)
 
 ---
 
