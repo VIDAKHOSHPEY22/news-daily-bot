@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T22:15:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Introducing MicroLighter",
+            "description": "<p>Article URL: <a href=\"https://daverupert.com/2026/08/microlighter/\">https://daverupert.com/2026/08/microlighter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49365326\">https://news.ycombinator.com/item?id=49365326</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://daverupert.com/2026/08/microlighter/",
+            "published": "Wed, 19 Aug 2026 18:28:48 +0000",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cop Explains Why He Used License Plate Reader to Stalk Woman",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/\">https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364789\">https://news.ycombinator.com/item?id=49364789</a></p>\n<p>Points: 18</p>\n<p># Comments: 7</p>",
+            "url": "https://www.404media.co/i-saw-a-shiny-thing-cop-explains-why-he-used-license-plate-reader-to-stalk-woman/",
+            "published": "Wed, 19 Aug 2026 17:50:35 +0000",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Openrouter is joining Stripe",
+            "description": "<p>Previously: Stripe will reportedly acquire OpenRouter for $7B+ <a href=\"https://news.ycombinator.com/item?id=49323381\">https://news.ycombinator.com/item?id=49323381</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49364559\">https://news.ycombinator.com/item?id=49364559</a></p>\n<p>Points: 133</p>\n<p># Comments: 93</p>",
+            "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+            "published": "Wed, 19 Aug 2026 17:32:38 +0000",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+            "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:06:42 GMT",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+            "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 12:09:47 GMT",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+            "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+            "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 15:33:32 GMT",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
+            "description": "Canada official condemns Israel&#039;s &#039;invasion&#039; of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 18:08:09 +0000",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kennedy Center board says it won’t try to immediately restore Trump’s name",
+            "description": "Opponents argue the venue seems &#039;intent on defying&#039; a court order to remove the president&#039;s name from the building.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 18:06:55 +0000",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
+            "description": "The bus was travelling to hospitals near Curitiba when the accident occurred.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 17:54:37 +0000",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T22:15:59+03:30"
+        }
+    ]
+}
