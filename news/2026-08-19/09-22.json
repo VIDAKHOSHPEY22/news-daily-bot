@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-19T09:22:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Palomar: A registry of Lean verified mathematics",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/\">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355968\">https://news.ycombinator.com/item?id=49355968</a></p>\n<p>Points: 54</p>\n<p># Comments: 6</p>",
+            "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+            "published": "Wed, 19 Aug 2026 02:41:50 +0000",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta's blockbuster trial draws parallels to big tobacco",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco\">https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355825\">https://news.ycombinator.com/item?id=49355825</a></p>\n<p>Points: 150</p>\n<p># Comments: 108</p>",
+            "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+            "published": "Wed, 19 Aug 2026 02:24:34 +0000",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+            "description": "<p>Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.<p>So I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can be placed alongside the original game resources. There's no game-specific code involved; all the logic is generic, though of course Sierra introduces new idioms and mechanics in every game so every new supported game needs a bunch of engine work.<p>So for example in Leisure Suit Larry 2, the patched game prevents you from boarding the cruise ship until you have both the sunscreen and the Grotesque Gulp. Without them you die on the raft 3 play-hours later.<p>So far this works on Leisure Suit Larry 2 (SCI0), King's Quest 4 (SCI0), King's Quest 6 (SCI1.1), and Laura Bow 2 (SCI1.1). I'm currently working on King's Quest 5 (SCI1.0).<p>This is work done with Claude -- I do the design and playtesting and it does the rest :D<p>Any feedback, play testing, and suggestions would be great!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355607\">https://news.ycombinator.com/item?id=49355607</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/katiahayati/lucasartsifier/",
+            "published": "Wed, 19 Aug 2026 01:58:33 +0000",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three dead after family get into difficulty in sea",
+            "description": "A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off Shoreham on the Sussex coast.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 21:30:56 GMT",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+            "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 03:42:16 GMT",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sacked Ukrainian defence minister calls for presidential election",
+            "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+            "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 04:44:41 GMT",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanon no longer a safe haven for former Syrian regime officials",
+            "description": "Figures connected to the former Syrian regime are still in Lebanon but risk being returned.",
+            "url": "https://www.aljazeera.com/features/2026/8/19/lebanon-no-longer-a-safe-haven-for-former-syrian-regime-officials?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 05:23:03 +0000",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former US official calls shift in relations with Syria ‘surreal’",
+            "description": "A former US State Department advisor on Syria tells Al Jazeera’s ‘This is America’ the improved relationship",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/former-us-official-calls-shift-in-relations-with-syria?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 05:12:54 +0000",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Korea, US scale back annual military drills after Trump’s order",
+            "description": "Seoul says the duration of the annual Ulchi Freedom Shield exercise has been reduced from 11 days to five.",
+            "url": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
+            "published": "Wed, 19 Aug 2026 04:59:32 +0000",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire THE H1, Palm Beach, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22791",
+            "published": "2026-08-15T22:19:00Z",
+            "fetched": "2026-08-19T09:22:01+03:30"
+        }
+    ]
+}
