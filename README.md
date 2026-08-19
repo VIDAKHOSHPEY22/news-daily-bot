@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-19 22:28:47
+**Last Update:** 2026-08-19 23:02:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The A.I. In Google's New Pixel 11 Is Not Helpful
+### 1. Unsloth Dynamic 3.0 GGUFs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html">https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365383">https://news.ycombinator.com/item?id=49365383</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://unsloth.ai/docs/basics/dynamic-3.0-ggufs">https://unsloth.ai/docs/basics/dynamic-3.0-ggufs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365443">https://news.ycombinator.com/item?id=49365443</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html](https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html)
+🔗 **Read more:** [https://unsloth.ai/docs/basics/dynamic-3.0-ggufs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
 
 ---
 
-### 2. Introducing MicroLighter
+### 2. Rules of Good Social Skills
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://daverupert.com/2026/08/microlighter/">https://daverupert.com/2026/08/microlighter/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365326">https://news.ycombinator.com/item?id=49365326</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://daverupert.com/2026/08/microlighter/](https://daverupert.com/2026/08/microlighter/)
-
----
-
-### 3. A revisit of remote Spectre attacks on Cloudflare Workers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/">https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49364721">https://news.ycombinator.com/item?id=49364721</a></p>
+<p>Article URL: <a href="https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/">https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365419">https://news.ycombinator.com/item?id=49365419</a></p>
 <p>Points: 4</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/](https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/)
+🔗 **Read more:** [https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/](https://liamrosen.com/2025/07/24/33-rules-of-good-social-skills/)
+
+---
+
+### 3. Go 1.27
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://go.dev/blog/go1.27">https://go.dev/blog/go1.27</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49365405">https://news.ycombinator.com/item?id=49365405</a></p>
+<p>Points: 78</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://go.dev/blog/go1.27](https://go.dev/blog/go1.27)
 
 ---
 
@@ -97,42 +97,42 @@ Warnings for northern England, eastern Scotland and Northern Ireland will come i
 
 ---
 
-### 7. Iran’s hardline parliament raises concerns with ‘foreign infiltration’ plan
+### 7. Protests in Kyiv back ex-defence minister Fedorov’s call for elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Citizens and entities would have to seek authorisation to contact universities or talk to foreign media.
+Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss)
 
 ---
 
-### 8. Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’
+### 8. Violence in the New Syria?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Canada official condemns Israel&#039;s &#039;invasion&#039; of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.
+The death of Syrian White Helmets rescuer Mohammad Ghamira after an alleged police beating has sparked protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss)
 
 ---
 
-### 9. Kennedy Center board says it won’t try to immediately restore Trump’s name
+### 9. Trump nominates Heidi Overton to lead US Food and Drug Administration
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Opponents argue the venue seems &#039;intent on defying&#039; a court order to remove the president&#039;s name from the building.
+Former think tank policy officer Heidi Overton to lead FDA in a controversial push to reshape US health regulations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/trump-nominates-heidi-overton-to-lead-us-food-and-drug-administration?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/trump-nominates-heidi-overton-to-lead-us-food-and-drug-administration?traffic_source=rss)
 
 ---
 
