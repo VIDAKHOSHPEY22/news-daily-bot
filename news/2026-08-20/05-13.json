@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T05:13:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Universality of Gradient Descent Neural Network Training",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2007.13664\">https://arxiv.org/abs/2007.13664</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368828\">https://news.ycombinator.com/item?id=49368828</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2007.13664",
+            "published": "Thu, 20 Aug 2026 00:05:12 +0000",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Collaborative Human Agent Protocol (CHAP)",
+            "description": "<p>Article URL: <a href=\"https://github.com/BrightbeamAI/chap\">https://github.com/BrightbeamAI/chap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367836\">https://news.ycombinator.com/item?id=49367836</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/BrightbeamAI/chap",
+            "published": "Wed, 19 Aug 2026 22:09:16 +0000",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Feature Request: Support AGENTS.md",
+            "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/6235\">https://github.com/anthropics/claude-code/issues/6235</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367350\">https://news.ycombinator.com/item?id=49367350</a></p>\n<p>Points: 133</p>\n<p># Comments: 76</p>",
+            "url": "https://github.com/anthropics/claude-code/issues/6235",
+            "published": "Wed, 19 Aug 2026 21:19:50 +0000",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan moving back to UK",
+            "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 01:14:29 GMT",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+            "description": "Police say the family travelled from their home in London and went into the sea for a swim.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 18:45:51 GMT",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "People smuggler exposed by BBC investigation arrested and charged",
+            "description": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 20:54:51 GMT",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Publisher of US military newspaper resigns over differences with government",
+            "description": "Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 00:34:13 +0000",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
+            "description": "Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 00:26:59 +0000",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
+            "description": "English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 00:12:59 +0000",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T05:13:28+03:30"
+        }
+    ]
+}

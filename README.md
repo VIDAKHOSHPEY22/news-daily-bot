@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 03:12:52
+**Last Update:** 2026-08-20 05:13:28
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Collaborative Human Agent Protocol (CHAP)
+### 1. Universality of Gradient Descent Neural Network Training
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
+
+---
+
+### 2. Collaborative Human Agent Protocol (CHAP)
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombinator.com/item?id=49367836</a></p>
-<p>Points: 13</p>
+<p>Points: 19</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
 
 ---
 
-### 2. Feature Request: Support AGENTS.md
+### 3. Feature Request: Support AGENTS.md
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 79</p>
-<p># Comments: 39</p>
+<p>Points: 133</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
-
----
-
-### 3. Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://os8088.com/spotlight/">https://os8088.com/spotlight/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367256">https://news.ycombinator.com/item?id=49367256</a></p>
-<p>Points: 25</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://os8088.com/spotlight/](https://os8088.com/spotlight/)
 
 ---
 
@@ -84,55 +84,55 @@ Police say the family travelled from their home in London and went into the sea 
 
 ---
 
-### 6. Track defect found on approach to site of Lewes derailment, initial report says
+### 6. People smuggler exposed by BBC investigation arrested and charged
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Initial findings from an RAIB investigation show an "irregularity" at the site near Lewes.
+Twana Jamal Khdir has been arrested and charged with immigration offences.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Pentagon quizzes NATO allies on political loyalty, documents reveal
+### 7. Publisher of US military newspaper resigns over differences with government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-NATO allies probed on loyalty to US policies in Pentagon questionnaire obtained exclusively by Al Jazeera.
+Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss)
 
 ---
 
-### 8. Lebanon hands former Syrian army general to Damascus after arrest warrant
+### 8. ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad&#039;s government fell.
+Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss)
 
 ---
 
-### 9. Trump announces ‘most crushing economic operation ever’ against Iran
+### 9. Harry Kane scores goal by winning Golden Shoe for the second time
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president also says any country that trades with Iran will &#039;face tremendous economic consequences&#039;.
+English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss)
 
 ---
 
