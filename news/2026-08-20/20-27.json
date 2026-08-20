@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T20:27:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to compromise your system with a job interview",
+            "description": "<p>Article URL: <a href=\"https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview\">https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376332\">https://news.ycombinator.com/item?id=49376332</a></p>\n<p>Points: 32</p>\n<p># Comments: 6</p>",
+            "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+            "published": "Thu, 20 Aug 2026 15:50:57 +0000",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux 7.2 Released",
+            "description": "<p>Article URL: <a href=\"https://www.igalia.com/2026/08/19/Linux-72-Released.html\">https://www.igalia.com/2026/08/19/Linux-72-Released.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376265\">https://news.ycombinator.com/item?id=49376265</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+            "published": "Thu, 20 Aug 2026 15:46:18 +0000",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Generic Methods in Go 1.27",
+            "description": "<p>Article URL: <a href=\"https://dominik.info/blog/go-generic-methods\">https://dominik.info/blog/go-generic-methods</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376211\">https://news.ycombinator.com/item?id=49376211</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+            "url": "https://dominik.info/blog/go-generic-methods",
+            "published": "Thu, 20 Aug 2026 15:41:48 +0000",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's security arrangements a private matter, PM says",
+            "description": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 13:53:40 GMT",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why are Harry and Meghan returning to the UK?",
+            "description": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
+            "url": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:16:31 GMT",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+            "description": "Hundreds of migrants are being removed from their makeshift camps on a beach in Ceuta, Spain.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 16:22:46 +0000",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+            "description": "Authorities were warned about the dangers of hitting Mohammad Ghamira, who suffered from the rare medical condition haemophilia.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 16:19:30 +0000",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+            "description": "Riyadh sees Sudan’s unity and stability as inseparable from its own security across the Red Sea.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 15:51:46 +0000",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T20:27:19+03:30"
+        }
+    ]
+}
