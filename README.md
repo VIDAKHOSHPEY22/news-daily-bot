@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 10:42:59
+**Last Update:** 2026-08-20 11:20:00
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
-<p>Points: 38</p>
-<p># Comments: 4</p>
+<p>Points: 70</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
-<p>Points: 43</p>
-<p># Comments: 12</p>
+<p>Points: 44</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 153</p>
-<p># Comments: 63</p>
+<p>Points: 165</p>
+<p># Comments: 70</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -91,48 +91,48 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 **Category:** world
 
 **Description:**
-The BBC revealed in March how a woman staying at a Maidenhead hotel was sexually assaulted after a man lied to get a key card to her room.
+Jo Boydell had been criticised for the company's handling of issues with its safety and security.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bangladesh holds presidential election in first contested vote in 35 years
+### 7. Oil flows nearly tripled before US-Iran MoU expired, analysis shows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-BNP&#039;s Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.
+Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss)
 
 ---
 
-### 8. Australian anger as Israel drops World Central Kitchen deaths case
+### 8. Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.
+World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Alexander Zverev exits after fourth round.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss)
 
 ---
 
-### 9. Exclusive: Pentagon sends ‘political loyalty’ survey to US allies
+### 9. Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.
+UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T11:20:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Windows brings out the Rorschach test in everyone",
+            "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803\">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371006\">https://news.ycombinator.com/item?id=49371006</a></p>\n<p>Points: 70</p>\n<p># Comments: 13</p>",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+            "published": "Thu, 20 Aug 2026 06:16:40 +0000",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+            "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621\">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49370440\">https://news.ycombinator.com/item?id=49370440</a></p>\n<p>Points: 44</p>\n<p># Comments: 21</p>",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+            "published": "Thu, 20 Aug 2026 04:42:02 +0000",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Turns are Better than Radians (2022)",
+            "description": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369408\">https://news.ycombinator.com/item?id=49369408</a></p>\n<p>Points: 165</p>\n<p># Comments: 70</p>",
+            "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+            "published": "Thu, 20 Aug 2026 01:29:12 +0000",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan moving back to UK later this month",
+            "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 07:21:03 GMT",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+            "description": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 02:00:51 GMT",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge boss steps down after security issues in rooms",
+            "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 07:27:21 GMT",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+            "description": "Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.",
+            "url": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 07:38:22 +0000",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Top seeds Sabalenka, Zverev knocked out of Cincinnati Open",
+            "description": "World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Alexander Zverev exits after fourth round.",
+            "url": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 07:17:13 +0000",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
+            "description": "UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 07:11:37 +0000",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T11:20:00+03:30"
+        }
+    ]
+}
