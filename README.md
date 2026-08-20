@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 08:29:24
+**Last Update:** 2026-08-20 09:07:51
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 65</p>
-<p># Comments: 38</p>
+<p>Points: 90</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
-<p>Points: 17</p>
+<p>Points: 24</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 168</p>
-<p># Comments: 96</p>
+<p>Points: 176</p>
+<p># Comments: 103</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
@@ -84,20 +84,46 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 
 ---
 
-### 6. Students wait for GCSE and BTec grades as app launches for 750 schools in England
+### 6. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Some pupils in England will be able to see their grades on their phones from 11:00 BST on Thursday.
+Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, according to the State Emergency Service of Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump vows ‘economic warfare’ on countries helping Iran
+### 7. Exclusive: Pentagon sends ‘political loyalty’ survey to US allies
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss)
+
+---
+
+### 8. At least 6 killed in multiple Russian missile strikes across Ukraine
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss)
+
+---
+
+### 9. Trump vows ‘economic warfare’ on countries helping Iran
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Some pupils in England will be able to see their grades on their phones from 11:
 US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss)
-
----
-
-### 8. Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss)
-
----
-
-### 9. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss)
 
 ---
 
