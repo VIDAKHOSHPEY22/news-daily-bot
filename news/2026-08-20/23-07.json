@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T23:07:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Huzzah – a novel approach to coding with AI",
+            "description": "<p>Hello everyone. I've been working on this experimental editor called Huzzah.<p>I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself.<p>I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you:<p><pre><code>  1. write pseudocode in whatever way makes the most sense to you\n  2. on save, the editor synchronizes your work to real source code\n  3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.\n</code></pre>\nIt may not work for every use case, but in my initial playthroughs I've found it very enjoyable.<p>Right now it's just a proof of concept - installation instructions are here in the readme: <a href=\"https://github.com/danielvaughn/hz\" rel=\"nofollow\">https://github.com/danielvaughn/hz</a><p>You can also watch a video of it in action here: <a href=\"https://x.com/danielvaughn/status/2090456808431165715\" rel=\"nofollow\">https://x.com/danielvaughn/status/2090456808431165715</a><p>Cheers!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378768\">https://news.ycombinator.com/item?id=49378768</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.danielvaughn.dev/posts/huzzah/",
+            "published": "Thu, 20 Aug 2026 19:05:36 +0000",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+            "description": "<p>Article URL: <a href=\"https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/\">https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378630\">https://news.ycombinator.com/item?id=49378630</a></p>\n<p>Points: 36</p>\n<p># Comments: 6</p>",
+            "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+            "published": "Thu, 20 Aug 2026 18:54:32 +0000",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
+            "description": "<p>Kandelo is an open-source, Wasm-based multi-process kernel that runs POSIX programs in browsers and Node.js.<p>Kandelo is still experimental, but it already runs a substantial range of existing software.<p><i>Do you have use cases for this?</i><p>We are trying Kandelo as a new foundation for WordPress Playground which runs server-side WordPress entirely in the browser. Kandelo also looks promising as a sandbox for running agents in the the browser and on the command line. On the side, we've been playing with porting games and desktop environments and even compiling runnable programs within Kandelo.<p>Yet it feels like there are many possibilities we haven't considered.<p>How would you like to use something like this?<p><i>Demos:</i><p>Some notes: The demos have been tested in desktop browsers. Unfortunately, YMMV on mobile today. Some of the disk images are large (~50MB) and may take a while to boot initially.<p>Main set, with Shell (bash, vim, nethack, and more), Nginx, PHP, WordPress, and Doom:\n<a href=\"https://kandelo.dev/20260819-demo/\" rel=\"nofollow\">https://kandelo.dev/20260819-demo/</a><p>LÖVE game engine:\n<a href=\"https://kandelo.dev/20260819-demo-love/\" rel=\"nofollow\">https://kandelo.dev/20260819-demo-love/</a><p>SNKRX running under LÖVE:\n<a href=\"https://kandelo.dev/20260819-demo-love/?vfs=love-snkrx-abi44.vfs.zst\" rel=\"nofollow\">https://kandelo.dev/20260819-demo-love/?vfs=love-snkrx-abi44...</a><p>Commander Keen running in DOSBox:\n<a href=\"https://kandelo.dev/20260819-demo-dos/?demo=keen\" rel=\"nofollow\">https://kandelo.dev/20260819-demo-dos/?demo=keen</a><p>LXDE desktop PoC:\n<a href=\"https://kandelo.dev/20260819-demo-lxde/?demo=desktop-lxde\" rel=\"nofollow\">https://kandelo.dev/20260819-demo-lxde/?demo=desktop-lxde</a><p><i>Background</i><p>I wanted an authentic OS-level foundation for running systems software in the browser and started this as a vibe-coded exploration. I figured it would end up being too slow and that we would have to offer many different ways to compromise default POSIX behavior to get anything usable. But after weeks of fighting agents, insisting on genuine POSIX compatibility as the default, I was surprised at how well the system worked without those compromises.<p>Nginx, PHP, Python, Ruby, Redis, and even MariaDB were able to be built using the SDK with minimal hacks.<p>Then we started porting games, having fun, and playing to see how far we could push it.<p><i>Notes on architecture:</i><p>There is a central, single-worker kernel, aiming to provide all supportable POSIX syscalls. Each process is a dedicated worker with independent memory. Each process thread is a dedicated worker that shares memory with threads from the same process. Syscalls are done with the process SharedArrayBuffer and the Atomics API. fork() is supported. The system is centered around virtual file system (VFS) images, and the VFS can contain lazy references to programs that may or may not be used. Vim is such a reference in the shell demo.<p><i>On GitHub:</i>\n<a href=\"https://github.com/Automattic/kandelo\" rel=\"nofollow\">https://github.com/Automattic/kandelo</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378305\">https://news.ycombinator.com/item?id=49378305</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+            "url": "https://kandelo.dev/20260819-demo/",
+            "published": "Thu, 20 Aug 2026 18:25:30 +0000",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's return to UK reignites questions over security",
+            "description": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 18:12:59 GMT",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "University suspends US academic leading Jason Arday plagiarism accusations",
+            "description": "Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Cambridge in 2024 over his views on race.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 19:13:53 +0000",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
+            "description": "Holders Arsenal face Coventry in the Premier League opener with doubts over Declan Rice and Bukayo Saka&#039;s match fitness.",
+            "url": "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 19:12:56 +0000",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+            "description": "Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 19:11:44 +0000",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-20T23:07:25+03:30"
+        }
+    ]
+}
