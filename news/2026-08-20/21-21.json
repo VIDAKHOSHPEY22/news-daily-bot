@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T21:21:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: We chased a weather balloon across Montana and never found it",
+            "description": "<p>Since April, I have been working with Sam Flynn (<a href=\"https://drook.dev\" rel=\"nofollow\">https://drook.dev</a>) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch.<p>UpLink was a 491 gram payload testing the insulation properties of 3D printing filaments, while also transmitting 320x240 images over a radio link -- up from the 18x10 images last year!<p>This is a writeup on our engineering process, mistakes made, and learning experiences. It covers:<p>- Custom electronics designed in KiCad<p>- Firmware design<p>- Results from the data we received on the ground<p>- Image transmission<p>- Launch day logistics, and where things went wrong<p>All hardware, software, firmware, and CAD is available on GitHub: <a href=\"https://github.com/radeeyate/UpLink\" rel=\"nofollow\">https://github.com/radeeyate/UpLink</a>, licensed + certified as open source hardware: <a href=\"https://certification.oshwa.org/us002826.html\" rel=\"nofollow\">https://certification.oshwa.org/us002826.html</a><p>If you just want to see the images received, I put up a gallery here: <a href=\"https://uplink.gallery.radi8.dev/\" rel=\"nofollow\">https://uplink.gallery.radi8.dev/</a><p>If you have any questions, comments, or concerns, let me know. I'm happy to answer anything!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377660\">https://news.ycombinator.com/item?id=49377660</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://radi8.dev/blog/uplink/",
+            "published": "Thu, 20 Aug 2026 17:33:32 +0000",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "URL shortener links stored in your ATProto PDS",
+            "description": "<p>Article URL: <a href=\"https://atpr.to/\">https://atpr.to/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377535\">https://news.ycombinator.com/item?id=49377535</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://atpr.to/",
+            "published": "Thu, 20 Aug 2026 17:23:22 +0000",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Defense-Tech Bubble Is Headed for Consolidation",
+            "description": "<p>Article URL: <a href=\"https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation\">https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377249\">https://news.ycombinator.com/item?id=49377249</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
+            "published": "Thu, 20 Aug 2026 17:01:09 +0000",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's return to UK reignites questions over security",
+            "description": "They have not had publicly funded security since they stopped being working royals in 2020 and moved to the US, where they have paid for their own protection.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 17:43:54 GMT",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Humanoid robots take centre stage in China-US tech race",
+            "description": "Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 17:17:47 +0000",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+            "description": "A Swiss tourist has been sentenced to one year in prison in Bali for social media posts insulting Nyepi",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 17:05:31 +0000",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+            "description": "Families in Gaza face devastating water shortages, leaving children with heavy responsibilities beyond their years.",
+            "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 17:02:43 +0000",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-20T21:21:56+03:30"
+        }
+    ]
+}
