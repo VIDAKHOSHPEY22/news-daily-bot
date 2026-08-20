@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T01:19:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Citizen Devs: Everyone is an engineer now",
+            "description": "<p>Article URL: <a href=\"https://www.massdriver.cloud/blogs/the-citizen-developer\">https://www.massdriver.cloud/blogs/the-citizen-developer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49380491\">https://news.ycombinator.com/item?id=49380491</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+            "published": "Thu, 20 Aug 2026 21:25:48 +0000",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Code as an Artifact",
+            "description": "<p>Article URL: <a href=\"https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/\">https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49380482\">https://news.ycombinator.com/item?id=49380482</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+            "published": "Thu, 20 Aug 2026 21:24:57 +0000",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+            "description": "<p>Article URL: <a href=\"https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/\">https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49379550\">https://news.ycombinator.com/item?id=49379550</a></p>\n<p>Points: 264</p>\n<p># Comments: 41</p>",
+            "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+            "published": "Thu, 20 Aug 2026 20:07:26 +0000",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's return to UK reignites questions over security",
+            "description": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 18:12:59 GMT",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+            "description": "Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 21:18:10 +0000",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US pummels Cuban economy with new sanctions on mining, construction",
+            "description": "US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 20:37:25 +0000",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+            "description": "At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 20:36:51 +0000",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T01:19:29+03:30"
+        }
+    ]
+}
