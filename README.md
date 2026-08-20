@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 11:31:36
+**Last Update:** 2026-08-20 12:19:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Windows brings out the Rorschach test in everyone
+### 1. Don't Paste the AI, please
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dontpastetheai.com/">https://dontpastetheai.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371857">https://news.ycombinator.com/item?id=49371857</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://dontpastetheai.com/](https://dontpastetheai.com/)
+
+---
+
+### 2. Windows brings out the Rorschach test in everyone
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
-<p>Points: 75</p>
-<p># Comments: 15</p>
+<p>Points: 121</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 
 ---
 
-### 2. Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
+### 3. Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
-<p>Points: 45</p>
-<p># Comments: 22</p>
+<p>Points: 50</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
-
----
-
-### 3. Turns are Better than Radians (2022)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 166</p>
-<p># Comments: 70</p>
-
-🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
 ---
 
@@ -71,7 +71,7 @@ The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled t
 
 ---
 
-### 5. Harry and Meghan are experts in surprise - but is their UK return forever?
+### 5. Harry and Meghan are experts in surprise - but why are they returning to UK now?
 
 **Source:** BBC
 
@@ -84,7 +84,7 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 
 ---
 
-### 6. Travelodge boss steps down after security issues in rooms
+### 6. Travelodge boss resigns as chain tackles security after sex assault at hotel
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. Top seeds Sabalenka, Zverev knocked out of Cincinnati Open
+### 7. Max Verstappen signs new F1 contract with Red Bull until 2030
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Alexander Zverev exits after fourth round.
+Four-time F1 World Drivers&#039; Champion&#039;s new deal puts to rest rumours that he would exit the team at the end of 2028.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss)
 
 ---
 
-### 8. Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages
+### 8. Heatwaves and energy crunch: Can Europe withstand a double shock?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.
+Heatwaves are squeezing growth and productivity while the Iran war drives up Europe&#039;s energy costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss)
 
 ---
 
-### 9. Lionel Messi scores first goal for Inter Miami since father’s death
+### 9. Video shows Russian missile strike on Ukrainian capital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Messi&#039;s 26th-minute goal in the MLS fixture comes just 11 days after the passing of his father Jorge on August 8.
+Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss)
 
 ---
 
