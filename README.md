@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 05:13:28
+**Last Update:** 2026-08-20 05:25:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -20,7 +20,7 @@
 <p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
 <p>Points: 7</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 133</p>
-<p># Comments: 76</p>
+<p>Points: 134</p>
+<p># Comments: 77</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
@@ -97,7 +97,20 @@ Twana Jamal Khdir has been arrested and charged with immigration offences.
 
 ---
 
-### 7. Publisher of US military newspaper resigns over differences with government
+### 7. Bodycam captures police team falling when deck collapses in Missouri
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss)
+
+---
+
+### 8. Publisher of US military newspaper resigns over differences with government
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Retirement of longtime Stars and Stripes publisher comes amid the Trump administ
 
 ---
 
-### 8. ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
+### 9. ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Retirement of longtime Stars and Stripes publisher comes amid the Trump administ
 Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss)
-
----
-
-### 9. Harry Kane scores goal by winning Golden Shoe for the second time
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss)
 
 ---
 
