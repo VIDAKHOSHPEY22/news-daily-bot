@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 06:34:30
+**Last Update:** 2026-08-20 06:44:46
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Points: 12</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 142</p>
-<p># Comments: 78</p>
+<p>Points: 146</p>
+<p># Comments: 81</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
@@ -97,7 +97,20 @@ A new jab extended the length of time patients were cancer free, but it is uncle
 
 ---
 
-### 7. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
+### 7. Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss)
+
+---
+
+### 8. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for
 
 ---
 
-### 8. Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
+### 9. Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for
 Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss)
-
----
-
-### 9. Bodycam captures police team falling when deck collapses in Missouri
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss)
 
 ---
 
