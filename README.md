@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 15:04:20
+**Last Update:** 2026-08-20 15:18:16
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers">https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49372792">https://news.ycombinator.com/item?id=49372792</a></p>
-<p>Points: 7</p>
-<p># Comments: 5</p>
+<p>Points: 12</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers](https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html">https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49372583">https://news.ycombinator.com/item?id=49372583</a></p>
-<p>Points: 66</p>
-<p># Comments: 21</p>
+<p>Points: 88</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
 
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://dontpastetheai.com/">https://dontpastetheai.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371857">https://news.ycombinator.com/item?id=49371857</a></p>
-<p>Points: 376</p>
-<p># Comments: 188</p>
+<p>Points: 427</p>
+<p># Comments: 206</p>
 
 🔗 **Read more:** [https://dontpastetheai.com/](https://dontpastetheai.com/)
 
 ---
 
-### 4. Prince Harry and Meghan moving back to UK later this month
+### 4. Harry and Meghan's security arrangements a private matter, PM says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.
+Andy Burnham wishes the Duke and Duchess of Sussex well in "the move that they are making".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
