@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T14:08:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Don't Paste the AI, please",
+            "description": "<p>Article URL: <a href=\"https://dontpastetheai.com/\">https://dontpastetheai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371857\">https://news.ycombinator.com/item?id=49371857</a></p>\n<p>Points: 273</p>\n<p># Comments: 150</p>",
+            "url": "https://dontpastetheai.com/",
+            "published": "Thu, 20 Aug 2026 08:20:44 +0000",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Windows brings out the Rorschach test in everyone",
+            "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803\">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371006\">https://news.ycombinator.com/item?id=49371006</a></p>\n<p>Points: 185</p>\n<p># Comments: 79</p>",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+            "published": "Thu, 20 Aug 2026 06:16:40 +0000",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Turns are Better than Radians (2022)",
+            "description": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369408\">https://news.ycombinator.com/item?id=49369408</a></p>\n<p>Points: 215</p>\n<p># Comments: 102</p>",
+            "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+            "published": "Thu, 20 Aug 2026 01:29:12 +0000",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan moving back to UK later this month",
+            "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 09:35:58 GMT",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+            "description": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 02:00:51 GMT",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+            "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:05:24 GMT",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
+            "description": "The foreign minister says in an interview that Turkish military officials had visited the airbase as part of training.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 10:16:08 +0000",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Taliban secures pragmatic global alliances without formal recognition",
+            "description": "The Taliban navigates a complex web of global trade and security alliances without gaining full political recognition.",
+            "url": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 10:14:30 +0000",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How conflict is making life more expensive for Iranians",
+            "description": "How conflict is making life more expensive for Iranians",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 09:20:17 +0000",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T14:08:03+03:30"
+        }
+    ]
+}
