@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T21:07:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sixtyfour (YC P25) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern\">https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377248\">https://news.ycombinator.com/item?id=49377248</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+            "published": "Thu, 20 Aug 2026 17:01:05 +0000",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to compromise your system with a job interview",
+            "description": "<p>Article URL: <a href=\"https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview\">https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376332\">https://news.ycombinator.com/item?id=49376332</a></p>\n<p>Points: 41</p>\n<p># Comments: 15</p>",
+            "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+            "published": "Thu, 20 Aug 2026 15:50:57 +0000",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux 7.2 Released",
+            "description": "<p>Article URL: <a href=\"https://www.igalia.com/2026/08/19/Linux-72-Released.html\">https://www.igalia.com/2026/08/19/Linux-72-Released.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49376265\">https://news.ycombinator.com/item?id=49376265</a></p>\n<p>Points: 31</p>\n<p># Comments: 1</p>",
+            "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+            "published": "Thu, 20 Aug 2026 15:46:18 +0000",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's security arrangements a private matter, PM says",
+            "description": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 13:53:40 GMT",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Humanoid robots take centre stage in China-US tech race",
+            "description": "Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 17:17:47 +0000",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+            "description": "A Swiss tourist has been sentenced to one year in prison in Bali for social media posts insulting Nyepi",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 17:05:31 +0000",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+            "description": "Families in Gaza face devastating water shortages, leaving children with heavy responsibilities beyond their years.",
+            "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 17:02:43 +0000",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-20T21:07:01+03:30"
+        }
+    ]
+}
