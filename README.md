@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 02:20:13
+**Last Update:** 2026-08-21 03:02:50
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Scientists Release Biggest 2D Map of the Universe
+### 1. Detecting scraper bots through scroll behaviour
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://niki.cat/detecting-scraper-bots-through-scroll-behaviour">https://niki.cat/detecting-scraper-bots-through-scroll-behaviour</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49381311">https://news.ycombinator.com/item?id=49381311</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://niki.cat/detecting-scraper-bots-through-scroll-behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
+
+---
+
+### 2. Scientists Release Biggest 2D Map of the Universe
 
 **Source:** Hacker News
 
@@ -26,22 +42,6 @@
 
 ---
 
-### 2. Citizen Devs: Everyone is an engineer now
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.massdriver.cloud/blogs/the-citizen-developer">https://www.massdriver.cloud/blogs/the-citizen-developer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380491">https://news.ycombinator.com/item?id=49380491</a></p>
-<p>Points: 26</p>
-<p># Comments: 26</p>
-
-🔗 **Read more:** [https://www.massdriver.cloud/blogs/the-citizen-developer](https://www.massdriver.cloud/blogs/the-citizen-developer)
-
----
-
 ### 3. Code as an Artifact
 
 **Source:** Hacker News
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/">https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380482">https://news.ycombinator.com/item?id=49380482</a></p>
-<p>Points: 10</p>
+<p>Points: 14</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
@@ -97,42 +97,42 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail
+### 7. US charges woman for allegedly plotting attack on New York State Capitol
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.
+The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for &#039;terrorism&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss)
 
 ---
 
-### 8. US pummels Cuban economy with new sanctions on mining, construction
+### 8. The cost of rebuilding family homes in war-ravaged Syria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.
+What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss)
 
 ---
 
-### 9. Landslide at illegal gold mine kills 13 people in Colombia
+### 9. New York mayor Mamdani sues to block $10,000 teaching aide bonuses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.
+New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss)
 
 ---
 

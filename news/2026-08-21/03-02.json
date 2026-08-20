@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T03:02:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Detecting scraper bots through scroll behaviour",
+            "description": "<p>Article URL: <a href=\"https://niki.cat/detecting-scraper-bots-through-scroll-behaviour\">https://niki.cat/detecting-scraper-bots-through-scroll-behaviour</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49381311\">https://news.ycombinator.com/item?id=49381311</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+            "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+            "published": "Thu, 20 Aug 2026 22:47:52 +0000",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Scientists Release Biggest 2D Map of the Universe",
+            "description": "<p>Article URL: <a href=\"https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/\">https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49380671\">https://news.ycombinator.com/item?id=49380671</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+            "published": "Thu, 20 Aug 2026 21:42:51 +0000",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Code as an Artifact",
+            "description": "<p>Article URL: <a href=\"https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/\">https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49380482\">https://news.ycombinator.com/item?id=49380482</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+            "published": "Thu, 20 Aug 2026 21:24:57 +0000",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's return to UK reignites questions over security",
+            "description": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 18:12:59 GMT",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+            "description": "The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for &#039;terrorism&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 23:01:15 +0000",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The cost of rebuilding family homes in war-ravaged Syria",
+            "description": "What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 22:51:51 +0000",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
+            "description": "New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.",
+            "url": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 22:45:40 +0000",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T03:02:50+03:30"
+        }
+    ]
+}
