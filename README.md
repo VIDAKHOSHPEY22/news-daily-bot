@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 17:35:05
+**Last Update:** 2026-08-20 18:13:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. DiffusionGemma Technical Report
+### 1. Hacking with Claude on a $27 Smart Watch
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.00146">https://arxiv.org/abs/2608.00146</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374287">https://news.ycombinator.com/item?id=49374287</a></p>
+<p>Article URL: <a href="https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html">https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374772">https://news.ycombinator.com/item?id=49374772</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
+
+---
+
+### 2. Stwipe Acquires OpenWouter
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://stwipe.com/">https://stwipe.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374738">https://news.ycombinator.com/item?id=49374738</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.00146](https://arxiv.org/abs/2608.00146)
+🔗 **Read more:** [https://stwipe.com/](https://stwipe.com/)
 
 ---
 
-### 2. Malicious Rust Crate Arrayref Runs a Build-Time Payload
+### 3. Index of the best vibe coding tools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/">https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374269">https://news.ycombinator.com/item?id=49374269</a></p>
-<p>Points: 37</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.vibeleaderboard.ai/tools">https://www.vibeleaderboard.ai/tools</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374599">https://news.ycombinator.com/item?id=49374599</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
-
----
-
-### 3. Canonical Backs New Project to Translate Large C Codebases into Safe Rust
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/">https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374162">https://news.ycombinator.com/item?id=49374162</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/](https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/)
+🔗 **Read more:** [https://www.vibeleaderboard.ai/tools](https://www.vibeleaderboard.ai/tools)
 
 ---
 
@@ -84,55 +84,55 @@ BBC culture correspondent Noor Nanji looks at why the move raises questions over
 
 ---
 
-### 6. Travelodge boss resigns as chain tackles security after sex assault at hotel
+### 6. Five key takeaways from GCSE results day 2026
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jo Boydell had been criticised for the company's handling of issues with its safety and security.
+Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat
+### 7. Trump’s war on Stars and Stripes: Why has military newspaper chief quit?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.
+Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss)
 
 ---
 
-### 8. US debt hits $40 trillion: Who does Washington owe and why does it matter?
+### 8. Funeral for 50 Palestinians recovered from Gaza rubble
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy borrowing, increased spending and tax cuts by Democratic and Republican administrations have long raised concern.
+A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss)
 
 ---
 
-### 9. War on Iran: Trump announces a new campaign to isolate Iran economically
+### 9. Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.
+Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia&#039;s bombs is near impossible.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss)
 
 ---
 
