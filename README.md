@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 09:22:54
+**Last Update:** 2026-08-20 10:27:49
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
+### 1. Windows brings out the Rorschach test in everyone
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
+
+---
+
+### 2. Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 37</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 
 ---
 
-### 2. Turns are Better than Radians (2022)
+### 3. Turns are Better than Radians (2022)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 100</p>
-<p># Comments: 46</p>
+<p>Points: 141</p>
+<p># Comments: 59</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
-
----
-
-### 3. Universality of Gradient Descent Neural Network Training
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
-<p>Points: 24</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
 
 ---
 
@@ -84,20 +84,46 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 
 ---
 
-### 6. Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
+### 6. At least 12 killed in Kyiv as Ukraine grapples with air defence shortages
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, according to the State Emergency Service of Ukraine.
+Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, officials say.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Exclusive: Pentagon sends ‘political loyalty’ survey to US allies
+### 7. Bangladesh holds presidential election in first contested vote in 35 years
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+BNP&#039;s Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss)
+
+---
+
+### 8. Australian anger as Israel drops World Central Kitchen deaths case
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss)
+
+---
+
+### 9. Exclusive: Pentagon sends ‘political loyalty’ survey to US allies
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Apartment blocks and warehouses were targeted in the "massive attack" on Thursda
 In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss)
-
----
-
-### 8. At least 6 killed in multiple Russian missile strikes across Ukraine
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss)
-
----
-
-### 9. Trump vows ‘economic warfare’ on countries helping Iran
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss)
 
 ---
 

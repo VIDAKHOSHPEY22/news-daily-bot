@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T10:27:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Windows brings out the Rorschach test in everyone",
+            "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803\">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49371006\">https://news.ycombinator.com/item?id=49371006</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+            "published": "Thu, 20 Aug 2026 06:16:40 +0000",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+            "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621\">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49370440\">https://news.ycombinator.com/item?id=49370440</a></p>\n<p>Points: 37</p>\n<p># Comments: 9</p>",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+            "published": "Thu, 20 Aug 2026 04:42:02 +0000",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Turns are Better than Radians (2022)",
+            "description": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369408\">https://news.ycombinator.com/item?id=49369408</a></p>\n<p>Points: 141</p>\n<p># Comments: 59</p>",
+            "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+            "published": "Thu, 20 Aug 2026 01:29:12 +0000",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan moving back to UK later this month",
+            "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 06:08:34 GMT",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+            "description": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 02:00:51 GMT",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+            "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+            "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 06:44:20 GMT",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh holds presidential election in first contested vote in 35 years",
+            "description": "BNP&#039;s Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 06:38:39 +0000",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australian anger as Israel drops World Central Kitchen deaths case",
+            "description": "Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 05:43:01 +0000",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
+            "description": "In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 05:06:23 +0000",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T10:27:49+03:30"
+        }
+    ]
+}
