@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T16:33:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+            "description": "<p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373456\">https://news.ycombinator.com/item?id=49373456</a></p>\n<p>Points: 40</p>\n<p># Comments: 7</p>",
+            "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+            "published": "Thu, 20 Aug 2026 12:04:38 +0000",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff\">https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373423\">https://news.ycombinator.com/item?id=49373423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
+            "published": "Thu, 20 Aug 2026 12:00:23 +0000",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Australia passes law to levy tech giants that fail to pay for local news",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/\">https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373123\">https://news.ycombinator.com/item?id=49373123</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+            "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+            "published": "Thu, 20 Aug 2026 11:23:43 +0000",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's security arrangements a private matter, PM says",
+            "description": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 12:26:35 GMT",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
+            "description": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 02:00:51 GMT",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+            "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:05:24 GMT",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alarms blare in South Korea during annual air raid defence drill",
+            "description": "South Korea has held a nationwide drill simulating an air raid to coincide with joint military exercises with the US.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 12:46:35 +0000",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh’s government under pressure as youth demand jobs",
+            "description": "Six months into Prime Minister Tariq Rahman’s term, Bangladesh faces an energy crisis and rising prices.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 11:49:36 +0000",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who was Hind Rajab and why is Israel investigating her killing?",
+            "description": "After two years of denial, Israel admits firing on the 5-year-old&#039;s car. But her family and others don&#039;t expect justice.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 11:48:18 +0000",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T16:33:25+03:30"
+        }
+    ]
+}
