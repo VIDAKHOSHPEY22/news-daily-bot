@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T16:53:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Netherlands lists Israel as a threat to its national security for the first time",
+            "description": "<p>Article URL: <a href=\"https://www.trtworld.com/article/911b7ff6c075\">https://www.trtworld.com/article/911b7ff6c075</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374031\">https://news.ycombinator.com/item?id=49374031</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.trtworld.com/article/911b7ff6c075",
+            "published": "Thu, 20 Aug 2026 12:58:14 +0000",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Browser De-Slop",
+            "description": "<p>Article URL: <a href=\"https://www.sacredheartsc.com/blog/browser-de-slop/\">https://www.sacredheartsc.com/blog/browser-de-slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373616\">https://news.ycombinator.com/item?id=49373616</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+            "published": "Thu, 20 Aug 2026 12:19:37 +0000",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+            "description": "<p>I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).<p>The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.<p>The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373456\">https://news.ycombinator.com/item?id=49373456</a></p>\n<p>Points: 50</p>\n<p># Comments: 9</p>",
+            "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+            "published": "Thu, 20 Aug 2026 12:04:38 +0000",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's security arrangements a private matter, PM says",
+            "description": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 13:08:14 GMT",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why are Harry and Meghan returning to the UK?",
+            "description": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
+            "url": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:16:31 GMT",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+            "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:05:24 GMT",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
+            "description": "US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:14:14 +0000",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "West Ham urges fans to stop chanting ‘anti-Palestine message’",
+            "description": "Club relegated from the Premier League last season appeals to fans to stop &#039;anti-Palestine message&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:13:24 +0000",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
+            "description": "After five years of isolation, Myanmar&#039;s post-coup leadership is trying to boost its legitmacy.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:10:50 +0000",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T16:53:11+03:30"
+        }
+    ]
+}
