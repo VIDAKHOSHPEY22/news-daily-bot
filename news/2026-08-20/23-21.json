@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T23:21:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The August 17 outage, and the work ahead",
+            "description": "<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378957\">https://news.ycombinator.com/item?id=49378957</a></p>\n<p>Points: 15</p>\n<p># Comments: 10</p>",
+            "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+            "published": "Thu, 20 Aug 2026 19:22:24 +0000",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Huzzah – a novel approach to coding with AI",
+            "description": "<p>Hello everyone. I've been working on this experimental editor called Huzzah.<p>I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself.<p>I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you:<p><pre><code>  1. write pseudocode in whatever way makes the most sense to you\n  2. on save, the editor synchronizes your work to real source code\n  3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.\n</code></pre>\nIt may not work for every use case, but in my initial playthroughs I've found it very enjoyable.<p>Right now it's just a proof of concept - installation instructions are here in the readme: <a href=\"https://github.com/danielvaughn/hz\" rel=\"nofollow\">https://github.com/danielvaughn/hz</a><p>You can also watch a video of it in action here: <a href=\"https://x.com/danielvaughn/status/2090456808431165715\" rel=\"nofollow\">https://x.com/danielvaughn/status/2090456808431165715</a><p>Cheers!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378768\">https://news.ycombinator.com/item?id=49378768</a></p>\n<p>Points: 8</p>\n<p># Comments: 8</p>",
+            "url": "https://www.danielvaughn.dev/posts/huzzah/",
+            "published": "Thu, 20 Aug 2026 19:05:36 +0000",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+            "description": "<p>Article URL: <a href=\"https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/\">https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378630\">https://news.ycombinator.com/item?id=49378630</a></p>\n<p>Points: 94</p>\n<p># Comments: 29</p>",
+            "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+            "published": "Thu, 20 Aug 2026 18:54:32 +0000",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's return to UK reignites questions over security",
+            "description": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 18:12:59 GMT",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
+            "description": "England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan&#039;s meagre first innings of 171.",
+            "url": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 19:45:08 +0000",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could US sanctions destroy the International Criminal Court?",
+            "description": "Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 19:38:29 +0000",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Walmart sees sales drop as US consumer spending retreats",
+            "description": "Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart&#039;s growth.",
+            "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 19:18:38 +0000",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-20T23:21:30+03:30"
+        }
+    ]
+}

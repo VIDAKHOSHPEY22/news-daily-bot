@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 23:07:25
+**Last Update:** 2026-08-20 23:21:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Huzzah – a novel approach to coding with AI
+### 1. The August 17 outage, and the work ahead
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/">https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378957">https://news.ycombinator.com/item?id=49378957</a></p>
+<p>Points: 15</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+
+---
+
+### 2. Show HN: Huzzah – a novel approach to coding with AI
 
 **Source:** Hacker News
 
@@ -24,14 +40,14 @@
 It may not work for every use case, but in my initial playthroughs I've found it very enjoyable.<p>Right now it's just a proof of concept - installation instructions are here in the readme: <a href="https://github.com/danielvaughn/hz" rel="nofollow">https://github.com/danielvaughn/hz</a><p>You can also watch a video of it in action here: <a href="https://x.com/danielvaughn/status/2090456808431165715" rel="nofollow">https://x.com/danielvaughn/status/2090456808431165715</a><p>Cheers!</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378768">https://news.ycombinator.com/item?id=49378768</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.danielvaughn.dev/posts/huzzah/](https://www.danielvaughn.dev/posts/huzzah/)
 
 ---
 
-### 2. Scientific study reveals TikTok videos deactivate key cognitive brain regions
+### 3. Scientific study reveals TikTok videos deactivate key cognitive brain regions
 
 **Source:** Hacker News
 
@@ -40,33 +56,10 @@ It may not work for every use case, but in my initial playthroughs I've found it
 **Description:**
 <p>Article URL: <a href="https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/">https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378630">https://news.ycombinator.com/item?id=49378630</a></p>
-<p>Points: 36</p>
-<p># Comments: 6</p>
+<p>Points: 94</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
-
----
-
-### 3. Show HN: Kandelo – a POSIX-compatible multi-process WASM kernel for the browser
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Kandelo is an open-source, Wasm-based multi-process kernel that runs POSIX programs in browsers and Node.js.<p>Kandelo is still experimental, but it already runs a substantial range of existing software.<p><i>Do you have use cases for this?</i><p>We are trying Kandelo as a new foundation for WordPress Playground which runs server-side WordPress entirely in the browser. Kandelo also looks promising as a sandbox for running agents in the the browser and on the command line. On the side, we've been playing with porting games and desktop environments and even compiling runnable programs within Kandelo.<p>Yet it feels like there are many possibilities we haven't considered.<p>How would you like to use something like this?<p><i>Demos:</i><p>Some notes: The demos have been tested in desktop browsers. Unfortunately, YMMV on mobile today. Some of the disk images are large (~50MB) and may take a while to boot initially.<p>Main set, with Shell (bash, vim, nethack, and more), Nginx, PHP, WordPress, and Doom:
-<a href="https://kandelo.dev/20260819-demo/" rel="nofollow">https://kandelo.dev/20260819-demo/</a><p>LÖVE game engine:
-<a href="https://kandelo.dev/20260819-demo-love/" rel="nofollow">https://kandelo.dev/20260819-demo-love/</a><p>SNKRX running under LÖVE:
-<a href="https://kandelo.dev/20260819-demo-love/?vfs=love-snkrx-abi44.vfs.zst" rel="nofollow">https://kandelo.dev/20260819-demo-love/?vfs=love-snkrx-abi44...</a><p>Commander Keen running in DOSBox:
-<a href="https://kandelo.dev/20260819-demo-dos/?demo=keen" rel="nofollow">https://kandelo.dev/20260819-demo-dos/?demo=keen</a><p>LXDE desktop PoC:
-<a href="https://kandelo.dev/20260819-demo-lxde/?demo=desktop-lxde" rel="nofollow">https://kandelo.dev/20260819-demo-lxde/?demo=desktop-lxde</a><p><i>Background</i><p>I wanted an authentic OS-level foundation for running systems software in the browser and started this as a vibe-coded exploration. I figured it would end up being too slow and that we would have to offer many different ways to compromise default POSIX behavior to get anything usable. But after weeks of fighting agents, insisting on genuine POSIX compatibility as the default, I was surprised at how well the system worked without those compromises.<p>Nginx, PHP, Python, Ruby, Redis, and even MariaDB were able to be built using the SDK with minimal hacks.<p>Then we started porting games, having fun, and playing to see how far we could push it.<p><i>Notes on architecture:</i><p>There is a central, single-worker kernel, aiming to provide all supportable POSIX syscalls. Each process is a dedicated worker with independent memory. Each process thread is a dedicated worker that shares memory with threads from the same process. Syscalls are done with the process SharedArrayBuffer and the Atomics API. fork() is supported. The system is centered around virtual file system (VFS) images, and the VFS can contain lazy references to programs that may or may not be used. Vim is such a reference in the shell demo.<p><i>On GitHub:</i>
-<a href="https://github.com/Automattic/kandelo" rel="nofollow">https://github.com/Automattic/kandelo</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378305">https://news.ycombinator.com/item?id=49378305</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://kandelo.dev/20260819-demo/](https://kandelo.dev/20260819-demo/)
 
 ---
 
@@ -109,42 +102,42 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. University suspends US academic leading Jason Arday plagiarism accusations
+### 7. Brook makes Pakistan pay for dropped catch as England dominate first Test
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Researcher Nathan Cofnas, an outspoken critic of DEI, was himself sacked from Cambridge in 2024 over his views on race.
+England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan&#039;s meagre first innings of 171.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss)
 
 ---
 
-### 8. Arsenal vs Coventry: Premier League – prediction, lineups, teams
+### 8. Could US sanctions destroy the International Criminal Court?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Holders Arsenal face Coventry in the Premier League opener with doubts over Declan Rice and Bukayo Saka&#039;s match fitness.
+Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss)
 
 ---
 
-### 9. US Treasury secretary says new economic measures will ‘collapse’ Iran
+### 9. Walmart sees sales drop as US consumer spending retreats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Scott Bessent has not said if countries such as China could be targeted in an effort to economically isolate Tehran.
+Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart&#039;s growth.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss)
 
 ---
 
