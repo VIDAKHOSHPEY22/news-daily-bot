@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T22:21:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+            "description": "<p>Article URL: <a href=\"https://bitflash.network/\">https://bitflash.network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378036\">https://news.ycombinator.com/item?id=49378036</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+            "url": "https://bitflash.network/",
+            "published": "Thu, 20 Aug 2026 18:02:55 +0000",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Optimizing things in the USSR (2016)",
+            "description": "<p>Article URL: <a href=\"https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/\">https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377923\">https://news.ycombinator.com/item?id=49377923</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+            "published": "Thu, 20 Aug 2026 17:55:16 +0000",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I should have loved biology",
+            "description": "<p>Article URL: <a href=\"https://jsomers.net/i-should-have-loved-biology/\">https://jsomers.net/i-should-have-loved-biology/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49377853\">https://news.ycombinator.com/item?id=49377853</a></p>\n<p>Points: 39</p>\n<p># Comments: 15</p>",
+            "url": "https://jsomers.net/i-should-have-loved-biology/",
+            "published": "Thu, 20 Aug 2026 17:50:02 +0000",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's return to UK reignites questions over security",
+            "description": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 18:12:59 GMT",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FBI raids ex-US Representative Swalwell’s home amid sexual misconduct probe",
+            "description": "Swalwell, a vocal Trump critic, resigned from Congress and dropped out of California governor&#039;s race amid allegations.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 18:39:03 +0000",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dozens dead after boat capsizes in northwestern Nigeria",
+            "description": "Residents say at least 46 bodies already recovered, as rescue operations continue before officials can confirm toll.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 18:37:47 +0000",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
+            "description": "Liberia is part of a growing list of partners under US President Donald Trump to accept third-country deportations.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 18:22:58 +0000",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-20T22:21:36+03:30"
+        }
+    ]
+}

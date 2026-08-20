@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 21:21:56
+**Last Update:** 2026-08-20 22:21:36
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: We chased a weather balloon across Montana and never found it
+### 1. Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Since April, I have been working with Sam Flynn (<a href="https://drook.dev" rel="nofollow">https://drook.dev</a>) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent launch.<p>UpLink was a 491 gram payload testing the insulation properties of 3D printing filaments, while also transmitting 320x240 images over a radio link -- up from the 18x10 images last year!<p>This is a writeup on our engineering process, mistakes made, and learning experiences. It covers:<p>- Custom electronics designed in KiCad<p>- Firmware design<p>- Results from the data we received on the ground<p>- Image transmission<p>- Launch day logistics, and where things went wrong<p>All hardware, software, firmware, and CAD is available on GitHub: <a href="https://github.com/radeeyate/UpLink" rel="nofollow">https://github.com/radeeyate/UpLink</a>, licensed + certified as open source hardware: <a href="https://certification.oshwa.org/us002826.html" rel="nofollow">https://certification.oshwa.org/us002826.html</a><p>If you just want to see the images received, I put up a gallery here: <a href="https://uplink.gallery.radi8.dev/" rel="nofollow">https://uplink.gallery.radi8.dev/</a><p>If you have any questions, comments, or concerns, let me know. I'm happy to answer anything!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377660">https://news.ycombinator.com/item?id=49377660</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://bitflash.network/">https://bitflash.network/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378036">https://news.ycombinator.com/item?id=49378036</a></p>
+<p>Points: 15</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://radi8.dev/blog/uplink/](https://radi8.dev/blog/uplink/)
+🔗 **Read more:** [https://bitflash.network/](https://bitflash.network/)
 
 ---
 
-### 2. URL shortener links stored in your ATProto PDS
+### 2. Optimizing things in the USSR (2016)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://atpr.to/">https://atpr.to/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377535">https://news.ycombinator.com/item?id=49377535</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/">https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377923">https://news.ycombinator.com/item?id=49377923</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://atpr.to/](https://atpr.to/)
+🔗 **Read more:** [https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/)
 
 ---
 
-### 3. The Defense-Tech Bubble Is Headed for Consolidation
+### 3. I should have loved biology
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation">https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377249">https://news.ycombinator.com/item?id=49377249</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://jsomers.net/i-should-have-loved-biology/">https://jsomers.net/i-should-have-loved-biology/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49377853">https://news.ycombinator.com/item?id=49377853</a></p>
+<p>Points: 39</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation](https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation)
+🔗 **Read more:** [https://jsomers.net/i-should-have-loved-biology/](https://jsomers.net/i-should-have-loved-biology/)
 
 ---
 
@@ -66,7 +65,7 @@
 **Category:** world
 
 **Description:**
-They have not had publicly funded security since they stopped being working royals in 2020 and moved to the US, where they have paid for their own protection.
+Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss)
 
@@ -98,42 +97,42 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. Humanoid robots take centre stage in China-US tech race
+### 7. FBI raids ex-US Representative Swalwell’s home amid sexual misconduct probe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.
+Swalwell, a vocal Trump critic, resigned from Congress and dropped out of California governor&#039;s race amid allegations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss)
 
 ---
 
-### 8. Swiss tourist jailed for insulting Bali’s sacred Day of Silence
+### 8. Dozens dead after boat capsizes in northwestern Nigeria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Swiss tourist has been sentenced to one year in prison in Bali for social media posts insulting Nyepi
+Residents say at least 46 bodies already recovered, as rescue operations continue before officials can confirm toll.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/dozens-dead-after-boat-sinks-in-northwestern-nigeria?traffic_source=rss)
 
 ---
 
-### 9. Daily struggle for clean water and food takes a physical toll on Gaza kids
+### 9. First group of US deportees, out of an expected 1,200, arrive in Liberia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families in Gaza face devastating water shortages, leaving children with heavy responsibilities beyond their years.
+Liberia is part of a growing list of partners under US President Donald Trump to accept third-country deportations.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss](https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss)
 
 ---
 
