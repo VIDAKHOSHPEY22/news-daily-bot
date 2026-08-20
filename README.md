@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 07:33:52
+**Last Update:** 2026-08-20 08:14:57
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Turns are Better than Radians
+### 1. Turns are Better than Radians (2022)
 
 **Source:** Hacker News
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 39</p>
-<p># Comments: 20</p>
+<p>Points: 65</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
-<p>Points: 13</p>
+<p>Points: 17</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 158</p>
-<p># Comments: 87</p>
+<p>Points: 167</p>
+<p># Comments: 96</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
@@ -84,20 +84,20 @@ The sudden decision to return leaves lots of questions for the Duke and Duchess 
 
 ---
 
-### 6. Vaccine breakthrough stops cancer returning in trial
+### 6. Students wait for GCSE and BTec grades as app launches for 750 schools in England
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A new jab extended the length of time patients were cancer free, but it is unclear for how long.
+Some pupils in England will be able to see their grades on their phones from 11:00 BST on Thursday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home
+### 7. Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections
 
 **Source:** Al Jazeera
 
