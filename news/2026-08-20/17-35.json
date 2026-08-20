@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T17:35:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DiffusionGemma Technical Report",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.00146\">https://arxiv.org/abs/2608.00146</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374287\">https://news.ycombinator.com/item?id=49374287</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2608.00146",
+            "published": "Thu, 20 Aug 2026 13:24:32 +0000",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+            "description": "<p>Article URL: <a href=\"https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/\">https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374269\">https://news.ycombinator.com/item?id=49374269</a></p>\n<p>Points: 37</p>\n<p># Comments: 5</p>",
+            "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+            "published": "Thu, 20 Aug 2026 13:23:12 +0000",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+            "description": "<p>Article URL: <a href=\"https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/\">https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374162\">https://news.ycombinator.com/item?id=49374162</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+            "published": "Thu, 20 Aug 2026 13:12:21 +0000",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's security arrangements a private matter, PM says",
+            "description": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 13:53:40 GMT",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why are Harry and Meghan returning to the UK?",
+            "description": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
+            "url": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:16:31 GMT",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+            "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+            "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:05:24 GMT",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
+            "description": "Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:18:35 +0000",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US debt hits $40 trillion: Who does Washington owe and why does it matter?",
+            "description": "Heavy borrowing, increased spending and tax cuts by Democratic and Republican administrations have long raised concern.",
+            "url": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:18:31 +0000",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
+            "description": "US President Donald Trump has announced a new campaign to isolate Iran and punish its trading partners.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 13:14:14 +0000",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T17:35:05+03:30"
+        }
+    ]
+}
