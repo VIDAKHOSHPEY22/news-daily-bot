@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 08:14:57
+**Last Update:** 2026-08-20 08:29:24
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -20,7 +20,7 @@
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
 <p>Points: 65</p>
-<p># Comments: 37</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 167</p>
+<p>Points: 168</p>
 <p># Comments: 96</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
@@ -97,20 +97,33 @@ Some pupils in England will be able to see their grades on their phones from 11:
 
 ---
 
-### 7. Russian forces kill 3 in Ukraine as Zelenskyy faces pressure over elections
+### 7. Trump vows ‘economic warfare’ on countries helping Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalised, officials say.
+US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss)
+
+---
+
+### 8. Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss)
 
 ---
 
-### 8. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
+### 9. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ At least 14 of the 20 people wounded in the strike on Kyiv have been hospitalise
 Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss)
-
----
-
-### 9. Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss)
 
 ---
 

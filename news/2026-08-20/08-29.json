@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T08:29:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Turns are Better than Radians (2022)",
+            "description": "<p>Article URL: <a href=\"https://www.computerenhance.com/p/turns-are-better-than-radians\">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49369408\">https://news.ycombinator.com/item?id=49369408</a></p>\n<p>Points: 65</p>\n<p># Comments: 38</p>",
+            "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+            "published": "Thu, 20 Aug 2026 01:29:12 +0000",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Universality of Gradient Descent Neural Network Training",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2007.13664\">https://arxiv.org/abs/2007.13664</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49368828\">https://news.ycombinator.com/item?id=49368828</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+            "url": "https://arxiv.org/abs/2007.13664",
+            "published": "Thu, 20 Aug 2026 00:05:12 +0000",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Feature Request: Support AGENTS.md",
+            "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/6235\">https://github.com/anthropics/claude-code/issues/6235</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49367350\">https://news.ycombinator.com/item?id=49367350</a></p>\n<p>Points: 168</p>\n<p># Comments: 96</p>",
+            "url": "https://github.com/anthropics/claude-code/issues/6235",
+            "published": "Wed, 19 Aug 2026 21:19:50 +0000",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan moving back to UK later this month",
+            "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 01:14:29 GMT",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+            "description": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 02:00:51 GMT",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Students wait for GCSE and BTec grades as app launches for 750 schools in England",
+            "description": "Some pupils in England will be able to see their grades on their phones from 11:00 BST on Thursday.",
+            "url": "https://www.bbc.co.uk/news/articles/c9q9z402d1yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 17:09:34 GMT",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump vows ‘economic warfare’ on countries helping Iran",
+            "description": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 04:31:10 +0000",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
+            "description": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 02:50:17 +0000",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+            "description": "Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 02:16:17 +0000",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T08:29:24+03:30"
+        }
+    ]
+}
