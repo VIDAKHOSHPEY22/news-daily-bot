@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 09:07:51
+**Last Update:** 2026-08-20 09:22:54
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Turns are Better than Radians (2022)
+### 1. Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
+
+---
+
+### 2. Turns are Better than Radians (2022)
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
-<p>Points: 90</p>
-<p># Comments: 44</p>
+<p>Points: 100</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
 
 ---
 
-### 2. Universality of Gradient Descent Neural Network Training
+### 3. Universality of Gradient Descent Neural Network Training
 
 **Source:** Hacker News
 
@@ -39,22 +55,6 @@
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
-
----
-
-### 3. Feature Request: Support AGENTS.md
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 176</p>
-<p># Comments: 103</p>
-
-🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
 ---
 
