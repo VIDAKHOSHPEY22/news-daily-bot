@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 05:25:46
+**Last Update:** 2026-08-20 06:34:30
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Universality of Gradient Descent Neural Network Training
+### 1. Turns are Better than Radians
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.computerenhance.com/p/turns-are-better-than-radians">https://www.computerenhance.com/p/turns-are-better-than-radians</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49369408">https://news.ycombinator.com/item?id=49369408</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.computerenhance.com/p/turns-are-better-than-radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+
+---
+
+### 2. Universality of Gradient Descent Neural Network Training
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2007.13664">https://arxiv.org/abs/2007.13664</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49368828">https://news.ycombinator.com/item?id=49368828</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2007.13664](https://arxiv.org/abs/2007.13664)
-
----
-
-### 2. Collaborative Human Agent Protocol (CHAP)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/BrightbeamAI/chap">https://github.com/BrightbeamAI/chap</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367836">https://news.ycombinator.com/item?id=49367836</a></p>
-<p>Points: 19</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/anthropics/claude-code/issues/6235">https://github.com/anthropics/claude-code/issues/6235</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49367350">https://news.ycombinator.com/item?id=49367350</a></p>
-<p>Points: 134</p>
-<p># Comments: 77</p>
+<p>Points: 142</p>
+<p># Comments: 78</p>
 
 🔗 **Read more:** [https://github.com/anthropics/claude-code/issues/6235](https://github.com/anthropics/claude-code/issues/6235)
 
@@ -71,33 +71,59 @@ The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled t
 
 ---
 
-### 5. Couple and teenage daughter who died in water off Shoreham named by police
+### 5. Harry and Meghan are experts in surprise - but is their UK return forever?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say the family travelled from their home in London and went into the sea for a swim.
+The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. People smuggler exposed by BBC investigation arrested and charged
+### 6. Vaccine breakthrough stops cancer returning in trial
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Twana Jamal Khdir has been arrested and charged with immigration offences.
+A new jab extended the length of time patients were cancer free, but it is unclear for how long.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bodycam captures police team falling when deck collapses in Missouri
+### 7. Fears grow in Amazon village as Brazilian drug gangs push into Bolivia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss)
+
+---
+
+### 8. Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss)
+
+---
+
+### 9. Bodycam captures police team falling when deck collapses in Missouri
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Twana Jamal Khdir has been arrested and charged with immigration offences.
 Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss)
-
----
-
-### 8. Publisher of US military newspaper resigns over differences with government
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss)
-
----
-
-### 9. ‘Tsunami’ of emigration reshapes Israel’s future, experts warn
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss)
 
 ---
 
