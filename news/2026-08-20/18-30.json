@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-20T18:30:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Grok.bot – the epic domain lottery ticket",
+            "description": "<p>Article URL: <a href=\"https://grok.bot/\">https://grok.bot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49375164\">https://news.ycombinator.com/item?id=49375164</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://grok.bot/",
+            "published": "Thu, 20 Aug 2026 14:34:16 +0000",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Slack Code",
+            "description": "<p>Article URL: <a href=\"https://www.salesforce.com/introducing-slack-code/?bc=HL\">https://www.salesforce.com/introducing-slack-code/?bc=HL</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374965\">https://news.ycombinator.com/item?id=49374965</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+            "published": "Thu, 20 Aug 2026 14:21:25 +0000",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/clyq011414eo\">https://www.bbc.com/news/articles/clyq011414eo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49374920\">https://news.ycombinator.com/item?id=49374920</a></p>\n<p>Points: 43</p>\n<p># Comments: 24</p>",
+            "url": "https://www.bbc.com/news/articles/clyq011414eo",
+            "published": "Thu, 20 Aug 2026 14:18:16 +0000",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's security arrangements a private matter, PM says",
+            "description": "The prime minister also wishes the Duke and Duchess well after it emerged they are returning to the UK later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 13:53:40 GMT",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why are Harry and Meghan returning to the UK?",
+            "description": "BBC culture correspondent Noor Nanji looks at why the move raises questions over security detail, royal duties Harry's relationship with King Charles and Prince William.",
+            "url": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 10:16:31 GMT",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five key takeaways from GCSE results day 2026",
+            "description": "Resits are up, the gap between boys and girls has shrunk and England's regional divide has widened.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2583xew8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 14:28:32 GMT",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Governments brace for historic El Nino impacts on global weather extremes",
+            "description": "Sri Lanka earmarks $14m to fight severe drought, offering families 75 litres of water every two-three days.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 14:45:55 +0000",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
+            "description": "Iran&#039;s foreign minister has dismissed Trump’s latest threats, calling them a “diversion&quot; from America’s own crisis.&quot;",
+            "url": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 14:40:51 +0000",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
+            "description": "Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.",
+            "url": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
+            "published": "Thu, 20 Aug 2026 14:36:35 +0000",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Saudel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22926",
+            "published": "2026-08-19T00:00:00Z",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Picture Rock, Lake, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22798",
+            "published": "2026-08-16T15:55:00Z",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CATO 2, Chaves, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22800",
+            "published": "2026-08-15T23:18:00Z",
+            "fetched": "2026-08-20T18:30:19+03:30"
+        }
+    ]
+}

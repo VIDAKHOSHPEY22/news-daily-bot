@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 18:13:26
+**Last Update:** 2026-08-20 18:30:19
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hacking with Claude on a $27 Smart Watch
+### 1. Grok.bot – the epic domain lottery ticket
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html">https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374772">https://news.ycombinator.com/item?id=49374772</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://grok.bot/">https://grok.bot/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49375164">https://news.ycombinator.com/item?id=49375164</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html)
+🔗 **Read more:** [https://grok.bot/](https://grok.bot/)
 
 ---
 
-### 2. Stwipe Acquires OpenWouter
+### 2. Slack Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://stwipe.com/">https://stwipe.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374738">https://news.ycombinator.com/item?id=49374738</a></p>
+<p>Article URL: <a href="https://www.salesforce.com/introducing-slack-code/?bc=HL">https://www.salesforce.com/introducing-slack-code/?bc=HL</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374965">https://news.ycombinator.com/item?id=49374965</a></p>
 <p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://stwipe.com/](https://stwipe.com/)
+🔗 **Read more:** [https://www.salesforce.com/introducing-slack-code/?bc=HL](https://www.salesforce.com/introducing-slack-code/?bc=HL)
 
 ---
 
-### 3. Index of the best vibe coding tools
+### 3. Harvest hikes bills by 1500% after purchased by Bending Spoons
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vibeleaderboard.ai/tools">https://www.vibeleaderboard.ai/tools</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374599">https://news.ycombinator.com/item?id=49374599</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/clyq011414eo">https://www.bbc.com/news/articles/clyq011414eo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49374920">https://news.ycombinator.com/item?id=49374920</a></p>
+<p>Points: 43</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://www.vibeleaderboard.ai/tools](https://www.vibeleaderboard.ai/tools)
+🔗 **Read more:** [https://www.bbc.com/news/articles/clyq011414eo](https://www.bbc.com/news/articles/clyq011414eo)
 
 ---
 
@@ -97,42 +97,42 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. Trump’s war on Stars and Stripes: Why has military newspaper chief quit?
+### 7. Governments brace for historic El Nino impacts on global weather extremes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.
+Sri Lanka earmarks $14m to fight severe drought, offering families 75 litres of water every two-three days.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss)
 
 ---
 
-### 8. Funeral for 50 Palestinians recovered from Gaza rubble
+### 8. ‘Tremendous costs’: Can Trump stop other countries from trading with Iran?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.
+Iran&#039;s foreign minister has dismissed Trump’s latest threats, calling them a “diversion&quot; from America’s own crisis.&quot;
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss)
 
 ---
 
-### 9. Ex-defence chief’s call for wartime election raises pressure on Zelenskyy
+### 9. USS Washington arrives in Middle East after aircraft carrier outcry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fedorov, a popular figure, is challenging Zelenskyy but holding a vote under Russia&#039;s bombs is near impossible.
+Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss)
 
 ---
 
