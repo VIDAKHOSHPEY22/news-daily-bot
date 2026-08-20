@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 00:22:06
+**Last Update:** 2026-08-21 01:05:18
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/">https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379550">https://news.ycombinator.com/item?id=49379550</a></p>
-<p>Points: 50</p>
-<p># Comments: 7</p>
+<p>Points: 115</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos">https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379253">https://news.ycombinator.com/item?id=49379253</a></p>
-<p>Points: 82</p>
-<p># Comments: 23</p>
+<p>Points: 129</p>
+<p># Comments: 64</p>
 
 🔗 **Read more:** [https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/">https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379026">https://news.ycombinator.com/item?id=49379026</a></p>
-<p>Points: 13</p>
+<p>Points: 14</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
@@ -97,7 +97,20 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. Landslide at illegal gold mine kills 13 people in Colombia
+### 7. US pummels Cuban economy with new sanctions on mining, construction
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US economic restrictions have strained the island&#039;s already fragile economy, prompting blackouts and medical shortages.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss)
+
+---
+
+### 8. Landslide at illegal gold mine kills 13 people in Colombia
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ At least 13 people have been killed and seven others injured in an unlicensed go
 
 ---
 
-### 8. Hundreds of Tibetans protest China’s ethnic unity law by shaving heads
+### 9. Hundreds of Tibetans protest China’s ethnic unity law by shaving heads
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ At least 13 people have been killed and seven others injured in an unlicensed go
 A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss)
-
----
-
-### 9. Heartbreak, loss on Lebanon’s front lines, the story of a first responder
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Heartbreak, loss on Lebanon’s front lines, the story of a first responder
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss)
 
 ---
 
