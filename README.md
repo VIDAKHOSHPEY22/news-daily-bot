@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 12:31:28
+**Last Update:** 2026-08-20 13:12:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://dontpastetheai.com/">https://dontpastetheai.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371857">https://news.ycombinator.com/item?id=49371857</a></p>
-<p>Points: 66</p>
-<p># Comments: 38</p>
+<p>Points: 126</p>
+<p># Comments: 65</p>
 
 🔗 **Read more:** [https://dontpastetheai.com/](https://dontpastetheai.com/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803">https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49371006">https://news.ycombinator.com/item?id=49371006</a></p>
-<p>Points: 139</p>
-<p># Comments: 56</p>
+<p>Points: 152</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49370440">https://news.ycombinator.com/item?id=49370440</a></p>
-<p>Points: 51</p>
-<p># Comments: 26</p>
+<p>Points: 53</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621)
 
@@ -97,42 +97,42 @@ Jo Boydell had been criticised for the company's handling of issues with its saf
 
 ---
 
-### 7. Max Verstappen signs new F1 contract with Red Bull until 2030
+### 7. How conflict is making life more expensive for Iranians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Four-time F1 World Drivers&#039; Champion&#039;s new deal puts to rest rumours that he would exit the team at the end of 2028.
+How conflict is making life more expensive for Iranians
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss)
 
 ---
 
-### 8. Heatwaves and energy crunch: Can Europe withstand a double shock?
+### 8. State-backed Israeli settler violence forces West Bank displacement: HRW
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heatwaves are squeezing growth and productivity while the Iran war drives up Europe&#039;s energy costs.
+HRW calls for sanctions and suspension of military aid as dozens of Palestinian communities are at risk of erasure.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss)
 
 ---
 
-### 9. Video shows Russian missile strike on Ukrainian capital
+### 9. Are Hormuz ships more willing to defy Iran or the US? What the data shows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.
+Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss)
 
 ---
 
