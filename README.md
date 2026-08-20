@@ -1,65 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-20 23:21:30
+**Last Update:** 2026-08-21 00:07:06
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The August 17 outage, and the work ahead
+### 1. Stop Eating Lady Gaga's Oreos
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/">https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378957">https://news.ycombinator.com/item?id=49378957</a></p>
-<p>Points: 15</p>
+<p>Article URL: <a href="https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos">https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379253">https://news.ycombinator.com/item?id=49379253</a></p>
+<p>Points: 52</p>
 <p># Comments: 10</p>
 
-🔗 **Read more:** [https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+🔗 **Read more:** [https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos](https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos)
 
 ---
 
-### 2. Show HN: Huzzah – a novel approach to coding with AI
+### 2. GitHub, autoscaling, and the component substitution fallacy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hello everyone. I've been working on this experimental editor called Huzzah.<p>I've been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They're great, but I'm finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there's a complexity limit for codebases - beyond a certain point the agent begins confusing itself.<p>I'd like to go back to writing code, but I don't want to go all the way back to fully manual coding. So I've come up with this interaction paradigm where you:<p><pre><code>  1. write pseudocode in whatever way makes the most sense to you
-  2. on save, the editor synchronizes your work to real source code
-  3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent.
-</code></pre>
-It may not work for every use case, but in my initial playthroughs I've found it very enjoyable.<p>Right now it's just a proof of concept - installation instructions are here in the readme: <a href="https://github.com/danielvaughn/hz" rel="nofollow">https://github.com/danielvaughn/hz</a><p>You can also watch a video of it in action here: <a href="https://x.com/danielvaughn/status/2090456808431165715" rel="nofollow">https://x.com/danielvaughn/status/2090456808431165715</a><p>Cheers!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378768">https://news.ycombinator.com/item?id=49378768</a></p>
-<p>Points: 8</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/">https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49379026">https://news.ycombinator.com/item?id=49379026</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.danielvaughn.dev/posts/huzzah/](https://www.danielvaughn.dev/posts/huzzah/)
+🔗 **Read more:** [https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/](https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/)
 
 ---
 
-### 3. Scientific study reveals TikTok videos deactivate key cognitive brain regions
+### 3. Tidal Cycles – Live coding music with Algorithmic patterns
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/">https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378630">https://news.ycombinator.com/item?id=49378630</a></p>
-<p>Points: 94</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://tidalcycles.org/">https://tidalcycles.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49378950">https://news.ycombinator.com/item?id=49378950</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
+🔗 **Read more:** [https://tidalcycles.org/](https://tidalcycles.org/)
 
 ---
 
@@ -102,42 +97,42 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. Brook makes Pakistan pay for dropped catch as England dominate first Test
+### 7. DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-England were 366-8 at stumps on a rain-marred second day, 195 runs ahead of Pakistan&#039;s meagre first innings of 171.
+WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss)
 
 ---
 
-### 8. Could US sanctions destroy the International Criminal Court?
+### 8. Amputee children learn to swim after losing limbs in Israel’s war on Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington&#039;s new measures against the ICC have been widely condemned but welcomed by Israel.
+Amputee children in Gaza are learning to swim as part of a programme helping them rebuild confidence and mobility.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss)
 
 ---
 
-### 9. Walmart sees sales drop as US consumer spending retreats
+### 9. Syria’s civil society navigates post-Assad era: Partnership or control?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fuel prices above $4 per gallon impact consumer behaviour, driving spending trade-offs and slowing Walmart&#039;s growth.
+Syria&#039;s civil society grapples with redefining its role as the state reasserts itself after Assad&#039;s fall.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss](https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss)
 
 ---
 
