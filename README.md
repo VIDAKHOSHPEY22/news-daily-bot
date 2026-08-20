@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 03:02:50
+**Last Update:** 2026-08-21 03:15:40
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://niki.cat/detecting-scraper-bots-through-scroll-behaviour">https://niki.cat/detecting-scraper-bots-through-scroll-behaviour</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49381311">https://news.ycombinator.com/item?id=49381311</a></p>
-<p>Points: 5</p>
+<p>Points: 7</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://niki.cat/detecting-scraper-bots-through-scroll-behaviour](https://niki.cat/detecting-scraper-bots-through-scroll-behaviour)
@@ -36,7 +36,7 @@
 <p>Article URL: <a href="https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/">https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380671">https://news.ycombinator.com/item?id=49380671</a></p>
 <p>Points: 8</p>
-<p># Comments: 1</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/">https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49380482">https://news.ycombinator.com/item?id=49380482</a></p>
-<p>Points: 14</p>
+<p>Points: 18</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/](https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/)
@@ -97,7 +97,20 @@ Resits are up, the gap between boys and girls has shrunk and England's regional 
 
 ---
 
-### 7. US charges woman for allegedly plotting attack on New York State Capitol
+### 7. Houthis and government trade attacks as Yemen slides back to full-scale war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss)
+
+---
+
+### 8. US charges woman for allegedly plotting attack on New York State Capitol
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The suspect, Jessica Bowie, 35, was arrested on charges of providing material su
 
 ---
 
-### 8. The cost of rebuilding family homes in war-ravaged Syria
+### 9. The cost of rebuilding family homes in war-ravaged Syria
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The suspect, Jessica Bowie, 35, was arrested on charges of providing material su
 What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss)
-
----
-
-### 9. New York mayor Mamdani sues to block $10,000 teaching aide bonuses
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss)
 
 ---
 
