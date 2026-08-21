@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 16:32:30
+**Last Update:** 2026-08-21 16:52:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Felony charges for citizen deleting phone data at US Border
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html">https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386895">https://news.ycombinator.com/item?id=49386895</a></p>
-<p>Points: 19</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
-
----
-
-### 2. TigerBeetle Core System Architecture: Deconstructing Performance Engineering
+### 1. TigerBeetle Core System Architecture: Deconstructing Performance Engineering
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering">https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386659">https://news.ycombinator.com/item?id=49386659</a></p>
-<p>Points: 35</p>
-<p># Comments: 11</p>
+<p>Points: 51</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
 
 ---
 
-### 3. Kino: A high-performance Ractor web server for Ruby 4.0
+### 2. Kino: A high-performance Ractor web server for Ruby 4.0
 
 **Source:** Hacker News
 
@@ -51,14 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/yaroslav/kino">https://github.com/yaroslav/kino</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386383">https://news.ycombinator.com/item?id=49386383</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://github.com/yaroslav/kino](https://github.com/yaroslav/kino)
 
 ---
 
-### 4. El Niño warming set to be 'strongest in living memory', warns Met Office
+### 3. DeepSeek-v4-flash-vision-exp
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://api-docs.deepseek.com/guides/vision/">https://api-docs.deepseek.com/guides/vision/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386163">https://news.ycombinator.com/item?id=49386163</a></p>
+<p>Points: 209</p>
+<p># Comments: 51</p>
+
+🔗 **Read more:** [https://api-docs.deepseek.com/guides/vision/](https://api-docs.deepseek.com/guides/vision/)
+
+---
+
+### 4. Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The group of high-profile figures lost their High Court privacy case against the Daily Mail's publishers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. El Niño warming set to be 'strongest in living memory', warns Met Office
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 Scientists say the "unprecedented event" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.
 
 🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Meghan could return to acting once back in UK
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. US allies in Asia wary as Trump moves military assets for Iran war
+### 7. El Nino set to be most intense ‘for over a century’: UK forecasters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.
+Met Office predicts &#039;unprecedented&#039; sea surface temperature rise of 3C (5.4F) plus will heighten extreme weather risks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss)
 
 ---
 
-### 8. Humanoid crashes during speed test as China’s robotics industry grows
+### 8. South Korea footballers urge safety after extreme heat statistics
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanoid crashes during speed test as China’s robotics industry grows
+South Korea professional football association urges stronger heat protections in face of rising temperatures.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss)
 
 ---
 
-### 9. Six-year-old child dies after being slapped by teacher in India
+### 9. Israeli soldiers throw belongings from besieged Palestinian home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A six-year-old child has collapsed and died after being slapped by his teacher in India.
+Israeli soldiers were filmed throwing belongings from Palestinian homes in Qusra.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/six-year-old-child-dies-after-being-slapped-by-teacher-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/six-year-old-child-dies-after-being-slapped-by-teacher-in-india?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss)
 
 ---
 
