@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 20:27:07
+**Last Update:** 2026-08-21 21:06:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. A self hosted AI software factory
+### 1. LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6">https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390910">https://news.ycombinator.com/item?id=49390910</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
+
+---
+
+### 2. Another Better Lower Bound for N=17 Square Packing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html">http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390775">https://news.ycombinator.com/item?id=49390775</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)
+
+---
+
+### 3. A self hosted AI software factory
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390463">https://news.ycombinator.com/item?id=49390463</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
-
----
-
-### 2. What happens when a GPU reads memory
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory">https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390308">https://news.ycombinator.com/item?id=49390308</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
-
----
-
-### 3. Three ways to smuggle SQLite into Nix
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix">https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390286">https://news.ycombinator.com/item?id=49390286</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix)
 
 ---
 
@@ -97,7 +97,33 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’
+### 7. Migrants clash with French police as they attempt to cross the Channel
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss)
+
+---
+
+### 8. Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss)
+
+---
+
+### 9. Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The advice also applies to the over-65s and others with underlying medical condi
 Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss)
-
----
-
-### 8. What to know about the Freedom 250 Grand Prix, Trump’s capital car race
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The president says the 147-lap race will be an event &#039;like no other&#039; as drivers zip through Washington, DC.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss)
-
----
-
-### 9. England thrash Pakistan by an innings and 103 runs in first Test
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Joe Root&#039;s return as England captain results in a thumping win inside three days against Pakistan in first Test.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss)
 
 ---
 
