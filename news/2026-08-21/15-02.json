@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T15:02:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek-v4-flash-vision-exp",
+            "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/vision/\">https://api-docs.deepseek.com/guides/vision/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386163\">https://news.ycombinator.com/item?id=49386163</a></p>\n<p>Points: 90</p>\n<p># Comments: 8</p>",
+            "url": "https://api-docs.deepseek.com/guides/vision/",
+            "published": "Fri, 21 Aug 2026 10:33:56 +0000",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Small, native web tricks worth remembering",
+            "description": "<p>Article URL: <a href=\"https://htmlcat.net/\">https://htmlcat.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49385860\">https://news.ycombinator.com/item?id=49385860</a></p>\n<p>Points: 45</p>\n<p># Comments: 11</p>",
+            "url": "https://htmlcat.net/",
+            "published": "Fri, 21 Aug 2026 09:45:14 +0000",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Better Batteries",
+            "description": "<p>Article URL: <a href=\"https://matklad.github.io/2026/08/20/better-batteries.html\">https://matklad.github.io/2026/08/20/better-batteries.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49385068\">https://news.ycombinator.com/item?id=49385068</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://matklad.github.io/2026/08/20/better-batteries.html",
+            "published": "Fri, 21 Aug 2026 07:48:50 +0000",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
+            "description": "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.",
+            "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 10:37:15 GMT",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan could return to acting once back in UK",
+            "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 10:17:01 GMT",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
+            "description": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
+            "url": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 00:11:18 GMT",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Charter plane crash near Alaskan military site kills 8",
+            "description": "Rescuers who landed near the crash site &#039;confirmed there were no survivors&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 10:59:50 +0000",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+            "description": "Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 10:59:37 +0000",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serie A: Key talking points heading into the new 2026-27 season",
+            "description": "Holders Inter Milan face challenge from reinvigorated AC and Juventus, while Napoli and Roma look to bounce back.",
+            "url": "https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 10:56:43 +0000",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T15:02:45+03:30"
+        }
+    ]
+}

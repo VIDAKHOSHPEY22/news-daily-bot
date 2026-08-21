@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 14:23:48
+**Last Update:** 2026-08-21 15:02:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Small, native web tricks worth remembering
+### 1. DeepSeek-v4-flash-vision-exp
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://api-docs.deepseek.com/guides/vision/">https://api-docs.deepseek.com/guides/vision/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386163">https://news.ycombinator.com/item?id=49386163</a></p>
+<p>Points: 90</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://api-docs.deepseek.com/guides/vision/](https://api-docs.deepseek.com/guides/vision/)
+
+---
+
+### 2. Small, native web tricks worth remembering
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://htmlcat.net/">https://htmlcat.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385860">https://news.ycombinator.com/item?id=49385860</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
+<p>Points: 45</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://htmlcat.net/](https://htmlcat.net/)
 
 ---
 
-### 2. Emacs 31.1 will release on 8/24
+### 3. Better Batteries
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY">https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385296">https://news.ycombinator.com/item?id=49385296</a></p>
-<p>Points: 32</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://matklad.github.io/2026/08/20/better-batteries.html">https://matklad.github.io/2026/08/20/better-batteries.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385068">https://news.ycombinator.com/item?id=49385068</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
-
----
-
-### 3. The Lost Treasure of Sid Meier's Pirates
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384896">https://news.ycombinator.com/item?id=49384896</a></p>
-<p>Points: 97</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+🔗 **Read more:** [https://matklad.github.io/2026/08/20/better-batteries.html](https://matklad.github.io/2026/08/20/better-batteries.html)
 
 ---
 
@@ -97,42 +97,42 @@ The UK's first national day for victims and survivors of terrorism takes place o
 
 ---
 
-### 7. Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?
+### 7. Charter plane crash near Alaskan military site kills 8
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-German authorities allege that Ukrainian scuba diver Volodymyr Zhuravlev was involved in the Nord Stream explosions.
+Rescuers who landed near the crash site &#039;confirmed there were no survivors&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss)
 
 ---
 
-### 8. Philippines floods fuel anger over alleged corruption
+### 8. Russia ready for ‘new ideas’ on Ukraine war that match Putin’s goals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Weeks of monsoon rain have flooded northern Philippines, where residents are demanding answers over alleged corruption.
+Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss)
 
 ---
 
-### 9. Cyclist Josh Tarling to compete in Tour of Spain after brother’s death
+### 9. Serie A: Key talking points heading into the new 2026-27 season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Josh Tarling returns to cycling in Spain a week after brother Finlay dies during Tour of Portugal.
+Holders Inter Milan face challenge from reinvigorated AC and Juventus, while Napoli and Roma look to bounce back.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/serie-a-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss)
 
 ---
 
