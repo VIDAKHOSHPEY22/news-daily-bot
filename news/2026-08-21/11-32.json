@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T11:32:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+            "description": "<p>Article URL: <a href=\"https://Argentic.network\">https://Argentic.network</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384477\">https://news.ycombinator.com/item?id=49384477</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://Argentic.network",
+            "published": "Fri, 21 Aug 2026 06:24:16 +0000",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+            "description": "<p>Article URL: <a href=\"https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/\">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384224\">https://news.ycombinator.com/item?id=49384224</a></p>\n<p>Points: 20</p>\n<p># Comments: 8</p>",
+            "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+            "published": "Fri, 21 Aug 2026 05:39:39 +0000",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Stop Making TUIs",
+            "description": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/\">https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384210\">https://news.ycombinator.com/item?id=49384210</a></p>\n<p>Points: 26</p>\n<p># Comments: 24</p>",
+            "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+            "published": "Fri, 21 Aug 2026 05:37:38 +0000",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
+            "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+            "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 07:43:30 GMT",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan could return to acting once back in UK",
+            "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 02:52:29 GMT",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will Harry's return heal deep-rooted rift with William?",
+            "description": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
+            "url": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 04:07:22 GMT",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers set fire to Palestinian home while family asleep",
+            "description": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 07:58:41 +0000",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+            "description": "The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 07:56:21 +0000",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australian Hussey open to Ashes Test role as England make approach",
+            "description": "Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England&#039;s new red-ball coach.",
+            "url": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 07:37:35 +0000",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T11:32:22+03:30"
+        }
+    ]
+}

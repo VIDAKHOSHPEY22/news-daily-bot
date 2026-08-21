@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 11:22:25
+**Last Update:** 2026-08-21 11:32:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -97,7 +97,33 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 
 ---
 
-### 7. Australian Hussey open to Ashes Test role as England make approach
+### 7. Israeli settlers set fire to Palestinian home while family asleep
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss)
+
+---
+
+### 8. Europe, Canada condemn Israeli plans for new West Bank settlement
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss)
+
+---
+
+### 9. Australian Hussey open to Ashes Test role as England make approach
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England&#039;s new red-ball coach.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss)
-
----
-
-### 8. Dr TikTok: Mental health moves from consulting rooms to social media
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Social media fosters empathy and awareness, but cannot replace evidence-based treatment or formal psychological care.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss](https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss)
-
----
-
-### 9. ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss)
 
 ---
 
