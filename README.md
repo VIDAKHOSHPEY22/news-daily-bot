@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 16:52:53
+**Last Update:** 2026-08-21 17:33:25
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. TigerBeetle Core System Architecture: Deconstructing Performance Engineering
+### 1. Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering">https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386659">https://news.ycombinator.com/item?id=49386659</a></p>
-<p>Points: 51</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2608.18214">https://arxiv.org/abs/2608.18214</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49387856">https://news.ycombinator.com/item?id=49387856</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
+🔗 **Read more:** [https://arxiv.org/abs/2608.18214](https://arxiv.org/abs/2608.18214)
 
 ---
 
-### 2. Kino: A high-performance Ractor web server for Ruby 4.0
+### 2. Grand jury declines to indict Ohio man charged with destroying Flock camera
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/yaroslav/kino">https://github.com/yaroslav/kino</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386383">https://news.ycombinator.com/item?id=49386383</a></p>
-<p>Points: 23</p>
+<p>Article URL: <a href="https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/">https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49387497">https://news.ycombinator.com/item?id=49387497</a></p>
+<p>Points: 78</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/](https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/)
+
+---
+
+### 3. I'm Becoming AI-Blind
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cymerys.com/w/im-becoming-ai-blind">https://cymerys.com/w/im-becoming-ai-blind</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386699">https://news.ycombinator.com/item?id=49386699</a></p>
+<p>Points: 14</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/yaroslav/kino](https://github.com/yaroslav/kino)
-
----
-
-### 3. DeepSeek-v4-flash-vision-exp
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://api-docs.deepseek.com/guides/vision/">https://api-docs.deepseek.com/guides/vision/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386163">https://news.ycombinator.com/item?id=49386163</a></p>
-<p>Points: 209</p>
-<p># Comments: 51</p>
-
-🔗 **Read more:** [https://api-docs.deepseek.com/guides/vision/](https://api-docs.deepseek.com/guides/vision/)
+🔗 **Read more:** [https://cymerys.com/w/im-becoming-ai-blind](https://cymerys.com/w/im-becoming-ai-blind)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The group of high-profile figures lost their High Court privacy case against the Daily Mail's publishers.
+The seven claimants, who include Sir Elton John and Liz Hurley, could potentially have to pay up to £25m more after losing their High Court privacy case.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. El Nino set to be most intense ‘for over a century’: UK forecasters
+### 7. Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Met Office predicts &#039;unprecedented&#039; sea surface temperature rise of 3C (5.4F) plus will heighten extreme weather risks.
+Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss)
 
 ---
 
-### 8. South Korea footballers urge safety after extreme heat statistics
+### 8. Liverpool preview: Five key questions heading into 2026-27 season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Korea professional football association urges stronger heat protections in face of rising temperatures.
+Liverpool&#039;s new Spanish boss is tasked with making the club title challengers again, but he faces a number of issues.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss)
 
 ---
 
-### 9. Israeli soldiers throw belongings from besieged Palestinian home
+### 9. Weddings in Gaza offer rare moments of joy amid genocide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli soldiers were filmed throwing belongings from Palestinian homes in Qusra.
+In Gaza, weddings offer Palestinian families a brief escape from Israel’s genocidal war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss)
 
 ---
 
