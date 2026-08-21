@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 09:23:40
+**Last Update:** 2026-08-21 10:28:59
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Codex on AWS bedrock bug causing 10x charges
+### 1. The Religious Experience of Philip K. Dick by R. Crumb (1986)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384224">https://news.ycombinator.com/item?id=49384224</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
+
+---
+
+### 2. Japan tried to build an operating system for the world, the US intervened
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/">https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384180">https://news.ycombinator.com/item?id=49384180</a></p>
+<p>Points: 39</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
+
+---
+
+### 3. Codex on AWS bedrock bug causing 10x charges
 
 **Source:** Hacker News
 
@@ -19,46 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/openai/codex/issues/37674">https://github.com/openai/codex/issues/37674</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383326">https://news.ycombinator.com/item?id=49383326</a></p>
-<p>Points: 69</p>
-<p># Comments: 18</p>
+<p>Points: 99</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://github.com/openai/codex/issues/37674](https://github.com/openai/codex/issues/37674)
 
 ---
 
-### 2. AI companies destroy physical books – let's scan rare books before it's too late
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://annas-archive.gl/blog/physical-destruction.html">https://annas-archive.gl/blog/physical-destruction.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383026">https://news.ycombinator.com/item?id=49383026</a></p>
-<p>Points: 216</p>
-<p># Comments: 143</p>
-
-🔗 **Read more:** [https://annas-archive.gl/blog/physical-destruction.html](https://annas-archive.gl/blog/physical-destruction.html)
-
----
-
-### 3. There's no such thing as a small software team anymore
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382152">https://news.ycombinator.com/item?id=49382152</a></p>
-<p>Points: 57</p>
-<p># Comments: 97</p>
-
-🔗 **Read more:** [https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-
----
-
-### 4. El Niño weather system set to be 'strongest in living memory', warns Met Office
+### 4. El Niño warming set to be 'strongest in living memory', warns Met Office
 
 **Source:** BBC
 
@@ -71,7 +71,7 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 5. Will Harry's return heal rift with his brother? Don't hold your breath
+### 5. Will Harry's return heal deep-rooted rift with William?
 
 **Source:** BBC
 
