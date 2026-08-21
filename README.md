@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 07:37:35
+**Last Update:** 2026-08-21 08:17:26
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/openai/codex/issues/37674">https://github.com/openai/codex/issues/37674</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383326">https://news.ycombinator.com/item?id=49383326</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 29</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://github.com/openai/codex/issues/37674](https://github.com/openai/codex/issues/37674)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://annas-archive.gl/blog/physical-destruction.html">https://annas-archive.gl/blog/physical-destruction.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383026">https://news.ycombinator.com/item?id=49383026</a></p>
-<p>Points: 117</p>
-<p># Comments: 67</p>
+<p>Points: 157</p>
+<p># Comments: 102</p>
 
 🔗 **Read more:** [https://annas-archive.gl/blog/physical-destruction.html](https://annas-archive.gl/blog/physical-destruction.html)
 
 ---
 
-### 3. Artificial Intelligence Policy
+### 3. There's no such thing as a small software team anymore
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/">https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382614">https://news.ycombinator.com/item?id=49382614</a></p>
-<p>Points: 28</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382152">https://news.ycombinator.com/item?id=49382152</a></p>
+<p>Points: 46</p>
+<p># Comments: 88</p>
 
-🔗 **Read more:** [https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
+🔗 **Read more:** [https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
 
 ---
 
@@ -71,7 +71,20 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 5. Meghan could return to acting once back in UK
+### 5. Will Harry's return heal rift with his brother? Don't hold your breath
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Meghan could return to acting once back in UK
 
 **Source:** BBC
 
@@ -84,29 +97,16 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 6. What happened to Harry and Meghan's American dream?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Pakistan’s Imran Khan moved to hospital after Supreme Court order
+### 7. Hong Kong Tiananmen activists found guilty of national security charges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan’s former Prime Minister Imran Khan has been moved to a private hospital for medical treatment.
+Activist group says the &#039;twisted&#039; Hong Kong judicial system had long ago decided that the pair were guilty.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss)
 
 ---
 
@@ -133,6 +133,45 @@ Three projects mark a new test for Egypt after it failed to prevent construction
 The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss)
+
+---
+
+### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927)
+
+---
+
+### 11. Wildfire Windmill, Stillwater, Montana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931)
+
+---
+
+### 12. Wildfire North Heglar, Cassia, Idaho
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929)
 
 ---
 
