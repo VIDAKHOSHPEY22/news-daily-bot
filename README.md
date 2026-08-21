@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 02:02:25
+**Last Update:** 2026-08-22 02:16:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -97,7 +97,20 @@ At least 130 people, including 23 children, were also injured when the shopping 
 
 ---
 
-### 7. Mexico Governor Ruben Rocha returns to office despite US criminal charges
+### 7. TikTok settles with US Justice Department for $400m over child privacy laws
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+TikTok and the US government settled to resolve allegations that the app violated children&#039;s online privacy laws.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss)
+
+---
+
+### 8. Mexico Governor Ruben Rocha returns to office despite US criminal charges
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The governor, who leads the state of Sinaloa, has been accused by the Trump admi
 
 ---
 
-### 8. One killed, three wounded in sword attack at Swedish high school
+### 9. One killed, three wounded in sword attack at Swedish high school
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The governor, who leads the state of Sinaloa, has been accused by the Trump admi
 One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss)
-
----
-
-### 9. Arsenal rout Coventry 3-0 to begin Premier League title defence in style
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Kai Havertz struck early, Bukayo Saka doubled the lead, before Martin Odegaard netted after the break.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss)
 
 ---
 
