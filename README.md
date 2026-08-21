@@ -1,62 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 23:13:36
+**Last Update:** 2026-08-22 00:03:10
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Scientists release biggest 2D map of the universe
+### 1. Quick impressions: A week of using Codex more than Claude
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Direct link to Legacy Survey Sky Viewer: <a href="https://viewer.legacysurvey.org" rel="nofollow">https://viewer.legacysurvey.org</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392200">https://news.ycombinator.com/item?id=49392200</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/">https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49393051">https://news.ycombinator.com/item?id=49393051</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+🔗 **Read more:** [https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
 
 ---
 
-### 2. Rebuilding our Electron meeting-recording engine in Swift
+### 2. Tumble Forth – from assembly to OS with C compiler
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391389">https://news.ycombinator.com/item?id=49391389</a></p>
-<p>Points: 33</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://tumbleforth.hardcoded.net/">https://tumbleforth.hardcoded.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392465">https://news.ycombinator.com/item?id=49392465</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
+🔗 **Read more:** [https://tumbleforth.hardcoded.net/](https://tumbleforth.hardcoded.net/)
 
 ---
 
-### 3. Galactic Compass 2: now with new augmented reality mode
+### 3. Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><i>Show HN: Galactic Compass – an app that points to the galactic center</i> - <a href="https://news.ycombinator.com/item?id=39389858">https://news.ycombinator.com/item?id=39389858</a> - Feb 2024 (60 comments)</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391348">https://news.ycombinator.com/item?id=49391348</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders">https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392331">https://news.ycombinator.com/item?id=49392331</a></p>
+<p>Points: 13</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://interconnected.org/home/2026/08/21/galactic](https://interconnected.org/home/2026/08/21/galactic)
+🔗 **Read more:** [https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 
 ---
 
@@ -99,42 +97,42 @@ The powerful natural climate phenomenon, that is developing over the Pacific Oce
 
 ---
 
-### 7. US court slashes Alex Jones fines for Sandy Hook school shooting case
+### 7. Pope Leo urges the world to ‘help begin reconstruction’ of Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Court cuts Infowars founder&#039;s penalty for false claims that school shooting was a &#039;hoax&#039; from $50m to $1.5m.
+Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss)
 
 ---
 
-### 8. Libya rivals test a new path towards unity, 15 years after Gadaffi downfall
+### 8. Bolivia’s President Rodrigo Paz fires economy minister amid unrest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.
+Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss)
 
 ---
 
-### 9. US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms
+### 9. Western allies slam Israel for ending World Central Kitchen strike probe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.
+UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shameful&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss)
 
 ---
 
