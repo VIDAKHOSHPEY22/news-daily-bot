@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 00:03:10
+**Last Update:** 2026-08-22 00:15:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/">https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49393051">https://news.ycombinator.com/item?id=49393051</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 19</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
 
 ---
 
-### 2. Tumble Forth – from assembly to OS with C compiler
+### 2. Church of the TigerBeetle: A Look at Tech Evangelism
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html">https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392877">https://news.ycombinator.com/item?id=49392877</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html](https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html)
+
+---
+
+### 3. Tumble Forth – from assembly to OS with C compiler
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://tumbleforth.hardcoded.net/">https://tumbleforth.hardcoded.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392465">https://news.ycombinator.com/item?id=49392465</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://tumbleforth.hardcoded.net/](https://tumbleforth.hardcoded.net/)
-
----
-
-### 3. Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders">https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392331">https://news.ycombinator.com/item?id=49392331</a></p>
-<p>Points: 13</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders](https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders)
 
 ---
 
