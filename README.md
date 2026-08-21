@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 22:33:24
+**Last Update:** 2026-08-21 23:01:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -20,7 +20,7 @@
 <p>Direct link to Legacy Survey Sky Viewer: <a href="https://viewer.legacysurvey.org" rel="nofollow">https://viewer.legacysurvey.org</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392200">https://news.ycombinator.com/item?id=49392200</a></p>
-<p>Points: 8</p>
+<p>Points: 27</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
@@ -36,8 +36,8 @@
 **Description:**
 <p>Article URL: <a href="https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391389">https://news.ycombinator.com/item?id=49391389</a></p>
-<p>Points: 26</p>
-<p># Comments: 2</p>
+<p>Points: 33</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
 
@@ -53,7 +53,7 @@
 <p><i>Show HN: Galactic Compass – an app that points to the galactic center</i> - <a href="https://news.ycombinator.com/item?id=39389858">https://news.ycombinator.com/item?id=39389858</a> - Feb 2024 (60 comments)</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391348">https://news.ycombinator.com/item?id=49391348</a></p>
-<p>Points: 7</p>
+<p>Points: 8</p>
 <p># Comments: 2</p>
 
 🔗 **Read more:** [https://interconnected.org/home/2026/08/21/galactic](https://interconnected.org/home/2026/08/21/galactic)
@@ -99,7 +99,33 @@ The powerful natural climate phenomenon, that is developing over the Pacific Oce
 
 ---
 
-### 7. Espanyol vs Real Madrid: La Liga – prediction, lineups, teams
+### 7. Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel&#039;s attacks on Global Sumud Flotilla activists.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss)
+
+---
+
+### 8. Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss)
+
+---
+
+### 9. Espanyol vs Real Madrid: La Liga – prediction, lineups, teams
 
 **Source:** Al Jazeera
 
@@ -109,32 +135,6 @@ The powerful natural climate phenomenon, that is developing over the Pacific Oce
 Real Madrid kickoff their campaign at Espanyol in Barcelona as Jose Mourinho&#039;s targets winning La Liga return.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss)
-
----
-
-### 8. Drone strike on Ukraine shopping centre kills six, injures 103
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing six people and injuring 103
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss)
-
----
-
-### 9. Former Pakistan PM Imran Khan taken back to prison after hospital check-up
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss)
 
 ---
 
