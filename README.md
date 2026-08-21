@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 05:32:36
+**Last Update:** 2026-08-21 06:40:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. It is a sign of the times that Amazon gets to call this fair use
+### 1. Artificial Intelligence Policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html">http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382200">https://news.ycombinator.com/item?id=49382200</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/">https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382614">https://news.ycombinator.com/item?id=49382614</a></p>
+<p>Points: 21</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
+🔗 **Read more:** [https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382152">https://news.ycombinator.com/item?id=49382152</a></p>
-<p>Points: 19</p>
-<p># Comments: 13</p>
+<p>Points: 30</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
 
@@ -51,40 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://mathstodon.xyz/@maxpool/117128107757895678">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382041">https://news.ycombinator.com/item?id=49382041</a></p>
-<p>Points: 87</p>
-<p># Comments: 72</p>
+<p>Points: 143</p>
+<p># Comments: 132</p>
 
 🔗 **Read more:** [https://mathstodon.xyz/@maxpool/117128107757895678](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
-### 4. Harry and Meghan's return to UK reignites questions over security
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Watch: What does Harry's return mean for his fractured relationship with William?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The brothers have had a fractured relationship for a number of years.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. El Niño climate event set to be 'strongest in living memory', says Met Office
+### 4. El Niño weather system set to be 'strongest in living memory', warns Met Office
 
 **Source:** BBC
 
@@ -97,7 +71,59 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 7. Brazil launches AI supercomputer push while balancing US and Chinese tech
+### 5. Meghan could return to acting once back in UK
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. What happened to Harry and Meghan's American dream?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Pakistan’s Imran Khan moved to hospital after Supreme Court order
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pakistan’s former Prime Minister Imran Khan has been moved to a private hospital for medical treatment.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss)
+
+---
+
+### 8. After GERD, can Egypt shape Ethiopia’s next Nile dams?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss)
+
+---
+
+### 9. Brazil launches AI supercomputer push while balancing US and Chinese tech
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss)
-
----
-
-### 8. Panama Canal to limit shipping ahead of extreme weather during El Nino
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss)
-
----
-
-### 9. Antigovernment protesters take to Tunisia’s streets for second month
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss)
 
 ---
 
