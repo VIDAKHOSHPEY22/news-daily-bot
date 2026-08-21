@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 19:11:09
+**Last Update:** 2026-08-21 19:24:44
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. c100
+### 1. The B-right/V R2 Operating System
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://tronweb.super-nova.co.jp/b-right-vr2intro.html">http://tronweb.super-nova.co.jp/b-right-vr2intro.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389491">https://news.ycombinator.com/item?id=49389491</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [http://tronweb.super-nova.co.jp/b-right-vr2intro.html](http://tronweb.super-nova.co.jp/b-right-vr2intro.html)
+
+---
+
+### 2. Show HN: A desktop fly drawn to the scent of vibecode
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>It is a fork of <a href="https://github.com/DenisSergeevitch/desktop-fly" rel="nofollow">https://github.com/DenisSergeevitch/desktop-fly</a>, but with an important update.<p>Now the fly can pick up the scent of the codebase with its neurons and fly straight to the source code of your B2B AI SaaS startup. It has learned to scan its surroundings for agent markers: AGENTS.md, CLAUDE.md, .cursor/rules, .kiro/steering, and forty others. Anything on the screen that points to these markers becomes a source of the scent - an editor window with an open project, a line in Finder, or a desktop icon. An open project reeks the strongest, while a closed icon or nested folders give off a fainter odor.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389466">https://news.ycombinator.com/item?id=49389466</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/kulikov0/desktop-vibe-fly](https://github.com/kulikov0/desktop-vibe-fly)
+
+---
+
+### 3. c100
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://caligra.com/c100/">https://caligra.com/c100/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389392">https://news.ycombinator.com/item?id=49389392</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://caligra.com/c100/](https://caligra.com/c100/)
-
----
-
-### 2. Claudette: Make Claude Stop Talking Like a BuzzFeed Article
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/adnanakil/nobuzz/blob/main/README.md">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388752">https://news.ycombinator.com/item?id=49388752</a></p>
-<p>Points: 33</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://github.com/adnanakil/nobuzz/blob/main/README.md](https://github.com/adnanakil/nobuzz/blob/main/README.md)
-
----
-
-### 3. What We Lost When Search Stopped Making Us Think
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.8ball.space/what-we-lost-when-search/">https://blog.8ball.space/what-we-lost-when-search/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388446">https://news.ycombinator.com/item?id=49388446</a></p>
-<p>Points: 30</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://blog.8ball.space/what-we-lost-when-search/](https://blog.8ball.space/what-we-lost-when-search/)
 
 ---
 
@@ -97,7 +98,20 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Russian expert warns of impending social crisis as Ukraine death toll rises
+### 7. Argentina’s Parades gets 10-game ban for World Cup final scuffle with Spain
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss)
+
+---
+
+### 8. Russian expert warns of impending social crisis as Ukraine death toll rises
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ Putin&#039;s forces continue to bring horror to Ukrainian civilians as Kyiv dest
 
 ---
 
-### 8. Iraq’s solar villages show how to build an energy transition that lasts
+### 9. Iraq’s solar villages show how to build an energy transition that lasts
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ Putin&#039;s forces continue to bring horror to Ukrainian civilians as Kyiv dest
 Decentralised power can give communities the means to sustain themselves rather than wait for change to come from above.
 
 🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss)
-
----
-
-### 9. Fury says fight with Joshua looks unlikely with venue yet to be agreed
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss)
 
 ---
 
