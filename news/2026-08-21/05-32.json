@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T05:32:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "It is a sign of the times that Amazon gets to call this fair use",
+            "description": "<p>Article URL: <a href=\"http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html\">http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382200\">https://news.ycombinator.com/item?id=49382200</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+            "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+            "published": "Fri, 21 Aug 2026 00:34:32 +0000",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There's no such thing as a small software team anymore",
+            "description": "<p>Article URL: <a href=\"https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382152\">https://news.ycombinator.com/item?id=49382152</a></p>\n<p>Points: 19</p>\n<p># Comments: 13</p>",
+            "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+            "published": "Fri, 21 Aug 2026 00:28:37 +0000",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Copyright does not protect AI-generated content in EU",
+            "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@maxpool/117128107757895678\">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382041\">https://news.ycombinator.com/item?id=49382041</a></p>\n<p>Points: 87</p>\n<p># Comments: 72</p>",
+            "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+            "published": "Fri, 21 Aug 2026 00:15:12 +0000",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's return to UK reignites questions over security",
+            "description": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
+            "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 18:12:59 GMT",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+            "description": "The brothers have had a fractured relationship for a number of years.",
+            "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:54:51 GMT",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "El Niño climate event set to be 'strongest in living memory', says Met Office",
+            "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+            "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 00:33:21 GMT",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+            "description": "The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.",
+            "url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 01:38:37 +0000",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
+            "description": "The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 01:12:02 +0000",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Antigovernment protesters take to Tunisia’s streets for second month",
+            "description": "Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 01:06:30 +0000",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T05:32:36+03:30"
+        }
+    ]
+}

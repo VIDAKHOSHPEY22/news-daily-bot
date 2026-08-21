@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 05:19:26
+**Last Update:** 2026-08-21 05:32:36
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html">http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382200">https://news.ycombinator.com/item?id=49382200</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html](http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://mathstodon.xyz/@maxpool/117128107757895678">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382041">https://news.ycombinator.com/item?id=49382041</a></p>
-<p>Points: 80</p>
-<p># Comments: 68</p>
+<p>Points: 87</p>
+<p># Comments: 72</p>
 
 🔗 **Read more:** [https://mathstodon.xyz/@maxpool/117128107757895678](https://mathstodon.xyz/@maxpool/117128107757895678)
 
@@ -84,7 +84,7 @@ The brothers have had a fractured relationship for a number of years.
 
 ---
 
-### 6. El Niño weather event set to be 'strongest in living memory', says Met Office
+### 6. El Niño climate event set to be 'strongest in living memory', says Met Office
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 7. Panama Canal to limit shipping ahead of extreme weather during El Nino
+### 7. Brazil launches AI supercomputer push while balancing US and Chinese tech
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss)
+
+---
+
+### 8. Panama Canal to limit shipping ahead of extreme weather during El Nino
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The El Nino weather phenomenon is expected to increase the likelihood of drought
 
 ---
 
-### 8. Antigovernment protesters take to Tunisia’s streets for second month
+### 9. Antigovernment protesters take to Tunisia’s streets for second month
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The El Nino weather phenomenon is expected to increase the likelihood of drought
 Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss)
-
----
-
-### 9. Taliban release two detained UN staff members in Afghanistan
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The two men, detained in the western city of Herat on August 9, were released on Thursday morning.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss)
 
 ---
 
