@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T23:13:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Scientists release biggest 2D map of the universe",
+            "description": "<p>Direct link to Legacy Survey Sky Viewer: <a href=\"https://viewer.legacysurvey.org\" rel=\"nofollow\">https://viewer.legacysurvey.org</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392200\">https://news.ycombinator.com/item?id=49392200</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+            "published": "Fri, 21 Aug 2026 18:36:34 +0000",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rebuilding our Electron meeting-recording engine in Swift",
+            "description": "<p>Article URL: <a href=\"https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift\">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391389\">https://news.ycombinator.com/item?id=49391389</a></p>\n<p>Points: 33</p>\n<p># Comments: 6</p>",
+            "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+            "published": "Fri, 21 Aug 2026 17:33:26 +0000",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Galactic Compass 2: now with new augmented reality mode",
+            "description": "<p><i>Show HN: Galactic Compass – an app that points to the galactic center</i> - <a href=\"https://news.ycombinator.com/item?id=39389858\">https://news.ycombinator.com/item?id=39389858</a> - Feb 2024 (60 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391348\">https://news.ycombinator.com/item?id=49391348</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://interconnected.org/home/2026/08/21/galactic",
+            "published": "Fri, 21 Aug 2026 17:30:38 +0000",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+            "description": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
+            "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 17:18:41 GMT",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+            "description": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
+            "url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 18:29:31 GMT",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How 'strongest' El Niño could affect weather around the world",
+            "description": "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.",
+            "url": "https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 15:33:28 GMT",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
+            "description": "Court cuts Infowars founder&#039;s penalty for false claims that school shooting was a &#039;hoax&#039; from $50m to $1.5m.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 19:29:20 +0000",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
+            "description": "Fifteen years since Tripoli fell, Libyan parties are finally working towards unity.",
+            "url": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 19:21:08 +0000",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
+            "description": "Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.",
+            "url": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 19:20:17 +0000",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T23:13:36+03:30"
+        }
+    ]
+}
