@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 18:29:09
+**Last Update:** 2026-08-21 19:11:09
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claudette: Make Claude Stop Talking Like a BuzzFeed Article
+### 1. c100
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://caligra.com/c100/">https://caligra.com/c100/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389392">https://news.ycombinator.com/item?id=49389392</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://caligra.com/c100/](https://caligra.com/c100/)
+
+---
+
+### 2. Claudette: Make Claude Stop Talking Like a BuzzFeed Article
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/adnanakil/nobuzz/blob/main/README.md">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388752">https://news.ycombinator.com/item?id=49388752</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 33</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://github.com/adnanakil/nobuzz/blob/main/README.md](https://github.com/adnanakil/nobuzz/blob/main/README.md)
 
 ---
 
-### 2. What We Lost When Search Stopped Making Us Think
+### 3. What We Lost When Search Stopped Making Us Think
 
 **Source:** Hacker News
 
@@ -35,52 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://blog.8ball.space/what-we-lost-when-search/">https://blog.8ball.space/what-we-lost-when-search/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388446">https://news.ycombinator.com/item?id=49388446</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Points: 30</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://blog.8ball.space/what-we-lost-when-search/](https://blog.8ball.space/what-we-lost-when-search/)
 
 ---
 
-### 3. Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/">https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388288">https://news.ycombinator.com/item?id=49388288</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/](https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/)
-
----
-
-### 4. Prince Harry and six others ordered to pay initial £9.5m to Daily Mail publisher
+### 4. Prince Harry and six others face privacy case legal bill of up to £34.5m
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The seven claimants, who include Sir Elton John and Liz Hurley, could potentially have to pay up to £25m more after losing their High Court privacy case.
+The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. El Niño warming set to be 'strongest in living memory', warns Met Office
+### 5. Watch: How 'strongest' El Niño could affect world weather
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Scientists say the "unprecedented event" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.
+The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,33 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Fury says fight with Joshua looks unlikely with venue yet to be agreed
+### 7. Russian expert warns of impending social crisis as Ukraine death toll rises
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Putin&#039;s forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss)
+
+---
+
+### 8. Iraq’s solar villages show how to build an energy transition that lasts
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Decentralised power can give communities the means to sustain themselves rather than wait for change to come from above.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss)
+
+---
+
+### 9. Fury says fight with Joshua looks unlikely with venue yet to be agreed
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The advice also applies to the over-65s and others with underlying medical condi
 The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss)
-
----
-
-### 8. Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Enzo Maresca replaced Pep Guardiola between seasons but says Man City may need patience before more trophies arrive.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss)
-
----
-
-### 9. Djibouti Football Federation accused of misusing funds from FIFA
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-FIFA and CAF provides more than $1m a year to Djibouti&#039;s federation, which faces corruption allegations over misuse.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss)
 
 ---
 
