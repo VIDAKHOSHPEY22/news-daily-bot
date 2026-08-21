@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T16:32:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Felony charges for citizen deleting phone data at US Border",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html\">https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386895\">https://news.ycombinator.com/item?id=49386895</a></p>\n<p>Points: 19</p>\n<p># Comments: 14</p>",
+            "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+            "published": "Fri, 21 Aug 2026 12:10:13 +0000",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+            "description": "<p>Article URL: <a href=\"https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering\">https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386659\">https://news.ycombinator.com/item?id=49386659</a></p>\n<p>Points: 35</p>\n<p># Comments: 11</p>",
+            "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+            "published": "Fri, 21 Aug 2026 11:43:38 +0000",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kino: A high-performance Ractor web server for Ruby 4.0",
+            "description": "<p>Article URL: <a href=\"https://github.com/yaroslav/kino\">https://github.com/yaroslav/kino</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386383\">https://news.ycombinator.com/item?id=49386383</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/yaroslav/kino",
+            "published": "Fri, 21 Aug 2026 11:06:25 +0000",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
+            "description": "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.",
+            "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 10:37:15 GMT",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan could return to acting once back in UK",
+            "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 10:17:01 GMT",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
+            "description": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 12:01:52 GMT",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US allies in Asia wary as Trump moves military assets for Iran war",
+            "description": "Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 12:32:03 +0000",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Humanoid crashes during speed test as China’s robotics industry grows",
+            "description": "Humanoid crashes during speed test as China’s robotics industry grows",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 12:25:04 +0000",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Six-year-old child dies after being slapped by teacher in India",
+            "description": "A six-year-old child has collapsed and died after being slapped by his teacher in India.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/six-year-old-child-dies-after-being-slapped-by-teacher-in-india?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 12:17:21 +0000",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T16:32:30+03:30"
+        }
+    ]
+}

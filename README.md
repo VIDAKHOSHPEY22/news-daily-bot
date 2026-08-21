@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 15:18:12
+**Last Update:** 2026-08-21 16:32:30
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. DeepSeek-v4-flash-vision-exp
+### 1. Felony charges for citizen deleting phone data at US Border
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://api-docs.deepseek.com/guides/vision/">https://api-docs.deepseek.com/guides/vision/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386163">https://news.ycombinator.com/item?id=49386163</a></p>
-<p>Points: 110</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://api-docs.deepseek.com/guides/vision/](https://api-docs.deepseek.com/guides/vision/)
-
----
-
-### 2. AI companies destroy physical books – let's scan rare books before it's too late
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://annas-archive.pk/blog/physical-destruction.html">https://annas-archive.pk/blog/physical-destruction.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385994">https://news.ycombinator.com/item?id=49385994</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://annas-archive.pk/blog/physical-destruction.html](https://annas-archive.pk/blog/physical-destruction.html)
-
----
-
-### 3. Small, native web tricks worth remembering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://htmlcat.net/">https://htmlcat.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385860">https://news.ycombinator.com/item?id=49385860</a></p>
-<p>Points: 54</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html">https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386895">https://news.ycombinator.com/item?id=49386895</a></p>
+<p>Points: 19</p>
 <p># Comments: 14</p>
 
-🔗 **Read more:** [https://htmlcat.net/](https://htmlcat.net/)
+🔗 **Read more:** [https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+
+---
+
+### 2. TigerBeetle Core System Architecture: Deconstructing Performance Engineering
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering">https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386659">https://news.ycombinator.com/item?id=49386659</a></p>
+<p>Points: 35</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
+
+---
+
+### 3. Kino: A high-performance Ractor web server for Ruby 4.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/yaroslav/kino">https://github.com/yaroslav/kino</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386383">https://news.ycombinator.com/item?id=49386383</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/yaroslav/kino](https://github.com/yaroslav/kino)
 
 ---
 
@@ -84,55 +84,55 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 6. My life was changed by a terror attack - now survivors like me won't be forgotten
+### 6. Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.
+The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Closure of al-Makha port leaves workers and traders fearing for the future
+### 7. US allies in Asia wary as Trump moves military assets for Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.
+Allies worry about the US ability to deter China, even if the bulk of US forces remain in the region.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss)
 
 ---
 
-### 8. Who does the law serve in the occupied West Bank?
+### 8. Humanoid crashes during speed test as China’s robotics industry grows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.
+Humanoid crashes during speed test as China’s robotics industry grows
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/humanoid-crashes-during-speed-test-as-chinas-robotics-industry-grows?traffic_source=rss)
 
 ---
 
-### 9. Charter plane crash near Alaskan military site kills 8
+### 9. Six-year-old child dies after being slapped by teacher in India
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescuers who landed near the crash site &#039;confirmed there were no survivors&#039;.
+A six-year-old child has collapsed and died after being slapped by his teacher in India.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/six-year-old-child-dies-after-being-slapped-by-teacher-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/six-year-old-child-dies-after-being-slapped-by-teacher-in-india?traffic_source=rss)
 
 ---
 
