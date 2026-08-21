@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T15:18:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek-v4-flash-vision-exp",
+            "description": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/vision/\">https://api-docs.deepseek.com/guides/vision/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386163\">https://news.ycombinator.com/item?id=49386163</a></p>\n<p>Points: 110</p>\n<p># Comments: 19</p>",
+            "url": "https://api-docs.deepseek.com/guides/vision/",
+            "published": "Fri, 21 Aug 2026 10:33:56 +0000",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+            "description": "<p>Article URL: <a href=\"https://annas-archive.pk/blog/physical-destruction.html\">https://annas-archive.pk/blog/physical-destruction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49385994\">https://news.ycombinator.com/item?id=49385994</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://annas-archive.pk/blog/physical-destruction.html",
+            "published": "Fri, 21 Aug 2026 10:05:46 +0000",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Small, native web tricks worth remembering",
+            "description": "<p>Article URL: <a href=\"https://htmlcat.net/\">https://htmlcat.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49385860\">https://news.ycombinator.com/item?id=49385860</a></p>\n<p>Points: 54</p>\n<p># Comments: 14</p>",
+            "url": "https://htmlcat.net/",
+            "published": "Fri, 21 Aug 2026 09:45:14 +0000",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
+            "description": "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.",
+            "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 10:37:15 GMT",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan could return to acting once back in UK",
+            "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 10:17:01 GMT",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
+            "description": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.",
+            "url": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 00:11:18 GMT",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Closure of al-Makha port leaves workers and traders fearing for the future",
+            "description": "Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.",
+            "url": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 11:15:54 +0000",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who does the law serve in the occupied West Bank?",
+            "description": "Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 11:12:32 +0000",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Charter plane crash near Alaskan military site kills 8",
+            "description": "Rescuers who landed near the crash site &#039;confirmed there were no survivors&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 10:59:50 +0000",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T15:18:12+03:30"
+        }
+    ]
+}
