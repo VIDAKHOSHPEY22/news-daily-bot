@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 13:26:42
+**Last Update:** 2026-08-21 14:07:25
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Emacs 31.1 will release on 8/24
+### 1. Small, native web tricks worth remembering
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://htmlcat.net/">https://htmlcat.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385860">https://news.ycombinator.com/item?id=49385860</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://htmlcat.net/](https://htmlcat.net/)
+
+---
+
+### 2. Emacs 31.1 will release on 8/24
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY">https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385296">https://news.ycombinator.com/item?id=49385296</a></p>
-<p>Points: 21</p>
-<p># Comments: 2</p>
+<p>Points: 29</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
 
 ---
 
-### 2. The Lost Treasure of Sid Meier's Pirates
+### 3. Better Batteries
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384896">https://news.ycombinator.com/item?id=49384896</a></p>
-<p>Points: 69</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://matklad.github.io/2026/08/20/better-batteries.html">https://matklad.github.io/2026/08/20/better-batteries.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385068">https://news.ycombinator.com/item?id=49385068</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
-
----
-
-### 3. We Rebuilt the Linux MicroVM Stack on Apple Silicon
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://encore.dev/blog/firecracker-apple-silicon">https://encore.dev/blog/firecracker-apple-silicon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384716">https://news.ycombinator.com/item?id=49384716</a></p>
-<p>Points: 60</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://encore.dev/blog/firecracker-apple-silicon](https://encore.dev/blog/firecracker-apple-silicon)
+🔗 **Read more:** [https://matklad.github.io/2026/08/20/better-batteries.html](https://matklad.github.io/2026/08/20/better-batteries.html)
 
 ---
 
@@ -84,55 +84,55 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 6. Will Harry's return heal deep-rooted rift with William?
+### 6. My life was changed by a terror attack - now survivors like me won't be forgotten
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.
+The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Swiatek into Cincinnati semis after Rybakina injury
+### 7. Philippines floods fuel anger over alleged corruption
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Elena Rybakina&#039;s Cincinnati withdrawal raises concerns over the fitness of the world number two ahead of US Open.
+Weeks of monsoon rain have flooded northern Philippines, where residents are demanding answers over alleged corruption.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss)
 
 ---
 
-### 8. Australia charges man for passing Ukrainian military intel to Russia
+### 8. Cyclist Josh Tarling to compete in Tour of Spain after brother’s death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.
+Josh Tarling returns to cycling in Spain a week after brother Finlay dies during Tour of Portugal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss)
 
 ---
 
-### 9. Sudan’s displacement crisis deepens as violence escalates
+### 9. Torrential rain floods New York City’s streets and subway
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sudan’s displacement crisis deepens as violence escalates
+Torrential rainfall had led to flash flooding in parts of New York City.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss)
 
 ---
 
