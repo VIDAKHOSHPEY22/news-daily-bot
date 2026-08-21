@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 12:33:58
+**Last Update:** 2026-08-21 13:14:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Lost Treasure of Sid Meier's Pirates
+### 1. Emacs 31.1 will release on 8/24
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY">https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49385296">https://news.ycombinator.com/item?id=49385296</a></p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY](https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY)
+
+---
+
+### 2. The Lost Treasure of Sid Meier's Pirates
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384896">https://news.ycombinator.com/item?id=49384896</a></p>
-<p>Points: 42</p>
-<p># Comments: 10</p>
+<p>Points: 69</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 
 ---
 
-### 2. We Rebuilt the Linux MicroVM Stack on Apple Silicon
+### 3. We Rebuilt the Linux MicroVM Stack on Apple Silicon
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://encore.dev/blog/firecracker-apple-silicon">https://encore.dev/blog/firecracker-apple-silicon</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384716">https://news.ycombinator.com/item?id=49384716</a></p>
-<p>Points: 37</p>
-<p># Comments: 6</p>
+<p>Points: 60</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://encore.dev/blog/firecracker-apple-silicon](https://encore.dev/blog/firecracker-apple-silicon)
-
----
-
-### 3. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://Argentic.network">https://Argentic.network</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384477">https://news.ycombinator.com/item?id=49384477</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://Argentic.network](https://Argentic.network)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Scientists say the growing El Niño weather pattern is an "unprecedented event" and means 2027 is likely to be the world's hottest year on record.
+Scientists say the "unprecedented event" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.
 
 🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 
 ---
 
-### 7. Bangladesh expect ‘harder’ Australia challenge in second Test, says coach
+### 7. Swiatek into Cincinnati semis after Rybakina injury
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.
+Elena Rybakina&#039;s Cincinnati withdrawal raises concerns over the fitness of the world number two ahead of US Open.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss)
 
 ---
 
-### 8. Israeli settlers set fire to Palestinian home while family asleep
+### 8. Australia charges man for passing Ukrainian military intel to Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.
+Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss)
 
 ---
 
-### 9. Europe, Canada condemn Israeli plans for new West Bank settlement
+### 9. Sudan’s displacement crisis deepens as violence escalates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.
+Sudan’s displacement crisis deepens as violence escalates
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss)
 
 ---
 
