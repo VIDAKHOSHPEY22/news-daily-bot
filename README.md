@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 03:01:04
+**Last Update:** 2026-08-22 03:13:48
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -30,30 +30,14 @@
 Bubs.co</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394827">https://news.ycombinator.com/item?id=49394827</a></p>
-<p>Points: 4</p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://ozbrain.com](https://ozbrain.com)
 
 ---
 
-### 2. I own 28,000 books – here's what I've learned
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.shelvd.org/blog/28000-books">https://www.shelvd.org/blog/28000-books</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394759">https://news.ycombinator.com/item?id=49394759</a></p>
-<p>Points: 20</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.shelvd.org/blog/28000-books](https://www.shelvd.org/blog/28000-books)
-
----
-
-### 3. Three important steps in my maturation process
+### 2. Three important steps in my maturation process
 
 **Source:** Hacker News
 
@@ -62,10 +46,26 @@ Bubs.co</p>
 **Description:**
 <p>Article URL: <a href="https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/">https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394496">https://news.ycombinator.com/item?id=49394496</a></p>
-<p>Points: 3</p>
+<p>Points: 4</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+
+---
+
+### 3. 'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e">https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49394373">https://news.ycombinator.com/item?id=49394373</a></p>
+<p>Points: 26</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e](https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e)
 
 ---
 
