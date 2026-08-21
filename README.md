@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 21:21:39
+**Last Update:** 2026-08-21 22:18:19
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,42 +19,43 @@
 **Description:**
 <p>Article URL: <a href="https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift">https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391389">https://news.ycombinator.com/item?id=49391389</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift](https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift)
 
 ---
 
-### 2. LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers
+### 2. When the shortage is the strategy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6">https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390910">https://news.ycombinator.com/item?id=49390910</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://nooneshappy.com/article/when-the-shortage-is-the-strategy/">https://nooneshappy.com/article/when-the-shortage-is-the-strategy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391358">https://news.ycombinator.com/item?id=49391358</a></p>
+<p>Points: 25</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6)
+🔗 **Read more:** [https://nooneshappy.com/article/when-the-shortage-is-the-strategy/](https://nooneshappy.com/article/when-the-shortage-is-the-strategy/)
 
 ---
 
-### 3. Another Better Lower Bound for N=17 Square Packing
+### 3. Galactic Compass 2: now with new augmented reality mode
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html">http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390775">https://news.ycombinator.com/item?id=49390775</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p><i>Show HN: Galactic Compass – an app that points to the galactic center</i> - <a href="https://news.ycombinator.com/item?id=39389858">https://news.ycombinator.com/item?id=39389858</a> - Feb 2024 (60 comments)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49391348">https://news.ycombinator.com/item?id=49391348</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html](http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html)
+🔗 **Read more:** [https://interconnected.org/home/2026/08/21/galactic](https://interconnected.org/home/2026/08/21/galactic)
 
 ---
 
@@ -71,20 +72,7 @@ The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the 
 
 ---
 
-### 5. Watch: How 'strongest' El Niño could affect weather around the world
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Meghan in talks for role in Netflix series The Gentlemen, BBC understands
+### 5. Meghan in talks for role in Netflix series The Gentlemen, BBC understands
 
 **Source:** BBC
 
@@ -97,42 +85,55 @@ This would be Meghan's first significant acting role since her marriage to Princ
 
 ---
 
-### 7. Why Iran is threatening Europe’s ‘strategically important’ southeast
+### 6. Watch: How 'strongest' El Niño could affect weather around the world
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?
+The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Israeli army, settlers kill 2 Palestinians in separate West Bank incidents
+### 7. Espanyol vs Real Madrid: La Liga – prediction, lineups, teams
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.
+Real Madrid kickoff their campaign at Espanyol in Barcelona as Jose Mourinho&#039;s targets winning La Liga return.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss)
 
 ---
 
-### 9. Migrants clash with French police as they attempt to cross the Channel
+### 8. Drone strike on Ukraine shopping centre kills six, injures 103
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.
+A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing six people and injuring 103
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss)
+
+---
+
+### 9. Former Pakistan PM Imran Khan taken back to prison after hospital check-up
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss)
 
 ---
 
