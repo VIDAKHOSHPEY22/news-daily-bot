@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 01:01:36
+**Last Update:** 2026-08-22 01:14:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/">https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49393051">https://news.ycombinator.com/item?id=49393051</a></p>
-<p>Points: 45</p>
-<p># Comments: 46</p>
+<p>Points: 49</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://tumbleforth.hardcoded.net/">https://tumbleforth.hardcoded.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392465">https://news.ycombinator.com/item?id=49392465</a></p>
-<p>Points: 17</p>
+<p>Points: 26</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://tumbleforth.hardcoded.net/](https://tumbleforth.hardcoded.net/)
@@ -97,42 +97,42 @@ At least 130 people, including 23 children, were also injured when the shopping 
 
 ---
 
-### 7. Tunisian protesters call for President Kais Saied to step down
+### 7. One killed, three wounded in sword attack at Swedish high school
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.
+One person has been killed and three others wounded in an attack by a sword-wielding man at a Swedish high school.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss)
 
 ---
 
-### 8. Can a humanitarian disaster be averted in Somalia?
+### 8. Arsenal rout Coventry 3-0 to begin Premier League title defence in style
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UN warns of another hunger crisis, with starvation threatening millions.
+Kai Havertz struck early, Bukayo Saka doubled the lead, before Martin Odegaard netted after the break.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/arsenal-rout-coventry-3-0-to-begin-premier-league-title-defence-in-style?traffic_source=rss)
 
 ---
 
-### 9. Pope Leo urges the world to ‘help begin reconstruction’ of Gaza
+### 9. Global Sumud Flotilla joins Albania’s anti-resort protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.
+Three boats from the Global Sumud Flotilla arrived in Albania’s Vlore on Friday to support the “Flamingo Revolution&quot;
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/global-sumud-flotilla-joins-albanias-anti-resort-protest?traffic_source=rss)
 
 ---
 
