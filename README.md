@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 00:15:10
+**Last Update:** 2026-08-22 01:01:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Quick impressions: A week of using Codex more than Claude
+### 1. SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer">https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49393733">https://news.ycombinator.com/item?id=49393733</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer)
+
+---
+
+### 2. Quick impressions: A week of using Codex more than Claude
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/">https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49393051">https://news.ycombinator.com/item?id=49393051</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
+<p>Points: 45</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/](https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/)
-
----
-
-### 2. Church of the TigerBeetle: A Look at Tech Evangelism
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html">https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392877">https://news.ycombinator.com/item?id=49392877</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html](https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://tumbleforth.hardcoded.net/">https://tumbleforth.hardcoded.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49392465">https://news.ycombinator.com/item?id=49392465</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://tumbleforth.hardcoded.net/](https://tumbleforth.hardcoded.net/)
 
@@ -71,33 +71,59 @@ The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the 
 
 ---
 
-### 5. Meghan in talks for role in Netflix series The Gentlemen, BBC understands
+### 5. Girl, 6, dies days after Shoreham sea tragedy killed three family members
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-This would be Meghan's first significant acting role since her marriage to Prince Harry.
+She is the fourth person to die after her family got into difficulty in water in Shoreham.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: How 'strongest' El Niño could affect weather around the world
+### 6. Russian double-tap drone strike kills 15 in Ukrainian mall, officials say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned.
+At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crl7ge7j3zwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Pope Leo urges the world to ‘help begin reconstruction’ of Gaza
+### 7. Tunisian protesters call for President Kais Saied to step down
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds of Tunisians took to the streets of the capital Tunis on Thursday, calling for president Kais Saied to leave.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss)
+
+---
+
+### 8. Can a humanitarian disaster be averted in Somalia?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The UN warns of another hunger crisis, with starvation threatening millions.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss)
+
+---
+
+### 9. Pope Leo urges the world to ‘help begin reconstruction’ of Gaza
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The powerful natural climate phenomenon, that is developing over the Pacific Oce
 Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss)
-
----
-
-### 8. Bolivia’s President Rodrigo Paz fires economy minister amid unrest
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss)
-
----
-
-### 9. Western allies slam Israel for ending World Central Kitchen strike probe
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shameful&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss)
 
 ---
 
