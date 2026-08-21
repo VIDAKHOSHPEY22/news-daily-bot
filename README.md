@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 10:43:54
+**Last Update:** 2026-08-21 11:22:25
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. The Religious Experience of Philip K. Dick by R. Crumb (1986)
+### 1. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://Argentic.network">https://Argentic.network</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384477">https://news.ycombinator.com/item?id=49384477</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://Argentic.network](https://Argentic.network)
+
+---
+
+### 2. The Religious Experience of Philip K. Dick by R. Crumb (1986)
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384224">https://news.ycombinator.com/item?id=49384224</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
 
 ---
 
-### 2. Japan tried to build an operating system for the world, the US intervened
+### 3. Stop Making TUIs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/">https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384180">https://news.ycombinator.com/item?id=49384180</a></p>
-<p>Points: 45</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/">https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384210">https://news.ycombinator.com/item?id=49384210</a></p>
+<p>Points: 26</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/)
-
----
-
-### 3. Codex on AWS bedrock bug causing 10x charges
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/openai/codex/issues/37674">https://github.com/openai/codex/issues/37674</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383326">https://news.ycombinator.com/item?id=49383326</a></p>
-<p>Points: 101</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://github.com/openai/codex/issues/37674](https://github.com/openai/codex/issues/37674)
+🔗 **Read more:** [https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 
 ---
 
@@ -71,20 +71,7 @@ Scientists say the growing El Niño weather pattern is an "unprecedented event" 
 
 ---
 
-### 5. Will Harry's return heal deep-rooted rift with William?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Meghan could return to acting once back in UK
+### 5. Meghan could return to acting once back in UK
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Sources close to the Sussexes have not denied reports that Meghan has been offer
 
 ---
 
-### 7. Dozens of migrants land on Spanish coast surprising beachgoers
+### 6. Will Harry's return heal deep-rooted rift with William?
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Footage circulating on social media shows dozens of migrants arriving by boat on Spain’s southeastern coast.
+The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Hong Kong Tiananmen activists found guilty of national security charges
+### 7. Australian Hussey open to Ashes Test role as England make approach
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Activist group says the &#039;twisted&#039; Hong Kong judicial system had long ago decided that the pair were guilty.
+Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England&#039;s new red-ball coach.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss)
 
 ---
 
-### 9. Pakistan’s Imran Khan back to prison after evaluation at hospital
+### 8. Dr TikTok: Mental health moves from consulting rooms to social media
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.
+Social media fosters empathy and awareness, but cannot replace evidence-based treatment or formal psychological care.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss](https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss)
+
+---
+
+### 9. ‘Very unusual’: UK Palestine activists could be sentenced as terrorists
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss)
 
 ---
 
