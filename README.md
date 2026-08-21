@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 06:40:40
+**Last Update:** 2026-08-21 06:56:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Artificial Intelligence Policy
+### 1. AI companies destroy physical books – let's scan rare books before it's too late
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://annas-archive.gl/blog/physical-destruction.html">https://annas-archive.gl/blog/physical-destruction.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49383026">https://news.ycombinator.com/item?id=49383026</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://annas-archive.gl/blog/physical-destruction.html](https://annas-archive.gl/blog/physical-destruction.html)
+
+---
+
+### 2. Orbital Construction Pioneers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://orbitalconstructionpioneers.com/">https://orbitalconstructionpioneers.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382809">https://news.ycombinator.com/item?id=49382809</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://orbitalconstructionpioneers.com/](https://orbitalconstructionpioneers.com/)
+
+---
+
+### 3. Artificial Intelligence Policy
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/">https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382614">https://news.ycombinator.com/item?id=49382614</a></p>
-<p>Points: 21</p>
-<p># Comments: 10</p>
+<p>Points: 22</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/](https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/)
-
----
-
-### 2. There's no such thing as a small software team anymore
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/">https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382152">https://news.ycombinator.com/item?id=49382152</a></p>
-<p>Points: 30</p>
-<p># Comments: 47</p>
-
-🔗 **Read more:** [https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/](https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/)
-
----
-
-### 3. Copyright does not protect AI-generated content in EU
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mathstodon.xyz/@maxpool/117128107757895678">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49382041">https://news.ycombinator.com/item?id=49382041</a></p>
-<p>Points: 143</p>
-<p># Comments: 132</p>
-
-🔗 **Read more:** [https://mathstodon.xyz/@maxpool/117128107757895678](https://mathstodon.xyz/@maxpool/117128107757895678)
 
 ---
 
