@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 20:12:19
+**Last Update:** 2026-08-21 20:27:07
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Omacom Foundation Launches with $8M
+### 1. A self hosted AI software factory
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/">https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390132">https://news.ycombinator.com/item?id=49390132</a></p>
-<p>Points: 35</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/](https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/)
-
----
-
-### 2. I Just Want to Search
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.0xsid.com/blog/just-want-to-search">https://www.0xsid.com/blog/just-want-to-search</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390099">https://news.ycombinator.com/item?id=49390099</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/">https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390463">https://news.ycombinator.com/item?id=49390463</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.0xsid.com/blog/just-want-to-search](https://www.0xsid.com/blog/just-want-to-search)
+🔗 **Read more:** [https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/](https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/)
 
 ---
 
-### 3. How We Made a Text-to-Speech Model Respond in Sub-50 ms
+### 2. What happens when a GPU reads memory
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/">https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49389952">https://news.ycombinator.com/item?id=49389952</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory">https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390308">https://news.ycombinator.com/item?id=49390308</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/](https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/)
+🔗 **Read more:** [https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory](https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory)
+
+---
+
+### 3. Three ways to smuggle SQLite into Nix
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix">https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49390286">https://news.ycombinator.com/item?id=49390286</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix](https://fzakaria.com/2026/08/19/three-ways-to-smuggle-sqlite-into-nix)
 
 ---
 
@@ -97,7 +97,20 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. What to know about the Freedom 250 Grand Prix, Trump’s capital car race
+### 7. Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss)
+
+---
+
+### 8. What to know about the Freedom 250 Grand Prix, Trump’s capital car race
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The president says the 147-lap race will be an event &#039;like no other&#039; a
 
 ---
 
-### 8. England thrash Pakistan by an innings and 103 runs in first Test
+### 9. England thrash Pakistan by an innings and 103 runs in first Test
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The president says the 147-lap race will be an event &#039;like no other&#039; a
 Joe Root&#039;s return as England captain results in a thumping win inside three days against Pakistan in first Test.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss)
-
----
-
-### 9. Arsenal vs Coventry LIVE: Premier League
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Follow updates from the opening match of the season - including the build-up, analysis and live text commentary.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss)
 
 ---
 
