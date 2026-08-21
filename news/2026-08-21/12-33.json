@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T12:33:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Lost Treasure of Sid Meier's Pirates",
+            "description": "<p>Article URL: <a href=\"https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/\">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384896\">https://news.ycombinator.com/item?id=49384896</a></p>\n<p>Points: 42</p>\n<p># Comments: 10</p>",
+            "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+            "published": "Fri, 21 Aug 2026 07:23:27 +0000",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+            "description": "<p>Article URL: <a href=\"https://encore.dev/blog/firecracker-apple-silicon\">https://encore.dev/blog/firecracker-apple-silicon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384716\">https://news.ycombinator.com/item?id=49384716</a></p>\n<p>Points: 37</p>\n<p># Comments: 6</p>",
+            "url": "https://encore.dev/blog/firecracker-apple-silicon",
+            "published": "Fri, 21 Aug 2026 06:59:40 +0000",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+            "description": "<p>Article URL: <a href=\"https://Argentic.network\">https://Argentic.network</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384477\">https://news.ycombinator.com/item?id=49384477</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
+            "url": "https://Argentic.network",
+            "published": "Fri, 21 Aug 2026 06:24:16 +0000",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
+            "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+            "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 07:43:30 GMT",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan could return to acting once back in UK",
+            "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 02:52:29 GMT",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will Harry's return heal deep-rooted rift with William?",
+            "description": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
+            "url": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 04:07:22 GMT",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh expect ‘harder’ Australia challenge in second Test, says coach",
+            "description": "After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.",
+            "url": "https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 08:34:06 +0000",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers set fire to Palestinian home while family asleep",
+            "description": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 07:58:41 +0000",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+            "description": "The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 07:56:21 +0000",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T12:33:58+03:30"
+        }
+    ]
+}
