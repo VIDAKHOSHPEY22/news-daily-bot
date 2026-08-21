@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-21T13:26:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Emacs 31.1 will release on 8/24",
+            "description": "<p>Article URL: <a href=\"https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY\">https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49385296\">https://news.ycombinator.com/item?id=49385296</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
+            "published": "Fri, 21 Aug 2026 08:19:48 +0000",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Lost Treasure of Sid Meier's Pirates",
+            "description": "<p>Article URL: <a href=\"https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/\">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384896\">https://news.ycombinator.com/item?id=49384896</a></p>\n<p>Points: 69</p>\n<p># Comments: 18</p>",
+            "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+            "published": "Fri, 21 Aug 2026 07:23:27 +0000",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+            "description": "<p>Article URL: <a href=\"https://encore.dev/blog/firecracker-apple-silicon\">https://encore.dev/blog/firecracker-apple-silicon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384716\">https://news.ycombinator.com/item?id=49384716</a></p>\n<p>Points: 60</p>\n<p># Comments: 29</p>",
+            "url": "https://encore.dev/blog/firecracker-apple-silicon",
+            "published": "Fri, 21 Aug 2026 06:59:40 +0000",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
+            "description": "Scientists say the \"unprecedented event\" will likely push up global temperatures in 2027 and put the UK at risk of a wetter, stormier autumn.",
+            "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 07:43:30 GMT",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan could return to acting once back in UK",
+            "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 09:48:00 GMT",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will Harry's return heal deep-rooted rift with William?",
+            "description": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers.",
+            "url": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 09:48:08 GMT",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swiatek into Cincinnati semis after Rybakina injury",
+            "description": "Elena Rybakina&#039;s Cincinnati withdrawal raises concerns over the fitness of the world number two ahead of US Open.",
+            "url": "https://www.aljazeera.com/sports/2026/8/21/swiatek-into-cincinnati-semis-after-rybakina-injury?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 09:11:55 +0000",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australia charges man for passing Ukrainian military intel to Russia",
+            "description": "Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 08:42:20 +0000",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan’s displacement crisis deepens as violence escalates",
+            "description": "Sudan’s displacement crisis deepens as violence escalates",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 08:41:13 +0000",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-21T13:26:42+03:30"
+        }
+    ]
+}
