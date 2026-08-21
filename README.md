@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 17:33:25
+**Last Update:** 2026-08-21 18:13:01
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle
+### 1. What We Lost When Search Stopped Making Us Think
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.18214">https://arxiv.org/abs/2608.18214</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49387856">https://news.ycombinator.com/item?id=49387856</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://blog.8ball.space/what-we-lost-when-search/">https://blog.8ball.space/what-we-lost-when-search/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388446">https://news.ycombinator.com/item?id=49388446</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.8ball.space/what-we-lost-when-search/](https://blog.8ball.space/what-we-lost-when-search/)
+
+---
+
+### 2. Olympian Jenny Simpson Says Her Running Career Is Over After Cardiac Arrest
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/">https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388288">https://news.ycombinator.com/item?id=49388288</a></p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.18214](https://arxiv.org/abs/2608.18214)
+🔗 **Read more:** [https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/](https://www.runnersworld.com/news/a73487839/jenny-simpson-running-cardiac-event-update/)
 
 ---
 
-### 2. Grand jury declines to indict Ohio man charged with destroying Flock camera
+### 3. Kagi added a setting for removing paywalled links from search results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/">https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49387497">https://news.ycombinator.com/item?id=49387497</a></p>
-<p>Points: 78</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://kagi.com/changelog#11296">https://kagi.com/changelog#11296</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49388154">https://news.ycombinator.com/item?id=49388154</a></p>
+<p>Points: 137</p>
+<p># Comments: 52</p>
 
-🔗 **Read more:** [https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/](https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/)
-
----
-
-### 3. I'm Becoming AI-Blind
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cymerys.com/w/im-becoming-ai-blind">https://cymerys.com/w/im-becoming-ai-blind</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49386699">https://news.ycombinator.com/item?id=49386699</a></p>
-<p>Points: 14</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://cymerys.com/w/im-becoming-ai-blind](https://cymerys.com/w/im-becoming-ai-blind)
+🔗 **Read more:** [https://kagi.com/changelog#11296](https://kagi.com/changelog#11296)
 
 ---
 
@@ -97,42 +97,42 @@ The advice also applies to the over-65s and others with underlying medical condi
 
 ---
 
-### 7. Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN
+### 7. Djibouti Football Federation accused of misusing funds from FIFA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities
+FIFA and CAF provides more than $1m a year to Djibouti&#039;s federation, which faces corruption allegations over misuse.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss)
 
 ---
 
-### 8. Liverpool preview: Five key questions heading into 2026-27 season
+### 8. War on Iran: The US could focus on economically isolating Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Liverpool&#039;s new Spanish boss is tasked with making the club title challengers again, but he faces a number of issues.
+The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss)
 
 ---
 
-### 9. Weddings in Gaza offer rare moments of joy amid genocide
+### 9. Several people injured in sword attack at school in Sweden
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Gaza, weddings offer Palestinian families a brief escape from Israel’s genocidal war.
+One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss)
 
 ---
 
