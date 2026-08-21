@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-21 11:32:22
+**Last Update:** 2026-08-21 12:20:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
+### 1. The Lost Treasure of Sid Meier's Pirates
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384896">https://news.ycombinator.com/item?id=49384896</a></p>
+<p>Points: 42</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+
+---
+
+### 2. We Rebuilt the Linux MicroVM Stack on Apple Silicon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://encore.dev/blog/firecracker-apple-silicon">https://encore.dev/blog/firecracker-apple-silicon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384716">https://news.ycombinator.com/item?id=49384716</a></p>
+<p>Points: 37</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://encore.dev/blog/firecracker-apple-silicon](https://encore.dev/blog/firecracker-apple-silicon)
+
+---
+
+### 3. Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://Argentic.network">https://Argentic.network</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384477">https://news.ycombinator.com/item?id=49384477</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://Argentic.network](https://Argentic.network)
-
----
-
-### 2. The Religious Experience of Philip K. Dick by R. Crumb (1986)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/">https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384224">https://news.ycombinator.com/item?id=49384224</a></p>
-<p>Points: 20</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
-
----
-
-### 3. Stop Making TUIs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/">https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49384210">https://news.ycombinator.com/item?id=49384210</a></p>
-<p>Points: 26</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/)
 
 ---
 
@@ -97,7 +97,20 @@ The Prince of Wales remains in no mood to forgive and forget. The hurt he feels 
 
 ---
 
-### 7. Israeli settlers set fire to Palestinian home while family asleep
+### 7. Bangladesh expect ‘harder’ Australia challenge in second Test, says coach
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+After a first Test win in Australia in the series opener, Bangladesh expect a backlash in second match in Mackay.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/australia-bangladesh-cricket-second-test-mackay-simmons-cummins-renshaw?traffic_source=rss)
+
+---
+
+### 8. Israeli settlers set fire to Palestinian home while family asleep
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israeli settlers set fire to a Palestinian home while a mother and her children 
 
 ---
 
-### 8. Europe, Canada condemn Israeli plans for new West Bank settlement
+### 9. Europe, Canada condemn Israeli plans for new West Bank settlement
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israeli settlers set fire to a Palestinian home while a mother and her children 
 The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss](https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss)
-
----
-
-### 9. Australian Hussey open to Ashes Test role as England make approach
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ex-Australia batter Hussey said he was informally approached by Stephen Flemming, England&#039;s new red-ball coach.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss)
 
 ---
 
