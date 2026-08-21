@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-21T07:37:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Codex on AWS bedrock bug causing 10x charges",
+            "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/37674\">https://github.com/openai/codex/issues/37674</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49383326\">https://news.ycombinator.com/item?id=49383326</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/openai/codex/issues/37674",
+            "published": "Fri, 21 Aug 2026 03:17:43 +0000",
+            "fetched": "2026-08-21T07:37:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+            "description": "<p>Article URL: <a href=\"https://annas-archive.gl/blog/physical-destruction.html\">https://annas-archive.gl/blog/physical-destruction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49383026\">https://news.ycombinator.com/item?id=49383026</a></p>\n<p>Points: 117</p>\n<p># Comments: 67</p>",
+            "url": "https://annas-archive.gl/blog/physical-destruction.html",
+            "published": "Fri, 21 Aug 2026 02:37:47 +0000",
+            "fetched": "2026-08-21T07:37:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Artificial Intelligence Policy",
+            "description": "<p>Article URL: <a href=\"https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/\">https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382614\">https://news.ycombinator.com/item?id=49382614</a></p>\n<p>Points: 28</p>\n<p># Comments: 18</p>",
+            "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+            "published": "Fri, 21 Aug 2026 01:37:27 +0000",
+            "fetched": "2026-08-21T07:37:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "El Niño weather system set to be 'strongest in living memory', warns Met Office",
+            "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+            "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 00:33:21 GMT",
+            "fetched": "2026-08-21T07:37:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan could return to acting once back in UK",
+            "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 02:52:29 GMT",
+            "fetched": "2026-08-21T07:37:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What happened to Harry and Meghan's American dream?",
+            "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
+            "url": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 02:57:34 GMT",
+            "fetched": "2026-08-21T07:37:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan’s Imran Khan moved to hospital after Supreme Court order",
+            "description": "Pakistan’s former Prime Minister Imran Khan has been moved to a private hospital for medical treatment.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 03:08:09 +0000",
+            "fetched": "2026-08-21T07:37:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+            "description": "Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.",
+            "url": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 02:11:33 +0000",
+            "fetched": "2026-08-21T07:37:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+            "description": "The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.",
+            "url": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+            "published": "Fri, 21 Aug 2026 01:38:37 +0000",
+            "fetched": "2026-08-21T07:37:35+03:30"
+        }
+    ]
+}
