@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 22:23:47
+**Last Update:** 2026-08-22 22:58:07
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Belgian car salesman becomes prince after DNA test proves royal parentage
+### 1. hdiutil is deprecated in macOS 27 Golden Gate
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
+
+---
+
+### 2. Scrap
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/moxie/status/2091218652133732491">https://twitter.com/moxie/status/2091218652133732491</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402189">https://news.ycombinator.com/item?id=49402189</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://twitter.com/moxie/status/2091218652133732491](https://twitter.com/moxie/status/2091218652133732491)
+
+---
+
+### 3. Belgian car salesman becomes prince after DNA test proves royal parentage
 
 **Source:** Hacker News
 
@@ -19,46 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
-<p>Points: 46</p>
-<p># Comments: 24</p>
+<p>Points: 57</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 
 ---
 
-### 2. Learning about "The Unix Time-Sharing System"
+### 4. Two police officers among seven killed in wrong-way car crash
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://playtechnique.io/long/the-unix-time-sharing-system.html">https://playtechnique.io/long/the-unix-time-sharing-system.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401122">https://news.ycombinator.com/item?id=49401122</a></p>
-<p>Points: 15</p>
-<p># Comments: 3</p>
+PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.
 
-🔗 **Read more:** [https://playtechnique.io/long/the-unix-time-sharing-system.html](https://playtechnique.io/long/the-unix-time-sharing-system.html)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. ElevenLabs, TwelveLabs, ThirteenLabs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://quantumi.sh/public/labs.html">https://quantumi.sh/public/labs.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49400408">https://news.ycombinator.com/item?id=49400408</a></p>
-<p>Points: 146</p>
-<p># Comments: 61</p>
-
-🔗 **Read more:** [https://quantumi.sh/public/labs.html](https://quantumi.sh/public/labs.html)
-
----
-
-### 4. Video appears to show police chase minutes before fatal A66 crash
+### 5. Video appears to show police chase minutes before fatal A66 crash
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Several police vehicles are seen chasing a car just three minutes before the cra
 
 ---
 
-### 5. Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
+### 6. Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 6. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Armed men kidnap dozens in attacks on Nigerian villages
+### 7. Canada to match US tariffs “dollar for dollar,” PM Carney says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.
+Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.&quot;
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss)
 
 ---
 
-### 8. Israel’s Chief Rabbi says Palestinians are not a people and have no rights
+### 8. Carney: Canada will enact retaliatory US tariffs starting September 8
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.
+The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss)
 
 ---
 
-### 9. Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr
+### 9. Israel, Turkiye and the new regional reordering
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-While lawyers for the US president argue the subpoenas are &#039;cynical&#039;, the BBC says they could help shine light on case.
+In Syria, Israel is not only at odds with Turkiye but also with the regional and international consensus.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss)
 
 ---
 
