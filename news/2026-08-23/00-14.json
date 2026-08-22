@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T00:14:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Knowing When to Stop: The Art of Making a Loop Converge",
+            "description": "<p>Article URL: <a href=\"https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/\">https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49403484\">https://news.ycombinator.com/item?id=49403484</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
+            "published": "Sat, 22 Aug 2026 20:21:14 +0000",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fast and Hard Code",
+            "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/8/22/fast-hard-code/\">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49403228\">https://news.ycombinator.com/item?id=49403228</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+            "published": "Sat, 22 Aug 2026 19:56:38 +0000",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "English ↔ Claudish Translator",
+            "description": "<p>Article URL: <a href=\"https://programasweights.com/claudish\">https://programasweights.com/claudish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402907\">https://news.ycombinator.com/item?id=49402907</a></p>\n<p>Points: 7</p>\n<p># Comments: 7</p>",
+            "url": "https://programasweights.com/claudish",
+            "published": "Sat, 22 Aug 2026 19:19:15 +0000",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two police officers among seven killed in wrong-way car crash",
+            "description": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 19:28:14 GMT",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video appears to show police chase minutes before fatal A66 crash",
+            "description": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
+            "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 20:14:04 GMT",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+            "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 20:10:00 GMT",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+            "description": "Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 20:05:52 +0000",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Israel building new illegal settlements?",
+            "description": "Israel opens construction bids for new illegal housing units in the occupied West Bank.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 19:40:58 +0000",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
+            "description": "Intensified fighting in Sudan has displaced at least 200,000 people in the Kordofan region since late last year.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 19:29:08 +0000",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T00:14:36+03:30"
+        }
+    ]
+}
