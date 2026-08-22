@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 19:11:36
+**Last Update:** 2026-08-22 20:03:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Digging the grave of my skills: Hollywood creatives training AI to do their jobs
+### 1. ElevenLabs, TwelveLabs, ThirteenLabs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs">https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399941">https://news.ycombinator.com/item?id=49399941</a></p>
-<p>Points: 27</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://quantumi.sh/public/labs.html">https://quantumi.sh/public/labs.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49400408">https://news.ycombinator.com/item?id=49400408</a></p>
+<p>Points: 53</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+🔗 **Read more:** [https://quantumi.sh/public/labs.html](https://quantumi.sh/public/labs.html)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399898">https://news.ycombinator.com/item?id=49399898</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Points: 34</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
 
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399591">https://news.ycombinator.com/item?id=49399591</a></p>
-<p>Points: 60</p>
-<p># Comments: 47</p>
+<p>Points: 83</p>
+<p># Comments: 63</p>
 
 🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/mcp-roadmap/](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
 
 ---
 
-### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 4. Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.
+In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine
+### 7. Walk-In “Human Fridges” are Japan’s newest heatwave weapon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.
+Designed to stop heatstroke in its tracks, the &quot;Do Hiemon Box&quot; delivers rapid, targeted cooling during extreme weather.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss)
 
 ---
 
-### 8. Israeli drone strike on ‘civilian vehicle’ injures several in Syria
+### 8. Did DOGE cuts make America’s food safety problem worse?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&#039; and a &#039;blatant breach of international law&#039;.
+The US has recorded more than 160 food recalls this year, as a Cyclospora outbreak has sickened nearly 11,000 people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss)
 
 ---
 
-### 9. What did war with the US reveal about Iran’s weapons capabilities?
+### 9. Settlers target Palestinian homes in Occupied West Bank’s Area B
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says production is ongoing, but details will not be revealed during war conditions.
+Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-22T20:03:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+            "description": "<p>Article URL: <a href=\"https://quantumi.sh/public/labs.html\">https://quantumi.sh/public/labs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49400408\">https://news.ycombinator.com/item?id=49400408</a></p>\n<p>Points: 53</p>\n<p># Comments: 11</p>",
+            "url": "https://quantumi.sh/public/labs.html",
+            "published": "Sat, 22 Aug 2026 14:54:07 +0000",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Friendly Introduction to Racket",
+            "description": "<p>Article URL: <a href=\"https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/\">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399898\">https://news.ycombinator.com/item?id=49399898</a></p>\n<p>Points: 34</p>\n<p># Comments: 5</p>",
+            "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+            "published": "Sat, 22 Aug 2026 14:08:19 +0000",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The New MCP Roadmap",
+            "description": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399591\">https://news.ycombinator.com/item?id=49399591</a></p>\n<p>Points: 83</p>\n<p># Comments: 63</p>",
+            "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+            "published": "Sat, 22 Aug 2026 13:31:34 +0000",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+            "description": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 16:05:04 GMT",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+            "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+            "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How this 1960s ex-council house is managing to stay cool without air con",
+            "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+            "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 23:56:48 GMT",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+            "description": "Designed to stop heatstroke in its tracks, the &quot;Do Hiemon Box&quot; delivers rapid, targeted cooling during extreme weather.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 15:48:27 +0000",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Did DOGE cuts make America’s food safety problem worse?",
+            "description": "The US has recorded more than 160 food recalls this year, as a Cyclospora outbreak has sickened nearly 11,000 people.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 15:46:48 +0000",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+            "description": "Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 15:45:40 +0000",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T20:03:32+03:30"
+        }
+    ]
+}
