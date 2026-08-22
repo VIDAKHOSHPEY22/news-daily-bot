@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-22T05:11:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There's no reason for software to be slow anymore",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/perf-opt/\">https://danluu.com/perf-opt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395628\">https://news.ycombinator.com/item?id=49395628</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://danluu.com/perf-opt/",
+            "published": "Sat, 22 Aug 2026 01:06:17 +0000",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+            "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117136278553665985\">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395605\">https://news.ycombinator.com/item?id=49395605</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+            "published": "Sat, 22 Aug 2026 01:02:09 +0000",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "HN: The Good Parts (2016)",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/hn-comments/\">https://danluu.com/hn-comments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395171\">https://news.ycombinator.com/item?id=49395171</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
+            "url": "https://danluu.com/hn-comments/",
+            "published": "Fri, 21 Aug 2026 23:53:03 +0000",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+            "description": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+            "url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:28:37 GMT",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+            "description": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
+            "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 17:18:41 GMT",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More students planning to live at home for university over 'insane' living costs",
+            "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+            "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 23:01:58 GMT",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iranian president says time to end war with US from ‘position of strength’",
+            "description": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 00:59:37 +0000",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "California lawmaker overcomes pro-Israel spending to win special election",
+            "description": "Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 00:38:06 +0000",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
+            "description": "Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 00:32:35 +0000",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T05:11:49+03:30"
+        }
+    ]
+}
