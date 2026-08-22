@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 14:57:50
+**Last Update:** 2026-08-22 15:11:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398304">https://news.ycombinator.com/item?id=49398304</a></p>
-<p>Points: 95</p>
-<p># Comments: 40</p>
+<p>Points: 159</p>
+<p># Comments: 77</p>
 
 🔗 **Read more:** [https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398158">https://news.ycombinator.com/item?id=49398158</a></p>
-<p>Points: 12</p>
-<p># Comments: 6</p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://munderdiffl.in/">https://munderdiffl.in/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398152">https://news.ycombinator.com/item?id=49398152</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://munderdiffl.in/](https://munderdiffl.in/)
 
@@ -97,7 +97,20 @@ Nine people are still missing after the attack which left 130 injured, including
 
 ---
 
-### 7. More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
+### 7. Ebola continues to spread in the DRC as 16,000 vaccine doses arrive
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Health authorities are warning that ‘approximately one person has been dying from Ebola every thirty minutes’.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss)
+
+---
+
+### 8. More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The doses are the first of 70,000 allocated for Kinshasa as experts warn of the 
 
 ---
 
-### 8. Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move
+### 9. Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The doses are the first of 70,000 allocated for Kinshasa as experts warn of the 
 Party launches legal action after authorities take ex-PM to ⁠state hospital for check-up ⁠before returning him to jail.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss)
-
----
-
-### 9. Manchester City preview: Five key questions heading into 2026-27 season
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Enzo Maresca faces the formidable challenge of following the legendary manager Pep Guardiola as new season starts.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss)
 
 ---
 
