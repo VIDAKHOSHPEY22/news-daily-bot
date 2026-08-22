@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 07:31:20
+**Last Update:** 2026-08-22 08:10:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs">https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396086">https://news.ycombinator.com/item?id=49396086</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 14</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs](https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 123</p>
-<p># Comments: 120</p>
+<p>Points: 171</p>
+<p># Comments: 139</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 29</p>
-<p># Comments: 9</p>
+<p>Points: 40</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
 ---
 
-### 4. Girl, 6, dies days after Shoreham sea tragedy killed three family members
+### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Girl, 6, dies days after Shoreham sea tragedy killed three family members
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Saja El-Khawas is the fourth person to die after her family got into difficulty 
 
 ---
 
-### 5. TikTok to pay $400m to US in one of largest child privacy settlements
+### 6. TikTok to pay $400m to US in one of largest child privacy settlements
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 6. More students planning to live at home for university over 'insane' living costs
+### 7. At least 13 Tunisians missing as migrant boat headed for Italy capsizes
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.
+Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss)
 
 ---
 
-### 7. US judge strikes down Trump immigrant visa ban affecting 75 countries
+### 8. US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Canadian Prime Minister vows retaliatory tariffs &quot;dollar for dollar&quot; following failure to secure a US trade agreement.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss)
+
+---
+
+### 9. US judge strikes down Trump immigrant visa ban affecting 75 countries
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Students like Jessica say they worry about missing out on student life, but feel
 A federal judge in Manhattan ruled against the State Department&#039;s suspension of immigrant visas.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss)
-
----
-
-### 8. Peru rescues people trapped by landslides on highway for nearly a week
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Peru rescues people trapped by landslides on highway for nearly a week.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss)
-
----
-
-### 9. Palestinian-British girl, 6, dies days after family drowned off UK coast
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Saja el-Khawas&#039;s death follows that of her mother, father and sister on Tuesday, all of whom drowned.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss)
 
 ---
 

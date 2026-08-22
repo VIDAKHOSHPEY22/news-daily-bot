@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-22T08:10:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+            "description": "<p>Article URL: <a href=\"https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs\">https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49396086\">https://news.ycombinator.com/item?id=49396086</a></p>\n<p>Points: 14</p>\n<p># Comments: 24</p>",
+            "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+            "published": "Sat, 22 Aug 2026 02:37:30 +0000",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There's no reason for software to be slow anymore",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/perf-opt/\">https://danluu.com/perf-opt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395628\">https://news.ycombinator.com/item?id=49395628</a></p>\n<p>Points: 171</p>\n<p># Comments: 139</p>",
+            "url": "https://danluu.com/perf-opt/",
+            "published": "Sat, 22 Aug 2026 01:06:17 +0000",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+            "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117136278553665985\">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395605\">https://news.ycombinator.com/item?id=49395605</a></p>\n<p>Points: 40</p>\n<p># Comments: 14</p>",
+            "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+            "published": "Sat, 22 Aug 2026 01:02:09 +0000",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+            "description": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 04:27:21 GMT",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+            "description": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+            "url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:28:37 GMT",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:36:12 GMT",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 13 Tunisians missing as migrant boat headed for Italy capsizes",
+            "description": "Thousands of people have died since 2014 trying to cross the Mediterranean Sea and reach Europe.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/at-least-13-tunisians-missing-as-migrant-boat-headed-for-italy-capsizes?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 04:24:11 +0000",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+            "description": "Canadian Prime Minister vows retaliatory tariffs &quot;dollar for dollar&quot; following failure to secure a US trade agreement.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 04:02:32 +0000",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
+            "description": "A federal judge in Manhattan ruled against the State Department&#039;s suspension of immigrant visas.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 03:19:58 +0000",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T08:10:50+03:30"
+        }
+    ]
+}
