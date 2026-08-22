@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-22T16:36:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy\">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398904\">https://news.ycombinator.com/item?id=49398904</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+            "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+            "published": "Sat, 22 Aug 2026 12:07:06 +0000",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+            "description": "<p>Article URL: <a href=\"https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations\">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398304\">https://news.ycombinator.com/item?id=49398304</a></p>\n<p>Points: 394</p>\n<p># Comments: 263</p>",
+            "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+            "published": "Sat, 22 Aug 2026 10:26:09 +0000",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Z80–The 1970s Microprocessor Still Alive",
+            "description": "<p>Article URL: <a href=\"https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi\">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398158\">https://news.ycombinator.com/item?id=49398158</a></p>\n<p>Points: 38</p>\n<p># Comments: 19</p>",
+            "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+            "published": "Sat, 22 Aug 2026 09:49:57 +0000",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+            "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 12:20:46 GMT",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+            "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+            "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 12:36:28 GMT",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How this 1960s ex-council house is managing to stay cool without air con",
+            "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+            "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 23:56:48 GMT",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Berlin Wall separated his family. Its legacy still endures",
+            "description": "When Germany was divided, the Guetingers were among the 70 million people split between two opposing nations.",
+            "url": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 12:31:00 +0000",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+            "description": "Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 12:09:09 +0000",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds of children take part in swimming class on Gaza’s shore",
+            "description": "On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 11:58:55 +0000",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T16:36:09+03:30"
+        }
+    ]
+}
