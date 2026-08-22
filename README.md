@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 12:09:13
+**Last Update:** 2026-08-22 12:22:44
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Multiple deaths after collision between police vehicle and car
+### 1. Canada will match US tariffs 'dollar for dollar' as trade talks break down
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
+<p>Points: 67</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
+
+---
+
+### 2. There's no reason for software to be slow anymore
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
+<p>Points: 372</p>
+<p># Comments: 270</p>
+
+🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
+
+---
+
+### 3. Initial focus for our partnership with Motorola is a regular non-folding device
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
+<p>Points: 107</p>
+<p># Comments: 36</p>
+
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
+
+---
+
+### 4. Multiple deaths after collision between police vehicle and car
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Police say they are working to identify the victims and contact their families a
 
 ---
 
-### 2. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 5. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ A new 50% levy on $20bn of Canadian imports comes into force after a last-minute
 
 ---
 
-### 3. TikTok to pay $400m to US in one of largest child privacy settlements
+### 6. TikTok to pay $400m to US in one of largest child privacy settlements
 
 **Source:** BBC
 
@@ -49,7 +97,20 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 4. How will Trump’s tariffs affect Canada’s economy?
+### 7. Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Frances Tiafoe and Brandon Nakashima set up one all-American men&#039;s semifinal, Coco Gauff and Jessica Pegula also win.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss)
+
+---
+
+### 8. How will Trump’s tariffs affect Canada’s economy?
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikel
 
 ---
 
-### 5. Panama Canal to reduce shipping as ‘extreme’ El Nino approaches
+### 9. Panama Canal to reduce shipping as ‘extreme’ El Nino approaches
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risk
 
 ---
 
-### 6. Lionel Messi fined for striking opponent in Inter Miami MLS game
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-MLS fine Inter Miami&#039;s Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss)
-
----
-
-### 7. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Windmill, Stillwater, Montana
+### 11. Wildfire Windmill, Stillwater, Montana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire North Heglar, Cassia, Idaho
+### 12. Wildfire North Heglar, Cassia, Idaho
 
 **Source:** NASA
 
