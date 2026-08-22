@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 13:17:11
+**Last Update:** 2026-08-22 14:01:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 402</p>
-<p># Comments: 289</p>
+<p>Points: 415</p>
+<p># Comments: 301</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 112</p>
-<p># Comments: 39</p>
+<p>Points: 113</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
@@ -51,21 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/item?id=49395171</a></p>
-<p>Points: 50</p>
-<p># Comments: 8</p>
+<p>Points: 51</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://danluu.com/hn-comments/](https://danluu.com/hn-comments/)
 
 ---
 
-### 4. Multiple deaths after crash between police vehicle and car
+### 4. Multiple deaths after police vehicle and car crash during pursuit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"A number of patients died at the scene", ambulance officials say, after the collision near Middlesbrough.
+"A number of patients died at the scene" after the collision near Middlesbrough, ambulance officials say, as the police watchdog opens an investigation.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 7. Australia bite back as 18 wickets fall on day one of second Bangladesh Test
+### 7. More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.
+The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus&#039;s exponential spread.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss)
 
 ---
 
-### 8. Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
+### 8. Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Frances Tiafoe and Brandon Nakashima set up one all-American men&#039;s semifinal, Coco Gauff and Jessica Pegula also win.
+Party launches legal action after authorities take ex-PM to ⁠state hospital for check-up ⁠before returning him to jail.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss)
 
 ---
 
-### 9. How will Trump’s tariffs affect Canada’s economy?
+### 9. Manchester City preview: Five key questions heading into 2026-27 season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.
+Enzo Maresca faces the formidable challenge of following the legendary manager Pep Guardiola as new season starts.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss)
 
 ---
 
