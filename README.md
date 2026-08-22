@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 14:01:08
+**Last Update:** 2026-08-22 14:14:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 415</p>
-<p># Comments: 301</p>
+<p>Points: 421</p>
+<p># Comments: 303</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 113</p>
+<p>Points: 116</p>
 <p># Comments: 42</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
@@ -52,7 +52,7 @@
 <p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/item?id=49395171</a></p>
 <p>Points: 51</p>
-<p># Comments: 9</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://danluu.com/hn-comments/](https://danluu.com/hn-comments/)
 
@@ -84,16 +84,16 @@ A new 50% levy on $20bn of Canadian imports comes into force after a last-minute
 
 ---
 
-### 6. TikTok to pay $400m to US in one of largest child privacy settlements
+### 6. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.
+Nine people are still missing after the attack which left 130 injured, including a number of children.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
