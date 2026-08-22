@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-22T22:23:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+            "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl\">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49401621\">https://news.ycombinator.com/item?id=49401621</a></p>\n<p>Points: 46</p>\n<p># Comments: 24</p>",
+            "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+            "published": "Sat, 22 Aug 2026 17:09:27 +0000",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Learning about \"The Unix Time-Sharing System\"",
+            "description": "<p>Article URL: <a href=\"https://playtechnique.io/long/the-unix-time-sharing-system.html\">https://playtechnique.io/long/the-unix-time-sharing-system.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49401122\">https://news.ycombinator.com/item?id=49401122</a></p>\n<p>Points: 15</p>\n<p># Comments: 3</p>",
+            "url": "https://playtechnique.io/long/the-unix-time-sharing-system.html",
+            "published": "Sat, 22 Aug 2026 16:11:16 +0000",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+            "description": "<p>Article URL: <a href=\"https://quantumi.sh/public/labs.html\">https://quantumi.sh/public/labs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49400408\">https://news.ycombinator.com/item?id=49400408</a></p>\n<p>Points: 146</p>\n<p># Comments: 61</p>",
+            "url": "https://quantumi.sh/public/labs.html",
+            "published": "Sat, 22 Aug 2026 14:54:07 +0000",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video appears to show police chase minutes before fatal A66 crash",
+            "description": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
+            "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 17:36:57 GMT",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+            "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 18:20:36 GMT",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+            "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+            "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+            "description": "Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 17:58:15 +0000",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
+            "description": "Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 17:54:52 +0000",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
+            "description": "While lawyers for the US president argue the subpoenas are &#039;cynical&#039;, the BBC says they could help shine light on case.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 17:52:42 +0000",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T22:23:47+03:30"
+        }
+    ]
+}
