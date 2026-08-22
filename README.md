@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 09:18:30
+**Last Update:** 2026-08-22 10:22:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 4 in 10 travellers visit tourist sites to capture social media content
+### 1. GPT 5.6 Sol 20% price reduction
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content">https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396620">https://news.ycombinator.com/item?id=49396620</a></p>
-<p>Points: 32</p>
+<p>Article URL: <a href="https://developers.openai.com/api/docs/models/gpt-5.6-sol">https://developers.openai.com/api/docs/models/gpt-5.6-sol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49396590">https://news.ycombinator.com/item?id=49396590</a></p>
+<p>Points: 48</p>
 <p># Comments: 31</p>
 
-🔗 **Read more:** [https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content](https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content)
+🔗 **Read more:** [https://developers.openai.com/api/docs/models/gpt-5.6-sol](https://developers.openai.com/api/docs/models/gpt-5.6-sol)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 240</p>
-<p># Comments: 176</p>
+<p>Points: 307</p>
+<p># Comments: 215</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 61</p>
-<p># Comments: 23</p>
+<p>Points: 95</p>
+<p># Comments: 30</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.
+A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ Saja El-Khawas is the fourth person to die after her family got into difficulty 
 
 ---
 
-### 7. Inundated Philippine communities seek answers over flood control funds
+### 7. China’s new moon mission could unlock secret of lunar ice: Why that matters
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Chang&#039;e-7 seeks to find out more about the water trapped within the moon&#039;s shadowed craters.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss)
+
+---
+
+### 8. ‘It was a tsunami’: Floods leave death trail in India’s Assam
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+From father searching for his daughter&#039;s body to man who drowned trying to save a friend, floods take devastating toll.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss)
+
+---
+
+### 9. Inundated Philippine communities seek answers over flood control funds
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Saja El-Khawas is the fourth person to die after her family got into difficulty 
 Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss)
-
----
-
-### 8. Palestinian teen shot and killed in West Bank attack, UN responds
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss)
-
----
-
-### 9. Nigeria and the Sahel: A growing security divide
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A widening diplomatic rift is complicating efforts to confront a shared cross-border security threat.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss)
 
 ---
 
