@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T02:13:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "English ↔ Claudish Translator",
+            "description": "<p>Article URL: <a href=\"https://programasweights.com/claudish\">https://programasweights.com/claudish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402907\">https://news.ycombinator.com/item?id=49402907</a></p>\n<p>Points: 29</p>\n<p># Comments: 21</p>",
+            "url": "https://programasweights.com/claudish",
+            "published": "Sat, 22 Aug 2026 19:19:15 +0000",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NetBSD and My Life (2005)",
+            "description": "<p>Article URL: <a href=\"https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402781\">https://news.ycombinator.com/item?id=49402781</a></p>\n<p>Points: 69</p>\n<p># Comments: 19</p>",
+            "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+            "published": "Sat, 22 Aug 2026 19:07:46 +0000",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+            "description": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/8/7.html\">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402741\">https://news.ycombinator.com/item?id=49402741</a></p>\n<p>Points: 142</p>\n<p># Comments: 49</p>",
+            "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+            "published": "Sat, 22 Aug 2026 19:04:41 +0000",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two police officers among seven killed in wrong-way car crash",
+            "description": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 19:28:14 GMT",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video appears to show police chase minutes before fatal A66 crash",
+            "description": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
+            "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 20:14:04 GMT",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+            "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 20:10:00 GMT",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+            "description": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 22:29:07 +0000",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+            "description": "Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham&#039;s opener.",
+            "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 21:55:06 +0000",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Open-air cinema brings movie nights back to Khartoum",
+            "description": "Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 21:27:22 +0000",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T02:13:42+03:30"
+        }
+    ]
+}
