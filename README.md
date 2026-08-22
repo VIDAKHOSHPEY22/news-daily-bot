@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 16:36:09
+**Last Update:** 2026-08-22 17:07:32
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398904">https://news.ycombinator.com/item?id=49398904</a></p>
-<p>Points: 24</p>
-<p># Comments: 1</p>
+<p>Points: 52</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398304">https://news.ycombinator.com/item?id=49398304</a></p>
-<p>Points: 394</p>
-<p># Comments: 263</p>
+<p>Points: 445</p>
+<p># Comments: 347</p>
 
 🔗 **Read more:** [https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi">https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398158">https://news.ycombinator.com/item?id=49398158</a></p>
-<p>Points: 38</p>
-<p># Comments: 19</p>
+<p>Points: 47</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
 
@@ -97,42 +97,42 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. The Berlin Wall separated his family. Its legacy still endures
+### 7. Is Trump making Latin America great again?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-When Germany was divided, the Guetingers were among the 70 million people split between two opposing nations.
+A right-wing wave is sweeping through the region and that is not good news.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss)
 
 ---
 
-### 8. Russian strikes kill 6 people in Ukraine, day after shopping complex attack
+### 8. Jewish activists push back against Israeli settlers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.
+Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss)
 
 ---
 
-### 9. Hundreds of children take part in swimming class on Gaza’s shore
+### 9. CONCACAF asks Infantino to skip youth event amid FIFA governance crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.
+The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss)
 
 ---
 
