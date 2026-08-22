@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 21:11:45
+**Last Update:** 2026-08-22 22:10:26
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,46 +19,59 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
-<p>Points: 17</p>
-<p># Comments: 5</p>
+<p>Points: 38</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 
 ---
 
-### 2. Anthropic appears to be A/B testing reduced effort levels in Claude Code
+### 2. Learning about "The Unix Time-Sharing System"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/argofowl/status/2091150597374537729">https://twitter.com/argofowl/status/2091150597374537729</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401549">https://news.ycombinator.com/item?id=49401549</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://playtechnique.io/long/the-unix-time-sharing-system.html">https://playtechnique.io/long/the-unix-time-sharing-system.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401122">https://news.ycombinator.com/item?id=49401122</a></p>
+<p>Points: 15</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://twitter.com/argofowl/status/2091150597374537729](https://twitter.com/argofowl/status/2091150597374537729)
+🔗 **Read more:** [https://playtechnique.io/long/the-unix-time-sharing-system.html](https://playtechnique.io/long/the-unix-time-sharing-system.html)
 
 ---
 
-### 3. Anthropic IPO filing will show AI backlash as a risk factor, sources say
+### 3. ElevenLabs, TwelveLabs, ThirteenLabs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401229">https://news.ycombinator.com/item?id=49401229</a></p>
-<p>Points: 28</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://quantumi.sh/public/labs.html">https://quantumi.sh/public/labs.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49400408">https://news.ycombinator.com/item?id=49400408</a></p>
+<p>Points: 132</p>
+<p># Comments: 54</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
+🔗 **Read more:** [https://quantumi.sh/public/labs.html](https://quantumi.sh/public/labs.html)
 
 ---
 
-### 4. Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
+### 4. Video appears to show police chase minutes before fatal A66 crash
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 5. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
+### 6. Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Four people are still missing after Friday's attack which killed 16 and left 130
 
 ---
 
-### 6. How this 1960s ex-council house is managing to stay cool without air con
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. South Korea sending first container ship through Arctic route
+### 7. Armed men kidnap dozens in attacks on Nigerian villages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-PanStar Acro, bound for Europe via Arctic, is testing whether a route opened by melting sea ice is commercially viable.
+Police say three villages and a mosque were attacked, and worshippers kidnapped in central Niger State.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss)
 
 ---
 
-### 8. Sanctioned by EU, Israeli settler steals and kills Palestinian donkey
+### 8. Israel’s Chief Rabbi says Palestinians are not a people and have no rights
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.
+Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss)
 
 ---
 
-### 9. Espanyol vs Real Madrid LIVE: La Liga
+### 9. Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates as Jose Mourinho returns to lead Madrid - including the build-up, analysis and live text commentary.
+While lawyers for the US president argue the subpoenas are &#039;cynical&#039;, the BBC says they could help shine light on case.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss)
 
 ---
 
