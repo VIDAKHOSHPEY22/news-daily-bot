@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 00:14:36
+**Last Update:** 2026-08-23 00:58:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/">https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403484">https://news.ycombinator.com/item?id=49403484</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/](https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/22/fast-hard-code/">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49403228">https://news.ycombinator.com/item?id=49403228</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/22/fast-hard-code/](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
-<p>Points: 7</p>
-<p># Comments: 7</p>
+<p>Points: 15</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
 
@@ -97,7 +97,33 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 ---
 
-### 7. Iran grants permission for some Iraqi oil tankers to pass through Hormuz
+### 7. Israeli army and settlers injure several Palestinians across West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinians face attacks and forced displacement as settlers expand control, backed by military raids and inaction.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss)
+
+---
+
+### 8. US Postal Service shares mail-in ballot restrictions despite court ruling
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss)
+
+---
+
+### 9. Iran grants permission for some Iraqi oil tankers to pass through Hormuz
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss)
-
----
-
-### 8. Why is Israel building new illegal settlements?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel opens construction bids for new illegal housing units in the occupied West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss)
-
----
-
-### 9. More than 200,000 newly displaced in Sudan’s Kordofan region
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Intensified fighting in Sudan has displaced at least 200,000 people in the Kordofan region since late last year.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss)
 
 ---
 
