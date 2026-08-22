@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 17:07:32
+**Last Update:** 2026-08-22 17:18:27
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
@@ -97,7 +97,20 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. Is Trump making Latin America great again?
+### 7. Indonesia bolsters troop numbers to combat Borneo wildfires
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fires between January and July burned more than 200,000 hectares of land, says the government.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss)
+
+---
+
+### 8. Is Trump making Latin America great again?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A right-wing wave is sweeping through the region and that is not good news.
 
 ---
 
-### 8. Jewish activists push back against Israeli settlers
+### 9. Jewish activists push back against Israeli settlers
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A right-wing wave is sweeping through the region and that is not good news.
 Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss)
-
----
-
-### 9. CONCACAF asks Infantino to skip youth event amid FIFA governance crisis
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss)
 
 ---
 
