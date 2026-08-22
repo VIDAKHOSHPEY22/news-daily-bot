@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-22T18:13:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The New MCP Roadmap",
+            "description": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399591\">https://news.ycombinator.com/item?id=49399591</a></p>\n<p>Points: 14</p>\n<p># Comments: 6</p>",
+            "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+            "published": "Sat, 22 Aug 2026 13:31:34 +0000",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+            "description": "<p>Article URL: <a href=\"https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/\">https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399524\">https://news.ycombinator.com/item?id=49399524</a></p>\n<p>Points: 50</p>\n<p># Comments: 6</p>",
+            "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+            "published": "Sat, 22 Aug 2026 13:24:06 +0000",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy\">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398904\">https://news.ycombinator.com/item?id=49398904</a></p>\n<p>Points: 92</p>\n<p># Comments: 22</p>",
+            "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+            "published": "Sat, 22 Aug 2026 12:07:06 +0000",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+            "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 12:20:46 GMT",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+            "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+            "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How this 1960s ex-council house is managing to stay cool without air con",
+            "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+            "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 23:56:48 GMT",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+            "description": "Iran says production is ongoing, but details will not be revealed during war conditions.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 14:19:06 +0000",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man Utd humiliated at Hull to open Premier League account",
+            "description": "Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.",
+            "url": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 13:54:02 +0000",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
+            "description": "Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.",
+            "url": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 13:44:02 +0000",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T18:13:12+03:30"
+        }
+    ]
+}
