@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-22T19:11:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs\">https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399941\">https://news.ycombinator.com/item?id=49399941</a></p>\n<p>Points: 27</p>\n<p># Comments: 27</p>",
+            "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+            "published": "Sat, 22 Aug 2026 14:13:05 +0000",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Friendly Introduction to Racket",
+            "description": "<p>Article URL: <a href=\"https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/\">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399898\">https://news.ycombinator.com/item?id=49399898</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+            "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+            "published": "Sat, 22 Aug 2026 14:08:19 +0000",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The New MCP Roadmap",
+            "description": "<p>Article URL: <a href=\"https://blog.modelcontextprotocol.io/posts/mcp-roadmap/\">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49399591\">https://news.ycombinator.com/item?id=49399591</a></p>\n<p>Points: 60</p>\n<p># Comments: 47</p>",
+            "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+            "published": "Sat, 22 Aug 2026 13:31:34 +0000",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+            "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 12:20:46 GMT",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+            "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+            "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 13:13:16 GMT",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How this 1960s ex-council house is managing to stay cool without air con",
+            "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+            "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 23:56:48 GMT",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+            "description": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 15:30:49 +0000",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+            "description": "Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&#039; and a &#039;blatant breach of international law&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 14:37:40 +0000",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+            "description": "Iran says production is ongoing, but details will not be revealed during war conditions.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 14:19:06 +0000",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T19:11:36+03:30"
+        }
+    ]
+}
