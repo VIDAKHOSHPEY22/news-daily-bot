@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-22T11:07:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvgvyy4x2mvo\">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49397074\">https://news.ycombinator.com/item?id=49397074</a></p>\n<p>Points: 24</p>\n<p># Comments: 3</p>",
+            "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+            "published": "Sat, 22 Aug 2026 06:16:57 +0000",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There's no reason for software to be slow anymore",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/perf-opt/\">https://danluu.com/perf-opt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395628\">https://news.ycombinator.com/item?id=49395628</a></p>\n<p>Points: 330</p>\n<p># Comments: 236</p>",
+            "url": "https://danluu.com/perf-opt/",
+            "published": "Sat, 22 Aug 2026 01:06:17 +0000",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+            "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117136278553665985\">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395605\">https://news.ycombinator.com/item?id=49395605</a></p>\n<p>Points: 99</p>\n<p># Comments: 32</p>",
+            "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+            "published": "Sat, 22 Aug 2026 01:02:09 +0000",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+            "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 04:46:33 GMT",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:36:12 GMT",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+            "description": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+            "url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:28:37 GMT",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
+            "description": "The Chang&#039;e-7 seeks to find out more about the water trapped within the moon&#039;s shadowed craters.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 05:36:39 +0000",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
+            "description": "From father searching for his daughter&#039;s body to man who drowned trying to save a friend, floods take devastating toll.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 05:35:50 +0000",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inundated Philippine communities seek answers over flood control funds",
+            "description": "Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 04:36:26 +0000",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T11:07:55+03:30"
+        }
+    ]
+}
