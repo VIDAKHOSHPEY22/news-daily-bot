@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-22T09:04:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "4 in 10 travellers visit tourist sites to capture social media content",
+            "description": "<p>Article URL: <a href=\"https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content\">https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49396620\">https://news.ycombinator.com/item?id=49396620</a></p>\n<p>Points: 22</p>\n<p># Comments: 17</p>",
+            "url": "https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content",
+            "published": "Sat, 22 Aug 2026 04:42:19 +0000",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Early Humans Likely Ate Carbs and Sugary Foods",
+            "description": "<p>Article URL: <a href=\"https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs\">https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49396086\">https://news.ycombinator.com/item?id=49396086</a></p>\n<p>Points: 27</p>\n<p># Comments: 39</p>",
+            "url": "https://www.history.com/articles/early-human-ancestors-diet-sugar-carbs",
+            "published": "Sat, 22 Aug 2026 02:37:30 +0000",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There's no reason for software to be slow anymore",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/perf-opt/\">https://danluu.com/perf-opt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395628\">https://news.ycombinator.com/item?id=49395628</a></p>\n<p>Points: 218</p>\n<p># Comments: 166</p>",
+            "url": "https://danluu.com/perf-opt/",
+            "published": "Sat, 22 Aug 2026 01:06:17 +0000",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+            "description": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 04:46:33 GMT",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+            "description": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.",
+            "url": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:28:37 GMT",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:36:12 GMT",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inundated Philippine communities seek answers over flood control funds",
+            "description": "Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 04:36:26 +0000",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
+            "description": "A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 04:30:20 +0000",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria and the Sahel: A growing security divide",
+            "description": "A widening diplomatic rift is complicating efforts to confront a shared cross-border security threat.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/nigeria-and-the-sahel-a-growing-security-divide?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 04:30:07 +0000",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T09:04:17+03:30"
+        }
+    ]
+}
