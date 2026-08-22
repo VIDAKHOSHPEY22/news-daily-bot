@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 20:57:40
+**Last Update:** 2026-08-22 21:11:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,26 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl">https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401621">https://news.ycombinator.com/item?id=49401621</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl](https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl)
 
 ---
 
-### 2. Htmx live is cool. Datastar is fast. This cow is raw and strong
+### 2. Anthropic appears to be A/B testing reduced effort levels in Claude Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://stario.dev/ox">https://stario.dev/ox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401567">https://news.ycombinator.com/item?id=49401567</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://twitter.com/argofowl/status/2091150597374537729">https://twitter.com/argofowl/status/2091150597374537729</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401549">https://news.ycombinator.com/item?id=49401549</a></p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://stario.dev/ox](https://stario.dev/ox)
+🔗 **Read more:** [https://twitter.com/argofowl/status/2091150597374537729](https://twitter.com/argofowl/status/2091150597374537729)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html">https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49401229">https://news.ycombinator.com/item?id=49401229</a></p>
-<p>Points: 19</p>
-<p># Comments: 16</p>
+<p>Points: 28</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html](https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html)
 
