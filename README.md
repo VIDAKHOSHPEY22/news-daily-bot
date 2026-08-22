@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 11:20:39
+**Last Update:** 2026-08-22 12:09:13
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Canada will match US tariffs 'dollar for dollar' as trade talks break down
+### 1. Multiple deaths after collision between police vehicle and car
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cvgvyy4x2mvo">https://www.bbc.com/news/articles/cvgvyy4x2mvo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49397074">https://news.ycombinator.com/item?id=49397074</a></p>
-<p>Points: 34</p>
-<p># Comments: 4</p>
+Police say they are working to identify the victims and contact their families after the crash on Teesside.
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cvgvyy4x2mvo](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. There's no reason for software to be slow anymore
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 344</p>
-<p># Comments: 249</p>
-
-🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
-
----
-
-### 3. Initial focus for our partnership with Motorola is a regular non-folding device
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 102</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
-
----
-
-### 4. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+### 2. Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
 
 **Source:** BBC
 
@@ -71,7 +36,7 @@ A new 50% levy on $20bn of Canadian imports comes into force after a last-minute
 
 ---
 
-### 5. TikTok to pay $400m to US in one of largest child privacy settlements
+### 3. TikTok to pay $400m to US in one of largest child privacy settlements
 
 **Source:** BBC
 
@@ -84,59 +49,46 @@ The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDa
 
 ---
 
-### 6. Girl, 6, dies days after Shoreham sea tragedy killed three family members
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Somalia child hunger crisis deepens after aid cuts, UNICEF says
+### 4. How will Trump’s tariffs affect Canada’s economy?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.
+US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss)
 
 ---
 
-### 8. China’s new moon mission could unlock secret of lunar ice: Why that matters
+### 5. Panama Canal to reduce shipping as ‘extreme’ El Nino approaches
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Chang&#039;e-7 seeks to find out more about the water trapped within the moon&#039;s shadowed craters.
+Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss)
 
 ---
 
-### 9. ‘It was a tsunami’: Floods leave death trail in India’s Assam
+### 6. Lionel Messi fined for striking opponent in Inter Miami MLS game
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From father searching for his daughter&#039;s body to man who drowned trying to save a friend, floods take devastating toll.
+MLS fine Inter Miami&#039;s Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss)
 
 ---
 
-### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 7. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Windmill, Stillwater, Montana
+### 8. Wildfire Windmill, Stillwater, Montana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire North Heglar, Cassia, Idaho
+### 9. Wildfire North Heglar, Cassia, Idaho
 
 **Source:** NASA
 

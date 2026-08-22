@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-22T12:09:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Multiple deaths after collision between police vehicle and car",
+            "description": "Police say they are working to identify the victims and contact their families after the crash on Teesside.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 08:28:44 GMT",
+            "fetched": "2026-08-22T12:09:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+            "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 04:46:33 GMT",
+            "fetched": "2026-08-22T12:09:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:36:12 GMT",
+            "fetched": "2026-08-22T12:09:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How will Trump’s tariffs affect Canada’s economy?",
+            "description": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 08:01:55 +0000",
+            "fetched": "2026-08-22T12:09:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
+            "description": "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 08:00:30 +0000",
+            "fetched": "2026-08-22T12:09:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
+            "description": "MLS fine Inter Miami&#039;s Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.",
+            "url": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 07:41:21 +0000",
+            "fetched": "2026-08-22T12:09:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-22T12:09:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-22T12:09:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-22T12:09:13+03:30"
+        }
+    ]
+}
