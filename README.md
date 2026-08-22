@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 18:13:12
+**Last Update:** 2026-08-22 18:58:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The New MCP Roadmap
+### 1. Digging the grave of my skills: Hollywood creatives training AI to do their jobs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs">https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399941">https://news.ycombinator.com/item?id=49399941</a></p>
+<p>Points: 20</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs](https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs)
+
+---
+
+### 2. A Friendly Introduction to Racket
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/">https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399898">https://news.ycombinator.com/item?id=49399898</a></p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
+
+---
+
+### 3. The New MCP Roadmap
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.modelcontextprotocol.io/posts/mcp-roadmap/">https://blog.modelcontextprotocol.io/posts/mcp-roadmap/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399591">https://news.ycombinator.com/item?id=49399591</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
+<p>Points: 49</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://blog.modelcontextprotocol.io/posts/mcp-roadmap/](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
-
----
-
-### 2. A Kantian Critique of "Sorry" by Justin Bieber
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/">https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49399524">https://news.ycombinator.com/item?id=49399524</a></p>
-<p>Points: 50</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
-
----
-
-### 3. Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49398904">https://news.ycombinator.com/item?id=49398904</a></p>
-<p>Points: 92</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy](https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy)
 
 ---
 
@@ -97,7 +97,20 @@ The Passivhaus standard is growing in popularity as UK homeowners adapt to hotte
 
 ---
 
-### 7. What did war with the US reveal about Iran’s weapons capabilities?
+### 7. Israeli drone strike on ‘civilian vehicle’ injures several in Syria
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&#039; and a &#039;blatant breach of international law&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss)
+
+---
+
+### 8. What did war with the US reveal about Iran’s weapons capabilities?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Iran says production is ongoing, but details will not be revealed during war con
 
 ---
 
-### 8. Man Utd humiliated at Hull to open Premier League account
+### 9. Man Utd humiliated at Hull to open Premier League account
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Iran says production is ongoing, but details will not be revealed during war con
 Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss)
-
----
-
-### 9. Fans and police injured in pitch invasion during ‘high risk’ German Cup tie
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss)
 
 ---
 
