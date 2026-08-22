@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-22 06:31:32
+**Last Update:** 2026-08-22 06:41:37
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. US Debt-to-GDP Ratio
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.us-debt-clock.com/debt-to-gdp">https://www.us-debt-clock.com/debt-to-gdp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395663">https://news.ycombinator.com/item?id=49395663</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.us-debt-clock.com/debt-to-gdp](https://www.us-debt-clock.com/debt-to-gdp)
-
----
-
-### 2. There's no reason for software to be slow anymore
+### 1. There's no reason for software to be slow anymore
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://danluu.com/perf-opt/">https://danluu.com/perf-opt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395628">https://news.ycombinator.com/item?id=49395628</a></p>
-<p>Points: 79</p>
-<p># Comments: 70</p>
+<p>Points: 92</p>
+<p># Comments: 91</p>
 
 🔗 **Read more:** [https://danluu.com/perf-opt/](https://danluu.com/perf-opt/)
 
 ---
 
-### 3. Initial focus for our partnership with Motorola is a regular non-folding device
+### 2. Initial focus for our partnership with Motorola is a regular non-folding device
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117136278553665985">https://grapheneos.social/@GrapheneOS/117136278553665985</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395605">https://news.ycombinator.com/item?id=49395605</a></p>
-<p>Points: 22</p>
-<p># Comments: 7</p>
+<p>Points: 24</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117136278553665985](https://grapheneos.social/@GrapheneOS/117136278553665985)
+
+---
+
+### 3. HN: The Good Parts (2016)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://danluu.com/hn-comments/">https://danluu.com/hn-comments/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49395171">https://news.ycombinator.com/item?id=49395171</a></p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://danluu.com/hn-comments/](https://danluu.com/hn-comments/)
 
 ---
 
