@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 00:01:49
+**Last Update:** 2026-08-24 00:14:45
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Police aborted pursuit about 10 seconds before fatal crash, watchdog says
+### 4. 'Pain of losing him is beyond words': Families of two police officers killed in crash pay tribute
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Tom Clough and Matthew Blades died along with five others when a car crashed into their vehicle.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Police aborted pursuit about 10 seconds before fatal crash, watchdog says
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Officers had been pursing a car before it went the wrong way down a dual carriag
 
 ---
 
-### 5. CrossCountry to provide full service on Monday after major disruption
+### 6. CrossCountry to provide full service on Monday after major disruption
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ CrossCountry says its "key priority" is now restoring as close to a normal servi
 
 ---
 
-### 6. Trump says Canada wants 'benefits' of being US state after trade talks collapse
+### 7. Is Israel about to split the occupied West Bank in half?
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused the US of starting a trade war.
+Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss)
 
 ---
 
-### 7. Severe winds toss four aircraft across Italian airport tarmac
+### 8. Severe winds toss four aircraft across Italian airport tarmac
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna 
 
 ---
 
-### 8. Photos: IndyCars speed past Washington landmarks as part of Freedom 250
+### 9. Photos: IndyCars speed past Washington landmarks as part of Freedom 250
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna 
 Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss)
-
----
-
-### 9. Gaza’s hospitals are running out of oxygen as healthcare nears collapse
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss)
 
 ---
 
