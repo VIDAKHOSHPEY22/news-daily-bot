@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 01:11:13
+**Last Update:** 2026-08-24 02:00:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -97,7 +97,33 @@ CrossCountry says its "key priority" is now restoring as close to a normal servi
 
 ---
 
-### 7. Serbia requests international assistance to battle wildfires
+### 7. Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss)
+
+---
+
+### 8. Will Donald Trump’s new sanctions against Iran work?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US president says he will impose &#039;crushing measures&#039; on Tehran.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss)
+
+---
+
+### 9. Serbia requests international assistance to battle wildfires
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ CrossCountry says its "key priority" is now restoring as close to a normal servi
 Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss)
-
----
-
-### 8. US envoy Tom Barrack retracts comment that Syria’s Golan is occupied
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ambassador to Turkiye says US policy of recognising Israel&#039;s claimed sovereignty over Syrian territory is &#039;unchanged&#039;.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss)
-
----
-
-### 9. Landfill collapse kills 30 in Guinea’s capital after heavy rains
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A mound of waste collapsed at a landfill in Conakry, Guinea, after heavy overnight rains, engulfing nearby homes.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss)
 
 ---
 
