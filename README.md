@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 12:09:37
+**Last Update:** 2026-08-23 12:23:27
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 74</p>
-<p># Comments: 53</p>
+<p>Points: 83</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://malisper.me/jit-compiling-code-in-5-us/">https://malisper.me/jit-compiling-code-in-5-us/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406387">https://news.ycombinator.com/item?id=49406387</a></p>
-<p>Points: 44</p>
-<p># Comments: 5</p>
+<p>Points: 49</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://malisper.me/jit-compiling-code-in-5-us/](https://malisper.me/jit-compiling-code-in-5-us/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="http://www.os2museum.com/wp/the-end-of-an-athlon/">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406333">https://news.ycombinator.com/item?id=49406333</a></p>
-<p>Points: 63</p>
-<p># Comments: 13</p>
+<p>Points: 69</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [http://www.os2museum.com/wp/the-end-of-an-athlon/](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 
@@ -97,7 +97,20 @@ Serious violent and sexual offenders may be confined to areas of just a few mile
 
 ---
 
-### 7. Flooding across Caracas, Venezuela, after heavy rains
+### 7. Israeli wounded in occupied West Bank stabbing
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss)
+
+---
+
+### 8. Flooding across Caracas, Venezuela, after heavy rains
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Flooding across Caracas, Venezuela, after heavy rains
 
 ---
 
-### 8. Photos: Russia celebrates National Flag Day amid war and tensions with the West
+### 9. Photos: Russia celebrates National Flag Day amid war and tensions with the West
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Flooding across Caracas, Venezuela, after heavy rains
 Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss)
-
----
-
-### 9. DR Congo, M23 rebels agree on roadmap for peace talks
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss)
 
 ---
 
