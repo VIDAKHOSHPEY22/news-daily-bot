@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 14:16:11
+**Last Update:** 2026-08-23 14:57:42
 
 **Total News:** 12
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://henryaj.substack.com/p/the-sloppification-of-peptides">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407341">https://news.ycombinator.com/item?id=49407341</a></p>
-<p>Points: 12</p>
+<p>Points: 30</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://henryaj.substack.com/p/the-sloppification-of-peptides](https://henryaj.substack.com/p/the-sloppification-of-peptides)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/">https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407305">https://news.ycombinator.com/item?id=49407305</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Points: 15</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/](https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 107</p>
-<p># Comments: 86</p>
+<p>Points: 122</p>
+<p># Comments: 90</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 
@@ -97,42 +97,42 @@ The sacked former defence minister has also called for elections to be held in U
 
 ---
 
-### 7. How the deadliest Bundibugyo Ebola outbreak can be stopped
+### 7. Explosion injures 13 in Taiwan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The priorities are clear: reach every affected area, protect frontline workers, and turn commitments into action.
+Explosion injures 13 in Taiwan
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss)
 
 ---
 
-### 8. Israeli air strike near Gaza refugee camp kills one person and injures two
+### 8. Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli air attack near Gaza&#039;s Maghazi camp kills one person and injures two others.
+The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss](https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss)
 
 ---
 
-### 9. 37 injured as magnitude 5.9 earthquake strikes eastern Japan
+### 9. Mourinho decries alleged bullying of Vinicius in Real’s win at Espanyol
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-37 injured as magnitude 5.9 earthquake strikes eastern Japan
+&#039;Vinicius is no saint, but what they&#039;re doing to him was ​too much,&#039; Mourinho said after Real&#039;s first match of La Liga.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss)
 
 ---
 
