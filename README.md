@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 22:23:12
+**Last Update:** 2026-08-23 22:57:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -97,7 +97,33 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 7. Video: Thousands of families flee fighting in Sudan’s North Kordofan State
+### 7. Zhou Bo: China’s alternative to Western power
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Senior Colonel Zhou Bo and Sreenivasan Jain discuss China&#039;s vision of a fairer, multipolar world and work towards that.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss](https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss)
+
+---
+
+### 8. Palestinian teen killed in Israeli raid buried in Occupied West Bank
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss)
+
+---
+
+### 9. Video: Thousands of families flee fighting in Sudan’s North Kordofan State
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss)
-
----
-
-### 8. Trump has ‘run out of options’ in Iran war: Stephen Walt
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss)
-
----
-
-### 9. Tunisia sees protests after migrant boat sinking kills eight
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A migrant boat carrying 15 Tunisians sank off the country&#039;s southeastern coast while heading to Italy, killing eight.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss)
 
 ---
 
