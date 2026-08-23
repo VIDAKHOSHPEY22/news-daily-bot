@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 05:21:57
+**Last Update:** 2026-08-23 05:35:58
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Software Engineering in the Agentic Era
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405117">https://news.ycombinator.com/item?id=49405117</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
-
----
-
-### 2. US Military newspaper editor voices censorship fears after being fired
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cm2g23ng8p4o">https://www.bbc.com/news/articles/cm2g23ng8p4o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405110">https://news.ycombinator.com/item?id=49405110</a></p>
-<p>Points: 31</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/cm2g23ng8p4o](https://www.bbc.com/news/articles/cm2g23ng8p4o)
-
----
-
-### 3. NanoGPT Speedrun Frontier
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 44</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
-
----
-
-### 4. Two police officers among seven killed in wrong-way car crash
+### 1. Two police officers among seven killed in wrong-way car crash
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down 
 
 ---
 
-### 5. Video appears to show police chase minutes before fatal A66 crash
+### 2. Video appears to show police chase minutes before fatal A66 crash
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Several police vehicles are seen chasing a car just three minutes before the cra
 
 ---
 
-### 6. Struggling households need more help with bills, energy industry says
+### 3. Struggling households need more help with bills, energy industry says
 
 **Source:** BBC
 
@@ -97,7 +49,7 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. Iran war live: Tehran warns neighbours against joining US economic war
+### 4. Iran war live: Tehran warns neighbours against joining US economic war
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ Official says any state joining US would be considered an enemy and Tehran would
 
 ---
 
-### 8. Iran threatens countries that join US ‘economic D-Day’
+### 5. Iran threatens countries that join US ‘economic D-Day’
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ Iran warns that countries joining the US economic war against Iran will face ‘
 
 ---
 
-### 9. Iran warns nearby nations against joining US ‘economic war’ efforts
+### 6. Iran warns nearby nations against joining US ‘economic war’ efforts
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 ---
 
-### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 7. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Windmill, Stillwater, Montana
+### 8. Wildfire Windmill, Stillwater, Montana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire North Heglar, Cassia, Idaho
+### 9. Wildfire North Heglar, Cassia, Idaho
 
 **Source:** NASA
 
