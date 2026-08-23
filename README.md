@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 19:12:31
+**Last Update:** 2026-08-23 20:04:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -97,42 +97,42 @@ Customers say the disruption to virtually all UK CrossCountry services is the "w
 
 ---
 
-### 7. Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions
+### 7. French President Macron to host Saudi Crown Prince MBS in Paris for talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.
+Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macron and Mohammed bin Salman&#039;s discussions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss)
 
 ---
 
-### 8. PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
+### 8. Can Nigeria cash in on Iran war?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.
+Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss](https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss)
 
 ---
 
-### 9. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
+### 9. Canada, US and tit-for-tat tariffs: How will they impact their economies?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino&#039;s resignation amid FIFA crisis.
+Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss)
 
 ---
 
