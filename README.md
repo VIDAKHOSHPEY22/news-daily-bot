@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 16:24:33
+**Last Update:** 2026-08-23 16:37:15
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvg92y1wzn8o">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407576">https://news.ycombinator.com/item?id=49407576</a></p>
-<p>Points: 32</p>
-<p># Comments: 14</p>
+<p>Points: 44</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvg92y1wzn8o](https://www.bbc.com/news/articles/cvg92y1wzn8o)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/">https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407509">https://news.ycombinator.com/item?id=49407509</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/">https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407507">https://news.ycombinator.com/item?id=49407507</a></p>
-<p>Points: 65</p>
-<p># Comments: 27</p>
+<p>Points: 81</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 
@@ -84,14 +84,14 @@ Housing minister Matthew Pennycook said the change was "essential" for helping m
 
 ---
 
-### 6. Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC
+### 6. Zelensky should be asked what he knew about government corruption, sacked minister tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The sacked former defence minister has also called for elections to be held in Ukraine.
+The former defence minister has also called for wartime elections to be held in Ukraine.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss)
 
