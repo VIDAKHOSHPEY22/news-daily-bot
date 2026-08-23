@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 00:14:45
+**Last Update:** 2026-08-24 00:58:32
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -58,14 +58,14 @@
 
 ---
 
-### 4. 'Pain of losing him is beyond words': Families of two police officers killed in crash pay tribute
+### 4. Families of two police officers killed in crash say they were heroes
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tom Clough and Matthew Blades died along with five others when a car crashed into their vehicle.
+PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ CrossCountry says its "key priority" is now restoring as close to a normal servi
 
 ---
 
-### 7. Is Israel about to split the occupied West Bank in half?
+### 7. Landfill collapse kills 30 in Guinea’s capital after heavy rains
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A mound of waste collapsed at a landfill in Conakry, Guinea, after heavy overnight rains, engulfing nearby homes.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss)
+
+---
+
+### 8. Is Israel about to split the occupied West Bank in half?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israel is moving forward with its ‘E1’ plan. What is it and why could it thr
 
 ---
 
-### 8. Severe winds toss four aircraft across Italian airport tarmac
+### 9. Severe winds toss four aircraft across Italian airport tarmac
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israel is moving forward with its ‘E1’ plan. What is it and why could it thr
 Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss)
-
----
-
-### 9. Photos: IndyCars speed past Washington landmarks as part of Freedom 250
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss)
 
 ---
 
