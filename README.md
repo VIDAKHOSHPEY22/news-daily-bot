@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 17:19:58
+**Last Update:** 2026-08-23 18:00:18
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Malware infects Android-based automotive head unit firmware
+### 1. Death to px, long live ch
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408889">https://news.ycombinator.com/item?id=49408889</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
+
+---
+
+### 2. My favorite nonfiction books about cults, scams, and schemes
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes">https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408858">https://news.ycombinator.com/item?id=49408858</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+
+---
+
+### 3. Malware infects Android-based automotive head unit firmware
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://securelist.com/android-head-unit-malware/121106/">https://securelist.com/android-head-unit-malware/121106/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408550">https://news.ycombinator.com/item?id=49408550</a></p>
-<p>Points: 31</p>
-<p># Comments: 3</p>
+<p>Points: 66</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://securelist.com/android-head-unit-malware/121106/](https://securelist.com/android-head-unit-malware/121106/)
-
----
-
-### 2. Sydney Marathon medal mistakenly depicts Munich stadium
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cvg92y1wzn8o">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407576">https://news.ycombinator.com/item?id=49407576</a></p>
-<p>Points: 59</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/cvg92y1wzn8o](https://www.bbc.com/news/articles/cvg92y1wzn8o)
-
----
-
-### 3. Iranian hackers shut down UK power plant for 4 days
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/">https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407509">https://news.ycombinator.com/item?id=49407509</a></p>
-<p>Points: 28</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
 
 ---
 
@@ -97,42 +97,42 @@ Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.
 
 ---
 
-### 7. Heavy Israeli air strike hits warehouse in central Gaza
+### 7. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy Israeli air strike hits warehouse in central Gaza
+Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino&#039;s resignation amid FIFA crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss)
 
 ---
 
-### 8. Dozens of attacks in southern Thailand wound three people
+### 8. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.
+In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss)
 
 ---
 
-### 9. AI fraud costing victims millions of dollars
+### 9. Chelsea preview: Five key talking points for 2026-27 Premier League season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.
+Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss)
 
 ---
 
