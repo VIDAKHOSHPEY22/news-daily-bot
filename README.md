@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 18:59:39
+**Last Update:** 2026-08-23 19:12:31
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -97,7 +97,20 @@ Customers say the disruption to virtually all UK CrossCountry services is the "w
 
 ---
 
-### 7. PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
+### 7. Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss)
+
+---
+
+### 8. PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ India and Bangladesh have not been able to move past the contentious question of
 
 ---
 
-### 8. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
+### 9. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ India and Bangladesh have not been able to move past the contentious question of
 Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino&#039;s resignation amid FIFA crisis.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss)
-
----
-
-### 9. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss)
 
 ---
 
