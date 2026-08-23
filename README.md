@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 23:11:18
+**Last Update:** 2026-08-24 00:01:49
 
 **Total News:** 12
 
@@ -71,16 +71,16 @@ Officers had been pursing a car before it went the wrong way down a dual carriag
 
 ---
 
-### 5. CrossCountry cancels 'almost all' UK services after power cut
+### 5. CrossCountry to provide full service on Monday after major disruption
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Customers say the disruption to virtually all UK CrossCountry services is the "worst case scenario".
+CrossCountry says its "key priority" is now restoring as close to a normal service as possible.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 7. Zhou Bo: China’s alternative to Western power
+### 7. Severe winds toss four aircraft across Italian airport tarmac
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senior Colonel Zhou Bo and Sreenivasan Jain discuss China&#039;s vision of a fairer, multipolar world and work towards that.
+Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss](https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss)
 
 ---
 
-### 8. Palestinian teen killed in Israeli raid buried in Occupied West Bank
+### 8. Photos: IndyCars speed past Washington landmarks as part of Freedom 250
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.
+Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss)
 
 ---
 
-### 9. Video: Thousands of families flee fighting in Sudan’s North Kordofan State
+### 9. Gaza’s hospitals are running out of oxygen as healthcare nears collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
+Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss)
 
 ---
 
