@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T15:10:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Sloppification of Peptides",
+            "description": "<p>Article URL: <a href=\"https://henryaj.substack.com/p/the-sloppification-of-peptides\">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407341\">https://news.ycombinator.com/item?id=49407341</a></p>\n<p>Points: 30</p>\n<p># Comments: 0</p>",
+            "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+            "published": "Sun, 23 Aug 2026 09:32:54 +0000",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
+            "description": "<p>Article URL: <a href=\"https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/\">https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407305\">https://news.ycombinator.com/item?id=49407305</a></p>\n<p>Points: 15</p>\n<p># Comments: 8</p>",
+            "url": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
+            "published": "Sun, 23 Aug 2026 09:26:55 +0000",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+            "description": "<p>Article URL: <a href=\"https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/\">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406539\">https://news.ycombinator.com/item?id=49406539</a></p>\n<p>Points: 122</p>\n<p># Comments: 90</p>",
+            "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+            "published": "Sun, 23 Aug 2026 06:41:51 +0000",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+            "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mayors to get powers to overrule local councils on planning decisions",
+            "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 10:02:23 GMT",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+            "description": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 09:37:05 GMT",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Explosion injures 13 in Taiwan",
+            "description": "Explosion injures 13 in Taiwan",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 11:06:38 +0000",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
+            "description": "The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.",
+            "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 11:00:18 +0000",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mourinho decries alleged bullying of Vinicius in Real’s win at Espanyol",
+            "description": "&#039;Vinicius is no saint, but what they&#039;re doing to him was ​too much,&#039; Mourinho said after Real&#039;s first match of La Liga.",
+            "url": "https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 10:56:21 +0000",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T15:10:54+03:30"
+        }
+    ]
+}
