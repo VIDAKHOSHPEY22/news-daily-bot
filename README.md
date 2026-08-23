@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 02:13:57
+**Last Update:** 2026-08-24 02:58:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -84,16 +84,16 @@ Officers had been pursing a car before it went the wrong way down a dual carriag
 
 ---
 
-### 6. CrossCountry to provide full service on Monday after major disruption
+### 6. How easy is it to find an NHS dentist? It depends where you live
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-CrossCountry says its "key priority" is now restoring as close to a normal service as possible.
+Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
