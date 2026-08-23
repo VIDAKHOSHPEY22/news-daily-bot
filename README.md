@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 06:40:52
+**Last Update:** 2026-08-23 06:56:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 54</p>
+<p>Points: 56</p>
 <p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Two police officers among seven killed in wrong-way car crash
+### 4. Mayors to get powers to overrule local councils on planning decisions
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Housing minister Matthew Pennycook said the change was "essential" for helping mayors "effectively deliver new homes".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Two police officers among seven killed in wrong-way car crash
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Video appears to show police chase minutes before fatal A66 crash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,7 +97,20 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. Canada to hit US with retaliatory tariffs as trade war escalates
+### 7. Chinese robot beats Usain Bolt’s 100m world record at humanoid games
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss)
+
+---
+
+### 8. Canada to hit US with retaliatory tariffs as trade war escalates
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Mark Carney says Canada will impose tariffs starting September 8 on imports of U
 
 ---
 
-### 8. Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
+### 9. Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Mark Carney says Canada will impose tariffs starting September 8 on imports of U
 Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss)
-
----
-
-### 9. Iran war live: Tehran warns neighbours against joining US economic war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss)
 
 ---
 
