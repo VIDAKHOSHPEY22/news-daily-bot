@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 05:35:58
+**Last Update:** 2026-08-23 06:40:52
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Two police officers among seven killed in wrong-way car crash
+### 1. NanoGPT Speedrun Frontier
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
+<p>Points: 54</p>
+<p># Comments: 18</p>
+
+🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
+
+---
+
+### 2. NetBSD and my life (2005)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
+<p>Points: 101</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+
+---
+
+### 3. hdiutil is deprecated in macOS 27 Golden Gate
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lapcatsoftware.com/articles/2026/8/7.html">https://lapcatsoftware.com/articles/2026/8/7.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402741">https://news.ycombinator.com/item?id=49402741</a></p>
+<p>Points: 168</p>
+<p># Comments: 70</p>
+
+🔗 **Read more:** [https://lapcatsoftware.com/articles/2026/8/7.html](https://lapcatsoftware.com/articles/2026/8/7.html)
+
+---
+
+### 4. Two police officers among seven killed in wrong-way car crash
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down 
 
 ---
 
-### 2. Video appears to show police chase minutes before fatal A66 crash
+### 5. Video appears to show police chase minutes before fatal A66 crash
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Several police vehicles are seen chasing a car just three minutes before the cra
 
 ---
 
-### 3. Struggling households need more help with bills, energy industry says
+### 6. Struggling households need more help with bills, energy industry says
 
 **Source:** BBC
 
@@ -49,7 +97,33 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 4. Iran war live: Tehran warns neighbours against joining US economic war
+### 7. Canada to hit US with retaliatory tariffs as trade war escalates
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss)
+
+---
+
+### 8. Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss)
+
+---
+
+### 9. Iran war live: Tehran warns neighbours against joining US economic war
 
 **Source:** Al Jazeera
 
@@ -62,33 +136,7 @@ Official says any state joining US would be considered an enemy and Tehran would
 
 ---
 
-### 5. Iran threatens countries that join US ‘economic D-Day’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss)
-
----
-
-### 6. Iran warns nearby nations against joining US ‘economic war’ efforts
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss)
-
----
-
-### 7. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Windmill, Stillwater, Montana
+### 11. Wildfire Windmill, Stillwater, Montana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire North Heglar, Cassia, Idaho
+### 12. Wildfire North Heglar, Cassia, Idaho
 
 **Source:** NASA
 
