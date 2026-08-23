@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T17:08:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Malware infects Android-based automotive head unit firmware",
+            "description": "<p>Article URL: <a href=\"https://securelist.com/android-head-unit-malware/121106/\">https://securelist.com/android-head-unit-malware/121106/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49408550\">https://news.ycombinator.com/item?id=49408550</a></p>\n<p>Points: 31</p>\n<p># Comments: 3</p>",
+            "url": "https://securelist.com/android-head-unit-malware/121106/",
+            "published": "Sun, 23 Aug 2026 13:05:38 +0000",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvg92y1wzn8o\">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407576\">https://news.ycombinator.com/item?id=49407576</a></p>\n<p>Points: 59</p>\n<p># Comments: 35</p>",
+            "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+            "published": "Sun, 23 Aug 2026 10:14:48 +0000",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Iranian hackers shut down UK power plant for 4 days",
+            "description": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/\">https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407509\">https://news.ycombinator.com/item?id=49407509</a></p>\n<p>Points: 28</p>\n<p># Comments: 9</p>",
+            "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+            "published": "Sun, 23 Aug 2026 10:03:01 +0000",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+            "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mayors to get powers to overrule local councils on planning decisions",
+            "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 10:02:23 GMT",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+            "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 12:56:43 GMT",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Heavy Israeli air strike hits warehouse in central Gaza",
+            "description": "Heavy Israeli air strike hits warehouse in central Gaza",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 13:20:57 +0000",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dozens of attacks in southern Thailand wound three people",
+            "description": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
+            "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 13:08:37 +0000",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AI fraud costing victims millions of dollars",
+            "description": "Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 13:08:06 +0000",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T17:08:12+03:30"
+        }
+    ]
+}

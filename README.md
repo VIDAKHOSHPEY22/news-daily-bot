@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 16:37:15
+**Last Update:** 2026-08-23 17:08:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sydney Marathon medal mistakenly depicts Munich stadium
+### 1. Malware infects Android-based automotive head unit firmware
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://securelist.com/android-head-unit-malware/121106/">https://securelist.com/android-head-unit-malware/121106/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408550">https://news.ycombinator.com/item?id=49408550</a></p>
+<p>Points: 31</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://securelist.com/android-head-unit-malware/121106/](https://securelist.com/android-head-unit-malware/121106/)
+
+---
+
+### 2. Sydney Marathon medal mistakenly depicts Munich stadium
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cvg92y1wzn8o">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407576">https://news.ycombinator.com/item?id=49407576</a></p>
-<p>Points: 44</p>
-<p># Comments: 21</p>
+<p>Points: 59</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cvg92y1wzn8o](https://www.bbc.com/news/articles/cvg92y1wzn8o)
 
 ---
 
-### 2. Iranian hackers shut down UK power plant for 4 days
+### 3. Iranian hackers shut down UK power plant for 4 days
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/">https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407509">https://news.ycombinator.com/item?id=49407509</a></p>
-<p>Points: 16</p>
-<p># Comments: 2</p>
+<p>Points: 28</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)
-
----
-
-### 3. I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/">https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49407507">https://news.ycombinator.com/item?id=49407507</a></p>
-<p>Points: 81</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/)
 
 ---
 
@@ -91,48 +91,48 @@ Housing minister Matthew Pennycook said the change was "essential" for helping m
 **Category:** world
 
 **Description:**
-The former defence minister has also called for wartime elections to be held in Ukraine.
+Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Zelenskyy says wartime elections could ‘destroy’ Ukraine
+### 7. Heavy Israeli air strike hits warehouse in central Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The embattled Ukrainian president slams Mykhailo Fedorov&#039;s idea as a &#039;tsunami&#039; that would &#039;split&#039; the country.
+Heavy Israeli air strike hits warehouse in central Gaza
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss)
 
 ---
 
-### 8. DR Congo miners risk Ebola to make a living
+### 8. Dozens of attacks in southern Thailand wound three people
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-DR Congo miners risk Ebola to make a living
+Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss)
 
 ---
 
-### 9. Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win
+### 9. AI fraud costing victims millions of dollars
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Real Madrid coach Jose Mourinho has criticised the bullying of Vinicius Junior by opponents and fans.
+Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss)
 
 ---
 
