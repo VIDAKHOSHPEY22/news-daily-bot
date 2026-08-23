@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 03:10:55
+**Last Update:** 2026-08-23 05:21:57
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. NanoGPT Speedrun Frontier
+### 1. Software Engineering in the Agentic Era
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405117">https://news.ycombinator.com/item?id=49405117</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
+
+---
+
+### 2. US Military newspaper editor voices censorship fears after being fired
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cm2g23ng8p4o">https://www.bbc.com/news/articles/cm2g23ng8p4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405110">https://news.ycombinator.com/item?id=49405110</a></p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/cm2g23ng8p4o](https://www.bbc.com/news/articles/cm2g23ng8p4o)
+
+---
+
+### 3. NanoGPT Speedrun Frontier
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 44</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
-
----
-
-### 2. English ↔ Claudish Translator
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://programasweights.com/claudish">https://programasweights.com/claudish</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402907">https://news.ycombinator.com/item?id=49402907</a></p>
-<p>Points: 38</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://programasweights.com/claudish](https://programasweights.com/claudish)
-
----
-
-### 3. NetBSD and my life (2005)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 82</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 
 ---
 
@@ -97,42 +97,42 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
+### 7. Iran war live: Tehran warns neighbours against joining US economic war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.
+Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss)
 
 ---
 
-### 8. Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
+### 8. Iran threatens countries that join US ‘economic D-Day’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham&#039;s opener.
+Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss)
 
 ---
 
-### 9. Open-air cinema brings movie nights back to Khartoum
+### 9. Iran warns nearby nations against joining US ‘economic war’ efforts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.
+The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss)
 
 ---
 

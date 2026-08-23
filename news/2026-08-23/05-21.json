@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T05:21:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Software Engineering in the Agentic Era",
+            "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/\">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405117\">https://news.ycombinator.com/item?id=49405117</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+            "published": "Sun, 23 Aug 2026 00:20:21 +0000",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US Military newspaper editor voices censorship fears after being fired",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cm2g23ng8p4o\">https://www.bbc.com/news/articles/cm2g23ng8p4o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405110\">https://news.ycombinator.com/item?id=49405110</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p>",
+            "url": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
+            "published": "Sun, 23 Aug 2026 00:19:17 +0000",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NanoGPT Speedrun Frontier",
+            "description": "<p>Article URL: <a href=\"https://www.primeintellect.ai/research/nanogpt-speedrun\">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49404380\">https://news.ycombinator.com/item?id=49404380</a></p>\n<p>Points: 44</p>\n<p># Comments: 12</p>",
+            "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+            "published": "Sat, 22 Aug 2026 22:14:27 +0000",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two police officers among seven killed in wrong-way car crash",
+            "description": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 19:28:14 GMT",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video appears to show police chase minutes before fatal A66 crash",
+            "description": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
+            "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 20:14:04 GMT",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Struggling households need more help with bills, energy industry says",
+            "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 23:00:03 GMT",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+            "description": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran threatens countries that join US ‘economic D-Day’",
+            "description": "Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 23:56:32 +0000",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+            "description": "The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.",
+            "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+            "published": "Sat, 22 Aug 2026 23:26:15 +0000",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T05:21:57+03:30"
+        }
+    ]
+}
