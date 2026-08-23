@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T08:15:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+            "description": "<p>Article URL: <a href=\"https://martypc.net/\">https://martypc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405816\">https://news.ycombinator.com/item?id=49405816</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://martypc.net/",
+            "published": "Sun, 23 Aug 2026 03:13:16 +0000",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Dream of Quieter Computing",
+            "description": "<p>Article URL: <a href=\"https://henry.codes/writing/i-dream-of-quieter-computing/\">https://henry.codes/writing/i-dream-of-quieter-computing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405682\">https://news.ycombinator.com/item?id=49405682</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+            "published": "Sun, 23 Aug 2026 02:33:22 +0000",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Art and Beauty of Blade Runner",
+            "description": "<p>Article URL: <a href=\"https://nappertime.com/the-art-of-and-beauty-of-blade-runner/\">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405331\">https://news.ycombinator.com/item?id=49405331</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
+            "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+            "published": "Sun, 23 Aug 2026 00:56:03 +0000",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mayors to get powers to overrule local councils on planning decisions",
+            "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 03:10:51 GMT",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two police officers among seven killed in wrong-way car crash",
+            "description": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 19:28:14 GMT",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Struggling households need more help with bills, energy industry says",
+            "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 23:00:03 GMT",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+            "description": "Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 03:42:22 +0000",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "In rural Chad, solar kiosks bring healthcare closer",
+            "description": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
+            "url": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 03:21:03 +0000",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+            "description": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 03:16:19 +0000",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T08:15:22+03:30"
+        }
+    ]
+}

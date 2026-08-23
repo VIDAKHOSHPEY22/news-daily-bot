@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 07:37:14
+**Last Update:** 2026-08-23 08:15:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Art and Beauty of Blade Runner
+### 1. MartyPC is a cross-platform emulator of early PCs written in Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://martypc.net/">https://martypc.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405816">https://news.ycombinator.com/item?id=49405816</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://martypc.net/](https://martypc.net/)
+
+---
+
+### 2. I Dream of Quieter Computing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://henry.codes/writing/i-dream-of-quieter-computing/">https://henry.codes/writing/i-dream-of-quieter-computing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405682">https://news.ycombinator.com/item?id=49405682</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://henry.codes/writing/i-dream-of-quieter-computing/](https://henry.codes/writing/i-dream-of-quieter-computing/)
+
+---
+
+### 3. The Art and Beauty of Blade Runner
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nappertime.com/the-art-of-and-beauty-of-blade-runner/">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49405331">https://news.ycombinator.com/item?id=49405331</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://nappertime.com/the-art-of-and-beauty-of-blade-runner/](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
-
----
-
-### 2. NanoGPT Speedrun Frontier
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.primeintellect.ai/research/nanogpt-speedrun">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49404380">https://news.ycombinator.com/item?id=49404380</a></p>
-<p>Points: 65</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.primeintellect.ai/research/nanogpt-speedrun](https://www.primeintellect.ai/research/nanogpt-speedrun)
-
----
-
-### 3. NetBSD and my life (2005)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49402781">https://news.ycombinator.com/item?id=49402781</a></p>
-<p>Points: 103</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
 
 ---
 
@@ -97,7 +97,20 @@ Industry body Energy UK says the current support for households most in need doe
 
 ---
 
-### 7. In rural Chad, solar kiosks bring healthcare closer
+### 7. ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss)
+
+---
+
+### 8. In rural Chad, solar kiosks bring healthcare closer
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Solar-powered telemedicine is helping rural Chadians overcome distance and limit
 
 ---
 
-### 8. Chinese robot beats Usain Bolt’s 100m world record at humanoid games
+### 9. Chinese robot beats Usain Bolt’s 100m world record at humanoid games
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Solar-powered telemedicine is helping rural Chadians overcome distance and limit
 A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss)
-
----
-
-### 9. Canada to hit US with retaliatory tariffs as trade war escalates
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss)
 
 ---
 
