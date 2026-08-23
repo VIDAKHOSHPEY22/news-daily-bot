@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 21:10:32
+**Last Update:** 2026-08-23 22:09:47
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -97,42 +97,42 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 7. Landfill collapse in Guinea kills at least 22 people
+### 7. Video: Thousands of families flee fighting in Sudan’s North Kordofan State
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy rains wash over the site, triggering a landslide that buries several shacks.
+Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss)
 
 ---
 
-### 8. Photos: Ukraine celebrates National Flag Day
+### 8. Trump has ‘run out of options’ in Iran war: Stephen Walt
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-People observe a minute of silence for those killed in war to mark the holiday established in 2004.
+Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss)
 
 ---
 
-### 9. LIVE: Elche vs Barcelona – La Liga
+### 9. Tunisia sees protests after migrant boat sinking kills eight
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.
+A migrant boat carrying 15 Tunisians sank off the country&#039;s southeastern coast while heading to Italy, killing eight.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss)
 
 ---
 
