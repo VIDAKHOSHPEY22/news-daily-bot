@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T23:11:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+            "description": "<p>Article URL: <a href=\"https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409200\">https://news.ycombinator.com/item?id=49409200</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+            "published": "Sun, 23 Aug 2026 14:38:25 +0000",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Authoritarianism of Code",
+            "description": "<p>Article URL: <a href=\"https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409184\">https://news.ycombinator.com/item?id=49409184</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+            "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+            "published": "Sun, 23 Aug 2026 14:36:38 +0000",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Is a Harness?",
+            "description": "<p>Article URL: <a href=\"https://earendil.com/posts/what-is-a-harness/\">https://earendil.com/posts/what-is-a-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409092\">https://news.ycombinator.com/item?id=49409092</a></p>\n<p>Points: 27</p>\n<p># Comments: 15</p>",
+            "url": "https://earendil.com/posts/what-is-a-harness/",
+            "published": "Sun, 23 Aug 2026 14:24:21 +0000",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
+            "description": "Officers had been pursing a car before it went the wrong way down a dual carriageway.",
+            "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 14:58:40 GMT",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CrossCountry cancels 'almost all' UK services after power cut",
+            "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 14:05:16 GMT",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+            "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 19:11:30 GMT",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zhou Bo: China’s alternative to Western power",
+            "description": "Senior Colonel Zhou Bo and Sreenivasan Jain discuss China&#039;s vision of a fairer, multipolar world and work towards that.",
+            "url": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 19:00:56 +0000",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+            "description": "Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 18:47:11 +0000",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+            "description": "Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 18:27:46 +0000",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T23:11:18+03:30"
+        }
+    ]
+}
