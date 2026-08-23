@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T14:16:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Sloppification of Peptides",
+            "description": "<p>Article URL: <a href=\"https://henryaj.substack.com/p/the-sloppification-of-peptides\">https://henryaj.substack.com/p/the-sloppification-of-peptides</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407341\">https://news.ycombinator.com/item?id=49407341</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+            "published": "Sun, 23 Aug 2026 09:32:54 +0000",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
+            "description": "<p>Article URL: <a href=\"https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/\">https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407305\">https://news.ycombinator.com/item?id=49407305</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
+            "published": "Sun, 23 Aug 2026 09:26:55 +0000",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+            "description": "<p>Article URL: <a href=\"https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/\">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406539\">https://news.ycombinator.com/item?id=49406539</a></p>\n<p>Points: 107</p>\n<p># Comments: 86</p>",
+            "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+            "published": "Sun, 23 Aug 2026 06:41:51 +0000",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+            "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mayors to get powers to overrule local councils on planning decisions",
+            "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 10:02:23 GMT",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+            "description": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 09:37:05 GMT",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the deadliest Bundibugyo Ebola outbreak can be stopped",
+            "description": "The priorities are clear: reach every affected area, protect frontline workers, and turn commitments into action.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/23/how-the-deadliest-bundibugyo-ebola-outbreak-can-be-stopped?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 10:00:20 +0000",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli air strike near Gaza refugee camp kills one person and injures two",
+            "description": "Israeli air attack near Gaza&#039;s Maghazi camp kills one person and injures two others.",
+            "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 09:43:47 +0000",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+            "description": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 09:21:12 +0000",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T14:16:11+03:30"
+        }
+    ]
+}
