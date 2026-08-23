@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 11:22:37
+**Last Update:** 2026-08-23 12:09:37
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/">https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406539">https://news.ycombinator.com/item?id=49406539</a></p>
-<p>Points: 49</p>
-<p># Comments: 30</p>
+<p>Points: 74</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://malisper.me/jit-compiling-code-in-5-us/">https://malisper.me/jit-compiling-code-in-5-us/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406387">https://news.ycombinator.com/item?id=49406387</a></p>
-<p>Points: 33</p>
-<p># Comments: 2</p>
+<p>Points: 44</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://malisper.me/jit-compiling-code-in-5-us/](https://malisper.me/jit-compiling-code-in-5-us/)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="http://www.os2museum.com/wp/the-end-of-an-athlon/">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49406333">https://news.ycombinator.com/item?id=49406333</a></p>
-<p>Points: 47</p>
-<p># Comments: 6</p>
+<p>Points: 63</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [http://www.os2museum.com/wp/the-end-of-an-athlon/](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 
 ---
 
-### 4. Police officers killed in wrong-way crash mourned in 'unimaginable loss'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-PC Matthew Blades, PC Tom Clough and five young people were killed when a car drove the wrong way on the A66 and struck the police vehicle.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Mayors to get powers to overrule local councils on planning decisions
+### 4. Mayors to get powers to overrule local councils on planning decisions
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Housing minister Matthew Pennycook said the change was "essential" for helping m
 
 ---
 
-### 6. Trump says Canada wants 'benefits' of being US state after trade talks collapse
+### 5. Trump says Canada wants 'benefits' of being US state after trade talks collapse
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 7. Kazakhstan holds parliamentary election expected to cement president’s grip
+### 6. Plan to restrict serious offenders to certain areas to start in October
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.
+Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Infantino defies FIFA vice president, makes appearance in the Caribbean
+### 7. Flooding across Caracas, Venezuela, after heavy rains
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.
+Flooding across Caracas, Venezuela, after heavy rains
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss)
 
 ---
 
-### 9. Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
+### 8. Photos: Russia celebrates National Flag Day amid war and tensions with the West
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 23-time Grand Slam champion will not be playing singles, but could team up with her older sister Venus for doubles.
+Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss)
+
+---
+
+### 9. DR Congo, M23 rebels agree on roadmap for peace talks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss)
 
 ---
 
