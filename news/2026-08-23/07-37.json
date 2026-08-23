@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T07:37:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Art and Beauty of Blade Runner",
+            "description": "<p>Article URL: <a href=\"https://nappertime.com/the-art-of-and-beauty-of-blade-runner/\">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405331\">https://news.ycombinator.com/item?id=49405331</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+            "published": "Sun, 23 Aug 2026 00:56:03 +0000",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NanoGPT Speedrun Frontier",
+            "description": "<p>Article URL: <a href=\"https://www.primeintellect.ai/research/nanogpt-speedrun\">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49404380\">https://news.ycombinator.com/item?id=49404380</a></p>\n<p>Points: 65</p>\n<p># Comments: 18</p>",
+            "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+            "published": "Sat, 22 Aug 2026 22:14:27 +0000",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NetBSD and my life (2005)",
+            "description": "<p>Article URL: <a href=\"https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402781\">https://news.ycombinator.com/item?id=49402781</a></p>\n<p>Points: 103</p>\n<p># Comments: 28</p>",
+            "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+            "published": "Sat, 22 Aug 2026 19:07:46 +0000",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mayors to get powers to overrule local councils on planning decisions",
+            "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 03:10:51 GMT",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two police officers among seven killed in wrong-way car crash",
+            "description": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 19:28:14 GMT",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Struggling households need more help with bills, energy industry says",
+            "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 23:00:03 GMT",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "In rural Chad, solar kiosks bring healthcare closer",
+            "description": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
+            "url": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 03:21:03 +0000",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+            "description": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 03:16:19 +0000",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+            "description": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.",
+            "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 02:34:49 +0000",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T07:37:14+03:30"
+        }
+    ]
+}
