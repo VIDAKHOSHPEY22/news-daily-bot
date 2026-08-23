@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 20:17:26
+**Last Update:** 2026-08-23 20:56:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ Customers say the disruption to virtually all UK CrossCountry services is the "w
 
 ---
 
-### 7. French President Macron to host Saudi Crown Prince MBS in Paris for talks
+### 7. LIVE: Elche vs Barcelona – La Liga
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss)
+
+---
+
+### 8. French President Macron to host Saudi Crown Prince MBS in Paris for talks
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macro
 
 ---
 
-### 8. Can Nigeria cash in on Iran war?
+### 9. Can Nigeria cash in on Iran war?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Energy, regional conflicts, and bilateral cooperation to dominate Emmanuel Macro
 Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss)
-
----
-
-### 9. Canada, US and tit-for-tat tariffs: How will they impact their economies?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss](https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss)
 
 ---
 
