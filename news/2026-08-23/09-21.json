@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T09:21:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html\">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406069\">https://news.ycombinator.com/item?id=49406069</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+            "published": "Sun, 23 Aug 2026 04:28:18 +0000",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Golden Rule for Becoming a Better Writer",
+            "description": "<p>Article URL: <a href=\"https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/\">https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405870\">https://news.ycombinator.com/item?id=49405870</a></p>\n<p>Points: 27</p>\n<p># Comments: 7</p>",
+            "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+            "published": "Sun, 23 Aug 2026 03:32:25 +0000",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+            "description": "<p>Article URL: <a href=\"https://martypc.net/\">https://martypc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405816\">https://news.ycombinator.com/item?id=49405816</a></p>\n<p>Points: 57</p>\n<p># Comments: 4</p>",
+            "url": "https://martypc.net/",
+            "published": "Sun, 23 Aug 2026 03:13:16 +0000",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mayors to get powers to overrule local councils on planning decisions",
+            "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 03:10:51 GMT",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two police officers among seven killed in wrong-way car crash",
+            "description": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 19:28:14 GMT",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Struggling households need more help with bills, energy industry says",
+            "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 23:00:03 GMT",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
+            "description": "Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 05:10:05 +0000",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+            "description": "Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 03:42:22 +0000",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "In rural Chad, solar kiosks bring healthcare closer",
+            "description": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
+            "url": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 03:21:03 +0000",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T09:21:21+03:30"
+        }
+    ]
+}
