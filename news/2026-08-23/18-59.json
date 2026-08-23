@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-23T18:59:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+            "description": "<p>Article URL: <a href=\"https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409200\">https://news.ycombinator.com/item?id=49409200</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+            "published": "Sun, 23 Aug 2026 14:38:25 +0000",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Authoritarianism of Code",
+            "description": "<p>Article URL: <a href=\"https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409184\">https://news.ycombinator.com/item?id=49409184</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+            "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+            "published": "Sun, 23 Aug 2026 14:36:38 +0000",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Is a Harness?",
+            "description": "<p>Article URL: <a href=\"https://earendil.com/posts/what-is-a-harness/\">https://earendil.com/posts/what-is-a-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409092\">https://news.ycombinator.com/item?id=49409092</a></p>\n<p>Points: 27</p>\n<p># Comments: 15</p>",
+            "url": "https://earendil.com/posts/what-is-a-harness/",
+            "published": "Sun, 23 Aug 2026 14:24:21 +0000",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
+            "description": "Officers had been pursing a car before it went the wrong way down a dual carriageway.",
+            "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 14:58:40 GMT",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+            "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+            "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CrossCountry cancels 'almost all' UK services after power cut",
+            "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 14:05:16 GMT",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
+            "description": "India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.",
+            "url": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 14:17:18 +0000",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+            "description": "Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino&#039;s resignation amid FIFA crisis.",
+            "url": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 13:50:02 +0000",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+            "description": "In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.",
+            "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
+            "published": "Sun, 23 Aug 2026 13:37:50 +0000",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-23T18:59:39+03:30"
+        }
+    ]
+}

@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-23 18:15:04
+**Last Update:** 2026-08-23 18:59:39
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Death to px, long live ch
+### 1. Slovakia finds Russian backdoor in traffic speed cameras
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408889">https://news.ycombinator.com/item?id=49408889</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409200">https://news.ycombinator.com/item?id=49409200</a></p>
+<p>Points: 21</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/)
+🔗 **Read more:** [https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/](https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/)
 
 ---
 
-### 2. My favorite nonfiction books about cults, scams, and schemes
+### 2. Authoritarianism of Code
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes">https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408858">https://news.ycombinator.com/item?id=49408858</a></p>
-<p>Points: 19</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409184">https://news.ycombinator.com/item?id=49409184</a></p>
+<p>Points: 5</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+🔗 **Read more:** [https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/](https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/)
 
 ---
 
-### 3. Malware infects Android-based automotive head unit firmware
+### 3. What Is a Harness?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://securelist.com/android-head-unit-malware/121106/">https://securelist.com/android-head-unit-malware/121106/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49408550">https://news.ycombinator.com/item?id=49408550</a></p>
-<p>Points: 74</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://earendil.com/posts/what-is-a-harness/">https://earendil.com/posts/what-is-a-harness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49409092">https://news.ycombinator.com/item?id=49409092</a></p>
+<p>Points: 27</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://securelist.com/android-head-unit-malware/121106/](https://securelist.com/android-head-unit-malware/121106/)
+🔗 **Read more:** [https://earendil.com/posts/what-is-a-harness/](https://earendil.com/posts/what-is-a-harness/)
 
 ---
 
-### 4. Trump says Canada wants 'benefits' of being US state after trade talks collapse
+### 4. Police aborted pursuit about 10 seconds before fatal crash, watchdog says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Officers had been pursing a car before it went the wrong way down a dual carriageway.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Trump says Canada wants 'benefits' of being US state after trade talks collapse
 
 **Source:** BBC
 
@@ -71,33 +84,33 @@ Canada's PM said he was "reluctantly" announcing retaliatory tariffs and accused
 
 ---
 
-### 5. Mayors to get powers to overrule local councils on planning decisions
+### 6. CrossCountry cancels 'almost all' UK services after power cut
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Housing minister Matthew Pennycook said the change was "essential" for helping mayors "effectively deliver new homes".
+Customers say the disruption to virtually all UK CrossCountry services is the "worst case scenario".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Zelensky should be asked what he knew about government corruption, sacked minister tells BBC
+### 7. PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.
+India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss](https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss)
 
 ---
 
-### 7. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
+### 8. Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for I
 
 ---
 
-### 8. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
+### 9. The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for I
 In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss)
-
----
-
-### 9. Chelsea preview: Five key talking points for 2026-27 Premier League season
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss)
 
 ---
 
