@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 01:19:42
+**Last Update:** 2026-08-25 02:04:32
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. One corner of China’s internet is insisting that the Tang Dynasty never existed
+### 1. iCloud+ Hide My Email addresses will remain on icloud.com
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">https://news.ycombinator.com/item?id=49426564</a></p>
+<p>Points: 28</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://developer.apple.com/news/?id=1ptvdtcm](https://developer.apple.com/news/?id=1ptvdtcm)
+
+---
+
+### 2. One corner of China’s internet is insisting that the Tang Dynasty never existed
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425819">https://news.ycombinator.com/item?id=49425819</a></p>
-<p>Points: 35</p>
-<p># Comments: 16</p>
+<p>Points: 67</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 
 ---
 
-### 2. Vintage Artificial Intelligence: Before It Got Awkward
+### 3. Vintage Artificial Intelligence: Before It Got Awkward
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/">https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425800">https://news.ycombinator.com/item?id=49425800</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
-
----
-
-### 3. Oceans hit highest temperature on record
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c62m4gpnp78o">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424606">https://news.ycombinator.com/item?id=49424606</a></p>
-<p>Points: 248</p>
-<p># Comments: 118</p>
-
-🔗 **Read more:** [https://www.bbc.com/news/articles/c62m4gpnp78o](https://www.bbc.com/news/articles/c62m4gpnp78o)
 
 ---
 
