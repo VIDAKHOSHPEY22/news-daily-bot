@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 15:19:27
+**Last Update:** 2026-08-24 16:35:13
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -58,14 +58,14 @@
 
 ---
 
-### 4. Social media firms should remove dangerous driving videos, minister says
+### 4. Sharing dangerous driving videos is 'truly reprehensible', PM says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Defence minister Luke Pollard says "there's no place" for social media trend showing people driving the wrong way down roads.
+His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss)
 
@@ -84,7 +84,7 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 6. Graduate job vacancies drop by almost 50% in a year
+### 6. Graduate job vacancies drop by almost 50% in a year, survey suggests
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Job site Adzuna said the number of graduate vacancies was the lowest since 2016
 
 ---
 
-### 7. India used pellets, grenades on Gen Z protests: What Amnesty report reveals
+### 7. Four arrested over fatal shooting of South African boxer Zolani Tete
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Security forces used tear gas, pellet guns and electric shock devices against student protesters, Amnesty inquiry found.
+Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss)
 
 ---
 
-### 8. Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision
+### 8. South Korea says US cancelled upcoming joint marine exercises over Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AVROTROS says escalating international conflicts are undermining the event&#039;s neutrality and fuelling divisions.
+The cancellation follows Trump&#039;s surprise order last week to scale back a separate annual joint military drill.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss)
 
 ---
 
-### 9. US threatens toughest sanctions yet against Iran: What we know
+### 9. Activists occupy UK aircraft parts factory over Israel links
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran has threatened to retaliate against any country that joins new US economic measures.
+Pro-Palestine activists from the ‘People Against Genocide’ group occupied a Martin-Baker factory in the UK.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss)
 
 ---
 
