@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 13:27:14
+**Last Update:** 2026-08-24 13:37:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 4. UK minister urges social media firms to remove dangerous driving videos
+### 4. Social media firms should remove dangerous driving videos, minister says
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. Transfer target Julian Alvarez booed by fans in Atletico Madrid win
+### 7. US military says strike on alleged drug-smuggling boat kills two
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentinian striker was targeted by fans while warming up and jeered again after coming on in the 66th minute.
+US Southern Command says Sunday&#039;s strike targeted vessel operating along established narco-trafficking routes.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/transfer-target-julian-alvarez-booed-by-fans-in-atletico-madrid-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss)
 
 ---
 
-### 8. Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League
+### 8. Dozens of coordinated arson attacks carried out across Thailand
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil&#039;s Alison Dos Santos beats world record holder Karsten Warholm in a thrilling 400m hurdles final at the meet.
+Dozens of coordinated arson attacks carried out across Thailand
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/seville-jefferson-wooden-roar-to-100m-wins-at-silesia-diamond-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss)
 
 ---
 
-### 9. US threat of ‘economic D-Day’ for Iran tests Trump’s China detente
+### 9. Macron and MBS attend Esports World Cup closing ceremony
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Exerting maximum economic pressure on Tehran would risk blowback from Beijing.
+Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss)
 
 ---
 
