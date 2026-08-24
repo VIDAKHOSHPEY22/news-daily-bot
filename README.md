@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 09:28:44
+**Last Update:** 2026-08-24 10:42:49
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -58,20 +58,7 @@
 
 ---
 
-### 4. Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Families of two police officers killed in crash say they were heroes
+### 4. Families of two police officers killed in crash say they were heroes
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were 
 
 ---
 
-### 6. How easy is it to find an NHS dentist? It depends where you live
+### 5. How easy is it to find an NHS dentist? It depends where you live
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Nearly 600 practices in England have withdrawn from NHS dentistry over the last 
 
 ---
 
-### 7. Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m
+### 6. Nearly three million Teslas recalled in China over hidden door handles
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Maradona’s 1986 World Cup ball sold for $3.35m. He used his hand to score against England, dubbing it the ‘Hand of God’.
+Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc
+### 7. Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage filmed by a climber on Mont Blanc shows rocks cascading down the Goûter Couloir, known as ‘Death Pass’. The clim
+Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss)
 
 ---
 
-### 9. ‘We know this movie’: Iran mocks latest US sanctions
+### 8. Salah scores two goals, has two disallowed in first start for Trabzonspor
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.
+Salah started his first game for the Turkish Super Lig side, whom he joined on a free transfer earlier this month.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss)
+
+---
+
+### 9. Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+European football chief doesn&#039;t want to lose credibility over FIFA job but says Infantino will face a challenger.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss)
 
 ---
 
