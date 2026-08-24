@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 19:17:44
+**Last Update:** 2026-08-24 19:30:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -71,16 +71,16 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 5. UK missiles offer may help Ukraine - but they are not what Zelensky needs most
+### 5. Is UK's Storm Shadow missile a game changer for Ukraine?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.
+Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The former world champion was found guilty of lewd and libidinous behaviour towa
 
 ---
 
-### 7. Why Israeli settler attacks on Palestinians in West Bank are pogroms
+### 7. Are humanoid robots the future of warfare?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settler attacks, aided by military, increasingly fit the definition of a pogrom.
+Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss)
 
 ---
 
-### 8. Houses set on fire as fresh violence erupts in India’s Manipur
+### 8. Video: Russia launches rocket into space with military satellite
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.
+Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss)
 
 ---
 
-### 9. Algeria’s schools put Shakespeare before Molière in break from France
+### 9. UK to help Ukraine build Storm Shadow long-range missiles: Why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.
+The UK&#039;s willingness to share classified missile-production knowledge sets a potentially important precedent.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss)
 
 ---
 
