@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 14:28:36
+**Last Update:** 2026-08-24 15:06:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -84,20 +84,33 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 6. Tesla recalls nearly three million cars in China over hidden door handles
+### 6. Graduate job vacancies drop by almost 50% in a year
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.
+Job site Adzuna said the number of graduate vacancies was the lowest since 2016
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision
+### 7. India used pellets, grenades on Gen Z protests: What Amnesty report reveals
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Security forces used tear gas, pellet guns and electric shock devices against student protesters, Amnesty inquiry found.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss)
+
+---
+
+### 8. Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ AVROTROS says escalating international conflicts are undermining the event&#039;
 
 ---
 
-### 8. US threatens toughest sanctions yet against Iran: What we know
+### 9. US threatens toughest sanctions yet against Iran: What we know
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ AVROTROS says escalating international conflicts are undermining the event&#039;
 Tehran has threatened to retaliate against any country that joins new US economic measures.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss)
-
----
-
-### 9. Ukraine’s offensive against Russia causes petrol panic across Central Asia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia&#039;s allies.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss)
 
 ---
 
