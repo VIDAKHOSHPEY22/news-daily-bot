@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 16:35:13
+**Last Update:** 2026-08-24 16:56:49
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -71,7 +71,20 @@ His comments come as the government urged TikTok and other social media firms to
 
 ---
 
-### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 5. UK missiles offer may help Ukraine - but is not what Zelensky needs most
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ His comments come as the government urged TikTok and other social media firms to
 Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Graduate job vacancies drop by almost 50% in a year, survey suggests
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Job site Adzuna said the number of graduate vacancies was the lowest since 2016
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
