@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 19:30:50
+**Last Update:** 2026-08-24 20:17:33
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -97,42 +97,42 @@ The former world champion was found guilty of lewd and libidinous behaviour towa
 
 ---
 
-### 7. Are humanoid robots the future of warfare?
+### 7. Israeli strike on Gaza shelter extends casualty list
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanoid robots are breaking world records in sports, and are increasingly being developed and tested for military use.
+More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss)
 
 ---
 
-### 8. Video: Russia launches rocket into space with military satellite
+### 8. Nathan Cofnas on whether he feels responsible for Jason Arday’s death
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia says it has launched a military satellite into space on the back of a Soyuz-2.1 rocket from Arkhangelsk.
+Nathan Cofnas, who accused Cambridge professor Jason Arday of plagiarism, has addressed Arday’s death.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss)
 
 ---
 
-### 9. UK to help Ukraine build Storm Shadow long-range missiles: Why it matters
+### 9. England drop fast bowler Bryden Carse amid investigation into club incident
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UK&#039;s willingness to share classified missile-production knowledge sets a potentially important precedent.
+The 31-year-old Durham bowler will not play against Pakistan in the upcoming second Test match.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss)
 
 ---
 
