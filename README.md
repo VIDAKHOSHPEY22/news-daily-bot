@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 06:57:55
+**Last Update:** 2026-08-24 07:42:32
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -97,7 +97,20 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Human-caused Nevada wildfire forces 42,000 people to evacuate
+### 7. Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss)
+
+---
+
+### 8. Human-caused Nevada wildfire forces 42,000 people to evacuate
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate a
 
 ---
 
-### 8. Can Kenya’s AI ambitions coexist with Naivasha’s water needs?
+### 9. Can Kenya’s AI ambitions coexist with Naivasha’s water needs?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate a
 As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss)
-
----
-
-### 9. Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Case fatality rate climbs to nearly 48 percent in DRC, meaning almost one in two people infected with Ebola are dying.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss)
 
 ---
 
