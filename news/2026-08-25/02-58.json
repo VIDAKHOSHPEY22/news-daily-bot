@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T02:58:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+            "description": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=1ptvdtcm\">https://developer.apple.com/news/?id=1ptvdtcm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426564\">https://news.ycombinator.com/item?id=49426564</a></p>\n<p>Points: 106</p>\n<p># Comments: 23</p>",
+            "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+            "published": "Mon, 24 Aug 2026 22:13:40 +0000",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Moon",
+            "description": "<p>Article URL: <a href=\"https://ciechanow.ski/moon/\">https://ciechanow.ski/moon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426466\">https://news.ycombinator.com/item?id=49426466</a></p>\n<p>Points: 44</p>\n<p># Comments: 4</p>",
+            "url": "https://ciechanow.ski/moon/",
+            "published": "Mon, 24 Aug 2026 22:06:02 +0000",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+            "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk\">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49425819\">https://news.ycombinator.com/item?id=49425819</a></p>\n<p>Points: 91</p>\n<p># Comments: 65</p>",
+            "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+            "published": "Mon, 24 Aug 2026 21:03:06 +0000",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+            "description": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
+            "url": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 17:53:40 GMT",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the deadly A66 crash unfolded leaving seven dead",
+            "description": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
+            "url": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 16:55:42 GMT",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+            "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 17:29:59 GMT",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How US sanctions on Iran ripple through global markets and consumers",
+            "description": "New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
+            "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 22:46:02 +0000",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Supreme Court sides with Trump administration on mail voting",
+            "description": "Mail balloting has long been a favourite target of US President Donald Trump.",
+            "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 22:40:04 +0000",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+            "description": "Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.",
+            "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 22:32:26 +0000",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T02:58:45+03:30"
+        }
+    ]
+}

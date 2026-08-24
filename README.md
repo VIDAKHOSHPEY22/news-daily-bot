@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 02:18:57
+**Last Update:** 2026-08-25 02:58:45
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">https://news.ycombinator.com/item?id=49426564</a></p>
-<p>Points: 28</p>
-<p># Comments: 9</p>
+<p>Points: 106</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://developer.apple.com/news/?id=1ptvdtcm](https://developer.apple.com/news/?id=1ptvdtcm)
 
 ---
 
-### 2. One corner of China’s internet is insisting that the Tang Dynasty never existed
+### 2. Moon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ciechanow.ski/moon/">https://ciechanow.ski/moon/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426466">https://news.ycombinator.com/item?id=49426466</a></p>
+<p>Points: 44</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://ciechanow.ski/moon/](https://ciechanow.ski/moon/)
+
+---
+
+### 3. One corner of China’s internet is insisting that the Tang Dynasty never existed
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425819">https://news.ycombinator.com/item?id=49425819</a></p>
-<p>Points: 67</p>
-<p># Comments: 47</p>
+<p>Points: 91</p>
+<p># Comments: 65</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
-
----
-
-### 3. Vintage Artificial Intelligence: Before It Got Awkward
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/">https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425800">https://news.ycombinator.com/item?id=49425800</a></p>
-<p>Points: 24</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
 
 ---
 
@@ -97,42 +97,42 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Jeffries-Kushner meeting sparks speculation amid contentious US midterms
+### 7. How US sanctions on Iran ripple through global markets and consumers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Private meeting between Jeffries and Kushner fuels discussions amid contentious US midterm battle.
+New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss)
 
 ---
 
-### 8. US public support for Iran war falls as Trump approval at record low: Poll
+### 8. US Supreme Court sides with Trump administration on mail voting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
+Mail balloting has long been a favourite target of US President Donald Trump.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss)
 
 ---
 
-### 9. Iconic Palestinian artist Sliman Mansour passes away at age 79
+### 9. US removes Syria from ‘state sponsor of terrorism’ list
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian artist Sliman Mansour, whose work became a symbol of struggle and resistance, has died at age 79.
+Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss)
 
 ---
 
