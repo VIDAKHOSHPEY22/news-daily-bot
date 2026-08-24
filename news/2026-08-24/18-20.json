@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-24T18:20:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+            "description": "<p>Article URL: <a href=\"https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409200\">https://news.ycombinator.com/item?id=49409200</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+            "published": "Sun, 23 Aug 2026 14:38:25 +0000",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Authoritarianism of Code",
+            "description": "<p>Article URL: <a href=\"https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409184\">https://news.ycombinator.com/item?id=49409184</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+            "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+            "published": "Sun, 23 Aug 2026 14:36:38 +0000",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Is a Harness?",
+            "description": "<p>Article URL: <a href=\"https://earendil.com/posts/what-is-a-harness/\">https://earendil.com/posts/what-is-a-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409092\">https://news.ycombinator.com/item?id=49409092</a></p>\n<p>Points: 27</p>\n<p># Comments: 15</p>",
+            "url": "https://earendil.com/posts/what-is-a-harness/",
+            "published": "Sun, 23 Aug 2026 14:24:21 +0000",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
+            "description": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
+            "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 12:51:10 GMT",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+            "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 05:00:22 GMT",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Snooker champion Graeme Dott guilty of child sex abuse",
+            "description": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.",
+            "url": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 14:29:00 GMT",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Algeria’s schools put Shakespeare before Molière in break from France",
+            "description": "Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.",
+            "url": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 13:48:46 +0000",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
+            "description": "Rain and flooding from Typhoon Narra hits China and Vietnam",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 13:14:48 +0000",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
+            "description": "‘Barrel bomb mufti’ sentenced to life in Syria",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 13:02:44 +0000",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-24T18:20:29+03:30"
+        }
+    ]
+}
