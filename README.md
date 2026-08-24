@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 18:35:58
+**Last Update:** 2026-08-24 19:17:44
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -84,20 +84,46 @@ UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its 
 
 ---
 
-### 6. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 6. Snooker champion Graeme Dott guilty of child sex abuse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
+The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Algeria’s schools put Shakespeare before Molière in break from France
+### 7. Why Israeli settler attacks on Palestinians in West Bank are pogroms
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli settler attacks, aided by military, increasingly fit the definition of a pogrom.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss)
+
+---
+
+### 8. Houses set on fire as fresh violence erupts in India’s Manipur
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss)
+
+---
+
+### 9. Algeria’s schools put Shakespeare before Molière in break from France
 
 **Source:** Al Jazeera
 
@@ -110,33 +136,7 @@ Algerian primary schools will begin teaching English before French for the first
 
 ---
 
-### 8. Rain and flooding from Typhoon Narra hits China and Vietnam
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rain and flooding from Typhoon Narra hits China and Vietnam
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss)
-
----
-
-### 9. ‘Barrel bomb mufti’ sentenced to life in Syria
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-‘Barrel bomb mufti’ sentenced to life in Syria
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss)
-
----
-
-### 10. Prescribed Fire RX Tom Green 7105, Tom Green, Texas
+### 10. Wildfire Old Deer, Carson, Texas
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ Rain and flooding from Typhoon Narra hits China and Vietnam
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209)
 
 ---
 
-### 11. Wildfire Windmill, Stillwater, Montana
+### 11. Wildfire 22, Miami-Dade, Florida
 
 **Source:** NASA
 
@@ -158,11 +158,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
 
 ---
 
-### 12. Wildfire North Heglar, Cassia, Idaho
+### 12. Wildfire Rustler, Motley, Texas
 
 **Source:** NASA
 
@@ -171,7 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215)
 
 ---
 
