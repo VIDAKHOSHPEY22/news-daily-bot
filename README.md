@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 08:37:41
+**Last Update:** 2026-08-24 09:15:00
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Families of two police officers killed in crash say they were heroes
+### 4. Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Families of two police officers killed in crash say they were heroes
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were 
 
 ---
 
-### 5. How easy is it to find an NHS dentist? It depends where you live
+### 6. How easy is it to find an NHS dentist? It depends where you live
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were 
 Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Burnham visits Kyiv to reaffirm UK support for Ukraine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
