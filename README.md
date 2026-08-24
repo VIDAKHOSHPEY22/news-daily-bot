@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 22:37:04
+**Last Update:** 2026-08-24 23:05:59
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Removed all counters, replies, following/ers, timestamps, from textlog
+### 1. LLMs could control their host machines by exploiting inference engines
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424387">https://news.ycombinator.com/item?id=49424387</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
+
+---
+
+### 2. Removed all counters, replies, following/ers, timestamps, from textlog
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://textlog.cc/post/2059">https://textlog.cc/post/2059</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424167">https://news.ycombinator.com/item?id=49424167</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 6</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://textlog.cc/post/2059](https://textlog.cc/post/2059)
 
 ---
 
-### 2. Anger, Anxiety and Agency
+### 3. Anger, Anxiety and Agency
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424082">https://news.ycombinator.com/item?id=49424082</a></p>
-<p>Points: 11</p>
-<p># Comments: 4</p>
+<p>Points: 26</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
-
----
-
-### 3. Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/getkern/kern">https://github.com/getkern/kern</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49423927">https://news.ycombinator.com/item?id=49423927</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/getkern/kern](https://github.com/getkern/kern)
 
 ---
 
@@ -97,42 +97,42 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Trump administration seeks to formalise H-1B fee of more than $100,000
+### 7. Video: Israel attacks desalination plant and mosque in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New proposal would charge $103,265 for the US&#039;s H-1B visas, and make permanent a temporary rule challenged by courts.
+Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss)
 
 ---
 
-### 8. Norway plans further development of Arctic drilling amid EU energy concerns
+### 8. Israeli restrictions cause fuel shortage in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security.
+Israeli restrictions are disrupting fuel supplies across the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Kidnappers release video showing hundreds abducted from Nigerian mosque
+### 9. Why ‘pogrom’ best describes what’s happening in the occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mass kidnappings highlight Nigeria&#039;s security crisis in the north as elections approach.
+Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss)
 
 ---
 

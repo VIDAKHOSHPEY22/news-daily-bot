@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-24T23:05:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LLMs could control their host machines by exploiting inference engines",
+            "description": "<p>Article URL: <a href=\"https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424387\">https://news.ycombinator.com/item?id=49424387</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+            "published": "Mon, 24 Aug 2026 19:03:06 +0000",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+            "description": "<p>Article URL: <a href=\"https://textlog.cc/post/2059\">https://textlog.cc/post/2059</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424167\">https://news.ycombinator.com/item?id=49424167</a></p>\n<p>Points: 6</p>\n<p># Comments: 4</p>",
+            "url": "https://textlog.cc/post/2059",
+            "published": "Mon, 24 Aug 2026 18:45:43 +0000",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anger, Anxiety and Agency",
+            "description": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/\">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424082\">https://news.ycombinator.com/item?id=49424082</a></p>\n<p>Points: 26</p>\n<p># Comments: 13</p>",
+            "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+            "published": "Mon, 24 Aug 2026 18:37:24 +0000",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+            "description": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
+            "url": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 17:53:40 GMT",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the deadly A66 crash unfolded leaving seven dead",
+            "description": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
+            "url": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 16:55:42 GMT",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+            "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 17:29:59 GMT",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Video: Israel attacks desalination plant and mosque in Gaza",
+            "description": "Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 19:21:01 +0000",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
+            "description": "Israeli restrictions are disrupting fuel supplies across the occupied West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 19:18:00 +0000",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
+            "description": "Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 19:09:45 +0000",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-24T23:05:59+03:30"
+        }
+    ]
+}
