@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 13:37:56
+**Last Update:** 2026-08-24 14:17:07
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -97,7 +97,33 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. US military says strike on alleged drug-smuggling boat kills two
+### 7. US threatens toughest sanctions yet against Iran: What we know
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tehran has threatened to retaliate against any country that joins new US economic measures.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss)
+
+---
+
+### 8. Ukraine’s offensive against Russia causes petrol panic across Central Asia
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia&#039;s allies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss)
+
+---
+
+### 9. US military says strike on alleged drug-smuggling boat kills two
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 US Southern Command says Sunday&#039;s strike targeted vessel operating along established narco-trafficking routes.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss)
-
----
-
-### 8. Dozens of coordinated arson attacks carried out across Thailand
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Dozens of coordinated arson attacks carried out across Thailand
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss)
-
----
-
-### 9. Macron and MBS attend Esports World Cup closing ceremony
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Saudi Arabia, which founded the event, is spending billions to become a global gaming and esports power.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/macron-and-mbs-attend-esports-world-cup-closing-ceremony?traffic_source=rss)
 
 ---
 
