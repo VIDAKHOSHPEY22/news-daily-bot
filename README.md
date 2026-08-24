@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 18:20:29
+**Last Update:** 2026-08-24 18:35:58
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. UK missiles offer may help Ukraine - but they are not what Zelensky needs most
+### 4. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. UK missiles offer may help Ukraine - but they are not what Zelensky needs most
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its 
 
 ---
 
-### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 6. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
@@ -81,19 +94,6 @@ UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its 
 Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Snooker champion Graeme Dott guilty of child sex abuse
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss)
 
 ---
 
