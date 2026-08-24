@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 16:56:49
+**Last Update:** 2026-08-24 17:38:35
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -71,7 +71,7 @@ His comments come as the government urged TikTok and other social media firms to
 
 ---
 
-### 5. UK missiles offer may help Ukraine - but is not what Zelensky needs most
+### 5. UK missiles offer may help Ukraine - but they are not what Zelensky needs most
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 7. Four arrested over fatal shooting of South African boxer Zolani Tete
+### 7. Algeria’s schools put Shakespeare before Molière in break from France
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tete, who won world WBF flyweight and WBO bantamweight titles, was killed outside his home in Eastern Cape last week.
+Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/four-arrested-over-fatal-shooting-of-south-african-boxer-zolani-tete?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss](https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss)
 
 ---
 
-### 8. South Korea says US cancelled upcoming joint marine exercises over Iran war
+### 8. Rain and flooding from Typhoon Narra hits China and Vietnam
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The cancellation follows Trump&#039;s surprise order last week to scale back a separate annual joint military drill.
+Rain and flooding from Typhoon Narra hits China and Vietnam
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss)
 
 ---
 
-### 9. Activists occupy UK aircraft parts factory over Israel links
+### 9. ‘Barrel bomb mufti’ sentenced to life in Syria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pro-Palestine activists from the ‘People Against Genocide’ group occupied a Martin-Baker factory in the UK.
+‘Barrel bomb mufti’ sentenced to life in Syria
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss)
 
 ---
 
