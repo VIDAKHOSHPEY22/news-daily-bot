@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 11:03:26
+**Last Update:** 2026-08-24 12:27:34
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -71,16 +71,16 @@ PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were 
 
 ---
 
-### 5. How easy is it to find an NHS dentist? It depends where you live
+### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.
+Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost
+### 7. E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.
+The settlement threatens Palestinian statehood. But it could help Israel&#039;s PM, other far-right leaders before elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss)
 
 ---
 
-### 8. Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?
+### 8. Kazakhstan’s newly formed pro-government party wins parliamentary election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.
+The victory of Adilet, founded earlier this year, is likely to consolidate the power of President Kassym-Jomart Tokayev.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss)
 
 ---
 
-### 9. Salah scores two goals, has two disallowed in first start for Trabzonspor
+### 9. ‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Salah started his first game for the Turkish Super Lig side, whom he joined on a free transfer earlier this month.
+The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss)
 
 ---
 
