@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 20:17:33
+**Last Update:** 2026-08-24 20:31:28
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -97,7 +97,20 @@ The former world champion was found guilty of lewd and libidinous behaviour towa
 
 ---
 
-### 7. Israeli strike on Gaza shelter extends casualty list
+### 7. Former snooker world champion Graeme Dott convicted of child sex abuse
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 49-year-old was found to have subjected a girl and a boy to multiple incidents of abuse.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss)
+
+---
+
+### 8. Israeli strike on Gaza shelter extends casualty list
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ More than 1,200 Palestinians have been killed since the October 2025 ceasefire a
 
 ---
 
-### 8. Nathan Cofnas on whether he feels responsible for Jason Arday’s death
+### 9. Nathan Cofnas on whether he feels responsible for Jason Arday’s death
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ More than 1,200 Palestinians have been killed since the October 2025 ceasefire a
 Nathan Cofnas, who accused Cambridge professor Jason Arday of plagiarism, has addressed Arday’s death.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss)
-
----
-
-### 9. England drop fast bowler Bryden Carse amid investigation into club incident
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 31-year-old Durham bowler will not play against Pakistan in the upcoming second Test match.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/england-drop-fast-bowler-bryden-carse-amid-investigation-into-club-incident?traffic_source=rss)
 
 ---
 
