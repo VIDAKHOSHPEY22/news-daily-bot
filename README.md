@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 23:05:59
+**Last Update:** 2026-08-24 23:20:06
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424387">https://news.ycombinator.com/item?id=49424387</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://textlog.cc/post/2059">https://textlog.cc/post/2059</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424167">https://news.ycombinator.com/item?id=49424167</a></p>
-<p>Points: 6</p>
+<p>Points: 8</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://textlog.cc/post/2059](https://textlog.cc/post/2059)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424082">https://news.ycombinator.com/item?id=49424082</a></p>
-<p>Points: 26</p>
-<p># Comments: 13</p>
+<p>Points: 33</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
 
@@ -97,7 +97,20 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Video: Israel attacks desalination plant and mosque in Gaza
+### 7. Yemen’s Houthis report attack on Saudi ship
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss)
+
+---
+
+### 8. Video: Israel attacks desalination plant and mosque in Gaza
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israel has attacked a critical water desalination plant and a mosque in Gaza as 
 
 ---
 
-### 8. Israeli restrictions cause fuel shortage in occupied West Bank
+### 9. Israeli restrictions cause fuel shortage in occupied West Bank
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israel has attacked a critical water desalination plant and a mosque in Gaza as 
 Israeli restrictions are disrupting fuel supplies across the occupied West Bank.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss)
-
----
-
-### 9. Why ‘pogrom’ best describes what’s happening in the occupied West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss)
 
 ---
 
