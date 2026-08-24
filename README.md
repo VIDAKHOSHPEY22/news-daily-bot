@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 20:31:28
+**Last Update:** 2026-08-24 21:07:05
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -58,7 +58,20 @@
 
 ---
 
-### 4. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
+### 4. How the deadly A66 crash unfolded leaving seven dead
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham vows support for Ukraine despite 'outrageous threats' from Russia
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 5. Is UK's Storm Shadow missile a game changer for Ukraine?
+### 6. Is UK's Storm Shadow missile a game changer for Ukraine?
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Correspondent Joe Inwood breaks down the weapons technology that could make a di
 
 ---
 
-### 6. Snooker champion Graeme Dott guilty of child sex abuse
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Former snooker world champion Graeme Dott convicted of child sex abuse
+### 7. Japanese delegation seeks to soothe strained ties with China
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 49-year-old was found to have subjected a girl and a boy to multiple incidents of abuse.
+A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst China rift in decades.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/former-snooker-world-champion-graeme-dott-convicted-of-child-sex-abuse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/japanese-delegation-seeks-to-soothe-strained-ties-with-china?traffic_source=rss)
 
 ---
 
-### 8. Israeli strike on Gaza shelter extends casualty list
+### 8. Trump administration announces global economic war on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.
+This is a breaking news story.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss)
 
 ---
 
-### 9. Nathan Cofnas on whether he feels responsible for Jason Arday’s death
+### 9. Nearly one in two Ebola patients dying in DR Congo outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nathan Cofnas, who accused Cambridge professor Jason Arday of plagiarism, has addressed Arday’s death.
+Almost one in two people infected with Ebola are dying, Democratic Republic of the Congo government figures show.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nathan-cofnas-on-whether-he-feels-responsible-for-jason-ardays-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/nearly-one-in-two-ebola-patients-dying-in-dr-congo-outbreak?traffic_source=rss)
 
 ---
 
