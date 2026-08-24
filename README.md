@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 02:04:32
+**Last Update:** 2026-08-25 02:18:57
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -97,7 +97,20 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. US public support for Iran war falls as Trump approval at record low: Poll
+### 7. Jeffries-Kushner meeting sparks speculation amid contentious US midterms
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Private meeting between Jeffries and Kushner fuels discussions amid contentious US midterm battle.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss)
+
+---
+
+### 8. US public support for Iran war falls as Trump approval at record low: Poll
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Falling Republican support, rising gas prices, and fears of a long conflict driv
 
 ---
 
-### 8. Iconic Palestinian artist Sliman Mansour passes away at age 79
+### 9. Iconic Palestinian artist Sliman Mansour passes away at age 79
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Falling Republican support, rising gas prices, and fears of a long conflict driv
 Palestinian artist Sliman Mansour, whose work became a symbol of struggle and resistance, has died at age 79.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss)
-
----
-
-### 9. Displaced Palestinians in Gaza face intensifying Israeli strikes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss)
 
 ---
 
