@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 23:20:06
+**Last Update:** 2026-08-25 00:09:23
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. LLMs could control their host machines by exploiting inference engines
+### 1. A Claude Code skill that recovers export-blocked Kindle highlights
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/l3a0/claude-plugins">https://github.com/l3a0/claude-plugins</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424758">https://news.ycombinator.com/item?id=49424758</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/l3a0/claude-plugins](https://github.com/l3a0/claude-plugins)
+
+---
+
+### 2. Oceans hit highest temperature on record
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c62m4gpnp78o">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424606">https://news.ycombinator.com/item?id=49424606</a></p>
+<p>Points: 115</p>
+<p># Comments: 34</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c62m4gpnp78o](https://www.bbc.com/news/articles/c62m4gpnp78o)
+
+---
+
+### 3. LLMs could control their host machines by exploiting inference engines
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424387">https://news.ycombinator.com/item?id=49424387</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Points: 31</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
-
----
-
-### 2. Removed all counters, replies, following/ers, timestamps, from textlog
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://textlog.cc/post/2059">https://textlog.cc/post/2059</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424167">https://news.ycombinator.com/item?id=49424167</a></p>
-<p>Points: 8</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://textlog.cc/post/2059](https://textlog.cc/post/2059)
-
----
-
-### 3. Anger, Anxiety and Agency
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424082">https://news.ycombinator.com/item?id=49424082</a></p>
-<p>Points: 33</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)
 
 ---
 
@@ -97,42 +97,42 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Yemen’s Houthis report attack on Saudi ship
+### 7. Violence flares in Haiti as gang attack kills 30 people
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.
+Island nation grapples with violence as it seeks to hold first elections in more than a decade.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss)
 
 ---
 
-### 8. Video: Israel attacks desalination plant and mosque in Gaza
+### 8. Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.
+Fabinho joined ​Saudi Arabia&#039;s Al-Ittihad in 2023, where he won the ​league after his five-year stint at Liverpool.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss)
 
 ---
 
-### 9. Israeli restrictions cause fuel shortage in occupied West Bank
+### 9. Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli restrictions are disrupting fuel supplies across the occupied West Bank.
+Karen Attiah was fired for posts about Charlie Kirk’s assassination that the Post said violated its social media policy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss)
 
 ---
 
