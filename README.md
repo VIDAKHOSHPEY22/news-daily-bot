@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 00:09:23
+**Last Update:** 2026-08-25 00:23:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/l3a0/claude-plugins">https://github.com/l3a0/claude-plugins</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424758">https://news.ycombinator.com/item?id=49424758</a></p>
-<p>Points: 17</p>
-<p># Comments: 3</p>
+<p>Points: 24</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/l3a0/claude-plugins](https://github.com/l3a0/claude-plugins)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c62m4gpnp78o">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424606">https://news.ycombinator.com/item?id=49424606</a></p>
-<p>Points: 115</p>
-<p># Comments: 34</p>
+<p>Points: 143</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c62m4gpnp78o](https://www.bbc.com/news/articles/c62m4gpnp78o)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424387">https://news.ycombinator.com/item?id=49424387</a></p>
-<p>Points: 31</p>
-<p># Comments: 8</p>
+<p>Points: 33</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines](https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines)
 
