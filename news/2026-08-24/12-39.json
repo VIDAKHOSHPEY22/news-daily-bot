@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-24T12:39:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+            "description": "<p>Article URL: <a href=\"https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409200\">https://news.ycombinator.com/item?id=49409200</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+            "published": "Sun, 23 Aug 2026 14:38:25 +0000",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Authoritarianism of Code",
+            "description": "<p>Article URL: <a href=\"https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409184\">https://news.ycombinator.com/item?id=49409184</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+            "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+            "published": "Sun, 23 Aug 2026 14:36:38 +0000",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Is a Harness?",
+            "description": "<p>Article URL: <a href=\"https://earendil.com/posts/what-is-a-harness/\">https://earendil.com/posts/what-is-a-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409092\">https://news.ycombinator.com/item?id=49409092</a></p>\n<p>Points: 27</p>\n<p># Comments: 15</p>",
+            "url": "https://earendil.com/posts/what-is-a-harness/",
+            "published": "Sun, 23 Aug 2026 14:24:21 +0000",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+            "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 05:00:22 GMT",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nearly three million Teslas recalled in China over hidden door handles",
+            "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 05:01:17 GMT",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
+            "description": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.",
+            "url": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 05:15:25 GMT",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
+            "description": "The settlement threatens Palestinian statehood. But it could help Israel&#039;s PM, other far-right leaders before elections.",
+            "url": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 08:45:10 +0000",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kazakhstan’s newly formed pro-government party wins parliamentary election",
+            "description": "The victory of Adilet, founded earlier this year, is likely to consolidate the power of President Kassym-Jomart Tokayev.",
+            "url": "https://www.aljazeera.com/news/2026/8/24/kazakhstans-newly-formed-pro-government-party-wins-parliamentary-election?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 08:29:54 +0000",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
+            "description": "The religious figure faced various charges, including inciting violence and providing legitimacy to the al-Assad regime.",
+            "url": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 08:18:12 +0000",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-24T12:39:42+03:30"
+        }
+    ]
+}

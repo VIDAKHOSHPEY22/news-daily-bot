@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 12:27:34
+**Last Update:** 2026-08-24 12:39:42
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -58,20 +58,7 @@
 
 ---
 
-### 4. Families of two police officers killed in crash say they were heroes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+### 4. Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 
 ---
 
-### 6. Nearly three million Teslas recalled in China over hidden door handles
+### 5. Nearly three million Teslas recalled in China over hidden door handles
 
 **Source:** BBC
 
@@ -94,6 +81,19 @@ Five years after the Taliban’s return, the BBC follows senior figures as the g
 Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. 'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
