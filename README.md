@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 10:42:49
+**Last Update:** 2026-08-24 11:03:26
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -97,7 +97,20 @@ Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and 
 
 ---
 
-### 7. Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?
+### 7. Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+&#039;Coalition of the Willing&#039; leaders to discuss air defence shortage as Ukraine and Russia trade drone attacks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/ukraines-allies-convene-in-kyiv-as-zelenskyy-seeks-air-defence-boost?traffic_source=rss)
+
+---
+
+### 8. Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Pakistan says it can offer a channel between Tehran and Washington, but analysts
 
 ---
 
-### 8. Salah scores two goals, has two disallowed in first start for Trabzonspor
+### 9. Salah scores two goals, has two disallowed in first start for Trabzonspor
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Pakistan says it can offer a channel between Tehran and Washington, but analysts
 Salah started his first game for the Turkish Super Lig side, whom he joined on a free transfer earlier this month.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss)
-
----
-
-### 9. Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-European football chief doesn&#039;t want to lose credibility over FIFA job but says Infantino will face a challenger.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss)
 
 ---
 
