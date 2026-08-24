@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 01:06:33
+**Last Update:** 2026-08-25 01:19:42
 
 **Total News:** 12
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425819">https://news.ycombinator.com/item?id=49425819</a></p>
-<p>Points: 21</p>
-<p># Comments: 8</p>
+<p>Points: 35</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/">https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425800">https://news.ycombinator.com/item?id=49425800</a></p>
-<p>Points: 8</p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/](https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/)
 
 ---
 
-### 3. A Claude Code skill that recovers export-blocked Kindle highlights
+### 3. Oceans hit highest temperature on record
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/l3a0/claude-plugins">https://github.com/l3a0/claude-plugins</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424758">https://news.ycombinator.com/item?id=49424758</a></p>
-<p>Points: 37</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c62m4gpnp78o">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49424606">https://news.ycombinator.com/item?id=49424606</a></p>
+<p>Points: 248</p>
+<p># Comments: 118</p>
 
-🔗 **Read more:** [https://github.com/l3a0/claude-plugins](https://github.com/l3a0/claude-plugins)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c62m4gpnp78o](https://www.bbc.com/news/articles/c62m4gpnp78o)
 
 ---
 
@@ -97,7 +97,33 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Displaced Palestinians in Gaza face intensifying Israeli strikes
+### 7. US public support for Iran war falls as Trump approval at record low: Poll
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss)
+
+---
+
+### 8. Iconic Palestinian artist Sliman Mansour passes away at age 79
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinian artist Sliman Mansour, whose work became a symbol of struggle and resistance, has died at age 79.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss)
+
+---
+
+### 9. Displaced Palestinians in Gaza face intensifying Israeli strikes
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss)
-
----
-
-### 8. What’s behind domestic political pressure on Ukraine’s president?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Zelenskyy rejects call from sacked minister for wartime elections.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss)
-
----
-
-### 9. Video: Iran reacts to US ‘economic D-Day’ sanctions
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss)
 
 ---
 
