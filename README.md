@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-24 21:07:05
+**Last Update:** 2026-08-24 21:23:07
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -110,14 +110,14 @@ A cross-party delegation lands in Beijing as Tokyo tries to defrost its worst Ch
 
 ---
 
-### 8. Trump administration announces global economic war on Iran
+### 8. Trump administration announces ‘economic D-day’ sanctions on Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran&#039;s revenues and isolate the country.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss)
 
