@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-24T05:19:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+            "description": "<p>Article URL: <a href=\"https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409200\">https://news.ycombinator.com/item?id=49409200</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+            "published": "Sun, 23 Aug 2026 14:38:25 +0000",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Authoritarianism of Code",
+            "description": "<p>Article URL: <a href=\"https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409184\">https://news.ycombinator.com/item?id=49409184</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
+            "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+            "published": "Sun, 23 Aug 2026 14:36:38 +0000",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Is a Harness?",
+            "description": "<p>Article URL: <a href=\"https://earendil.com/posts/what-is-a-harness/\">https://earendil.com/posts/what-is-a-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409092\">https://news.ycombinator.com/item?id=49409092</a></p>\n<p>Points: 27</p>\n<p># Comments: 15</p>",
+            "url": "https://earendil.com/posts/what-is-a-harness/",
+            "published": "Sun, 23 Aug 2026 14:24:21 +0000",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Families of two police officers killed in crash say they were heroes",
+            "description": "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 00:37:43 GMT",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How easy is it to find an NHS dentist? It depends where you live",
+            "description": "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.",
+            "url": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 23:10:18 GMT",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+            "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 23 Aug 2026 23:07:10 GMT",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Large forest fire burns close to residential areas in Ankara",
+            "description": "A large forest fire is threatening homes near residential areas of Mamak on the outskirts of the Turkish capital.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 00:30:00 +0000",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
+            "description": "Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the vote in the parliamentary elections.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 00:12:21 +0000",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+            "description": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran&#039;s services.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
+            "published": "Mon, 24 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire RX Tom Green 7105, Tom Green, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22927",
+            "published": "2026-08-20T09:26:00Z",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Windmill, Stillwater, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22931",
+            "published": "2026-08-19T18:05:00Z",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire North Heglar, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_22929",
+            "published": "2026-08-19T17:25:00Z",
+            "fetched": "2026-08-24T05:19:48+03:30"
+        }
+    ]
+}
