@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 03:11:53
+**Last Update:** 2026-08-25 05:14:11
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. iCloud+ Hide My Email addresses will remain on icloud.com
+### 1. What languages are agent skills written in?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://plicara.ai/research/agent-skill-languages/">https://plicara.ai/research/agent-skill-languages/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427825">https://news.ycombinator.com/item?id=49427825</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://plicara.ai/research/agent-skill-languages/](https://plicara.ai/research/agent-skill-languages/)
+
+---
+
+### 2. Bookshelf – Self-hosted eBook library that runs on object storage
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/murerkinn/bookshelf">https://github.com/murerkinn/bookshelf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427001">https://news.ycombinator.com/item?id=49427001</a></p>
+<p>Points: 33</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://github.com/murerkinn/bookshelf](https://github.com/murerkinn/bookshelf)
+
+---
+
+### 3. iCloud+ Hide My Email addresses will remain on icloud.com
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">https://news.ycombinator.com/item?id=49426564</a></p>
-<p>Points: 116</p>
-<p># Comments: 25</p>
+<p>Points: 214</p>
+<p># Comments: 47</p>
 
 🔗 **Read more:** [https://developer.apple.com/news/?id=1ptvdtcm](https://developer.apple.com/news/?id=1ptvdtcm)
-
----
-
-### 2. Moon
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ciechanow.ski/moon/">https://ciechanow.ski/moon/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426466">https://news.ycombinator.com/item?id=49426466</a></p>
-<p>Points: 51</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://ciechanow.ski/moon/](https://ciechanow.ski/moon/)
-
----
-
-### 3. One corner of China’s internet is insisting that the Tang Dynasty never existed
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk">https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49425819">https://news.ycombinator.com/item?id=49425819</a></p>
-<p>Points: 93</p>
-<p># Comments: 68</p>
-
-🔗 **Read more:** [https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
 
 ---
 
@@ -97,42 +97,42 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. How US sanctions on Iran ripple through global markets and consumers
+### 7. US plans to revoke business, tourism visas of 200,000 asylum seekers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
+If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss)
 
 ---
 
-### 8. US Supreme Court sides with Trump administration on mail voting
+### 8. DRC’s constitutional battle: The fight over the 2028 vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mail balloting has long been a favourite target of US President Donald Trump.
+President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss)
 
 ---
 
-### 9. US removes Syria from ‘state sponsor of terrorism’ list
+### 9. Search continues in Tunisia as migrant boat sinking sparks protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.
+Tunisia&#039;s Ben Guerdane reels from violent protests after a boat carrying 15 people sinks, killing at least 12.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss](https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss)
 
 ---
 

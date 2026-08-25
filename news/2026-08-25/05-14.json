@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T05:14:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What languages are agent skills written in?",
+            "description": "<p>Article URL: <a href=\"https://plicara.ai/research/agent-skill-languages/\">https://plicara.ai/research/agent-skill-languages/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49427825\">https://news.ycombinator.com/item?id=49427825</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://plicara.ai/research/agent-skill-languages/",
+            "published": "Tue, 25 Aug 2026 00:52:27 +0000",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+            "description": "<p>Article URL: <a href=\"https://github.com/murerkinn/bookshelf\">https://github.com/murerkinn/bookshelf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49427001\">https://news.ycombinator.com/item?id=49427001</a></p>\n<p>Points: 33</p>\n<p># Comments: 9</p>",
+            "url": "https://github.com/murerkinn/bookshelf",
+            "published": "Mon, 24 Aug 2026 23:00:37 +0000",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+            "description": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=1ptvdtcm\">https://developer.apple.com/news/?id=1ptvdtcm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426564\">https://news.ycombinator.com/item?id=49426564</a></p>\n<p>Points: 214</p>\n<p># Comments: 47</p>",
+            "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+            "published": "Mon, 24 Aug 2026 22:13:40 +0000",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+            "description": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
+            "url": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 17:53:40 GMT",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the deadly A66 crash unfolded leaving seven dead",
+            "description": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
+            "url": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 16:55:42 GMT",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+            "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 17:29:59 GMT",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers",
+            "description": "If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 01:01:44 +0000",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DRC’s constitutional battle: The fight over the 2028 vote",
+            "description": "President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 00:34:29 +0000",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
+            "description": "Tunisia&#039;s Ben Guerdane reels from violent protests after a boat carrying 15 people sinks, killing at least 12.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 00:18:42 +0000",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T05:14:11+03:30"
+        }
+    ]
+}
