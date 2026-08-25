@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T17:40:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The state of AI in 2026: On the road to ROI",
+            "description": "<p>Article URL: <a href=\"https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai\">https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433759\">https://news.ycombinator.com/item?id=49433759</a></p>\n<p>Points: 10</p>\n<p># Comments: 6</p>",
+            "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+            "published": "Tue, 25 Aug 2026 13:32:52 +0000",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US data centers tripled annual water consumption to 17B gallons",
+            "description": "<p>Article URL: <a href=\"https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/\">https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433372\">https://news.ycombinator.com/item?id=49433372</a></p>\n<p>Points: 37</p>\n<p># Comments: 45</p>",
+            "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
+            "published": "Tue, 25 Aug 2026 13:08:13 +0000",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/\">https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433316\">https://news.ycombinator.com/item?id=49433316</a></p>\n<p>Points: 143</p>\n<p># Comments: 72</p>",
+            "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+            "published": "Tue, 25 Aug 2026 13:03:17 +0000",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dad's house rammed before son died in A66 crash",
+            "description": "The semi-detached house is significantly damaged and the downstairs bay window has been smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 14:07:23 GMT",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+            "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
+            "description": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 12:37:53 GMT",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
+            "description": "Yan Diomande topped Real&#039;s transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.",
+            "url": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 13:42:14 +0000",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
+            "description": "Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 13:26:22 +0000",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+            "description": "A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.",
+            "url": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 13:25:21 +0000",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T17:40:07+03:30"
+        }
+    ]
+}
