@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 08:17:15
+**Last Update:** 2026-08-25 08:30:01
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -53,7 +53,7 @@
 <p>Article URL: <a href="https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428318">https://news.ycombinator.com/item?id=49428318</a></p>
 <p>Points: 49</p>
-<p># Comments: 14</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
 
@@ -98,7 +98,33 @@ The trial of a Libyan man is delayed for a third time, after new evidence on the
 
 ---
 
-### 7. Rare tornado near Carcassonne in France causes damage and injuries
+### 7. Syrian president thanks nation for getting off US state terror list
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss)
+
+---
+
+### 8. France, Saudi Arabia agree on $7bn theme park project near Paris
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&#039;s visit to Paris.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss)
+
+---
+
+### 9. Rare tornado near Carcassonne in France causes damage and injuries
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ The trial of a Libyan man is delayed for a third time, after new evidence on the
 Footage shows a rare tornado making its way through southern France.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss)
-
----
-
-### 8. Israel’s Netanyahu claims Iran tried to kill one of his sons
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Netanyahu&#039;s claim comes after US and Israel killed Iran&#039;s supreme leader and four members of his family in Tehran.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss)
-
----
-
-### 9. Amnesty says India used lethal weapons on ‘Cockroach’ protesters
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Amnesty says India used lethal weapons on ‘Cockroach’ protesters.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss)
 
 ---
 

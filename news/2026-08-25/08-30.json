@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T08:30:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Headlong: A Microharness for Persistent Agents",
+            "description": "<p>Article URL: <a href=\"https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428882\">https://news.ycombinator.com/item?id=49428882</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+            "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+            "published": "Tue, 25 Aug 2026 03:54:19 +0000",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+            "description": "<p>Looking for options that might work for a low power touchscreen for a calendar project.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428842\">https://news.ycombinator.com/item?id=49428842</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://news.ycombinator.com/item?id=49428842",
+            "published": "Tue, 25 Aug 2026 03:46:01 +0000",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Thomson Reuters Launches Its Own Frontier Model",
+            "description": "<p>Article URL: <a href=\"https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model\">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428318\">https://news.ycombinator.com/item?id=49428318</a></p>\n<p>Points: 49</p>\n<p># Comments: 15</p>",
+            "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+            "published": "Tue, 25 Aug 2026 02:11:39 +0000",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 70,000 social and affordable homes to be built across England",
+            "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+            "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 00:32:20 GMT",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+            "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+            "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 03:50:06 GMT",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lockerbie bombing trial postponed days before it was due to start",
+            "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+            "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 22:13:36 GMT",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian president thanks nation for getting off US state terror list",
+            "description": "Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 04:38:24 +0000",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+            "description": "Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&#039;s visit to Paris.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 04:38:20 +0000",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rare tornado near Carcassonne in France causes damage and injuries",
+            "description": "Footage shows a rare tornado making its way through southern France.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 03:56:30 +0000",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T08:30:01+03:30"
+        }
+    ]
+}
