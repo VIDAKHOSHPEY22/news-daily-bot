@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 21:07:47
+**Last Update:** 2026-08-25 21:21:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -26,7 +26,23 @@
 
 ---
 
-### 2. Lightweight system monitor for Linux VPS written in Go
+### 2. Run OpenBSD on DigitalOcean for $4/month
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437483">https://news.ycombinator.com/item?id=49437483</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
+
+---
+
+### 3. Lightweight system monitor for Linux VPS written in Go
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/leodeim/vpsmon">https://github.com/leodeim/vpsmon</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437361">https://news.ycombinator.com/item?id=49437361</a></p>
-<p>Points: 3</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://github.com/leodeim/vpsmon](https://github.com/leodeim/vpsmon)
-
----
-
-### 3. Nitter project received cease and desist
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/zedeus/nitter/issues/1442">https://github.com/zedeus/nitter/issues/1442</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437283">https://news.ycombinator.com/item?id=49437283</a></p>
-<p>Points: 46</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://github.com/zedeus/nitter/issues/1442](https://github.com/zedeus/nitter/issues/1442)
 
 ---
 
