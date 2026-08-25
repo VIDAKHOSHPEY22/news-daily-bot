@@ -1,60 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 01:19:08
+**Last Update:** 2026-08-26 02:05:17
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. When str.lower() is a security vulnerability in Python – Seth Larson
+### 1. One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49440410">https://news.ycombinator.com/item?id=49440410</a></p>
+<p>Article URL: <a href="https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN">https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441101">https://news.ycombinator.com/item?id=49441101</a></p>
 <p>Points: 7</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
+🔗 **Read more:** [https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN](https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN)
 
 ---
 
-### 2. C2PA Cameras Do Not Survive Contact with Reality
+### 2. Python's pre-declared constants are kinda weird
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html">https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439499">https://news.ycombinator.com/item?id=49439499</a></p>
-<p>Points: 15</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://sebsite.pw/w/20260801-pythonconstants.html">https://sebsite.pw/w/20260801-pythonconstants.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441033">https://news.ycombinator.com/item?id=49441033</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
+🔗 **Read more:** [https://sebsite.pw/w/20260801-pythonconstants.html](https://sebsite.pw/w/20260801-pythonconstants.html)
 
 ---
 
-### 3. FDA authorizes first wearable device that monitors ketone and blood sugar levels
+### 3. XCancel also down, at least for time being
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439017">https://news.ycombinator.com/item?id=49439017</a></p>
-<p>Points: 127</p>
-<p># Comments: 84</p>
+<p>Message on xcancel website:<p>"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.
+The service XCancel is stopped until further notice.
+We are seeking legal advice and won't share more details for now.
+Thank you for the trust you have put in these two years of XCancel."<p>https://xcancel.com/</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49440786">https://news.ycombinator.com/item?id=49440786</a></p>
+<p>Points: 34</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49440786](https://news.ycombinator.com/item?id=49440786)
 
 ---
 
@@ -97,42 +101,42 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. US soldier who called for Trump impeachment facing military charges
+### 7. Brazil fines TikTok $30m for child data privacy violations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.
+Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss)
 
 ---
 
-### 8. US lawmakers urge Trump team to free of American student held by Israel
+### 8. Why can’t America agree on what time it is?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Congress members call on Marco Rubio to &#039;use every tool&#039; at his disposal to secure release of 20-year-old Sama Safi.
+Why can’t America agree on what time it is?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss)
 
 ---
 
-### 9. Syrian Democratic Forces announce their dissolution
+### 9. US judge blocks Ohio law requiring proof of citizenship to register to vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus
+The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss)
 
 ---
 

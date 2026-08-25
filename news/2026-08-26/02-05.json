@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T02:05:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+            "description": "<p>Article URL: <a href=\"https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN\">https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441101\">https://news.ycombinator.com/item?id=49441101</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+            "published": "Tue, 25 Aug 2026 21:43:37 +0000",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Python's pre-declared constants are kinda weird",
+            "description": "<p>Article URL: <a href=\"https://sebsite.pw/w/20260801-pythonconstants.html\">https://sebsite.pw/w/20260801-pythonconstants.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441033\">https://news.ycombinator.com/item?id=49441033</a></p>\n<p>Points: 30</p>\n<p># Comments: 3</p>",
+            "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+            "published": "Tue, 25 Aug 2026 21:39:02 +0000",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "XCancel also down, at least for time being",
+            "description": "<p>Message on xcancel website:<p>\"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.\nThe service XCancel is stopped until further notice.\nWe are seeking legal advice and won't share more details for now.\nThank you for the trust you have put in these two years of XCancel.\"<p>https://xcancel.com/</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49440786\">https://news.ycombinator.com/item?id=49440786</a></p>\n<p>Points: 34</p>\n<p># Comments: 1</p>",
+            "url": "https://news.ycombinator.com/item?id=49440786",
+            "published": "Tue, 25 Aug 2026 21:18:23 +0000",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dolly Parton: The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil fines TikTok $30m for child data privacy violations",
+            "description": "Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 22:06:49 +0000",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why can’t America agree on what time it is?",
+            "description": "Why can’t America agree on what time it is?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 22:05:42 +0000",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+            "description": "The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 21:32:00 +0000",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T02:05:17+03:30"
+        }
+    ]
+}
