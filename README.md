@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 05:14:11
+**Last Update:** 2026-08-25 05:27:00
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. What languages are agent skills written in?
+### 1. How Universities Should Prepare Founders
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombinator.com/item?id=49428121</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://paulgraham.com/prepare.html](https://paulgraham.com/prepare.html)
+
+---
+
+### 2. What languages are agent skills written in?
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://plicara.ai/research/agent-skill-languages/">https://plicara.ai/research/agent-skill-languages/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427825">https://news.ycombinator.com/item?id=49427825</a></p>
-<p>Points: 3</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://plicara.ai/research/agent-skill-languages/](https://plicara.ai/research/agent-skill-languages/)
 
 ---
 
-### 2. Bookshelf – Self-hosted eBook library that runs on object storage
+### 3. Bookshelf – Self-hosted eBook library that runs on object storage
 
 **Source:** Hacker News
 
@@ -36,25 +52,9 @@
 <p>Article URL: <a href="https://github.com/murerkinn/bookshelf">https://github.com/murerkinn/bookshelf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427001">https://news.ycombinator.com/item?id=49427001</a></p>
 <p>Points: 33</p>
-<p># Comments: 9</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://github.com/murerkinn/bookshelf](https://github.com/murerkinn/bookshelf)
-
----
-
-### 3. iCloud+ Hide My Email addresses will remain on icloud.com
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://developer.apple.com/news/?id=1ptvdtcm">https://developer.apple.com/news/?id=1ptvdtcm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49426564">https://news.ycombinator.com/item?id=49426564</a></p>
-<p>Points: 214</p>
-<p># Comments: 47</p>
-
-🔗 **Read more:** [https://developer.apple.com/news/?id=1ptvdtcm](https://developer.apple.com/news/?id=1ptvdtcm)
 
 ---
 
@@ -97,7 +97,20 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. US plans to revoke business, tourism visas of 200,000 asylum seekers
+### 7. Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti&#039;s capital.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss)
+
+---
+
+### 8. US plans to revoke business, tourism visas of 200,000 asylum seekers
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ If the action happens, it will be the largest single mass revocation of visas in
 
 ---
 
-### 8. DRC’s constitutional battle: The fight over the 2028 vote
+### 9. DRC’s constitutional battle: The fight over the 2028 vote
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ If the action happens, it will be the largest single mass revocation of visas in
 President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss)
-
----
-
-### 9. Search continues in Tunisia as migrant boat sinking sparks protests
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tunisia&#039;s Ben Guerdane reels from violent protests after a boat carrying 15 people sinks, killing at least 12.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss)
 
 ---
 
