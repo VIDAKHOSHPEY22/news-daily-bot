@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T20:31:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic Sees over $30T in Potential Revenue",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea\">https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49436536\">https://news.ycombinator.com/item?id=49436536</a></p>\n<p>Points: 18</p>\n<p># Comments: 35</p>",
+            "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
+            "published": "Tue, 25 Aug 2026 16:20:11 +0000",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
+            "description": "<p>Article URL: <a href=\"https://dl.acm.org/doi/pdf/10.1145/3820012\">https://dl.acm.org/doi/pdf/10.1145/3820012</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49435781\">https://news.ycombinator.com/item?id=49435781</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+            "published": "Tue, 25 Aug 2026 15:26:45 +0000",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How much of HN is AI?",
+            "description": "<p>Article URL: <a href=\"https://blog.coredump.cx/p/how-much-of-hn-is-ai\">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49435728\">https://news.ycombinator.com/item?id=49435728</a></p>\n<p>Points: 161</p>\n<p># Comments: 132</p>",
+            "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+            "published": "Tue, 25 Aug 2026 15:23:41 +0000",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 15:26:11 GMT",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 16:56:20 GMT",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says all mines cleared from Strait of Hormuz",
+            "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 16:43:58 GMT",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
+            "description": "As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 16:39:24 +0000",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Rohingya refugees rally nine years after Myanmar exodus",
+            "description": "Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar&#039;s Rakhine state.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 16:28:01 +0000",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Students clash with police in India in a new protest over exam leaks",
+            "description": "Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 16:04:25 +0000",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T20:31:50+03:30"
+        }
+    ]
+}

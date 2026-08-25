@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 20:16:56
+**Last Update:** 2026-08-25 20:31:50
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea">https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49436536">https://news.ycombinator.com/item?id=49436536</a></p>
-<p>Points: 16</p>
-<p># Comments: 32</p>
+<p>Points: 18</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea](https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea)
 
 ---
 
-### 2. How much of HN is AI?
+### 2. Warnock: Harnessing GPU Geometry Amplification for Vector Graphics
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dl.acm.org/doi/pdf/10.1145/3820012">https://dl.acm.org/doi/pdf/10.1145/3820012</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435781">https://news.ycombinator.com/item?id=49435781</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://dl.acm.org/doi/pdf/10.1145/3820012](https://dl.acm.org/doi/pdf/10.1145/3820012)
+
+---
+
+### 3. How much of HN is AI?
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435728">https://news.ycombinator.com/item?id=49435728</a></p>
-<p>Points: 159</p>
-<p># Comments: 128</p>
+<p>Points: 161</p>
+<p># Comments: 132</p>
 
 🔗 **Read more:** [https://blog.coredump.cx/p/how-much-of-hn-is-ai](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
-
----
-
-### 3. Beyond Good and Evil: Nietzsche and the Great War
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war">https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435495">https://news.ycombinator.com/item?id=49435495</a></p>
-<p>Points: 14</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
 
 ---
 
@@ -71,29 +71,29 @@ The house belonging to Cole Worthy's father is significantly damaged and its win
 
 ---
 
-### 5. China hits out at 'illegal' new US sanctions on Iran and trading partners
+### 5. CIA chief travels to Moscow for unannounced talks, US media reports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.
+Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Who does Iran trade with and what could Trump's 'economic D-Day' mean?
+### 6. Trump says all mines cleared from Strait of Hormuz
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran is no stranger to US sanctions and has developed deep economic ties with several countries.
+Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss)
 
 ---
 
