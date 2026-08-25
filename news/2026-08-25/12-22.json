@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T12:22:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+            "description": "<p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49429095\">https://news.ycombinator.com/item?id=49429095</a></p>\n<p>Points: 41</p>\n<p># Comments: 15</p>",
+            "url": "https://github.com/dragthelake/ambient-context",
+            "published": "Tue, 25 Aug 2026 04:33:24 +0000",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Volcanoes that made history",
+            "description": "<p>Article URL: <a href=\"https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history\">https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428972\">https://news.ycombinator.com/item?id=49428972</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
+            "published": "Tue, 25 Aug 2026 04:09:43 +0000",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Headlong: A Microharness for Persistent Agents",
+            "description": "<p>Article URL: <a href=\"https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428882\">https://news.ycombinator.com/item?id=49428882</a></p>\n<p>Points: 50</p>\n<p># Comments: 17</p>",
+            "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+            "published": "Tue, 25 Aug 2026 03:54:19 +0000",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+            "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+            "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 08:08:26 GMT",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
+            "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+            "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 08:25:36 GMT",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lockerbie bombing trial postponed days before it was due to start",
+            "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+            "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 06:59:03 GMT",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Global ocean temperatures hit record high as El Nino intensifies",
+            "description": "Copernicus warns of &#039;unprecedented strain&#039; on world&#039;s oceans as El Nino and climate change drive up sea temperatures.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 08:10:10 +0000",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
+            "description": "A Thai vendor confronted Israeli tourists outside his shop on the island of Phuket, waving a Palestinian flag.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 07:50:26 +0000",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hasina spat stalls Bangladesh-India reset. What would break the deadlock?",
+            "description": "Analysts say an Indian commitment not to allow ousted Bangladesh PM to engage in politics from their soil would help.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 07:46:56 +0000",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T12:22:09+03:30"
+        }
+    ]
+}
