@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 19:21:16
+**Last Update:** 2026-08-25 19:34:48
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435728">https://news.ycombinator.com/item?id=49435728</a></p>
-<p>Points: 77</p>
-<p># Comments: 35</p>
+<p>Points: 79</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://blog.coredump.cx/p/how-much-of-hn-is-ai](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435147">https://news.ycombinator.com/item?id=49435147</a></p>
-<p>Points: 17</p>
+<p>Points: 18</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
@@ -97,46 +97,59 @@ Iran is no stranger to US sanctions and has developed deep economic ties with se
 
 ---
 
-### 7. Nine years of Rohingya refugee crisis
+### 7. Nevada wildfire contained to 27 percent as thousands still displaced
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nine years of Rohingya refugee crisis
+The third wildfire in two weeks devastates neighbourhoods across Reno, home to major entertainment and casino resorts.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss)
 
 ---
 
-### 8. Gaza marks one year since Mariam Dagga was killed in Israeli strike
+### 8. Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.
+Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men&#039;s world record set by ​Usain Bolt in 100m.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss)
 
 ---
 
-### 9. Qatar says US sanctions on Iran are unilateral
+### 9. Infantino’s presidency under threat: FIFA elections, challengers, dates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.
+Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Old Deer, Carson, Texas
+### 10. Tropical Storm Julio
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286)
+
+---
+
+### 11. Wildfire Old Deer, Carson, Texas
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire 22, Miami-Dade, Florida
+### 12. Wildfire 22, Miami-Dade, Florida
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
-
----
-
-### 12. Wildfire Rustler, Motley, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215)
 
 ---
 

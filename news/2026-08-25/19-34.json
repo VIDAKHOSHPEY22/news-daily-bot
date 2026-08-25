@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T19:34:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How much of HN is AI?",
+            "description": "<p>Article URL: <a href=\"https://blog.coredump.cx/p/how-much-of-hn-is-ai\">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49435728\">https://news.ycombinator.com/item?id=49435728</a></p>\n<p>Points: 79</p>\n<p># Comments: 37</p>",
+            "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+            "published": "Tue, 25 Aug 2026 15:23:41 +0000",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Beyond Good and Evil: Nietzsche and the Great War",
+            "description": "<p>Article URL: <a href=\"https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war\">https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49435495\">https://news.ycombinator.com/item?id=49435495</a></p>\n<p>Points: 6</p>\n<p># Comments: 4</p>",
+            "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+            "published": "Tue, 25 Aug 2026 15:09:20 +0000",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/\">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49435147\">https://news.ycombinator.com/item?id=49435147</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+            "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+            "published": "Tue, 25 Aug 2026 14:48:58 +0000",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 15:26:11 GMT",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+            "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+            "description": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+            "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 15:04:52 GMT",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nevada wildfire contained to 27 percent as thousands still displaced",
+            "description": "The third wildfire in two weeks devastates neighbourhoods across Reno, home to major entertainment and casino resorts.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 15:52:42 +0000",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
+            "description": "Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men&#039;s world record set by ​Usain Bolt in 100m.",
+            "url": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 15:42:43 +0000",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
+            "description": "Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.",
+            "url": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 15:42:21 +0000",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T19:34:48+03:30"
+        }
+    ]
+}
