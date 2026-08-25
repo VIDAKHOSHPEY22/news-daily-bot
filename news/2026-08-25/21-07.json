@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T21:07:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer\">https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437566\">https://news.ycombinator.com/item?id=49437566</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+            "published": "Tue, 25 Aug 2026 17:28:52 +0000",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lightweight system monitor for Linux VPS written in Go",
+            "description": "<p>Article URL: <a href=\"https://github.com/leodeim/vpsmon\">https://github.com/leodeim/vpsmon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437361\">https://news.ycombinator.com/item?id=49437361</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/leodeim/vpsmon",
+            "published": "Tue, 25 Aug 2026 17:13:59 +0000",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nitter project received cease and desist",
+            "description": "<p>Article URL: <a href=\"https://github.com/zedeus/nitter/issues/1442\">https://github.com/zedeus/nitter/issues/1442</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49437283\">https://news.ycombinator.com/item?id=49437283</a></p>\n<p>Points: 46</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/zedeus/nitter/issues/1442",
+            "published": "Tue, 25 Aug 2026 17:08:21 +0000",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 16:56:20 GMT",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says all mines cleared from Strait of Hormuz",
+            "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:32:50 GMT",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain requests emergency funding from the EU over Ceuta migrants",
+            "description": "European Commission says it is &#039;assessing&#039; Spain&#039;s request after some 70,000 migrants surged into North African enclave.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 17:31:09 +0000",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+            "description": "Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 17:27:01 +0000",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada hits US with counter-tariffs on more than 700 products",
+            "description": "Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.",
+            "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 17:08:54 +0000",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T21:07:47+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 20:31:50
+**Last Update:** 2026-08-25 21:07:47
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic Sees over $30T in Potential Revenue
+### 1. Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea">https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49436536">https://news.ycombinator.com/item?id=49436536</a></p>
-<p>Points: 18</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer">https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437566">https://news.ycombinator.com/item?id=49437566</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea](https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea)
+🔗 **Read more:** [https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
 
 ---
 
-### 2. Warnock: Harnessing GPU Geometry Amplification for Vector Graphics
+### 2. Lightweight system monitor for Linux VPS written in Go
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dl.acm.org/doi/pdf/10.1145/3820012">https://dl.acm.org/doi/pdf/10.1145/3820012</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435781">https://news.ycombinator.com/item?id=49435781</a></p>
+<p>Article URL: <a href="https://github.com/leodeim/vpsmon">https://github.com/leodeim/vpsmon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437361">https://news.ycombinator.com/item?id=49437361</a></p>
 <p>Points: 3</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://dl.acm.org/doi/pdf/10.1145/3820012](https://dl.acm.org/doi/pdf/10.1145/3820012)
+🔗 **Read more:** [https://github.com/leodeim/vpsmon](https://github.com/leodeim/vpsmon)
 
 ---
 
-### 3. How much of HN is AI?
+### 3. Nitter project received cease and desist
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435728">https://news.ycombinator.com/item?id=49435728</a></p>
-<p>Points: 161</p>
-<p># Comments: 132</p>
+<p>Article URL: <a href="https://github.com/zedeus/nitter/issues/1442">https://github.com/zedeus/nitter/issues/1442</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437283">https://news.ycombinator.com/item?id=49437283</a></p>
+<p>Points: 46</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://blog.coredump.cx/p/how-much-of-hn-is-ai](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
+🔗 **Read more:** [https://github.com/zedeus/nitter/issues/1442](https://github.com/zedeus/nitter/issues/1442)
 
 ---
 
@@ -97,42 +97,42 @@ Iran has closed the vital waterway since the beginning of the conflict causing w
 
 ---
 
-### 7. Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach
+### 7. Spain requests emergency funding from the EU over Ceuta migrants
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.
+European Commission says it is &#039;assessing&#039; Spain&#039;s request after some 70,000 migrants surged into North African enclave.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss)
 
 ---
 
-### 8. Photos: Rohingya refugees rally nine years after Myanmar exodus
+### 8. Most US Democrats in early 2028 primary states oppose aid to Israel: Poll
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar&#039;s Rakhine state.
+Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss)
 
 ---
 
-### 9. Students clash with police in India in a new protest over exam leaks
+### 9. Canada hits US with counter-tariffs on more than 700 products
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.
+Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss)
 
 ---
 
