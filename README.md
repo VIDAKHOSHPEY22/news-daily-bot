@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 23:20:28
+**Last Update:** 2026-08-26 00:07:51
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. FDA authorizes first wearable device that monitors ketone and blood sugar levels
+### 1. Perplexity Portable Computer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai">https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439535">https://news.ycombinator.com/item?id=49439535</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
+
+---
+
+### 2. FDA authorizes first wearable device that monitors ketone and blood sugar levels
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439017">https://news.ycombinator.com/item?id=49439017</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Points: 55</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
-
----
-
-### 2. Dolly Parton Has Died
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Dolly_Parton">https://en.wikipedia.org/wiki/Dolly_Parton</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438661">https://news.ycombinator.com/item?id=49438661</a></p>
-<p>Points: 50</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Dolly_Parton](https://en.wikipedia.org/wiki/Dolly_Parton)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://pgbot.dev/">https://pgbot.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438492">https://news.ycombinator.com/item?id=49438492</a></p>
-<p>Points: 30</p>
-<p># Comments: 8</p>
+<p>Points: 44</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://pgbot.dev/](https://pgbot.dev/)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media.
+Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. More than 1,300 people arrested by ICE in Virginia and Maryland
+### 7. Dolly Parton, beloved US country music icon, dies at 80
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 1,300 people were arrested by Immigration and Customs Enforcement (ICE) officers in Virginia and Maryland.
+Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/more-than-1300-people-arrested-by-ice-in-virginia-and-maryland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/more-than-1300-people-arrested-by-ice-in-virginia-and-maryland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss)
 
 ---
 
-### 8. Two unvaccinated people die of measles in US state of Pennsylvania
+### 8. What challenge do ‘cockroach’ protests pose for India’s PM Modi?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts warn that declining vaccination rates have opened the door for resurgence of disease once largely eradicated.
+Youth-led movement plans more demonstrations for next month.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss)
 
 ---
 
-### 9. Israeli forces block Palestinian American Lou Ridi from walking on his land
+### 9. Trump administration: Kennedy Center may be demolished if repairs not made
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces told Palestinian American Lou Ridi he cannot walk on his own land in Qusra, while settlers roam freely.
+Department of Justice lawyers told a federal judge the venue &#039;cannot survive&#039; without the US president&#039;s help.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss)
 
 ---
 

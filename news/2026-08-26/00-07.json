@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T00:07:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Perplexity Portable Computer",
+            "description": "<p>Article URL: <a href=\"https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai\">https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439535\">https://news.ycombinator.com/item?id=49439535</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+            "published": "Tue, 25 Aug 2026 19:41:48 +0000",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+            "description": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439017\">https://news.ycombinator.com/item?id=49439017</a></p>\n<p>Points: 55</p>\n<p># Comments: 29</p>",
+            "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+            "published": "Tue, 25 Aug 2026 19:07:01 +0000",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+            "description": "<p>Article URL: <a href=\"https://pgbot.dev/\">https://pgbot.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438492\">https://news.ycombinator.com/item?id=49438492</a></p>\n<p>Points: 44</p>\n<p># Comments: 9</p>",
+            "url": "https://pgbot.dev/",
+            "published": "Tue, 25 Aug 2026 18:30:57 +0000",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dolly Parton: The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dolly Parton, beloved US country music icon, dies at 80",
+            "description": "Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 20:14:21 +0000",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
+            "description": "Youth-led movement plans more demonstrations for next month.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 20:08:41 +0000",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration: Kennedy Center may be demolished if repairs not made",
+            "description": "Department of Justice lawyers told a federal judge the venue &#039;cannot survive&#039; without the US president&#039;s help.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 20:08:33 +0000",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T00:07:51+03:30"
+        }
+    ]
+}
