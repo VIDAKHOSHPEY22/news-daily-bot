@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T09:08:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+            "description": "<p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49429095\">https://news.ycombinator.com/item?id=49429095</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/dragthelake/ambient-context",
+            "published": "Tue, 25 Aug 2026 04:33:24 +0000",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Headlong: A Microharness for Persistent Agents",
+            "description": "<p>Article URL: <a href=\"https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428882\">https://news.ycombinator.com/item?id=49428882</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
+            "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+            "published": "Tue, 25 Aug 2026 03:54:19 +0000",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SiFive's First Server Platform",
+            "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/sifives-first-server-platform\">https://chipsandcheese.com/p/sifives-first-server-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428638\">https://news.ycombinator.com/item?id=49428638</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+            "published": "Tue, 25 Aug 2026 03:06:26 +0000",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+            "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+            "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 03:50:06 GMT",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 70,000 social and affordable homes to be built across England",
+            "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+            "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 00:32:20 GMT",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lockerbie bombing trial postponed days before it was due to start",
+            "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+            "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 22:13:36 GMT",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+            "description": "France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris, including one based on Japanese manga.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 05:09:25 +0000",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian president thanks nation for getting off US state terror list",
+            "description": "Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 04:38:24 +0000",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+            "description": "Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS&#039;s visit to Paris.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 04:38:20 +0000",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T09:08:13+03:30"
+        }
+    ]
+}
