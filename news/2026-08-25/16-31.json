@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T16:31:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "France's tax agency got hacked (in French)",
+            "description": "<p>Article URL: <a href=\"https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/\">https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433064\">https://news.ycombinator.com/item?id=49433064</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+            "published": "Tue, 25 Aug 2026 12:44:35 +0000",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+            "description": "<p>Article URL: <a href=\"https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/\">https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49432879\">https://news.ycombinator.com/item?id=49432879</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+            "published": "Tue, 25 Aug 2026 12:33:00 +0000",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Don't Wordle",
+            "description": "<p>Article URL: <a href=\"https://dontwordle.com/\">https://dontwordle.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49432319\">https://news.ycombinator.com/item?id=49432319</a></p>\n<p>Points: 52</p>\n<p># Comments: 16</p>",
+            "url": "https://dontwordle.com/",
+            "published": "Tue, 25 Aug 2026 11:49:48 +0000",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five more arrests in wrong-way crash investigation",
+            "description": "A total of 17 people have now been arrested in the investigation into the crash that killed seven, including two police officers.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 12:53:26 GMT",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "China warns it will protect its interests after US widens sanctions against Iran",
+            "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
+            "description": "The US says new sanctions ar an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 12:37:53 GMT",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
+            "description": "UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 12:30:45 +0000",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How water becomes a weapon of war",
+            "description": "A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 12:20:37 +0000",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rwanda accuses DR Congo of supporting an armed group on its soil",
+            "description": "Rwanda says FDLR threat justifies its continued involvement in eastern DRC, as efforts to verify a ceasefire advance.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 12:17:56 +0000",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T16:31:56+03:30"
+        }
+    ]
+}
