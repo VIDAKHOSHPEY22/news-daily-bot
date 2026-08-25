@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 18:23:40
+**Last Update:** 2026-08-25 18:40:28
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs
+### 1. Apple Releases New Polishing Cloth
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/">https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434830">https://news.ycombinator.com/item?id=49434830</a></p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/](https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/)
+
+---
+
+### 2. Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://e360.yale.edu/digest/bomb-fishing-coral-reefs">https://e360.yale.edu/digest/bomb-fishing-coral-reefs</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434820">https://news.ycombinator.com/item?id=49434820</a></p>
-<p>Points: 18</p>
-<p># Comments: 7</p>
+<p>Points: 40</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://e360.yale.edu/digest/bomb-fishing-coral-reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
 
 ---
 
-### 2. Building a backyard office, the build and cost breakdown
+### 3. Building a backyard office, the build and cost breakdown
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown">https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434645">https://news.ycombinator.com/item?id=49434645</a></p>
-<p>Points: 22</p>
-<p># Comments: 5</p>
+<p>Points: 41</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
-
----
-
-### 3. MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.erathos.com/en/blog/mysql-cdc-to-bigquery">https://www.erathos.com/en/blog/mysql-cdc-to-bigquery</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434613">https://news.ycombinator.com/item?id=49434613</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.erathos.com/en/blog/mysql-cdc-to-bigquery](https://www.erathos.com/en/blog/mysql-cdc-to-bigquery)
 
 ---
 

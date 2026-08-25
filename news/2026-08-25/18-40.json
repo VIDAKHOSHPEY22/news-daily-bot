@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T18:40:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Releases New Polishing Cloth",
+            "description": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/\">https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49434830\">https://news.ycombinator.com/item?id=49434830</a></p>\n<p>Points: 18</p>\n<p># Comments: 6</p>",
+            "url": "https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/",
+            "published": "Tue, 25 Aug 2026 14:30:10 +0000",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+            "description": "<p>Article URL: <a href=\"https://e360.yale.edu/digest/bomb-fishing-coral-reefs\">https://e360.yale.edu/digest/bomb-fishing-coral-reefs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49434820\">https://news.ycombinator.com/item?id=49434820</a></p>\n<p>Points: 40</p>\n<p># Comments: 26</p>",
+            "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+            "published": "Tue, 25 Aug 2026 14:29:32 +0000",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Building a backyard office, the build and cost breakdown",
+            "description": "<p>Article URL: <a href=\"https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown\">https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49434645\">https://news.ycombinator.com/item?id=49434645</a></p>\n<p>Points: 41</p>\n<p># Comments: 11</p>",
+            "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+            "published": "Tue, 25 Aug 2026 14:20:36 +0000",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 14:10:14 GMT",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+            "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
+            "description": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 12:37:53 GMT",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China says will safeguard its own interests as US expands Iran sanctions",
+            "description": "China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.",
+            "url": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 14:43:12 +0000",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
+            "description": "Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.",
+            "url": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 14:17:06 +0000",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US military transport plane arrives in Moscow in rare occurrence",
+            "description": "A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 14:16:10 +0000",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T18:40:28+03:30"
+        }
+    ]
+}
