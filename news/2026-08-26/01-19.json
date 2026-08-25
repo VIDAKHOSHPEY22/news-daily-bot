@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T01:19:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+            "description": "<p>Article URL: <a href=\"https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability\">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49440410\">https://news.ycombinator.com/item?id=49440410</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+            "published": "Tue, 25 Aug 2026 20:49:03 +0000",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "C2PA Cameras Do Not Survive Contact with Reality",
+            "description": "<p>Article URL: <a href=\"https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html\">https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439499\">https://news.ycombinator.com/item?id=49439499</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+            "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+            "published": "Tue, 25 Aug 2026 19:38:24 +0000",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+            "description": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439017\">https://news.ycombinator.com/item?id=49439017</a></p>\n<p>Points: 127</p>\n<p># Comments: 84</p>",
+            "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+            "published": "Tue, 25 Aug 2026 19:07:01 +0000",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dolly Parton: The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US soldier who called for Trump impeachment facing military charges",
+            "description": "Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 21:16:43 +0000",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US lawmakers urge Trump team to free of American student held by Israel",
+            "description": "Congress members call on Marco Rubio to &#039;use every tool&#039; at his disposal to secure release of 20-year-old Sama Safi.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 21:09:35 +0000",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian Democratic Forces announce their dissolution",
+            "description": "The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 21:09:05 +0000",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T01:19:08+03:30"
+        }
+    ]
+}
