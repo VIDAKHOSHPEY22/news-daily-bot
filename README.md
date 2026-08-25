@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 23:08:01
+**Last Update:** 2026-08-25 23:20:28
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439017">https://news.ycombinator.com/item?id=49439017</a></p>
-<p>Points: 16</p>
-<p># Comments: 2</p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://en.wikipedia.org/wiki/Dolly_Parton">https://en.wikipedia.org/wiki/Dolly_Parton</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438661">https://news.ycombinator.com/item?id=49438661</a></p>
-<p>Points: 30</p>
+<p>Points: 50</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://en.wikipedia.org/wiki/Dolly_Parton](https://en.wikipedia.org/wiki/Dolly_Parton)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://pgbot.dev/">https://pgbot.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438492">https://news.ycombinator.com/item?id=49438492</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Points: 30</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://pgbot.dev/](https://pgbot.dev/)
 
@@ -97,42 +97,42 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Israeli protesters block aid trucks from reaching Gaza
+### 7. More than 1,300 people arrested by ICE in Virginia and Maryland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli protesters block aid trucks from reaching Gaza
+More than 1,300 people were arrested by Immigration and Customs Enforcement (ICE) officers in Virginia and Maryland.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/more-than-1300-people-arrested-by-ice-in-virginia-and-maryland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/more-than-1300-people-arrested-by-ice-in-virginia-and-maryland?traffic_source=rss)
 
 ---
 
-### 8. Video: Israeli forces raid UN training centre and raise Israeli flag
+### 8. Two unvaccinated people die of measles in US state of Pennsylvania
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Itamar Ben-Gvir celebrated after Israeli forces raided a UN-operated facility in occupied East Jerusalem.
+Experts warn that declining vaccination rates have opened the door for resurgence of disease once largely eradicated.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss)
 
 ---
 
-### 9. Syria’s economy poised for improvement after US sanctions removal
+### 9. Israeli forces block Palestinian American Lou Ridi from walking on his land
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.
+Israeli forces told Palestinian American Lou Ridi he cannot walk on his own land in Qusra, while settlers roam freely.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T23:20:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+            "description": "<p>Article URL: <a href=\"https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar\">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49439017\">https://news.ycombinator.com/item?id=49439017</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+            "published": "Tue, 25 Aug 2026 19:07:01 +0000",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dolly Parton Has Died",
+            "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Dolly_Parton\">https://en.wikipedia.org/wiki/Dolly_Parton</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438661\">https://news.ycombinator.com/item?id=49438661</a></p>\n<p>Points: 50</p>\n<p># Comments: 3</p>",
+            "url": "https://en.wikipedia.org/wiki/Dolly_Parton",
+            "published": "Tue, 25 Aug 2026 18:43:22 +0000",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+            "description": "<p>Article URL: <a href=\"https://pgbot.dev/\">https://pgbot.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49438492\">https://news.ycombinator.com/item?id=49438492</a></p>\n<p>Points: 30</p>\n<p># Comments: 8</p>",
+            "url": "https://pgbot.dev/",
+            "published": "Tue, 25 Aug 2026 18:30:57 +0000",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dolly Parton: The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 1,300 people arrested by ICE in Virginia and Maryland",
+            "description": "More than 1,300 people were arrested by Immigration and Customs Enforcement (ICE) officers in Virginia and Maryland.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/more-than-1300-people-arrested-by-ice-in-virginia-and-maryland?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 19:36:12 +0000",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two unvaccinated people die of measles in US state of Pennsylvania",
+            "description": "Experts warn that declining vaccination rates have opened the door for resurgence of disease once largely eradicated.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 19:27:11 +0000",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces block Palestinian American Lou Ridi from walking on his land",
+            "description": "Israeli forces told Palestinian American Lou Ridi he cannot walk on his own land in Qusra, while settlers roam freely.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 19:27:00 +0000",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T23:20:28+03:30"
+        }
+    ]
+}
