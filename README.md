@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 16:31:56
+**Last Update:** 2026-08-25 16:54:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. France's tax agency got hacked (in French)
+### 1. Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433316">https://news.ycombinator.com/item?id=49433316</a></p>
+<p>Points: 44</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
+
+---
+
+### 2. Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/">https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433292">https://news.ycombinator.com/item?id=49433292</a></p>
+<p>Points: 82</p>
+<p># Comments: 29</p>
+
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+
+---
+
+### 3. France's tax agency got hacked (in French)
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/">https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433064">https://news.ycombinator.com/item?id=49433064</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 34</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
-
----
-
-### 2. OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/">https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49432879">https://news.ycombinator.com/item?id=49432879</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/](https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/)
-
----
-
-### 3. Don't Wordle
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dontwordle.com/">https://dontwordle.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49432319">https://news.ycombinator.com/item?id=49432319</a></p>
-<p>Points: 52</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://dontwordle.com/](https://dontwordle.com/)
 
 ---
 
@@ -65,13 +65,13 @@
 **Category:** world
 
 **Description:**
-A total of 17 people have now been arrested in the investigation into the crash that killed seven, including two police officers.
+The new arrests include a 16-year-old boy and two men held on suspicion of being in an organised crime group.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. China warns it will protect its interests after US widens sanctions against Iran
+### 5. China hits out at 'illegal' new US sanctions on Iran and trading partners
 
 **Source:** BBC
 
@@ -91,48 +91,48 @@ The US has threatened to isolate nations that continue to do business with Tehra
 **Category:** world
 
 **Description:**
-The US says new sanctions ar an "economic D-Day", but Tehran's leaders have survived restrictions before.
+The US says new sanctions are an "economic D-Day", but Tehran's leaders have survived restrictions before.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes
+### 7. ‘We can’t breathe’: Indonesians battle wildfire haze
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.
+Wildfires are raging across Indonesia, affecting at least 10 provinces and blanketing communities in hazardous haze.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss)
 
 ---
 
-### 8. How water becomes a weapon of war
+### 8. Israeli forces raid UNRWA training centre in occupied East Jerusalem
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.
+The forces raided and seized the Qalandiya Training Centre, a key facility operated by the UNRWA.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss)
 
 ---
 
-### 9. Rwanda accuses DR Congo of supporting an armed group on its soil
+### 9. What to expect in elections in South Carolina, Georgia and Oklahoma
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rwanda says FDLR threat justifies its continued involvement in eastern DRC, as efforts to verify a ceasefire advance.
+These special and run-off elections will continue setting the stage for November&#039;s midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/what-to-expect-in-elections-in-south-carolina-georgia-and-oklahoma?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/what-to-expect-in-elections-in-south-carolina-georgia-and-oklahoma?traffic_source=rss)
 
 ---
 

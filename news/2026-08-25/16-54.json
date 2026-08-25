@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T16:54:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/\">https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433316\">https://news.ycombinator.com/item?id=49433316</a></p>\n<p>Points: 44</p>\n<p># Comments: 22</p>",
+            "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+            "published": "Tue, 25 Aug 2026 13:03:17 +0000",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/\">https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433292\">https://news.ycombinator.com/item?id=49433292</a></p>\n<p>Points: 82</p>\n<p># Comments: 29</p>",
+            "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+            "published": "Tue, 25 Aug 2026 13:01:22 +0000",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "France's tax agency got hacked (in French)",
+            "description": "<p>Article URL: <a href=\"https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/\">https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49433064\">https://news.ycombinator.com/item?id=49433064</a></p>\n<p>Points: 34</p>\n<p># Comments: 13</p>",
+            "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+            "published": "Tue, 25 Aug 2026 12:44:35 +0000",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five more arrests in wrong-way crash investigation",
+            "description": "The new arrests include a 16-year-old boy and two men held on suspicion of being in an organised crime group.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 13:05:25 GMT",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+            "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 11:53:36 GMT",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
+            "description": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 12:37:53 GMT",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘We can’t breathe’: Indonesians battle wildfire haze",
+            "description": "Wildfires are raging across Indonesia, affecting at least 10 provinces and blanketing communities in hazardous haze.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 13:01:17 +0000",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
+            "description": "The forces raided and seized the Qalandiya Training Centre, a key facility operated by the UNRWA.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/israeli-forces-raid-unrwa-training-centre-in-occupied-east-jerusalem?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 12:59:32 +0000",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What to expect in elections in South Carolina, Georgia and Oklahoma",
+            "description": "These special and run-off elections will continue setting the stage for November&#039;s midterm elections.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/what-to-expect-in-elections-in-south-carolina-georgia-and-oklahoma?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 12:58:23 +0000",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T16:54:15+03:30"
+        }
+    ]
+}
