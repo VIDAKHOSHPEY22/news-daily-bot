@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 19:34:48
+**Last Update:** 2026-08-25 20:16:56
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How much of HN is AI?
+### 1. Anthropic Sees over $30T in Potential Revenue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea">https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49436536">https://news.ycombinator.com/item?id=49436536</a></p>
+<p>Points: 16</p>
+<p># Comments: 32</p>
+
+🔗 **Read more:** [https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea](https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea)
+
+---
+
+### 2. How much of HN is AI?
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435728">https://news.ycombinator.com/item?id=49435728</a></p>
-<p>Points: 79</p>
-<p># Comments: 37</p>
+<p>Points: 159</p>
+<p># Comments: 128</p>
 
 🔗 **Read more:** [https://blog.coredump.cx/p/how-much-of-hn-is-ai](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
-### 2. Beyond Good and Evil: Nietzsche and the Great War
+### 3. Beyond Good and Evil: Nietzsche and the Great War
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war">https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435495">https://news.ycombinator.com/item?id=49435495</a></p>
-<p>Points: 6</p>
-<p># Comments: 4</p>
+<p>Points: 14</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
-
----
-
-### 3. AI is hitting entry-level jobs hardest, Stanford study finds
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435147">https://news.ycombinator.com/item?id=49435147</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -97,42 +97,42 @@ Iran is no stranger to US sanctions and has developed deep economic ties with se
 
 ---
 
-### 7. Nevada wildfire contained to 27 percent as thousands still displaced
+### 7. Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The third wildfire in two weeks devastates neighbourhoods across Reno, home to major entertainment and casino resorts.
+As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss)
 
 ---
 
-### 8. Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing
+### 8. Photos: Rohingya refugees rally nine years after Myanmar exodus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chinese robot seven-tenths of a ⁠second faster than the 9.58-second men&#039;s world record set by ​Usain Bolt in 100m.
+Tens of thousands of Rohingya in Bangladesh protest, demanding safe return to Myanmar&#039;s Rakhine state.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss)
 
 ---
 
-### 9. Infantino’s presidency under threat: FIFA elections, challengers, dates
+### 9. Students clash with police in India in a new protest over exam leaks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.
+Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss)
 
 ---
 
