@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 00:21:28
+**Last Update:** 2026-08-26 01:05:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Perplexity Portable Computer
+### 1. When str.lower() is a security vulnerability in Python – Seth Larson
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai">https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439535">https://news.ycombinator.com/item?id=49439535</a></p>
-<p>Points: 12</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability">https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49440410">https://news.ycombinator.com/item?id=49440410</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai](https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai)
+🔗 **Read more:** [https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
 
 ---
 
-### 2. FDA authorizes first wearable device that monitors ketone and blood sugar levels
+### 2. C2PA Cameras Do Not Survive Contact with Reality
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html">https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439499">https://news.ycombinator.com/item?id=49439499</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
+
+---
+
+### 3. FDA authorizes first wearable device that monitors ketone and blood sugar levels
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439017">https://news.ycombinator.com/item?id=49439017</a></p>
-<p>Points: 76</p>
-<p># Comments: 46</p>
+<p>Points: 127</p>
+<p># Comments: 84</p>
 
 🔗 **Read more:** [https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
-
----
-
-### 3. Dolly Parton has died
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death" rel="nofollow">https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...</a><p><a href="https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html" rel="nofollow">https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d...</a>, <a href="https://archive.ph/w4vsE" rel="nofollow">https://archive.ph/w4vsE</a><p><a href="https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/" rel="nofollow">https://www.hollywoodreporter.com/music/music-news/dolly-par...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438052">https://news.ycombinator.com/item?id=49438052</a></p>
-<p>Points: 774</p>
-<p># Comments: 113</p>
-
-🔗 **Read more:** [https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
 
 ---
 
@@ -98,42 +97,42 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Dolly Parton, beloved US country music icon, dies at 80
+### 7. US soldier who called for Trump impeachment facing military charges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.
+Major Jason Watson faces charges under rarely-used military law prohibiting criticism of the US president.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss)
 
 ---
 
-### 8. What challenge do ‘cockroach’ protests pose for India’s PM Modi?
+### 8. US lawmakers urge Trump team to free of American student held by Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Youth-led movement plans more demonstrations for next month.
+Congress members call on Marco Rubio to &#039;use every tool&#039; at his disposal to secure release of 20-year-old Sama Safi.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss)
 
 ---
 
-### 9. Trump administration: Kennedy Center may be demolished if repairs not made
+### 9. Syrian Democratic Forces announce their dissolution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Department of Justice lawyers told a federal judge the venue &#039;cannot survive&#039; without the US president&#039;s help.
+The Kurdish-led Syrian Democratic Forces will dissolve as an independent military force under an agreement with Damascus
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss)
 
 ---
 
