@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 18:40:28
+**Last Update:** 2026-08-25 19:21:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple Releases New Polishing Cloth
+### 1. How much of HN is AI?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/">https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434830">https://news.ycombinator.com/item?id=49434830</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://blog.coredump.cx/p/how-much-of-hn-is-ai">https://blog.coredump.cx/p/how-much-of-hn-is-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435728">https://news.ycombinator.com/item?id=49435728</a></p>
+<p>Points: 77</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/](https://www.macrumors.com/2026/08/25/apple-releases-new-polishing-cloth/)
+🔗 **Read more:** [https://blog.coredump.cx/p/how-much-of-hn-is-ai](https://blog.coredump.cx/p/how-much-of-hn-is-ai)
 
 ---
 
-### 2. Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs
+### 2. Beyond Good and Evil: Nietzsche and the Great War
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://e360.yale.edu/digest/bomb-fishing-coral-reefs">https://e360.yale.edu/digest/bomb-fishing-coral-reefs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434820">https://news.ycombinator.com/item?id=49434820</a></p>
-<p>Points: 40</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war">https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435495">https://news.ycombinator.com/item?id=49435495</a></p>
+<p>Points: 6</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://e360.yale.edu/digest/bomb-fishing-coral-reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
+🔗 **Read more:** [https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war](https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war)
 
 ---
 
-### 3. Building a backyard office, the build and cost breakdown
+### 3. AI is hitting entry-level jobs hardest, Stanford study finds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown">https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434645">https://news.ycombinator.com/item?id=49434645</a></p>
-<p>Points: 41</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/">https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49435147">https://news.ycombinator.com/item?id=49435147</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
+🔗 **Read more:** [https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/](https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/)
 
 ---
 
@@ -84,55 +84,55 @@ The US has threatened to isolate nations that continue to do business with Tehra
 
 ---
 
-### 6. Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise
+### 6. Who does Iran trade with and what could Trump's 'economic D-Day' mean?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US says new sanctions are an "economic D-Day", but Tehran's leaders have survived restrictions before.
+Iran is no stranger to US sanctions and has developed deep economic ties with several countries.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. China says will safeguard its own interests as US expands Iran sanctions
+### 7. Nine years of Rohingya refugee crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.
+Nine years of Rohingya refugee crisis
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss)
 
 ---
 
-### 8. Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
+### 8. Gaza marks one year since Mariam Dagga was killed in Israeli strike
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.
+A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss](https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss)
 
 ---
 
-### 9. US military transport plane arrives in Moscow in rare occurrence
+### 9. Qatar says US sanctions on Iran are unilateral
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia
+Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss)
 
 ---
 
