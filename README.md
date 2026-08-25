@@ -1,71 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 17:40:07
+**Last Update:** 2026-08-25 18:23:40
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The state of AI in 2026: On the road to ROI
+### 1. Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai">https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433759">https://news.ycombinator.com/item?id=49433759</a></p>
-<p>Points: 10</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://e360.yale.edu/digest/bomb-fishing-coral-reefs">https://e360.yale.edu/digest/bomb-fishing-coral-reefs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434820">https://news.ycombinator.com/item?id=49434820</a></p>
+<p>Points: 18</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+🔗 **Read more:** [https://e360.yale.edu/digest/bomb-fishing-coral-reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
 
 ---
 
-### 2. US data centers tripled annual water consumption to 17B gallons
+### 2. Building a backyard office, the build and cost breakdown
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/">https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433372">https://news.ycombinator.com/item?id=49433372</a></p>
-<p>Points: 37</p>
-<p># Comments: 45</p>
+<p>Article URL: <a href="https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown">https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434645">https://news.ycombinator.com/item?id=49434645</a></p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/](https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/)
+🔗 **Read more:** [https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown)
 
 ---
 
-### 3. Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+### 3. MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/">https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49433316">https://news.ycombinator.com/item?id=49433316</a></p>
-<p>Points: 143</p>
-<p># Comments: 72</p>
+<p>Article URL: <a href="https://www.erathos.com/en/blog/mysql-cdc-to-bigquery">https://www.erathos.com/en/blog/mysql-cdc-to-bigquery</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49434613">https://news.ycombinator.com/item?id=49434613</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
+🔗 **Read more:** [https://www.erathos.com/en/blog/mysql-cdc-to-bigquery](https://www.erathos.com/en/blog/mysql-cdc-to-bigquery)
 
 ---
 
-### 4. Dad's house rammed before son died in A66 crash
+### 4. Father's house rammed before son died in A66 crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The semi-detached house is significantly damaged and the downstairs bay window has been smashed.
+The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The US says new sanctions are an "economic D-Day", but Tehran's leaders have sur
 
 ---
 
-### 7. Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss
+### 7. China says will safeguard its own interests as US expands Iran sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yan Diomande topped Real&#039;s transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.
+China has advocated for a ceasefire, insisting US sanctions will not resolve the Middle East conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss)
 
 ---
 
-### 8. How Israel’s Netanyahu weaponises religion in his war rhetoric
+### 8. Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli prime minister has used ancient religious texts to validate pre-emptive warfare and bypass international law.
+Dozens of groups in Iran and other countries face US sanctions over ties to Iranian oil, weapons and cyberoperations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss](https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss)
 
 ---
 
-### 9. Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war
+### 9. US military transport plane arrives in Moscow in rare occurrence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A group of displaced girls in Gaza finds moments of joy, safety, and self-expression at a weekly movie screening.
+A US military C-17 transport plane has mysteriously landed at Moscow’s Vnukovo Airport from Riga, Latvia
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss](https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss)
 
 ---
 
