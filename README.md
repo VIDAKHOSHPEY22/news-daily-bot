@@ -1,64 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 21:21:20
+**Last Update:** 2026-08-25 22:19:42
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market
+### 1. Pgbot: A 5.9 MB read-only Postgres tool for humans and agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer">https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437566">https://news.ycombinator.com/item?id=49437566</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://pgbot.dev/">https://pgbot.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438492">https://news.ycombinator.com/item?id=49438492</a></p>
+<p>Points: 3</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://pgbot.dev/](https://pgbot.dev/)
+
+---
+
+### 2. Dolly Parton has died
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p><a href="https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death" rel="nofollow">https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...</a><p><a href="https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html" rel="nofollow">https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d...</a>, <a href="https://archive.ph/w4vsE" rel="nofollow">https://archive.ph/w4vsE</a><p><a href="https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/" rel="nofollow">https://www.hollywoodreporter.com/music/music-news/dolly-par...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438052">https://news.ycombinator.com/item?id=49438052</a></p>
+<p>Points: 247</p>
+<p># Comments: 30</p>
+
+🔗 **Read more:** [https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
+
+---
+
+### 3. Trial is 40 days. Not until you're 40
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://twitter.com/WinRAR_RARLAB/status/2092182008319386067">https://twitter.com/WinRAR_RARLAB/status/2092182008319386067</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437966">https://news.ycombinator.com/item?id=49437966</a></p>
+<p>Points: 13</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer)
+🔗 **Read more:** [https://twitter.com/WinRAR_RARLAB/status/2092182008319386067](https://twitter.com/WinRAR_RARLAB/status/2092182008319386067)
 
 ---
 
-### 2. Run OpenBSD on DigitalOcean for $4/month
+### 4. Dolly Parton: The life of a legendary country singer
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/">https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437483">https://news.ycombinator.com/item?id=49437483</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+Iconic country musician Dolly Parton has died at the age of 80, her family announced on her social media.
 
-🔗 **Read more:** [https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Lightweight system monitor for Linux VPS written in Go
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/leodeim/vpsmon">https://github.com/leodeim/vpsmon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437361">https://news.ycombinator.com/item?id=49437361</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/leodeim/vpsmon](https://github.com/leodeim/vpsmon)
-
----
-
-### 4. Father's house rammed before son died in A66 crash
+### 5. Father's house rammed before son died in A66 crash
 
 **Source:** BBC
 
@@ -71,7 +85,7 @@ The house belonging to Cole Worthy's father is significantly damaged and its win
 
 ---
 
-### 5. CIA chief travels to Moscow for unannounced talks, US media reports
+### 6. CIA chief travels to Moscow for unannounced talks, US media reports
 
 **Source:** BBC
 
@@ -84,55 +98,42 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 6. Trump says all mines cleared from Strait of Hormuz
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Spain requests emergency funding from the EU over Ceuta migrants
+### 7. Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European Commission says it is &#039;assessing&#039; Spain&#039;s request after some 70,000 migrants surged into North African enclave.
+Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss)
 
 ---
 
-### 8. Most US Democrats in early 2028 primary states oppose aid to Israel: Poll
+### 8. Kremlin denies planned talks with US envoys amid reports CIA head in Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Survey indicates majority of Democrats in first six states to vote for 2028 nominee believe Israel committing genocide.
+Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss)
 
 ---
 
-### 9. Canada hits US with counter-tariffs on more than 700 products
+### 9. Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.
+Fatah and Dahlan&#039;s Democratic Reform hold talks in Alamein as fears grow over a potential opposition coalition.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss)
 
 ---
 
