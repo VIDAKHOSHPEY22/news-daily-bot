@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T06:53:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Thomson Reuters Launches Its Own Frontier Model",
+            "description": "<p>Article URL: <a href=\"https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model\">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428318\">https://news.ycombinator.com/item?id=49428318</a></p>\n<p>Points: 30</p>\n<p># Comments: 5</p>",
+            "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+            "published": "Tue, 25 Aug 2026 02:11:39 +0000",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Universities Should Prepare Founders",
+            "description": "<p>Article URL: <a href=\"https://paulgraham.com/prepare.html\">https://paulgraham.com/prepare.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428121\">https://news.ycombinator.com/item?id=49428121</a></p>\n<p>Points: 36</p>\n<p># Comments: 35</p>",
+            "url": "https://paulgraham.com/prepare.html",
+            "published": "Tue, 25 Aug 2026 01:40:39 +0000",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Was Modern Art a CIA Psy-Op?",
+            "description": "<p>Article URL: <a href=\"https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428080\">https://news.ycombinator.com/item?id=49428080</a></p>\n<p>Points: 24</p>\n<p># Comments: 19</p>",
+            "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+            "published": "Tue, 25 Aug 2026 01:35:00 +0000",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+            "description": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
+            "url": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 17:53:40 GMT",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the deadly A66 crash unfolded leaving seven dead",
+            "description": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
+            "url": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 24 Aug 2026 16:55:42 GMT",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+            "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 01:48:24 GMT",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+            "description": "Netanyahu&#039;s claim comes after US and Israel killed Iran&#039;s supreme leader and four members of his family in Tehran.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 02:54:40 +0000",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
+            "description": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 02:53:48 +0000",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Muslims celebrate Prophet Muhammad’s birthday",
+            "description": "Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 02:11:08 +0000",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T06:53:06+03:30"
+        }
+    ]
+}

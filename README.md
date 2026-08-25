@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 06:37:19
+**Last Update:** 2026-08-25 06:53:06
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428318">https://news.ycombinator.com/item?id=49428318</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 30</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombinator.com/item?id=49428121</a></p>
-<p>Points: 29</p>
-<p># Comments: 23</p>
+<p>Points: 36</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://paulgraham.com/prepare.html](https://paulgraham.com/prepare.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428080">https://news.ycombinator.com/item?id=49428080</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
+<p>Points: 24</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 
@@ -97,7 +97,33 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Muslims celebrate Prophet Muhammad’s birthday
+### 7. Israel’s Netanyahu claims Iran tried to kill one of his sons
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Netanyahu&#039;s claim comes after US and Israel killed Iran&#039;s supreme leader and four members of his family in Tehran.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss)
+
+---
+
+### 8. Amnesty says India used lethal weapons on ‘Cockroach’ protesters
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Amnesty says India used lethal weapons on ‘Cockroach’ protesters.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss)
+
+---
+
+### 9. Muslims celebrate Prophet Muhammad’s birthday
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss)
-
----
-
-### 8. Man killed in world’s largest annual bullfighting event in Mexico
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The world’s largest open road bullfighting event turned deadly when a 29-year-old man was killed.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss)
-
----
-
-### 9. Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti&#039;s capital.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss)
 
 ---
 
