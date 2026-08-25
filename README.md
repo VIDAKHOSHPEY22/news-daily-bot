@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 22:35:25
+**Last Update:** 2026-08-25 23:08:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pgbot: A 5.9 MB read-only Postgres tool for humans and agents
+### 1. FDA authorizes first wearable device that monitors ketone and blood sugar levels
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar">https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49439017">https://news.ycombinator.com/item?id=49439017</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+
+---
+
+### 2. Dolly Parton Has Died
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Dolly_Parton">https://en.wikipedia.org/wiki/Dolly_Parton</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438661">https://news.ycombinator.com/item?id=49438661</a></p>
+<p>Points: 30</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Dolly_Parton](https://en.wikipedia.org/wiki/Dolly_Parton)
+
+---
+
+### 3. Pgbot: A 5.9 MB read-only Postgres tool for humans and agents
 
 **Source:** Hacker News
 
@@ -19,47 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://pgbot.dev/">https://pgbot.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438492">https://news.ycombinator.com/item?id=49438492</a></p>
-<p>Points: 11</p>
+<p>Points: 22</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://pgbot.dev/](https://pgbot.dev/)
 
 ---
 
-### 2. Dolly Parton has died
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://www.cnn.com/2026/08/25/entertainment/dolly-parton-death" rel="nofollow">https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...</a><p><a href="https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html" rel="nofollow">https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d...</a>, <a href="https://archive.ph/w4vsE" rel="nofollow">https://archive.ph/w4vsE</a><p><a href="https://www.hollywoodreporter.com/music/music-news/dolly-parton-dead-country-music-1236680877/" rel="nofollow">https://www.hollywoodreporter.com/music/music-news/dolly-par...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49438052">https://news.ycombinator.com/item?id=49438052</a></p>
-<p>Points: 357</p>
-<p># Comments: 45</p>
-
-🔗 **Read more:** [https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead](https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead)
-
----
-
-### 3. Firefox 157 will include JPEG XL by default on all platforms
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1">https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49437946">https://news.ycombinator.com/item?id=49437946</a></p>
-<p>Points: 53</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1](https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1)
-
----
-
-### 4. Dolly Parton: The life of a legendary country singer
+### 4. Dolly Parton: The life of an iconic country singer
 
 **Source:** BBC
 
@@ -98,7 +97,33 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Syria’s economy poised for improvement after US sanctions removal
+### 7. Israeli protesters block aid trucks from reaching Gaza
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli protesters block aid trucks from reaching Gaza
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss)
+
+---
+
+### 8. Video: Israeli forces raid UN training centre and raise Israeli flag
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Itamar Ben-Gvir celebrated after Israeli forces raided a UN-operated facility in occupied East Jerusalem.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss)
+
+---
+
+### 9. Syria’s economy poised for improvement after US sanctions removal
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss)
-
----
-
-### 8. Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss)
-
----
-
-### 9. Kremlin denies planned talks with US envoys amid reports CIA head in Russia
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss)
 
 ---
 
