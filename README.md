@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 13:13:15
+**Last Update:** 2026-08-25 13:27:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Screen memory without screenshots, just text to Markdown
+### 1. Ox Alpha – A mysterious new AI model
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://oxalpha.com">https://oxalpha.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431119">https://news.ycombinator.com/item?id=49431119</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://oxalpha.com](https://oxalpha.com)
+
+---
+
+### 2. Show HN: Screen memory without screenshots, just text to Markdown
 
 **Source:** Hacker News
 
@@ -27,7 +43,7 @@
 
 ---
 
-### 2. Volcanoes that made history
+### 3. Volcanoes that made history
 
 **Source:** Hacker News
 
@@ -40,22 +56,6 @@
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history](https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history)
-
----
-
-### 3. Headlong: A Microharness for Persistent Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428882">https://news.ycombinator.com/item?id=49428882</a></p>
-<p>Points: 56</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
 
 ---
 
@@ -98,7 +98,33 @@ The trial of a Libyan man is delayed for a third time, after new evidence on the
 
 ---
 
-### 7. ‘Enough is enough’: Kenya nurses strike over pay and working conditions
+### 7. Kremlin adviser warns UK drone factories could face attacks
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss)
+
+---
+
+### 8. Who are Iran’s top trading partners US would need to target to isolate it?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss)
+
+---
+
+### 9. ‘Enough is enough’: Kenya nurses strike over pay and working conditions
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ The trial of a Libyan man is delayed for a third time, after new evidence on the
 Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss)
-
----
-
-### 8. Nvidia, Supermicro employees charged over export of AI servers to China
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Taiwanese authorities indict nine people over alleged chip smuggling scheme.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss)
-
----
-
-### 9. Pakistan says significant progress made in talks on Iran-US war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The talks were held during a daylong diplomatic mission to Tehran by Pakistan’s army chief and interior minister.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss)
 
 ---
 

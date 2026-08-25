@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T13:27:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ox Alpha – A mysterious new AI model",
+            "description": "<p>Article URL: <a href=\"https://oxalpha.com\">https://oxalpha.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49431119\">https://news.ycombinator.com/item?id=49431119</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://oxalpha.com",
+            "published": "Tue, 25 Aug 2026 09:31:53 +0000",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+            "description": "<p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49429095\">https://news.ycombinator.com/item?id=49429095</a></p>\n<p>Points: 46</p>\n<p># Comments: 16</p>",
+            "url": "https://github.com/dragthelake/ambient-context",
+            "published": "Tue, 25 Aug 2026 04:33:24 +0000",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Volcanoes that made history",
+            "description": "<p>Article URL: <a href=\"https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history\">https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428972\">https://news.ycombinator.com/item?id=49428972</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
+            "published": "Tue, 25 Aug 2026 04:09:43 +0000",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+            "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+            "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 08:08:26 GMT",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
+            "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+            "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 08:25:36 GMT",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lockerbie bombing trial postponed days before it was due to start",
+            "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+            "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 09:08:13 GMT",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kremlin adviser warns UK drone factories could face attacks",
+            "description": "Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 09:34:25 +0000",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
+            "description": "The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 09:23:05 +0000",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+            "description": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 09:05:54 +0000",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T13:27:00+03:30"
+        }
+    ]
+}
