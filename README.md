@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 05:27:00
+**Last Update:** 2026-08-25 06:37:19
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How Universities Should Prepare Founders
+### 1. Thomson Reuters Launches Its Own Frontier Model
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428318">https://news.ycombinator.com/item?id=49428318</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model](https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model)
+
+---
+
+### 2. How Universities Should Prepare Founders
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://paulgraham.com/prepare.html">https://paulgraham.com/prepare.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428121">https://news.ycombinator.com/item?id=49428121</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 29</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://paulgraham.com/prepare.html](https://paulgraham.com/prepare.html)
 
 ---
 
-### 2. What languages are agent skills written in?
+### 3. Was Modern Art a CIA Psy-Op?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://plicara.ai/research/agent-skill-languages/">https://plicara.ai/research/agent-skill-languages/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427825">https://news.ycombinator.com/item?id=49427825</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49428080">https://news.ycombinator.com/item?id=49428080</a></p>
+<p>Points: 9</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://plicara.ai/research/agent-skill-languages/](https://plicara.ai/research/agent-skill-languages/)
-
----
-
-### 3. Bookshelf – Self-hosted eBook library that runs on object storage
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/murerkinn/bookshelf">https://github.com/murerkinn/bookshelf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49427001">https://news.ycombinator.com/item?id=49427001</a></p>
-<p>Points: 33</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://github.com/murerkinn/bookshelf](https://github.com/murerkinn/bookshelf)
+🔗 **Read more:** [https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 
 ---
 
@@ -97,7 +97,33 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 
 ---
 
-### 7. Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
+### 7. Muslims celebrate Prophet Muhammad’s birthday
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss)
+
+---
+
+### 8. Man killed in world’s largest annual bullfighting event in Mexico
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The world’s largest open road bullfighting event turned deadly when a 29-year-old man was killed.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss)
+
+---
+
+### 9. Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ It comes after Moscow warned of "consequences" over the reported use of British 
 At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti&#039;s capital.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss)
-
----
-
-### 8. US plans to revoke business, tourism visas of 200,000 asylum seekers
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-If the action happens, it will be the largest single mass revocation of visas in US history, AP reports.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss)
-
----
-
-### 9. DRC’s constitutional battle: The fight over the 2028 vote
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-President Tshisekedi’s reform push is fuelling a battle over DRC’s 2028 succession.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss)
 
 ---
 
