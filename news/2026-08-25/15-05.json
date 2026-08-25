@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-25T15:05:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Quantum battery upends the rules of charging",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets\">https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49431560\">https://news.ycombinator.com/item?id=49431560</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+            "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+            "published": "Tue, 25 Aug 2026 10:34:12 +0000",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why some US restaurants are banning tips",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c4g36yze692o\">https://www.bbc.com/news/articles/c4g36yze692o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49431364\">https://news.ycombinator.com/item?id=49431364</a></p>\n<p>Points: 127</p>\n<p># Comments: 179</p>",
+            "url": "https://www.bbc.com/news/articles/c4g36yze692o",
+            "published": "Tue, 25 Aug 2026 10:09:47 +0000",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
+            "description": "<p>Article URL: <a href=\"https://link.springer.com/article/10.1007/s12519-026-01046-1\">https://link.springer.com/article/10.1007/s12519-026-01046-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49431024\">https://news.ycombinator.com/item?id=49431024</a></p>\n<p>Points: 35</p>\n<p># Comments: 20</p>",
+            "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
+            "published": "Tue, 25 Aug 2026 09:17:33 +0000",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+            "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 10:56:03 GMT",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies in crash after police pursuit",
+            "description": "A woman is also seriously injured and remains in hospital in critical condition.",
+            "url": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 11:25:11 GMT",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
+            "description": "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.",
+            "url": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 10:06:04 GMT",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India faces criticism from UN discrimination watchdog",
+            "description": "CERD says India must tackle hate crimes against Bengali-speaking Muslims and increase protections for other groups.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/india-faces-criticism-from-un-discrimination-watchdog?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 11:01:26 +0000",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is AIPAC’s political standing declining in the US?",
+            "description": "The powerful pro-Israeli lobby group is increasingly becoming liability for both the progressive as well as right-wing.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/is-aipacs-political-standing-declining-in-the-us?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 10:55:43 +0000",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+            "description": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 10:22:00 +0000",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rustler, Motley, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23215",
+            "published": "2026-08-23T00:30:00Z",
+            "fetched": "2026-08-25T15:05:12+03:30"
+        }
+    ]
+}

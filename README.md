@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-25 14:26:01
+**Last Update:** 2026-08-25 15:05:12
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why some US restaurants are banning tips
+### 1. Quantum battery upends the rules of charging
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets">https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431560">https://news.ycombinator.com/item?id=49431560</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets](https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets)
+
+---
+
+### 2. Why some US restaurants are banning tips
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c4g36yze692o">https://www.bbc.com/news/articles/c4g36yze692o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431364">https://news.ycombinator.com/item?id=49431364</a></p>
-<p>Points: 79</p>
-<p># Comments: 76</p>
+<p>Points: 127</p>
+<p># Comments: 179</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/c4g36yze692o](https://www.bbc.com/news/articles/c4g36yze692o)
 
 ---
 
-### 2. Screen viewing time from age 1 to 8 years and subsequent academic performance
+### 3. Screen viewing time from age 1 to 8 years and subsequent academic performance
 
 **Source:** Hacker News
 
@@ -35,40 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://link.springer.com/article/10.1007/s12519-026-01046-1">https://link.springer.com/article/10.1007/s12519-026-01046-1</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49431024">https://news.ycombinator.com/item?id=49431024</a></p>
-<p>Points: 24</p>
-<p># Comments: 12</p>
+<p>Points: 35</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://link.springer.com/article/10.1007/s12519-026-01046-1](https://link.springer.com/article/10.1007/s12519-026-01046-1)
 
 ---
 
-### 3. Show HN: Screen memory without screenshots, just text to Markdown
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask "what did I work on Tuesday?" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49429095">https://news.ycombinator.com/item?id=49429095</a></p>
-<p>Points: 53</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://github.com/dragthelake/ambient-context](https://github.com/dragthelake/ambient-context)
-
----
-
-### 4. Iran says it is 'fully prepared' to counter widened US economic sanctions
+### 4. China warns it will safeguard its interests after US widens sanctions against Iran
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to address them.
+The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,7 +97,33 @@ The Met Office has issued a yellow weather warning as heavy showers and thunders
 
 ---
 
-### 7. Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?
+### 7. India faces criticism from UN discrimination watchdog
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+CERD says India must tackle hate crimes against Bengali-speaking Muslims and increase protections for other groups.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/india-faces-criticism-from-un-discrimination-watchdog?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/india-faces-criticism-from-un-discrimination-watchdog?traffic_source=rss)
+
+---
+
+### 8. Is AIPAC’s political standing declining in the US?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The powerful pro-Israeli lobby group is increasingly becoming liability for both the progressive as well as right-wing.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/is-aipacs-political-standing-declining-in-the-us?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/is-aipacs-political-standing-declining-in-the-us?traffic_source=rss)
+
+---
+
+### 9. Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ The Met Office has issued a yellow weather warning as heavy showers and thunders
 Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss)
-
----
-
-### 8. Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Sliman Mansour&#039;s art captured the essence of Palestine, blending ancient traditions with modern themes of resistance.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss)
-
----
-
-### 9. What would justice look like if there were no Rohingya left in Myanmar?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Nine years after the 2017 atrocities, Rohingya are still being forced to flee because the genocide has never stopped.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss)
 
 ---
 
