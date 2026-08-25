@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-26T03:14:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dolly Parton: The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T03:14:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+            "fetched": "2026-08-26T03:14:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+            "fetched": "2026-08-26T03:14:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil fines TikTok $30m for child data privacy violations",
+            "description": "Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 22:06:49 +0000",
+            "fetched": "2026-08-26T03:14:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why can’t America agree on what time it is?",
+            "description": "Why can’t America agree on what time it is?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 22:05:42 +0000",
+            "fetched": "2026-08-26T03:14:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+            "description": "The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.",
+            "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+            "published": "Tue, 25 Aug 2026 21:32:00 +0000",
+            "fetched": "2026-08-26T03:14:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T03:14:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T03:14:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T03:14:23+03:30"
+        }
+    ]
+}
