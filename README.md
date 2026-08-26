@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 21:38:36
+**Last Update:** 2026-08-26 22:41:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tailcat: Secure Tunnels in Seconds (Tailscale)
+### 1. Designation of Autistici/Inventati as a Specially Designated Global Terrorist
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/tailscale/tailcat">https://github.com/tailscale/tailcat</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49452990">https://news.ycombinator.com/item?id=49452990</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/">https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49453899">https://news.ycombinator.com/item?id=49453899</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/tailscale/tailcat](https://github.com/tailscale/tailcat)
+🔗 **Read more:** [https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/](https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/)
 
 ---
 
-### 2. An ongoing 3D-printer AGPL violation
+### 2. Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/SubscriberLink/1089390/46116614cc74b814/">https://lwn.net/SubscriberLink/1089390/46116614cc74b814/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49452980">https://news.ycombinator.com/item?id=49452980</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf">https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49453510">https://news.ycombinator.com/item?id=49453510</a></p>
+<p>Points: 62</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://lwn.net/SubscriberLink/1089390/46116614cc74b814/](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/)
+🔗 **Read more:** [https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
 
 ---
 
-### 3. Show HN: I made a retirement simulator: 125 years of data, 25 countries
+### 3. The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://foresightplanner.com/">https://foresightplanner.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49452974">https://news.ycombinator.com/item?id=49452974</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://thetariffcost.com/">https://thetariffcost.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49453161">https://news.ycombinator.com/item?id=49453161</a></p>
+<p>Points: 35</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://foresightplanner.com/](https://foresightplanner.com/)
+🔗 **Read more:** [https://thetariffcost.com/](https://thetariffcost.com/)
 
 ---
 
@@ -71,7 +71,7 @@ This video has been edited by the BBC with white flashes, due to the distressing
 
 ---
 
-### 5. Meta's $18bn settlement a landmark victory for US states
+### 5. Meta to pay up to $18bn to settle claims its platforms harm children
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Curry was best known for playing the outlandish Frank-N-Furter in cult film The 
 
 ---
 
-### 7. US inflation remains sticky in July
+### 7. Kurdish-led SDF has dissolved, but has Syria really unified its military?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Inflation has worsened since the US and Israel attacked Iran, sending energy prices spiralling.
+SDF&#039;s dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/us-inflation-remains-sticky-in-july?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss)
 
 ---
 
-### 8. At least 50 injured as fireworks explode into crowd at Spanish festival
+### 8. UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 50 people were injured after several fireworks exploded among a crowd at a festival in northern Spain.
+UEFA set to end threat of FIFA events boycott after assurances over Gianni Infantino&#039;s failed World Cup investor plan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/at-least-50-injured-as-fireworks-explode-into-crowd-at-spanish-festival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/at-least-50-injured-as-fireworks-explode-into-crowd-at-spanish-festival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss)
 
 ---
 
-### 9. Why Hormuz remains high risk for ships despite US claims of mine-clearing
+### 9. US imposes sanctions on Palestine Action and other left-wing groups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say mine clearance alone is unlikely to make shipping &#039;safe&#039; in the Strait of Hormuz.
+Palestine Action&#039;s Huda Ammori says Trump&#039;s penalties should be a &#039;wake-up call&#039; for UK to lift ban on the group.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/why-hormuz-remains-high-risk-for-ships-despite-us-claims-of-mine-clearing?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/why-hormuz-remains-high-risk-for-ships-despite-us-claims-of-mine-clearing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss)
 
 ---
 

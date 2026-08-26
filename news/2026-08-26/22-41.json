@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T22:41:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Designation of Autistici/Inventati as a Specially Designated Global Terrorist",
+            "description": "<p>Article URL: <a href=\"https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/\">https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49453899\">https://news.ycombinator.com/item?id=49453899</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/",
+            "published": "Wed, 26 Aug 2026 18:49:18 +0000",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
+            "description": "<p>Article URL: <a href=\"https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf\">https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49453510\">https://news.ycombinator.com/item?id=49453510</a></p>\n<p>Points: 62</p>\n<p># Comments: 22</p>",
+            "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
+            "published": "Wed, 26 Aug 2026 18:20:09 +0000",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
+            "description": "<p>Article URL: <a href=\"https://thetariffcost.com/\">https://thetariffcost.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49453161\">https://news.ycombinator.com/item?id=49453161</a></p>\n<p>Points: 35</p>\n<p># Comments: 9</p>",
+            "url": "https://thetariffcost.com/",
+            "published": "Wed, 26 Aug 2026 17:54:51 +0000",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+            "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+            "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 12:36:04 GMT",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+            "description": "The deal has been reached during a California federal court trial over claims brought by US states.",
+            "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 17:44:39 GMT",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rocky Horror star Tim Curry dies at 80",
+            "description": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
+            "url": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 17:34:57 GMT",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
+            "description": "SDF&#039;s dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 18:19:14 +0000",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan",
+            "description": "UEFA set to end threat of FIFA events boycott after assurances over Gianni Infantino&#039;s failed World Cup investor plan.",
+            "url": "https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 18:13:54 +0000",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US imposes sanctions on Palestine Action and other left-wing groups",
+            "description": "Palestine Action&#039;s Huda Ammori says Trump&#039;s penalties should be a &#039;wake-up call&#039; for UK to lift ban on the group.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 18:08:50 +0000",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T22:41:30+03:30"
+        }
+    ]
+}
