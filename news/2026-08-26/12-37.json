@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T12:37:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The End of Programming",
+            "description": "<p>Article URL: <a href=\"https://pauldix.com/the-end-of-programming\">https://pauldix.com/the-end-of-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445717\">https://news.ycombinator.com/item?id=49445717</a></p>\n<p>Points: 18</p>\n<p># Comments: 5</p>",
+            "url": "https://pauldix.com/the-end-of-programming",
+            "published": "Wed, 26 Aug 2026 08:37:59 +0000",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+            "description": "<p>Article URL: <a href=\"https://rupertlinacre.com/buslens/\">https://rupertlinacre.com/buslens/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445286\">https://news.ycombinator.com/item?id=49445286</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://rupertlinacre.com/buslens/",
+            "published": "Wed, 26 Aug 2026 07:36:52 +0000",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Disrupting a new covert influence campaign from Russia",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/\">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445252\">https://news.ycombinator.com/item?id=49445252</a></p>\n<p>Points: 35</p>\n<p># Comments: 14</p>",
+            "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+            "published": "Wed, 26 Aug 2026 07:31:31 +0000",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+            "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 07:48:50 GMT",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+            "description": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
+            "url": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 05:14:12 GMT",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US immigration agents arrested more than 49,500 people in July",
+            "description": "The number of arrests last month showed a rise of roughly 15 percent over June&#039;s count.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 08:55:23 +0000",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
+            "description": "UN chief Guterres said the attack underscores &#039;the alarming security situation in Haiti&#039; due to gangs.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 08:54:35 +0000",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands in Japan are pulling this historic castle back into place",
+            "description": "Thousands in Japan are pulling this historic castle back into place",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/thousands-in-japan-are-pulling-this-historic-castle-back-into-place?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 08:46:53 +0000",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T12:37:35+03:30"
+        }
+    ]
+}
