@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 02:48:18
+**Last Update:** 2026-08-27 03:17:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html">https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49456929">https://news.ycombinator.com/item?id=49456929</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Points: 23</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
 
 ---
 
-### 2. mold: A Parallel Linker
+### 2. Clerky Is Joining Stripe
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.clerky.com/blog/clerky-is-joining-stripe">https://www.clerky.com/blog/clerky-is-joining-stripe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455956">https://news.ycombinator.com/item?id=49455956</a></p>
+<p>Points: 24</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.clerky.com/blog/clerky-is-joining-stripe](https://www.clerky.com/blog/clerky-is-joining-stripe)
+
+---
+
+### 3. mold: A Parallel Linker
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2608.23228">https://arxiv.org/abs/2608.23228</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455530">https://news.ycombinator.com/item?id=49455530</a></p>
-<p>Points: 42</p>
-<p># Comments: 4</p>
+<p>Points: 48</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2608.23228](https://arxiv.org/abs/2608.23228)
-
----
-
-### 3. IBM Unveils Next Generation Dual-Architecture Processor
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone">https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455471">https://news.ycombinator.com/item?id=49455471</a></p>
-<p>Points: 55</p>
-<p># Comments: 51</p>
-
-🔗 **Read more:** [https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone](https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone)
 
 ---
 
@@ -97,7 +97,20 @@ Two men have been arrested on suspicion of murder over the fire in Middlesboroug
 
 ---
 
-### 7. Barcelona vs Athletic Club: La Liga – prediction, teams, lineups
+### 7. Spain’s tomato food fight leaves thousands covered in pulp
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands of people pelt each other with tomatoes as Spain’s famous ‘La Tomatina’ festival gets underway.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss)
+
+---
+
+### 8. Barcelona vs Athletic Club: La Liga – prediction, teams, lineups
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Lamine Yamal and Raphinha will seek to add to Barcelona&#039;s five-star La Liga
 
 ---
 
-### 8. US judge declines Minnesota’s effort to force Texas to extradite ICE agent
+### 9. US judge declines Minnesota’s effort to force Texas to extradite ICE agent
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Lamine Yamal and Raphinha will seek to add to Barcelona&#039;s five-star La Liga
 ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss)
-
----
-
-### 9. Tribe accuses US federal agents of ‘trespassing’ on indigenous border land
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The Tohono O&#039;odham people have sued the US government to stop construction of a border wall through their reservation.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/tribe-accuses-us-federal-agents-of-trespassing-on-indigenous-border-land?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/tribe-accuses-us-federal-agents-of-trespassing-on-indigenous-border-land?traffic_source=rss)
 
 ---
 
