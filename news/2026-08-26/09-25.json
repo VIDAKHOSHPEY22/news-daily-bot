@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T09:25:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
+            "description": "<p>Article URL: <a href=\"https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026\">https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49443871\">https://news.ycombinator.com/item?id=49443871</a></p>\n<p>Points: 16</p>\n<p># Comments: 16</p>",
+            "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+            "published": "Wed, 26 Aug 2026 03:23:50 +0000",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.21503\">https://arxiv.org/abs/2607.21503</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49443523\">https://news.ycombinator.com/item?id=49443523</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+            "url": "https://arxiv.org/abs/2607.21503",
+            "published": "Wed, 26 Aug 2026 02:35:25 +0000",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Queryable Executables",
+            "description": "<p>Article URL: <a href=\"https://fzakaria.com/2026/08/24/actually-queryable-executables\">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49442589\">https://news.ycombinator.com/item?id=49442589</a></p>\n<p>Points: 82</p>\n<p># Comments: 12</p>",
+            "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+            "published": "Wed, 26 Aug 2026 00:20:49 +0000",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How Dolly Parton told her life story through six iconic songs",
+            "description": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
+            "url": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 23:43:13 GMT",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+            "description": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
+            "url": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 04:07:48 GMT",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Winter energy prices expected to rise to three-year high",
+            "description": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 23:07:29 GMT",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
+            "description": "Iran is betting global economic fallout and Republicans worried about the midterms will force Trump&#039;s retreat.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 05:20:17 +0000",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fireworks factory goes up in smoke in Mexico",
+            "description": "Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spectacular mix of flames and explosions",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 05:17:40 +0000",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Massive natural gas leak in Wisconsin puts community on alert",
+            "description": "A truck hit a natural gas pipeline near Saxon, Wisconsin prompted nearby residents to evacuate.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 05:15:51 +0000",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T09:25:26+03:30"
+        }
+    ]
+}
