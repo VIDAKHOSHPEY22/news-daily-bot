@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 16:37:04
+**Last Update:** 2026-08-26 16:59:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. X sends in the lawyers to shut down open source project
+### 1. AWS Acquires DuckDB
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548">https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49447772">https://news.ycombinator.com/item?id=49447772</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448321">https://news.ycombinator.com/item?id=49448321</a></p>
+<p>Points: 154</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548](https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548)
+🔗 **Read more:** [https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
 
 ---
 
-### 2. Omarchy is full of security holes
+### 2. Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.happyfellow.dev/merchants-of-insecurity/">https://blog.happyfellow.dev/merchants-of-insecurity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49447682">https://news.ycombinator.com/item?id=49447682</a></p>
-<p>Points: 127</p>
-<p># Comments: 99</p>
+<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8-flash-next">https://qwen.ai/blog?id=qwen3.8-flash-next</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448210">https://news.ycombinator.com/item?id=49448210</a></p>
+<p>Points: 57</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://blog.happyfellow.dev/merchants-of-insecurity/](https://blog.happyfellow.dev/merchants-of-insecurity/)
+🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8-flash-next](https://qwen.ai/blog?id=qwen3.8-flash-next)
 
 ---
 
-### 3. Proliferate (YC S25) Is Hiring
+### 3. A curmudgeon tries a language server
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer">https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49447480">https://news.ycombinator.com/item?id=49447480</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://entropicthoughts.com/curmudgeon-tries-language-server">https://entropicthoughts.com/curmudgeon-tries-language-server</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448150">https://news.ycombinator.com/item?id=49448150</a></p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer)
+🔗 **Read more:** [https://entropicthoughts.com/curmudgeon-tries-language-server](https://entropicthoughts.com/curmudgeon-tries-language-server)
 
 ---
 

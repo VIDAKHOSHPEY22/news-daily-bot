@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T16:59:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AWS Acquires DuckDB",
+            "description": "<p>Article URL: <a href=\"https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws\">https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448321\">https://news.ycombinator.com/item?id=49448321</a></p>\n<p>Points: 154</p>\n<p># Comments: 29</p>",
+            "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+            "published": "Wed, 26 Aug 2026 12:59:26 +0000",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+            "description": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">https://qwen.ai/blog?id=qwen3.8-flash-next</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448210\">https://news.ycombinator.com/item?id=49448210</a></p>\n<p>Points: 57</p>\n<p># Comments: 15</p>",
+            "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+            "published": "Wed, 26 Aug 2026 12:52:12 +0000",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A curmudgeon tries a language server",
+            "description": "<p>Article URL: <a href=\"https://entropicthoughts.com/curmudgeon-tries-language-server\">https://entropicthoughts.com/curmudgeon-tries-language-server</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448150\">https://news.ycombinator.com/item?id=49448150</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+            "published": "Wed, 26 Aug 2026 12:48:37 +0000",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+            "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+            "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 12:36:04 GMT",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Murder probe as two people dead in house fire in Middlesbrough",
+            "description": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 12:53:26 GMT",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan land in UK days after announcing move",
+            "description": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
+            "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 13:01:51 GMT",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly flash floods sweep through northern Nepal",
+            "description": "Flash floods have swept through northern Nepal, killing at least eight people and washing away homes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 12:44:14 +0000",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "CCTV captures terrifying mudslide engulfing Nepal-China border",
+            "description": "CCTV footage shows people fleeing seconds before a massive mudslide engulfs a crossing on the Nepal-China border.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 12:36:34 +0000",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "When is the Champions League draw, which teams are in, and what are the dates?",
+            "description": "Thirty-six teams will learn their fate in a draw for the group phase, which will be followed by knockout rounds.",
+            "url": "https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 12:24:07 +0000",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T16:59:47+03:30"
+        }
+    ]
+}
