@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 08:18:45
+**Last Update:** 2026-08-26 08:31:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -43,19 +43,19 @@
 
 ---
 
-### 3. The brain may be about to have its Ozempic moment
+### 3. Queryable Executables
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442743">https://news.ycombinator.com/item?id=49442743</a></p>
-<p>Points: 64</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://fzakaria.com/2026/08/24/actually-queryable-executables">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442589">https://news.ycombinator.com/item?id=49442589</a></p>
+<p>Points: 56</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+🔗 **Read more:** [https://fzakaria.com/2026/08/24/actually-queryable-executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 
 ---
 

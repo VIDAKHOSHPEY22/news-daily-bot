@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T08:31:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+            "description": "<p>I am looking for ideas on what to train a specialized model for!<p>What is one simple thing you repeatedly ask ChatGPT, Claude, or another model to do that it still somehow messes up?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49443820\">https://news.ycombinator.com/item?id=49443820</a></p>\n<p>Points: 22</p>\n<p># Comments: 38</p>",
+            "url": "https://news.ycombinator.com/item?id=49443820",
+            "published": "Wed, 26 Aug 2026 03:17:51 +0000",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.21503\">https://arxiv.org/abs/2607.21503</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49443523\">https://news.ycombinator.com/item?id=49443523</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://arxiv.org/abs/2607.21503",
+            "published": "Wed, 26 Aug 2026 02:35:25 +0000",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Queryable Executables",
+            "description": "<p>Article URL: <a href=\"https://fzakaria.com/2026/08/24/actually-queryable-executables\">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49442589\">https://news.ycombinator.com/item?id=49442589</a></p>\n<p>Points: 56</p>\n<p># Comments: 7</p>",
+            "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+            "published": "Wed, 26 Aug 2026 00:20:49 +0000",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How Dolly Parton told her life story through six iconic songs",
+            "description": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.",
+            "url": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 23:43:13 GMT",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+            "description": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
+            "url": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 04:07:48 GMT",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Winter energy prices expected to rise to three-year high",
+            "description": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 23:07:29 GMT",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 15 newborns killed in Pakistan hospital fire",
+            "description": "Only one child rescued after fire breaks out in the nursery at Pakistan Institute of Medical Sciences, Geo News reports.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 04:27:15 +0000",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
+            "description": "Sudan Doctors Network says SPLM-N rebels killed 27 people in South Kordofan, including four children.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 03:49:23 +0000",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
+            "description": "Meta is on trial over claims it hooked young users on its platforms despite mental health risks.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 03:40:26 +0000",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T08:31:17+03:30"
+        }
+    ]
+}
