@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T15:22:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. gov't moves to suppress pushback on data centers",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them\">https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446748\">https://news.ycombinator.com/item?id=49446748</a></p>\n<p>Points: 53</p>\n<p># Comments: 37</p>",
+            "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+            "published": "Wed, 26 Aug 2026 10:44:40 +0000",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "It's Not the End of Programming",
+            "description": "<p>Article URL: <a href=\"https://mathstodon.xyz/@abuseofnotation/117161292083848755\">https://mathstodon.xyz/@abuseofnotation/117161292083848755</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446597\">https://news.ycombinator.com/item?id=49446597</a></p>\n<p>Points: 21</p>\n<p># Comments: 14</p>",
+            "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
+            "published": "Wed, 26 Aug 2026 10:25:33 +0000",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Beyond Recall and the Illusion of Competence",
+            "description": "<p>Article URL: <a href=\"https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html\">https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446442\">https://news.ycombinator.com/item?id=49446442</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+            "published": "Wed, 26 Aug 2026 10:07:02 +0000",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Murder probe as two people dead in house fire in Middlesbrough",
+            "description": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 11:45:36 GMT",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan to arrive in UK today",
+            "description": "Prince Harry, Meghan, and their two children are believed to be flying into the country privately from California.",
+            "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 11:40:52 GMT",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why India is sharing missile secrets with its private sector",
+            "description": "New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 11:32:35 +0000",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mother and daughter detained by ICE in hospital after car crash",
+            "description": "Mother and daughter detained by ICE in hospital after car crash",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 11:25:08 +0000",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle",
+            "description": "Over 20,000 participants hurled 165 tonnes of tomatoes in Buñol&#039;s streets during Spain&#039;s famed La Tomatina festival.",
+            "url": "https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 11:24:34 +0000",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T15:22:15+03:30"
+        }
+    ]
+}
