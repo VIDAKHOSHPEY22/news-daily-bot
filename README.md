@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 06:43:24
+**Last Update:** 2026-08-26 06:59:31
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Letter from Dolly Parton to Eminem
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/Eminem/status/2092367272891310482">https://twitter.com/Eminem/status/2092367272891310482</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443331">https://news.ycombinator.com/item?id=49443331</a></p>
-<p>Points: 25</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://twitter.com/Eminem/status/2092367272891310482](https://twitter.com/Eminem/status/2092367272891310482)
-
----
-
-### 2. The brain may be about to have its Ozempic moment
+### 1. The brain may be about to have its Ozempic moment
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442743">https://news.ycombinator.com/item?id=49442743</a></p>
-<p>Points: 48</p>
-<p># Comments: 34</p>
+<p>Points: 51</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
 
 ---
 
-### 3. Queryable Executables
+### 2. Queryable Executables
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://fzakaria.com/2026/08/24/actually-queryable-executables">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442589">https://news.ycombinator.com/item?id=49442589</a></p>
-<p>Points: 29</p>
+<p>Points: 33</p>
 <p># Comments: 3</p>
 
 🔗 **Read more:** [https://fzakaria.com/2026/08/24/actually-queryable-executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
+
+---
+
+### 3. Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/runetes/maiao">https://github.com/runetes/maiao</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441666">https://news.ycombinator.com/item?id=49441666</a></p>
+<p>Points: 40</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://github.com/runetes/maiao](https://github.com/runetes/maiao)
 
 ---
 
@@ -97,7 +97,33 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Water crisis makes life in Sudan’s El Obeid refugee camps even worse
+### 7. Israeli soldiers block Knesset member from besieged Palestinian home
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss)
+
+---
+
+### 8. Mamdani opposes Hindu nationalist event in New York
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Zohran Mamdani says he opposes a right-wing Hindu nationalist event scheduled for next week at Madison Square Garden.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss)
+
+---
+
+### 9. Water crisis makes life in Sudan’s El Obeid refugee camps even worse
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 Families displaced by war in Sudan’s El Obeid refugee camps face crippling water shortages.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss)
-
----
-
-### 8. Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss)
-
----
-
-### 9. Is Sudan’s battlefield shaping the terms of its next political phase?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Julio
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286)
-
----
-
-### 11. Wildfire Old Deer, Carson, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209)
-
----
-
-### 12. Wildfire 22, Miami-Dade, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
 
 ---
 
