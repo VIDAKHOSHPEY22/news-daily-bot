@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 18:21:57
+**Last Update:** 2026-08-26 19:26:42
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Twitter Viewer – View Twitter Without Account
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitterwebviewer.com/">https://twitterwebviewer.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49449576">https://news.ycombinator.com/item?id=49449576</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://twitterwebviewer.com/](https://twitterwebviewer.com/)
-
----
-
-### 2. GLM-5.3-Flash
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://z.ai/blog/glm-5.3-flash">https://z.ai/blog/glm-5.3-flash</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49449507">https://news.ycombinator.com/item?id=49449507</a></p>
-<p>Points: 146</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://z.ai/blog/glm-5.3-flash](https://z.ai/blog/glm-5.3-flash)
-
----
-
-### 3. Meta reaches $16.68B settlement over social media harms to children
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/">https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448819">https://news.ycombinator.com/item?id=49448819</a></p>
-<p>Points: 173</p>
-<p># Comments: 121</p>
-
-🔗 **Read more:** [https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/)
-
----
-
-### 4. Video shows scale of flash flood hitting Nepal-Tibet border
+### 1. Video shows scale of flash flood hitting Nepal-Tibet border
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ This video has been edited by the BBC with white flashes, due to the distressing
 
 ---
 
-### 5. Murder probe as two people dead in house fire in Middlesbrough
+### 2. Murder probe as two people dead in house fire in Middlesbrough
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Cleveland Police says it "cannot rule out any links to wider organised crime" af
 
 ---
 
-### 6. Prince Harry and Meghan land in UK days after announcing move
+### 3. Prince Harry and Meghan land in UK days after announcing move
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Prince Harry, Meghan, and their two children are believed to have flown into the
 
 ---
 
-### 7. Meta agrees to settlement, platform changes in youth addiction case
+### 4. Why a Christian group is suing the Dutch government for West Bank trade ban
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.
+The Israeli Product Centre says it has not been given enough time to sell off its stock.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss)
 
 ---
 
-### 8. Trump tells Al Jazeera “not in a hurry” for Iran to return to talks
+### 5. Israel extends campaign against UNRWA to advance West Bank annexation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&quot;I have no time schedule,&quot; Trump says when asked when he expects Iran to return to the negotiating table.
+Raid on UNRWA centre exposes Israel&#039;s strategic push to erase refugee rights, seal West Bank annexation, analysts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss)
 
 ---
 
-### 9. Bodies of missing people found in Korea becomes national scandal
+### 6. Kremlin says CIA head met Russian intelligence officials, but not Putin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.
+CIA&#039;s Ratcliffe has met with Russian intel officials in Moscow, but not President Putin; Kremlin calls talks &#039;positive&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Julio
+### 7. Tropical Storm Julio
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire Old Deer, Carson, Texas
+### 8. Wildfire Old Deer, Carson, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire 22, Miami-Dade, Florida
+### 9. Wildfire 22, Miami-Dade, Florida
 
 **Source:** NASA
 

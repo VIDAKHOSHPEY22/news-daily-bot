@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-08-26T19:26:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+            "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+            "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 12:36:04 GMT",
+            "fetched": "2026-08-26T19:26:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Murder probe as two people dead in house fire in Middlesbrough",
+            "description": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 14:34:07 GMT",
+            "fetched": "2026-08-26T19:26:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan land in UK days after announcing move",
+            "description": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
+            "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 13:01:51 GMT",
+            "fetched": "2026-08-26T19:26:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+            "description": "The Israeli Product Centre says it has not been given enough time to sell off its stock.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 14:59:22 +0000",
+            "fetched": "2026-08-26T19:26:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
+            "description": "Raid on UNRWA centre exposes Israel&#039;s strategic push to erase refugee rights, seal West Bank annexation, analysts say.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 14:42:36 +0000",
+            "fetched": "2026-08-26T19:26:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
+            "description": "CIA&#039;s Ratcliffe has met with Russian intel officials in Moscow, but not President Putin; Kremlin calls talks &#039;positive&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 14:30:24 +0000",
+            "fetched": "2026-08-26T19:26:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T19:26:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T19:26:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T19:26:42+03:30"
+        }
+    ]
+}
