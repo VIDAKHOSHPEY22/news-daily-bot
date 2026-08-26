@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 14:26:35
+**Last Update:** 2026-08-26 15:06:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,46 +19,72 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them">https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446748">https://news.ycombinator.com/item?id=49446748</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 45</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
 
 ---
 
-### 2. The Feeling of Power (Asimov, 1958)
+### 2. It's Not the End of Programming
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://archive.org/details/1958-02_IF">https://archive.org/details/1958-02_IF</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446602">https://news.ycombinator.com/item?id=49446602</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://mathstodon.xyz/@abuseofnotation/117161292083848755">https://mathstodon.xyz/@abuseofnotation/117161292083848755</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446597">https://news.ycombinator.com/item?id=49446597</a></p>
+<p>Points: 17</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://mathstodon.xyz/@abuseofnotation/117161292083848755](https://mathstodon.xyz/@abuseofnotation/117161292083848755)
+
+---
+
+### 3. Beyond Recall and the Illusion of Competence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html">https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446442">https://news.ycombinator.com/item?id=49446442</a></p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://archive.org/details/1958-02_IF](https://archive.org/details/1958-02_IF)
+🔗 **Read more:** [https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
 
 ---
 
-### 3. Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights
+### 4. Murder probe as two people dead in house fire in Middlesbrough
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek">https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446422">https://news.ycombinator.com/item?id=49446422</a></p>
-<p>Points: 46</p>
-<p># Comments: 7</p>
+Cleveland Police says it "cannot rule out any links to wider organised crime" after the fire near Middlesbrough.
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. From 'dirt poor' to philanthropic superstar - the life of Dolly Parton
+### 5. Prince Harry and Meghan due to arrive in UK today
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Prince Harry, Meghan, and their two children are believed to be flying into the country privately from California.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. From 'dirt poor' to philanthropic superstar - the life of Dolly Parton
 
 **Source:** BBC
 
@@ -71,33 +97,20 @@ Iconic country musician Dolly Parton has died at the age of 80, the singer's tea
 
 ---
 
-### 5. Household energy bills to hit three-year high as Ofgem announces 4% rise from October
+### 7. Manchester City sign teenage Moroccan football star Ayyoub Bouaddi
 
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Cosmic radiation link in flight attendant's breast cancer, French court finds
-
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.
+Sought-after midfielder Bouaddi joins the Premier League club from Lille on a five-year deal worth $117 million.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss)
 
 ---
 
-### 7. Infantino has no future at FIFA, says European Leagues chief
+### 8. Infantino has no future at FIFA, says European Leagues chief
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Claudius Schaefer insists the influence of the FIFA president has &#039;grown fr
 
 ---
 
-### 8. China’s Xi to visit Kyrgyzstan, Egypt
+### 9. China’s Xi to visit Kyrgyzstan, Egypt
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Claudius Schaefer insists the influence of the FIFA president has &#039;grown fr
 The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss)
-
----
-
-### 9. Is Japan trying to build bridges with China after Taiwan spat?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss)
 
 ---
 
