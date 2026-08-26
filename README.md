@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 15:22:15
+**Last Update:** 2026-08-26 16:37:04
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. U.S. gov't moves to suppress pushback on data centers
+### 1. X sends in the lawyers to shut down open source project
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them">https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446748">https://news.ycombinator.com/item?id=49446748</a></p>
-<p>Points: 53</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548">https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49447772">https://news.ycombinator.com/item?id=49447772</a></p>
+<p>Points: 12</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them](https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them)
+🔗 **Read more:** [https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548](https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548)
 
 ---
 
-### 2. It's Not the End of Programming
+### 2. Omarchy is full of security holes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mathstodon.xyz/@abuseofnotation/117161292083848755">https://mathstodon.xyz/@abuseofnotation/117161292083848755</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446597">https://news.ycombinator.com/item?id=49446597</a></p>
-<p>Points: 21</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://blog.happyfellow.dev/merchants-of-insecurity/">https://blog.happyfellow.dev/merchants-of-insecurity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49447682">https://news.ycombinator.com/item?id=49447682</a></p>
+<p>Points: 127</p>
+<p># Comments: 99</p>
 
-🔗 **Read more:** [https://mathstodon.xyz/@abuseofnotation/117161292083848755](https://mathstodon.xyz/@abuseofnotation/117161292083848755)
+🔗 **Read more:** [https://blog.happyfellow.dev/merchants-of-insecurity/](https://blog.happyfellow.dev/merchants-of-insecurity/)
 
 ---
 
-### 3. Beyond Recall and the Illusion of Competence
+### 3. Proliferate (YC S25) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html">https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446442">https://news.ycombinator.com/item?id=49446442</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer">https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49447480">https://news.ycombinator.com/item?id=49447480</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html](https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html)
+🔗 **Read more:** [https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer)
 
 ---
 
-### 4. Murder probe as two people dead in house fire in Middlesbrough
+### 4. Video shows scale of flash flood hitting Nepal-Tibet border
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+This video has been edited by the BBC with white flashes, due to the distressing content.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Murder probe as two people dead in house fire in Middlesbrough
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Cleveland Police says it "cannot rule out any links to wider organised crime" af
 
 ---
 
-### 5. Prince Harry and Meghan to arrive in UK today
+### 6. Prince Harry and Meghan land in UK days after announcing move
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prince Harry, Meghan, and their two children are believed to be flying into the country privately from California.
+Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. From 'dirt poor' to philanthropic superstar - the life of Dolly Parton
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Why India is sharing missile secrets with its private sector
+### 7. Deadly flash floods sweep through northern Nepal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.
+Flash floods have swept through northern Nepal, killing at least eight people and washing away homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss)
 
 ---
 
-### 8. Mother and daughter detained by ICE in hospital after car crash
+### 8. CCTV captures terrifying mudslide engulfing Nepal-China border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mother and daughter detained by ICE in hospital after car crash
+CCTV footage shows people fleeing seconds before a massive mudslide engulfs a crossing on the Nepal-China border.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss)
 
 ---
 
-### 9. Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle
+### 9. When is the Champions League draw, which teams are in, and what are the dates?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Over 20,000 participants hurled 165 tonnes of tomatoes in Buñol&#039;s streets during Spain&#039;s famed La Tomatina festival.
+Thirty-six teams will learn their fate in a draw for the group phase, which will be followed by knockout rounds.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss)
 
 ---
 
