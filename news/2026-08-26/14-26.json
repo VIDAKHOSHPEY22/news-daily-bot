@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T14:26:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. gov't moves to suppress pushback on data centers",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them\">https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446748\">https://news.ycombinator.com/item?id=49446748</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+            "published": "Wed, 26 Aug 2026 10:44:40 +0000",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Feeling of Power (Asimov, 1958)",
+            "description": "<p>Article URL: <a href=\"https://archive.org/details/1958-02_IF\">https://archive.org/details/1958-02_IF</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446602\">https://news.ycombinator.com/item?id=49446602</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://archive.org/details/1958-02_IF",
+            "published": "Wed, 26 Aug 2026 10:26:03 +0000",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek\">https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446422\">https://news.ycombinator.com/item?id=49446422</a></p>\n<p>Points: 46</p>\n<p># Comments: 7</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+            "published": "Wed, 26 Aug 2026 10:04:55 +0000",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+            "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 09:31:51 GMT",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
+            "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+            "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 10:29:36 GMT",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino has no future at FIFA, says European Leagues chief",
+            "description": "Claudius Schaefer insists the influence of the FIFA president has &#039;grown from year to year&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 10:42:01 +0000",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s Xi to visit Kyrgyzstan, Egypt",
+            "description": "The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 10:29:46 +0000",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Japan trying to build bridges with China after Taiwan spat?",
+            "description": "Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 10:28:52 +0000",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T14:26:35+03:30"
+        }
+    ]
+}
