@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 16:59:47
+**Last Update:** 2026-08-26 17:41:20
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AWS Acquires DuckDB
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws">https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448321">https://news.ycombinator.com/item?id=49448321</a></p>
-<p>Points: 154</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws](https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws)
-
----
-
-### 2. Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3.8-flash-next">https://qwen.ai/blog?id=qwen3.8-flash-next</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448210">https://news.ycombinator.com/item?id=49448210</a></p>
-<p>Points: 57</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://qwen.ai/blog?id=qwen3.8-flash-next](https://qwen.ai/blog?id=qwen3.8-flash-next)
-
----
-
-### 3. A curmudgeon tries a language server
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://entropicthoughts.com/curmudgeon-tries-language-server">https://entropicthoughts.com/curmudgeon-tries-language-server</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49448150">https://news.ycombinator.com/item?id=49448150</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://entropicthoughts.com/curmudgeon-tries-language-server](https://entropicthoughts.com/curmudgeon-tries-language-server)
-
----
-
-### 4. Video shows scale of flash flood hitting Nepal-Tibet border
+### 1. Video shows scale of flash flood hitting Nepal-Tibet border
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ This video has been edited by the BBC with white flashes, due to the distressing
 
 ---
 
-### 5. Murder probe as two people dead in house fire in Middlesbrough
+### 2. Murder probe as two people dead in house fire in Middlesbrough
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Cleveland Police says it "cannot rule out any links to wider organised crime" af
 
 ---
 
-### 6. Prince Harry and Meghan land in UK days after announcing move
+### 3. Prince Harry and Meghan land in UK days after announcing move
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Prince Harry, Meghan, and their two children are believed to have flown into the
 
 ---
 
-### 7. Deadly flash floods sweep through northern Nepal
+### 4. Bodies of missing people found in Korea becomes national scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flash floods have swept through northern Nepal, killing at least eight people and washing away homes.
+A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss)
 
 ---
 
-### 8. CCTV captures terrifying mudslide engulfing Nepal-China border
+### 5. Children in Gaza fear flying their kites after Israeli threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CCTV footage shows people fleeing seconds before a massive mudslide engulfs a crossing on the Nepal-China border.
+A 10-year-old boy who makes kites says he is afraid to fly them after Israel threatened to treat kites as acts of war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/cctv-captures-terrifying-mudslide-engulfing-nepal-china-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss)
 
 ---
 
-### 9. When is the Champions League draw, which teams are in, and what are the dates?
+### 6. Why northern Mozambique’s surging violence is worsening displacement crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thirty-six teams will learn their fate in a draw for the group phase, which will be followed by knockout rounds.
+Over 100,000 people displaced last year alone, adding to the 1.3 million people already forced to flee from their homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/when-is-the-champions-league-draw-which-teams-are-in-and-what-are-the-dates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/why-northern-mozambiques-surging-violence-is-worsening-displacement-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/why-northern-mozambiques-surging-violence-is-worsening-displacement-crisis?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Julio
+### 7. Tropical Storm Julio
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire Old Deer, Carson, Texas
+### 8. Wildfire Old Deer, Carson, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire 22, Miami-Dade, Florida
+### 9. Wildfire 22, Miami-Dade, Florida
 
 **Source:** NASA
 
