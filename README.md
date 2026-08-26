@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 13:20:55
+**Last Update:** 2026-08-26 13:32:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.globalsolo.global/data/banking-access-index">https://www.globalsolo.global/data/banking-access-index</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445908">https://news.ycombinator.com/item?id=49445908</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.globalsolo.global/data/banking-access-index](https://www.globalsolo.global/data/banking-access-index)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/">https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445884">https://news.ycombinator.com/item?id=49445884</a></p>
-<p>Points: 3</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://openstreetmap.us/news/2026/08/oim-charter-project/">https://openstreetmap.us/news/2026/08/oim-charter-project/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445873">https://news.ycombinator.com/item?id=49445873</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://openstreetmap.us/news/2026/08/oim-charter-project/](https://openstreetmap.us/news/2026/08/oim-charter-project/)
 
@@ -97,7 +97,33 @@ Chloe Moffat died last year, after she was told of allegations she had shared se
 
 ---
 
-### 7. Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
+### 7. Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre &quot;completely ​destroyed by fire&quot;.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss)
+
+---
+
+### 8. The Bulgarian village that fears becoming an Iranian target
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss)
+
+---
+
+### 9. Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Chloe Moffat died last year, after she was told of allegations she had shared se
 Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss)
-
----
-
-### 8. US immigration agents arrested more than 49,500 people in July
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The number of arrests last month showed a rise of roughly 15 percent over June&#039;s count.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss)
-
----
-
-### 9. Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-UN chief Guterres said the attack underscores &#039;the alarming security situation in Haiti&#039; due to gangs.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss)
 
 ---
 
