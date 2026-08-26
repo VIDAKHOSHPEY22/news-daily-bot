@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 10:44:39
+**Last Update:** 2026-08-26 11:34:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. More than half of adults in U.S. say they lack basic statistical understanding
+### 1. Disrupting a new covert influence campaign from Russia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445252">https://news.ycombinator.com/item?id=49445252</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
+
+---
+
+### 2. More than half of adults in U.S. say they lack basic statistical understanding
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444514">https://news.ycombinator.com/item?id=49444514</a></p>
-<p>Points: 47</p>
-<p># Comments: 53</p>
+<p>Points: 71</p>
+<p># Comments: 98</p>
 
 🔗 **Read more:** [https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 
 ---
 
-### 2. Secret Cold War IBM Supercomputer Was Built for One Job
+### 3. Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm">https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444232">https://news.ycombinator.com/item?id=49444232</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
-
----
-
-### 3. Agentic Context Management: Memory and Cost as Architecture Problems
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2607.21503">https://arxiv.org/abs/2607.21503</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443523">https://news.ycombinator.com/item?id=49443523</a></p>
-<p>Points: 26</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2607.21503](https://arxiv.org/abs/2607.21503)
 
 ---
 
@@ -84,55 +84,55 @@ A household using a typical amount of gas and electricity will pay £60 a year m
 
 ---
 
-### 6. NHS failing child sex abuse victims in adulthood, say psychiatrists
+### 6. Dad of woman who took her own life says Treasury failed in its duty of care
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.
+Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal
+### 7. US Army Black Hawk helicopter crashes in Colorado
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Star pair lost to Cobolli and Bencic, who will play married partners Elina Svitolina and Gael Monfils in the semifinal.
+A US Army Black Hawk helicopter crashed after an unplanned landing in Colorado.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss)
 
 ---
 
-### 8. Top official says Iran, Oman have agreed new temporary route in Hormuz
+### 8. UN rejects Israel’s threat to expel Gaza residents over kite-flying
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deputy foreign minster says the route&#039;s entry as well as part of the exit would run through Iranian territorial waters.
+UN rights office spokesperson slams Israeli threat of forced evacuations from Gaza communities over kite flying.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss)
 
 ---
 
-### 9. Iran bets economic pain will pressure Trump in game of ‘chicken’
+### 9. Palestinian boy shot during Israeli raid on UNRWA centre
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran is betting global economic fallout and Republicans worried about the midterms will force Trump&#039;s retreat.
+Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss)
 
 ---
 

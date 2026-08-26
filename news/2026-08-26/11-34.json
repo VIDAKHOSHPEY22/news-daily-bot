@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T11:34:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Disrupting a new covert influence campaign from Russia",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/\">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445252\">https://news.ycombinator.com/item?id=49445252</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+            "published": "Wed, 26 Aug 2026 07:31:31 +0000",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+            "description": "<p>Article URL: <a href=\"https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding\">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444514\">https://news.ycombinator.com/item?id=49444514</a></p>\n<p>Points: 71</p>\n<p># Comments: 98</p>",
+            "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+            "published": "Wed, 26 Aug 2026 05:49:20 +0000",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm\">https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49444232\">https://news.ycombinator.com/item?id=49444232</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+            "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+            "published": "Wed, 26 Aug 2026 05:09:07 +0000",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+            "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 07:48:50 GMT",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+            "description": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
+            "url": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 05:14:12 GMT",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Army Black Hawk helicopter crashes in Colorado",
+            "description": "A US Army Black Hawk helicopter crashed after an unplanned landing in Colorado.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 07:47:42 +0000",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
+            "description": "UN rights office spokesperson slams Israeli threat of forced evacuations from Gaza communities over kite flying.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 07:43:36 +0000",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
+            "description": "Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 07:41:02 +0000",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T11:34:44+03:30"
+        }
+    ]
+}
