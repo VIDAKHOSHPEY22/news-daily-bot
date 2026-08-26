@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 10:30:51
+**Last Update:** 2026-08-26 10:44:39
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding">https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444514">https://news.ycombinator.com/item?id=49444514</a></p>
-<p>Points: 33</p>
-<p># Comments: 36</p>
+<p>Points: 47</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm">https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49444232">https://news.ycombinator.com/item?id=49444232</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
 
@@ -51,23 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2607.21503">https://arxiv.org/abs/2607.21503</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49443523">https://news.ycombinator.com/item?id=49443523</a></p>
-<p>Points: 24</p>
-<p># Comments: 12</p>
+<p>Points: 26</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2607.21503](https://arxiv.org/abs/2607.21503)
 
 ---
 
-### 4. How Dolly Parton told her life story through six iconic songs
+### 4. The life of an iconic country singer
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality.
+Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss)
 
 ---
 
