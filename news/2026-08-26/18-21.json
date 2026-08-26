@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T18:21:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Twitter Viewer – View Twitter Without Account",
+            "description": "<p>Article URL: <a href=\"https://twitterwebviewer.com/\">https://twitterwebviewer.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49449576\">https://news.ycombinator.com/item?id=49449576</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+            "url": "https://twitterwebviewer.com/",
+            "published": "Wed, 26 Aug 2026 14:11:39 +0000",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GLM-5.3-Flash",
+            "description": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5.3-flash\">https://z.ai/blog/glm-5.3-flash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49449507\">https://news.ycombinator.com/item?id=49449507</a></p>\n<p>Points: 146</p>\n<p># Comments: 40</p>",
+            "url": "https://z.ai/blog/glm-5.3-flash",
+            "published": "Wed, 26 Aug 2026 14:08:50 +0000",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta reaches $16.68B settlement over social media harms to children",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/\">https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49448819\">https://news.ycombinator.com/item?id=49448819</a></p>\n<p>Points: 173</p>\n<p># Comments: 121</p>",
+            "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+            "published": "Wed, 26 Aug 2026 13:28:32 +0000",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+            "description": "This video has been edited by the BBC with white flashes, due to the distressing content.",
+            "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 12:36:04 GMT",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Murder probe as two people dead in house fire in Middlesbrough",
+            "description": "Cleveland Police says it \"cannot rule out any links to wider organised crime\" after the fire near Middlesbrough.",
+            "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 14:34:07 GMT",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prince Harry and Meghan land in UK days after announcing move",
+            "description": "Prince Harry, Meghan, and their two children are believed to have flown into the country privately from California.",
+            "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 13:01:51 GMT",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Meta agrees to settlement, platform changes in youth addiction case",
+            "description": "Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.",
+            "url": "https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 14:21:23 +0000",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump tells Al Jazeera “not in a hurry” for Iran to return to talks",
+            "description": "&quot;I have no time schedule,&quot; Trump says when asked when he expects Iran to return to the negotiating table.",
+            "url": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 14:16:29 +0000",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bodies of missing people found in Korea becomes national scandal",
+            "description": "A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 14:00:43 +0000",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T18:21:57+03:30"
+        }
+    ]
+}
