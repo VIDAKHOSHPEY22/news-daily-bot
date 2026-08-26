@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 22:41:30
+**Last Update:** 2026-08-26 23:46:09
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Designation of Autistici/Inventati as a Specially Designated Global Terrorist
+### 1. The risks of AI are real but manageable (2023)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/">https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49453899">https://news.ycombinator.com/item?id=49453899</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable">https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49454742">https://news.ycombinator.com/item?id=49454742</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable](https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable)
+
+---
+
+### 2. GitHub Outage Tracker: Is GitHub Cooked?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://isgithubcooked.com/">https://isgithubcooked.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49454728">https://news.ycombinator.com/item?id=49454728</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://isgithubcooked.com/](https://isgithubcooked.com/)
+
+---
+
+### 3. Super Curry Combat II Turbo – Legend Edition
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://curry-combat-2.com">https://curry-combat-2.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49454496">https://news.ycombinator.com/item?id=49454496</a></p>
+<p>Points: 9</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/](https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/)
-
----
-
-### 2. Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf">https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49453510">https://news.ycombinator.com/item?id=49453510</a></p>
-<p>Points: 62</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
-
----
-
-### 3. The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://thetariffcost.com/">https://thetariffcost.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49453161">https://news.ycombinator.com/item?id=49453161</a></p>
-<p>Points: 35</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://thetariffcost.com/](https://thetariffcost.com/)
+🔗 **Read more:** [https://curry-combat-2.com](https://curry-combat-2.com)
 
 ---
 
@@ -97,42 +97,42 @@ Curry was best known for playing the outlandish Frank-N-Furter in cult film The 
 
 ---
 
-### 7. Kurdish-led SDF has dissolved, but has Syria really unified its military?
+### 7. Video: Ukrainian drones target Wildberries e-commerce hub in Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-SDF&#039;s dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.
+Ukrainian drones have again targeted the Russian online shopping giant Wildberries.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/video-ukrainian-drones-target-wildberries-e-commerce-hub-in-russia?traffic_source=rss)
 
 ---
 
-### 8. UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan
+### 8. Israel-Hamas truce failure ‘point of no return,’ envoy warns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UEFA set to end threat of FIFA events boycott after assurances over Gianni Infantino&#039;s failed World Cup investor plan.
+Hamas has pledged to hand over its weapons as part of the US plan for Gaza, which Israeli PM Netanyahu has rejected.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/israel-hamas-truce-failure-point-of-no-return-envoy-warns?traffic_source=rss)
 
 ---
 
-### 9. US imposes sanctions on Palestine Action and other left-wing groups
+### 9. UNRWA chief condemns Israeli seizure of East Jerusalem facility
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestine Action&#039;s Huda Ammori says Trump&#039;s penalties should be a &#039;wake-up call&#039; for UK to lift ban on the group.
+Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss)
 
 ---
 
