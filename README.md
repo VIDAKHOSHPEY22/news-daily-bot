@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 05:19:30
+**Last Update:** 2026-08-26 05:34:30
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Queryable Executables
+### 1. The brain may be about to have its Ozempic moment
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment">https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442743">https://news.ycombinator.com/item?id=49442743</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment](https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment)
+
+---
+
+### 2. Queryable Executables
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://fzakaria.com/2026/08/24/actually-queryable-executables">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49442589">https://news.ycombinator.com/item?id=49442589</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://fzakaria.com/2026/08/24/actually-queryable-executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
 
 ---
 
-### 2. Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
+### 3. Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/runetes/maiao">https://github.com/runetes/maiao</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441666">https://news.ycombinator.com/item?id=49441666</a></p>
-<p>Points: 25</p>
-<p># Comments: 4</p>
+<p>Points: 26</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://github.com/runetes/maiao](https://github.com/runetes/maiao)
-
----
-
-### 3. Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just work, I built the editor I wanted in my free time, where you open a tab, write LaTeX, get your PDF and the files stay all in one folder on my disk.<p>TeXbrain is a static site with no backend. pdfTeX is compiled to WebAssembly (SwiftLaTeX) and runs in your browser. The editor can read and write your project folder through the File System Access API, so you can use git, any local TeX install, local AI Agents, or any other editor on the same files. Git is built in through isomorphic-git for anyone who would rather not touch a terminal and clone, branch, commit, push or pull via commands. No account is needed, no analytics, and everything works offline after the first load.<p>Try it out: <a href="https://tex.swimmingbrain.dev/" rel="nofollow">https://tex.swimmingbrain.dev/</a> (Chromium browsers get direct folder access, while Firefox or Safari fall back to a virtual filesystem)<p>Or for self-hosting/contributing: <a href="https://github.com/swimmingbrain/texbrain" rel="nofollow">https://github.com/swimmingbrain/texbrain</a> (MIT, the pdfTeX engine is EPL 2.0 / GPL 2.0 and is listed in the THIRD_PARTY_LICENSES file).<p>The part I'm most proud of getting to work is the package loading. The engine itself is only 1.8 MB. When it asks for a file it doesn't have, then a service worker intercepts the request and resolves it through Cache Storage first, then a small bundled subset, then a TeX Live tree mirrored on jsDelivr, then a SwiftLaTeX style server as a last resort. Every file is fetched once at most and after the first successful compilation, the core subset is prefetched in the background so that the offline story actually holds. Only file names go over the network, never any document content.<p>So far, it only supports pdfTeX (no XeTeX or LuaTeX), so fontspec or polyglossia won't work, packages are pinned to the TeX Live 2020 era to stay coherent with the engine's format file and there is no bibtex or biber in the engine yet, which is maybe the roughest edge.<p>This is should be a good solution for people on a work laptop, a Chromebook, or a university lab PC where installing TeX Live isn't always an option, and people who don't want to maintain a TeX install at all. If you already have a local setup you like, keep it. This isn't necessarily thought as a replacement for that.<p>Some people have already used it for their thesis in the past months and their bug reports (which I would never have hit on my own) were then most of the summer's work. The first outside PR also landed recently, so if something doesn't compile for you, an issue with the package name or the bug itself is the most useful thing you can send me!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49441375">https://news.ycombinator.com/item?id=49441375</a></p>
-<p>Points: 45</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://github.com/swimmingbrain/texbrain](https://github.com/swimmingbrain/texbrain)
 
 ---
 
@@ -98,7 +97,20 @@ Flight tracking data confirms an American military aircraft travelled to Russia 
 
 ---
 
-### 7. Is Sudan’s battlefield shaping the terms of its next political phase?
+### 7. Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss)
+
+---
+
+### 8. Is Sudan’s battlefield shaping the terms of its next political phase?
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Army gains, RSF defections and al-Burhan’s political push point to a possible 
 
 ---
 
-### 8. Human rights situation in Myanmar ‘plummets to new low’, UN says
+### 9. Human rights situation in Myanmar ‘plummets to new low’, UN says
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Army gains, RSF defections and al-Burhan’s political push point to a possible 
 New report says abuses against Rohingya and unchecked resource exploitation deepening crisis in Myanmar.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss)
-
----
-
-### 9. Iran war live: Iran says Hormuz remains closed despite Oman route deal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tehran says the agreement with Oman on routes through Hormuz does not indicate that the strait is open.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss)
 
 ---
 

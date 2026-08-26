@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T05:34:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The brain may be about to have its Ozempic moment",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment\">https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49442743\">https://news.ycombinator.com/item?id=49442743</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+            "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+            "published": "Wed, 26 Aug 2026 00:40:41 +0000",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Queryable Executables",
+            "description": "<p>Article URL: <a href=\"https://fzakaria.com/2026/08/24/actually-queryable-executables\">https://fzakaria.com/2026/08/24/actually-queryable-executables</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49442589\">https://news.ycombinator.com/item?id=49442589</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+            "published": "Wed, 26 Aug 2026 00:20:49 +0000",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+            "description": "<p>Article URL: <a href=\"https://github.com/runetes/maiao\">https://github.com/runetes/maiao</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49441666\">https://news.ycombinator.com/item?id=49441666</a></p>\n<p>Points: 26</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/runetes/maiao",
+            "published": "Tue, 25 Aug 2026 22:40:07 +0000",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dolly Parton: The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's house rammed before son died in A66 crash",
+            "description": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed.",
+            "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 17:30:40 GMT",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+            "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 19:48:14 GMT",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
+            "description": "Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards China.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 01:43:50 +0000",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Sudan’s battlefield shaping the terms of its next political phase?",
+            "description": "Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 01:00:17 +0000",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Human rights situation in Myanmar ‘plummets to new low’, UN says",
+            "description": "New report says abuses against Rohingya and unchecked resource exploitation deepening crisis in Myanmar.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 00:29:01 +0000",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T05:34:30+03:30"
+        }
+    ]
+}
