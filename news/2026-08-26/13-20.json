@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T13:20:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
+            "description": "<p>Article URL: <a href=\"https://www.globalsolo.global/data/banking-access-index\">https://www.globalsolo.global/data/banking-access-index</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445908\">https://news.ycombinator.com/item?id=49445908</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.globalsolo.global/data/banking-access-index",
+            "published": "Wed, 26 Aug 2026 09:01:49 +0000",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Value Classes Still Need Compiler Sympathy",
+            "description": "<p>Article URL: <a href=\"https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/\">https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445884\">https://news.ycombinator.com/item?id=49445884</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+            "published": "Wed, 26 Aug 2026 08:59:15 +0000",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oldinsurancemaps.net is now a Charter Project",
+            "description": "<p>Article URL: <a href=\"https://openstreetmap.us/news/2026/08/oim-charter-project/\">https://openstreetmap.us/news/2026/08/oim-charter-project/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445873\">https://news.ycombinator.com/item?id=49445873</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+            "published": "Wed, 26 Aug 2026 08:57:46 +0000",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: The life of an iconic country singer",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+            "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 09:31:51 GMT",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+            "description": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
+            "url": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 05:14:12 GMT",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
+            "description": "Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.",
+            "url": "https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 09:00:35 +0000",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US immigration agents arrested more than 49,500 people in July",
+            "description": "The number of arrests last month showed a rise of roughly 15 percent over June&#039;s count.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/us-immigration-agents-arrested-more-than-49500-people-in-july?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 08:55:23 +0000",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
+            "description": "UN chief Guterres said the attack underscores &#039;the alarming security situation in Haiti&#039; due to gangs.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 08:54:35 +0000",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T13:20:55+03:30"
+        }
+    ]
+}

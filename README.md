@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 12:37:35
+**Last Update:** 2026-08-26 13:20:55
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The End of Programming
+### 1. Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pauldix.com/the-end-of-programming">https://pauldix.com/the-end-of-programming</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445717">https://news.ycombinator.com/item?id=49445717</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.globalsolo.global/data/banking-access-index">https://www.globalsolo.global/data/banking-access-index</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445908">https://news.ycombinator.com/item?id=49445908</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://pauldix.com/the-end-of-programming](https://pauldix.com/the-end-of-programming)
+🔗 **Read more:** [https://www.globalsolo.global/data/banking-access-index](https://www.globalsolo.global/data/banking-access-index)
 
 ---
 
-### 2. Show HN: Buslens – where can I get to by bus? (UK)
+### 2. Value Classes Still Need Compiler Sympathy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rupertlinacre.com/buslens/">https://rupertlinacre.com/buslens/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445286">https://news.ycombinator.com/item?id=49445286</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/">https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445884">https://news.ycombinator.com/item?id=49445884</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://rupertlinacre.com/buslens/](https://rupertlinacre.com/buslens/)
+🔗 **Read more:** [https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
 
 ---
 
-### 3. Disrupting a new covert influence campaign from Russia
+### 3. Oldinsurancemaps.net is now a Charter Project
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445252">https://news.ycombinator.com/item?id=49445252</a></p>
-<p>Points: 35</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://openstreetmap.us/news/2026/08/oim-charter-project/">https://openstreetmap.us/news/2026/08/oim-charter-project/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445873">https://news.ycombinator.com/item?id=49445873</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/)
+🔗 **Read more:** [https://openstreetmap.us/news/2026/08/oim-charter-project/](https://openstreetmap.us/news/2026/08/oim-charter-project/)
 
 ---
 
-### 4. The life of an iconic country singer
+### 4. Watch: The life of an iconic country singer
 
 **Source:** BBC
 
@@ -97,7 +97,20 @@ Chloe Moffat died last year, after she was told of allegations she had shared se
 
 ---
 
-### 7. US immigration agents arrested more than 49,500 people in July
+### 7. Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss)
+
+---
+
+### 8. US immigration agents arrested more than 49,500 people in July
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The number of arrests last month showed a rise of roughly 15 percent over June&#
 
 ---
 
-### 8. Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN
+### 9. Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The number of arrests last month showed a rise of roughly 15 percent over June&#
 UN chief Guterres said the attack underscores &#039;the alarming security situation in Haiti&#039; due to gangs.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss)
-
----
-
-### 9. Thousands in Japan are pulling this historic castle back into place
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands in Japan are pulling this historic castle back into place
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/thousands-in-japan-are-pulling-this-historic-castle-back-into-place?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/thousands-in-japan-are-pulling-this-historic-castle-back-into-place?traffic_source=rss)
 
 ---
 
