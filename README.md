@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-26 13:32:22
+**Last Update:** 2026-08-26 14:12:10
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY
+### 1. Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek">https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446422">https://news.ycombinator.com/item?id=49446422</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+
+---
+
+### 2. Social media use on the rise among Australian under-16s after ban: data
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data">https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49446221">https://news.ycombinator.com/item?id=49446221</a></p>
+<p>Points: 11</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data](https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data)
+
+---
+
+### 3. Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY
 
 **Source:** Hacker News
 
@@ -19,46 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.globalsolo.global/data/banking-access-index">https://www.globalsolo.global/data/banking-access-index</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445908">https://news.ycombinator.com/item?id=49445908</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 6</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.globalsolo.global/data/banking-access-index](https://www.globalsolo.global/data/banking-access-index)
 
 ---
 
-### 2. Value Classes Still Need Compiler Sympathy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/">https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445884">https://news.ycombinator.com/item?id=49445884</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/](https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/)
-
----
-
-### 3. Oldinsurancemaps.net is now a Charter Project
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openstreetmap.us/news/2026/08/oim-charter-project/">https://openstreetmap.us/news/2026/08/oim-charter-project/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49445873">https://news.ycombinator.com/item?id=49445873</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://openstreetmap.us/news/2026/08/oim-charter-project/](https://openstreetmap.us/news/2026/08/oim-charter-project/)
-
----
-
-### 4. Watch: The life of an iconic country singer
+### 4. From 'dirt poor' to philanthropic superstar - the life of Dolly Parton
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Chloe Moffat died last year, after she was told of allegations she had shared se
 
 ---
 
-### 7. Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse
+### 7. China’s Xi to visit Kyrgyzstan, Egypt
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tambov Governor Yevgeny Pervyshov says Wildberries ‌logistics centre &quot;completely ​destroyed by fire&quot;.
+The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss)
 
 ---
 
-### 8. The Bulgarian village that fears becoming an Iranian target
+### 8. Is Japan trying to build bridges with China after Taiwan spat?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Air Force refuelling planes caused anxiety in Bezmer. While their departure has brought relief, tensions persist.
+Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss)
 
 ---
 
-### 9. Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva
+### 9. One US dollar now costs 2 million rials in Iran, and here’s what it can buy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Scottish champions Celtic thumped by LASK as Sabah knock out Hapoel Beer-Sheva with a late goal in the qualifying round.
+Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/bodo-return-to-champions-league-azerbaijans-sabah-deny-israeli-beer-sheva?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss)
 
 ---
 

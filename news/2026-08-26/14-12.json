@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-26T14:12:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek\">https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446422\">https://news.ycombinator.com/item?id=49446422</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+            "published": "Wed, 26 Aug 2026 10:04:55 +0000",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Social media use on the rise among Australian under-16s after ban: data",
+            "description": "<p>Article URL: <a href=\"https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data\">https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49446221\">https://news.ycombinator.com/item?id=49446221</a></p>\n<p>Points: 11</p>\n<p># Comments: 11</p>",
+            "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
+            "published": "Wed, 26 Aug 2026 09:35:58 +0000",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
+            "description": "<p>Article URL: <a href=\"https://www.globalsolo.global/data/banking-access-index\">https://www.globalsolo.global/data/banking-access-index</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49445908\">https://news.ycombinator.com/item?id=49445908</a></p>\n<p>Points: 6</p>\n<p># Comments: 6</p>",
+            "url": "https://www.globalsolo.global/data/banking-access-index",
+            "published": "Wed, 26 Aug 2026 09:01:49 +0000",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
+            "description": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media.",
+            "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Aug 2026 18:27:22 GMT",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+            "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 09:31:51 GMT",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
+            "description": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
+            "url": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 05:14:12 GMT",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s Xi to visit Kyrgyzstan, Egypt",
+            "description": "The Chinese president will attend the SCO summit in Bishkek, before travelling to Egypt.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 10:29:46 +0000",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Japan trying to build bridges with China after Taiwan spat?",
+            "description": "Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.",
+            "url": "https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 10:28:52 +0000",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+            "description": "Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.",
+            "url": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+            "published": "Wed, 26 Aug 2026 10:00:05 +0000",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-26T14:12:10+03:30"
+        }
+    ]
+}
