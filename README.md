@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 23:46:53
+**Last Update:** 2026-08-28 00:06:37
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
+### 1. Silicon Valley is in denial in face of widespread backlash
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers">https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49470380">https://news.ycombinator.com/item?id=49470380</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers](https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers)
+
+---
+
+### 2. Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc">https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469249">https://news.ycombinator.com/item?id=49469249</a></p>
-<p>Points: 48</p>
-<p># Comments: 16</p>
+<p>Points: 56</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
 
 ---
 
-### 2. Autism mutations drive neurodevelopmental pathology
+### 3. Autism mutations drive neurodevelopmental pathology
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/doi/10.1126/science.ady4523">https://www.science.org/doi/10.1126/science.ady4523</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469098">https://news.ycombinator.com/item?id=49469098</a></p>
-<p>Points: 40</p>
-<p># Comments: 26</p>
+<p>Points: 44</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://www.science.org/doi/10.1126/science.ady4523](https://www.science.org/doi/10.1126/science.ady4523)
-
----
-
-### 3. Previewing the Model Hardware Standard
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/model-hardware-standard-research-preview">https://www.anthropic.com/news/model-hardware-standard-research-preview</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49468834">https://news.ycombinator.com/item?id=49468834</a></p>
-<p>Points: 31</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.anthropic.com/news/model-hardware-standard-research-preview](https://www.anthropic.com/news/model-hardware-standard-research-preview)
 
 ---
 
@@ -97,7 +97,33 @@ The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian
 
 ---
 
-### 7. Nigeria’s football federation chief resigns amid corruption allegations
+### 7. US President Trump signs order renaming Lake Ontario to ‘Lake America’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss)
+
+---
+
+### 8. Trade war between US and Canada could cost 90,000 jobs
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump’s new 50% tariffs could put nearly 90,000 Canadian jobs at risk.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss)
+
+---
+
+### 9. Nigeria’s football federation chief resigns amid corruption allegations
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian
 President Bola Tinubu&#039;s office says he has ordered &#039;comprehensive reform&#039; of the country&#039;s football administration.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss)
-
----
-
-### 8. How a glacial collapse caused Nepal’s catastrophic floods
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Scientists believe a glacier and rock collapse near the Nepal-China border triggered a massive flood.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss)
-
----
-
-### 9. People in Bosnia react to the death of Ratko Mladic, ‘butcher of Bosnia’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-‘Even his own family should not be mourning him.’
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss)
 
 ---
 

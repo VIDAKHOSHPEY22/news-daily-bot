@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-28T00:06:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Silicon Valley is in denial in face of widespread backlash",
+            "description": "<p>Article URL: <a href=\"https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers\">https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49470380\">https://news.ycombinator.com/item?id=49470380</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+            "url": "https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers",
+            "published": "Thu, 27 Aug 2026 19:59:00 +0000",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+            "description": "<p>Article URL: <a href=\"https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc\">https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49469249\">https://news.ycombinator.com/item?id=49469249</a></p>\n<p>Points: 56</p>\n<p># Comments: 21</p>",
+            "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+            "published": "Thu, 27 Aug 2026 18:34:40 +0000",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Autism mutations drive neurodevelopmental pathology",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.ady4523\">https://www.science.org/doi/10.1126/science.ady4523</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49469098\">https://news.ycombinator.com/item?id=49469098</a></p>\n<p>Points: 44</p>\n<p># Comments: 37</p>",
+            "url": "https://www.science.org/doi/10.1126/science.ady4523",
+            "published": "Thu, 27 Aug 2026 18:23:43 +0000",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+            "description": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
+            "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 16:13:39 GMT",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uefa preparing criminal legal action against Infantino",
+            "description": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 14:42:09 GMT",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
+            "description": "The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian conflict.",
+            "url": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 13:48:09 GMT",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US President Trump signs order renaming Lake Ontario to ‘Lake America’",
+            "description": "The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.",
+            "url": "https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 20:06:46 +0000",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trade war between US and Canada could cost 90,000 jobs",
+            "description": "Trump’s new 50% tariffs could put nearly 90,000 Canadian jobs at risk.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 20:06:09 +0000",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria’s football federation chief resigns amid corruption allegations",
+            "description": "President Bola Tinubu&#039;s office says he has ordered &#039;comprehensive reform&#039; of the country&#039;s football administration.",
+            "url": "https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss",
+            "published": "Thu, 27 Aug 2026 19:57:13 +0000",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Julio",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286",
+            "published": "2026-08-25T06:00:00Z",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Old Deer, Carson, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209",
+            "published": "2026-08-23T20:38:00Z",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 22, Miami-Dade, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225",
+            "published": "2026-08-23T16:30:00Z",
+            "fetched": "2026-08-28T00:06:37+03:30"
+        }
+    ]
+}
