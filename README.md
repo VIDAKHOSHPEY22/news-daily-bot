@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 13:31:36
+**Last Update:** 2026-08-27 23:46:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Watch: Rescue teams pull survivors from thick mud
+### 1. Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc">https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469249">https://news.ycombinator.com/item?id=49469249</a></p>
+<p>Points: 48</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
+
+---
+
+### 2. Autism mutations drive neurodevelopmental pathology
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.ady4523">https://www.science.org/doi/10.1126/science.ady4523</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469098">https://news.ycombinator.com/item?id=49469098</a></p>
+<p>Points: 40</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://www.science.org/doi/10.1126/science.ady4523](https://www.science.org/doi/10.1126/science.ady4523)
+
+---
+
+### 3. Previewing the Model Hardware Standard
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.anthropic.com/news/model-hardware-standard-research-preview">https://www.anthropic.com/news/model-hardware-standard-research-preview</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49468834">https://news.ycombinator.com/item?id=49468834</a></p>
+<p>Points: 31</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://www.anthropic.com/news/model-hardware-standard-research-preview](https://www.anthropic.com/news/model-hardware-standard-research-preview)
+
+---
+
+### 4. Watch: Tracing the deadly path of the Nepal-Tibet flash flood
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-At least 160 people have been killed along the Nepal-Tibet border as rescuers struggle to reach the disaster zone.
+BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Two teenagers, 13 and 14, among 33 UK nationals missing in disaster
+### 5. Uefa preparing criminal legal action against Infantino
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nepali police says 270 bodies have been recovered, while over 800 are still missing in total, according to authorities.
+Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says
+### 6. The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Teesside MPs and a council leader say communities need to feel safe after the incidents over the past week.
+The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian conflict.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Photos: More than 1,300 missing in Nepal and Tibet after deadly floods
+### 7. Nigeria’s football federation chief resigns amid corruption allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Glacier collapse sends floods over Nepal-China border, killing at least 270 and leaving more than 1,300 missing.
+President Bola Tinubu&#039;s office says he has ordered &#039;comprehensive reform&#039; of the country&#039;s football administration.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/8/27/photos-more-than-1400-missing-in-nepal-and-tibet-after-deadly-floods?traffic_source=rss](https://www.aljazeera.com/gallery/2026/8/27/photos-more-than-1400-missing-in-nepal-and-tibet-after-deadly-floods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss)
 
 ---
 
-### 5. Malaysia’s former PM Ismail Sabri charged with concealing assets
+### 8. How a glacial collapse caused Nepal’s catastrophic floods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sabri, 66, pleaded not guilty to allegedly failing to provide a complete declaration of assets.
+Scientists believe a glacier and rock collapse near the Nepal-China border triggered a massive flood.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/malaysias-former-pm-ismail-sabri-charged-with-concealing-assets?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/malaysias-former-pm-ismail-sabri-charged-with-concealing-assets?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/how-a-glacial-collapse-caused-nepals-catastrophic-floods?traffic_source=rss)
 
 ---
 
-### 6. Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
+### 9. People in Bosnia react to the death of Ratko Mladic, ‘butcher of Bosnia’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fenerbahce&#039;s French midfielder Guendouzi was attacked by Lyon fans after he mocked them at the end of the match.
+‘Even his own family should not be mourning him.’
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/people-in-bosnia-react-to-the-death-of-ratko-mladic-butcher-of?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Julio
+### 10. Tropical Storm Julio
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire Old Deer, Carson, Texas
+### 11. Wildfire Old Deer, Carson, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire 22, Miami-Dade, Florida
+### 12. Wildfire 22, Miami-Dade, Florida
 
 **Source:** NASA
 
