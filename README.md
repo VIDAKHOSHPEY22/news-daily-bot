@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-27 03:17:14
+**Last Update:** 2026-08-27 12:50:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022
+### 1. Kusama Yayoi has died
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html">https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49456929">https://news.ycombinator.com/item?id=49456929</a></p>
-<p>Points: 23</p>
-<p># Comments: 11</p>
+<p><a href="https://archive.ph/axjMF" rel="nofollow">https://archive.ph/axjMF</a><p><a href="https://yayoi-kusama.jp/en/news4518/" rel="nofollow">https://yayoi-kusama.jp/en/news4518/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458709">https://news.ycombinator.com/item?id=49458709</a></p>
+<p>Points: 166</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
+🔗 **Read more:** [https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
 
 ---
 
-### 2. Clerky Is Joining Stripe
+### 2. Getting video models to learn better, faster
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.clerky.com/blog/clerky-is-joining-stripe">https://www.clerky.com/blog/clerky-is-joining-stripe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455956">https://news.ycombinator.com/item?id=49455956</a></p>
-<p>Points: 24</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.linum.ai/field-notes/data-filtering-gen-video">https://www.linum.ai/field-notes/data-filtering-gen-video</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458502">https://news.ycombinator.com/item?id=49458502</a></p>
+<p>Points: 26</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.clerky.com/blog/clerky-is-joining-stripe](https://www.clerky.com/blog/clerky-is-joining-stripe)
+🔗 **Read more:** [https://www.linum.ai/field-notes/data-filtering-gen-video](https://www.linum.ai/field-notes/data-filtering-gen-video)
 
 ---
 
-### 3. mold: A Parallel Linker
+### 3. Laion Big Video Dataset
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.23228">https://arxiv.org/abs/2608.23228</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49455530">https://news.ycombinator.com/item?id=49455530</a></p>
-<p>Points: 48</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://projects.laion.ai/bvd/">https://projects.laion.ai/bvd/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49458478">https://news.ycombinator.com/item?id=49458478</a></p>
+<p>Points: 60</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.23228](https://arxiv.org/abs/2608.23228)
+🔗 **Read more:** [https://projects.laion.ai/bvd/](https://projects.laion.ai/bvd/)
 
 ---
 
-### 4. BBC visits hospital in Kathmandu as families wait for news
+### 4. Watch: Rescue teams pull survivors from thick mud
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 150 people have been killed after a massive flash flood on the Nepal-Tibet border, as hundreds still missing.
+At least 160 people have been killed along the Nepal-Tibet border as rescuers struggle to reach the disaster zone.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c62mr6p1dydo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Meta to pay up to $18bn to settle claims its platforms harm children
+### 5. Two teenagers, 13 and 14, among 33 UK nationals missing in disaster
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The deal has been reached during a California federal court trial over claims brought by US states.
+Nepali police says 270 bodies have been recovered, while over 800 are still missing in total, according to authorities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC
+### 6. Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two men have been arrested on suspicion of murder over the fire in Middlesborough, police say.
+Teesside MPs and a council leader say communities need to feel safe after the incidents over the past week.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Spain’s tomato food fight leaves thousands covered in pulp
+### 7. Malaysia’s former PM Ismail Sabri charged with concealing assets
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of people pelt each other with tomatoes as Spain’s famous ‘La Tomatina’ festival gets underway.
+Sabri, 66, pleaded not guilty to allegedly failing to provide a complete declaration of assets.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/malaysias-former-pm-ismail-sabri-charged-with-concealing-assets?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/malaysias-former-pm-ismail-sabri-charged-with-concealing-assets?traffic_source=rss)
 
 ---
 
-### 8. Barcelona vs Athletic Club: La Liga – prediction, teams, lineups
+### 8. Chaos mars Fenerbahce’s Champions League qualifying win over Lyon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lamine Yamal and Raphinha will seek to add to Barcelona&#039;s five-star La Liga opener when Athletic arrive from Bilbao.
+Fenerbahce&#039;s French midfielder Guendouzi was attacked by Lyon fans after he mocked them at the end of the match.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/27/chaos-mars-fenerbahces-champions-league-qualifying-win-over-lyon?traffic_source=rss)
 
 ---
 
-### 9. US judge declines Minnesota’s effort to force Texas to extradite ICE agent
+### 9. ‘Swept away’: Nepal families search for relatives after devastating floods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.
+About 180 people have been killed and 1,400 are missing, with numbers expected to rise significantly.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss](https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/swept-away-nepal-families-search-for-relatives-after-devastating-floods?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/swept-away-nepal-families-search-for-relatives-after-devastating-floods?traffic_source=rss)
 
 ---
 
