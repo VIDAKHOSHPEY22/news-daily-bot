@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 00:06:37
+**Last Update:** 2026-08-28 08:41:17
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Silicon Valley is in denial in face of widespread backlash
+### 1. Please stop flooding our projects with AI slop to furnish your CV
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers">https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49470380">https://news.ycombinator.com/item?id=49470380</a></p>
-<p>Points: 14</p>
+<p>Article URL: <a href="https://neilalexander.dev/2026/06/30/flooding-contributions">https://neilalexander.dev/2026/06/30/flooding-contributions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474143">https://news.ycombinator.com/item?id=49474143</a></p>
+<p>Points: 33</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://neilalexander.dev/2026/06/30/flooding-contributions](https://neilalexander.dev/2026/06/30/flooding-contributions)
+
+---
+
+### 2. GoGoGrandparent (YC S16) is hiring back end engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49474060">https://news.ycombinator.com/item?id=49474060</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers](https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers)
+🔗 **Read more:** [https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer)
 
 ---
 
-### 2. Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force
+### 3. Bootstrappable Builds: How and Why
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc">https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469249">https://news.ycombinator.com/item?id=49469249</a></p>
-<p>Points: 56</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://lwn.net/Articles/1088279/">https://lwn.net/Articles/1088279/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49473868">https://news.ycombinator.com/item?id=49473868</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc](https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc)
-
----
-
-### 3. Autism mutations drive neurodevelopmental pathology
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/doi/10.1126/science.ady4523">https://www.science.org/doi/10.1126/science.ady4523</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49469098">https://news.ycombinator.com/item?id=49469098</a></p>
-<p>Points: 44</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://www.science.org/doi/10.1126/science.ady4523](https://www.science.org/doi/10.1126/science.ady4523)
+🔗 **Read more:** [https://lwn.net/Articles/1088279/](https://lwn.net/Articles/1088279/)
 
 ---
 
@@ -71,85 +71,72 @@ BBC Verify traces the path of the destructive Nepal-Tibet flash flood using veri
 
 ---
 
-### 5. Uefa preparing criminal legal action against Infantino
+### 5. Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.
+Cleveland Police confirms it has support from six local forces and the National Crime Agency.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'
+### 6. Clean-up of illegal waste supersite costs taxpayers £6m
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Bosnian Serb commander led a campaign of ethnic cleansing during the Bosnian conflict.
+The bill for clearing the dump in Oxfordshire has been covered by taxpayers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US President Trump signs order renaming Lake Ontario to ‘Lake America’
+### 7. DRC begins vaccinating front-line healthcare workers against Ebola
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
+Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss](https://www.aljazeera.com/news/2026/8/27/us-president-trump-signs-order-renaming-lake-ontario-to-lake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss)
 
 ---
 
-### 8. Trade war between US and Canada could cost 90,000 jobs
+### 8. Nepal’s mudslide wiped out areas of eastern China, army helps search
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s new 50% tariffs could put nearly 90,000 Canadian jobs at risk.
+China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/27/trade-war-between-us-and-canada-could-cost-90000-jobs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss)
 
 ---
 
-### 9. Nigeria’s football federation chief resigns amid corruption allegations
+### 9. Indonesians march on parliament to demand crackdown on corruption
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Bola Tinubu&#039;s office says he has ordered &#039;comprehensive reform&#039; of the country&#039;s football administration.
+Thousands of Indonesians demand harsher penalties for corruption during protests outside parliament in Jakarta.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/27/nigerias-football-federation-chief-resigns-amid-corruption-allegations?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Julio
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23286)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/indonesians-march-on-parliament-to-demand-crackdown-on-corruption?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/indonesians-march-on-parliament-to-demand-crackdown-on-corruption?traffic_source=rss)
 
 ---
 
-### 11. Wildfire Old Deer, Carson, Texas
+### 10. Wildfire Calico, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -158,11 +145,11 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23209)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453)
 
 ---
 
-### 12. Wildfire 22, Miami-Dade, Florida
+### 11. Wildfire McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -171,7 +158,20 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23225)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455)
+
+---
+
+### 12. Wildfire LAUGHLIN, Colfax, New Mexico
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466)
 
 ---
 

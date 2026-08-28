@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-28T08:41:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Please stop flooding our projects with AI slop to furnish your CV",
+            "description": "<p>Article URL: <a href=\"https://neilalexander.dev/2026/06/30/flooding-contributions\">https://neilalexander.dev/2026/06/30/flooding-contributions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49474143\">https://news.ycombinator.com/item?id=49474143</a></p>\n<p>Points: 33</p>\n<p># Comments: 2</p>",
+            "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+            "published": "Fri, 28 Aug 2026 03:49:33 +0000",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49474060\">https://news.ycombinator.com/item?id=49474060</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+            "published": "Fri, 28 Aug 2026 03:35:15 +0000",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bootstrappable Builds: How and Why",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1088279/\">https://lwn.net/Articles/1088279/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49473868\">https://news.ycombinator.com/item?id=49473868</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+            "url": "https://lwn.net/Articles/1088279/",
+            "published": "Fri, 28 Aug 2026 03:02:42 +0000",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+            "description": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
+            "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 16:13:39 GMT",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths",
+            "description": "Cleveland Police confirms it has support from six local forces and the National Crime Agency.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 20:14:57 GMT",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
+            "description": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 21:00:48 GMT",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DRC begins vaccinating front-line healthcare workers against Ebola",
+            "description": "Trials for a vaccine for the Bundibugyo strain are ongoing as DRC authorities try to control the Ebola outbreak.",
+            "url": "https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 04:27:54 +0000",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nepal’s mudslide wiped out areas of eastern China, army helps search",
+            "description": "China has dispatched hundreds of military personnel to the border town of Gyirong in Tibet, after a deadly mudslide.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 04:20:27 +0000",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesians march on parliament to demand crackdown on corruption",
+            "description": "Thousands of Indonesians demand harsher penalties for corruption during protests outside parliament in Jakarta.",
+            "url": "https://www.aljazeera.com/news/2026/8/28/indonesians-march-on-parliament-to-demand-crackdown-on-corruption?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 04:17:27 +0000",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-28T08:41:17+03:30"
+        }
+    ]
+}
