@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-28T22:01:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Secrets of the Atomic City",
+            "description": "<p>Article URL: <a href=\"https://longreads.com/2026/08/06/radiation-paducah-atavist/\">https://longreads.com/2026/08/06/radiation-paducah-atavist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481672\">https://news.ycombinator.com/item?id=49481672</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://longreads.com/2026/08/06/radiation-paducah-atavist/",
+            "published": "Fri, 28 Aug 2026 17:16:58 +0000",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.23691\">https://arxiv.org/abs/2608.23691</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481455\">https://news.ycombinator.com/item?id=49481455</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2608.23691",
+            "published": "Fri, 28 Aug 2026 17:01:12 +0000",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering\">https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481423\">https://news.ycombinator.com/item?id=49481423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
+            "published": "Fri, 28 Aug 2026 17:00:06 +0000",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Videos show people survive floodwaters on balcony in Nepal",
+            "description": "BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through.",
+            "url": "https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 17:32:02 GMT",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about the 33 British nationals missing in Nepal",
+            "description": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
+            "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 15:48:14 GMT",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Norway's 'grandfather': King Harald remembered as son Haakon takes the throne",
+            "description": "Norwegians paid their respects to the late King Harld after his death on Friday morning.",
+            "url": "https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 18:11:13 GMT",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
+            "description": "Israel&#039;s prime minister and defence minister praise the attack as Hamas calls for Israeli &#039;crimes&#039; to stop.",
+            "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 17:47:17 +0000",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case",
+            "description": "Seven people have been charged in connection with damage to Donald Trump’s Turnberry golf resort in Scotland in 2025.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 17:36:56 +0000",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge denies injunction against Trump’s new birthright citizenship order",
+            "description": "The rejection is a temporary setback for immigrant rights advocates, who have been instructed to revise their petition.",
+            "url": "https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 17:32:55 +0000",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-28T22:01:45+03:30"
+        }
+    ]
+}
