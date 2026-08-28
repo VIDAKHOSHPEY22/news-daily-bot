@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-28T21:06:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I'm auctioning 12 laser-etched logo spots on my next MacBook",
+            "description": "<p>After seeing a tweet go super viral I decided to enable everyone to get a free macbook by providing it as an ads platform IRL.<p>If you want new laptop and you are cracked post it there.<p>If you want to sponsor a builder and get free publicity check out the laptops listed there.<p>Let me know if you think this is a good idea :)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481679\">https://news.ycombinator.com/item?id=49481679</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+            "url": "https://lidbrand.com",
+            "published": "Fri, 28 Aug 2026 17:17:41 +0000",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Secrets of the Atomic City",
+            "description": "<p>Article URL: <a href=\"https://longreads.com/2026/08/06/radiation-paducah-atavist/\">https://longreads.com/2026/08/06/radiation-paducah-atavist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481672\">https://news.ycombinator.com/item?id=49481672</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://longreads.com/2026/08/06/radiation-paducah-atavist/",
+            "published": "Fri, 28 Aug 2026 17:16:58 +0000",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering\">https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49481423\">https://news.ycombinator.com/item?id=49481423</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
+            "published": "Fri, 28 Aug 2026 17:00:06 +0000",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Who are the 33 British nationals missing in Nepal",
+            "description": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.",
+            "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 15:48:14 GMT",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+            "description": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
+            "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 14:06:13 GMT",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says",
+            "description": "Police now say they are not currently linking a deadly crash on the A66 to a fatal house fire.",
+            "url": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 16:05:55 GMT",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canadian economy recovers sharply in Q2 but shadow of US tariffs in future",
+            "description": "Healthy domestic demand, led by consumer spending and business investment, shows Canada was brushing off past tariffs.",
+            "url": "https://www.aljazeera.com/economy/2026/8/28/canadian-economy-recovers-sharply-in-q2-but-shadow-of-us-tariffs-in-future?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 16:59:48 +0000",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al Jazeera reports from Nepal as flood survivors flee new threat",
+            "description": "Al Jazeera reports from flood-hit Bidur, Nepal, as residents flee towards higher ground amid threats of another flood.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-barnaby-lo-wt-reported?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 16:56:23 +0000",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
+            "description": "In an interview with Al Jazeera, Nicolay Mladenov says that a return to war would be &#039;devastating&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/8/28/board-of-peace-envoy-mladenov-warns-gaza-ceasefire-risks-collapse?traffic_source=rss",
+            "published": "Fri, 28 Aug 2026 16:44:45 +0000",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-28T21:06:35+03:30"
+        }
+    ]
+}
