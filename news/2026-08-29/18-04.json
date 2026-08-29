@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T18:04:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Debian votes to allow \"responsible use of generative AI\"",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1091231/\">https://lwn.net/Articles/1091231/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49489982\">https://news.ycombinator.com/item?id=49489982</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
+            "url": "https://lwn.net/Articles/1091231/",
+            "published": "Sat, 29 Aug 2026 14:02:10 +0000",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
+            "description": "<p>Article URL: <a href=\"https://shukla.io/quantum-oracle-engineering/\">https://shukla.io/quantum-oracle-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49489864\">https://news.ycombinator.com/item?id=49489864</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://shukla.io/quantum-oracle-engineering/",
+            "published": "Sat, 29 Aug 2026 13:42:22 +0000",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Iceland votes on whether to restart talks on joining EU",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn45vdxyvvlo\">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49489057\">https://news.ycombinator.com/item?id=49489057</a></p>\n<p>Points: 218</p>\n<p># Comments: 252</p>",
+            "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+            "published": "Sat, 29 Aug 2026 11:39:38 +0000",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christian festival 'devastated' as man dies after sign falls",
+            "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+            "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 14:12:30 GMT",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+            "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 12:55:39 GMT",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+            "description": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 10:31:18 GMT",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "People stranded for days on dilapidated Nigerian highway",
+            "description": "Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 14:01:46 +0000",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
+            "description": "An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.",
+            "url": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 13:51:16 +0000",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mladic died a happy man. He won",
+            "description": "He fought for fascism to triumph. And it did.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 13:30:56 +0000",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T18:04:39+03:30"
+        }
+    ]
+}
