@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T22:10:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+            "description": "<p>Article URL: <a href=\"https://tucker.wales/writing/bias-towards-action/\">https://tucker.wales/writing/bias-towards-action/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49491714\">https://news.ycombinator.com/item?id=49491714</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://tucker.wales/writing/bias-towards-action/",
+            "published": "Sat, 29 Aug 2026 17:39:18 +0000",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+            "description": "<p>Article URL: <a href=\"https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity\">https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49491568\">https://news.ycombinator.com/item?id=49491568</a></p>\n<p>Points: 30</p>\n<p># Comments: 0</p>",
+            "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+            "published": "Sat, 29 Aug 2026 17:19:47 +0000",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+            "description": "<p>Article URL: <a href=\"https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest\">https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49491175\">https://news.ycombinator.com/item?id=49491175</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+            "published": "Sat, 29 Aug 2026 16:24:21 +0000",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+            "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 15:27:56 GMT",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christian festival 'devastated' as man dies after sign falls",
+            "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+            "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 14:12:30 GMT",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleverly quits shadow cabinet to run for London mayor",
+            "description": "The capital is not set to vote on a new mayor until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 16:24:39 GMT",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DR Congo begins vaccinating against largest and deadliest Ebola outbreak",
+            "description": "70,000 Ervebo vaccine doses have been sent to DR Congo in hope they prove effective against the Bundibugyo strain.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 18:13:05 +0000",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan’s date palm trees under threat from drought and wildfires",
+            "description": "In Sudan, date palm trees are an economic lifeline for residents of Northern State.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 18:07:24 +0000",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
+            "description": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 17:41:57 +0000",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T22:10:19+03:30"
+        }
+    ]
+}

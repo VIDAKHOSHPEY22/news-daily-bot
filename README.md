@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 21:53:05
+**Last Update:** 2026-08-29 22:10:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nancy Grace Roman Space Telescope
+### 1. Calibrate Before You Accelerate: Bias Toward Action in a New Role
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://science.nasa.gov/mission/roman-space-telescope/">https://science.nasa.gov/mission/roman-space-telescope/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490870">https://news.ycombinator.com/item?id=49490870</a></p>
-<p>Points: 55</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://science.nasa.gov/mission/roman-space-telescope/](https://science.nasa.gov/mission/roman-space-telescope/)
-
----
-
-### 2. Quantifying Colour
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ekunazanu.foo/lab/quantifying-colour/">https://ekunazanu.foo/lab/quantifying-colour/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490832">https://news.ycombinator.com/item?id=49490832</a></p>
-<p>Points: 18</p>
+<p>Article URL: <a href="https://tucker.wales/writing/bias-towards-action/">https://tucker.wales/writing/bias-towards-action/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491714">https://news.ycombinator.com/item?id=49491714</a></p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://ekunazanu.foo/lab/quantifying-colour/](https://ekunazanu.foo/lab/quantifying-colour/)
+🔗 **Read more:** [https://tucker.wales/writing/bias-towards-action/](https://tucker.wales/writing/bias-towards-action/)
 
 ---
 
-### 3. Parsing the Infamous Japanese Postal CSV
+### 2. Good Culture Is the Biggest Productivity Hack, Not AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dampfkraft.com/posuto.html">https://www.dampfkraft.com/posuto.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490826">https://news.ycombinator.com/item?id=49490826</a></p>
+<p>Article URL: <a href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity">https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491568">https://news.ycombinator.com/item?id=49491568</a></p>
 <p>Points: 30</p>
-<p># Comments: 2</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.dampfkraft.com/posuto.html](https://www.dampfkraft.com/posuto.html)
+🔗 **Read more:** [https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
+
+---
+
+### 3. Trees for a Changing Climate and Resilient Urban Forest (2022)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest">https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491175">https://news.ycombinator.com/item?id=49491175</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest](https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest)
 
 ---
 
@@ -97,7 +97,20 @@ The capital is not set to vote on a new mayor until 2028.
 
 ---
 
-### 7. Sudan’s date palm trees under threat from drought and wildfires
+### 7. DR Congo begins vaccinating against largest and deadliest Ebola outbreak
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+70,000 Ervebo vaccine doses have been sent to DR Congo in hope they prove effective against the Bundibugyo strain.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss)
+
+---
+
+### 8. Sudan’s date palm trees under threat from drought and wildfires
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ In Sudan, date palm trees are an economic lifeline for residents of Northern Sta
 
 ---
 
-### 8. Turkiye summons Ukraine ambassador over Black Sea attacks
+### 9. Turkiye summons Ukraine ambassador over Black Sea attacks
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ In Sudan, date palm trees are an economic lifeline for residents of Northern Sta
 Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss)
-
----
-
-### 9. Israeli army arrests six Palestinians after settler violence in West Bank
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss)
 
 ---
 
