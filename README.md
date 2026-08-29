@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 12:42:02
+**Last Update:** 2026-08-29 13:26:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Autistici/inventati: Manifesto – who we are and what do we want (2002)
+### 1. You Know GDPR Is Good Based on Who Hates It
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/">https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49488282">https://news.ycombinator.com/item?id=49488282</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/](https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/)
+
+---
+
+### 2. Autistici/inventati: Manifesto – who we are and what do we want (2002)
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.inventati.org/who/manifesto">https://www.inventati.org/who/manifesto</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487786">https://news.ycombinator.com/item?id=49487786</a></p>
-<p>Points: 45</p>
-<p># Comments: 20</p>
+<p>Points: 55</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://www.inventati.org/who/manifesto](https://www.inventati.org/who/manifesto)
 
 ---
 
-### 2. e is a customizable self-aware Emacs-like editor written in Chez Scheme
+### 3. e is a customizable self-aware Emacs-like editor written in Chez Scheme
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/paveluv/e">https://github.com/paveluv/e</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487506">https://news.ycombinator.com/item?id=49487506</a></p>
-<p>Points: 16</p>
+<p>Points: 21</p>
 <p># Comments: 11</p>
 
 🔗 **Read more:** [https://github.com/paveluv/e](https://github.com/paveluv/e)
-
----
-
-### 3. Samsung's Processing-in-Memory (PIM)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49487341">https://news.ycombinator.com/item?id=49487341</a></p>
-<p>Points: 61</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 
 ---
 
@@ -97,7 +97,33 @@ Police say at least six other people were also injured in the incident at the Bi
 
 ---
 
-### 7. Chelsea vs Brighton: Premier League – preview, team news, prediction
+### 7. Norway mourns King Harald as new era begins under Haakon VIII
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+King Harald, Europe&#039;s oldest monarch, was viewed as a reformer who embraced inclusivity.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss)
+
+---
+
+### 8. US revokes visa of former Iraqi minister after watchlist listing
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss)
+
+---
+
+### 9. Chelsea vs Brighton: Premier League – preview, team news, prediction
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Police say at least six other people were also injured in the incident at the Bi
 Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss)
-
----
-
-### 8. LIVE: Liverpool vs Nottingham Forest – Premier League
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss)
-
----
-
-### 9. Aston Villa sign Chelsea striker Nicolas Jackson for reported club record
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Jackson arrives as a replacement for Ollie Watkins, whose move to Saudi Arabian side Al Hilal is being finalised.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/aston-villa-sign-chelsea-striker-nicolas-jackson-for-reported-club-record?traffic_source=rss)
 
 ---
 

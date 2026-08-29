@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T13:26:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "You Know GDPR Is Good Based on Who Hates It",
+            "description": "<p>Article URL: <a href=\"https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/\">https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49488282\">https://news.ycombinator.com/item?id=49488282</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+            "published": "Sat, 29 Aug 2026 09:19:22 +0000",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+            "description": "<p>Article URL: <a href=\"https://www.inventati.org/who/manifesto\">https://www.inventati.org/who/manifesto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49487786\">https://news.ycombinator.com/item?id=49487786</a></p>\n<p>Points: 55</p>\n<p># Comments: 27</p>",
+            "url": "https://www.inventati.org/who/manifesto",
+            "published": "Sat, 29 Aug 2026 07:38:31 +0000",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
+            "description": "<p>Article URL: <a href=\"https://github.com/paveluv/e\">https://github.com/paveluv/e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49487506\">https://news.ycombinator.com/item?id=49487506</a></p>\n<p>Points: 21</p>\n<p># Comments: 11</p>",
+            "url": "https://github.com/paveluv/e",
+            "published": "Sat, 29 Aug 2026 06:35:28 +0000",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+            "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+            "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 21:17:54 GMT",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+            "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christian festival 'devastated' as man dies after sign falls",
+            "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+            "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 09:40:34 GMT",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Norway mourns King Harald as new era begins under Haakon VIII",
+            "description": "King Harald, Europe&#039;s oldest monarch, was viewed as a reformer who embraced inclusivity.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 09:45:37 +0000",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US revokes visa of former Iraqi minister after watchlist listing",
+            "description": "The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist&#039;.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 09:05:30 +0000",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Chelsea vs Brighton: Premier League – preview, team news, prediction",
+            "description": "Brighton will fancy their chances against Chelsea though, having won their last three league games against the Blues.",
+            "url": "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 08:51:07 +0000",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T13:26:49+03:30"
+        }
+    ]
+}
