@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T21:53:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nancy Grace Roman Space Telescope",
+            "description": "<p>Article URL: <a href=\"https://science.nasa.gov/mission/roman-space-telescope/\">https://science.nasa.gov/mission/roman-space-telescope/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49490870\">https://news.ycombinator.com/item?id=49490870</a></p>\n<p>Points: 55</p>\n<p># Comments: 15</p>",
+            "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+            "published": "Sat, 29 Aug 2026 15:48:02 +0000",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Quantifying Colour",
+            "description": "<p>Article URL: <a href=\"https://ekunazanu.foo/lab/quantifying-colour/\">https://ekunazanu.foo/lab/quantifying-colour/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49490832\">https://news.ycombinator.com/item?id=49490832</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+            "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+            "published": "Sat, 29 Aug 2026 15:43:53 +0000",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Parsing the Infamous Japanese Postal CSV",
+            "description": "<p>Article URL: <a href=\"https://www.dampfkraft.com/posuto.html\">https://www.dampfkraft.com/posuto.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49490826\">https://news.ycombinator.com/item?id=49490826</a></p>\n<p>Points: 30</p>\n<p># Comments: 2</p>",
+            "url": "https://www.dampfkraft.com/posuto.html",
+            "published": "Sat, 29 Aug 2026 15:42:43 +0000",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+            "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 15:27:56 GMT",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christian festival 'devastated' as man dies after sign falls",
+            "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+            "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 14:12:30 GMT",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleverly quits shadow cabinet to run for London mayor",
+            "description": "The capital is not set to vote on a new mayor until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 16:24:39 GMT",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan’s date palm trees under threat from drought and wildfires",
+            "description": "In Sudan, date palm trees are an economic lifeline for residents of Northern State.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 18:07:24 +0000",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
+            "description": "Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 17:41:57 +0000",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+            "description": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 17:09:10 +0000",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T21:53:05+03:30"
+        }
+    ]
+}

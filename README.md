@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 18:29:52
+**Last Update:** 2026-08-29 21:53:05
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Indirect Calling of Nested Functions on GCC Without Executable Stack
+### 1. Nancy Grace Roman Space Telescope
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://uecker.codeberg.page/2026-08-29.html">https://uecker.codeberg.page/2026-08-29.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490138">https://news.ycombinator.com/item?id=49490138</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://science.nasa.gov/mission/roman-space-telescope/">https://science.nasa.gov/mission/roman-space-telescope/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490870">https://news.ycombinator.com/item?id=49490870</a></p>
+<p>Points: 55</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://uecker.codeberg.page/2026-08-29.html](https://uecker.codeberg.page/2026-08-29.html)
+🔗 **Read more:** [https://science.nasa.gov/mission/roman-space-telescope/](https://science.nasa.gov/mission/roman-space-telescope/)
 
 ---
 
-### 2. Debian votes to allow "responsible use of generative AI"
+### 2. Quantifying Colour
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1091231/">https://lwn.net/Articles/1091231/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489982">https://news.ycombinator.com/item?id=49489982</a></p>
-<p>Points: 77</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://ekunazanu.foo/lab/quantifying-colour/">https://ekunazanu.foo/lab/quantifying-colour/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490832">https://news.ycombinator.com/item?id=49490832</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1091231/](https://lwn.net/Articles/1091231/)
+🔗 **Read more:** [https://ekunazanu.foo/lab/quantifying-colour/](https://ekunazanu.foo/lab/quantifying-colour/)
 
 ---
 
-### 3. Iceland votes on whether to restart talks on joining EU
+### 3. Parsing the Infamous Japanese Postal CSV
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489057">https://news.ycombinator.com/item?id=49489057</a></p>
-<p>Points: 228</p>
-<p># Comments: 276</p>
+<p>Article URL: <a href="https://www.dampfkraft.com/posuto.html">https://www.dampfkraft.com/posuto.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490826">https://news.ycombinator.com/item?id=49490826</a></p>
+<p>Points: 30</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cn45vdxyvvlo](https://www.bbc.com/news/articles/cn45vdxyvvlo)
-
----
-
-### 4. Christian festival 'devastated' as man dies after sign falls
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Police say at least six other people were also injured in the incident at the Big Church Festival.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.dampfkraft.com/posuto.html](https://www.dampfkraft.com/posuto.html)
 
 ---
 
-### 5. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
+### 4. At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ An investigation has begun into the storage of weapons for Ukraine's military ne
 
 ---
 
-### 6. Burnham's summer tour is over - now he has to prove himself in Parliament
+### 5. Christian festival 'devastated' as man dies after sign falls
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.
+Police say at least six other people were also injured in the incident at the Big Church Festival.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Man United vs Ipswich Town: Premier League – preview, team news, prediction
+### 6. Cleverly quits shadow cabinet to run for London mayor
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The capital is not set to vote on a new mayor until 2028.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Sudan’s date palm trees under threat from drought and wildfires
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.
+In Sudan, date palm trees are an economic lifeline for residents of Northern State.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss)
 
 ---
 
-### 8. Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola
+### 8. Turkiye summons Ukraine ambassador over Black Sea attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.
+Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss)
 
 ---
 
-### 9. People stranded for days on dilapidated Nigerian highway
+### 9. Israeli army arrests six Palestinians after settler violence in West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.
+Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss)
 
 ---
 
