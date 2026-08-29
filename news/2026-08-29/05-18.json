@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T05:18:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+            "description": "<p>Article URL: <a href=\"https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/\">https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485532\">https://news.ycombinator.com/item?id=49485532</a></p>\n<p>Points: 39</p>\n<p># Comments: 8</p>",
+            "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+            "published": "Fri, 28 Aug 2026 23:46:10 +0000",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PPWR lands another blow to an precarious tabletop industry",
+            "description": "<p>Article URL: <a href=\"https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/\">https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485504\">https://news.ycombinator.com/item?id=49485504</a></p>\n<p>Points: 15</p>\n<p># Comments: 7</p>",
+            "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+            "published": "Fri, 28 Aug 2026 23:41:05 +0000",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "9th Circuit sides with states in Kalshi gambling fight",
+            "description": "<p>Article URL: <a href=\"https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/\">https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485452\">https://news.ycombinator.com/item?id=49485452</a></p>\n<p>Points: 20</p>\n<p># Comments: 8</p>",
+            "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+            "published": "Fri, 28 Aug 2026 23:32:22 +0000",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+            "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+            "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 21:17:54 GMT",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+            "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 22:05:41 GMT",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies and at least six injured after sign falls at Christian festival",
+            "description": "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 21:41:12 GMT",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
+            "description": "This is a breaking news story.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 01:30:08 +0000",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+            "description": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 00:53:56 +0000",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US revises statements suggesting Chinese hackers attacked agencies",
+            "description": "US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 00:46:20 +0000",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T05:18:03+03:30"
+        }
+    ]
+}

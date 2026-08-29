@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-28 22:01:45
+**Last Update:** 2026-08-29 05:18:03
 
 **Total News:** 12
 
@@ -10,129 +10,129 @@
 
 ## 📰 Latest News
 
-### 1. Secrets of the Atomic City
+### 1. Does the Sumerian King List Align with Paleoclimate Events?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://longreads.com/2026/08/06/radiation-paducah-atavist/">https://longreads.com/2026/08/06/radiation-paducah-atavist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481672">https://news.ycombinator.com/item?id=49481672</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/">https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485532">https://news.ycombinator.com/item?id=49485532</a></p>
+<p>Points: 39</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://longreads.com/2026/08/06/radiation-paducah-atavist/](https://longreads.com/2026/08/06/radiation-paducah-atavist/)
+🔗 **Read more:** [https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
 
 ---
 
-### 2. Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+### 2. PPWR lands another blow to an precarious tabletop industry
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.23691">https://arxiv.org/abs/2608.23691</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481455">https://news.ycombinator.com/item?id=49481455</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/">https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485504">https://news.ycombinator.com/item?id=49485504</a></p>
+<p>Points: 15</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.23691](https://arxiv.org/abs/2608.23691)
+🔗 **Read more:** [https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/](https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/)
 
 ---
 
-### 3. Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research
+### 3. 9th Circuit sides with states in Kalshi gambling fight
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering">https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49481423">https://news.ycombinator.com/item?id=49481423</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/">https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485452">https://news.ycombinator.com/item?id=49485452</a></p>
+<p>Points: 20</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering)
+🔗 **Read more:** [https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
 
 ---
 
-### 4. Videos show people survive floodwaters on balcony in Nepal
+### 4. 97-year-old woman rescued after Nepali floods looked like 'a warrior'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through.
+A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What we know about the 33 British nationals missing in Nepal
+### 5. Footage of Tibet floods isn't being shown in China - and we know little about victims there
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.
+Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Norway's 'grandfather': King Harald remembered as son Haakon takes the throne
+### 6. Man dies and at least six injured after sign falls at Christian festival
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Norwegians paid their respects to the late King Harld after his death on Friday morning.
+A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli strike kills three Palestinians in West Bank’s Jenin
+### 7. Gunfire, blasts heard in several areas of Niger capital Niamey
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s prime minister and defence minister praise the attack as Hamas calls for Israeli &#039;crimes&#039; to stop.
+This is a breaking news story.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss)
 
 ---
 
-### 8. ‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case
+### 8. Board of Peace’s Mladenov warns Gaza could be ‘gone for good’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven people have been charged in connection with damage to Donald Trump’s Turnberry golf resort in Scotland in 2025.
+Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss)
 
 ---
 
-### 9. US judge denies injunction against Trump’s new birthright citizenship order
+### 9. US revises statements suggesting Chinese hackers attacked agencies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The rejection is a temporary setback for immigrant rights advocates, who have been instructed to revise their petition.
+US Justice Department clarifies that the US Senate and Federal Reserve were targets but were not successfully hacked.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss](https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss)
 
 ---
 
