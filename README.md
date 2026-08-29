@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 22:10:19
+**Last Update:** 2026-08-30 01:08:41
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Calibrate Before You Accelerate: Bias Toward Action in a New Role
+### 1. What we want is a hunter gatherer lifestyle with space age tools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tucker.wales/writing/bias-towards-action/">https://tucker.wales/writing/bias-towards-action/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491714">https://news.ycombinator.com/item?id=49491714</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer">https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493244">https://news.ycombinator.com/item?id=49493244</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+
+---
+
+### 2. Tencent Releases and Open-Sources Tencent Hy4 Preview
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492632">https://news.ycombinator.com/item?id=49492632</a></p>
+<p>Points: 69</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+
+---
+
+### 3. Domain-Driven Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://coldtake.dev/blog/domain-driven-agents">https://coldtake.dev/blog/domain-driven-agents</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492584">https://news.ycombinator.com/item?id=49492584</a></p>
+<p>Points: 17</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://tucker.wales/writing/bias-towards-action/](https://tucker.wales/writing/bias-towards-action/)
-
----
-
-### 2. Good Culture Is the Biggest Productivity Hack, Not AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity">https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491568">https://news.ycombinator.com/item?id=49491568</a></p>
-<p>Points: 30</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity)
-
----
-
-### 3. Trees for a Changing Climate and Resilient Urban Forest (2022)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest">https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49491175">https://news.ycombinator.com/item?id=49491175</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest](https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest)
+🔗 **Read more:** [https://coldtake.dev/blog/domain-driven-agents](https://coldtake.dev/blog/domain-driven-agents)
 
 ---
 
@@ -71,20 +71,7 @@ An investigation has begun into the storage of weapons for Ukraine's military ne
 
 ---
 
-### 5. Christian festival 'devastated' as man dies after sign falls
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Police say at least six other people were also injured in the incident at the Big Church Festival.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Cleverly quits shadow cabinet to run for London mayor
+### 5. Cleverly quits shadow cabinet to run for London mayor
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The capital is not set to vote on a new mayor until 2028.
 
 ---
 
-### 7. DR Congo begins vaccinating against largest and deadliest Ebola outbreak
+### 6. Norway's new king remembers 'my dear father' in first speech
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-70,000 Ervebo vaccine doses have been sent to DR Congo in hope they prove effective against the Bundibugyo strain.
+Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/dr-congo-begins-vaccinating-against-largest-and-deadliest-ebola-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Sudan’s date palm trees under threat from drought and wildfires
+### 7. Anger mounts in Nepal over the government’s response to flash flood
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Sudan, date palm trees are an economic lifeline for residents of Northern State.
+Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/sudans-date-palm-trees-under-threat-from-drought-and-wildfires?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss)
 
 ---
 
-### 9. Turkiye summons Ukraine ambassador over Black Sea attacks
+### 8. Iceland votes in a tight race on whether to resume talks to join the EU
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.
+Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss)
+
+---
+
+### 9. Norway’s new king pays tribute to his late father as the country mourns
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+King Haakon VIII says King Harald represented Norway with &#039;pride and joy&#039;, promises to listen to Norwegians as monarch.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss)
 
 ---
 
