@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 05:18:03
+**Last Update:** 2026-08-29 05:32:51
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Does the Sumerian King List Align with Paleoclimate Events?
+### 1. StemDeck, a free, open-source and local AI stem separator
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/stemdeckapp/stemdeck">https://github.com/stemdeckapp/stemdeck</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49486081">https://news.ycombinator.com/item?id=49486081</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck)
+
+---
+
+### 2. Does the Sumerian King List Align with Paleoclimate Events?
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/">https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485532">https://news.ycombinator.com/item?id=49485532</a></p>
-<p>Points: 39</p>
-<p># Comments: 8</p>
+<p>Points: 45</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
 
 ---
 
-### 2. PPWR lands another blow to an precarious tabletop industry
+### 3. PPWR lands another blow to an precarious tabletop industry
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/">https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485504">https://news.ycombinator.com/item?id=49485504</a></p>
-<p>Points: 15</p>
-<p># Comments: 7</p>
+<p>Points: 22</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/](https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/)
-
----
-
-### 3. 9th Circuit sides with states in Kalshi gambling fight
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/">https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49485452">https://news.ycombinator.com/item?id=49485452</a></p>
-<p>Points: 20</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
 
 ---
 
