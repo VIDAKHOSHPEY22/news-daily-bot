@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-29T18:29:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+            "description": "<p>Article URL: <a href=\"https://uecker.codeberg.page/2026-08-29.html\">https://uecker.codeberg.page/2026-08-29.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49490138\">https://news.ycombinator.com/item?id=49490138</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://uecker.codeberg.page/2026-08-29.html",
+            "published": "Sat, 29 Aug 2026 14:20:33 +0000",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Debian votes to allow \"responsible use of generative AI\"",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1091231/\">https://lwn.net/Articles/1091231/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49489982\">https://news.ycombinator.com/item?id=49489982</a></p>\n<p>Points: 77</p>\n<p># Comments: 38</p>",
+            "url": "https://lwn.net/Articles/1091231/",
+            "published": "Sat, 29 Aug 2026 14:02:10 +0000",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Iceland votes on whether to restart talks on joining EU",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn45vdxyvvlo\">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49489057\">https://news.ycombinator.com/item?id=49489057</a></p>\n<p>Points: 228</p>\n<p># Comments: 276</p>",
+            "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+            "published": "Sat, 29 Aug 2026 11:39:38 +0000",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christian festival 'devastated' as man dies after sign falls",
+            "description": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
+            "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 14:12:30 GMT",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+            "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 14:43:04 GMT",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+            "description": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 10:31:18 GMT",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+            "description": "United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.",
+            "url": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 14:33:45 +0000",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
+            "description": "Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.",
+            "url": "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 14:19:23 +0000",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "People stranded for days on dilapidated Nigerian highway",
+            "description": "Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 14:01:46 +0000",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-29T18:29:52+03:30"
+        }
+    ]
+}

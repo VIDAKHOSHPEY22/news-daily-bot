@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-29 18:04:39
+**Last Update:** 2026-08-29 18:29:52
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Debian votes to allow "responsible use of generative AI"
+### 1. Indirect Calling of Nested Functions on GCC Without Executable Stack
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://uecker.codeberg.page/2026-08-29.html">https://uecker.codeberg.page/2026-08-29.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49490138">https://news.ycombinator.com/item?id=49490138</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://uecker.codeberg.page/2026-08-29.html](https://uecker.codeberg.page/2026-08-29.html)
+
+---
+
+### 2. Debian votes to allow "responsible use of generative AI"
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://lwn.net/Articles/1091231/">https://lwn.net/Articles/1091231/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489982">https://news.ycombinator.com/item?id=49489982</a></p>
-<p>Points: 23</p>
-<p># Comments: 3</p>
+<p>Points: 77</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://lwn.net/Articles/1091231/](https://lwn.net/Articles/1091231/)
-
----
-
-### 2. I'm teaching an introductory 12 week course on Quantum Oracle Engineering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://shukla.io/quantum-oracle-engineering/">https://shukla.io/quantum-oracle-engineering/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489864">https://news.ycombinator.com/item?id=49489864</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://shukla.io/quantum-oracle-engineering/](https://shukla.io/quantum-oracle-engineering/)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49489057">https://news.ycombinator.com/item?id=49489057</a></p>
-<p>Points: 218</p>
-<p># Comments: 252</p>
+<p>Points: 228</p>
+<p># Comments: 276</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cn45vdxyvvlo](https://www.bbc.com/news/articles/cn45vdxyvvlo)
 
@@ -97,7 +97,33 @@ The imminent return of Parliament will put the new prime minister under real scr
 
 ---
 
-### 7. People stranded for days on dilapidated Nigerian highway
+### 7. Man United vs Ipswich Town: Premier League – preview, team news, prediction
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss)
+
+---
+
+### 8. Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss)
+
+---
+
+### 9. People stranded for days on dilapidated Nigerian highway
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The imminent return of Parliament will put the new prime minister under real scr
 Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss)
-
----
-
-### 8. Korea divided: A sister’s long wait and a defector’s bid to save his mother
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss)
-
----
-
-### 9. Mladic died a happy man. He won
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-He fought for fascism to triumph. And it did.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss)
 
 ---
 
