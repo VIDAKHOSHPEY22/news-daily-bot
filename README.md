@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 01:19:18
+**Last Update:** 2026-08-30 03:34:53
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. What we want is a hunter gatherer lifestyle with space age tools
+### 1. Highest-ever ocean temperature measured as powerful El Niño forms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer">https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49493244">https://news.ycombinator.com/item?id=49493244</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms">https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494231">https://news.ycombinator.com/item?id=49494231</a></p>
+<p>Points: 15</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer](https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer)
+🔗 **Read more:** [https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
 
 ---
 
-### 2. Tencent Releases and Open-Sources Tencent Hy4 Preview
+### 2. I co-founded Burning Man. The festival has lost its soul
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492632">https://news.ycombinator.com/item?id=49492632</a></p>
-<p>Points: 69</p>
+<p>Article URL: <a href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/">https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494151">https://news.ycombinator.com/item?id=49494151</a></p>
+<p>Points: 29</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
+
+---
+
+### 3. Defrag98: Windows 98 Disk Defragmenter Simulator Online
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://defrag98.com">https://defrag98.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494036">https://news.ycombinator.com/item?id=49494036</a></p>
+<p>Points: 52</p>
 <p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
-
----
-
-### 3. Domain-Driven Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://coldtake.dev/blog/domain-driven-agents">https://coldtake.dev/blog/domain-driven-agents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49492584">https://news.ycombinator.com/item?id=49492584</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://coldtake.dev/blog/domain-driven-agents](https://coldtake.dev/blog/domain-driven-agents)
+🔗 **Read more:** [https://defrag98.com](https://defrag98.com)
 
 ---
 
@@ -97,42 +97,42 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 
 ---
 
-### 7. Anger mounts in Nepal over the government’s response to flash flood
+### 7. Israeli settlers attack international news team in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anger grows in Nepal as flood survivors accuse the government of delays in delivering aid and finding missing relatives.
+A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Iceland votes in a tight race on whether to resume talks to join the EU
+### 8. Spectacular fireworks over Damascus as ‘Syria Shines Again’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iceland’s Prime Minister, Kristrún Frostadóttir, cast her vote on Saturday as the country held a referendum.
+Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss)
 
 ---
 
-### 9. Norway’s new king pays tribute to his late father as the country mourns
+### 9. Voting closes in Iceland’s knife-edge EU referendum
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-King Haakon VIII says King Harald represented Norway with &#039;pride and joy&#039;, promises to listen to Norwegians as monarch.
+Iceland&#039;s leadership has promised to honour whatever the country&#039;s people decide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss)
 
 ---
 

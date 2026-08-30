@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T03:34:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+            "description": "<p>Article URL: <a href=\"https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms\">https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494231\">https://news.ycombinator.com/item?id=49494231</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+            "published": "Sat, 29 Aug 2026 23:26:44 +0000",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I co-founded Burning Man. The festival has lost its soul",
+            "description": "<p>Article URL: <a href=\"https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/\">https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494151\">https://news.ycombinator.com/item?id=49494151</a></p>\n<p>Points: 29</p>\n<p># Comments: 17</p>",
+            "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+            "published": "Sat, 29 Aug 2026 23:12:25 +0000",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+            "description": "<p>Article URL: <a href=\"https://defrag98.com\">https://defrag98.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494036\">https://news.ycombinator.com/item?id=49494036</a></p>\n<p>Points: 52</p>\n<p># Comments: 25</p>",
+            "url": "https://defrag98.com",
+            "published": "Sat, 29 Aug 2026 22:51:17 +0000",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+            "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 20:13:16 GMT",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleverly quits shadow cabinet to run for London mayor",
+            "description": "The capital is not set to vote on a new mayor until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 16:24:39 GMT",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Norway's new king remembers 'my dear father' in first speech",
+            "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 19:06:28 GMT",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers attack international news team in occupied West Bank",
+            "description": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 23:48:22 +0000",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spectacular fireworks over Damascus as ‘Syria Shines Again’",
+            "description": "Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 23:34:11 +0000",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Voting closes in Iceland’s knife-edge EU referendum",
+            "description": "Iceland&#039;s leadership has promised to honour whatever the country&#039;s people decide.",
+            "url": "https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 23:33:03 +0000",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T03:34:53+03:30"
+        }
+    ]
+}
