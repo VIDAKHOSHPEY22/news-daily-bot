@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T03:57:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+            "description": "<p>Article URL: <a href=\"https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms\">https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494231\">https://news.ycombinator.com/item?id=49494231</a></p>\n<p>Points: 28</p>\n<p># Comments: 3</p>",
+            "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+            "published": "Sat, 29 Aug 2026 23:26:44 +0000",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+            "description": "<p>Article URL: <a href=\"https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/\">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494182\">https://news.ycombinator.com/item?id=49494182</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+            "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+            "published": "Sat, 29 Aug 2026 23:17:17 +0000",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I co-founded Burning Man. The festival has lost its soul",
+            "description": "<p>Article URL: <a href=\"https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/\">https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494151\">https://news.ycombinator.com/item?id=49494151</a></p>\n<p>Points: 56</p>\n<p># Comments: 35</p>",
+            "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+            "published": "Sat, 29 Aug 2026 23:12:25 +0000",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+            "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+            "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 20:13:16 GMT",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleverly quits shadow cabinet to run for London mayor",
+            "description": "The capital is not set to vote on a new mayor until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 16:24:39 GMT",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Norway's new king remembers 'my dear father' in first speech",
+            "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 19:06:28 GMT",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Online anti-Muslim backlash collides with different reality in South Africa",
+            "description": "Online anti-Muslim rhetoric is growing, but life on the ground tells a more complicated story.",
+            "url": "https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 00:06:30 +0000",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran stands firm over US sanctions; settlers besiege Qusra",
+            "description": "Iran says it will rely equally on diplomacy and defence to protect its interests.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 00:00:00 +0000",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers attack international news team in occupied West Bank",
+            "description": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
+            "published": "Sat, 29 Aug 2026 23:48:22 +0000",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T03:57:17+03:30"
+        }
+    ]
+}

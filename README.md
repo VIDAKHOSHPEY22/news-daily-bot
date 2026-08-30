@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 03:34:53
+**Last Update:** 2026-08-30 03:57:17
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms">https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494231">https://news.ycombinator.com/item?id=49494231</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Points: 28</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms)
 
 ---
 
-### 2. I co-founded Burning Man. The festival has lost its soul
+### 2. Lawmakers added $1 to car insurance policies. That money paid for Flock cameras
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494182">https://news.ycombinator.com/item?id=49494182</a></p>
+<p>Points: 19</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
+
+---
+
+### 3. I co-founded Burning Man. The festival has lost its soul
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/">https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494151">https://news.ycombinator.com/item?id=49494151</a></p>
-<p>Points: 29</p>
-<p># Comments: 17</p>
+<p>Points: 56</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/](https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/)
-
----
-
-### 3. Defrag98: Windows 98 Disk Defragmenter Simulator Online
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://defrag98.com">https://defrag98.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494036">https://news.ycombinator.com/item?id=49494036</a></p>
-<p>Points: 52</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://defrag98.com](https://defrag98.com)
 
 ---
 
@@ -97,7 +97,33 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 
 ---
 
-### 7. Israeli settlers attack international news team in occupied West Bank
+### 7. Online anti-Muslim backlash collides with different reality in South Africa
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Online anti-Muslim rhetoric is growing, but life on the ground tells a more complicated story.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/online-anti-muslim-backlash-collides-with-different-reality-in-south-africa?traffic_source=rss)
+
+---
+
+### 8. Iran war live: Tehran stands firm over US sanctions; settlers besiege Qusra
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran says it will rely equally on diplomacy and defence to protect its interests.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss)
+
+---
+
+### 9. Israeli settlers attack international news team in occupied West Bank
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Haakon VIII pays emotional tribute to his late father, Harald V, before outlinin
 A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss)
-
----
-
-### 8. Spectacular fireworks over Damascus as ‘Syria Shines Again’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Footage shows fireworks lighting up Damascus as the Syrian capital hosts the Damascus International Fair.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/29/spectacular-fireworks-over-damascus-as-syria-shines?traffic_source=rss)
-
----
-
-### 9. Voting closes in Iceland’s knife-edge EU referendum
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iceland&#039;s leadership has promised to honour whatever the country&#039;s people decide.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss](https://www.aljazeera.com/news/2026/8/29/voting-closes-in-icelands-knife-edge-eu-referendum?traffic_source=rss)
 
 ---
 
