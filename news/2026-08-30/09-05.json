@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T09:05:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt\">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49495372\">https://news.ycombinator.com/item?id=49495372</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+            "published": "Sun, 30 Aug 2026 03:15:36 +0000",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+            "description": "<p>Article URL: <a href=\"https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws\">https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49495127\">https://news.ycombinator.com/item?id=49495127</a></p>\n<p>Points: 43</p>\n<p># Comments: 17</p>",
+            "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+            "published": "Sun, 30 Aug 2026 02:25:32 +0000",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FreeCORE TrueNAS Core – Continued",
+            "description": "<p>Article URL: <a href=\"https://freecore.org/\">https://freecore.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494856\">https://news.ycombinator.com/item?id=49494856</a></p>\n<p>Points: 59</p>\n<p># Comments: 40</p>",
+            "url": "https://freecore.org/",
+            "published": "Sun, 30 Aug 2026 01:31:32 +0000",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+            "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
+            "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 04:59:16 GMT",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
+            "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+            "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 04:59:56 GMT",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iceland EU referendum on a knife edge as counting continues",
+            "description": "A vote on whether to resume membership talks with the European Union is too close to call.",
+            "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 03:57:01 GMT",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
+            "description": "US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.",
+            "url": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 05:09:11 +0000",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
+            "description": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 04:50:17 +0000",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protests as India’s Hindu nationalists take centre stage in New York",
+            "description": "Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 04:31:06 +0000",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T09:05:49+03:30"
+        }
+    ]
+}
