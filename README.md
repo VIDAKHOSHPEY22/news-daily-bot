@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 09:05:49
+**Last Update:** 2026-08-30 09:58:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495372">https://news.ycombinator.com/item?id=49495372</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Points: 79</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
 
 ---
 
-### 2. Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws
+### 2. Algorithmic rent-pricing litigation expands under new state and local laws
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws">https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495127">https://news.ycombinator.com/item?id=49495127</a></p>
-<p>Points: 43</p>
-<p># Comments: 17</p>
+<p>Points: 63</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://freecore.org/">https://freecore.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494856">https://news.ycombinator.com/item?id=49494856</a></p>
-<p>Points: 59</p>
-<p># Comments: 40</p>
+<p>Points: 70</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://freecore.org/](https://freecore.org/)
 
@@ -97,7 +97,20 @@ A vote on whether to resume membership talks with the European Union is too clos
 
 ---
 
-### 7. Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil
+### 7. Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss)
+
+---
+
+### 8. Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ US energy companies have reaped billions from rising oil price, but their assets
 
 ---
 
-### 8. US police officer pulls hair, throws punches during arrest in Arkansas
+### 9. US police officer pulls hair, throws punches during arrest in Arkansas
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ US energy companies have reaped billions from rising oil price, but their assets
 Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss)
-
----
-
-### 9. Protests as India’s Hindu nationalists take centre stage in New York
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Demonstrators rallied against a celebration in New York City that was hosting Mohan Bhagwat, chief of the RSS.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss)
 
 ---
 
