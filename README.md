@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 23:23:28
+**Last Update:** 2026-08-31 00:26:21
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver
+### 1. Cores in space: The core memory module from a 1980 Spacelab computer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.righto.com/2026/08/spacelab-core-memory.html">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502214">https://news.ycombinator.com/item?id=49502214</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.righto.com/2026/08/spacelab-core-memory.html](https://www.righto.com/2026/08/spacelab-core-memory.html)
+
+---
+
+### 2. The world may have less time than it thinks on climate change
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change">https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501791">https://news.ycombinator.com/item?id=49501791</a></p>
+<p>Points: 42</p>
+<p># Comments: 25</p>
+
+🔗 **Read more:** [https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change](https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change)
+
+---
+
+### 3. Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/KodeMunkie/sm750hdmifb">https://github.com/KodeMunkie/sm750hdmifb</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501611">https://news.ycombinator.com/item?id=49501611</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 25</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://github.com/KodeMunkie/sm750hdmifb](https://github.com/KodeMunkie/sm750hdmifb)
-
----
-
-### 2. Running SQLite Apps on Docker and Kubernetes with Litestream
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openrun.dev/blog/litestream/">https://openrun.dev/blog/litestream/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501147">https://news.ycombinator.com/item?id=49501147</a></p>
-<p>Points: 19</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://openrun.dev/blog/litestream/](https://openrun.dev/blog/litestream/)
-
----
-
-### 3. Artie (YC S23) Is Hiring Technical AES
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1">https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49500471">https://news.ycombinator.com/item?id=49500471</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)
 
 ---
 
@@ -84,7 +84,7 @@ A search and rescue operation is under way after a ferry carrying nearly 270 peo
 
 ---
 
-### 6. 'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe
+### 6. 'A giant leap forward': Nasa launches powerful new space telescope
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The US space agency's telescope is starting a multi-year mission to create a new
 
 ---
 
-### 7. Israeli settler rabbi says Palestinians should leave the occupied West Bank
+### 7. US strikes Iran’s Lark Island in first attack in weeks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.
+IRGC says attack in southern Iran killed and injured several soldiers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss)
 
 ---
 
-### 8. Former Israeli soldiers pose as Pro-Palestinian supporters in the US
+### 8. Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.
+Hundreds of Bosnian Serbs gathered to pay tribute to former Bosnian Serb commander Ratko Mladić.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss)
 
 ---
 
-### 9. ‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign
+### 9. Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How a far-right party with neo-Nazi roots bought every ad surface in Sweden&#039;s biggest train station.
+Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho&#039;s Real Madrid continues to move at pace in La Liga.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss)
 
 ---
 

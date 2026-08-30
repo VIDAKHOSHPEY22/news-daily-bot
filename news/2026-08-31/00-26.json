@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-31T00:26:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+            "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/08/spacelab-core-memory.html\">https://www.righto.com/2026/08/spacelab-core-memory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502214\">https://news.ycombinator.com/item?id=49502214</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+            "published": "Sun, 30 Aug 2026 20:00:25 +0000",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The world may have less time than it thinks on climate change",
+            "description": "<p>Article URL: <a href=\"https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change\">https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49501791\">https://news.ycombinator.com/item?id=49501791</a></p>\n<p>Points: 42</p>\n<p># Comments: 25</p>",
+            "url": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+            "published": "Sun, 30 Aug 2026 19:08:25 +0000",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+            "description": "<p>Article URL: <a href=\"https://github.com/KodeMunkie/sm750hdmifb\">https://github.com/KodeMunkie/sm750hdmifb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49501611\">https://news.ycombinator.com/item?id=49501611</a></p>\n<p>Points: 25</p>\n<p># Comments: 14</p>",
+            "url": "https://github.com/KodeMunkie/sm750hdmifb",
+            "published": "Sun, 30 Aug 2026 18:49:08 +0000",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+            "description": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 18:33:36 GMT",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+            "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+            "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 20:02:43 GMT",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+            "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+            "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 18:53:53 GMT",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US strikes Iran’s Lark Island in first attack in weeks",
+            "description": "IRGC says attack in southern Iran killed and injured several soldiers.",
+            "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 20:15:47 +0000",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs",
+            "description": "Hundreds of Bosnian Serbs gathered to pay tribute to former Bosnian Serb commander Ratko Mladić.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-mladic-serbs-tributes-bosnia-fm?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 20:12:36 +0000",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
+            "description": "Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho&#039;s Real Madrid continues to move at pace in La Liga.",
+            "url": "https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 19:50:15 +0000",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-31T00:26:21+03:30"
+        }
+    ]
+}
