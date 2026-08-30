@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T16:15:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+            "description": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766\">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497357\">https://news.ycombinator.com/item?id=49497357</a></p>\n<p>Points: 26</p>\n<p># Comments: 7</p>",
+            "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+            "published": "Sun, 30 Aug 2026 10:20:11 +0000",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Spark: Sparklines in your shell",
+            "description": "<p>Article URL: <a href=\"https://git.zx2c4.com/spark/about/\">https://git.zx2c4.com/spark/about/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497265\">https://news.ycombinator.com/item?id=49497265</a></p>\n<p>Points: 36</p>\n<p># Comments: 7</p>",
+            "url": "https://git.zx2c4.com/spark/about/",
+            "published": "Sun, 30 Aug 2026 10:02:16 +0000",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+            "description": "<p>Article URL: <a href=\"https://github.com/AniketWathore/bolnee-chat\">https://github.com/AniketWathore/bolnee-chat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497227\">https://news.ycombinator.com/item?id=49497227</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/AniketWathore/bolnee-chat",
+            "published": "Sun, 30 Aug 2026 09:56:05 +0000",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+            "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
+            "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 08:59:58 GMT",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
+            "description": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
+            "url": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 07:58:31 GMT",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British woman killed in stabbing at German railway station",
+            "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 11:34:48 GMT",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
+            "description": "Russia&#039;s Defence Ministry announces plans to launch &#039;massive strikes&#039; against Ukraine&#039;s infrastructure before winter.",
+            "url": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 12:26:48 +0000",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Road collapses in Nepal landslide four days after floods",
+            "description": "A vital highway weakened by Nepal’s floodwaters has collapsed four days after the catastrophic glacial outburst.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 12:14:53 +0000",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How has life changed for Iranians six months into the war?",
+            "description": "Common Iranians are under increasing pressure, with no relief expected in the short term.",
+            "url": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 12:08:12 +0000",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T16:15:37+03:30"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 15:32:36
+**Last Update:** 2026-08-30 16:15:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497357">https://news.ycombinator.com/item?id=49497357</a></p>
-<p>Points: 20</p>
-<p># Comments: 4</p>
+<p>Points: 26</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://git.zx2c4.com/spark/about/">https://git.zx2c4.com/spark/about/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497265">https://news.ycombinator.com/item?id=49497265</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Points: 36</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://git.zx2c4.com/spark/about/](https://git.zx2c4.com/spark/about/)
 
 ---
 
-### 3. Nvidia's AI advantage is moving beyond the GPU
+### 3. Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497235">https://news.ycombinator.com/item?id=49497235</a></p>
-<p>Points: 10</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://github.com/AniketWathore/bolnee-chat">https://github.com/AniketWathore/bolnee-chat</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497227">https://news.ycombinator.com/item?id=49497227</a></p>
+<p>Points: 18</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
+🔗 **Read more:** [https://github.com/AniketWathore/bolnee-chat](https://github.com/AniketWathore/bolnee-chat)
 
 ---
 
@@ -97,42 +97,42 @@ A 27-year-old German man was arrested immediately after the incident in Rosenhei
 
 ---
 
-### 7. Six months on, what did the strikes on Iran achieve?
+### 7. Death toll from Russian strike on Ukrainian arms depot rises to 38
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.
+Russia&#039;s Defence Ministry announces plans to launch &#039;massive strikes&#039; against Ukraine&#039;s infrastructure before winter.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss)
 
 ---
 
-### 8. Protesters in Argentina urge tech billionaire Peter Thiel to leave
+### 8. Road collapses in Nepal landslide four days after floods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of protesters in Argentina have demonstrated against Palantir co-founder Peter Thiel, outside his new mansion.
+A vital highway weakened by Nepal’s floodwaters has collapsed four days after the catastrophic glacial outburst.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss)
 
 ---
 
-### 9. Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
+### 9. How has life changed for Iranians six months into the war?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.
+Common Iranians are under increasing pressure, with no relief expected in the short term.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss)
 
 ---
 
