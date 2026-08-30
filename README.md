@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 20:19:43
+**Last Update:** 2026-08-30 20:49:13
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Coordination Headwind: How Organizations Are Like Slime Molds
+### 1. Artie (YC S23) Is Hiring Technical AES
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1">https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49500471">https://news.ycombinator.com/item?id=49500471</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1)
+
+---
+
+### 2. Coordination Headwind: How Organizations Are Like Slime Molds
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://komoroske.com/slime-mold/">https://komoroske.com/slime-mold/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499891">https://news.ycombinator.com/item?id=49499891</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 14</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://komoroske.com/slime-mold/](https://komoroske.com/slime-mold/)
 
 ---
 
-### 2. Haiku R1/beta6 has been released
+### 3. Haiku R1/beta6 has been released
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499867">https://news.ycombinator.com/item?id=49499867</a></p>
-<p>Points: 41</p>
-<p># Comments: 6</p>
+<p>Points: 59</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
 
 ---
 
-### 3. Omarchy: Any User Process Can Escalate to Root
+### 4. Head teacher evacuated 900 children minutes before Nepal floods hit school
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://0xcc.io/posts/omarchy-root-creds/">https://0xcc.io/posts/omarchy-root-creds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499854">https://news.ycombinator.com/item?id=49499854</a></p>
-<p>Points: 40</p>
-<p># Comments: 15</p>
+Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.
 
-🔗 **Read more:** [https://0xcc.io/posts/omarchy-root-creds/](https://0xcc.io/posts/omarchy-root-creds/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. PC Harper's killers to stay in jail as PM announces changes to early release scheme
+### 5. PC Harper's killers to stay in jail as PM announces changes to early release scheme
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be exclud
 
 ---
 
-### 5. Police release one of two men arrested over fatal house fire
+### 6. Police release one of two men arrested over fatal house fire
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Police continue to question a 23-year-old man over the fire in which a girl, 7, 
 
 ---
 
-### 6. British woman killed in stabbing at German railway station
+### 7. Rival Libya factions sign deal to hold national elections within two years
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.
+Signing takes place at UN mission in Tripoli after initial draft inked by UN-backed committee in Tunis on August 20.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss)
 
 ---
 
-### 7. Israeli soldiers participate in Sydney Marathon despite protests
+### 8. Israeli soldiers participate in Sydney Marathon despite protests
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Protesters waved Palestinian flags and criticised the Australian government for 
 
 ---
 
-### 8. What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?
+### 9. What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Protesters waved Palestinian flags and criticised the Australian government for 
 Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss)
-
----
-
-### 9. Educated? Skilled? Ambitious? Traffickers are looking for you
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Young jobseekers are being recruited into scam compounds. Urgent action is needed to disrupt these trafficking schemes.
-
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss)
 
 ---
 

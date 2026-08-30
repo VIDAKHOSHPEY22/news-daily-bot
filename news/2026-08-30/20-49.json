@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T20:49:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Artie (YC S23) Is Hiring Technical AES",
+            "description": "<p>Article URL: <a href=\"https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1\">https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49500471\">https://news.ycombinator.com/item?id=49500471</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+            "published": "Sun, 30 Aug 2026 17:01:56 +0000",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+            "description": "<p>Article URL: <a href=\"https://komoroske.com/slime-mold/\">https://komoroske.com/slime-mold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499891\">https://news.ycombinator.com/item?id=49499891</a></p>\n<p>Points: 14</p>\n<p># Comments: 4</p>",
+            "url": "https://komoroske.com/slime-mold/",
+            "published": "Sun, 30 Aug 2026 16:03:17 +0000",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Haiku R1/beta6 has been released",
+            "description": "<p>Article URL: <a href=\"https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499867\">https://news.ycombinator.com/item?id=49499867</a></p>\n<p>Points: 59</p>\n<p># Comments: 9</p>",
+            "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+            "published": "Sun, 30 Aug 2026 16:01:10 +0000",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+            "description": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 16:48:13 GMT",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+            "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
+            "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 08:59:58 GMT",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police release one of two men arrested over fatal house fire",
+            "description": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
+            "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 14:34:20 GMT",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rival Libya factions sign deal to hold national elections within two years",
+            "description": "Signing takes place at UN mission in Tripoli after initial draft inked by UN-backed committee in Tunis on August 20.",
+            "url": "https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 16:38:01 +0000",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli soldiers participate in Sydney Marathon despite protests",
+            "description": "Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.",
+            "url": "https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 16:09:16 +0000",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?",
+            "description": "Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.",
+            "url": "https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 16:06:15 +0000",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T20:49:13+03:30"
+        }
+    ]
+}
