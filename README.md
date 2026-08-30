@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 09:58:05
+**Last Update:** 2026-08-30 15:32:36
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. California lawmakers unanimously pass Linux exemption from age-verification law
+### 1. Fair Work Commission condemns 'plain wrong' AI legal advice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495372">https://news.ycombinator.com/item?id=49495372</a></p>
-<p>Points: 79</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497357">https://news.ycombinator.com/item?id=49497357</a></p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt](https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt)
+🔗 **Read more:** [https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
 
 ---
 
-### 2. Algorithmic rent-pricing litigation expands under new state and local laws
+### 2. Spark: Sparklines in your shell
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws">https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49495127">https://news.ycombinator.com/item?id=49495127</a></p>
-<p>Points: 63</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://git.zx2c4.com/spark/about/">https://git.zx2c4.com/spark/about/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497265">https://news.ycombinator.com/item?id=49497265</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
+🔗 **Read more:** [https://git.zx2c4.com/spark/about/](https://git.zx2c4.com/spark/about/)
 
 ---
 
-### 3. FreeCORE TrueNAS Core – Continued
+### 3. Nvidia's AI advantage is moving beyond the GPU
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://freecore.org/">https://freecore.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49494856">https://news.ycombinator.com/item?id=49494856</a></p>
-<p>Points: 70</p>
-<p># Comments: 43</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497235">https://news.ycombinator.com/item?id=49497235</a></p>
+<p>Points: 10</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://freecore.org/](https://freecore.org/)
+🔗 **Read more:** [https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/](https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/)
 
 ---
 
@@ -71,68 +71,68 @@ Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be exclud
 
 ---
 
-### 5. WhatsApp group chat used to send millions in cash, funding crime and extremism
+### 5. Burnham gets the early prison release changes he wanted - but at what cost?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.
+The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Iceland EU referendum on a knife edge as counting continues
+### 6. British woman killed in stabbing at German railway station
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A vote on whether to resume membership talks with the European Union is too close to call.
+A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised
+### 7. Six months on, what did the strikes on Iran achieve?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Filip Hrgovic is the first Croatian to become a world heavyweight boxing champion after beating Briton Moses Itauma.
+The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss)
 
 ---
 
-### 8. Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil
+### 8. Protesters in Argentina urge tech billionaire Peter Thiel to leave
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US energy companies have reaped billions from rising oil price, but their assets in the region remain at risk.
+Dozens of protesters in Argentina have demonstrated against Palantir co-founder Peter Thiel, outside his new mansion.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss)
 
 ---
 
-### 9. US police officer pulls hair, throws punches during arrest in Arkansas
+### 9. Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.
+Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss)
 
 ---
 

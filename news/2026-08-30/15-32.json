@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T15:32:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+            "description": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766\">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497357\">https://news.ycombinator.com/item?id=49497357</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
+            "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+            "published": "Sun, 30 Aug 2026 10:20:11 +0000",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Spark: Sparklines in your shell",
+            "description": "<p>Article URL: <a href=\"https://git.zx2c4.com/spark/about/\">https://git.zx2c4.com/spark/about/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497265\">https://news.ycombinator.com/item?id=49497265</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+            "url": "https://git.zx2c4.com/spark/about/",
+            "published": "Sun, 30 Aug 2026 10:02:16 +0000",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia's AI advantage is moving beyond the GPU",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/\">https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497235\">https://news.ycombinator.com/item?id=49497235</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
+            "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+            "published": "Sun, 30 Aug 2026 09:57:06 +0000",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+            "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
+            "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 08:59:58 GMT",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
+            "description": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.",
+            "url": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 07:58:31 GMT",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British woman killed in stabbing at German railway station",
+            "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 11:34:48 GMT",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Six months on, what did the strikes on Iran achieve?",
+            "description": "The US-Israeli bombing of Iran became a fight for the Strait of Hormuz. AJLabs counts the cost of the war.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 11:24:21 +0000",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters in Argentina urge tech billionaire Peter Thiel to leave",
+            "description": "Dozens of protesters in Argentina have demonstrated against Palantir co-founder Peter Thiel, outside his new mansion.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 11:15:51 +0000",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+            "description": "Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.",
+            "url": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 10:30:57 +0000",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T15:32:36+03:30"
+        }
+    ]
+}
