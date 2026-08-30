@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T20:19:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+            "description": "<p>Article URL: <a href=\"https://komoroske.com/slime-mold/\">https://komoroske.com/slime-mold/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499891\">https://news.ycombinator.com/item?id=49499891</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://komoroske.com/slime-mold/",
+            "published": "Sun, 30 Aug 2026 16:03:17 +0000",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Haiku R1/beta6 has been released",
+            "description": "<p>Article URL: <a href=\"https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499867\">https://news.ycombinator.com/item?id=49499867</a></p>\n<p>Points: 41</p>\n<p># Comments: 6</p>",
+            "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+            "published": "Sun, 30 Aug 2026 16:01:10 +0000",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Omarchy: Any User Process Can Escalate to Root",
+            "description": "<p>Article URL: <a href=\"https://0xcc.io/posts/omarchy-root-creds/\">https://0xcc.io/posts/omarchy-root-creds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499854\">https://news.ycombinator.com/item?id=49499854</a></p>\n<p>Points: 40</p>\n<p># Comments: 15</p>",
+            "url": "https://0xcc.io/posts/omarchy-root-creds/",
+            "published": "Sun, 30 Aug 2026 15:59:49 +0000",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+            "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.",
+            "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 08:59:58 GMT",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police release one of two men arrested over fatal house fire",
+            "description": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.",
+            "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 14:34:20 GMT",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British woman killed in stabbing at German railway station",
+            "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 16:11:46 GMT",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli soldiers participate in Sydney Marathon despite protests",
+            "description": "Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.",
+            "url": "https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 16:09:16 +0000",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?",
+            "description": "Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.",
+            "url": "https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 16:06:15 +0000",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Educated? Skilled? Ambitious? Traffickers are looking for you",
+            "description": "Young jobseekers are being recruited into scam compounds. Urgent action is needed to disrupt these trafficking schemes.",
+            "url": "https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 16:03:27 +0000",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T20:19:43+03:30"
+        }
+    ]
+}

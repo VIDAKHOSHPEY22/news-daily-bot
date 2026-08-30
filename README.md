@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 16:15:37
+**Last Update:** 2026-08-30 20:19:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Fair Work Commission condemns 'plain wrong' AI legal advice
+### 1. Coordination Headwind: How Organizations Are Like Slime Molds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497357">https://news.ycombinator.com/item?id=49497357</a></p>
-<p>Points: 26</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://komoroske.com/slime-mold/">https://komoroske.com/slime-mold/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499891">https://news.ycombinator.com/item?id=49499891</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766](https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)
+🔗 **Read more:** [https://komoroske.com/slime-mold/](https://komoroske.com/slime-mold/)
 
 ---
 
-### 2. Spark: Sparklines in your shell
+### 2. Haiku R1/beta6 has been released
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://git.zx2c4.com/spark/about/">https://git.zx2c4.com/spark/about/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497265">https://news.ycombinator.com/item?id=49497265</a></p>
-<p>Points: 36</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499867">https://news.ycombinator.com/item?id=49499867</a></p>
+<p>Points: 41</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://git.zx2c4.com/spark/about/](https://git.zx2c4.com/spark/about/)
+🔗 **Read more:** [https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
 
 ---
 
-### 3. Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website
+### 3. Omarchy: Any User Process Can Escalate to Root
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/AniketWathore/bolnee-chat">https://github.com/AniketWathore/bolnee-chat</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49497227">https://news.ycombinator.com/item?id=49497227</a></p>
-<p>Points: 18</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://0xcc.io/posts/omarchy-root-creds/">https://0xcc.io/posts/omarchy-root-creds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499854">https://news.ycombinator.com/item?id=49499854</a></p>
+<p>Points: 40</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://github.com/AniketWathore/bolnee-chat](https://github.com/AniketWathore/bolnee-chat)
+🔗 **Read more:** [https://0xcc.io/posts/omarchy-root-creds/](https://0xcc.io/posts/omarchy-root-creds/)
 
 ---
 
@@ -71,16 +71,16 @@ Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be exclud
 
 ---
 
-### 5. Burnham gets the early prison release changes he wanted - but at what cost?
+### 5. Police release one of two men arrested over fatal house fire
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes.
+Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ A 27-year-old German man was arrested immediately after the incident in Rosenhei
 
 ---
 
-### 7. Death toll from Russian strike on Ukrainian arms depot rises to 38
+### 7. Israeli soldiers participate in Sydney Marathon despite protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia&#039;s Defence Ministry announces plans to launch &#039;massive strikes&#039; against Ukraine&#039;s infrastructure before winter.
+Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss)
 
 ---
 
-### 8. Road collapses in Nepal landslide four days after floods
+### 8. What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A vital highway weakened by Nepal’s floodwaters has collapsed four days after the catastrophic glacial outburst.
+Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss)
 
 ---
 
-### 9. How has life changed for Iranians six months into the war?
+### 9. Educated? Skilled? Ambitious? Traffickers are looking for you
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Common Iranians are under increasing pressure, with no relief expected in the short term.
+Young jobseekers are being recruited into scam compounds. Urgent action is needed to disrupt these trafficking schemes.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss](https://www.aljazeera.com/opinions/2026/8/30/educated-skilled-ambitious-traffickers-are-looking-for-you?traffic_source=rss)
 
 ---
 
