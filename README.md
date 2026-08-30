@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-30 20:49:13
+**Last Update:** 2026-08-30 23:23:28
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Artie (YC S23) Is Hiring Technical AES
+### 1. Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/KodeMunkie/sm750hdmifb">https://github.com/KodeMunkie/sm750hdmifb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501611">https://news.ycombinator.com/item?id=49501611</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/KodeMunkie/sm750hdmifb](https://github.com/KodeMunkie/sm750hdmifb)
+
+---
+
+### 2. Running SQLite Apps on Docker and Kubernetes with Litestream
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openrun.dev/blog/litestream/">https://openrun.dev/blog/litestream/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49501147">https://news.ycombinator.com/item?id=49501147</a></p>
+<p>Points: 19</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://openrun.dev/blog/litestream/](https://openrun.dev/blog/litestream/)
+
+---
+
+### 3. Artie (YC S23) Is Hiring Technical AES
 
 **Source:** Hacker News
 
@@ -26,113 +58,81 @@
 
 ---
 
-### 2. Coordination Headwind: How Organizations Are Like Slime Molds
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://komoroske.com/slime-mold/">https://komoroske.com/slime-mold/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499891">https://news.ycombinator.com/item?id=49499891</a></p>
-<p>Points: 14</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://komoroske.com/slime-mold/](https://komoroske.com/slime-mold/)
-
----
-
-### 3. Haiku R1/beta6 has been released
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6">https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49499867">https://news.ycombinator.com/item?id=49499867</a></p>
-<p>Points: 59</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
-
----
-
-### 4. Head teacher evacuated 900 children minutes before Nepal floods hit school
+### 4. Prisoners freed early are returning to jail at rapid rate, governors tell BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.
+PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. PC Harper's killers to stay in jail as PM announces changes to early release scheme
+### 5. Eight killed and others missing after ferry capsizes off northern Cyprus
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act.
+A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Police release one of two men arrested over fatal house fire
+### 6. 'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died.
+The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Rival Libya factions sign deal to hold national elections within two years
+### 7. Israeli settler rabbi says Palestinians should leave the occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Signing takes place at UN mission in Tripoli after initial draft inked by UN-backed committee in Tunis on August 20.
+Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/rival-libya-factions-sign-deal-to-hold-national-elections-within-two-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Israeli soldiers participate in Sydney Marathon despite protests
+### 8. Former Israeli soldiers pose as Pro-Palestinian supporters in the US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters waved Palestinian flags and criticised the Australian government for issuing visas to 40 Israeli soldiers.
+Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/30/israeli-soldiers-participate-in-sydney-marathon-despite-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss)
 
 ---
 
-### 9. What’s behind Netanyahu’s condemnation of this weekend’s settler pogroms?
+### 9. ‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s rhetorical outrage masks a calculated, well-funded campaign to permanently erase Palestinian statehood.
+How a far-right party with neo-Nazi roots bought every ad surface in Sweden&#039;s biggest train station.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss](https://www.aljazeera.com/news/2026/8/30/whats-behind-netanyahus-condemnation-of-this-weekends-settler-pogroms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss)
 
 ---
 

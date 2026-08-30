@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-30T23:23:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+            "description": "<p>Article URL: <a href=\"https://github.com/KodeMunkie/sm750hdmifb\">https://github.com/KodeMunkie/sm750hdmifb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49501611\">https://news.ycombinator.com/item?id=49501611</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/KodeMunkie/sm750hdmifb",
+            "published": "Sun, 30 Aug 2026 18:49:08 +0000",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
+            "description": "<p>Article URL: <a href=\"https://openrun.dev/blog/litestream/\">https://openrun.dev/blog/litestream/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49501147\">https://news.ycombinator.com/item?id=49501147</a></p>\n<p>Points: 19</p>\n<p># Comments: 9</p>",
+            "url": "https://openrun.dev/blog/litestream/",
+            "published": "Sun, 30 Aug 2026 18:05:06 +0000",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Artie (YC S23) Is Hiring Technical AES",
+            "description": "<p>Article URL: <a href=\"https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1\">https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49500471\">https://news.ycombinator.com/item?id=49500471</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+            "published": "Sun, 30 Aug 2026 17:01:56 +0000",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+            "description": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 18:33:36 GMT",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+            "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+            "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 18:31:17 GMT",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe",
+            "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+            "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 18:53:53 GMT",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
+            "description": "Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 19:33:18 +0000",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
+            "description": "Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 19:06:11 +0000",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
+            "description": "How a far-right party with neo-Nazi roots bought every ad surface in Sweden&#039;s biggest train station.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
+            "published": "Sun, 30 Aug 2026 18:51:33 +0000",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Calico, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23453",
+            "published": "2026-08-26T17:29:00Z",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23455",
+            "published": "2026-08-25T20:43:00Z",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire LAUGHLIN, Colfax, New Mexico",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23466",
+            "published": "2026-08-25T18:35:00Z",
+            "fetched": "2026-08-30T23:23:28+03:30"
+        }
+    ]
+}
