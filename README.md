@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 04:54:33
+**Last Update:** 2026-08-31 08:47:03
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Yen weakens past ¥160 per dollar, eroding intervention gains
+### 1. The EU has begun enforcing the AI Act: first RFIs to model providers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/">https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49504352">https://news.ycombinator.com/item?id=49504352</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis">https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505351">https://news.ycombinator.com/item?id=49505351</a></p>
+<p>Points: 27</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/](https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/)
+🔗 **Read more:** [https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis)
 
 ---
 
-### 2. “I just chose words carefully”
+### 2. UC Berkeley indefinitely suspends international student work authorizations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49503601">https://news.ycombinator.com/item?id=49503601</a></p>
-<p>Points: 239</p>
-<p># Comments: 61</p>
+<p>Article URL: <a href="https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html">https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505288">https://news.ycombinator.com/item?id=49505288</a></p>
+<p>Points: 68</p>
+<p># Comments: 53</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/i-just-chose-words-carefully/](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+🔗 **Read more:** [https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html](https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html)
 
 ---
 
-### 3. Continuous Diffusion Language Models (CDLM's)
+### 3. P99 0 ms* autocomplete for 240M domain names
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sander.ai/2026/08/24/continuous-dlms.html">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49502611">https://news.ycombinator.com/item?id=49502611</a></p>
-<p>Points: 52</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names">https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505219">https://news.ycombinator.com/item?id=49505219</a></p>
+<p>Points: 30</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://sander.ai/2026/08/24/continuous-dlms.html](https://sander.ai/2026/08/24/continuous-dlms.html)
+🔗 **Read more:** [https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
 
 ---
 
@@ -71,7 +71,20 @@ PM Andy Burnham on Sunday announced changes to the next early release scheme - s
 
 ---
 
-### 5. Patel to be replaced by Tugendhat as shadow foreign secretary
+### 5. US and Iran trade strikes for first time in weeks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Patel to be replaced by Tugendhat as shadow foreign secretary
 
 **Source:** BBC
 
@@ -84,94 +97,81 @@ Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team
 
 ---
 
-### 6. Eight killed and others missing after ferry capsizes off northern Cyprus
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. What are the implications of the US-Venezuela oil deal?
+### 7. People return to their flood-ravaged homes in Nepal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Opposition in Venezuela as interim leader insists the deal with Washington will help with the country&#039;s recovery.
+Survivors in Nepal’s Nuwakot district are digging through mud and debris for belongings left behind by flash floods.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss)
 
 ---
 
-### 8. Dozens evacuated and about 15 missing after Grand Canyon flash flood
+### 8. Russia, China leaders to meet at Shanghai Cooperation Organisation summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 60 people have been evacuated after flooding swept large boulders and other debris into the Colorado River.
+The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss)
 
 ---
 
-### 9. Flash flooding in Grand Canyon leaves more than 20 people missing
+### 9. Mamdani lookalike contest draws hundreds of hopefuls in New York
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A search is under way for more than 20 people who may be missing after flash floods tore through Arizona’s Grand Canyon.
+Hundreds gathered for a Zohran Mamdani lookalike contest in New York, with nine contestants vying for votes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss)
 
 ---
 
-### 10. Iceberg A76C
+### 10. Hurricane Karina
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611)
 
 ---
 
-### 11. Iceberg C39
+### 11. Tropical Storm Lowell
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612)
 
 ---
 
-### 12. Iceberg A81
+### 12. Tropical Storm Bang-Lang
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613)
 
 ---
 

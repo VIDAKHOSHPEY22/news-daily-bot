@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-31T08:47:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+            "description": "<p>Article URL: <a href=\"https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis\">https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505351\">https://news.ycombinator.com/item?id=49505351</a></p>\n<p>Points: 27</p>\n<p># Comments: 24</p>",
+            "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+            "published": "Mon, 31 Aug 2026 03:45:57 +0000",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UC Berkeley indefinitely suspends international student work authorizations",
+            "description": "<p>Article URL: <a href=\"https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html\">https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505288\">https://news.ycombinator.com/item?id=49505288</a></p>\n<p>Points: 68</p>\n<p># Comments: 53</p>",
+            "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html",
+            "published": "Mon, 31 Aug 2026 03:34:09 +0000",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "P99 0 ms* autocomplete for 240M domain names",
+            "description": "<p>Article URL: <a href=\"https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\">https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505219\">https://news.ycombinator.com/item?id=49505219</a></p>\n<p>Points: 30</p>\n<p># Comments: 16</p>",
+            "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+            "published": "Mon, 31 Aug 2026 03:20:33 +0000",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+            "description": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 18:33:36 GMT",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US and Iran trade strikes for first time in weeks",
+            "description": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 04:54:32 GMT",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+            "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+            "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 02:03:38 GMT",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "People return to their flood-ravaged homes in Nepal",
+            "description": "Survivors in Nepal’s Nuwakot district are digging through mud and debris for belongings left behind by flash floods.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 04:19:22 +0000",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia, China leaders to meet at Shanghai Cooperation Organisation summit",
+            "description": "The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 04:18:23 +0000",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mamdani lookalike contest draws hundreds of hopefuls in New York",
+            "description": "Hundreds gathered for a Zohran Mamdani lookalike contest in New York, with nine contestants vying for votes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 03:11:56 +0000",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Karina",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lowell",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Bang-Lang",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613",
+            "published": "2026-08-27T06:00:00Z",
+            "fetched": "2026-08-31T08:47:03+03:30"
+        }
+    ]
+}
