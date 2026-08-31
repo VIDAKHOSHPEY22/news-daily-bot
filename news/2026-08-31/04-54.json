@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-31T04:54:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Yen weakens past ¥160 per dollar, eroding intervention gains",
+            "description": "<p>Article URL: <a href=\"https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/\">https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49504352\">https://news.ycombinator.com/item?id=49504352</a></p>\n<p>Points: 20</p>\n<p># Comments: 6</p>",
+            "url": "https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/",
+            "published": "Mon, 31 Aug 2026 00:37:47 +0000",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "“I just chose words carefully”",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/i-just-chose-words-carefully/\">https://unsung.aresluna.org/i-just-chose-words-carefully/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503601\">https://news.ycombinator.com/item?id=49503601</a></p>\n<p>Points: 239</p>\n<p># Comments: 61</p>",
+            "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+            "published": "Sun, 30 Aug 2026 22:49:48 +0000",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Continuous Diffusion Language Models (CDLM's)",
+            "description": "<p>Article URL: <a href=\"https://sander.ai/2026/08/24/continuous-dlms.html\">https://sander.ai/2026/08/24/continuous-dlms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49502611\">https://news.ycombinator.com/item?id=49502611</a></p>\n<p>Points: 52</p>\n<p># Comments: 15</p>",
+            "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+            "published": "Sun, 30 Aug 2026 20:46:53 +0000",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+            "description": "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 18:33:36 GMT",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+            "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+            "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 00:26:50 GMT",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+            "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+            "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 30 Aug 2026 20:02:43 GMT",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What are the implications of the US-Venezuela oil deal?",
+            "description": "Opposition in Venezuela as interim leader insists the deal with Washington will help with the country&#039;s recovery.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/what-are-the-implications-of-the-us-venezuela-oil-deal?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 00:41:12 +0000",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dozens evacuated and about 15 missing after Grand Canyon flash flood",
+            "description": "More than 60 people have been evacuated after flooding swept large boulders and other debris into the Colorado River.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/dozens-evacuated-and-about-15-missing-after-grand-canyon-flash-flood?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 00:31:51 +0000",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Flash flooding in Grand Canyon leaves more than 20 people missing",
+            "description": "A search is under way for more than 20 people who may be missing after flash floods tore through Arizona’s Grand Canyon.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-arizona-flash-floods-sv?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 00:19:04 +0000",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A76C",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359",
+            "published": "2021-05-28T00:00:00Z",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A81",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+            "published": "2023-01-27T00:00:00Z",
+            "fetched": "2026-08-31T04:54:33+03:30"
+        }
+    ]
+}
