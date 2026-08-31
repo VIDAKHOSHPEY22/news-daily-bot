@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 10:36:03
+**Last Update:** 2026-08-31 16:58:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history
+### 1. Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/">https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49506182">https://news.ycombinator.com/item?id=49506182</a></p>
+<p>Article URL: <a href="https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49508982">https://news.ycombinator.com/item?id=49508982</a></p>
 <p>Points: 13</p>
-<p># Comments: 0</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
+🔗 **Read more:** [https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)
 
 ---
 
-### 2. OpenClaw 2.0, Accidentally
+### 2. I Think the Military Commissary's Freezers Were Hacked
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openclaw.ai/blog/openclaw-2-accidentally">https://openclaw.ai/blog/openclaw-2-accidentally</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505310">https://news.ycombinator.com/item?id=49505310</a></p>
-<p>Points: 61</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary">https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49508506">https://news.ycombinator.com/item?id=49508506</a></p>
+<p>Points: 51</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://openclaw.ai/blog/openclaw-2-accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
+🔗 **Read more:** [https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary)
 
 ---
 
-### 3. P99 0 ms* autocomplete for 240M domain names
+### 3. What I Learned About AI Trust from Reconciling over 100B Transactions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names">https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505219">https://news.ycombinator.com/item?id=49505219</a></p>
-<p>Points: 65</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling">https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49508443">https://news.ycombinator.com/item?id=49508443</a></p>
+<p>Points: 13</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+🔗 **Read more:** [https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling](https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling)
 
 ---
 
-### 4. Prisoners freed early are returning to jail at rapid rate, governors tell BBC
+### 4. Once a village, now barren land - BBC in the valley devastated by floods
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail.
+The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US and Iran trade strikes for first time in weeks
+### 5. Sir Mel Stride replaced as shadow chancellor as Conservatives reshuffle top team
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.
+Andrew Griffith will take over the role as part of Kemi Badenoch's shadow cabinet reshuffle.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Patel to be replaced by Tugendhat as shadow foreign secretary
+### 6. Dolly Parton laid to rest alongside husband in Nashville
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.
+A private family funeral is held for the singer who died on Tuesday at the age of 80.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. FIFA president Infantino ‘must go’, says former UEFA boss Platini
+### 7. Manchester City sign Brazilian winger Allan Elias from Palmeiras
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In a scathing interview, French great Michel Platini accuses Infantino of always loving &#039;money and power&#039;.
+Elias joins the Premier League club on a five-year contract, their sixth signing in the summer transfer window.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/manchester-city-sign-brazilian-winger-allan-elias-from-palmeiras?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/manchester-city-sign-brazilian-winger-allan-elias-from-palmeiras?traffic_source=rss)
 
 ---
 
-### 8. Aston Villa vs Arsenal: Premier League – prediction, team news, lineups
+### 8. Can Iran use rockets to mine the Strait of Hormuz, as US claims?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.
+Analysts say it&#039;s implausible but Iran is well-versed in adapting conventional weapons to suit its needs.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims?traffic_source=rss)
 
 ---
 
-### 9. Tennis great Djokovic exits US Open in first round amid tears and pain
+### 9. Pakistan, Saudi Arabia, Turkiye meet: What’s next for their defence pact?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Novak Djokovic&#039;s pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.
+As US-Iran strikes resume, Pakistan, Saudi Arabia and Turkiye test their pact&#039;s substance, and who might join next.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-31T16:58:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+            "description": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508982\">https://news.ycombinator.com/item?id=49508982</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+            "published": "Mon, 31 Aug 2026 12:41:22 +0000",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Think the Military Commissary's Freezers Were Hacked",
+            "description": "<p>Article URL: <a href=\"https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary\">https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508506\">https://news.ycombinator.com/item?id=49508506</a></p>\n<p>Points: 51</p>\n<p># Comments: 39</p>",
+            "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+            "published": "Mon, 31 Aug 2026 11:45:48 +0000",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+            "description": "<p>Article URL: <a href=\"https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling\">https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508443\">https://news.ycombinator.com/item?id=49508443</a></p>\n<p>Points: 13</p>\n<p># Comments: 9</p>",
+            "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
+            "published": "Mon, 31 Aug 2026 11:34:28 +0000",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Once a village, now barren land - BBC in the valley devastated by floods",
+            "description": "The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.",
+            "url": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 10:20:08 GMT",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sir Mel Stride replaced as shadow chancellor as Conservatives reshuffle top team",
+            "description": "Andrew Griffith will take over the role as part of Kemi Badenoch's shadow cabinet reshuffle.",
+            "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 13:15:36 GMT",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dolly Parton laid to rest alongside husband in Nashville",
+            "description": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
+            "url": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 09:24:50 GMT",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Manchester City sign Brazilian winger Allan Elias from Palmeiras",
+            "description": "Elias joins the Premier League club on a five-year contract, their sixth signing in the summer transfer window.",
+            "url": "https://www.aljazeera.com/sports/2026/8/31/manchester-city-sign-brazilian-winger-allan-elias-from-palmeiras?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 13:03:40 +0000",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Iran use rockets to mine the Strait of Hormuz, as US claims?",
+            "description": "Analysts say it&#039;s implausible but Iran is well-versed in adapting conventional weapons to suit its needs.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/can-iran-use-rockets-to-mine-the-strait-of-hormuz-as-us-claims?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 13:00:10 +0000",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan, Saudi Arabia, Turkiye meet: What’s next for their defence pact?",
+            "description": "As US-Iran strikes resume, Pakistan, Saudi Arabia and Turkiye test their pact&#039;s substance, and who might join next.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 12:57:49 +0000",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Karina",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lowell",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Bang-Lang",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613",
+            "published": "2026-08-27T06:00:00Z",
+            "fetched": "2026-08-31T16:58:39+03:30"
+        }
+    ]
+}
