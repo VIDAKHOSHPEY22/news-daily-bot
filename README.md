@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 00:23:31
+**Last Update:** 2026-09-01 03:14:06
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. A walkable ASCII cyberpunk city in one HTML file [video]
+### 1. Run macOS Software on Linux
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><i>ASCII City: Traffic and Detail Update</i> - <a href="https://www.youtube.com/watch?v=DSRooHo_HSI" rel="nofollow">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href="https://www.youtube.com/watch?v=UCKEDWowc0o" rel="nofollow">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512975">https://news.ycombinator.com/item?id=49512975</a></p>
-<p>Points: 104</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=3YtygAx_C6A](https://www.youtube.com/watch?v=3YtygAx_C6A)
-
----
-
-### 2. Weave (YC W25) is hiring ML, AI, product, & design engineers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512895">https://news.ycombinator.com/item?id=49512895</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://www.darlinghq.org/">https://www.darlinghq.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515830">https://news.ycombinator.com/item?id=49515830</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://jobs.ashbyhq.com/workweave](https://jobs.ashbyhq.com/workweave)
+🔗 **Read more:** [https://www.darlinghq.org/](https://www.darlinghq.org/)
 
 ---
 
-### 3. 'Stunning' percolation proof solves decades-old puzzle about phase transitions
+### 2. Develop Cross-Platform CLI and GUI Tools with Tcl/Tk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/">https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512311">https://news.ycombinator.com/item?id=49512311</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide">https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49515662">https://news.ycombinator.com/item?id=49515662</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
+🔗 **Read more:** [https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide)
+
+---
+
+### 3. How we configured OpenTelemetry logs in Rails
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails">https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49514895">https://news.ycombinator.com/item?id=49514895</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails](https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails)
 
 ---
 
@@ -98,42 +97,42 @@ Argentina great Lionel Messi announces his retirement from international footbal
 
 ---
 
-### 7. ‘Nothing is usable’: Nepal residents return to flood-ravaged homes
+### 7. US Army Secretary Daniel Driscoll submits resignation, media reports say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents in Nepal are returning to flood-ravaged homes, sifting through mud and debris to salvage whatever they can.
+Army secretary&#039;s resignation follows months of tensions with US Defense Secretary Pete Hegseth, US media reports say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss)
 
 ---
 
-### 8. How will the Mecca agreement become an operational framework?
+### 8. Three minors killed in Colombia armed group crackdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.
+Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss)
 
 ---
 
-### 9. Ukrainians mourn community leader killed in Russian strike on Myla
+### 9. JERUSALEM DAILY: JOURNALISTS ATTACKED
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.
+Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss)
 
 ---
 

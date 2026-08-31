@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T03:14:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Run macOS Software on Linux",
+            "description": "<p>Article URL: <a href=\"https://www.darlinghq.org/\">https://www.darlinghq.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49515830\">https://news.ycombinator.com/item?id=49515830</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.darlinghq.org/",
+            "published": "Mon, 31 Aug 2026 22:53:45 +0000",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+            "description": "<p>Article URL: <a href=\"https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide\">https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49515662\">https://news.ycombinator.com/item?id=49515662</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+            "published": "Mon, 31 Aug 2026 22:32:22 +0000",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How we configured OpenTelemetry logs in Rails",
+            "description": "<p>Article URL: <a href=\"https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails\">https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49514895\">https://news.ycombinator.com/item?id=49514895</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+            "published": "Mon, 31 Aug 2026 21:12:22 +0000",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+            "description": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 20:27:52 GMT",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+            "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 17:30:47 GMT",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Messi retires from international football with 'nothing left to give'",
+            "description": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+            "description": "Army secretary&#039;s resignation follows months of tensions with US Defense Secretary Pete Hegseth, US media reports say.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 23:23:00 +0000",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three minors killed in Colombia armed group crackdown",
+            "description": "Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 22:30:23 +0000",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+            "description": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 22:16:18 +0000",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Karina",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lowell",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Bang-Lang",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613",
+            "published": "2026-08-27T06:00:00Z",
+            "fetched": "2026-09-01T03:14:06+03:30"
+        }
+    ]
+}
