@@ -1,44 +1,44 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 08:47:03
+**Last Update:** 2026-08-31 10:36:03
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The EU has begun enforcing the AI Act: first RFIs to model providers
+### 1. A 12TB Steam "teraleak" spills more than a decade of lost PC gaming history
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis">https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505351">https://news.ycombinator.com/item?id=49505351</a></p>
-<p>Points: 27</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/">https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49506182">https://news.ycombinator.com/item?id=49506182</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis](https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis)
+🔗 **Read more:** [https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/](https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/)
 
 ---
 
-### 2. UC Berkeley indefinitely suspends international student work authorizations
+### 2. OpenClaw 2.0, Accidentally
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html">https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505288">https://news.ycombinator.com/item?id=49505288</a></p>
-<p>Points: 68</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://openclaw.ai/blog/openclaw-2-accidentally">https://openclaw.ai/blog/openclaw-2-accidentally</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505310">https://news.ycombinator.com/item?id=49505310</a></p>
+<p>Points: 61</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html](https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html)
+🔗 **Read more:** [https://openclaw.ai/blog/openclaw-2-accidentally](https://openclaw.ai/blog/openclaw-2-accidentally)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names">https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49505219">https://news.ycombinator.com/item?id=49505219</a></p>
-<p>Points: 30</p>
-<p># Comments: 16</p>
+<p>Points: 65</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
 
@@ -97,42 +97,42 @@ Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team
 
 ---
 
-### 7. People return to their flood-ravaged homes in Nepal
+### 7. FIFA president Infantino ‘must go’, says former UEFA boss Platini
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Survivors in Nepal’s Nuwakot district are digging through mud and debris for belongings left behind by flash floods.
+In a scathing interview, French great Michel Platini accuses Infantino of always loving &#039;money and power&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-nepal-aftermath-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/fifa-president-infantino-must-go-says-former-uefa-boss-platini?traffic_source=rss)
 
 ---
 
-### 8. Russia, China leaders to meet at Shanghai Cooperation Organisation summit
+### 8. Aston Villa vs Arsenal: Premier League – prediction, team news, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The organisation is not officially anti-West, but Russian and Chinese leaders have used it to amplify their worldview.
+Declan Rice continues to star for Arsenal, who may add Julian Alvarez to ranks, but hosts Villa are sore from sales.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/russia-china-leaders-to-meet-at-shanghai-cooperation-organisation-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/aston-villa-vs-arsenal-premier-league-prediction-team-news-lineups?traffic_source=rss)
 
 ---
 
-### 9. Mamdani lookalike contest draws hundreds of hopefuls in New York
+### 9. Tennis great Djokovic exits US Open in first round amid tears and pain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds gathered for a Zohran Mamdani lookalike contest in New York, with nine contestants vying for votes.
+Novak Djokovic&#039;s pursuit of a 25th Grand Slam ends in a five-set defeat to unseeded Argentinian player Mariano Navone.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss](https://www.aljazeera.com/sports/2026/8/31/tennis-great-djokovic-exits-us-open-in-first-round-amid-tears-and-pain?traffic_source=rss)
 
 ---
 
