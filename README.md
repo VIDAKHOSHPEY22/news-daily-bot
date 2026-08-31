@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 23:26:23
+**Last Update:** 2026-09-01 00:23:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -17,11 +17,11 @@
 **Category:** technology
 
 **Description:**
-<p><a href="https://cybercity.carino.systems/" rel="nofollow">https://cybercity.carino.systems/</a><p><a href="https://github.com/MiguelCarino/CyberCity" rel="nofollow">https://github.com/MiguelCarino/CyberCity</a><p><i>ASCII City: Traffic and Detail Update</i> - <a href="https://www.youtube.com/watch?v=DSRooHo_HSI" rel="nofollow">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href="https://www.youtube.com/watch?v=UCKEDWowc0o" rel="nofollow">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>
+<p><i>ASCII City: Traffic and Detail Update</i> - <a href="https://www.youtube.com/watch?v=DSRooHo_HSI" rel="nofollow">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href="https://www.youtube.com/watch?v=UCKEDWowc0o" rel="nofollow">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512975">https://news.ycombinator.com/item?id=49512975</a></p>
-<p>Points: 58</p>
-<p># Comments: 10</p>
+<p>Points: 104</p>
+<p># Comments: 21</p>
 
 🔗 **Read more:** [https://www.youtube.com/watch?v=3YtygAx_C6A](https://www.youtube.com/watch?v=3YtygAx_C6A)
 
@@ -43,19 +43,19 @@
 
 ---
 
-### 3. Kids These Days
+### 3. 'Stunning' percolation proof solves decades-old puzzle about phase transitions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://smallpotatoes.paulbloom.net/p/kids-these-days">https://smallpotatoes.paulbloom.net/p/kids-these-days</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512618">https://news.ycombinator.com/item?id=49512618</a></p>
-<p>Points: 10</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/">https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512311">https://news.ycombinator.com/item?id=49512311</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://smallpotatoes.paulbloom.net/p/kids-these-days](https://smallpotatoes.paulbloom.net/p/kids-these-days)
+🔗 **Read more:** [https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/](https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/)
 
 ---
 
@@ -98,42 +98,42 @@ Argentina great Lionel Messi announces his retirement from international footbal
 
 ---
 
-### 7. Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem
+### 7. ‘Nothing is usable’: Nepal residents return to flood-ravaged homes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Far-right minister entered Islam’s third-holiest site alongside settlers under protection of Israeli occupation forces.
+Residents in Nepal are returning to flood-ravaged homes, sifting through mud and debris to salvage whatever they can.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss)
 
 ---
 
-### 8. Top US general says no plans to send troops to polls for November elections
+### 8. How will the Mecca agreement become an operational framework?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Remarks come in response to concerns from Democrats that military could be used to interfere in elections.
+Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss)
 
 ---
 
-### 9. Firecracker factory blast in India kills 8 children
+### 9. Ukrainians mourn community leader killed in Russian strike on Myla
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Videos reveal demolished houses and desperate rescue efforts after third such blast at a firecracker factory in August.
+Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/firecracker-factory-blast-in-india-kills-8-children?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/firecracker-factory-blast-in-india-kills-8-children?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss)
 
 ---
 

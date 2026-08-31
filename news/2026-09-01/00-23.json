@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T00:23:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+            "description": "<p><i>ASCII City: Traffic and Detail Update</i> - <a href=\"https://www.youtube.com/watch?v=DSRooHo_HSI\" rel=\"nofollow\">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href=\"https://www.youtube.com/watch?v=UCKEDWowc0o\" rel=\"nofollow\">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512975\">https://news.ycombinator.com/item?id=49512975</a></p>\n<p>Points: 104</p>\n<p># Comments: 21</p>",
+            "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+            "published": "Mon, 31 Aug 2026 18:21:33 +0000",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+            "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/workweave\">https://jobs.ashbyhq.com/workweave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512895\">https://news.ycombinator.com/item?id=49512895</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://jobs.ashbyhq.com/workweave",
+            "published": "Mon, 31 Aug 2026 18:15:26 +0000",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'Stunning' percolation proof solves decades-old puzzle about phase transitions",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/\">https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512311\">https://news.ycombinator.com/item?id=49512311</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
+            "published": "Mon, 31 Aug 2026 17:22:43 +0000",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+            "description": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 20:27:52 GMT",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+            "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 17:30:47 GMT",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Messi retires from international football with 'nothing left to give'",
+            "description": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Nothing is usable’: Nepal residents return to flood-ravaged homes",
+            "description": "Residents in Nepal are returning to flood-ravaged homes, sifting through mud and debris to salvage whatever they can.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/nothing-is-usable-nepal-residents-return-to-flood-ravaged-homes?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 20:43:58 +0000",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How will the Mecca agreement become an operational framework?",
+            "description": "Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 20:13:18 +0000",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
+            "description": "Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 19:51:46 +0000",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Karina",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lowell",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Bang-Lang",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613",
+            "published": "2026-08-27T06:00:00Z",
+            "fetched": "2026-09-01T00:23:31+03:30"
+        }
+    ]
+}
