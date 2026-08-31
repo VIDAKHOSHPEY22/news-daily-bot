@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-08-31T23:26:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+            "description": "<p><a href=\"https://cybercity.carino.systems/\" rel=\"nofollow\">https://cybercity.carino.systems/</a><p><a href=\"https://github.com/MiguelCarino/CyberCity\" rel=\"nofollow\">https://github.com/MiguelCarino/CyberCity</a><p><i>ASCII City: Traffic and Detail Update</i> - <a href=\"https://www.youtube.com/watch?v=DSRooHo_HSI\" rel=\"nofollow\">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href=\"https://www.youtube.com/watch?v=UCKEDWowc0o\" rel=\"nofollow\">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512975\">https://news.ycombinator.com/item?id=49512975</a></p>\n<p>Points: 58</p>\n<p># Comments: 10</p>",
+            "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+            "published": "Mon, 31 Aug 2026 18:21:33 +0000",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+            "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/workweave\">https://jobs.ashbyhq.com/workweave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512895\">https://news.ycombinator.com/item?id=49512895</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://jobs.ashbyhq.com/workweave",
+            "published": "Mon, 31 Aug 2026 18:15:26 +0000",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kids These Days",
+            "description": "<p>Article URL: <a href=\"https://smallpotatoes.paulbloom.net/p/kids-these-days\">https://smallpotatoes.paulbloom.net/p/kids-these-days</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512618\">https://news.ycombinator.com/item?id=49512618</a></p>\n<p>Points: 10</p>\n<p># Comments: 9</p>",
+            "url": "https://smallpotatoes.paulbloom.net/p/kids-these-days",
+            "published": "Mon, 31 Aug 2026 17:50:37 +0000",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+            "description": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
+            "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 18:19:01 GMT",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+            "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 17:30:47 GMT",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Messi retires from international football with 'nothing left to give'",
+            "description": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 15:18:39 GMT",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
+            "description": "Far-right minister entered Islam’s third-holiest site alongside settlers under protection of Israeli occupation forces.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 19:25:45 +0000",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Top US general says no plans to send troops to polls for November elections",
+            "description": "Remarks come in response to concerns from Democrats that military could be used to interfere in elections.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 19:20:28 +0000",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Firecracker factory blast in India kills 8 children",
+            "description": "Videos reveal demolished houses and desperate rescue efforts after third such blast at a firecracker factory in August.",
+            "url": "https://www.aljazeera.com/news/2026/8/31/firecracker-factory-blast-in-india-kills-8-children?traffic_source=rss",
+            "published": "Mon, 31 Aug 2026 18:44:43 +0000",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Karina",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23611",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Lowell",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23612",
+            "published": "2026-08-27T18:00:00Z",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Bang-Lang",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23613",
+            "published": "2026-08-27T06:00:00Z",
+            "fetched": "2026-08-31T23:26:23+03:30"
+        }
+    ]
+}

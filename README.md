@@ -1,68 +1,65 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-08-31 18:42:28
+**Last Update:** 2026-08-31 23:26:23
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines
+### 1. A walkable ASCII cyberpunk city in one HTML file [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow (<a href="https://github.com/Hebbian-Robotics/hflow" rel="nofollow">https://github.com/Hebbian-Robotics/hflow</a>), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processes those streams together.<p>Here’s a demo of HFlow in action: <a href="https://www.youtube.com/watch?v=xni0GwV-xAw" rel="nofollow">https://www.youtube.com/watch?v=xni0GwV-xAw</a><p>Robotics data pipelines often begin as scripts: one transcodes video, another checks timestamps, another adds labels, and another copies selected recordings into a training set. This works until the corpus grows. Then it becomes difficult to know which code ran, why an episode was excluded, or whether a dataset can be reproduced. The first pain is usually quality control because frozen cameras, missing topics, timestamp drift, and duplicate recordings can quietly enter training data.<p>Brandon first encountered this while training embodied AI models for two-arm industrial cleaning robots. Kingston had run into related problems while building high-throughput infrastructure at Jane Street. Later, while speaking with robotics data providers, we kept seeing teams rebuild similar processing and quality-control infrastructure. We learnt that processing robotics data is itself one of the bottlenecks to improving robotics models.<p>An HFlow pipeline consists of transformations, checks, labels, and enrichments. The SDK exposes them as plain Python functions that receive an episode and return measurements, artifacts, or transformed data. During development, the functions can run in-process. For scheduled corpus processing, HFlow packages the same registered steps as Airflow 3 DAGs, where teams can inspect task status, logs, retries, and reruns.<p>HFlow currently accepts one MCAP file per episode. MCAP (<a href="https://mcap.dev/" rel="nofollow">https://mcap.dev/</a>) is an open container format by Foxglove for timestamped multimodal recordings, similar in purpose to a ROS bag. It lets video, robot state, actions, and other sensor streams remain synchronized in one file. We use it because HFlow needs to process these streams together, and because the resulting recordings remain compatible with Foxglove and Rerun. HFlow writes a canonical MCAP with in-band H.264 video, grouped camera and state chunks, and provenance describing how the output was produced. Each step has an explicit behavior version, and catalog records connect its measurements and artifacts to the source episode and pipeline run.<p>Quality checks store reusable evidence rather than imposing one universal definition of good data. Some failures, including black frames, frozen video, missing topics, timestamp drift, and impossible joint movements, can be measured deterministically without training a model. Others might be detected using VLMs and other models like MediaPipe Hands. But their meaning depends on the task. A smooth trajectory might indicate a successful demonstration in one setting and a stalled robot in another.<p>HFlow writes measurements, metadata, version stamps, and artifact locations to an append-only Parquet catalog. Teams query it with DuckDB SQL and produce a version-pinned manifest without opening the recordings again. Critical checks can quarantine an episode, but HFlow does not delete data. This separates the evidence from the policy used to assemble a particular dataset.<p>We did not want to replace the tools robotics teams already use. HFlow connects MCAP for synchronized recordings, Airflow for scheduled execution, Parquet for catalog data, and DuckDB for curation. Compared with a general workflow orchestrator, it adds contracts for robotics episodes, processing provenance, quality evidence, quarantine, and dataset manifests. Compared with a training dataset format, it operates earlier and stops at curated episodes plus a manifest.<p>Here are three examples of teams that would use HFlow:
-1. A data vendor or marketplace collecting egocentric recordings. They could use HFlow to detect black or frozen video, duplicate recordings, hand-object interaction, and other quality metrics before delivering the data, while retaining evidence of which checks ran on every episode.
-2. A robotics team collecting teleoperated demonstrations for its own models. They could use HFlow to standardize recordings, add labels and enrichments, and produce a reproducible training manifest.
-3. A team operating robots in the field. It could process incoming logs, quarantine incomplete or corrupted episodes, and query the catalog for particular robot versions, environments, or failure conditions.<p>The project is pre-v1, but the core lifecycle works end to end. You can try it without an account, Docker, or robot hardware by cloning the repository and following the quickstart.<p>HFlow is free under the Apache-2.0 license. The open source deployment is currently a single-tenant workspace, and we have not built the hosted, multi-tenant control plane yet. We are considering making money through managed workspaces and enterprise support for teams that do not want to operate the runtime themselves.<p>Because this processing layer is software and data, people can contribute without owning a robot. We would especially like feedback from people who have built pipelines for robotics, video, or other sensor-heavy systems. We are curious where our data model is wrong, which integrations are missing, and what would fail first on your workloads.</p>
+<p><a href="https://cybercity.carino.systems/" rel="nofollow">https://cybercity.carino.systems/</a><p><a href="https://github.com/MiguelCarino/CyberCity" rel="nofollow">https://github.com/MiguelCarino/CyberCity</a><p><i>ASCII City: Traffic and Detail Update</i> - <a href="https://www.youtube.com/watch?v=DSRooHo_HSI" rel="nofollow">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href="https://www.youtube.com/watch?v=UCKEDWowc0o" rel="nofollow">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510632">https://news.ycombinator.com/item?id=49510632</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512975">https://news.ycombinator.com/item?id=49512975</a></p>
+<p>Points: 58</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://github.com/Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow)
+🔗 **Read more:** [https://www.youtube.com/watch?v=3YtygAx_C6A](https://www.youtube.com/watch?v=3YtygAx_C6A)
 
 ---
 
-### 2. Agentic Trust Controls
+### 2. Weave (YC W25) is hiring ML, AI, product, & design engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://trustcontrols.ai/">https://trustcontrols.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510612">https://news.ycombinator.com/item?id=49510612</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512895">https://news.ycombinator.com/item?id=49512895</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://trustcontrols.ai/](https://trustcontrols.ai/)
+🔗 **Read more:** [https://jobs.ashbyhq.com/workweave](https://jobs.ashbyhq.com/workweave)
 
 ---
 
-### 3. Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP
+### 3. Kids These Days
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/">https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49510540">https://news.ycombinator.com/item?id=49510540</a></p>
+<p>Article URL: <a href="https://smallpotatoes.paulbloom.net/p/kids-these-days">https://smallpotatoes.paulbloom.net/p/kids-these-days</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49512618">https://news.ycombinator.com/item?id=49512618</a></p>
 <p>Points: 10</p>
-<p># Comments: 1</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/)
+🔗 **Read more:** [https://smallpotatoes.paulbloom.net/p/kids-these-days](https://smallpotatoes.paulbloom.net/p/kids-these-days)
 
 ---
 
-### 4. Sir Mel Stride and Priti Patel replaced in major Tory reshuffle
+### 4. Mel Stride and Priti Patel replaced in major Tory reshuffle
 
 **Source:** BBC
 
@@ -75,68 +72,68 @@ Conservative leader Kemi Badenoch is shaking up her top team ahead of the party'
 
 ---
 
-### 5. Once a village, now barren land - BBC in the valley devastated by floods
+### 5. Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.
+Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Dolly Parton laid to rest alongside husband in Nashville
+### 6. Messi retires from international football with 'nothing left to give'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A private family funeral is held for the singer who died on Tuesday at the age of 80.
+Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that "hurt" but he understands "the time has come".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Jason Arday mural displayed at London’s Notting Hill Carnival
+### 7. Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A mural commemorating late Cambridge professor Jason Arday is displayed at London’s Notting Hill Carnival.
+Far-right minister entered Islam’s third-holiest site alongside settlers under protection of Israeli occupation forces.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/8/31/jason-arday-mural-displayed-at-londons-notting-hill-carnival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss)
 
 ---
 
-### 8. War and heat: Why are wheat prices soaring?
+### 8. Top US general says no plans to send troops to polls for November elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia and Ukraine have stepped up attacks on their respective grain terminals in the Black Sea.
+Remarks come in response to concerns from Democrats that military could be used to interfere in elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/war-and-heat-why-are-wheat-prices-soaring?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss)
 
 ---
 
-### 9. Sleeping in on weekends is good for the heart: What research has shown
+### 9. Firecracker factory blast in India kills 8 children
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Study finds that catching up on sleep at weekends is linked to a lower risk of hypertension.
+Videos reveal demolished houses and desperate rescue efforts after third such blast at a firecracker factory in August.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/sleeping-in-on-weekends-is-good-for-the-heart-what-research-has-shown?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/sleeping-in-on-weekends-is-good-for-the-heart-what-research-has-shown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/8/31/firecracker-factory-blast-in-india-kills-8-children?traffic_source=rss](https://www.aljazeera.com/news/2026/8/31/firecracker-factory-blast-in-india-kills-8-children?traffic_source=rss)
 
 ---
 
