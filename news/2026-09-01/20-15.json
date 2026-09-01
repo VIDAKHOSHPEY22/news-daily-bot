@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-01T20:15:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+            "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 16:36:42 GMT",
+            "fetched": "2026-09-01T20:15:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Keir Starmer announces he is standing down as MP",
+            "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 15:23:20 GMT",
+            "fetched": "2026-09-01T20:15:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Germany says Russia behind Leipzig airport drone attack",
+            "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 16:31:43 GMT",
+            "fetched": "2026-09-01T20:15:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany accuses Russia of drone attack on Leipzig airport",
+            "description": "This is a breaking news story.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 16:24:36 +0000",
+            "fetched": "2026-09-01T20:15:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+            "description": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 16:15:01 +0000",
+            "fetched": "2026-09-01T20:15:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘No one else like him’: Argentinians rally for Lionel Messi",
+            "description": "Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 15:57:14 +0000",
+            "fetched": "2026-09-01T20:15:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-01T20:15:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-01T20:15:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-01T20:15:57+03:30"
+        }
+    ]
+}

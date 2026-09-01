@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 18:12:58
+**Last Update:** 2026-09-01 20:15:57
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Saab Enters Collaborative Combat Aircraft Race with High-End Concept
+### 1. UK long-term borrowing costs highest since 1998 ahead of October Budget
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept">https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49522374">https://news.ycombinator.com/item?id=49522374</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.
 
-🔗 **Read more:** [https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Io_uring Without Readahead
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://frn.sh/io-uring/">https://frn.sh/io-uring/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49521623">https://news.ycombinator.com/item?id=49521623</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://frn.sh/io-uring/](https://frn.sh/io-uring/)
-
----
-
-### 3. EFF to Courts: Don't Rewrite Copyright over AI Hype
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype">https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49521315">https://news.ycombinator.com/item?id=49521315</a></p>
-<p>Points: 92</p>
-<p># Comments: 83</p>
-
-🔗 **Read more:** [https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
-
----
-
-### 4. Keir Starmer announces he is standing down as MP
+### 2. Keir Starmer announces he is standing down as MP
 
 **Source:** BBC
 
@@ -71,72 +36,59 @@ The move will trigger a by-election to replace the former prime minister in his 
 
 ---
 
-### 5. Summer 2026 was UK's hottest on record, Met Office says
+### 3. Germany says Russia behind Leipzig airport drone attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.
+A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.
 
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-As of August, the number forced to return this year from Pakistan and Iran had reached another million.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Football Fandom: Who owns your loyalty?
+### 4. Germany accuses Russia of drone attack on Leipzig airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How is money changing football?
+This is a breaking news story.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/doha-debates/2026/9/1/football-fandom-who-owns-your-loyalty?traffic_source=rss](https://www.aljazeera.com/video/doha-debates/2026/9/1/football-fandom-who-owns-your-loyalty?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss)
 
 ---
 
-### 8. Barcelona sign Gabriel Jesus from Arsenal for a reported $11.6m
+### 5. UK Foreign Secretary condemns Israeli settlements in the occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil&#039;s Gabriel Jesus transfers from Premier League champions Arsenal to La Liga holders Barcelona on deadline day.
+UK Foreign Secretary condemns Israeli settlements in the occupied West Bank
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal-for-a-reported-11-5m?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal-for-a-reported-11-5m?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?
+### 6. ‘No one else like him’: Argentinians rally for Lionel Messi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets.
+Residents of Buenos Aires say they will miss the football legend who won the 2022 World Cup for Argentina.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/no-one-else-like-him-argentinians-rally-for-lionel-messi?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Ruggs, Morrow, Oregon
+### 7. Wildfire Ruggs, Morrow, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Harris, Throckmorton, Texas
+### 8. Wildfire Harris, Throckmorton, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 9. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
 
 **Source:** NASA
 
