@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T09:48:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Can Make You Suck Faster Too",
+            "description": "<p>Article URL: <a href=\"https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too\">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49518316\">https://news.ycombinator.com/item?id=49518316</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+            "published": "Tue, 01 Sep 2026 05:32:56 +0000",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
+            "description": "<p>Article URL: <a href=\"https://github.com/vermellcc/vermell\">https://github.com/vermellcc/vermell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49518121\">https://news.ycombinator.com/item?id=49518121</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/vermellcc/vermell",
+            "published": "Tue, 01 Sep 2026 04:56:11 +0000",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Restroom Archive",
+            "description": "<p>Article URL: <a href=\"https://restroomarchive.com\">https://restroomarchive.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517624\">https://news.ycombinator.com/item?id=49517624</a></p>\n<p>Points: 66</p>\n<p># Comments: 6</p>",
+            "url": "https://restroomarchive.com",
+            "published": "Tue, 01 Sep 2026 03:23:48 +0000",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man charged after woman and her niece died in fire",
+            "description": "A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 04:21:49 GMT",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur",
+            "description": "Duane \"Keffe D\" Davis's conviction ends decades of mystery as to who was behind the rapper's death.",
+            "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 04:20:17 GMT",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+            "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces raze West Bank homes as EU weighs ban on settlement goods",
+            "description": "Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 05:27:17 +0000",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?",
+            "description": "Analysts say Israel could benefit when UNIFIL&#039;s mandate expires on December 31.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 05:25:37 +0000",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former gang leader found guilty of Tupac Shakur’s 1996 murder",
+            "description": "A Las Vegas jury has found former gang leader Duane ‘Keffe D’ Davis guilty of Tupac Shakur’s 1996 murder.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 04:29:23 +0000",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-01T09:48:39+03:30"
+        }
+    ]
+}

@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 08:22:12
+**Last Update:** 2026-09-01 09:48:39
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Restroom Archive
+### 1. AI Can Make You Suck Faster Too
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518316">https://news.ycombinator.com/item?id=49518316</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
+
+---
+
+### 2. Vermell – Minimal, dependency-free C++ web framework using epoll
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/vermellcc/vermell">https://github.com/vermellcc/vermell</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518121">https://news.ycombinator.com/item?id=49518121</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/vermellcc/vermell](https://github.com/vermellcc/vermell)
+
+---
+
+### 3. Restroom Archive
 
 **Source:** Hacker News
 
@@ -19,46 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://restroomarchive.com">https://restroomarchive.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517624">https://news.ycombinator.com/item?id=49517624</a></p>
-<p>Points: 16</p>
-<p># Comments: 1</p>
+<p>Points: 66</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://restroomarchive.com](https://restroomarchive.com)
 
 ---
 
-### 2. Google Antigravity introduces Boost deep reasoning (/boost)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://antigravity.google/docs/boost/">https://antigravity.google/docs/boost/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517537">https://news.ycombinator.com/item?id=49517537</a></p>
-<p>Points: 45</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://antigravity.google/docs/boost/](https://antigravity.google/docs/boost/)
-
----
-
-### 3. Fastpotify
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fastpotify.rocks/">https://fastpotify.rocks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517448">https://news.ycombinator.com/item?id=49517448</a></p>
-<p>Points: 74</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://fastpotify.rocks/](https://fastpotify.rocks/)
-
----
-
-### 4. Man charged after fire in which woman and girl died
+### 4. Man charged after woman and her niece died in fire
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on 
 
 ---
 
-### 5. Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur
+### 5. Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The verdict ends decades of mystery as to who was behind the rapper's death.
+Duane "Keffe D" Davis's conviction ends decades of mystery as to who was behind the rapper's death.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham to face Parliament as prime minister for first time
+### 6. 'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-This may well be the point when his honeymoon period as PM ends and the hard work begins, Damian Grammaticas writes.
+As of August, the number forced to return this year from Pakistan and Iran had reached another million.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c99dyjk7mpyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c99dyjk7mpyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. John Ternus to lead Apple into the age of AI
+### 7. Israeli forces raze West Bank homes as EU weighs ban on settlement goods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.
+Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss)
 
 ---
 
-### 8. US brings back Russia’s Siluanov to G20 finance talks, angering Europe
+### 8. Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anton Siluanov holds talks with US counterpart as European officials object to Russia&#039;s return to G20 talks.
+Analysts say Israel could benefit when UNIFIL&#039;s mandate expires on December 31.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss)
 
 ---
 
-### 9. Toxic haze from Indonesian fires chokes Malaysian Borneo
+### 9. Former gang leader found guilty of Tupac Shakur’s 1996 murder
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Respiratory illnesses surge as smoke settles over Malaysia&#039;s Sarawak in the region&#039;s worst haze crisis in a decade.
+A Las Vegas jury has found former gang leader Duane ‘Keffe D’ Davis guilty of Tupac Shakur’s 1996 murder.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss)
 
 ---
 
