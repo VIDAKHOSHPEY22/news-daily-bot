@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T21:51:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">https://www.anthropic.com/claude-fable-and-mythos-5-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525496\">https://news.ycombinator.com/item?id=49525496</a></p>\n<p>Points: 64</p>\n<p># Comments: 11</p>",
+            "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+            "published": "Tue, 01 Sep 2026 18:01:24 +0000",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it",
+            "description": "<p>Article URL: <a href=\"https://sariyuce.com/blog/2026/UEFA-Draw/\">https://sariyuce.com/blog/2026/UEFA-Draw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525420\">https://news.ycombinator.com/item?id=49525420</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://sariyuce.com/blog/2026/UEFA-Draw/",
+            "published": "Tue, 01 Sep 2026 17:57:09 +0000",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Fable 5.1",
+            "description": "<p>System Card: <a href=\"https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&amp;%20Claude%20Mythos%205.1%20System%20Card.pdf\" rel=\"nofollow\">https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525378\">https://news.ycombinator.com/item?id=49525378</a></p>\n<p>Points: 78</p>\n<p># Comments: 38</p>",
+            "url": "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1",
+            "published": "Tue, 01 Sep 2026 17:53:53 +0000",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+            "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 16:36:42 GMT",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Keir Starmer announces he is standing down as MP",
+            "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 17:04:29 GMT",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Germany says Russia behind Leipzig airport drone attack",
+            "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 16:53:40 GMT",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US health authorities contradict state officials on measles-related deaths",
+            "description": "Clash with Pennsylvania comes as US records highest number of measles cases in decades.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 17:48:28 +0000",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The US military began striking targets in Iran, CENTCOM says",
+            "description": "The US military said it has begun striking targets in Iran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 17:39:29 +0000",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
+            "description": "Apple gears up for innovation under Ternus before a new product launch event that could include foldable phones.",
+            "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 17:36:33 +0000",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-01T21:51:06+03:30"
+        }
+    ]
+}
