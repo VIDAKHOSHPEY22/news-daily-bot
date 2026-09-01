@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T02:09:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+            "description": "<p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href=\"https://github.com/masteranza/weedout-for-youtube\" rel=\"nofollow\">https://github.com/masteranza/weedout-for-youtube</a><p>Pull requests are not accepted; the repository is for independent forks.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49528895\">https://news.ycombinator.com/item?id=49528895</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://masteranza.github.io/weedout/",
+            "published": "Tue, 01 Sep 2026 22:06:57 +0000",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fluorescent lamps (don't) have ears",
+            "description": "<p>Article URL: <a href=\"https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears\">https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49528366\">https://news.ycombinator.com/item?id=49528366</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+            "published": "Tue, 01 Sep 2026 21:19:10 +0000",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+            "description": "<p>Hi!<p>Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\".<p>So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs.<p>If you've submitted a post to this month's 'Who Wants to Be Hired?\", you can find your matching job listings at <a href=\"https://hnmatchmaker.com/user/:user_name\" rel=\"nofollow\">https://hnmatchmaker.com/user/:user_name</a>, for example <a href=\"https://hnmatchmaker.com/user/G4Vi\" rel=\"nofollow\">https://hnmatchmaker.com/user/G4Vi</a><p>---<p>Some observations when looking at the matches pair up right now:<p>Poke around, let me know what you think!<p>Ultimately, I hope this is actually helpful to some folks.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49528057\">https://news.ycombinator.com/item?id=49528057</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
+            "url": "https://hnmatchmaker.com/",
+            "published": "Tue, 01 Sep 2026 20:53:35 +0000",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham promises more devolution and public control of essential services",
+            "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 21:48:44 GMT",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+            "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 16:36:42 GMT",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Keir Starmer announces he is standing down as MP",
+            "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 17:04:29 GMT",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US urges G20 to cut trade imbalances, focus on China",
+            "description": "US Treasury Secretary Bessent urges other G20 countries to do more to protect their economies from Chinese imports.",
+            "url": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 22:21:51 +0000",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
+            "description": "Venezuela&#039;s National Assembly voted to back the 65-billion-barrel oil deal, despite no details being publicly released.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 21:54:14 +0000",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+            "description": "The IAEA said lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 21:28:00 +0000",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T02:09:33+03:30"
+        }
+    ]
+}
