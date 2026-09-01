@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 21:51:06
+**Last Update:** 2026-09-01 23:29:14
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Fable 5.1 and Claude Mythos 5.1
+### 1. What's the Scam?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">https://www.anthropic.com/claude-fable-and-mythos-5-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49525496">https://news.ycombinator.com/item?id=49525496</a></p>
-<p>Points: 64</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html">https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49526244">https://news.ycombinator.com/item?id=49526244</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.anthropic.com/claude-fable-and-mythos-5-1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+🔗 **Read more:** [https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html](https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html)
 
 ---
 
-### 2. UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it
+### 2. How accurate have Ed Zitron's AI skeptic predictions been?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sariyuce.com/blog/2026/UEFA-Draw/">https://sariyuce.com/blog/2026/UEFA-Draw/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49525420">https://news.ycombinator.com/item?id=49525420</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://danluu.com/zitron/">https://danluu.com/zitron/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49526069">https://news.ycombinator.com/item?id=49526069</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://sariyuce.com/blog/2026/UEFA-Draw/](https://sariyuce.com/blog/2026/UEFA-Draw/)
+🔗 **Read more:** [https://danluu.com/zitron/](https://danluu.com/zitron/)
 
 ---
 
-### 3. Claude Fable 5.1
+### 3. There Is No AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>System Card: <a href="https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20&amp;%20Claude%20Mythos%205.1%20System%20Card.pdf" rel="nofollow">https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49525378">https://news.ycombinator.com/item?id=49525378</a></p>
-<p>Points: 78</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://wadler.blogspot.com/2026/08/there-is-no-ai.html">https://wadler.blogspot.com/2026/08/there-is-no-ai.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49525791">https://news.ycombinator.com/item?id=49525791</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1](https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1)
+🔗 **Read more:** [https://wadler.blogspot.com/2026/08/there-is-no-ai.html](https://wadler.blogspot.com/2026/08/there-is-no-ai.html)
 
 ---
 
-### 4. UK long-term borrowing costs highest since 1998 ahead of October Budget
+### 4. Burnham promises more devolution and public control of essential services
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Tory leader Kemi Badenoch said Burnham was offering "more government control, more taxes and more politicians", as he addressed MPs for the first time as PM.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. UK long-term borrowing costs highest since 1998 ahead of October Budget
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his fi
 
 ---
 
-### 5. Keir Starmer announces he is standing down as MP
+### 6. Keir Starmer announces he is standing down as MP
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ The move will trigger a by-election to replace the former prime minister in his 
 
 ---
 
-### 6. Germany says Russia behind Leipzig airport drone attack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US health authorities contradict state officials on measles-related deaths
+### 7. China’s Xi makes his first visit to Egypt in a decade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Clash with Pennsylvania comes as US records highest number of measles cases in decades.
+Chinese President Xi Jinping arrived in Cairo and was greeted by Egyptian President Abdel Fattah el-Sisi.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss)
 
 ---
 
-### 8. The US military began striking targets in Iran, CENTCOM says
+### 8. Israel’s multiple wars see finance, defence ministries clash over spending
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US military said it has begun striking targets in Iran.
+Spiraling costs of Israel&#039;s conflicts deepen rift between finance and defense ministries ahead of budget decisions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss)
 
 ---
 
-### 9. John Ternus succeeds Tim Cook as Apple CEO after 15 years
+### 9. Hakainde Hichilema returns as Zambia’s president following disputed vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Apple gears up for innovation under Ternus before a new product launch event that could include foldable phones.
+Incumbent is inaugurated with his main rival in last month&#039;s election jailed and the courts shuttered.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss)
 
 ---
 

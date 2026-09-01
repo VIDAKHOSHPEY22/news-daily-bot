@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T23:29:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What's the Scam?",
+            "description": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html\">https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49526244\">https://news.ycombinator.com/item?id=49526244</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+            "url": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
+            "published": "Tue, 01 Sep 2026 18:46:59 +0000",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/zitron/\">https://danluu.com/zitron/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49526069\">https://news.ycombinator.com/item?id=49526069</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+            "url": "https://danluu.com/zitron/",
+            "published": "Tue, 01 Sep 2026 18:35:15 +0000",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There Is No AI",
+            "description": "<p>Article URL: <a href=\"https://wadler.blogspot.com/2026/08/there-is-no-ai.html\">https://wadler.blogspot.com/2026/08/there-is-no-ai.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49525791\">https://news.ycombinator.com/item?id=49525791</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
+            "published": "Tue, 01 Sep 2026 18:18:54 +0000",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham promises more devolution and public control of essential services",
+            "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 19:18:30 GMT",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+            "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 16:36:42 GMT",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Keir Starmer announces he is standing down as MP",
+            "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 17:04:29 GMT",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s Xi makes his first visit to Egypt in a decade",
+            "description": "Chinese President Xi Jinping arrived in Cairo and was greeted by Egyptian President Abdel Fattah el-Sisi.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/chinas-xi-makes-his-first-visit-to-egypt-in-a-decade?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 19:38:37 +0000",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s multiple wars see finance, defence ministries clash over spending",
+            "description": "Spiraling costs of Israel&#039;s conflicts deepen rift between finance and defense ministries ahead of budget decisions.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 19:33:22 +0000",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hakainde Hichilema returns as Zambia’s president following disputed vote",
+            "description": "Incumbent is inaugurated with his main rival in last month&#039;s election jailed and the courts shuttered.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/hakainde-hichilema-returns-as-zambias-president-following-disputed-vote?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 19:18:29 +0000",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-01T23:29:14+03:30"
+        }
+    ]
+}
