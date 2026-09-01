@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T15:19:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lake Ontario (\"Lake America\")",
+            "description": "<p>Article URL: <a href=\"https://community.openstreetmap.org/t/lake-ontario-lake-america/146975\">https://community.openstreetmap.org/t/lake-ontario-lake-america/146975</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49520270\">https://news.ycombinator.com/item?id=49520270</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+            "url": "https://community.openstreetmap.org/t/lake-ontario-lake-america/146975",
+            "published": "Tue, 01 Sep 2026 10:56:03 +0000",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+            "description": "<p>Article URL: <a href=\"https://github.com/ankidroid/Anki-Android/issues/21656\">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49520022\">https://news.ycombinator.com/item?id=49520022</a></p>\n<p>Points: 178</p>\n<p># Comments: 23</p>",
+            "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+            "published": "Tue, 01 Sep 2026 10:11:02 +0000",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "44% on ARC-AGI-1 in 67 cents",
+            "description": "<p>Article URL: <a href=\"https://mvakde.github.io/blog/44-on-arc-1/\">https://mvakde.github.io/blog/44-on-arc-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49519939\">https://news.ycombinator.com/item?id=49519939</a></p>\n<p>Points: 79</p>\n<p># Comments: 28</p>",
+            "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+            "published": "Tue, 01 Sep 2026 09:52:45 +0000",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Keir Starmer announces he is standing down as MP",
+            "description": "The former prime minister said he would now turn his focus to international affairs.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 11:34:07 GMT",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Laundry rooms to be turned into cells to tackle prison overcrowding",
+            "description": "The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 11:17:40 GMT",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+            "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
+            "description": "Many Iranians in the diaspora remain caught in the paradox of opposing  the war and the government in Tehran.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 10:27:40 +0000",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Transfer deadline day live: Premier League, La Liga news and done deals",
+            "description": "Live updates and news on all signings for Man United, Arsenal, Man City, Liverpool, Barcelona, Real Madrid and others.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 09:59:55 +0000",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli attacks on Gaza kill at least four, including children",
+            "description": "At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 09:48:07 +0000",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-01T15:19:36+03:30"
+        }
+    ]
+}

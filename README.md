@@ -1,86 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 13:25:02
+**Last Update:** 2026-09-01 15:19:36
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. CollectWise (YC F24) Is Hiring
+### 1. Lake Ontario ("Lake America")
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer">https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518877">https://news.ycombinator.com/item?id=49518877</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://community.openstreetmap.org/t/lake-ontario-lake-america/146975">https://community.openstreetmap.org/t/lake-ontario-lake-america/146975</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520270">https://news.ycombinator.com/item?id=49520270</a></p>
+<p>Points: 17</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
+🔗 **Read more:** [https://community.openstreetmap.org/t/lake-ontario-lake-america/146975](https://community.openstreetmap.org/t/lake-ontario-lake-america/146975)
 
 ---
 
-### 2. Restroom Archive
+### 2. AnkiDroid: Google Play no longer allowing Open Collective donation link
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://restroomarchive.com">https://restroomarchive.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517624">https://news.ycombinator.com/item?id=49517624</a></p>
-<p>Points: 123</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://github.com/ankidroid/Anki-Android/issues/21656">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520022">https://news.ycombinator.com/item?id=49520022</a></p>
+<p>Points: 178</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://restroomarchive.com](https://restroomarchive.com)
+🔗 **Read more:** [https://github.com/ankidroid/Anki-Android/issues/21656](https://github.com/ankidroid/Anki-Android/issues/21656)
 
 ---
 
-### 3. GPU World
+### 3. 44% on ARC-AGI-1 in 67 cents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.gpuworld.org/">https://www.gpuworld.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517584">https://news.ycombinator.com/item?id=49517584</a></p>
-<p>Points: 229</p>
-<p># Comments: 115</p>
+<p>Article URL: <a href="https://mvakde.github.io/blog/44-on-arc-1/">https://mvakde.github.io/blog/44-on-arc-1/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49519939">https://news.ycombinator.com/item?id=49519939</a></p>
+<p>Points: 79</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.gpuworld.org/](https://www.gpuworld.org/)
+🔗 **Read more:** [https://mvakde.github.io/blog/44-on-arc-1/](https://mvakde.github.io/blog/44-on-arc-1/)
 
 ---
 
-### 4. Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels
+### 4. Keir Starmer announces he is standing down as MP
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.
+The former prime minister said he would now turn his focus to international affairs.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Man charged with murder of woman and girl after fatal Teesside house fire
+### 5. Laundry rooms to be turned into cells to tackle prison overcrowding
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.
+The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ As of August, the number forced to return this year from Pakistan and Iran had r
 
 ---
 
-### 7. Football power struggle caused FIFA World Cup plan fallout, says Kushner
+### 7. Abroad and at odds: How the war has divided Iranians in the diaspora
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Investor Joshua Kushner blames football&#039;s &#039;political dynamics&#039; for FIFA&#039;s leadership crisis involving Gianni Infantino.
+Many Iranians in the diaspora remain caught in the paradox of opposing  the war and the government in Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/football-power-struggle-caused-fifa-world-cup-plan-fallout-says-kushner?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/football-power-struggle-caused-fifa-world-cup-plan-fallout-says-kushner?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss)
 
 ---
 
-### 8. Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv
+### 8. Transfer deadline day live: Premier League, La Liga news and done deals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian attacks escalate as EU defence ministers meet in Ireland to discuss Ukraine air defence shortages.
+Live updates and news on all signings for Man United, Arsenal, Man City, Liverpool, Barcelona, Real Madrid and others.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss)
 
 ---
 
-### 9. Heavy monsoon rains submerge Islamabad roads and underground
+### 9. Israeli attacks on Gaza kill at least four, including children
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy monsoon rains have submerged roads and flooded houses in Pakistan’s capital, Islamabad, and Rawalpandi.
+At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss)
 
 ---
 
