@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T08:22:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Restroom Archive",
+            "description": "<p>Article URL: <a href=\"https://restroomarchive.com\">https://restroomarchive.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517624\">https://news.ycombinator.com/item?id=49517624</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+            "url": "https://restroomarchive.com",
+            "published": "Tue, 01 Sep 2026 03:23:48 +0000",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+            "description": "<p>Article URL: <a href=\"https://antigravity.google/docs/boost/\">https://antigravity.google/docs/boost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517537\">https://news.ycombinator.com/item?id=49517537</a></p>\n<p>Points: 45</p>\n<p># Comments: 22</p>",
+            "url": "https://antigravity.google/docs/boost/",
+            "published": "Tue, 01 Sep 2026 03:05:55 +0000",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fastpotify",
+            "description": "<p>Article URL: <a href=\"https://fastpotify.rocks/\">https://fastpotify.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517448\">https://news.ycombinator.com/item?id=49517448</a></p>\n<p>Points: 74</p>\n<p># Comments: 21</p>",
+            "url": "https://fastpotify.rocks/",
+            "published": "Tue, 01 Sep 2026 02:52:14 +0000",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man charged after fire in which woman and girl died",
+            "description": "A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 04:21:49 GMT",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
+            "description": "The verdict ends decades of mystery as to who was behind the rapper's death.",
+            "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 04:20:17 GMT",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to face Parliament as prime minister for first time",
+            "description": "This may well be the point when his honeymoon period as PM ends and the hard work begins, Damian Grammaticas writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c99dyjk7mpyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 02:36:29 GMT",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "John Ternus to lead Apple into the age of AI",
+            "description": "Incoming CEO inherits company that leads the smartphone market but trails rivals in AI.",
+            "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 03:20:25 +0000",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+            "description": "Anton Siluanov holds talks with US counterpart as European officials object to Russia&#039;s return to G20 talks.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 02:23:03 +0000",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Toxic haze from Indonesian fires chokes Malaysian Borneo",
+            "description": "Respiratory illnesses surge as smoke settles over Malaysia&#039;s Sarawak in the region&#039;s worst haze crisis in a decade.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 02:06:01 +0000",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-01T08:22:12+03:30"
+        }
+    ]
+}
