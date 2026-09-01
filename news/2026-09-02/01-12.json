@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T01:12:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+            "description": "<p>Hi!<p>Every month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\".<p>So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs.<p>If you've submitted a post to this month's 'Who Wants to Be Hired?\", you can find your matching job listings at <a href=\"https://hnmatchmaker.com/user/:user_name\" rel=\"nofollow\">https://hnmatchmaker.com/user/:user_name</a>, for example <a href=\"https://hnmatchmaker.com/user/G4Vi\" rel=\"nofollow\">https://hnmatchmaker.com/user/G4Vi</a><p>---<p>Some observations when looking at the matches pair up right now:<p>Poke around, let me know what you think!<p>Ultimately, I hope this is actually helpful to some folks.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49528057\">https://news.ycombinator.com/item?id=49528057</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://hnmatchmaker.com/",
+            "published": "Tue, 01 Sep 2026 20:53:35 +0000",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dyson CameraJet electric toothbrush",
+            "description": "<p>Article URL: <a href=\"https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue\">https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527879\">https://news.ycombinator.com/item?id=49527879</a></p>\n<p>Points: 63</p>\n<p># Comments: 71</p>",
+            "url": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
+            "published": "Tue, 01 Sep 2026 20:39:19 +0000",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Path to Astra: critical capabilities and frontier safeguards",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/path-to-astra/\">https://openai.com/index/path-to-astra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49527595\">https://news.ycombinator.com/item?id=49527595</a></p>\n<p>Points: 28</p>\n<p># Comments: 3</p>",
+            "url": "https://openai.com/index/path-to-astra/",
+            "published": "Tue, 01 Sep 2026 20:20:41 +0000",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham promises more devolution and public control of essential services",
+            "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 20:52:15 GMT",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+            "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 16:36:42 GMT",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Keir Starmer announces he is standing down as MP",
+            "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 17:04:29 GMT",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+            "description": "The IAEA said lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 21:28:00 +0000",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+            "description": "President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 21:03:45 +0000",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly car bomb attack at Colombia police station",
+            "description": "Deadly car bomb attack at Colombia police station",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 21:01:10 +0000",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T01:12:12+03:30"
+        }
+    ]
+}
