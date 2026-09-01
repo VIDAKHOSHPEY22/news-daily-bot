@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T03:27:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What's within a 10-minute walk in 50 European cities",
+            "description": "<p>Article URL: <a href=\"https://strado.info/\">https://strado.info/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529292\">https://news.ycombinator.com/item?id=49529292</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://strado.info/",
+            "published": "Tue, 01 Sep 2026 22:45:54 +0000",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My local model setup on an M4 Pro Mac Mini",
+            "description": "<p>Article URL: <a href=\"https://lws.io/blog/my-local-model-setup/\">https://lws.io/blog/my-local-model-setup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529132\">https://news.ycombinator.com/item?id=49529132</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+            "url": "https://lws.io/blog/my-local-model-setup/",
+            "published": "Tue, 01 Sep 2026 22:30:52 +0000",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+            "description": "<p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href=\"https://github.com/masteranza/weedout-for-youtube\" rel=\"nofollow\">https://github.com/masteranza/weedout-for-youtube</a><p>Pull requests are not accepted; the repository is for independent forks.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49528895\">https://news.ycombinator.com/item?id=49528895</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
+            "url": "https://masteranza.github.io/weedout/",
+            "published": "Tue, 01 Sep 2026 22:06:57 +0000",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham promises more devolution and public control of essential services",
+            "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 21:48:44 GMT",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+            "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 16:36:42 GMT",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rising numbers of children in mental health crisis ending up in A&E",
+            "description": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
+            "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 23:38:20 GMT",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fernandez transfers to Man City from Chelsea in joint British record fee",
+            "description": "Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).",
+            "url": "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 23:00:30 +0000",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
+            "description": "Cisco employees allege harassment after internal activism against technology sales to the Israeli military.",
+            "url": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 22:54:04 +0000",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US House passes funding bill to avert government shutdown ahead of midterms",
+            "description": "The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 22:44:28 +0000",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T03:27:55+03:30"
+        }
+    ]
+}

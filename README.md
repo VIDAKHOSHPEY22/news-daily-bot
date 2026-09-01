@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 02:09:33
+**Last Update:** 2026-09-02 03:27:55
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
+### 1. What's within a 10-minute walk in 50 European cities
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://strado.info/">https://strado.info/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529292">https://news.ycombinator.com/item?id=49529292</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://strado.info/](https://strado.info/)
+
+---
+
+### 2. My local model setup on an M4 Pro Mac Mini
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lws.io/blog/my-local-model-setup/">https://lws.io/blog/my-local-model-setup/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529132">https://news.ycombinator.com/item?id=49529132</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://lws.io/blog/my-local-model-setup/](https://lws.io/blog/my-local-model-setup/)
+
+---
+
+### 3. Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
 
 **Source:** Hacker News
 
@@ -20,43 +52,10 @@
 <p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href="https://github.com/masteranza/weedout-for-youtube" rel="nofollow">https://github.com/masteranza/weedout-for-youtube</a><p>Pull requests are not accepted; the repository is for independent forks.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49528895">https://news.ycombinator.com/item?id=49528895</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://masteranza.github.io/weedout/](https://masteranza.github.io/weedout/)
-
----
-
-### 2. Fluorescent lamps (don't) have ears
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears">https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49528366">https://news.ycombinator.com/item?id=49528366</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears)
-
----
-
-### 3. Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hi!<p>Every month the "Who Wants to Be Hired?" and "Who's Hiring?" Threads come through I would think to myself, "there should be a match maker for these two threads".<p>So I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs.<p>If you've submitted a post to this month's 'Who Wants to Be Hired?", you can find your matching job listings at <a href="https://hnmatchmaker.com/user/:user_name" rel="nofollow">https://hnmatchmaker.com/user/:user_name</a>, for example <a href="https://hnmatchmaker.com/user/G4Vi" rel="nofollow">https://hnmatchmaker.com/user/G4Vi</a><p>---<p>Some observations when looking at the matches pair up right now:<p>Poke around, let me know what you think!<p>Ultimately, I hope this is actually helpful to some folks.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49528057">https://news.ycombinator.com/item?id=49528057</a></p>
-<p>Points: 13</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://hnmatchmaker.com/](https://hnmatchmaker.com/)
 
 ---
 
@@ -86,55 +85,55 @@ Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his fi
 
 ---
 
-### 6. Keir Starmer announces he is standing down as MP
+### 6. Rising numbers of children in mental health crisis ending up in A&E
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The move will trigger a by-election to replace the former prime minister in his London constituency.
+NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US urges G20 to cut trade imbalances, focus on China
+### 7. Fernandez transfers to Man City from Chelsea in joint British record fee
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Treasury Secretary Bessent urges other G20 countries to do more to protect their economies from Chinese imports.
+Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss)
 
 ---
 
-### 8. US energy secretary will travel to Venezuela to unveil oil arrangement
+### 8. Cisco accused of fostering a hostile workplace for Muslim and Arab employees
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Venezuela&#039;s National Assembly voted to back the 65-billion-barrel oil deal, despite no details being publicly released.
+Cisco employees allege harassment after internal activism against technology sales to the Israeli military.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss)
 
 ---
 
-### 9. Urgent need for access to Iranian sites, cautions UN nuclear watchdog
+### 9. US House passes funding bill to avert government shutdown ahead of midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The IAEA said lack of information and access to facilities to verify Iran&#039;s nuclear material is a proliferation concern.
+The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss)
 
 ---
 
