@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 15:19:36
+**Last Update:** 2026-09-01 18:12:58
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lake Ontario ("Lake America")
+### 1. Saab Enters Collaborative Combat Aircraft Race with High-End Concept
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://community.openstreetmap.org/t/lake-ontario-lake-america/146975">https://community.openstreetmap.org/t/lake-ontario-lake-america/146975</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520270">https://news.ycombinator.com/item?id=49520270</a></p>
-<p>Points: 17</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept">https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49522374">https://news.ycombinator.com/item?id=49522374</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://community.openstreetmap.org/t/lake-ontario-lake-america/146975](https://community.openstreetmap.org/t/lake-ontario-lake-america/146975)
+🔗 **Read more:** [https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept)
 
 ---
 
-### 2. AnkiDroid: Google Play no longer allowing Open Collective donation link
+### 2. Io_uring Without Readahead
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ankidroid/Anki-Android/issues/21656">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49520022">https://news.ycombinator.com/item?id=49520022</a></p>
-<p>Points: 178</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://frn.sh/io-uring/">https://frn.sh/io-uring/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49521623">https://news.ycombinator.com/item?id=49521623</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/ankidroid/Anki-Android/issues/21656](https://github.com/ankidroid/Anki-Android/issues/21656)
+🔗 **Read more:** [https://frn.sh/io-uring/](https://frn.sh/io-uring/)
 
 ---
 
-### 3. 44% on ARC-AGI-1 in 67 cents
+### 3. EFF to Courts: Don't Rewrite Copyright over AI Hype
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mvakde.github.io/blog/44-on-arc-1/">https://mvakde.github.io/blog/44-on-arc-1/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49519939">https://news.ycombinator.com/item?id=49519939</a></p>
-<p>Points: 79</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype">https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49521315">https://news.ycombinator.com/item?id=49521315</a></p>
+<p>Points: 92</p>
+<p># Comments: 83</p>
 
-🔗 **Read more:** [https://mvakde.github.io/blog/44-on-arc-1/](https://mvakde.github.io/blog/44-on-arc-1/)
+🔗 **Read more:** [https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
 
 ---
 
@@ -65,22 +65,22 @@
 **Category:** world
 
 **Description:**
-The former prime minister said he would now turn his focus to international affairs.
+The move will trigger a by-election to replace the former prime minister in his London constituency.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Laundry rooms to be turned into cells to tackle prison overcrowding
+### 5. Summer 2026 was UK's hottest on record, Met Office says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.
+Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ As of August, the number forced to return this year from Pakistan and Iran had r
 
 ---
 
-### 7. Abroad and at odds: How the war has divided Iranians in the diaspora
+### 7. Football Fandom: Who owns your loyalty?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Many Iranians in the diaspora remain caught in the paradox of opposing  the war and the government in Tehran.
+How is money changing football?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/doha-debates/2026/9/1/football-fandom-who-owns-your-loyalty?traffic_source=rss](https://www.aljazeera.com/video/doha-debates/2026/9/1/football-fandom-who-owns-your-loyalty?traffic_source=rss)
 
 ---
 
-### 8. Transfer deadline day live: Premier League, La Liga news and done deals
+### 8. Barcelona sign Gabriel Jesus from Arsenal for a reported $11.6m
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Live updates and news on all signings for Man United, Arsenal, Man City, Liverpool, Barcelona, Real Madrid and others.
+Brazil&#039;s Gabriel Jesus transfers from Premier League champions Arsenal to La Liga holders Barcelona on deadline day.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/1/transfer-deadline-day-2026-live-updates-barcola-alvarez-gakpo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal-for-a-reported-11-5m?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal-for-a-reported-11-5m?traffic_source=rss)
 
 ---
 
-### 9. Israeli attacks on Gaza kill at least four, including children
+### 9. Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.
+The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss)
 
 ---
 

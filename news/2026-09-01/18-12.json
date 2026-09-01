@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T18:12:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+            "description": "<p>Article URL: <a href=\"https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept\">https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49522374\">https://news.ycombinator.com/item?id=49522374</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+            "published": "Tue, 01 Sep 2026 14:19:30 +0000",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Io_uring Without Readahead",
+            "description": "<p>Article URL: <a href=\"https://frn.sh/io-uring/\">https://frn.sh/io-uring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521623\">https://news.ycombinator.com/item?id=49521623</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://frn.sh/io-uring/",
+            "published": "Tue, 01 Sep 2026 13:19:12 +0000",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+            "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype\">https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521315\">https://news.ycombinator.com/item?id=49521315</a></p>\n<p>Points: 92</p>\n<p># Comments: 83</p>",
+            "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+            "published": "Tue, 01 Sep 2026 12:53:51 +0000",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Keir Starmer announces he is standing down as MP",
+            "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 14:31:51 GMT",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Summer 2026 was UK's hottest on record, Met Office says",
+            "description": "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
+            "url": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 12:18:55 GMT",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+            "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Football Fandom: Who owns your loyalty?",
+            "description": "How is money changing football?",
+            "url": "https://www.aljazeera.com/video/doha-debates/2026/9/1/football-fandom-who-owns-your-loyalty?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 14:39:07 +0000",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Barcelona sign Gabriel Jesus from Arsenal for a reported $11.6m",
+            "description": "Brazil&#039;s Gabriel Jesus transfers from Premier League champions Arsenal to La Liga holders Barcelona on deadline day.",
+            "url": "https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal-for-a-reported-11-5m?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 14:23:22 +0000",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Alejandro Betancourt, ex-Chavez ally now Trump’s Venezuela oil man?",
+            "description": "The controversial tycoon will lead the joint oil venture as the Trump administration seeks to reshape energy markets.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/who-is-alejandro-betancourt-ex-chavez-ally-now-trumps-venezuela-oil-man?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 14:17:47 +0000",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-01T18:12:58+03:30"
+        }
+    ]
+}
