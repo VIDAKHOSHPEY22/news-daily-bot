@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-01T13:25:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CollectWise (YC F24) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer\">https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49518877\">https://news.ycombinator.com/item?id=49518877</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+            "published": "Tue, 01 Sep 2026 07:01:49 +0000",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Restroom Archive",
+            "description": "<p>Article URL: <a href=\"https://restroomarchive.com\">https://restroomarchive.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517624\">https://news.ycombinator.com/item?id=49517624</a></p>\n<p>Points: 123</p>\n<p># Comments: 36</p>",
+            "url": "https://restroomarchive.com",
+            "published": "Tue, 01 Sep 2026 03:23:48 +0000",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPU World",
+            "description": "<p>Article URL: <a href=\"https://www.gpuworld.org/\">https://www.gpuworld.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517584\">https://news.ycombinator.com/item?id=49517584</a></p>\n<p>Points: 229</p>\n<p># Comments: 115</p>",
+            "url": "https://www.gpuworld.org/",
+            "published": "Tue, 01 Sep 2026 03:16:36 +0000",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+            "description": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 07:37:24 GMT",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man charged with murder of woman and girl after fatal Teesside house fire",
+            "description": "A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 04:21:49 GMT",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+            "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 05:00:34 GMT",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Football power struggle caused FIFA World Cup plan fallout, says Kushner",
+            "description": "Investor Joshua Kushner blames football&#039;s &#039;political dynamics&#039; for FIFA&#039;s leadership crisis involving Gianni Infantino.",
+            "url": "https://www.aljazeera.com/sports/2026/9/1/football-power-struggle-caused-fifa-world-cup-plan-fallout-says-kushner?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 09:19:20 +0000",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+            "description": "Russian attacks escalate as EU defence ministers meet in Ireland to discuss Ukraine air defence shortages.",
+            "url": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 08:57:48 +0000",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Heavy monsoon rains submerge Islamabad roads and underground",
+            "description": "Heavy monsoon rains have submerged roads and flooded houses in Pakistan’s capital, Islamabad, and Rawalpandi.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss",
+            "published": "Tue, 01 Sep 2026 08:56:34 +0000",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-01T13:25:02+03:30"
+        }
+    ]
+}

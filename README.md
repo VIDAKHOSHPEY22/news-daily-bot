@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-01 09:48:39
+**Last Update:** 2026-09-01 13:25:02
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Can Make You Suck Faster Too
+### 1. CollectWise (YC F24) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518316">https://news.ycombinator.com/item?id=49518316</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer">https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518877">https://news.ycombinator.com/item?id=49518877</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too)
+🔗 **Read more:** [https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer)
 
 ---
 
-### 2. Vermell – Minimal, dependency-free C++ web framework using epoll
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/vermellcc/vermell">https://github.com/vermellcc/vermell</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49518121">https://news.ycombinator.com/item?id=49518121</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://github.com/vermellcc/vermell](https://github.com/vermellcc/vermell)
-
----
-
-### 3. Restroom Archive
+### 2. Restroom Archive
 
 **Source:** Hacker News
 
@@ -51,14 +35,43 @@
 **Description:**
 <p>Article URL: <a href="https://restroomarchive.com">https://restroomarchive.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517624">https://news.ycombinator.com/item?id=49517624</a></p>
-<p>Points: 66</p>
-<p># Comments: 6</p>
+<p>Points: 123</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://restroomarchive.com](https://restroomarchive.com)
 
 ---
 
-### 4. Man charged after woman and her niece died in fire
+### 3. GPU World
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.gpuworld.org/">https://www.gpuworld.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49517584">https://news.ycombinator.com/item?id=49517584</a></p>
+<p>Points: 229</p>
+<p># Comments: 115</p>
+
+🔗 **Read more:** [https://www.gpuworld.org/](https://www.gpuworld.org/)
+
+---
+
+### 4. Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Man charged with murder of woman and girl after fatal Teesside house fire
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Duane "Keffe D" Davis's conviction ends decades of mystery as to who was behind the rapper's death.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ As of August, the number forced to return this year from Pakistan and Iran had r
 
 ---
 
-### 7. Israeli forces raze West Bank homes as EU weighs ban on settlement goods
+### 7. Football power struggle caused FIFA World Cup plan fallout, says Kushner
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.
+Investor Joshua Kushner blames football&#039;s &#039;political dynamics&#039; for FIFA&#039;s leadership crisis involving Gianni Infantino.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/football-power-struggle-caused-fifa-world-cup-plan-fallout-says-kushner?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/football-power-struggle-caused-fifa-world-cup-plan-fallout-says-kushner?traffic_source=rss)
 
 ---
 
-### 8. Can Europe fill vacuum left in Lebanon as UN peacekeeping force winds up?
+### 8. Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say Israel could benefit when UNIFIL&#039;s mandate expires on December 31.
+Russian attacks escalate as EU defence ministers meet in Ireland to discuss Ukraine air defence shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/can-europe-fill-vacuum-left-in-lebanon-as-un-peacekeeping-force-winds-up?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv?traffic_source=rss)
 
 ---
 
-### 9. Former gang leader found guilty of Tupac Shakur’s 1996 murder
+### 9. Heavy monsoon rains submerge Islamabad roads and underground
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Las Vegas jury has found former gang leader Duane ‘Keffe D’ Davis guilty of Tupac Shakur’s 1996 murder.
+Heavy monsoon rains have submerged roads and flooded houses in Pakistan’s capital, Islamabad, and Rawalpandi.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/1/heavy-monsoon-rains-submerge-islamabad-roads-and-underground?traffic_source=rss)
 
 ---
 
