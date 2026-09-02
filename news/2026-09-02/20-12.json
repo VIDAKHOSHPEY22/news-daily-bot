@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T20:12:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+            "description": "<p>Article URL: <a href=\"https://frontierharness.org\">https://frontierharness.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538490\">https://news.ycombinator.com/item?id=49538490</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://frontierharness.org",
+            "published": "Wed, 02 Sep 2026 16:14:52 +0000",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Saving money on Google Photos with Immich: Your own personal photo storage",
+            "description": "<p>Article URL: <a href=\"https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/\">https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538375\">https://news.ycombinator.com/item?id=49538375</a></p>\n<p>Points: 21</p>\n<p># Comments: 13</p>",
+            "url": "https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/",
+            "published": "Wed, 02 Sep 2026 16:07:18 +0000",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+            "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49538007\">https://news.ycombinator.com/item?id=49538007</a></p>\n<p>Points: 51</p>\n<p># Comments: 9</p>",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+            "published": "Wed, 02 Sep 2026 15:44:06 +0000",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
+            "description": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 14:26:39 GMT",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
+            "description": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
+            "url": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 14:52:48 GMT",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What we know about reported strike on Iran wedding celebrations",
+            "description": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
+            "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 10:33:47 GMT",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "George Clooney: US government run by ‘least qualified people’",
+            "description": "US actor George Clooney has described US President Donald Trump’s administration as a ‘kakistocracy’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/george-clooney-us-government-run-by-least-qualified-people?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 16:25:28 +0000",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "WHO chief warns Ebola response must ramp up to stem DRC outbreak",
+            "description": "Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 16:18:45 +0000",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules",
+            "description": "Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 15:53:33 +0000",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-02T20:12:10+03:30"
+        }
+    ]
+}

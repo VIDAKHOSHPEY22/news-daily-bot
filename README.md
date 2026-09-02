@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 17:48:27
+**Last Update:** 2026-09-02 20:12:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. GrapheneOS says Pixel 11 has MTE support after all
+### 1. Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117194007157499435">https://grapheneos.social/@GrapheneOS/117194007157499435</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536384">https://news.ycombinator.com/item?id=49536384</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://frontierharness.org">https://frontierharness.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538490">https://news.ycombinator.com/item?id=49538490</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117194007157499435](https://grapheneos.social/@GrapheneOS/117194007157499435)
+🔗 **Read more:** [https://frontierharness.org](https://frontierharness.org)
 
 ---
 
-### 2. Three sites made 215,128 "best software" pages for AI. Perplexity cites them
+### 2. Saving money on Google Photos with Immich: Your own personal photo storage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/">https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536375">https://news.ycombinator.com/item?id=49536375</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/">https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538375">https://news.ycombinator.com/item?id=49538375</a></p>
+<p>Points: 21</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+🔗 **Read more:** [https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/](https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/)
 
 ---
 
-### 3. Dyson CameraJet: The only toothbrush with a camera and a jet
+### 3. Gemini 3.8 Flash and 3.8 Flash Cyber
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.dyson.com/discover/news/latest/introducing-camerajet">https://www.dyson.com/discover/news/latest/introducing-camerajet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536180">https://news.ycombinator.com/item?id=49536180</a></p>
-<p>Points: 4</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49538007">https://news.ycombinator.com/item?id=49538007</a></p>
+<p>Points: 51</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.dyson.com/discover/news/latest/introducing-camerajet](https://www.dyson.com/discover/news/latest/introducing-camerajet)
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
 
 ---
 
@@ -84,94 +84,94 @@ The Reform UK leader said a "whole ecosystem" didn't want "new kids on the block
 
 ---
 
-### 6. Four in court over murder of baby stabbed to death
+### 6. Watch: What we know about reported strike on Iran wedding celebrations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Four people, aged between 19 and 38, appear in court charged with murdering the newborn.
+BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Summer transfers 2026: All to know as Premier League signings break records
+### 7. George Clooney: US government run by ‘least qualified people’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.
+US actor George Clooney has described US President Donald Trump’s administration as a ‘kakistocracy’.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/george-clooney-us-government-run-by-least-qualified-people?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/george-clooney-us-government-run-by-least-qualified-people?traffic_source=rss)
 
 ---
 
-### 8. Argentina serves up a Messi-shaped schnitzel as fans say goodbye
+### 8. WHO chief warns Ebola response must ramp up to stem DRC outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Messi-shaped schnitzel is on the menu in Buenos Aires, as fans across Argentina pay tribute.
+Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/argentina-serves-up-a-messi-shaped-schnitzel-as-fans-say-goodbye?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/argentina-serves-up-a-messi-shaped-schnitzel-as-fans-say-goodbye?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss)
 
 ---
 
-### 9. Tiger Woods pleads guilty to reckless driving, forfeits driving licence
+### 9. Dismissal of ex-US soldier Bergdahl’s conviction was invalid, court rules
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Golfer&#039;s driving licence will be suspended for five years under the terms of a plea agreement that dropped DUI charges.
+Appeals panel says only military tribunals may assess court-martial convictions in blow to former Afghan war prisoner.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/dismissal-of-ex-us-soldier-bergdahls-conviction-was-invalid-court-rules?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Ruggs, Morrow, Oregon
+### 10. Tropical Storm Marie
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800)
 
 ---
 
-### 11. Wildfire Harris, Throckmorton, Texas
+### 11. Tropical Storm Edouard
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739)
 
 ---
 
-### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 12. Tropical Storm Krovanh
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738)
 
 ---
 
