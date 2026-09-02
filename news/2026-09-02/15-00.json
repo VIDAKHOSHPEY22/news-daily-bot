@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T15:00:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sweden pauses Denmark power cable over EU grid rules",
+            "description": "<p>Article URL: <a href=\"https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/\">https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49533809\">https://news.ycombinator.com/item?id=49533809</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/",
+            "published": "Wed, 02 Sep 2026 09:20:34 +0000",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+            "description": "<p>Article URL: <a href=\"https://careers.telli.com/\">https://careers.telli.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49533557\">https://news.ycombinator.com/item?id=49533557</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://careers.telli.com/",
+            "published": "Wed, 02 Sep 2026 08:43:49 +0000",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Commodore 64 released September 1, 1982",
+            "description": "<p>Article URL: <a href=\"https://dfarq.homeip.net/commodore-64-released-september-1-1982/\">https://dfarq.homeip.net/commodore-64-released-september-1-1982/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49533497\">https://news.ycombinator.com/item?id=49533497</a></p>\n<p>Points: 98</p>\n<p># Comments: 23</p>",
+            "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+            "published": "Wed, 02 Sep 2026 08:36:43 +0000",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four charged with murder after baby stabbed to death",
+            "description": "Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.",
+            "url": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 09:30:10 GMT",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What we know about reported strike on Iran wedding celebrations",
+            "description": "BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.",
+            "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 10:33:47 GMT",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC gains rare access to occupied Lebanon as officials say Israel expanding positions",
+            "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
+            "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 05:03:09 GMT",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigerian anticorruption agency sacks 40 staff over misconduct allegations",
+            "description": "Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 11:00:57 +0000",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
+            "description": "A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 10:57:16 +0000",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Messi retirement and FIFA ban leave Paredes uncertain of Argentina future",
+            "description": "Leandro ‌Paredes&#039;s 10-match ban, alongside Lionel Messi&#039;s Argentina retirement, leave former to ponder future.",
+            "url": "https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 10:56:05 +0000",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T15:00:20+03:30"
+        }
+    ]
+}

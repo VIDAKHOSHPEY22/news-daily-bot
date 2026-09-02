@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 12:56:41
+**Last Update:** 2026-09-02 15:00:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
+### 1. Sweden pauses Denmark power cable over EU grid rules
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/">https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533809">https://news.ycombinator.com/item?id=49533809</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/](https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/)
+
+---
+
+### 2. Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
 
 **Source:** Hacker News
 
@@ -26,65 +42,23 @@
 
 ---
 
-### 2. The Emergent Symbolic Structure of Artificial Neural Networks
+### 3. Commodore 64 released September 1, 1982
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2608.29530">https://arxiv.org/abs/2608.29530</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531651">https://news.ycombinator.com/item?id=49531651</a></p>
-<p>Points: 130</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/">https://dfarq.homeip.net/commodore-64-released-september-1-1982/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533497">https://news.ycombinator.com/item?id=49533497</a></p>
+<p>Points: 98</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2608.29530](https://arxiv.org/abs/2608.29530)
-
----
-
-### 3. WebFPGA
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://webfpga.io/">https://webfpga.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531525">https://news.ycombinator.com/item?id=49531525</a></p>
-<p>Points: 68</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://webfpga.io/](https://webfpga.io/)
+🔗 **Read more:** [https://dfarq.homeip.net/commodore-64-released-september-1-1982/](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
 
 ---
 
-### 4. Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. BBC travels inside occupied Lebanon as officials say Israel expanding positions
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC's Hugo Bachega joined a UN humanitarian convoy as it travelled along Israeli-occupied southern Lebanon.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Four charged with murder after baby stabbed to death
+### 4. Four charged with murder after baby stabbed to death
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ Police say four people, aged between 19 and 38, are due in court on Wednesday ch
 
 ---
 
-### 7. Iran, US exchange new attacks: Who was hit in latest strikes?
+### 5. Watch: What we know about reported strike on Iran wedding celebrations
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran says the US bombed a wedding near the Strait of Hormuz; hits Kuwait, Bahrain, and Jordan in retaliation.
+BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Alex Eala cruises into US Open second round, top seed Zverev survives
+### 6. BBC gains rare access to occupied Lebanon as officials say Israel expanding positions
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Americans Madison Keys, Coco Gauff and Taylor Fritz powered through to the second round alongside birthday boy Monfils.
+A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Ed Markey wins: Key takeaways from Massachusetts primary election results
+### 7. Nigerian anticorruption agency sacks 40 staff over misconduct allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Markey secures the Democratic nomination as Massachusetts voters back several of the state’s long-serving lawmakers.
+Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss)
+
+---
+
+### 8. What do we know about the fatal US bombing of a wedding in Iran’s Sirik?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss)
+
+---
+
+### 9. Messi retirement and FIFA ban leave Paredes uncertain of Argentina future
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Leandro ‌Paredes&#039;s 10-match ban, alongside Lionel Messi&#039;s Argentina retirement, leave former to ponder future.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss)
 
 ---
 
