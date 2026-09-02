@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 22:02:40
+**Last Update:** 2026-09-02 23:23:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Don't Have a Smartphone
+### 1. The Post-AI Internet Doesn't Look Great
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html">https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49539872">https://news.ycombinator.com/item?id=49539872</a></p>
-<p>Points: 35</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/">https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541331">https://news.ycombinator.com/item?id=49541331</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html](https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html)
+🔗 **Read more:** [https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/](https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/)
 
 ---
 
-### 2. Paint.net 5.2 alpha now runs on Linux
+### 2. Muse Spark 1.3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/">https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49539389">https://news.ycombinator.com/item?id=49539389</a></p>
+<p>Article URL: <a href="https://developer.meta.com/ai/models/muse-spark/">https://developer.meta.com/ai/models/muse-spark/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541256">https://news.ycombinator.com/item?id=49541256</a></p>
 <p>Points: 48</p>
-<p># Comments: 22</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/](https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/)
+🔗 **Read more:** [https://developer.meta.com/ai/models/muse-spark/](https://developer.meta.com/ai/models/muse-spark/)
 
 ---
 
-### 3. How Railroad Crossings Work
+### 3. Introducing Muse Spark 1.3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work">https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49539064">https://news.ycombinator.com/item?id=49539064</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">https://research.meta.ai/blog/introducing-muse-spark-1-3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541149">https://news.ycombinator.com/item?id=49541149</a></p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work](https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work)
+🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-spark-1-3](https://research.meta.ai/blog/introducing-muse-spark-1-3)
 
 ---
 
@@ -71,68 +71,68 @@ Burnham said he had already cut taxes, including VAT on energy bills and hospita
 
 ---
 
-### 5. PMQs shows the challenge Burnham has in delivering new style of politics
+### 5. King hails 'unprecedented' Bayeux Tapestry exhibition in London
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.
+British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Woman charged with juror intimidation in Lindsay Clancy trial
+### 6. What famous scenes are in the epic Bayeux Tapestry?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.
+The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UK’s Burnham faces first parliament grilling, vows to ‘bring back hope’
+### 7. Dreams shattered: Gaza amputees struggle under blockade and rubble
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Newly appointed leader takes first Prime Minister’s Questions, pledges to fulfill defence, social spending goals.
+Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss](https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss)
 
 ---
 
-### 8. EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence
+### 8. Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU ministers in Ireland have announced a mission to support Lebanon’s army but remain divided on sanctions on Israel.
+Regional neighbours condemn attack this week that killed two crew members from the Philippines.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss)
 
 ---
 
-### 9. Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say
+### 9. US says it will use regional body to isolate Nicaragua
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police say no indication anyone ​else involved in attack that killed 22-year-old Italian woman.
+Move comes after Nicaragua&#039;s lawmakers change constitution to ban most political opposition.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss)
 
 ---
 
