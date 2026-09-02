@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T07:49:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "True Rate of Unemployment",
+            "description": "<p>Article URL: <a href=\"https://www.lisep.org/tru\">https://www.lisep.org/tru</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49530989\">https://news.ycombinator.com/item?id=49530989</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://www.lisep.org/tru",
+            "published": "Wed, 02 Sep 2026 02:21:10 +0000",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic banned me for \"suspicious signals\"",
+            "description": "<p>Article URL: <a href=\"https://kix.codes/anthropic-banned-me-for-suspicious-signals/\">https://kix.codes/anthropic-banned-me-for-suspicious-signals/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49530298\">https://news.ycombinator.com/item?id=49530298</a></p>\n<p>Points: 23</p>\n<p># Comments: 12</p>",
+            "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+            "published": "Wed, 02 Sep 2026 00:38:49 +0000",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The efficient frontier of LLM inference",
+            "description": "<p>Article URL: <a href=\"https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49529898\">https://news.ycombinator.com/item?id=49529898</a></p>\n<p>Points: 61</p>\n<p># Comments: 10</p>",
+            "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+            "published": "Tue, 01 Sep 2026 23:48:05 +0000",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+            "description": "Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.",
+            "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 03:19:44 GMT",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+            "description": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+            "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 01:59:10 GMT",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham promises more devolution and public control of essential services",
+            "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 21:48:44 GMT",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US",
+            "description": "The far-right British commentator sat with interviewer Piers Morgan after being detained by US immigration authorities.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 03:32:23 +0000",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US strikes on Iran kill child at wedding ceremony",
+            "description": "Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 03:27:26 +0000",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app",
+            "description": "The change marks the second US-based tech giant to comply with President Donald Trump&#039;s controversial order.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 03:22:41 +0000",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T07:49:02+03:30"
+        }
+    ]
+}

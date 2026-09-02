@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 04:37:53
+**Last Update:** 2026-09-02 07:49:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The efficient frontier of LLM inference
+### 1. True Rate of Unemployment
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lisep.org/tru">https://www.lisep.org/tru</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49530989">https://news.ycombinator.com/item?id=49530989</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.lisep.org/tru](https://www.lisep.org/tru)
+
+---
+
+### 2. Anthropic banned me for "suspicious signals"
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://kix.codes/anthropic-banned-me-for-suspicious-signals/">https://kix.codes/anthropic-banned-me-for-suspicious-signals/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49530298">https://news.ycombinator.com/item?id=49530298</a></p>
+<p>Points: 23</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://kix.codes/anthropic-banned-me-for-suspicious-signals/](https://kix.codes/anthropic-banned-me-for-suspicious-signals/)
+
+---
+
+### 3. The efficient frontier of LLM inference
 
 **Source:** Hacker News
 
@@ -19,46 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529898">https://news.ycombinator.com/item?id=49529898</a></p>
-<p>Points: 17</p>
-<p># Comments: 2</p>
+<p>Points: 61</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
 
 ---
 
-### 2. Improving our alignment and security efforts
+### 4. Iran retaliates after US strikes kill four at wedding party, state media reports
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.anthropic.com/news/improving-alignment-security-efforts">https://www.anthropic.com/news/improving-alignment-security-efforts</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529567">https://news.ycombinator.com/item?id=49529567</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
+Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.
 
-🔗 **Read more:** [https://www.anthropic.com/news/improving-alignment-security-efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. My local model setup on an M4 Pro Mac Mini
+### 5. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://lws.io/blog/my-local-model-setup/">https://lws.io/blog/my-local-model-setup/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529132">https://news.ycombinator.com/item?id=49529132</a></p>
-<p>Points: 44</p>
-<p># Comments: 15</p>
+The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.
 
-🔗 **Read more:** [https://lws.io/blog/my-local-model-setup/](https://lws.io/blog/my-local-model-setup/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Burnham promises more devolution and public control of essential services
+### 6. Burnham promises more devolution and public control of essential services
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Tory leader Kemi Badenoch said Burnham was offering "more government control, mo
 
 ---
 
-### 5. UK long-term borrowing costs highest since 1998 ahead of October Budget
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Iran retaliates after US strikes kills four at wedding party, state media reports
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan
+### 7. ‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.
+The far-right British commentator sat with interviewer Piers Morgan after being detained by US immigration authorities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss)
 
 ---
 
-### 8. Fernandez transfers to Man City from Chelsea in joint British record fee
+### 8. US strikes on Iran kill child at wedding ceremony
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).
+Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss)
 
 ---
 
-### 9. Cisco accused of fostering a hostile workplace for Muslim and Arab employees
+### 9. Apple changes name of Lake Ontario to ‘Lake America’ in maps app
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cisco employees allege harassment after internal activism against technology sales to the Israeli military.
+The change marks the second US-based tech giant to comply with President Donald Trump&#039;s controversial order.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss)
 
 ---
 
