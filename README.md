@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 03:27:55
+**Last Update:** 2026-09-02 04:37:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. What's within a 10-minute walk in 50 European cities
+### 1. The efficient frontier of LLM inference
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://strado.info/">https://strado.info/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529292">https://news.ycombinator.com/item?id=49529292</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529898">https://news.ycombinator.com/item?id=49529898</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://strado.info/](https://strado.info/)
+🔗 **Read more:** [https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
 
 ---
 
-### 2. My local model setup on an M4 Pro Mac Mini
+### 2. Improving our alignment and security efforts
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.anthropic.com/news/improving-alignment-security-efforts">https://www.anthropic.com/news/improving-alignment-security-efforts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529567">https://news.ycombinator.com/item?id=49529567</a></p>
+<p>Points: 10</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.anthropic.com/news/improving-alignment-security-efforts](https://www.anthropic.com/news/improving-alignment-security-efforts)
+
+---
+
+### 3. My local model setup on an M4 Pro Mac Mini
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://lws.io/blog/my-local-model-setup/">https://lws.io/blog/my-local-model-setup/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529132">https://news.ycombinator.com/item?id=49529132</a></p>
-<p>Points: 18</p>
-<p># Comments: 1</p>
+<p>Points: 44</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://lws.io/blog/my-local-model-setup/](https://lws.io/blog/my-local-model-setup/)
-
----
-
-### 3. Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href="https://github.com/masteranza/weedout-for-youtube" rel="nofollow">https://github.com/masteranza/weedout-for-youtube</a><p>Pull requests are not accepted; the repository is for independent forks.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49528895">https://news.ycombinator.com/item?id=49528895</a></p>
-<p>Points: 31</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://masteranza.github.io/weedout/](https://masteranza.github.io/weedout/)
 
 ---
 
@@ -85,20 +84,33 @@ Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his fi
 
 ---
 
-### 6. Rising numbers of children in mental health crisis ending up in A&E
+### 6. Iran retaliates after US strikes kills four at wedding party, state media reports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.
+Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fernandez transfers to Man City from Chelsea in joint British record fee
+### 7. Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss)
+
+---
+
+### 8. Fernandez transfers to Man City from Chelsea in joint British record fee
 
 **Source:** Al Jazeera
 
@@ -111,7 +123,7 @@ Argentina international Enzo Fernandez signs for Manchester City in a deal from 
 
 ---
 
-### 8. Cisco accused of fostering a hostile workplace for Muslim and Arab employees
+### 9. Cisco accused of fostering a hostile workplace for Muslim and Arab employees
 
 **Source:** Al Jazeera
 
@@ -121,19 +133,6 @@ Argentina international Enzo Fernandez signs for Manchester City in a deal from 
 Cisco employees allege harassment after internal activism against technology sales to the Israeli military.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss)
-
----
-
-### 9. US House passes funding bill to avert government shutdown ahead of midterms
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The temporary measure gives Congress until December to fully fund the federal government for fiscal year 2027.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss)
 
 ---
 
