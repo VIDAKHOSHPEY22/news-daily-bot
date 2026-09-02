@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 23:23:48
+**Last Update:** 2026-09-03 01:13:37
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Post-AI Internet Doesn't Look Great
+### 1. Nango (YC W23) is hiring across eng, product and GTM (SF and remote)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/">https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541331">https://news.ycombinator.com/item?id=49541331</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542486">https://news.ycombinator.com/item?id=49542486</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/](https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/)
+🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
 
 ---
 
-### 2. Muse Spark 1.3
+### 2. Vidact – a compiler that turns React into direct DOM operations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://developer.meta.com/ai/models/muse-spark/">https://developer.meta.com/ai/models/muse-spark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541256">https://news.ycombinator.com/item?id=49541256</a></p>
-<p>Points: 48</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.vidact.dev/">https://www.vidact.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542123">https://news.ycombinator.com/item?id=49542123</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://developer.meta.com/ai/models/muse-spark/](https://developer.meta.com/ai/models/muse-spark/)
+🔗 **Read more:** [https://www.vidact.dev/](https://www.vidact.dev/)
 
 ---
 
-### 3. Introducing Muse Spark 1.3
+### 3. Altair Basic Interpreter Source Code (1975) [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">https://research.meta.ai/blog/introducing-muse-spark-1-3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541149">https://news.ycombinator.com/item?id=49541149</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541754">https://news.ycombinator.com/item?id=49541754</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://research.meta.ai/blog/introducing-muse-spark-1-3](https://research.meta.ai/blog/introducing-muse-spark-1-3)
+🔗 **Read more:** [https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
 
 ---
 
-### 4. Burnham pressed on economy at first PMQs as UK borrowing costs rise
+### 4. Burnham pressed on economy at first PMQs as borrowing costs surge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Burnham said he had already cut taxes, including VAT on energy bills and hospitality business rates.
+The PM said his government would be "grounded in fiscal responsibility" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. King hails 'unprecedented' Bayeux Tapestry exhibition in London
+### 5. Faisal Islam: Why bond market wildfire is keeping world leaders up at night
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. King hails 'unprecedented' Bayeux Tapestry exhibition in London
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ British and French leaders will be at the British Museum to see the exhibition o
 
 ---
 
-### 6. What famous scenes are in the epic Bayeux Tapestry?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The 70m (230ft) tapestry, which tells the story of the Norman Conquest and the Battle of Hastings in 1066, will be on display the British Museum.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Dreams shattered: Gaza amputees struggle under blockade and rubble
+### 7. Israeli PM says Israel is working to overthrow Iran’s government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.
+Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss](https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss)
 
 ---
 
-### 8. Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
+### 8. Children return to school in DR Congo amid growing concerns over Ebola
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Regional neighbours condemn attack this week that killed two crew members from the Philippines.
+Children return to school in DR Congo amid growing concerns over Ebola
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss)
 
 ---
 
-### 9. US says it will use regional body to isolate Nicaragua
+### 9. Israel still wants to remove Palestinians from Gaza, defence minister says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move comes after Nicaragua&#039;s lawmakers change constitution to ban most political opposition.
+Israel Katz says &#039;there is no real solution for Gaza&#039; without de-populating the territory.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss)
 
 ---
 
