@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-03T02:12:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c86xpv8l9y9o\">https://www.bbc.com/news/articles/c86xpv8l9y9o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543007\">https://news.ycombinator.com/item?id=49543007</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+            "published": "Wed, 02 Sep 2026 21:46:33 +0000",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+            "description": "<p>Article URL: <a href=\"https://nango.dev/careers\">https://nango.dev/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49542486\">https://news.ycombinator.com/item?id=49542486</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://nango.dev/careers",
+            "published": "Wed, 02 Sep 2026 21:00:04 +0000",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mamdani Bans AI in NYC Schools",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html\">https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49542443\">https://news.ycombinator.com/item?id=49542443</a></p>\n<p>Points: 87</p>\n<p># Comments: 45</p>",
+            "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+            "published": "Wed, 02 Sep 2026 20:57:04 +0000",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
+            "description": "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.",
+            "url": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 20:43:06 GMT",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+            "description": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
+            "url": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 13:20:11 GMT",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
+            "description": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
+            "url": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 18:57:51 GMT",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
+            "description": "Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.",
+            "url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 22:15:32 +0000",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+            "description": "Senator Thom Tillis accuses Pentagon chief of &#039;inept mismanagement&#039; as US military is strained by war on Iran.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 21:37:41 +0000",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+            "description": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 21:23:55 +0000",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-03T02:12:35+03:30"
+        }
+    ]
+}

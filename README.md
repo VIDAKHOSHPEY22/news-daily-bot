@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 01:13:37
+**Last Update:** 2026-09-03 02:12:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nango (YC W23) is hiring across eng, product and GTM (SF and remote)
+### 1. Uber shuts operations in Nigeria and Uganda with immediate effect
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c86xpv8l9y9o">https://www.bbc.com/news/articles/c86xpv8l9y9o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543007">https://news.ycombinator.com/item?id=49543007</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/c86xpv8l9y9o](https://www.bbc.com/news/articles/c86xpv8l9y9o)
+
+---
+
+### 2. Nango (YC W23) is hiring across eng, product and GTM (SF and remote)
 
 **Source:** Hacker News
 
@@ -26,35 +42,19 @@
 
 ---
 
-### 2. Vidact – a compiler that turns React into direct DOM operations
+### 3. Mamdani Bans AI in NYC Schools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vidact.dev/">https://www.vidact.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542123">https://news.ycombinator.com/item?id=49542123</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html">https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542443">https://news.ycombinator.com/item?id=49542443</a></p>
+<p>Points: 87</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://www.vidact.dev/](https://www.vidact.dev/)
-
----
-
-### 3. Altair Basic Interpreter Source Code (1975) [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf">https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49541754">https://news.ycombinator.com/item?id=49541754</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf](https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf)
+🔗 **Read more:** [https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 
 ---
 
@@ -97,7 +97,33 @@ British and French leaders will be at the British Museum to see the exhibition o
 
 ---
 
-### 7. Israeli PM says Israel is working to overthrow Iran’s government
+### 7. OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss)
+
+---
+
+### 8. Republican senator calls on Trump to fire Secretary of Defence Hegseth
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Senator Thom Tillis accuses Pentagon chief of &#039;inept mismanagement&#039; as US military is strained by war on Iran.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss)
+
+---
+
+### 9. Israeli PM says Israel is working to overthrow Iran’s government
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ British and French leaders will be at the British Museum to see the exhibition o
 Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss)
-
----
-
-### 8. Children return to school in DR Congo amid growing concerns over Ebola
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Children return to school in DR Congo amid growing concerns over Ebola
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss)
-
----
-
-### 9. Israel still wants to remove Palestinians from Gaza, defence minister says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel Katz says &#039;there is no real solution for Gaza&#039; without de-populating the territory.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss)
 
 ---
 
