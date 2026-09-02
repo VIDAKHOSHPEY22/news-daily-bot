@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T22:02:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Don't Have a Smartphone",
+            "description": "<p>Article URL: <a href=\"https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html\">https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49539872\">https://news.ycombinator.com/item?id=49539872</a></p>\n<p>Points: 35</p>\n<p># Comments: 26</p>",
+            "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+            "published": "Wed, 02 Sep 2026 17:51:29 +0000",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Paint.net 5.2 alpha now runs on Linux",
+            "description": "<p>Article URL: <a href=\"https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/\">https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49539389\">https://news.ycombinator.com/item?id=49539389</a></p>\n<p>Points: 48</p>\n<p># Comments: 22</p>",
+            "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+            "published": "Wed, 02 Sep 2026 17:18:39 +0000",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Railroad Crossings Work",
+            "description": "<p>Article URL: <a href=\"https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work\">https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49539064\">https://news.ycombinator.com/item?id=49539064</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+            "url": "https://practical.engineering/blog/2023/12/29/how-railroad-crossings-work",
+            "published": "Wed, 02 Sep 2026 16:52:20 +0000",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+            "description": "Burnham said he had already cut taxes, including VAT on energy bills and hospitality business rates.",
+            "url": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 16:27:03 GMT",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PMQs shows the challenge Burnham has in delivering new style of politics",
+            "description": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 14:26:39 GMT",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+            "description": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 17:05:09 GMT",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK’s Burnham faces first parliament grilling, vows to ‘bring back hope’",
+            "description": "Newly appointed leader takes first Prime Minister’s Questions, pledges to fulfill defence, social spending goals.",
+            "url": "https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 18:11:48 +0000",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
+            "description": "EU ministers in Ireland have announced a mission to support Lebanon’s army but remain divided on sanctions on Israel.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 17:56:18 +0000",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
+            "description": "Police say no indication anyone ​else involved in attack that killed 22-year-old Italian woman.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 17:43:01 +0000",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-02T22:02:40+03:30"
+        }
+    ]
+}
