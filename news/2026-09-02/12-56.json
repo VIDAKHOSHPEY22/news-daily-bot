@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T12:56:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+            "description": "<p>Article URL: <a href=\"https://careers.telli.com/\">https://careers.telli.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49533557\">https://news.ycombinator.com/item?id=49533557</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://careers.telli.com/",
+            "published": "Wed, 02 Sep 2026 08:43:49 +0000",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.29530\">https://arxiv.org/abs/2608.29530</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49531651\">https://news.ycombinator.com/item?id=49531651</a></p>\n<p>Points: 130</p>\n<p># Comments: 40</p>",
+            "url": "https://arxiv.org/abs/2608.29530",
+            "published": "Wed, 02 Sep 2026 04:15:56 +0000",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "WebFPGA",
+            "description": "<p>Article URL: <a href=\"https://webfpga.io/\">https://webfpga.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49531525\">https://news.ycombinator.com/item?id=49531525</a></p>\n<p>Points: 68</p>\n<p># Comments: 30</p>",
+            "url": "https://webfpga.io/",
+            "published": "Wed, 02 Sep 2026 03:54:58 +0000",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
+            "description": "Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 04:49:23 GMT",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+            "description": "The BBC's Hugo Bachega joined a UN humanitarian convoy as it travelled along Israeli-occupied southern Lebanon.",
+            "url": "https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 08:29:42 GMT",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four charged with murder after baby stabbed to death",
+            "description": "Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.",
+            "url": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 09:25:11 GMT",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
+            "description": "Iran says the US bombed a wedding near the Strait of Hormuz; hits Kuwait, Bahrain, and Jordan in retaliation.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 08:55:20 +0000",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alex Eala cruises into US Open second round, top seed Zverev survives",
+            "description": "Americans Madison Keys, Coco Gauff and Taylor Fritz powered through to the second round alongside birthday boy Monfils.",
+            "url": "https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 08:41:51 +0000",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ed Markey wins: Key takeaways from Massachusetts primary election results",
+            "description": "Markey secures the Democratic nomination as Massachusetts voters back several of the state’s long-serving lawmakers.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 08:27:35 +0000",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T12:56:41+03:30"
+        }
+    ]
+}

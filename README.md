@@ -1,42 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 09:28:07
+**Last Update:** 2026-09-02 12:56:41
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Iran attacks US bases in Middle East after reports US strike killed five at wedding party
+### 1. Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.
+<p>Article URL: <a href="https://careers.telli.com/">https://careers.telli.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533557">https://news.ycombinator.com/item?id=49533557</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://careers.telli.com/](https://careers.telli.com/)
 
 ---
 
-### 2. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
+### 2. The Emergent Symbolic Structure of Artificial Neural Networks
 
-**Source:** BBC
+**Source:** Hacker News
 
-**Category:** world
+**Category:** technology
 
 **Description:**
-The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.
+<p>Article URL: <a href="https://arxiv.org/abs/2608.29530">https://arxiv.org/abs/2608.29530</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531651">https://news.ycombinator.com/item?id=49531651</a></p>
+<p>Points: 130</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://arxiv.org/abs/2608.29530](https://arxiv.org/abs/2608.29530)
 
 ---
 
-### 3. Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?
+### 3. WebFPGA
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://webfpga.io/">https://webfpga.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49531525">https://news.ycombinator.com/item?id=49531525</a></p>
+<p>Points: 68</p>
+<p># Comments: 30</p>
+
+🔗 **Read more:** [https://webfpga.io/](https://webfpga.io/)
+
+---
+
+### 4. Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?
 
 **Source:** BBC
 
@@ -49,46 +71,72 @@ Curiously, the questions at lunchtime may well feel like a minor extension of wh
 
 ---
 
-### 4. Syria’s restrained approach to Israel carries risks
+### 5. BBC travels inside occupied Lebanon as officials say Israel expanding positions
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The BBC's Hugo Bachega joined a UN humanitarian convoy as it travelled along Israeli-occupied southern Lebanon.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Four charged with murder after baby stabbed to death
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Iran, US exchange new attacks: Who was hit in latest strikes?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Damascus&#039;s restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.
+Iran says the US bombed a wedding near the Strait of Hormuz; hits Kuwait, Bahrain, and Jordan in retaliation.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss)
 
 ---
 
-### 5. Hong Kong activist Joshua Wong pleads guilty in national security case
+### 8. Alex Eala cruises into US Open second round, top seed Zverev survives
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pro-democracy activist faces life sentence in second case under Beijing&#039;s national security law.
+Americans Madison Keys, Coco Gauff and Taylor Fritz powered through to the second round alongside birthday boy Monfils.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/alex-eala-cruises-into-us-open-second-round-top-seed-zverev-survives?traffic_source=rss)
 
 ---
 
-### 6. Germany says Russia preparing ‘hybrid’ attacks over Ukraine support
+### 9. Ed Markey wins: Key takeaways from Massachusetts primary election results
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.
+Markey secures the Democratic nomination as Massachusetts voters back several of the state’s long-serving lawmakers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/ed-markey-wins-key-takeaways-from-massachusetts-primary-election-results?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Ruggs, Morrow, Oregon
+### 10. Wildfire Ruggs, Morrow, Oregon
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Harris, Throckmorton, Texas
+### 11. Wildfire Harris, Throckmorton, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
 
 **Source:** NASA
 
