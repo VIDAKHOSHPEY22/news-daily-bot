@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-02T17:48:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GrapheneOS says Pixel 11 has MTE support after all",
+            "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117194007157499435\">https://grapheneos.social/@GrapheneOS/117194007157499435</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536384\">https://news.ycombinator.com/item?id=49536384</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+            "published": "Wed, 02 Sep 2026 14:00:28 +0000",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Three sites made 215,128 \"best software\" pages for AI. Perplexity cites them",
+            "description": "<p>Article URL: <a href=\"https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\">https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536375\">https://news.ycombinator.com/item?id=49536375</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+            "published": "Wed, 02 Sep 2026 13:59:59 +0000",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dyson CameraJet: The only toothbrush with a camera and a jet",
+            "description": "<p>Article URL: <a href=\"https://www.dyson.com/discover/news/latest/introducing-camerajet\">https://www.dyson.com/discover/news/latest/introducing-camerajet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49536180\">https://news.ycombinator.com/item?id=49536180</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+            "url": "https://www.dyson.com/discover/news/latest/introducing-camerajet",
+            "published": "Wed, 02 Sep 2026 13:47:57 +0000",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
+            "description": "Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.",
+            "url": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 13:45:35 GMT",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
+            "description": "The Reform UK leader said a \"whole ecosystem\" didn't want \"new kids on the block succeeding\".",
+            "url": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 13:18:28 GMT",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four in court over murder of baby stabbed to death",
+            "description": "Four people, aged between 19 and 38, appear in court charged with murdering the newborn.",
+            "url": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 13:02:08 GMT",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Summer transfers 2026: All to know as Premier League signings break records",
+            "description": "Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.",
+            "url": "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 13:58:49 +0000",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina serves up a Messi-shaped schnitzel as fans say goodbye",
+            "description": "A Messi-shaped schnitzel is on the menu in Buenos Aires, as fans across Argentina pay tribute.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/argentina-serves-up-a-messi-shaped-schnitzel-as-fans-say-goodbye?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 13:45:11 +0000",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tiger Woods pleads guilty to reckless driving, forfeits driving licence",
+            "description": "Golfer&#039;s driving licence will be suspended for five years under the terms of a plea agreement that dropped DUI charges.",
+            "url": "https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 13:44:00 +0000",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T17:48:27+03:30"
+        }
+    ]
+}

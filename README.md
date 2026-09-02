@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 15:00:20
+**Last Update:** 2026-09-02 17:48:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sweden pauses Denmark power cable over EU grid rules
+### 1. GrapheneOS says Pixel 11 has MTE support after all
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/">https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533809">https://news.ycombinator.com/item?id=49533809</a></p>
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117194007157499435">https://grapheneos.social/@GrapheneOS/117194007157499435</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536384">https://news.ycombinator.com/item?id=49536384</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117194007157499435](https://grapheneos.social/@GrapheneOS/117194007157499435)
+
+---
+
+### 2. Three sites made 215,128 "best software" pages for AI. Perplexity cites them
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/">https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536375">https://news.ycombinator.com/item?id=49536375</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+
+---
+
+### 3. Dyson CameraJet: The only toothbrush with a camera and a jet
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.dyson.com/discover/news/latest/introducing-camerajet">https://www.dyson.com/discover/news/latest/introducing-camerajet</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49536180">https://news.ycombinator.com/item?id=49536180</a></p>
 <p>Points: 4</p>
-<p># Comments: 0</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/](https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/)
-
----
-
-### 2. Telli (YC F24) is hiring engineers and designers [Berlin, on-site]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://careers.telli.com/">https://careers.telli.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533557">https://news.ycombinator.com/item?id=49533557</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://careers.telli.com/](https://careers.telli.com/)
+🔗 **Read more:** [https://www.dyson.com/discover/news/latest/introducing-camerajet](https://www.dyson.com/discover/news/latest/introducing-camerajet)
 
 ---
 
-### 3. Commodore 64 released September 1, 1982
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/">https://dfarq.homeip.net/commodore-64-released-september-1-1982/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49533497">https://news.ycombinator.com/item?id=49533497</a></p>
-<p>Points: 98</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://dfarq.homeip.net/commodore-64-released-september-1-1982/](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
-
----
-
-### 4. Four charged with murder after baby stabbed to death
+### 4. Burnham's PMQs debut shows the challenge of delivering new style of politics
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.
+Burnham's exchanges with Kemi Badenoch slipped into familiar territory of trading barbs, writes Alex Forsyth.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Farage tells BBC 'we live in a complainants' society' after questions over Reform funding
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Reform UK leader said a "whole ecosystem" didn't want "new kids on the block succeeding".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Four in court over murder of baby stabbed to death
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Four people, aged between 19 and 38, appear in court charged with murdering the newborn.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: What we know about reported strike on Iran wedding celebrations
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-BBC Verify looks at footage showing the aftermath of a strike on a building in southern Iran.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. BBC gains rare access to occupied Lebanon as officials say Israel expanding positions
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Nigerian anticorruption agency sacks 40 staff over misconduct allegations
+### 7. Summer transfers 2026: All to know as Premier League signings break records
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigerian media outlets have reported that five of the dismissed staff are facing prosecution.
+Premier League breaks its own record as four of its 11 most expensive signings have arrived this transfer window.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/nigerian-anticorruption-agency-sacks-40-staff-over-misconduct-allegations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss)
 
 ---
 
-### 8. What do we know about the fatal US bombing of a wedding in Iran’s Sirik?
+### 8. Argentina serves up a Messi-shaped schnitzel as fans say goodbye
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A residential building and a telecom tower were struck overnight, as Iran and the US launched more strikes over Hormuz.
+A Messi-shaped schnitzel is on the menu in Buenos Aires, as fans across Argentina pay tribute.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/argentina-serves-up-a-messi-shaped-schnitzel-as-fans-say-goodbye?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/argentina-serves-up-a-messi-shaped-schnitzel-as-fans-say-goodbye?traffic_source=rss)
 
 ---
 
-### 9. Messi retirement and FIFA ban leave Paredes uncertain of Argentina future
+### 9. Tiger Woods pleads guilty to reckless driving, forfeits driving licence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leandro ‌Paredes&#039;s 10-match ban, alongside Lionel Messi&#039;s Argentina retirement, leave former to ponder future.
+Golfer&#039;s driving licence will be suspended for five years under the terms of a plea agreement that dropped DUI charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/paredes-says-ban-by-fifa-messi-retirement-make-argentina-future-uncertain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/2/tiger-woods-pleads-guilty-to-reckless-driving-in-florida-car-crash?traffic_source=rss)
 
 ---
 
