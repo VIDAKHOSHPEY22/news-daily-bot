@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-02T09:28:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+            "description": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.",
+            "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 05:12:07 GMT",
+            "fetched": "2026-09-02T09:28:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+            "description": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
+            "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 01:59:10 GMT",
+            "fetched": "2026-09-02T09:28:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
+            "description": "Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 04:49:23 GMT",
+            "fetched": "2026-09-02T09:28:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syria’s restrained approach to Israel carries risks",
+            "description": "Damascus&#039;s restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 05:06:52 +0000",
+            "fetched": "2026-09-02T09:28:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hong Kong activist Joshua Wong pleads guilty in national security case",
+            "description": "Pro-democracy activist faces life sentence in second case under Beijing&#039;s national security law.",
+            "url": "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 05:05:02 +0000",
+            "fetched": "2026-09-02T09:28:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany says Russia preparing ‘hybrid’ attacks over Ukraine support",
+            "description": "Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss",
+            "published": "Wed, 02 Sep 2026 04:43:57 +0000",
+            "fetched": "2026-09-02T09:28:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ruggs, Morrow, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23656",
+            "published": "2026-08-31T15:38:00Z",
+            "fetched": "2026-09-02T09:28:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Harris, Throckmorton, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23658",
+            "published": "2026-08-31T14:22:00Z",
+            "fetched": "2026-09-02T09:28:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SOUTH RAILROAD, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23685",
+            "published": "2026-08-30T09:40:00Z",
+            "fetched": "2026-09-02T09:28:07+03:30"
+        }
+    ]
+}

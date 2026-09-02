@@ -1,77 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-02 07:49:02
+**Last Update:** 2026-09-02 09:28:07
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. True Rate of Unemployment
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.lisep.org/tru">https://www.lisep.org/tru</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49530989">https://news.ycombinator.com/item?id=49530989</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.lisep.org/tru](https://www.lisep.org/tru)
-
----
-
-### 2. Anthropic banned me for "suspicious signals"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://kix.codes/anthropic-banned-me-for-suspicious-signals/">https://kix.codes/anthropic-banned-me-for-suspicious-signals/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49530298">https://news.ycombinator.com/item?id=49530298</a></p>
-<p>Points: 23</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://kix.codes/anthropic-banned-me-for-suspicious-signals/](https://kix.codes/anthropic-banned-me-for-suspicious-signals/)
-
----
-
-### 3. The efficient frontier of LLM inference
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/">https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49529898">https://news.ycombinator.com/item?id=49529898</a></p>
-<p>Points: 61</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
-
----
-
-### 4. Iran retaliates after US strikes kill four at wedding party, state media reports
+### 1. Iran attacks US bases in Middle East after reports US strike killed five at wedding party
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran has launched attacks on US military bases in Iraq and Jordan, according to local state media and the Jordanian Armed Forces.
+The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
+### 2. Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ The  23-year-old is charged with aggravated murder, a capital offence in Utah, a
 
 ---
 
-### 6. Burnham promises more devolution and public control of essential services
+### 3. Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tory leader Kemi Badenoch said Burnham was offering "more government control, more taxes and more politicians", as he addressed MPs for the first time as PM.
+Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US
+### 4. Syria’s restrained approach to Israel carries risks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The far-right British commentator sat with interviewer Piers Morgan after being detained by US immigration authorities.
+Damascus&#039;s restraint could encourage more Israeli encroachment and lose the trust of the Syrian public.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/2/syrias-restrained-approach-to-israel-carries-risks?traffic_source=rss)
 
 ---
 
-### 8. US strikes on Iran kill child at wedding ceremony
+### 5. Hong Kong activist Joshua Wong pleads guilty in national security case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens of people are injured, and at least five dead, after US strikes hit a wedding ceremony near Sirik, Iran.
+Pro-democracy activist faces life sentence in second case under Beijing&#039;s national security law.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss)
 
 ---
 
-### 9. Apple changes name of Lake Ontario to ‘Lake America’ in maps app
+### 6. Germany says Russia preparing ‘hybrid’ attacks over Ukraine support
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The change marks the second US-based tech giant to comply with President Donald Trump&#039;s controversial order.
+Germany says an attempted drone attack at Leipzig Airport showed hallmarks of Russian hybrid operations against Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss](https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/2/germany-says-russia-preparing-hybrid-attacks-over-ukraine-support?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Ruggs, Morrow, Oregon
+### 7. Wildfire Ruggs, Morrow, Oregon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Harris, Throckmorton, Texas
+### 8. Wildfire Harris, Throckmorton, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
+### 9. Wildfire SOUTH RAILROAD, Comanche, Oklahoma
 
 **Source:** NASA
 
