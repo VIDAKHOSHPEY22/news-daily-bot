@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-03T09:07:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+            "description": "<p>Hi HN,<p>I’m Lloyd, one of two founders of RonanRx (<a href=\"https://ronanrx.com/\">https://ronanrx.com/</a>). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.<p>The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks.<p>I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough.<p>Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication.<p>For me, losing weight was only the beginning. \"Food noise\" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80.<p>This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all.<p>GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx.<p>Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution.<p>The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop.<p>We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step.<p>We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing.<p>We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543530\">https://news.ycombinator.com/item?id=49543530</a></p>\n<p>Points: 41</p>\n<p># Comments: 53</p>",
+            "url": "https://news.ycombinator.com/item?id=49543530",
+            "published": "Wed, 02 Sep 2026 22:36:04 +0000",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reasons robotics is hard",
+            "description": "<p>Article URL: <a href=\"https://secondthoughts.ai/p/14-reasons-robotics-is-hard\">https://secondthoughts.ai/p/14-reasons-robotics-is-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49543191\">https://news.ycombinator.com/item?id=49543191</a></p>\n<p>Points: 69</p>\n<p># Comments: 30</p>",
+            "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+            "published": "Wed, 02 Sep 2026 22:02:30 +0000",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+            "description": "<p>Article URL: <a href=\"https://nango.dev/careers\">https://nango.dev/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49542486\">https://news.ycombinator.com/item?id=49542486</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://nango.dev/careers",
+            "published": "Wed, 02 Sep 2026 21:00:04 +0000",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+            "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+            "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
+            "description": "British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.",
+            "url": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 18:57:51 GMT",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+            "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+            "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 23:36:49 GMT",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Powerful storm hits Canada’s Toronto, cutting power to tens of thousands",
+            "description": "Thunderstorm also causes severe flooding and forces flight cancellations at Pearson airport.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/powerful-storm-hits-canadas-toronto-cutting-power-to-tens-of-thousands?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 05:01:00 +0000",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former campaign chair: Trump ‘cares about Trump the most’",
+            "description": "Former Trump campaign chair says that US President Trump is focused on protecting both the Republican Party and himself.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_trump-cares-about-trump_2-030926?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 04:44:58 +0000",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Girl rescued by free-climbing neighbour from balcony in Turkiye",
+            "description": "A man scaled a building to rescue a girl dangling from a 3rd floor balcony in the Turkish city of Diyarbakir.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/girl-rescued-by-free-climbing-neighbour-from-balcony-in-turkiye?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 04:37:34 +0000",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-03T09:07:54+03:30"
+        }
+    ]
+}
