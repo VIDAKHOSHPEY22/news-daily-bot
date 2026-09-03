@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 23:12:33
+**Last Update:** 2026-09-04 01:16:13
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. GPT-6-Astra: infinitely pairs of consecutive primes with distance at most 186
+### 1. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openai/PrimeGaps186">https://github.com/openai/PrimeGaps186</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555257">https://news.ycombinator.com/item?id=49555257</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://armature.tech/blog/which-tools-coding-agents-install">https://armature.tech/blog/which-tools-coding-agents-install</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49557206">https://news.ycombinator.com/item?id=49557206</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://armature.tech/blog/which-tools-coding-agents-install](https://armature.tech/blog/which-tools-coding-agents-install)
+
+---
+
+### 2. Tasklet (YC P26) Is Hiring a Customer Success Engineer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49556922">https://news.ycombinator.com/item?id=49556922</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/openai/PrimeGaps186](https://github.com/openai/PrimeGaps186)
+🔗 **Read more:** [https://tasklet.ai/careers/customer-success-engineer](https://tasklet.ai/careers/customer-success-engineer)
 
 ---
 
-### 2. The asteroid currently hitting front end web development
+### 3. OpenAI's GPT-6 Astra on ARC-AGI-3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/">https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555233">https://news.ycombinator.com/item?id=49555233</a></p>
-<p>Points: 4</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://arcprize.org/blog/astra">https://arcprize.org/blog/astra</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555691">https://news.ycombinator.com/item?id=49555691</a></p>
+<p>Points: 92</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
-
----
-
-### 3. GPT-6 Astra
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/gpt-6-astra/">https://openai.com/index/gpt-6-astra/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49554643">https://news.ycombinator.com/item?id=49554643</a></p>
-<p>Points: 87</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://openai.com/index/gpt-6-astra/](https://openai.com/index/gpt-6-astra/)
+🔗 **Read more:** [https://arcprize.org/blog/astra](https://arcprize.org/blog/astra)
 
 ---
 
-### 4. Burnham and Macron agree to scale up action on small boats in first meeting
+### 4. Farage senior aide filmed suggesting way to avoid donations law
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The leaders also discussed Ukraine and "the UK's drive to get closer to Europe", No 10 says.
+A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,81 +97,81 @@ The governing bodies have traded blows since Fifa president Gianni Infantino's s
 
 ---
 
-### 7. Advocates decry US House vote to defund universities that boycott Israel
+### 7. Nepal flood victims to be identified through DNA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rights groups say the measure infringes on the freedom of speech of Americans for the benefit of a foreign nation.
+Nepal flood victims to be identified through DNA
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss)
 
 ---
 
-### 8. Is Nepal leading the battle for climate justice?
+### 8. El Nino: A phenomenon supercharged by climate change
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Foreign minister demands top three polluting nations compensate Nepal for recent disaster.
+Scientists warn the 2026-27 El Nino could become the strongest ever, exacerbating global heat, droughts and floods.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss](https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss)
 
 ---
 
-### 9. Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences
+### 9. US Vice President JD Vance declines to offer timeline for end of Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestine Action activists convicted of criminal damage “with a terrorist connection” are appealing their convictions.
+The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Marie
+### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868)
 
 ---
 
-### 11. Tropical Storm Edouard
+### 11. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869)
 
 ---
 
-### 12. Tropical Storm Krovanh
+### 12. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870)
 
 ---
 

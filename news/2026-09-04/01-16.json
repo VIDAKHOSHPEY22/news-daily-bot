@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T01:16:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+            "description": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+            "published": "Thu, 03 Sep 2026 21:20:34 +0000",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+            "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49556922\">https://news.ycombinator.com/item?id=49556922</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://tasklet.ai/careers/customer-success-engineer",
+            "published": "Thu, 03 Sep 2026 21:01:10 +0000",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+            "description": "<p>Article URL: <a href=\"https://arcprize.org/blog/astra\">https://arcprize.org/blog/astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/item?id=49555691</a></p>\n<p>Points: 92</p>\n<p># Comments: 44</p>",
+            "url": "https://arcprize.org/blog/astra",
+            "published": "Thu, 03 Sep 2026 19:45:00 +0000",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage senior aide filmed suggesting way to avoid donations law",
+            "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 21:07:58 GMT",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Schools to close early for A66 crash funeral amid safety concerns",
+            "description": "The funeral of one of five young men killed in the crash with a police car is due to take place.",
+            "url": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 15:19:28 GMT",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
+            "description": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 19:01:43 GMT",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nepal flood victims to be identified through DNA",
+            "description": "Nepal flood victims to be identified through DNA",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 21:11:18 +0000",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El Nino: A phenomenon supercharged by climate change",
+            "description": "Scientists warn the 2026-27 El Nino could become the strongest ever, exacerbating global heat, droughts and floods.",
+            "url": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 21:09:39 +0000",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
+            "description": "The Trump official expressed scepticism at White House briefing about the conflict being a war despite recent flare-up.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 21:07:56 +0000",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T01:16:13+03:30"
+        }
+    ]
+}
