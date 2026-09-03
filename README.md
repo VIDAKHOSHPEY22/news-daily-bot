@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 09:26:32
+**Last Update:** 2026-09-03 14:34:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s
+### 1. Japan halves speed limit to 30km/h on all narrow city streets
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN,<p>I’m Lloyd, one of two founders of RonanRx (<a href="https://ronanrx.com/">https://ronanrx.com/</a>). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.<p>The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks.<p>I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough.<p>Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication.<p>For me, losing weight was only the beginning. "Food noise" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80.<p>This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all.<p>GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx.<p>Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution.<p>The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop.<p>We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step.<p>We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing.<p>We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543530">https://news.ycombinator.com/item?id=49543530</a></p>
-<p>Points: 45</p>
-<p># Comments: 54</p>
+<p>Article URL: <a href="https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets">https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49547763">https://news.ycombinator.com/item?id=49547763</a></p>
+<p>Points: 34</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49543530](https://news.ycombinator.com/item?id=49543530)
+🔗 **Read more:** [https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets](https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets)
 
 ---
 
-### 2. Reasons robotics is hard
+### 2. Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://secondthoughts.ai/p/14-reasons-robotics-is-hard">https://secondthoughts.ai/p/14-reasons-robotics-is-hard</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49543191">https://news.ycombinator.com/item?id=49543191</a></p>
-<p>Points: 70</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/">https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49546800">https://news.ycombinator.com/item?id=49546800</a></p>
+<p>Points: 64</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://secondthoughts.ai/p/14-reasons-robotics-is-hard](https://secondthoughts.ai/p/14-reasons-robotics-is-hard)
+🔗 **Read more:** [https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
 
 ---
 
-### 3. Nango (YC W23) is hiring across eng, product and GTM (SF and remote)
+### 3. Pre-Release of Polars 2.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nango.dev/careers">https://nango.dev/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49542486">https://news.ycombinator.com/item?id=49542486</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://pola.rs/posts/announcing-polars-2/">https://pola.rs/posts/announcing-polars-2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49546753">https://news.ycombinator.com/item?id=49546753</a></p>
+<p>Points: 179</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://nango.dev/careers](https://nango.dev/careers)
+🔗 **Read more:** [https://pola.rs/posts/announcing-polars-2/](https://pola.rs/posts/announcing-polars-2/)
 
 ---
 
@@ -72,68 +71,68 @@ Once-rival criminal groups are being forced to work together because of a shorta
 
 ---
 
-### 5. King hails 'unprecedented' Bayeux Tapestry exhibition in London
+### 5. Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-British and French leaders will be at the British Museum to see the exhibition of the historic Bayeux Tapestry.
+A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one
+### 6. Feminist activist and journalist Gloria Steinem dies at 92
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.
+Her foundation said she "passed away peacefully" at her home in New York City, "surrounded by many who loved her".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Floodwaters sweep cars away in eastern China
+### 7. Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Torrential rain triggered severe flooding across parts of eastern China, rushing down streets and sweeping away vehicles
+Kyrgyzstan balances ties with global powers while leveraging its geography to secure economic and political opportunities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/floodwaters-sweep-cars-away-in-eastern-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/floodwaters-sweep-cars-away-in-eastern-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss)
 
 ---
 
-### 8. Powerful storm hits Canada’s Toronto, cutting power to tens of thousands
+### 8. Green Party leader Zack Polanski to stand in by-election for Starmer’s seat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thunderstorm also causes severe flooding and forces flight cancellations at Pearson airport.
+Zack Polanski announces candidacy for the Holborn and St Pancras seat to be vacated by British ex-PM Keir Starmer.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/powerful-storm-hits-canadas-toronto-cutting-power-to-tens-of-thousands?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/powerful-storm-hits-canadas-toronto-cutting-power-to-tens-of-thousands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss)
 
 ---
 
-### 9. Former campaign chair: Trump ‘cares about Trump the most’
+### 9. Yair Netanyahu, Israeli PM’s son, angers UK right over Falklands comment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former Trump campaign chair says that US President Trump is focused on protecting both the Republican Party and himself.
+Accusing the UK government of ‘hypocrisy’, Yair Netanyahu backs Argentina’s claims to the British-held Falkland Islands.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_trump-cares-about-trump_2-030926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_trump-cares-about-trump_2-030926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-03T14:34:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Japan halves speed limit to 30km/h on all narrow city streets",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets\">https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49547763\">https://news.ycombinator.com/item?id=49547763</a></p>\n<p>Points: 34</p>\n<p># Comments: 16</p>",
+            "url": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
+            "published": "Thu, 03 Sep 2026 09:21:53 +0000",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+            "description": "<p>Article URL: <a href=\"https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/\">https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49546800\">https://news.ycombinator.com/item?id=49546800</a></p>\n<p>Points: 64</p>\n<p># Comments: 22</p>",
+            "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+            "published": "Thu, 03 Sep 2026 07:04:13 +0000",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pre-Release of Polars 2.0",
+            "description": "<p>Article URL: <a href=\"https://pola.rs/posts/announcing-polars-2/\">https://pola.rs/posts/announcing-polars-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49546753\">https://news.ycombinator.com/item?id=49546753</a></p>\n<p>Points: 179</p>\n<p># Comments: 33</p>",
+            "url": "https://pola.rs/posts/announcing-polars-2/",
+            "published": "Thu, 03 Sep 2026 06:59:08 +0000",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+            "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+            "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
+            "description": "A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.",
+            "url": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 06:21:09 GMT",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Feminist activist and journalist Gloria Steinem dies at 92",
+            "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+            "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 10:58:23 GMT",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
+            "description": "Kyrgyzstan balances ties with global powers while leveraging its geography to secure economic and political opportunities.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 10:45:16 +0000",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
+            "description": "Zack Polanski announces candidacy for the Holborn and St Pancras seat to be vacated by British ex-PM Keir Starmer.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 09:57:25 +0000",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yair Netanyahu, Israeli PM’s son, angers UK right over Falklands comment",
+            "description": "Accusing the UK government of ‘hypocrisy’, Yair Netanyahu backs Argentina’s claims to the British-held Falkland Islands.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 09:54:15 +0000",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-03T14:34:07+03:30"
+        }
+    ]
+}
