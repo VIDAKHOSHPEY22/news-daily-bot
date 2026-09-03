@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 14:34:07
+**Last Update:** 2026-09-03 14:57:12
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Japan halves speed limit to 30km/h on all narrow city streets
+### 1. Gloria Steinem, groundbreaking feminist campaigner, dies aged 92
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets">https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49547763">https://news.ycombinator.com/item?id=49547763</a></p>
-<p>Points: 34</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92">https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548256">https://news.ycombinator.com/item?id=49548256</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets](https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets)
+🔗 **Read more:** [https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92](https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/">https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49546800">https://news.ycombinator.com/item?id=49546800</a></p>
-<p>Points: 64</p>
-<p># Comments: 22</p>
+<p>Points: 73</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://pola.rs/posts/announcing-polars-2/">https://pola.rs/posts/announcing-polars-2/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49546753">https://news.ycombinator.com/item?id=49546753</a></p>
-<p>Points: 179</p>
-<p># Comments: 33</p>
+<p>Points: 194</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://pola.rs/posts/announcing-polars-2/](https://pola.rs/posts/announcing-polars-2/)
 
@@ -97,7 +97,33 @@ Her foundation said she "passed away peacefully" at her home in New York City, "
 
 ---
 
-### 7. Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts
+### 7. No end to torture of Gaza doctor Abu Safia in Israeli prison: What to know
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Abu Safia, who has been under custody for nearly two years, continues to face abuse inside prison, his lawyer says.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss)
+
+---
+
+### 8. Legendary Bosnian striker Edin Dzeko to retire from international football
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 40-year-old scored 73 goals in 151 appearances, making him Bosnia&#039;s most-capped ‌player and all-time leading scorer.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss)
+
+---
+
+### 9. Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts
 
 **Source:** Al Jazeera
 
@@ -107,71 +133,6 @@ Her foundation said she "passed away peacefully" at her home in New York City, "
 Kyrgyzstan balances ties with global powers while leveraging its geography to secure economic and political opportunities.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss)
-
----
-
-### 8. Green Party leader Zack Polanski to stand in by-election for Starmer’s seat
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Zack Polanski announces candidacy for the Holborn and St Pancras seat to be vacated by British ex-PM Keir Starmer.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/green-party-leader-zack-polanski-to-stand-in-by-election-for-starmers-seat?traffic_source=rss)
-
----
-
-### 9. Yair Netanyahu, Israeli PM’s son, angers UK right over Falklands comment
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Accusing the UK government of ‘hypocrisy’, Yair Netanyahu backs Argentina’s claims to the British-held Falkland Islands.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/yair-netanyahu-israeli-pms-son-angers-uk-right-over-falklands-comment?traffic_source=rss)
-
----
-
-### 10. Hurricane Marie
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800)
-
----
-
-### 11. Tropical Storm Edouard
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739)
-
----
-
-### 12. Tropical Storm Krovanh
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738)
 
 ---
 

@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-03T14:57:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92\">https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548256\">https://news.ycombinator.com/item?id=49548256</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
+            "published": "Thu, 03 Sep 2026 10:31:18 +0000",
+            "fetched": "2026-09-03T14:57:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+            "description": "<p>Article URL: <a href=\"https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/\">https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49546800\">https://news.ycombinator.com/item?id=49546800</a></p>\n<p>Points: 73</p>\n<p># Comments: 24</p>",
+            "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+            "published": "Thu, 03 Sep 2026 07:04:13 +0000",
+            "fetched": "2026-09-03T14:57:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pre-Release of Polars 2.0",
+            "description": "<p>Article URL: <a href=\"https://pola.rs/posts/announcing-polars-2/\">https://pola.rs/posts/announcing-polars-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49546753\">https://news.ycombinator.com/item?id=49546753</a></p>\n<p>Points: 194</p>\n<p># Comments: 43</p>",
+            "url": "https://pola.rs/posts/announcing-polars-2/",
+            "published": "Thu, 03 Sep 2026 06:59:08 +0000",
+            "fetched": "2026-09-03T14:57:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+            "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+            "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+            "fetched": "2026-09-03T14:57:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
+            "description": "A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.",
+            "url": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 06:21:09 GMT",
+            "fetched": "2026-09-03T14:57:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Feminist activist and journalist Gloria Steinem dies at 92",
+            "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+            "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 10:58:23 GMT",
+            "fetched": "2026-09-03T14:57:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "No end to torture of Gaza doctor Abu Safia in Israeli prison: What to know",
+            "description": "Abu Safia, who has been under custody for nearly two years, continues to face abuse inside prison, his lawyer says.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 11:21:59 +0000",
+            "fetched": "2026-09-03T14:57:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Legendary Bosnian striker Edin Dzeko to retire from international football",
+            "description": "The 40-year-old scored 73 goals in 151 appearances, making him Bosnia&#039;s most-capped ‌player and all-time leading scorer.",
+            "url": "https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 11:10:41 +0000",
+            "fetched": "2026-09-03T14:57:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
+            "description": "Kyrgyzstan balances ties with global powers while leveraging its geography to secure economic and political opportunities.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 10:45:16 +0000",
+            "fetched": "2026-09-03T14:57:12+03:30"
+        }
+    ]
+}
