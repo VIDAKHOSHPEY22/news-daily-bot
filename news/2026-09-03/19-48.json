@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-03T19:48:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sony makes bold claim about game ownership",
+            "description": "<p>Article URL: <a href=\"https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/\">https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49551925\">https://news.ycombinator.com/item?id=49551925</a></p>\n<p>Points: 29</p>\n<p># Comments: 17</p>",
+            "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+            "published": "Thu, 03 Sep 2026 15:44:54 +0000",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "K2 Horizon: Frontier Performance, Radically Open",
+            "description": "<p>Article URL: <a href=\"https://ifm.ai/blog/k2/\">https://ifm.ai/blog/k2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49551760\">https://news.ycombinator.com/item?id=49551760</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://ifm.ai/blog/k2/",
+            "published": "Thu, 03 Sep 2026 15:36:43 +0000",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ChatGPT, Claude, and Grok Are Down",
+            "description": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/\">https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49551658\">https://news.ycombinator.com/item?id=49551658</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
+            "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
+            "published": "Thu, 03 Sep 2026 15:30:10 +0000",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham and Macron discuss small boats and bringing UK closer to Europe",
+            "description": "The leaders also discuss Ukraine and the Middle East in Burnham's first bilateral talks in Downing Street.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 15:46:49 GMT",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+            "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+            "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch accuses Burnham of kicking defence spending into the long grass",
+            "description": "Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030.",
+            "url": "https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 13:20:33 GMT",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "20 million children a year face online sexual abuse, UNICEF says",
+            "description": "More than one in five children aged 12 to 17 were targeted on digital platforms, the UN children’s agency reports.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/20-million-children-a-year-face-online-sexual-abuse-unicef-says?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 15:51:57 +0000",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Billionaire Leon Black sues US congressional panel over Epstein subpoena",
+            "description": "Lawyer accuses House panel investigating sex offender of &#039;fishing expedition&#039; as lawmaker calls for contempt charges.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/billionaire-leon-black-sues-us-congressional-panel-over-epstein-subpoena?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 15:48:04 +0000",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How much oil is going through Hormuz? How data doesn’t match US claims",
+            "description": "Trump says the US is helping around 30 ships cross the waterway daily, but ship-tracking data suggests it&#039;s fewer.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 15:38:19 +0000",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-03T19:48:08+03:30"
+        }
+    ]
+}

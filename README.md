@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 18:34:38
+**Last Update:** 2026-09-03 19:48:08
 
 **Total News:** 12
 
@@ -10,62 +10,62 @@
 
 ## 📰 Latest News
 
-### 1. Elevated errors across ChatGPT and Codex
+### 1. Sony makes bold claim about game ownership
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR">https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550886">https://news.ycombinator.com/item?id=49550886</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/">https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49551925">https://news.ycombinator.com/item?id=49551925</a></p>
+<p>Points: 29</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR](https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR)
+🔗 **Read more:** [https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/)
 
 ---
 
-### 2. Codex Is Down
+### 2. K2 Horizon: Frontier Performance, Radically Open
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openai/codex/issues/28756">https://github.com/openai/codex/issues/28756</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550769">https://news.ycombinator.com/item?id=49550769</a></p>
-<p>Points: 20</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://ifm.ai/blog/k2/">https://ifm.ai/blog/k2/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49551760">https://news.ycombinator.com/item?id=49551760</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/openai/codex/issues/28756](https://github.com/openai/codex/issues/28756)
+🔗 **Read more:** [https://ifm.ai/blog/k2/](https://ifm.ai/blog/k2/)
 
 ---
 
-### 3. ChatGPT Is Throwing 404
+### 3. ChatGPT, Claude, and Grok Are Down
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chatgpt.com/">https://chatgpt.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550614">https://news.ycombinator.com/item?id=49550614</a></p>
-<p>Points: 89</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/">https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49551658">https://news.ycombinator.com/item?id=49551658</a></p>
+<p>Points: 32</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://chatgpt.com/](https://chatgpt.com/)
+🔗 **Read more:** [https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/](https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/)
 
 ---
 
-### 4. Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron
+### 4. Burnham and Macron discuss small boats and bringing UK closer to Europe
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The pair discussed small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.
+The leaders also discuss Ukraine and the Middle East in Burnham's first bilateral talks in Downing Street.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ Once-rival criminal groups are being forced to work together because of a shorta
 
 ---
 
-### 6. Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day
+### 6. Badenoch accuses Burnham of kicking defence spending into the long grass
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.
+Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iranian drone damages residential building in Kuwait City
+### 7. 20 million children a year face online sexual abuse, UNICEF says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.
+More than one in five children aged 12 to 17 were targeted on digital platforms, the UN children’s agency reports.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/20-million-children-a-year-face-online-sexual-abuse-unicef-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/20-million-children-a-year-face-online-sexual-abuse-unicef-says?traffic_source=rss)
 
 ---
 
-### 8. Ukrainian intel agencies in Kyiv firefight: What happened and why?
+### 8. Billionaire Leon Black sues US congressional panel over Epstein subpoena
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three intelligence officers were wounded in shootout that Zelenskyy has described as &#039;absolutely disgraceful&#039;.
+Lawyer accuses House panel investigating sex offender of &#039;fishing expedition&#039; as lawmaker calls for contempt charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/billionaire-leon-black-sues-us-congressional-panel-over-epstein-subpoena?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/billionaire-leon-black-sues-us-congressional-panel-over-epstein-subpoena?traffic_source=rss)
 
 ---
 
-### 9. Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?
+### 9. How much oil is going through Hormuz? How data doesn’t match US claims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-They&#039;re not carrying out pogroms, but are nonetheless setting the stage for land grabs by Israeli settlers.
+Trump says the US is helping around 30 ships cross the waterway daily, but ship-tracking data suggests it&#039;s fewer.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims?traffic_source=rss)
 
 ---
 
