@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-03T18:34:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Elevated errors across ChatGPT and Codex",
+            "description": "<p>Article URL: <a href=\"https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR\">https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550886\">https://news.ycombinator.com/item?id=49550886</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR",
+            "published": "Thu, 03 Sep 2026 14:59:08 +0000",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Codex Is Down",
+            "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/28756\">https://github.com/openai/codex/issues/28756</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550769\">https://news.ycombinator.com/item?id=49550769</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
+            "url": "https://github.com/openai/codex/issues/28756",
+            "published": "Thu, 03 Sep 2026 14:54:31 +0000",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ChatGPT Is Throwing 404",
+            "description": "<p>Article URL: <a href=\"https://chatgpt.com/\">https://chatgpt.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550614\">https://news.ycombinator.com/item?id=49550614</a></p>\n<p>Points: 89</p>\n<p># Comments: 46</p>",
+            "url": "https://chatgpt.com/",
+            "published": "Thu, 03 Sep 2026 14:46:47 +0000",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron",
+            "description": "The pair discussed small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 13:38:43 GMT",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+            "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+            "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
+            "description": "A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats.",
+            "url": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 06:21:09 GMT",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iranian drone damages residential building in Kuwait City",
+            "description": "An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 14:47:52 +0000",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukrainian intel agencies in Kyiv firefight: What happened and why?",
+            "description": "Three intelligence officers were wounded in shootout that Zelenskyy has described as &#039;absolutely disgraceful&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 13:54:02 +0000",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?",
+            "description": "They&#039;re not carrying out pogroms, but are nonetheless setting the stage for land grabs by Israeli settlers.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 13:49:02 +0000",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-03T18:34:38+03:30"
+        }
+    ]
+}

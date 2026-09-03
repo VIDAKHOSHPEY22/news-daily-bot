@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 14:57:12
+**Last Update:** 2026-09-03 18:34:38
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Gloria Steinem, groundbreaking feminist campaigner, dies aged 92
+### 1. Elevated errors across ChatGPT and Codex
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92">https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49548256">https://news.ycombinator.com/item?id=49548256</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR">https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550886">https://news.ycombinator.com/item?id=49550886</a></p>
+<p>Points: 8</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92](https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92)
+🔗 **Read more:** [https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR](https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR)
 
 ---
 
-### 2. Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)
+### 2. Codex Is Down
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/">https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49546800">https://news.ycombinator.com/item?id=49546800</a></p>
-<p>Points: 73</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://github.com/openai/codex/issues/28756">https://github.com/openai/codex/issues/28756</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550769">https://news.ycombinator.com/item?id=49550769</a></p>
+<p>Points: 20</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
+🔗 **Read more:** [https://github.com/openai/codex/issues/28756](https://github.com/openai/codex/issues/28756)
 
 ---
 
-### 3. Pre-Release of Polars 2.0
+### 3. ChatGPT Is Throwing 404
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pola.rs/posts/announcing-polars-2/">https://pola.rs/posts/announcing-polars-2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49546753">https://news.ycombinator.com/item?id=49546753</a></p>
-<p>Points: 194</p>
-<p># Comments: 43</p>
+<p>Article URL: <a href="https://chatgpt.com/">https://chatgpt.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49550614">https://news.ycombinator.com/item?id=49550614</a></p>
+<p>Points: 89</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://pola.rs/posts/announcing-polars-2/](https://pola.rs/posts/announcing-polars-2/)
+🔗 **Read more:** [https://chatgpt.com/](https://chatgpt.com/)
 
 ---
 
-### 4. Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply
+### 4. Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The pair discussed small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Once-rival criminal groups are being forced to work together because of a shorta
 
 ---
 
-### 5. Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day
+### 6. Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day
 
 **Source:** BBC
 
@@ -84,55 +97,81 @@ A BBC investigation has found smuggling gangs are running low on small boats, fo
 
 ---
 
-### 6. Feminist activist and journalist Gloria Steinem dies at 92
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Her foundation said she "passed away peacefully" at her home in New York City, "surrounded by many who loved her".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. No end to torture of Gaza doctor Abu Safia in Israeli prison: What to know
+### 7. Iranian drone damages residential building in Kuwait City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Abu Safia, who has been under custody for nearly two years, continues to face abuse inside prison, his lawyer says.
+An Iranian drone attack damaged a residential building in Kuwait, authorities say, with no casualties reported.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/no-end-to-torture-of-gaza-doctor-abu-safiya-in-israeli-prison-what-to-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss)
 
 ---
 
-### 8. Legendary Bosnian striker Edin Dzeko to retire from international football
+### 8. Ukrainian intel agencies in Kyiv firefight: What happened and why?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 40-year-old scored 73 goals in 151 appearances, making him Bosnia&#039;s most-capped ‌player and all-time leading scorer.
+Three intelligence officers were wounded in shootout that Zelenskyy has described as &#039;absolutely disgraceful&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/3/legendary-bosnian-striker-edin-dzeko-to-retire-from-international-football?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss)
 
 ---
 
-### 9. Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts
+### 9. Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kyrgyzstan balances ties with global powers while leveraging its geography to secure economic and political opportunities.
+They&#039;re not carrying out pogroms, but are nonetheless setting the stage for land grabs by Israeli settlers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/kyrgyzstan-hosts-pivotal-sco-summit-amid-global-geopolitical-shifts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss)
+
+---
+
+### 10. Hurricane Marie
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800)
+
+---
+
+### 11. Tropical Storm Edouard
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739)
+
+---
+
+### 12. Tropical Storm Krovanh
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738)
 
 ---
 
