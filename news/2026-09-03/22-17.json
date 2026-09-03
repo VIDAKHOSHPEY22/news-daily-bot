@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-03T22:17:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
+            "description": "<p>Article URL: <a href=\"https://inference-docs.cerebras.ai/models/overview\">https://inference-docs.cerebras.ai/models/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554520\">https://news.ycombinator.com/item?id=49554520</a></p>\n<p>Points: 29</p>\n<p># Comments: 1</p>",
+            "url": "https://inference-docs.cerebras.ai/models/overview",
+            "published": "Thu, 03 Sep 2026 18:32:13 +0000",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI begins rolling out GPT-6 Astra",
+            "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html\">https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554273\">https://news.ycombinator.com/item?id=49554273</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+            "published": "Thu, 03 Sep 2026 18:18:22 +0000",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Double Matthew Walker Knot by Fable 5.1",
+            "description": "<p>Article URL: <a href=\"https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c\">https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554154\">https://news.ycombinator.com/item?id=49554154</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
+            "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
+            "published": "Thu, 03 Sep 2026 18:09:37 +0000",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham and Macron agree to scale up action on small boats in first meeting",
+            "description": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says.",
+            "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 15:46:49 GMT",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+            "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+            "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 05:00:04 GMT",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch accuses Burnham of kicking defence spending into the long grass",
+            "description": "Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030.",
+            "url": "https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 16:23:16 GMT",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel releases Lebanese civilian, says five prisoners will be freed",
+            "description": "The prisoner, identified as Malek Ghazi, is the first Lebanese citizen held by Israel to be set free since talks began.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 18:13:55 +0000",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza farmers restore seed bank to preserve local crops",
+            "description": "Farmers are rebuilding a seed bank destroyed during Israel’s war on Gaza to preserve local crop varieties",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 17:50:48 +0000",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kurdish women who fought ISIL seek place in Syria’s new security forces",
+            "description": "Following the SDF’s dissolution, the Kurdish all-women YPJ is seeking to preserve its combat role in Syria.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-ypj-syrian-army-sv?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 17:42:28 +0000",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Marie",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23800",
+            "published": "2026-09-01T06:00:00Z",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Edouard",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23739",
+            "published": "2026-09-01T03:00:00Z",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Krovanh",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23738",
+            "published": "2026-09-01T00:00:00Z",
+            "fetched": "2026-09-03T22:17:27+03:30"
+        }
+    ]
+}
