@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-03 22:17:27
+**Last Update:** 2026-09-03 23:12:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Qwen 3.8 27B available on Cerebras at 1500 tok/SEC
+### 1. GPT-6-Astra: infinitely pairs of consecutive primes with distance at most 186
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://inference-docs.cerebras.ai/models/overview">https://inference-docs.cerebras.ai/models/overview</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49554520">https://news.ycombinator.com/item?id=49554520</a></p>
-<p>Points: 29</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://inference-docs.cerebras.ai/models/overview](https://inference-docs.cerebras.ai/models/overview)
-
----
-
-### 2. OpenAI begins rolling out GPT-6 Astra
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html">https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49554273">https://news.ycombinator.com/item?id=49554273</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://github.com/openai/PrimeGaps186">https://github.com/openai/PrimeGaps186</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555257">https://news.ycombinator.com/item?id=49555257</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html](https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html)
+🔗 **Read more:** [https://github.com/openai/PrimeGaps186](https://github.com/openai/PrimeGaps186)
 
 ---
 
-### 3. The Double Matthew Walker Knot by Fable 5.1
+### 2. The asteroid currently hitting front end web development
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c">https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49554154">https://news.ycombinator.com/item?id=49554154</a></p>
-<p>Points: 9</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/">https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49555233">https://news.ycombinator.com/item?id=49555233</a></p>
+<p>Points: 4</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c](https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c)
+🔗 **Read more:** [https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)
+
+---
+
+### 3. GPT-6 Astra
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/gpt-6-astra/">https://openai.com/index/gpt-6-astra/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49554643">https://news.ycombinator.com/item?id=49554643</a></p>
+<p>Points: 87</p>
+<p># Comments: 32</p>
+
+🔗 **Read more:** [https://openai.com/index/gpt-6-astra/](https://openai.com/index/gpt-6-astra/)
 
 ---
 
@@ -71,68 +71,68 @@ The leaders also discussed Ukraine and "the UK's drive to get closer to Europe",
 
 ---
 
-### 5. Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply
+### 5. Schools to close early for A66 crash funeral amid safety concerns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.
+The funeral of one of five young men killed in the crash with a police car is due to take place.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Badenoch accuses Burnham of kicking defence spending into the long grass
+### 6. Fifa accuses Uefa of 'smear campaign' against Infantino
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030.
+The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel releases Lebanese civilian, says five prisoners will be freed
+### 7. Advocates decry US House vote to defund universities that boycott Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The prisoner, identified as Malek Ghazi, is the first Lebanese citizen held by Israel to be set free since talks began.
+Rights groups say the measure infringes on the freedom of speech of Americans for the benefit of a foreign nation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/advocates-decry-us-house-vote-to-defund-universities-that-boycott-israel?traffic_source=rss)
 
 ---
 
-### 8. Gaza farmers restore seed bank to preserve local crops
+### 8. Is Nepal leading the battle for climate justice?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Farmers are rebuilding a seed bank destroyed during Israel’s war on Gaza to preserve local crop varieties
+Foreign minister demands top three polluting nations compensate Nepal for recent disaster.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/3/is-nepal-leading-the-battle-for-climate-justice?traffic_source=rss)
 
 ---
 
-### 9. Kurdish women who fought ISIL seek place in Syria’s new security forces
+### 9. Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Following the SDF’s dissolution, the Kurdish all-women YPJ is seeking to preserve its combat role in Syria.
+Palestine Action activists convicted of criminal damage “with a terrorist connection” are appealing their convictions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-ypj-syrian-army-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-ypj-syrian-army-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss)
 
 ---
 
