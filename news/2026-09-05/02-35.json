@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-05T02:35:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+            "description": "<p>Article URL: <a href=\"https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\">https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570772\">https://news.ycombinator.com/item?id=49570772</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+            "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+            "published": "Fri, 04 Sep 2026 22:03:16 +0000",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Actively exploited sandbox RCE in all Chromium versions",
+            "description": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-85046\">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570669\">https://news.ycombinator.com/item?id=49570669</a></p>\n<p>Points: 50</p>\n<p># Comments: 9</p>",
+            "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+            "published": "Fri, 04 Sep 2026 21:52:01 +0000",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Icons as a Service",
+            "description": "<p>Article URL: <a href=\"https://nravic.com/blog/images/\">https://nravic.com/blog/images/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570597\">https://news.ycombinator.com/item?id=49570597</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://nravic.com/blog/images/",
+            "published": "Fri, 04 Sep 2026 21:44:59 +0000",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+            "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:50:01 GMT",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleveland police chief proud of force but being 'let down' by funding",
+            "description": "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 21:00:05 GMT",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+            "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+            "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 22:48:38 GMT",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mock Republican convention website redirects users to Epstein Files",
+            "description": "Democratic lawmakers poke fun at prank website, while Republicans slam &#039;fake news&#039; and redirect users to real one.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 22:51:06 +0000",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+            "description": "Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 21:58:47 +0000",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Costa Rican president signals openness to domestic US military operations",
+            "description": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 21:45:56 +0000",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-05T02:35:47+03:30"
+        }
+    ]
+}
