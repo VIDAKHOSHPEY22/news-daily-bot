@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-04T22:53:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+            "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 16:50:00 GMT",
+            "fetched": "2026-09-04T22:53:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+            "description": "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.",
+            "url": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:20:18 GMT",
+            "fetched": "2026-09-04T22:53:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UN votes to adopt new world map to reflect Africa's true size",
+            "description": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+            "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 17:26:40 GMT",
+            "fetched": "2026-09-04T22:53:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+            "description": "Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 18:52:28 +0000",
+            "fetched": "2026-09-04T22:53:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazilian Supreme Court roiled by dispute between justices",
+            "description": "The country&#039;s highest court is considering investigations into two judges who have accused each other of wrongdoing.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 18:46:44 +0000",
+            "fetched": "2026-09-04T22:53:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Villagers vow to rebuild despite devastating mass demolition in West Bank",
+            "description": "Israeli forces&#039; demolition of 12 homes in Khirbet al-Tabban leaves villagers determined to stand firm on their land.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 18:32:40 +0000",
+            "fetched": "2026-09-04T22:53:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T22:53:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T22:53:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T22:53:05+03:30"
+        }
+    ]
+}

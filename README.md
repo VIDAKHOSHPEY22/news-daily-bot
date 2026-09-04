@@ -1,65 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 21:10:25
+**Last Update:** 2026-09-04 22:53:05
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Open-Source eInk Bike Computer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href="https://github.com/RaemondBW/esp32-ant" rel="nofollow">https://github.com/RaemondBW/esp32-ant</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567437">https://news.ycombinator.com/item?id=49567437</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://opentrailpaper.com](https://opentrailpaper.com)
-
----
-
-### 2. Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/ggerganov/status/2095897173376618881">https://twitter.com/ggerganov/status/2095897173376618881</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567357">https://news.ycombinator.com/item?id=49567357</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://twitter.com/ggerganov/status/2095897173376618881](https://twitter.com/ggerganov/status/2095897173376618881)
-
----
-
-### 3. Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/">https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567053">https://news.ycombinator.com/item?id=49567053</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/](https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/)
-
----
-
-### 4. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
+### 1. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
 
 **Source:** BBC
 
@@ -72,20 +23,20 @@ BBC News visits town where violence has escalated after the fatal crash and resi
 
 ---
 
-### 5. Farage says his aides' donor comments were 'loose pub talk'
+### 2. Farage threatens to overhaul Lords and judges to meet his pledges
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two senior Reform aides have stepped down from their roles following a Channel 4 News and Verbatim film about donations.
+The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UN votes to adopt new world map to reflect Africa's true size
+### 3. UN votes to adopt new world map to reflect Africa's true size
 
 **Source:** BBC
 
@@ -98,46 +49,46 @@ The Togo-sponsored resolution was backed by 164 nations - the US the only nation
 
 ---
 
-### 7. Rescuers race to save10-year-old Algerian boy trapped in deep well
+### 4. Five EU nations inch towards deal on migrant ‘return hubs’ by 2027
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescue teams in Algeria are racing against time to save a 10-year-old boy named Ayoub, after he fell into an deep well.
+Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss)
 
 ---
 
-### 8. US adds 162,000 jobs in August, raising Fed rate hike expectations
+### 5. Brazilian Supreme Court roiled by dispute between justices
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Unemployment rate steady as public schools and food services lead the surge in US job growth for August.
+The country&#039;s highest court is considering investigations into two judges who have accused each other of wrongdoing.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss)
 
 ---
 
-### 9. The number 10 shirt must not retire with Messi
+### 6. Villagers vow to rebuild despite devastating mass demolition in West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Maradona and Messi each made the shirt their own. The next great Argentinian player should have that chance, too.
+Israeli forces&#039; demolition of 12 homes in Khirbet al-Tabban leaves villagers determined to stand firm on their land.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss)
 
 ---
 
-### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 7. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -150,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Ayers Pond, Prairie, Montana
+### 8. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
@@ -163,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Snow, Custer, Montana
+### 9. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 
