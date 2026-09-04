@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T13:15:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Raspberry Pi Interactive Timeline · 2006–2026",
+            "description": "<p>Article URL: <a href=\"https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline\">https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562062\">https://news.ycombinator.com/item?id=49562062</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+            "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
+            "published": "Fri, 04 Sep 2026 08:35:15 +0000",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+            "description": "<p>Article URL: <a href=\"https://carbonawarepricing.com/\">https://carbonawarepricing.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561975\">https://news.ycombinator.com/item?id=49561975</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+            "url": "https://carbonawarepricing.com/",
+            "published": "Fri, 04 Sep 2026 08:19:57 +0000",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+            "description": "<p>Article URL: <a href=\"http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/\">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561320\">https://news.ycombinator.com/item?id=49561320</a></p>\n<p>Points: 123</p>\n<p># Comments: 36</p>",
+            "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+            "published": "Fri, 04 Sep 2026 06:47:51 +0000",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+            "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+            "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 08:23:05 GMT",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
+            "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
+            "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 06:52:29 GMT",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+            "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 05:59:10 GMT",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moment three-storey building collapses amid flooding in China",
+            "description": "Severe flooding in China’s Fujian province has caused a three-storey building to collapse.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 09:28:34 +0000",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nepal search teams rescue two workers from hydropower tunnel",
+            "description": "&#039;Miracle&#039; rescue nine days after devastating flood raises hope that more people could still be found alive.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 09:09:11 +0000",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why has the Philippine peso plunged to a record low?",
+            "description": "The Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.",
+            "url": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 08:38:34 +0000",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T13:15:22+03:30"
+        }
+    ]
+}
