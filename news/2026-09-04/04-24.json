@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T04:24:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GLP-1s are being linked to fewer serious infections, including TB",
+            "description": "<p><a href=\"https://web.archive.org/web/20260903235256/https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796\" rel=\"nofollow\">https://web.archive.org/web/20260903235256/https://gizmodo.c...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49558086\">https://news.ycombinator.com/item?id=49558086</a></p>\n<p>Points: 45</p>\n<p># Comments: 29</p>",
+            "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+            "published": "Thu, 03 Sep 2026 22:37:31 +0000",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+            "description": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 77</p>\n<p># Comments: 22</p>",
+            "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+            "published": "Thu, 03 Sep 2026 21:20:34 +0000",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+            "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers/customer-success-engineer\">https://tasklet.ai/careers/customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49556922\">https://news.ycombinator.com/item?id=49556922</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://tasklet.ai/careers/customer-success-engineer",
+            "published": "Thu, 03 Sep 2026 21:01:10 +0000",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage senior aide filmed suggesting way to avoid donations law",
+            "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 21:07:58 GMT",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+            "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 23:00:15 GMT",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tensions flare as judge declines to remove holdout juror in Lindsay Clancy trial",
+            "description": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
+            "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 23:52:29 GMT",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: US rules out Iran talks until ship attacks stop",
+            "description": "Iran&#039;s First Vice President Mohammad Reza Aref vows “asymmetrical” and “multi-layered” response to US attacks.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Are Trump’s AI videos just memes or psychological warfare?",
+            "description": "Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 23:36:20 +0000",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
+            "description": "Critics claim Tunisia’s judiciary acts under political pressure, as opposition leaders face lengthy prison terms.",
+            "url": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
+            "published": "Thu, 03 Sep 2026 23:23:26 +0000",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T04:24:21+03:30"
+        }
+    ]
+}
