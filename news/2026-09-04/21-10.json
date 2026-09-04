@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T21:10:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Open-Source eInk Bike Computer",
+            "description": "<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href=\"https://github.com/RaemondBW/esp32-ant\" rel=\"nofollow\">https://github.com/RaemondBW/esp32-ant</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567437\">https://news.ycombinator.com/item?id=49567437</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://opentrailpaper.com",
+            "published": "Fri, 04 Sep 2026 17:18:08 +0000",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/ggerganov/status/2095897173376618881\">https://twitter.com/ggerganov/status/2095897173376618881</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567357\">https://news.ycombinator.com/item?id=49567357</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+            "published": "Fri, 04 Sep 2026 17:12:22 +0000",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+            "description": "<p>Article URL: <a href=\"https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/\">https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567053\">https://news.ycombinator.com/item?id=49567053</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+            "published": "Fri, 04 Sep 2026 16:46:59 +0000",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+            "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 16:50:00 GMT",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage says his aides' donor comments were 'loose pub talk'",
+            "description": "Two senior Reform aides have stepped down from their roles following a Channel 4 News and Verbatim film about donations.",
+            "url": "https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 16:08:29 GMT",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UN votes to adopt new world map to reflect Africa's true size",
+            "description": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+            "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 17:26:40 GMT",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rescuers race to save10-year-old Algerian boy trapped in deep well",
+            "description": "Rescue teams in Algeria are racing against time to save a 10-year-old boy named Ayoub, after he fell into an deep well.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 16:48:50 +0000",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
+            "description": "Unemployment rate steady as public schools and food services lead the surge in US job growth for August.",
+            "url": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 16:31:20 +0000",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The number 10 shirt must not retire with Messi",
+            "description": "Maradona and Messi each made the shirt their own. The next great Argentinian player should have that chance, too.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 16:31:15 +0000",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T21:10:25+03:30"
+        }
+    ]
+}

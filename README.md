@@ -1,64 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 19:43:49
+**Last Update:** 2026-09-04 21:10:25
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Corporate America Is Getting Hooked on Open-Source A.I
+### 1. Show HN: Open-Source eInk Bike Computer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html">https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49566137">https://news.ycombinator.com/item?id=49566137</a></p>
-<p>Points: 25</p>
-<p># Comments: 7</p>
+<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href="https://github.com/RaemondBW/esp32-ant" rel="nofollow">https://github.com/RaemondBW/esp32-ant</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567437">https://news.ycombinator.com/item?id=49567437</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
+🔗 **Read more:** [https://opentrailpaper.com](https://opentrailpaper.com)
 
 ---
 
-### 2. GMails custom domain "send as" discontinues January 2027
+### 2. Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://support.google.com/mail/answer/22370?hl=en">https://support.google.com/mail/answer/22370?hl=en</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49565693">https://news.ycombinator.com/item?id=49565693</a></p>
-<p>Points: 79</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://twitter.com/ggerganov/status/2095897173376618881">https://twitter.com/ggerganov/status/2095897173376618881</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567357">https://news.ycombinator.com/item?id=49567357</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://support.google.com/mail/answer/22370?hl=en](https://support.google.com/mail/answer/22370?hl=en)
+🔗 **Read more:** [https://twitter.com/ggerganov/status/2095897173376618881](https://twitter.com/ggerganov/status/2095897173376618881)
 
 ---
 
-### 3. Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal
+### 3. Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/">https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564714">https://news.ycombinator.com/item?id=49564714</a></p>
-<p>Points: 72</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/">https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49567053">https://news.ycombinator.com/item?id=49567053</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/](https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/)
+🔗 **Read more:** [https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/](https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/)
 
 ---
 
-### 4. Farage says his aides' donor comments were 'loose pub talk'
+### 4. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Farage says his aides' donor comments were 'loose pub talk'
 
 **Source:** BBC
 
@@ -71,68 +85,55 @@ Two senior Reform aides have stepped down from their roles following a Channel 4
 
 ---
 
-### 5. 'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors
+### 6. UN votes to adopt new world map to reflect Africa's true size
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.
+The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The comments come as Argentinian president Javier Milei says the "winds of change" favoured his country's claim on the British overseas territory.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia’s jet-powered drones overwhelm Ukraine, killing dozens
+### 7. Rescuers race to save10-year-old Algerian boy trapped in deep well
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.
+Rescue teams in Algeria are racing against time to save a 10-year-old boy named Ayoub, after he fell into an deep well.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss)
 
 ---
 
-### 8. UN raises ‘ethnic cleansing’ concerns over Israeli West Bank operation
+### 8. US adds 162,000 jobs in August, raising Fed rate hike expectations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.
+Unemployment rate steady as public schools and food services lead the surge in US job growth for August.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss)
 
 ---
 
-### 9. Diesel price hits all-time high in US amid Iran war woes
+### 9. The number 10 shirt must not retire with Messi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.
+Maradona and Messi each made the shirt their own. The next great Argentinian player should have that chance, too.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss)
 
 ---
 
