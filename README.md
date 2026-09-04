@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 22:53:05
+**Last Update:** 2026-09-05 00:22:16
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
+### 1. How to Create a Tor Exit Node
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://madpsy.uk/how-to-create-a-tor-exit-node/">https://madpsy.uk/how-to-create-a-tor-exit-node/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569702">https://news.ycombinator.com/item?id=49569702</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://madpsy.uk/how-to-create-a-tor-exit-node/](https://madpsy.uk/how-to-create-a-tor-exit-node/)
+
+---
+
+### 2. An open DNS recursive service for free security and high privacy
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://quad9.net/">https://quad9.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569663">https://news.ycombinator.com/item?id=49569663</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://quad9.net/](https://quad9.net/)
+
+---
+
+### 3. Can AI design circuit boards yet?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569366">https://news.ycombinator.com/item?id=49569366</a></p>
+<p>Points: 39</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://eebench.org/blog/can-ai-design-circuit-boards-yet/](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+
+---
+
+### 4. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
 
 **Source:** BBC
 
@@ -23,7 +71,20 @@ BBC News visits town where violence has escalated after the fatal crash and resi
 
 ---
 
-### 2. Farage threatens to overhaul Lords and judges to meet his pledges
+### 5. BBC visits area at heart of police investigation after A66 crash
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The BBC's Ed Thomas has visited Grangetown, an area which has been the focus of an investigation following the deadly A66 crash.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Farage threatens to overhaul Lords and judges to meet his pledges
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ The Reform UK leader promises to deliver on key priorities in the first 100 days
 
 ---
 
-### 3. UN votes to adopt new world map to reflect Africa's true size
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Five EU nations inch towards deal on migrant ‘return hubs’ by 2027
+### 7. Israeli drones drop bombs on southern Lebanon’s Mansouri
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Germany, Austria, ⁠Greece, Denmark and the Netherlands did not outline where the centres would be located.
+Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss)
 
 ---
 
-### 5. Brazilian Supreme Court roiled by dispute between justices
+### 8. Israeli strike kills two in southern Lebanon amid ongoing escalation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The country&#039;s highest court is considering investigations into two judges who have accused each other of wrongdoing.
+Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/brazilian-supreme-court-roiled-by-dispute-between-justices?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss)
 
 ---
 
-### 6. Villagers vow to rebuild despite devastating mass demolition in West Bank
+### 9. Andrew Tate indicted in Romania for trafficking minors, money laundering
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces&#039; demolition of 12 homes in Khirbet al-Tabban leaves villagers determined to stand firm on their land.
+The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss)
 
 ---
 
-### 7. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire Ayers Pond, Prairie, Montana
+### 11. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Snow, Custer, Montana
+### 12. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 

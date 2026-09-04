@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-05T00:22:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to Create a Tor Exit Node",
+            "description": "<p>Article URL: <a href=\"https://madpsy.uk/how-to-create-a-tor-exit-node/\">https://madpsy.uk/how-to-create-a-tor-exit-node/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569702\">https://news.ycombinator.com/item?id=49569702</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+            "published": "Fri, 04 Sep 2026 20:16:22 +0000",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An open DNS recursive service for free security and high privacy",
+            "description": "<p>Article URL: <a href=\"https://quad9.net/\">https://quad9.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569663\">https://news.ycombinator.com/item?id=49569663</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://quad9.net/",
+            "published": "Fri, 04 Sep 2026 20:13:08 +0000",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Can AI design circuit boards yet?",
+            "description": "<p>Article URL: <a href=\"https://eebench.org/blog/can-ai-design-circuit-boards-yet/\">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569366\">https://news.ycombinator.com/item?id=49569366</a></p>\n<p>Points: 39</p>\n<p># Comments: 24</p>",
+            "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+            "published": "Fri, 04 Sep 2026 19:48:29 +0000",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+            "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:50:01 GMT",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC visits area at heart of police investigation after A66 crash",
+            "description": "The BBC's Ed Thomas has visited Grangetown, an area which has been the focus of an investigation following the deadly A66 crash.",
+            "url": "https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 20:10:23 GMT",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+            "description": "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.",
+            "url": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:20:18 GMT",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
+            "description": "Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 20:04:13 +0000",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
+            "description": "Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 19:48:25 +0000",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Andrew Tate indicted in Romania for trafficking minors, money laundering",
+            "description": "The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges",
+            "url": "https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 19:44:47 +0000",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-05T00:22:16+03:30"
+        }
+    ]
+}
