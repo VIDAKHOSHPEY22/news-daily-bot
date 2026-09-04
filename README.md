@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 04:24:21
+**Last Update:** 2026-09-04 08:16:14
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. GLP-1s are being linked to fewer serious infections, including TB
+### 1. Grep beats LSP? Why coding agents ignore your fancier tools
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://web.archive.org/web/20260903235256/https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796" rel="nofollow">https://web.archive.org/web/20260903235256/https://gizmodo.c...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49558086">https://news.ycombinator.com/item?id=49558086</a></p>
-<p>Points: 45</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://www.agentconnect.md/blog/grep-beat-lsp-harness/">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49560260">https://news.ycombinator.com/item?id=49560260</a></p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796](https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796)
+🔗 **Read more:** [https://www.agentconnect.md/blog/grep-beat-lsp-harness/](https://www.agentconnect.md/blog/grep-beat-lsp-harness/)
 
 ---
 
-### 2. Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out
+### 2. A Mysterious Kidney Disease Has Arrived in Texas
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://armature.tech/blog/which-tools-coding-agents-install">https://armature.tech/blog/which-tools-coding-agents-install</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49557206">https://news.ycombinator.com/item?id=49557206</a></p>
-<p>Points: 77</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/">https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559992">https://news.ycombinator.com/item?id=49559992</a></p>
+<p>Points: 26</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://armature.tech/blog/which-tools-coding-agents-install](https://armature.tech/blog/which-tools-coding-agents-install)
+🔗 **Read more:** [https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
 
 ---
 
-### 3. Tasklet (YC P26) Is Hiring a Customer Success Engineer
+### 3. From Hookswitch to Grave
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tasklet.ai/careers/customer-success-engineer">https://tasklet.ai/careers/customer-success-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49556922">https://news.ycombinator.com/item?id=49556922</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://computer.rip/2026-06-14-hookswitch-to-grave.html">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49559901">https://news.ycombinator.com/item?id=49559901</a></p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://tasklet.ai/careers/customer-success-engineer](https://tasklet.ai/careers/customer-success-engineer)
+🔗 **Read more:** [https://computer.rip/2026-06-14-hookswitch-to-grave.html](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
 
 ---
 
@@ -85,55 +84,55 @@ The government is set to give the go-ahead for the gas field off the coast of Ab
 
 ---
 
-### 6. Tensions flare as judge declines to remove holdout juror in Lindsay Clancy trial
+### 6. Transplanted pig kidney works in US man's body for record 271 days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.
+A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: US rules out Iran talks until ship attacks stop
+### 7. Mladic’s body arrives to full military honours in Serbia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s First Vice President Mohammad Reza Aref vows “asymmetrical” and “multi-layered” response to US attacks.
+The body of war criminal Ratko Mladic has arrived in Belgrade, where he received a full military guard.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/mladics-body-arrives-to-full-military-honours-in-serbia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/mladics-body-arrives-to-full-military-honours-in-serbia?traffic_source=rss)
 
 ---
 
-### 8. Are Trump’s AI videos just memes or psychological warfare?
+### 8. Entertainment over policy? White House arcade games ignite backlash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s use of AI generated content has ramped up in recent months, posting videos of fake military strikes.
+White House arcade games spark criticism for prioritising entertainment amid rising living costs and war concerns.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss)
 
 ---
 
-### 9. Tunisia’s top court upholds conviction of opposition figures, activists
+### 9. OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Critics claim Tunisia’s judiciary acts under political pressure, as opposition leaders face lengthy prison terms.
+OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss)
 
 ---
 

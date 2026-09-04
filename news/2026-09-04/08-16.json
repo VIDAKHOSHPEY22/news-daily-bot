@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T08:16:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+            "description": "<p>Article URL: <a href=\"https://www.agentconnect.md/blog/grep-beat-lsp-harness/\">https://www.agentconnect.md/blog/grep-beat-lsp-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49560260\">https://news.ycombinator.com/item?id=49560260</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+            "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+            "published": "Fri, 04 Sep 2026 03:40:26 +0000",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Mysterious Kidney Disease Has Arrived in Texas",
+            "description": "<p>Article URL: <a href=\"https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/\">https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559992\">https://news.ycombinator.com/item?id=49559992</a></p>\n<p>Points: 26</p>\n<p># Comments: 25</p>",
+            "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+            "published": "Fri, 04 Sep 2026 02:54:16 +0000",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "From Hookswitch to Grave",
+            "description": "<p>Article URL: <a href=\"https://computer.rip/2026-06-14-hookswitch-to-grave.html\">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559901\">https://news.ycombinator.com/item?id=49559901</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+            "published": "Fri, 04 Sep 2026 02:40:12 +0000",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage senior aide filmed suggesting way to avoid donations law",
+            "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
+            "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 21:07:58 GMT",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+            "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 23:00:15 GMT",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Transplanted pig kidney works in US man's body for record 271 days",
+            "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+            "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 22:31:23 GMT",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mladic’s body arrives to full military honours in Serbia",
+            "description": "The body of war criminal Ratko Mladic has arrived in Belgrade, where he received a full military guard.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mladics-body-arrives-to-full-military-honours-in-serbia?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 04:32:13 +0000",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Entertainment over policy? White House arcade games ignite backlash",
+            "description": "White House arcade games spark criticism for prioritising entertainment amid rising living costs and war concerns.",
+            "url": "https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 03:44:47 +0000",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns",
+            "description": "OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.",
+            "url": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 03:36:19 +0000",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T08:16:14+03:30"
+        }
+    ]
+}
