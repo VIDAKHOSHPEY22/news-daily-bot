@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 14:35:38
+**Last Update:** 2026-09-04 17:55:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI agents hijacked German website in previously undisclosed AI breakout
+### 1. 'People are going to get screwed' Pennsylvania voters unite against data centres
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/">https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562744">https://news.ycombinator.com/item?id=49562744</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5">http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564397">https://news.ycombinator.com/item?id=49564397</a></p>
+<p>Points: 24</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
+🔗 **Read more:** [http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5](http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5)
 
 ---
 
-### 2. Solving the Jane Street Reverse Engineering Challenge
+### 2. Scientists Find Worms in Almost Every Fish in a Tuna Haul – 96% Were Infected
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jestoph.com/2026/09/04/jane-street-challenge.html">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562657">https://news.ycombinator.com/item?id=49562657</a></p>
-<p>Points: 19</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected">https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49564112">https://news.ycombinator.com/item?id=49564112</a></p>
+<p>Points: 21</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://jestoph.com/2026/09/04/jane-street-challenge.html](https://jestoph.com/2026/09/04/jane-street-challenge.html)
+🔗 **Read more:** [https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected](https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected)
 
 ---
 
-### 3. The Raspberry Pi Interactive Timeline · 2006–2026
+### 3. IBM Bob
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline">https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562062">https://news.ycombinator.com/item?id=49562062</a></p>
-<p>Points: 30</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://bob.ibm.com/">https://bob.ibm.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49563851">https://news.ycombinator.com/item?id=49563851</a></p>
+<p>Points: 59</p>
+<p># Comments: 47</p>
 
-🔗 **Read more:** [https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
+🔗 **Read more:** [https://bob.ibm.com/](https://bob.ibm.com/)
 
 ---
 
-### 4. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
+### 4. Chris Mason: 'This is not what Farage wanted today to look like'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Chris Mason speaks from the Reform UK conference as two of its senior officials step down following a Channel 4 investigation.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ From searching for a buried tunnel entrance to blowing up rocks the size of cars
 
 ---
 
-### 5. UK will 'resolutely uphold' Falklands self-determination, Miliband says
+### 6. UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The foreign secretary's comments come as Argentinian president Javier Milei says the "winds of change" favoured his country's claim on the British Overseas Territory.
+The comments come as Argentinian president Javier Milei says the "winds of change" favoured his country's claim on the British overseas territory.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Stock up on food to prepare for extreme weather, minister warns
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Dame Angela Eagle warns the weather event could lead to extreme storms this winter.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Reform UK officials step down as new funding scandal hits far-right party
+### 7. Two Muslim women journalists allege police assault in India
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Resignations come after documentary alleges party arranged for overseas company to fund polling.
+Two Muslim female journalists allege they were detained and brutally assaulted by police in India’s capital, Delhi.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss)
 
 ---
 
-### 8. Argentina’s Milei threatens sanctions as he refocuses on Falklands
+### 8. Philippine court orders arrest of VP Duterte over President Marcos threats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.
+Warrant follows charge she threatened to have Marcos, his wife and a cousin killed by a hitman.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss)
 
 ---
 
-### 9. ‘Build The Wall’: White House arcade games face backlash
+### 9. Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The White House has unveiled five arcade-style games to promote Trump&#039;s &#039;MAGA&#039; agenda.
+Unbeaten French challenger Flora Pili stands in the way of Taylor becoming undisputed world champion for a third time.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/build-the-wall-white-house-arcade-games-face-backlash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/build-the-wall-white-house-arcade-games-face-backlash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss)
 
 ---
 
