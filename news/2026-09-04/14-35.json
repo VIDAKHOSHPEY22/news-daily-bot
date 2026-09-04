@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T14:35:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/\">https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562744\">https://news.ycombinator.com/item?id=49562744</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+            "published": "Fri, 04 Sep 2026 10:30:57 +0000",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Solving the Jane Street Reverse Engineering Challenge",
+            "description": "<p>Article URL: <a href=\"https://jestoph.com/2026/09/04/jane-street-challenge.html\">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562657\">https://news.ycombinator.com/item?id=49562657</a></p>\n<p>Points: 19</p>\n<p># Comments: 8</p>",
+            "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+            "published": "Fri, 04 Sep 2026 10:17:01 +0000",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Raspberry Pi Interactive Timeline · 2006–2026",
+            "description": "<p>Article URL: <a href=\"https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline\">https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562062\">https://news.ycombinator.com/item?id=49562062</a></p>\n<p>Points: 30</p>\n<p># Comments: 23</p>",
+            "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
+            "published": "Fri, 04 Sep 2026 08:35:15 +0000",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+            "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+            "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 08:23:05 GMT",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK will 'resolutely uphold' Falklands self-determination, Miliband says",
+            "description": "The foreign secretary's comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British Overseas Territory.",
+            "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 10:59:27 GMT",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Stock up on food to prepare for extreme weather, minister warns",
+            "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+            "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 10:40:23 GMT",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Reform UK officials step down as new funding scandal hits far-right party",
+            "description": "Resignations come after documentary alleges party arranged for overseas company to fund polling.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 10:26:42 +0000",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+            "description": "Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 10:17:47 +0000",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Build The Wall’: White House arcade games face backlash",
+            "description": "The White House has unveiled five arcade-style games to promote Trump&#039;s &#039;MAGA&#039; agenda.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/build-the-wall-white-house-arcade-games-face-backlash?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 10:10:58 +0000",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T14:35:38+03:30"
+        }
+    ]
+}

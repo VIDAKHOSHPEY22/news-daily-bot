@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-04 13:15:22
+**Last Update:** 2026-09-04 14:35:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Raspberry Pi Interactive Timeline · 2006–2026
+### 1. OpenAI agents hijacked German website in previously undisclosed AI breakout
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/">https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562744">https://news.ycombinator.com/item?id=49562744</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
+
+---
+
+### 2. Solving the Jane Street Reverse Engineering Challenge
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jestoph.com/2026/09/04/jane-street-challenge.html">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562657">https://news.ycombinator.com/item?id=49562657</a></p>
+<p>Points: 19</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://jestoph.com/2026/09/04/jane-street-challenge.html](https://jestoph.com/2026/09/04/jane-street-challenge.html)
+
+---
+
+### 3. The Raspberry Pi Interactive Timeline · 2006–2026
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline">https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49562062">https://news.ycombinator.com/item?id=49562062</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Points: 30</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
-
----
-
-### 2. Carbon-aware electricity pricing, measured daily on 38 grids
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://carbonawarepricing.com/">https://carbonawarepricing.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49561975">https://news.ycombinator.com/item?id=49561975</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://carbonawarepricing.com/](https://carbonawarepricing.com/)
-
----
-
-### 3. Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49561320">https://news.ycombinator.com/item?id=49561320</a></p>
-<p>Points: 123</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
 
 ---
 
@@ -71,68 +71,68 @@ From searching for a buried tunnel entrance to blowing up rocks the size of cars
 
 ---
 
-### 5. Argentine leader threatens to sanction oil firms and reiterates Falklands claim
+### 5. UK will 'resolutely uphold' Falklands self-determination, Miliband says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Javier Milei reiterates his country's claim on the British overseas territory, saying the "winds of change" favour it.
+The foreign secretary's comments come as Argentinian president Javier Milei says the "winds of change" favoured his country's claim on the British Overseas Territory.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Controversial Jackdaw gas field set to be approved in weeks, sources say
+### 6. Stock up on food to prepare for extreme weather, minister warns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.
+Dame Angela Eagle warns the weather event could lead to extreme storms this winter.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Moment three-storey building collapses amid flooding in China
+### 7. Reform UK officials step down as new funding scandal hits far-right party
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Severe flooding in China’s Fujian province has caused a three-storey building to collapse.
+Resignations come after documentary alleges party arranged for overseas company to fund polling.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-three-storey-building-collapses-amid-flooding-in-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/reform-uk-officials-step-down-as-new-funding-scandal-hits-far-right-party?traffic_source=rss)
 
 ---
 
-### 8. Nepal search teams rescue two workers from hydropower tunnel
+### 8. Argentina’s Milei threatens sanctions as he refocuses on Falklands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Miracle&#039; rescue nine days after devastating flood raises hope that more people could still be found alive.
+Argentina&#039;s president accused of political machinations as he eyes shifting US stance on Las Malvinas.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss)
 
 ---
 
-### 9. Why has the Philippine peso plunged to a record low?
+### 9. ‘Build The Wall’: White House arcade games face backlash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.
+The White House has unveiled five arcade-style games to promote Trump&#039;s &#039;MAGA&#039; agenda.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/build-the-wall-white-house-arcade-games-face-backlash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/build-the-wall-white-house-arcade-games-face-backlash?traffic_source=rss)
 
 ---
 
