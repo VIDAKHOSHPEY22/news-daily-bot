@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-04T19:43:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Corporate America Is Getting Hooked on Open-Source A.I",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html\">https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49566137\">https://news.ycombinator.com/item?id=49566137</a></p>\n<p>Points: 25</p>\n<p># Comments: 7</p>",
+            "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+            "published": "Fri, 04 Sep 2026 15:33:45 +0000",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GMails custom domain \"send as\" discontinues January 2027",
+            "description": "<p>Article URL: <a href=\"https://support.google.com/mail/answer/22370?hl=en\">https://support.google.com/mail/answer/22370?hl=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49565693\">https://news.ycombinator.com/item?id=49565693</a></p>\n<p>Points: 79</p>\n<p># Comments: 62</p>",
+            "url": "https://support.google.com/mail/answer/22370?hl=en",
+            "published": "Fri, 04 Sep 2026 15:03:03 +0000",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
+            "description": "<p>Article URL: <a href=\"https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/\">https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564714\">https://news.ycombinator.com/item?id=49564714</a></p>\n<p>Points: 72</p>\n<p># Comments: 18</p>",
+            "url": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+            "published": "Fri, 04 Sep 2026 13:54:26 +0000",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage says his aides' donor comments were 'loose pub talk'",
+            "description": "Two senior Reform aides have stepped down from their roles following a Channel 4 News and Verbatim film about donations.",
+            "url": "https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 16:08:29 GMT",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+            "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
+            "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 14:40:00 GMT",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+            "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+            "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 11:54:51 GMT",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+            "description": "As Ukrainian civilians suffer from air attacks, Russian ground forces struggle to advance.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 15:44:14 +0000",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN raises ‘ethnic cleansing’ concerns over Israeli West Bank operation",
+            "description": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 15:31:54 +0000",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Diesel price hits all-time high in US amid Iran war woes",
+            "description": "Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.",
+            "url": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 15:28:28 +0000",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-04T19:43:49+03:30"
+        }
+    ]
+}
