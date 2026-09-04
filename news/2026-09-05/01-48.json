@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-05T01:48:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Actively exploited sandbox RCE in all Chromium versions",
+            "description": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-85046\">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570669\">https://news.ycombinator.com/item?id=49570669</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+            "published": "Fri, 04 Sep 2026 21:52:01 +0000",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Statichost.eu – 100% European static site hosting",
+            "description": "<p>Article URL: <a href=\"https://www.statichost.eu/\">https://www.statichost.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569896\">https://news.ycombinator.com/item?id=49569896</a></p>\n<p>Points: 71</p>\n<p># Comments: 17</p>",
+            "url": "https://www.statichost.eu/",
+            "published": "Fri, 04 Sep 2026 20:34:49 +0000",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to Create a Tor Exit Node",
+            "description": "<p>Article URL: <a href=\"https://madpsy.uk/how-to-create-a-tor-exit-node/\">https://madpsy.uk/how-to-create-a-tor-exit-node/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569702\">https://news.ycombinator.com/item?id=49569702</a></p>\n<p>Points: 18</p>\n<p># Comments: 14</p>",
+            "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+            "published": "Fri, 04 Sep 2026 20:16:22 +0000",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+            "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:50:01 GMT",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleveland police chief proud of force but being 'let down' by funding",
+            "description": "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 21:00:05 GMT",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+            "description": "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.",
+            "url": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:20:18 GMT",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+            "description": "Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 21:58:47 +0000",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Costa Rican president signals openness to domestic US military operations",
+            "description": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
+            "url": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 21:45:56 +0000",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat",
+            "description": "Jose Mourinho&#039;s winning start to his second spell at Real Madrid ends with a 1-0 La Liga defeat at Real Betis.",
+            "url": "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss",
+            "published": "Fri, 04 Sep 2026 21:37:56 +0000",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-05T01:48:06+03:30"
+        }
+    ]
+}

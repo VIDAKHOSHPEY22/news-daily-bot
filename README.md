@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 00:22:16
+**Last Update:** 2026-09-05 01:48:06
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How to Create a Tor Exit Node
+### 1. Actively exploited sandbox RCE in all Chromium versions
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-85046">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49570669">https://news.ycombinator.com/item?id=49570669</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-85046](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+
+---
+
+### 2. Statichost.eu – 100% European static site hosting
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.statichost.eu/">https://www.statichost.eu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569896">https://news.ycombinator.com/item?id=49569896</a></p>
+<p>Points: 71</p>
+<p># Comments: 17</p>
+
+🔗 **Read more:** [https://www.statichost.eu/](https://www.statichost.eu/)
+
+---
+
+### 3. How to Create a Tor Exit Node
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://madpsy.uk/how-to-create-a-tor-exit-node/">https://madpsy.uk/how-to-create-a-tor-exit-node/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569702">https://news.ycombinator.com/item?id=49569702</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 18</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://madpsy.uk/how-to-create-a-tor-exit-node/](https://madpsy.uk/how-to-create-a-tor-exit-node/)
-
----
-
-### 2. An open DNS recursive service for free security and high privacy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://quad9.net/">https://quad9.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569663">https://news.ycombinator.com/item?id=49569663</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://quad9.net/](https://quad9.net/)
-
----
-
-### 3. Can AI design circuit boards yet?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49569366">https://news.ycombinator.com/item?id=49569366</a></p>
-<p>Points: 39</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://eebench.org/blog/can-ai-design-circuit-boards-yet/](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
 
 ---
 
@@ -71,16 +71,16 @@ BBC News visits town where violence has escalated after the fatal crash and resi
 
 ---
 
-### 5. BBC visits area at heart of police investigation after A66 crash
+### 5. Cleveland police chief proud of force but being 'let down' by funding
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Ed Thomas has visited Grangetown, an area which has been the focus of an investigation following the deadly A66 crash.
+Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The Reform UK leader promises to deliver on key priorities in the first 100 days
 
 ---
 
-### 7. Israeli drones drop bombs on southern Lebanon’s Mansouri
+### 7. Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several explosions rocked the southern Lebanese town of Mansouri after Israeli military drones dropped explosives in the
+Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss)
 
 ---
 
-### 8. Israeli strike kills two in southern Lebanon amid ongoing escalation
+### 8. Costa Rican president signals openness to domestic US military operations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli attacks against villages and towns in southern Lebanon continue despite truce agreements and diplomacy.
+President Laura Fernandez notes that Congress would need to approve any US military operations within the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss)
 
 ---
 
-### 9. Andrew Tate indicted in Romania for trafficking minors, money laundering
+### 9. Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The influencer and his brother are in a Miami prison pending potential extradition to the UK on rape charges
+Jose Mourinho&#039;s winning start to his second spell at Real Madrid ends with a 1-0 La Liga defeat at Real Betis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss](https://www.aljazeera.com/news/2026/9/4/andrew-tate-indicted-in-romania-for-trafficking-minors-money-laundering?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss)
 
 ---
 
