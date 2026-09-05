@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 20:13:21
+**Last Update:** 2026-09-05 20:22:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods
+### 1. Bob and Van
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://marco.org/2026/09/04/bob-and-van">https://marco.org/2026/09/04/bob-and-van</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578136">https://news.ycombinator.com/item?id=49578136</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://marco.org/2026/09/04/bob-and-van](https://marco.org/2026/09/04/bob-and-van)
+
+---
+
+### 2. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods">https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577985">https://news.ycombinator.com/item?id=49577985</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Points: 53</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
 
 ---
 
-### 2. How the Planet-Altering Disaster of "Forever Chemicals" Was Kept Secret
+### 3. Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen">https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576986">https://news.ycombinator.com/item?id=49576986</a></p>
-<p>Points: 122</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/">https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577975">https://news.ycombinator.com/item?id=49577975</a></p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
-
----
-
-### 3. Meet the Ig Nobel Prize Winners
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/">https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576611">https://news.ycombinator.com/item?id=49576611</a></p>
-<p>Points: 48</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
+🔗 **Read more:** [https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
 
 ---
 
