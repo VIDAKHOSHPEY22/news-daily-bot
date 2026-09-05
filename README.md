@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 22:38:57
+**Last Update:** 2026-09-06 00:36:41
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Luxuries in Life
+### 1. US envoys meet Putin in Moscow for Ukraine talks
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/">https://feld.com/archives/2026/09/the-real-luxuries-in-life/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578866">https://news.ycombinator.com/item?id=49578866</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation "is not so easy".
 
-🔗 **Read more:** [https://feld.com/archives/2026/09/the-real-luxuries-in-life/](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Learn Programming with OCaml
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://usr.lmf.cnrs.fr/lpo/">https://usr.lmf.cnrs.fr/lpo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578280">https://news.ycombinator.com/item?id=49578280</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://usr.lmf.cnrs.fr/lpo/](https://usr.lmf.cnrs.fr/lpo/)
-
----
-
-### 3. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods">https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577985">https://news.ycombinator.com/item?id=49577985</a></p>
-<p>Points: 110</p>
-<p># Comments: 55</p>
-
-🔗 **Read more:** [https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
-
----
-
-### 4. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
+### 2. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
 
 **Source:** BBC
 
@@ -71,7 +36,7 @@ The government says it condemns "the behaviour in Dover" and the hours-long disr
 
 ---
 
-### 5. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
+### 3. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
 
 **Source:** BBC
 
@@ -84,59 +49,46 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 
 ---
 
-### 6. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Shoppers interact with Hong Kong’s first robot shopkeeper
+### 4. Why is Argentina reigniting the Falklands dispute?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Humanoid robots have begun serving shoppers at convenience stores in Hong Kong.
+President Javier Milei says sovereignty over the islands remains a national objective.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss)
 
 ---
 
-### 8. Two pilots killed after Greek fighter jet crashes during an air show
+### 5. Everton vs Manchester United: Premier League – prediction, teams, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.
+Manchester United outspent in transfer window, but boss Michael Carrick says team ready to fire ahead of Everton trip.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss)
 
 ---
 
-### 9. Thousands protest in Croatia to demand government clean up toxic waste
+### 6. Colombian government reports three killed in rebel attack on military post
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrators in Zagreb accuse Croatia&#039;s government of dragging its feet on a hazardous waste scandal.
+Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss)
 
 ---
 
-### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 7. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Ayers Pond, Prairie, Montana
+### 8. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Snow, Custer, Montana
+### 9. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 
