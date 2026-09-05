@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 17:24:39
+**Last Update:** 2026-09-05 20:13:21
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pentagon rescinds new testosterone screening policy without explanation
+### 1. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/">https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576196">https://news.ycombinator.com/item?id=49576196</a></p>
-<p>Points: 27</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods">https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577985">https://news.ycombinator.com/item?id=49577985</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/](https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/)
+🔗 **Read more:** [https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
 
 ---
 
-### 2. Terpstra Keyboard
+### 2. How the Planet-Altering Disaster of "Forever Chemicals" Was Kept Secret
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://terpstrakeyboard.com/">http://terpstrakeyboard.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49575150">https://news.ycombinator.com/item?id=49575150</a></p>
-<p>Points: 11</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen">https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576986">https://news.ycombinator.com/item?id=49576986</a></p>
+<p>Points: 122</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [http://terpstrakeyboard.com/](http://terpstrakeyboard.com/)
+🔗 **Read more:** [https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen](https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen)
 
 ---
 
-### 3. Netherlands pulls gold out of the US for fears of 'geopolitical unrest'
+### 3. Meet the Ig Nobel Prize Winners
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990">https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49575034">https://news.ycombinator.com/item?id=49575034</a></p>
-<p>Points: 126</p>
-<p># Comments: 81</p>
+<p>Article URL: <a href="https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/">https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49576611">https://news.ycombinator.com/item?id=49576611</a></p>
+<p>Points: 48</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990)
+🔗 **Read more:** [https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/](https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/)
 
 ---
 
-### 4. Reform promises to increase tax-free personal allowance to £15,000
+### 4. Disruption at Port of Dover as masked 'stop the boats' protesters block roads
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The party says the tax cut will be paid for by reducing public spending by £80bn.
+The government says it condemns "the behaviour in Dover" and the hours-long disruption it caused.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
+### 5. Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Reform leader also told the BBC's Laura Kuenssberg that his family are "begging" him to leave his job.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Chris Mason: Reform UK winded by donations row as insiders call for shift in approach
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Nigel Farage's admirers in the party are calling for a stronger operation as the
 
 ---
 
-### 6. Cleveland police chief proud of force but being 'let down' by funding
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Arsenal vs Chelsea: Premier League – prediction, teams, lineups
+### 7. Gaza teams recover remains of 55 people nearly 3 years after Israeli strike
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.
+The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss)
 
 ---
 
-### 8. ‘Stop the boats’ masked protesters block England’s Port of Dover
+### 8. Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Masked protesters blocked major roads around England’s Port of Dover on Saturday.
+Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss)
 
 ---
 
-### 9. Iran President Pezeshkian calls for unity as US ramps up economic pressure
+### 9. US says it hit three Iranian oil tankers after attacks on warships
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.
+US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-05T20:13:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods",
+            "description": "<p>Article URL: <a href=\"https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods\">https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49577985\">https://news.ycombinator.com/item?id=49577985</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+            "published": "Sat, 05 Sep 2026 16:14:34 +0000",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
+            "description": "<p>Article URL: <a href=\"https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen\">https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576986\">https://news.ycombinator.com/item?id=49576986</a></p>\n<p>Points: 122</p>\n<p># Comments: 21</p>",
+            "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+            "published": "Sat, 05 Sep 2026 14:40:52 +0000",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meet the Ig Nobel Prize Winners",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/\">https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576611\">https://news.ycombinator.com/item?id=49576611</a></p>\n<p>Points: 48</p>\n<p># Comments: 7</p>",
+            "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+            "published": "Sat, 05 Sep 2026 14:02:44 +0000",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
+            "description": "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused.",
+            "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 14:41:17 GMT",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+            "description": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
+            "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 14:26:37 GMT",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
+            "description": "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.",
+            "url": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 12:32:31 GMT",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+            "description": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+            "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 16:17:47 +0000",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+            "description": "Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.",
+            "url": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 16:04:01 +0000",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US says it hit three Iranian oil tankers after attacks on warships",
+            "description": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 15:49:44 +0000",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-05T20:13:21+03:30"
+        }
+    ]
+}
