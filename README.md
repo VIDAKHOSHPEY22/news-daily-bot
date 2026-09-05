@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 00:53:47
+**Last Update:** 2026-09-06 02:31:11
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Private German rocket makes history, reaches orbit from European soil
+### 1. Falsehoods Programmers Believe About LANs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket">https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580369">https://news.ycombinator.com/item?id=49580369</a></p>
-<p>Points: 78</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://dreamstation.systems/personal/lanfalsehoods.html">https://dreamstation.systems/personal/lanfalsehoods.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581179">https://news.ycombinator.com/item?id=49581179</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
+🔗 **Read more:** [https://dreamstation.systems/personal/lanfalsehoods.html](https://dreamstation.systems/personal/lanfalsehoods.html)
 
 ---
 
-### 2. Finite time blowup for an averaged three-dimensional Navier-Stokes equation
+### 2. America's Two Largest School Districts Impose AI Moratoriums
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/">https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580329">https://news.ycombinator.com/item?id=49580329</a></p>
-<p>Points: 24</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/)
-
----
-
-### 3. Isar Aerospace launch into orbit [video]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=Ss1DUqLjecc">https://www.youtube.com/watch?v=Ss1DUqLjecc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580325">https://news.ycombinator.com/item?id=49580325</a></p>
-<p>Points: 33</p>
+<p>Article URL: <a href="https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/">https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580980">https://news.ycombinator.com/item?id=49580980</a></p>
+<p>Points: 19</p>
 <p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=Ss1DUqLjecc](https://www.youtube.com/watch?v=Ss1DUqLjecc)
+🔗 **Read more:** [https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
+
+---
+
+### 3. South African diamond mines are closing due to weak sales and lab-grown stones
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf">https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580778">https://news.ycombinator.com/item?id=49580778</a></p>
+<p>Points: 22</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf](https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf)
 
 ---
 
@@ -97,7 +97,20 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 
 ---
 
-### 7. Building collapses after heavy rain in northern India
+### 7. US envoys Witkoff, Kushner meet Putin for talks on Ukraine war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss)
+
+---
+
+### 8. Building collapses after heavy rain in northern India
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A building collapsed in Muradabad, northern India, tearing through power lines a
 
 ---
 
-### 8. Why is Argentina reigniting the Falklands dispute?
+### 9. Why is Argentina reigniting the Falklands dispute?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A building collapsed in Muradabad, northern India, tearing through power lines a
 President Javier Milei says sovereignty over the islands remains a national objective.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss)
-
----
-
-### 9. Everton vs Manchester United: Premier League – prediction, teams, lineups
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Manchester United outspent in transfer window, but boss Michael Carrick says team ready to fire ahead of Everton trip.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss)
 
 ---
 
