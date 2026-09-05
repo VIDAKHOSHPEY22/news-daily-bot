@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-05T09:02:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+            "description": "<p>Article URL: <a href=\"https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation\">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49572875\">https://news.ycombinator.com/item?id=49572875</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+            "published": "Sat, 05 Sep 2026 03:38:56 +0000",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nitter has more working instances than before the takedowns",
+            "description": "<p>Article URL: <a href=\"https://codeberg.org/mv12star/shitter/wiki/Instances\">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571634\">https://news.ycombinator.com/item?id=49571634</a></p>\n<p>Points: 69</p>\n<p># Comments: 17</p>",
+            "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+            "published": "Sat, 05 Sep 2026 00:04:16 +0000",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Artificial Analysis Intelligence Index v4.2",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571632\">https://news.ycombinator.com/item?id=49571632</a></p>\n<p>Points: 90</p>\n<p># Comments: 26</p>",
+            "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+            "published": "Sat, 05 Sep 2026 00:04:14 +0000",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleveland police chief proud of force but being 'let down' by funding",
+            "description": "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 21:00:05 GMT",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+            "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:50:01 GMT",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform promises to increase tax-free personal allowance to £15,000",
+            "description": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
+            "url": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 05:00:45 GMT",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire",
+            "description": "The PIMS nurse who saved one newborn recalls the fire, the screams and the 14 babies she could not save.",
+            "url": "https://www.aljazeera.com/features/2026/9/5/i-could-not-save-the-rest-hero-nurse-remembers-pakistans-nursery-fire?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 04:29:33 +0000",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN approves new map showing Africa’s true size",
+            "description": "The UN General Assembly has backed a resolution to change to maps that more accurately show the true size of Africa.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/un-approves-new-map-showing-africas-true-size?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 04:13:25 +0000",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Blasts at Bolivian military base kill at least 10, injure dozens",
+            "description": "Authorities say seven people are still missing after deadly explosions at a facility storing pyrotechnic material.",
+            "url": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 03:56:16 +0000",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-05T09:02:56+03:30"
+        }
+    ]
+}
