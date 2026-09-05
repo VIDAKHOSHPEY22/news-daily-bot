@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 13:57:12
+**Last Update:** 2026-09-05 14:16:02
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI handles incidents, engineers lose touch with their systems
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49574167">https://news.ycombinator.com/item?id=49574167</a></p>
-<p>Points: 110</p>
-<p># Comments: 76</p>
-
-🔗 **Read more:** [https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
-
----
-
-### 2. Git hosting that never leaves Europe
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pushin.eu">https://pushin.eu</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49573680">https://news.ycombinator.com/item?id=49573680</a></p>
-<p>Points: 92</p>
-<p># Comments: 62</p>
-
-🔗 **Read more:** [https://pushin.eu](https://pushin.eu)
-
----
-
-### 3. GPT-6 Astra in code review: Gains, privacy, and cost
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49572875">https://news.ycombinator.com/item?id=49572875</a></p>
-<p>Points: 47</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation](https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)
-
----
-
-### 4. Cleveland police chief proud of force but being 'let down' by funding
+### 1. Cleveland police chief proud of force but being 'let down' by funding
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Victoria Fuller tells the BBC the force's resources need a rethink, speaking aft
 
 ---
 
-### 5. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
+### 2. 'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ BBC News visits town where violence has escalated after the fatal crash and resi
 
 ---
 
-### 6. Reform promises to increase tax-free personal allowance to £15,000
+### 3. Reform promises to increase tax-free personal allowance to £15,000
 
 **Source:** BBC
 
@@ -97,7 +49,20 @@ The party says the tax cut will be paid for by reducing public spending by £80b
 
 ---
 
-### 7. Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?
+### 4. At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss)
+
+---
+
+### 5. Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?
 
 **Source:** Al Jazeera
 
@@ -110,7 +75,7 @@ As oil tanker struck off Kharg island, Trump threatens one of the remaining part
 
 ---
 
-### 8. US ambassador to Israel meets Palestinian-Americans in occupied West Bank
+### 6. US ambassador to Israel meets Palestinian-Americans in occupied West Bank
 
 **Source:** Al Jazeera
 
@@ -123,20 +88,7 @@ US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied We
 
 ---
 
-### 9. Qatar removed from Fitch’s negative watch list as risks to LNG sites ease
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The global ratings agency has also maintained the country’s sovereign rating at AA.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss)
-
----
-
-### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 7. Emergency Stabilization BAER McConnell, Humboldt, Nevada
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Ayers Pond, Prairie, Montana
+### 8. Wildfire Ayers Pond, Prairie, Montana
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Snow, Custer, Montana
+### 9. Wildfire Snow, Custer, Montana
 
 **Source:** NASA
 
