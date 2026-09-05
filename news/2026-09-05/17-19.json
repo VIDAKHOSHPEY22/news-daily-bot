@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-05T17:19:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pentagon rescinds new testosterone screening policy without explanation",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/\">https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576196\">https://news.ycombinator.com/item?id=49576196</a></p>\n<p>Points: 27</p>\n<p># Comments: 11</p>",
+            "url": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
+            "published": "Sat, 05 Sep 2026 13:11:14 +0000",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Terpstra Keyboard",
+            "description": "<p>Article URL: <a href=\"http://terpstrakeyboard.com/\">http://terpstrakeyboard.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575150\">https://news.ycombinator.com/item?id=49575150</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
+            "url": "http://terpstrakeyboard.com/",
+            "published": "Sat, 05 Sep 2026 10:33:01 +0000",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+            "description": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\">https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575034\">https://news.ycombinator.com/item?id=49575034</a></p>\n<p>Points: 126</p>\n<p># Comments: 81</p>",
+            "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+            "published": "Sat, 05 Sep 2026 10:14:28 +0000",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform promises to increase tax-free personal allowance to £15,000",
+            "description": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
+            "url": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 12:59:02 GMT",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
+            "description": "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.",
+            "url": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 12:32:31 GMT",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleveland police chief proud of force but being 'let down' by funding",
+            "description": "Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 05:40:03 GMT",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arsenal vs Chelsea: Premier League – prediction, teams, lineups",
+            "description": "Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.",
+            "url": "https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 13:20:42 +0000",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Stop the boats’ masked protesters block England’s Port of Dover",
+            "description": "Masked protesters blocked major roads around England’s Port of Dover on Saturday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 13:09:24 +0000",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+            "description": "Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.",
+            "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 13:07:36 +0000",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-05T17:19:06+03:30"
+        }
+    ]
+}
