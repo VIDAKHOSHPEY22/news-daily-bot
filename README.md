@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 04:18:41
+**Last Update:** 2026-09-05 04:37:28
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571632">https://news.ycombinator.com/item?id=49571632</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 20</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
 
 ---
 
-### 2. Show HN: Moadim.io – A scheduler for agents
+### 2. Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/">https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571627">https://news.ycombinator.com/item?id=49571627</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/](https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/)
+
+---
+
+### 3. Show HN: Moadim.io – A scheduler for agents
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 <p>Why can't we get an agent scheduler that supports all of the following:<p>- git compatible<p>- agent agnostic<p>- 100% open source<p>- os and system-agnostic<p>- multi-runner support<p>- support mcp/ui/http<p>- unlimited routines/crons<p>So I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour to pull the latest changes to the ~/.config/moadim folder.<p>With more than 1,000 users, I define this project as almost "done" and ready for production. Me and thousand more people are use it in a daily manner.<p>It currently supports Claude, Codex, Hermes, and Pi, and you are welcome to add your agent of choice as well because it's 100% configurable.<p>You are welcome to have a look at the source code of the daemon in "<a href="http://github.com/moadim-io/daemon" rel="nofollow">http://github.com/moadim-io/daemon</a>"<p>Feel free to provide me with suggestions for more features around this topic. I don't want to branch out to new off road topics likt webhooks, this is a "done" software in the realm of agents schedulers that focus on cron-like work.<p>Also feel free to start the github repository and open issues and PRs for your suggestions.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571537">https://news.ycombinator.com/item?id=49571537</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://moadim.io/](https://moadim.io/)
-
----
-
-### 3. Portal by Spotify cut my Claude Code token usage by 90%
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90">https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49571465">https://news.ycombinator.com/item?id=49571465</a></p>
-<p>Points: 15</p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90)
+🔗 **Read more:** [https://moadim.io/](https://moadim.io/)
 
 ---
 
