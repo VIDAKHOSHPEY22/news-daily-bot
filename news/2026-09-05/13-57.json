@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-05T13:57:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI handles incidents, engineers lose touch with their systems",
+            "description": "<p>Article URL: <a href=\"https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49574167\">https://news.ycombinator.com/item?id=49574167</a></p>\n<p>Points: 110</p>\n<p># Comments: 76</p>",
+            "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+            "published": "Sat, 05 Sep 2026 07:52:50 +0000",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Git hosting that never leaves Europe",
+            "description": "<p>Article URL: <a href=\"https://pushin.eu\">https://pushin.eu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49573680\">https://news.ycombinator.com/item?id=49573680</a></p>\n<p>Points: 92</p>\n<p># Comments: 62</p>",
+            "url": "https://pushin.eu",
+            "published": "Sat, 05 Sep 2026 06:31:49 +0000",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+            "description": "<p>Article URL: <a href=\"https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation\">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49572875\">https://news.ycombinator.com/item?id=49572875</a></p>\n<p>Points: 47</p>\n<p># Comments: 24</p>",
+            "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+            "published": "Sat, 05 Sep 2026 03:38:56 +0000",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cleveland police chief proud of force but being 'let down' by funding",
+            "description": "Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 05:40:03 GMT",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+            "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 19:50:01 GMT",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform promises to increase tax-free personal allowance to £15,000",
+            "description": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
+            "url": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 09:53:35 GMT",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+            "description": "As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.",
+            "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 09:56:53 +0000",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
+            "description": "US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 09:52:44 +0000",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
+            "description": "The global ratings agency has also maintained the country’s sovereign rating at AA.",
+            "url": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss",
+            "published": "Sat, 05 Sep 2026 09:48:48 +0000",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-05T13:57:12+03:30"
+        }
+    ]
+}
