@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-05 20:22:25
+**Last Update:** 2026-09-05 22:26:52
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bob and Van
+### 1. The Luxuries in Life
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://marco.org/2026/09/04/bob-and-van">https://marco.org/2026/09/04/bob-and-van</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578136">https://news.ycombinator.com/item?id=49578136</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/">https://feld.com/archives/2026/09/the-real-luxuries-in-life/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578866">https://news.ycombinator.com/item?id=49578866</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://marco.org/2026/09/04/bob-and-van](https://marco.org/2026/09/04/bob-and-van)
+🔗 **Read more:** [https://feld.com/archives/2026/09/the-real-luxuries-in-life/](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
 
 ---
 
-### 2. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods
+### 2. Learn Programming with OCaml
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://usr.lmf.cnrs.fr/lpo/">https://usr.lmf.cnrs.fr/lpo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49578280">https://news.ycombinator.com/item?id=49578280</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://usr.lmf.cnrs.fr/lpo/](https://usr.lmf.cnrs.fr/lpo/)
+
+---
+
+### 3. How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods">https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577985">https://news.ycombinator.com/item?id=49577985</a></p>
-<p>Points: 53</p>
-<p># Comments: 11</p>
+<p>Points: 110</p>
+<p># Comments: 55</p>
 
 🔗 **Read more:** [https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods](https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods)
-
----
-
-### 3. Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/">https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49577975">https://news.ycombinator.com/item?id=49577975</a></p>
-<p>Points: 18</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/](https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/)
 
 ---
 
@@ -97,42 +97,42 @@ Nigel Farage's admirers in the party are calling for a stronger operation as the
 
 ---
 
-### 7. Gaza teams recover remains of 55 people nearly 3 years after Israeli strike
+### 7. Two pilots killed after Greek fighter jet crashes during an air show
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.
+Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss)
 
 ---
 
-### 8. Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means
+### 8. Thousands protest in Croatia to demand government clean up toxic waste
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.
+Demonstrators in Zagreb accuse Croatia&#039;s government of dragging its feet on a hazardous waste scandal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss)
 
 ---
 
-### 9. US says it hit three Iranian oil tankers after attacks on warships
+### 9. Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
+Both Russia and Ukraine vow not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss)
 
 ---
 
