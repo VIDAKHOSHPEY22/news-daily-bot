@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-07T00:58:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+            "description": "<p>Article URL: <a href=\"https://github.com/marsbos/mador\">https://github.com/marsbos/mador</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590738\">https://news.ycombinator.com/item?id=49590738</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
+            "url": "https://github.com/marsbos/mador",
+            "published": "Sun, 06 Sep 2026 20:45:13 +0000",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "It took a year to ship WebAssembly in Anubis",
+            "description": "<p>Article URL: <a href=\"https://anubis.techaro.lol/blog/2026/anubis-wasm/\">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590611\">https://news.ycombinator.com/item?id=49590611</a></p>\n<p>Points: 28</p>\n<p># Comments: 11</p>",
+            "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+            "published": "Sun, 06 Sep 2026 20:32:38 +0000",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+            "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117225539756835649\">https://grapheneos.social/@GrapheneOS/117225539756835649</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590512\">https://news.ycombinator.com/item?id=49590512</a></p>\n<p>Points: 27</p>\n<p># Comments: 8</p>",
+            "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+            "published": "Sun, 06 Sep 2026 20:24:00 +0000",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German far-right set for big win in eastern state, projections show",
+            "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 20:45:11 GMT",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+            "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 20:41:58 GMT",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+            "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+            "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 16:32:59 GMT",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+            "description": "The cause of the crash is being investigated.",
+            "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 21:11:01 +0000",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 10 killed in central Mexico fireworks blast during festival",
+            "description": "Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.",
+            "url": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 21:08:30 +0000",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Amazon Prime plane overruns runway at Miami Airport",
+            "description": "An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 21:08:24 +0000",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-07T00:58:25+03:30"
+        }
+    ]
+}
