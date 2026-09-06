@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-06T14:37:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Changed My License",
+            "description": "<p>Article URL: <a href=\"https://bergie.iki.fi/blog/eupl/\">https://bergie.iki.fi/blog/eupl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585161\">https://news.ycombinator.com/item?id=49585161</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+            "url": "https://bergie.iki.fi/blog/eupl/",
+            "published": "Sun, 06 Sep 2026 10:39:44 +0000",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+            "description": "<p>Article URL: <a href=\"https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/\">https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49584637\">https://news.ycombinator.com/item?id=49584637</a></p>\n<p>Points: 111</p>\n<p># Comments: 62</p>",
+            "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+            "published": "Sun, 06 Sep 2026 09:14:22 +0000",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Play GTA Vice City in the Browser",
+            "description": "<p>Article URL: <a href=\"https://quenq.com/apps/vice-city-online/\">https://quenq.com/apps/vice-city-online/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49584123\">https://news.ycombinator.com/item?id=49584123</a></p>\n<p>Points: 69</p>\n<p># Comments: 29</p>",
+            "url": "https://quenq.com/apps/vice-city-online/",
+            "published": "Sun, 06 Sep 2026 07:33:17 +0000",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
+            "description": "It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 10:44:26 GMT",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police slow to respond to Dover protest, says council boss",
+            "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+            "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 10:59:35 GMT",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+            "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+            "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 10:29:03 GMT",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
+            "description": "The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.",
+            "url": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 10:42:14 +0000",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Everton vs Manchester United – Premier League",
+            "description": "All our live updates as Bruno Fernandes and Marcus Rashford look to fire during our text commentary stream coverage.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 09:47:31 +0000",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
+            "description": "Israel&#039;s visual colonisation aims to make Palestinians feel like guests in their own homeland.",
+            "url": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 09:40:06 +0000",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-06T14:37:54+03:30"
+        }
+    ]
+}
