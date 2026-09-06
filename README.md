@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 17:03:04
+**Last Update:** 2026-09-06 17:45:32
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Schemy Lisp En DOS
+### 1. The many mysteries and lessons of the Bayeux tapestry
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry">https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586435">https://news.ycombinator.com/item?id=49586435</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry](https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry)
+
+---
+
+### 2. Schemy Lisp En DOS
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://sled.neocities.org/">https://sled.neocities.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586139">https://news.ycombinator.com/item?id=49586139</a></p>
-<p>Points: 4</p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://sled.neocities.org/](https://sled.neocities.org/)
 
 ---
 
-### 2. The pencil case model of creativity
+### 3. 2026 Hugo Awards
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dub.uu.nl/en/column/pencil-case-model-creativity">https://dub.uu.nl/en/column/pencil-case-model-creativity</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585703">https://news.ycombinator.com/item?id=49585703</a></p>
+<p>Article URL: <a href="https://www.thehugoawards.org/">https://www.thehugoawards.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586005">https://news.ycombinator.com/item?id=49586005</a></p>
 <p>Points: 11</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://dub.uu.nl/en/column/pencil-case-model-creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)
-
----
-
-### 3. Intellectual Fly Is Open
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585644">https://news.ycombinator.com/item?id=49585644</a></p>
-<p>Points: 92</p>
-<p># Comments: 56</p>
-
-🔗 **Read more:** [https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
+🔗 **Read more:** [https://www.thehugoawards.org/](https://www.thehugoawards.org/)
 
 ---
 
@@ -97,7 +97,33 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. How the West’s promise of freedom created a world of anger
+### 7. How significant are the Yemeni government’s military gains against the Houthis?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Government forces make gains as fighting escalates, raising fears of a return to full-scale war.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss)
+
+---
+
+### 8. Seven mouths, one meal: Feeding a family through Gaza’s food crisis
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Families across Gaza struggle to secure food as community kitchens operate irregularly and prices rise.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss](https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss)
+
+---
+
+### 9. How the West’s promise of freedom created a world of anger
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The company is struggling with the impact of tariffs as well as the fallout from
 In Deja Vu’s next episode, Pankaj Mishra traces today’s political anger to the Enlightenment and empire.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss)
-
----
-
-### 8. Palestinians mourn loved ones in mass funeral in Gaza City
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss)
-
----
-
-### 9. Algeria civil defence recovers body of 10-year-old boy from well
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Child found dead after four-day rescue effort in Algeria&#039;s western province of el-Bayadh.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss)
 
 ---
 

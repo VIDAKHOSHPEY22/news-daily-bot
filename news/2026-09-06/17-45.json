@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-06T17:45:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The many mysteries and lessons of the Bayeux tapestry",
+            "description": "<p>Article URL: <a href=\"https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry\">https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586435\">https://news.ycombinator.com/item?id=49586435</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
+            "published": "Sun, 06 Sep 2026 13:38:07 +0000",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Schemy Lisp En DOS",
+            "description": "<p>Article URL: <a href=\"https://sled.neocities.org/\">https://sled.neocities.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586139\">https://news.ycombinator.com/item?id=49586139</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://sled.neocities.org/",
+            "published": "Sun, 06 Sep 2026 12:58:54 +0000",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "2026 Hugo Awards",
+            "description": "<p>Article URL: <a href=\"https://www.thehugoawards.org/\">https://www.thehugoawards.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586005\">https://news.ycombinator.com/item?id=49586005</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://www.thehugoawards.org/",
+            "published": "Sun, 06 Sep 2026 12:41:59 +0000",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+            "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+            "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 13:16:21 GMT",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police slow to respond to Dover protest, says council boss",
+            "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+            "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 10:59:35 GMT",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+            "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+            "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 10:29:03 GMT",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How significant are the Yemeni government’s military gains against the Houthis?",
+            "description": "Government forces make gains as fighting escalates, raising fears of a return to full-scale war.",
+            "url": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 13:41:25 +0000",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Seven mouths, one meal: Feeding a family through Gaza’s food crisis",
+            "description": "Families across Gaza struggle to secure food as community kitchens operate irregularly and prices rise.",
+            "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 13:15:46 +0000",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the West’s promise of freedom created a world of anger",
+            "description": "In Deja Vu’s next episode, Pankaj Mishra traces today’s political anger to the Enlightenment and empire.",
+            "url": "https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 13:14:33 +0000",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-06T17:45:32+03:30"
+        }
+    ]
+}
