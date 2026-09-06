@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 20:21:34
+**Last Update:** 2026-09-06 20:39:32
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. An Alien Mind
+### 1. Opalite Health (YC W26) Is Hiring – Founding GTM
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm">https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588466">https://news.ycombinator.com/item?id=49588466</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
+
+---
+
+### 2. OpenAI: We monitor internal coding agents for misalignment
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588214">https://news.ycombinator.com/item?id=49588214</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
+
+---
+
+### 3. An Alien Mind
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://openai.com/index/an-alien-mind/">https://openai.com/index/an-alien-mind/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588080">https://news.ycombinator.com/item?id=49588080</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 28</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://openai.com/index/an-alien-mind/](https://openai.com/index/an-alien-mind/)
-
----
-
-### 2. Research carried out using NetBSD
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.netbsd.org/gallery/research.html">https://www.netbsd.org/gallery/research.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49587903">https://news.ycombinator.com/item?id=49587903</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.netbsd.org/gallery/research.html](https://www.netbsd.org/gallery/research.html)
-
----
-
-### 3. Cultivating Trust
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/">https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49587833">https://news.ycombinator.com/item?id=49587833</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/](https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/)
 
 ---
 
@@ -71,7 +71,7 @@ Steve Witkoff tells reporters the US team feels "encouraged" by a "substantive" 
 
 ---
 
-### 5. German far-right set for big win in eastern state - exit polls
+### 5. German far-right set for big win in eastern state - projections
 
 **Source:** BBC
 
@@ -110,14 +110,14 @@ Tehran says time for proportionate retaliation is over after a US strike on Iran
 
 ---
 
-### 8. Far-right AFD wins vote in Germany’s Saxony-Anhalt state: Exit polls
+### 8. Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+The party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss)
 

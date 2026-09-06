@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-06T20:39:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\">https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588466\">https://news.ycombinator.com/item?id=49588466</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+            "published": "Sun, 06 Sep 2026 17:00:28 +0000",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI: We monitor internal coding agents for misalignment",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/\">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588214\">https://news.ycombinator.com/item?id=49588214</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+            "published": "Sun, 06 Sep 2026 16:37:55 +0000",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An Alien Mind",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/an-alien-mind/\">https://openai.com/index/an-alien-mind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588080\">https://news.ycombinator.com/item?id=49588080</a></p>\n<p>Points: 28</p>\n<p># Comments: 10</p>",
+            "url": "https://openai.com/index/an-alien-mind/",
+            "published": "Sun, 06 Sep 2026 16:27:05 +0000",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+            "description": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion.",
+            "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 15:32:27 GMT",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German far-right set for big win in eastern state - projections",
+            "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 16:59:25 GMT",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+            "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+            "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 16:32:59 GMT",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran touts military response as US maintains blockade, hits tankers",
+            "description": "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.",
+            "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 16:17:06 +0000",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+            "description": "The party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.",
+            "url": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 16:07:08 +0000",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Maitland-Niles stuns Manchester United as Everton claim last-ditch point",
+            "description": "Bryan Mbeumo and Benjamin Sesko goals cancelled out as Everton come from behind to win point in 2-2 draw with United.",
+            "url": "https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 16:04:56 +0000",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-06T20:39:32+03:30"
+        }
+    ]
+}
