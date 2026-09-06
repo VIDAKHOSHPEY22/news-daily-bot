@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 20:39:32
+**Last Update:** 2026-09-06 22:31:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Opalite Health (YC W26) Is Hiring – Founding GTM
+### 1. Following legal advice, the Nitter project will continue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/zedeus/nitter">https://github.com/zedeus/nitter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589003">https://news.ycombinator.com/item?id=49589003</a></p>
+<p>Points: 149</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://github.com/zedeus/nitter](https://github.com/zedeus/nitter)
+
+---
+
+### 2. Nitter is unarchived and will continue
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588988">https://news.ycombinator.com/item?id=49588988</a></p>
+<p>Points: 34</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+
+---
+
+### 3. Opalite Health (YC W26) Is Hiring – Founding GTM
 
 **Source:** Hacker News
 
@@ -26,61 +58,29 @@
 
 ---
 
-### 2. OpenAI: We monitor internal coding agents for misalignment
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588214">https://news.ycombinator.com/item?id=49588214</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/)
-
----
-
-### 3. An Alien Mind
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/an-alien-mind/">https://openai.com/index/an-alien-mind/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588080">https://news.ycombinator.com/item?id=49588080</a></p>
-<p>Points: 28</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://openai.com/index/an-alien-mind/](https://openai.com/index/an-alien-mind/)
-
----
-
-### 4. US envoys hold talks with Zelensky in Kyiv after meeting Putin
+### 4. German far-right set for big win in eastern state - projections
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Steve Witkoff tells reporters the US team feels "encouraged" by a "substantive" and important discussion.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. German far-right set for big win in eastern state - projections
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Germany's AfD has hailed a "historic result" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.
+Germany's AfD has hailed a "historic result" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Zelensky says he expects war to continue into winter after talks with US envoys
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. Iran touts military response as US maintains blockade, hits tankers
+### 7. Why is Argentina reviving the Falklands dispute?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.
+More than 44 years after Britain and Argentina went to war over the Falkland Islands, Argentina is reasserting its claim
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss)
 
 ---
 
-### 8. Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls
+### 8. Witkoff says peace talks have been ‘very meaningful’ in Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.
+Witkoff says peace talks have been ‘very meaningful’ in Ukraine
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss)
 
 ---
 
-### 9. Maitland-Niles stuns Manchester United as Everton claim last-ditch point
+### 9. Sabalenka through to US Open quarterfinals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bryan Mbeumo and Benjamin Sesko goals cancelled out as Everton come from behind to win point in 2-2 draw with United.
+Tennis&#039;s two-time defending champion Aryna Sabalenka into last-eight at US Open after beating Taylor Townsend 6-4, 6-3.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss)
 
 ---
 
