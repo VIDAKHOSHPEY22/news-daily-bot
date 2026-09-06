@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 03:14:40
+**Last Update:** 2026-09-06 04:36:27
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OKF Agent Memory – Git-native persistent memory for AI coding agents
+### 1. Cloud in a Bottle: making self-hosting accessible to everyone
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cloudinabottle.org/blog/launch-post">https://cloudinabottle.org/blog/launch-post</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49582000">https://news.ycombinator.com/item?id=49582000</a></p>
+<p>Points: 42</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://cloudinabottle.org/blog/launch-post](https://cloudinabottle.org/blog/launch-post)
+
+---
+
+### 2. OKF Agent Memory – Git-native persistent memory for AI coding agents
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/okf-memory/okf-agent-memory">https://github.com/okf-memory/okf-agent-memory</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581240">https://news.ycombinator.com/item?id=49581240</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 25</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://github.com/okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
 
 ---
 
-### 2. Falsehoods Programmers Believe About LANs
+### 3. The revolt of the reader
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dreamstation.systems/personal/lanfalsehoods.html">https://dreamstation.systems/personal/lanfalsehoods.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49581179">https://news.ycombinator.com/item?id=49581179</a></p>
-<p>Points: 34</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/">https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580939">https://news.ycombinator.com/item?id=49580939</a></p>
+<p>Points: 60</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://dreamstation.systems/personal/lanfalsehoods.html](https://dreamstation.systems/personal/lanfalsehoods.html)
-
----
-
-### 3. America's two largest school districts impose AI moratoriums
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/">https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49580980">https://news.ycombinator.com/item?id=49580980</a></p>
-<p>Points: 33</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
+🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
 
 ---
 
@@ -97,7 +97,33 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 
 ---
 
-### 7. Fuel tanker blast in western Iran kills at least 10
+### 7. German company launches rocket as Europe enters satellite race
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss)
+
+---
+
+### 8. Iran war live: IRGC claims new attacks on US warships over naval blockade
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss)
+
+---
+
+### 9. Fuel tanker blast in western Iran kills at least 10
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Reform leader also told the BBC's Laura Kuenssberg that his family are "begg
 At least six other people were injured in the tanker blast on Iran&#039;s Hamedan-Sanandaj highway, officials say.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss)
-
----
-
-### 8. Trump-backed group announces $10m ad spend for midterm Senate race in Texas
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US president has pledged more than $400m through his super PAC to boost Republican candidates in the upcoming midterms.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss](https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss)
-
----
-
-### 9. US envoys Witkoff, Kushner meet Putin for talks on Ukraine war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss)
 
 ---
 
