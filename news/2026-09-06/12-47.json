@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-06T12:47:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Play GTA III in the Browser",
+            "description": "<p>Article URL: <a href=\"https://quenq.com/apps/vice-city-online/\">https://quenq.com/apps/vice-city-online/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49584123\">https://news.ycombinator.com/item?id=49584123</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://quenq.com/apps/vice-city-online/",
+            "published": "Sun, 06 Sep 2026 07:33:17 +0000",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+            "description": "<p>Article URL: <a href=\"https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight\">https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49584083\">https://news.ycombinator.com/item?id=49584083</a></p>\n<p>Points: 35</p>\n<p># Comments: 2</p>",
+            "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+            "published": "Sun, 06 Sep 2026 07:21:06 +0000",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Site Is Closed on Sundays",
+            "description": "<p>Article URL: <a href=\"https://v7.robweychert.com/\">https://v7.robweychert.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49583842\">https://news.ycombinator.com/item?id=49583842</a></p>\n<p>Points: 77</p>\n<p># Comments: 77</p>",
+            "url": "https://v7.robweychert.com/",
+            "published": "Sun, 06 Sep 2026 06:23:05 +0000",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+            "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 02:24:16 GMT",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+            "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 08:05:22 GMT",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+            "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+            "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 23:20:00 GMT",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel bombards several towns in southern Lebanon",
+            "description": "The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 08:44:03 +0000",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic",
+            "description": "Filipina Alex Eala lost a three-set thriller to American Iva Jovic, as Naomi Osaka overcame Elise Mertens to progress.",
+            "url": "https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 07:59:04 +0000",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How do you arrest 50,000 people quietly?",
+            "description": "ICE agents arrested an average of one person every 54 seconds in July. AJLabs examines a record month for deportations.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 07:45:08 +0000",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-06T12:47:30+03:30"
+        }
+    ]
+}
