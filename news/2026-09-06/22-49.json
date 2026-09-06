@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-06T22:49:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Following legal advice, the Nitter project will continue",
+            "description": "<p>Article URL: <a href=\"https://github.com/zedeus/nitter\">https://github.com/zedeus/nitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49589003\">https://news.ycombinator.com/item?id=49589003</a></p>\n<p>Points: 173</p>\n<p># Comments: 36</p>",
+            "url": "https://github.com/zedeus/nitter",
+            "published": "Sun, 06 Sep 2026 17:51:23 +0000",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nitter is unarchived and will continue",
+            "description": "<p>Article URL: <a href=\"https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3\">https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588988\">https://news.ycombinator.com/item?id=49588988</a></p>\n<p>Points: 59</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+            "published": "Sun, 06 Sep 2026 17:49:47 +0000",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\">https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49588466\">https://news.ycombinator.com/item?id=49588466</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+            "published": "Sun, 06 Sep 2026 17:00:28 +0000",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German far-right set for big win in eastern state, projections show",
+            "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 19:13:51 GMT",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+            "description": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 18:33:50 GMT",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+            "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+            "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 16:32:59 GMT",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+            "description": "Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.",
+            "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 18:56:25 +0000",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
+            "description": "How the nation&#039;s highest court rules could have major implications in this year’s midterm elections.",
+            "url": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 18:47:03 +0000",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Argentina reviving the Falklands dispute?",
+            "description": "More than 44 years after Britain and Argentina went to war over the Falkland Islands, Argentina is reasserting its claim",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 18:36:40 +0000",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-06T22:49:14+03:30"
+        }
+    ]
+}

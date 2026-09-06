@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 22:31:01
+**Last Update:** 2026-09-06 22:49:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/zedeus/nitter">https://github.com/zedeus/nitter</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49589003">https://news.ycombinator.com/item?id=49589003</a></p>
-<p>Points: 149</p>
-<p># Comments: 28</p>
+<p>Points: 173</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://github.com/zedeus/nitter](https://github.com/zedeus/nitter)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49588988">https://news.ycombinator.com/item?id=49588988</a></p>
-<p>Points: 34</p>
-<p># Comments: 1</p>
+<p>Points: 59</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 4. German far-right set for big win in eastern state - projections
+### 4. German far-right set for big win in eastern state, projections show
 
 **Source:** BBC
 
@@ -97,7 +97,33 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. Why is Argentina reviving the Falklands dispute?
+### 7. Adidas faces boycott calls over campaign featuring former Israeli soldier
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss)
+
+---
+
+### 8. Trump administration appeals again to US Supreme Court over mail-in voting
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+How the nation&#039;s highest court rules could have major implications in this year’s midterm elections.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss)
+
+---
+
+### 9. Why is Argentina reviving the Falklands dispute?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The company is struggling with the impact of tariffs as well as the fallout from
 More than 44 years after Britain and Argentina went to war over the Falkland Islands, Argentina is reasserting its claim
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss)
-
----
-
-### 8. Witkoff says peace talks have been ‘very meaningful’ in Ukraine
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Witkoff says peace talks have been ‘very meaningful’ in Ukraine
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss)
-
----
-
-### 9. Sabalenka through to US Open quarterfinals
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Tennis&#039;s two-time defending champion Aryna Sabalenka into last-eight at US Open after beating Taylor Townsend 6-4, 6-3.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss)
 
 ---
 
