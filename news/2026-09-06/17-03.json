@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-06T17:03:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Schemy Lisp En DOS",
+            "description": "<p>Article URL: <a href=\"https://sled.neocities.org/\">https://sled.neocities.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586139\">https://news.ycombinator.com/item?id=49586139</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://sled.neocities.org/",
+            "published": "Sun, 06 Sep 2026 12:58:54 +0000",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The pencil case model of creativity",
+            "description": "<p>Article URL: <a href=\"https://dub.uu.nl/en/column/pencil-case-model-creativity\">https://dub.uu.nl/en/column/pencil-case-model-creativity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585703\">https://news.ycombinator.com/item?id=49585703</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+            "published": "Sun, 06 Sep 2026 12:05:34 +0000",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Intellectual Fly Is Open",
+            "description": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49585644\">https://news.ycombinator.com/item?id=49585644</a></p>\n<p>Points: 92</p>\n<p># Comments: 56</p>",
+            "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+            "published": "Sun, 06 Sep 2026 11:56:43 +0000",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+            "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+            "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 13:16:21 GMT",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police slow to respond to Dover protest, says council boss",
+            "description": "The \"exceptionally well organised\" protest \"caught several agencies on the hoof\", the leader says.",
+            "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 10:59:35 GMT",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+            "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+            "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 10:29:03 GMT",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the West’s promise of freedom created a world of anger",
+            "description": "In Deja Vu’s next episode, Pankaj Mishra traces today’s political anger to the Enlightenment and empire.",
+            "url": "https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 13:14:33 +0000",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians mourn loved ones in mass funeral in Gaza City",
+            "description": "Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 13:13:36 +0000",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Algeria civil defence recovers body of 10-year-old boy from well",
+            "description": "Child found dead after four-day rescue effort in Algeria&#039;s western province of el-Bayadh.",
+            "url": "https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 12:55:06 +0000",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-06T17:03:04+03:30"
+        }
+    ]
+}

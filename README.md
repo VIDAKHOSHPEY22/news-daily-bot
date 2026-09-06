@@ -1,71 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-06 14:37:54
+**Last Update:** 2026-09-06 17:03:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Changed My License
+### 1. Schemy Lisp En DOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bergie.iki.fi/blog/eupl/">https://bergie.iki.fi/blog/eupl/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585161">https://news.ycombinator.com/item?id=49585161</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://sled.neocities.org/">https://sled.neocities.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49586139">https://news.ycombinator.com/item?id=49586139</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://bergie.iki.fi/blog/eupl/](https://bergie.iki.fi/blog/eupl/)
+🔗 **Read more:** [https://sled.neocities.org/](https://sled.neocities.org/)
 
 ---
 
-### 2. You Don't Have a Right to Safe Drinking Water, US Court Rules
+### 2. The pencil case model of creativity
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/">https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49584637">https://news.ycombinator.com/item?id=49584637</a></p>
-<p>Points: 111</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://dub.uu.nl/en/column/pencil-case-model-creativity">https://dub.uu.nl/en/column/pencil-case-model-creativity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585703">https://news.ycombinator.com/item?id=49585703</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/](https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/)
+🔗 **Read more:** [https://dub.uu.nl/en/column/pencil-case-model-creativity](https://dub.uu.nl/en/column/pencil-case-model-creativity)
 
 ---
 
-### 3. Play GTA Vice City in the Browser
+### 3. Intellectual Fly Is Open
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://quenq.com/apps/vice-city-online/">https://quenq.com/apps/vice-city-online/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49584123">https://news.ycombinator.com/item?id=49584123</a></p>
-<p>Points: 69</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/">https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49585644">https://news.ycombinator.com/item?id=49585644</a></p>
+<p>Points: 92</p>
+<p># Comments: 56</p>
 
-🔗 **Read more:** [https://quenq.com/apps/vice-city-online/](https://quenq.com/apps/vice-city-online/)
+🔗 **Read more:** [https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
 
 ---
 
-### 4. US envoys arrive in Ukraine for talks after meeting Putin in Russia
+### 4. US envoys meet Zelensky in Ukraine after talks with Putin in Russia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.
+Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. Palestinians in Gaza bury remains of 100 people recovered from rubble
+### 7. How the West’s promise of freedom created a world of anger
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.
+In Deja Vu’s next episode, Pankaj Mishra traces today’s political anger to the Enlightenment and empire.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/9/6/how-the-wests-promise-of-freedom-created-a-world-of-anger?traffic_source=rss)
 
 ---
 
-### 8. LIVE: Everton vs Manchester United – Premier League
+### 8. Palestinians mourn loved ones in mass funeral in Gaza City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-All our live updates as Bruno Fernandes and Marcus Rashford look to fire during our text commentary stream coverage.
+Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss)
 
 ---
 
-### 9. Israeli flags become the latest weapon of settlers in West Bank domination
+### 9. Algeria civil defence recovers body of 10-year-old boy from well
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s visual colonisation aims to make Palestinians feel like guests in their own homeland.
+Child found dead after four-day rescue effort in Algeria&#039;s western province of el-Bayadh.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss](https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss)
 
 ---
 
