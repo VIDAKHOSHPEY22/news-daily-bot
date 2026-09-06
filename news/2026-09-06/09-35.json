@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-06T09:35:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AMD Based FreeBSD Desktop Reloaded",
+            "description": "<p>Article URL: <a href=\"https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/\">https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582719\">https://news.ycombinator.com/item?id=49582719</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+            "published": "Sun, 06 Sep 2026 02:24:57 +0000",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI, Tools and Transformation",
+            "description": "<p>Article URL: <a href=\"https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation\">https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582656\">https://news.ycombinator.com/item?id=49582656</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+            "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+            "published": "Sun, 06 Sep 2026 02:12:46 +0000",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPT-6 Astra on robot arms",
+            "description": "<p>Article URL: <a href=\"https://openai.robocurve.org/gpt-6-astra/\">https://openai.robocurve.org/gpt-6-astra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49582582\">https://news.ycombinator.com/item?id=49582582</a></p>\n<p>Points: 125</p>\n<p># Comments: 80</p>",
+            "url": "https://openai.robocurve.org/gpt-6-astra/",
+            "published": "Sun, 06 Sep 2026 01:52:45 +0000",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+            "description": "Steve Witkoff and Jared Kushner left Moscow having \"discussed substantive plans for next steps\" with Putin, according to the White House.",
+            "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 02:24:16 GMT",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+            "description": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
+            "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 05 Sep 2026 14:26:37 GMT",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+            "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 05:04:04 GMT",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Flames burst from Qantas plane engine after New Zealand takeoff",
+            "description": "A terrifying moment unfolded aboard a Qantas flight from Queenstown to Sydney when flames erupted from its left engine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 05:02:23 +0000",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+            "description": "More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.",
+            "url": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 05:02:17 +0000",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
+            "description": "Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
+            "published": "Sun, 06 Sep 2026 04:59:28 +0000",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-06T09:35:01+03:30"
+        }
+    ]
+}
