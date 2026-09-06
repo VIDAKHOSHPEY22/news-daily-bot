@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 00:58:25
+**Last Update:** 2026-09-07 01:34:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
+### 1. Windows 11's "special" developer edition looks like another marketing misfire
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/">https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591036">https://news.ycombinator.com/item?id=49591036</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
+
+---
+
+### 2. Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/marsbos/mador">https://github.com/marsbos/mador</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590738">https://news.ycombinator.com/item?id=49590738</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
+<p>Points: 33</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://github.com/marsbos/mador](https://github.com/marsbos/mador)
 
 ---
 
-### 2. It took a year to ship WebAssembly in Anubis
+### 3. It took a year to ship WebAssembly in Anubis
 
 **Source:** Hacker News
 
@@ -35,37 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://anubis.techaro.lol/blog/2026/anubis-wasm/">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590611">https://news.ycombinator.com/item?id=49590611</a></p>
-<p>Points: 28</p>
-<p># Comments: 11</p>
+<p>Points: 57</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://anubis.techaro.lol/blog/2026/anubis-wasm/](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 
 ---
 
-### 3. GrapheneOS Overhauled Default Apps and Secure Clipboard
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117225539756835649">https://grapheneos.social/@GrapheneOS/117225539756835649</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590512">https://news.ycombinator.com/item?id=49590512</a></p>
-<p>Points: 27</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117225539756835649](https://grapheneos.social/@GrapheneOS/117225539756835649)
-
----
-
-### 4. German far-right set for big win in eastern state, projections show
+### 4. Germany's far-right AfD set for big win in eastern state, just short of majority
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Germany's AfD has hailed a "historic result" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.
+Germany's AfD has hailed a "historic result" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,20 @@ The company is struggling with the impact of tariffs as well as the fallout from
 
 ---
 
-### 7. Amazon cargo plane crashes in US while landing at Miami airport
+### 7. Alcaraz breezes into last eight at US Open
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quarterfinals.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss)
+
+---
+
+### 8. Amazon cargo plane crashes in US while landing at Miami airport
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The cause of the crash is being investigated.
 
 ---
 
-### 8. At least 10 killed in central Mexico fireworks blast during festival
+### 9. At least 10 killed in central Mexico fireworks blast during festival
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The cause of the crash is being investigated.
 Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss)
-
----
-
-### 9. Amazon Prime plane overruns runway at Miami Airport
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An Amazon Prime Air Boeing 767 overran a runway at Miami International Airport and collided with several vehicles.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss)
 
 ---
 
