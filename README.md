@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 01:06:53
+**Last Update:** 2026-09-08 01:27:13
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Macbeth and His Problems
+### 1. The Education of a Doomer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://borretti.me/article/the-education-of-a-doomer">https://borretti.me/article/the-education-of-a-doomer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603092">https://news.ycombinator.com/item?id=49603092</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://borretti.me/article/the-education-of-a-doomer](https://borretti.me/article/the-education-of-a-doomer)
+
+---
+
+### 2. Macbeth and His Problems
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://porticoquarterly.com/essay/macbeth-and-his-problems/">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602716">https://news.ycombinator.com/item?id=49602716</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://porticoquarterly.com/essay/macbeth-and-his-problems/](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
 
 ---
 
-### 2. A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on
+### 3. A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/">https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602582">https://news.ycombinator.com/item?id=49602582</a></p>
-<p>Points: 30</p>
-<p># Comments: 3</p>
+<p>Points: 53</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
-
----
-
-### 3. Germany Power Grid Sabotage: Launch Devices Found Near Weisweiler Plant
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/">https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602320">https://news.ycombinator.com/item?id=49602320</a></p>
-<p>Points: 16</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/](https://cedarnews.net/newstasks/970710/germany-power-grid-sabotage-launch-devices-found/)
 
 ---
 
@@ -97,7 +97,20 @@ The letter has been sent to Prince Harry's team, the government, military and Lo
 
 ---
 
-### 7. Indian temple collapses into Ganges as riverbank erodes
+### 7. Oil prices surge as US-Iran strikes intensify in Strait of Hormuz
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss)
+
+---
+
+### 8. Indian temple collapses into Ganges as riverbank erodes
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ A temple collapsed into the Ganges River in India’s West Bengal after severe e
 
 ---
 
-### 8. Israel’s removal of Gaza rubble risk to war crimes evidence: UN
+### 9. Israel’s removal of Gaza rubble risk to war crimes evidence: UN
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ A temple collapsed into the Ganges River in India’s West Bengal after severe e
 International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss)
-
----
-
-### 9. Yemen fighting escalates as forces battle for Bab al-Mandeb Strait
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fighting is intensifying in Yemen as government-aligned forces launch counterattacks against the Iran-backed Houthis.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss)
 
 ---
 

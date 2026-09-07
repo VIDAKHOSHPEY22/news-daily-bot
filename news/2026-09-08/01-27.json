@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T01:27:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Education of a Doomer",
+            "description": "<p>Article URL: <a href=\"https://borretti.me/article/the-education-of-a-doomer\">https://borretti.me/article/the-education-of-a-doomer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49603092\">https://news.ycombinator.com/item?id=49603092</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://borretti.me/article/the-education-of-a-doomer",
+            "published": "Mon, 07 Sep 2026 21:19:12 +0000",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Macbeth and His Problems",
+            "description": "<p>Article URL: <a href=\"https://porticoquarterly.com/essay/macbeth-and-his-problems/\">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602716\">https://news.ycombinator.com/item?id=49602716</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+            "published": "Mon, 07 Sep 2026 20:34:32 +0000",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
+            "description": "<p>Article URL: <a href=\"https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/\">https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602582\">https://news.ycombinator.com/item?id=49602582</a></p>\n<p>Points: 53</p>\n<p># Comments: 20</p>",
+            "url": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+            "published": "Mon, 07 Sep 2026 20:21:12 +0000",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+            "description": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 19:04:09 GMT",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+            "description": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
+            "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 15:20:48 GMT",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King makes clear Harry and Meghan remain non-working royals",
+            "description": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+            "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 18:23:31 GMT",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+            "description": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+            "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 21:17:12 +0000",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indian temple collapses into Ganges as riverbank erodes",
+            "description": "A temple collapsed into the Ganges River in India’s West Bengal after severe erosion breached protective barriers",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 21:09:44 +0000",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+            "description": "International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.",
+            "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 21:00:58 +0000",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-08T01:27:13+03:30"
+        }
+    ]
+}
