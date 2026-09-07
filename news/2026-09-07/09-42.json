@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-07T09:42:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+            "description": "<p>Article URL: <a href=\"https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9\">https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49594189\">https://news.ycombinator.com/item?id=49594189</a></p>\n<p>Points: 12</p>\n<p># Comments: 10</p>",
+            "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+            "published": "Mon, 07 Sep 2026 05:23:31 +0000",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I refused to train the AI that could replace me",
+            "description": "<p>Article URL: <a href=\"https://restofworld.org/2026/ai-training-jobs-expert-replacement/\">https://restofworld.org/2026/ai-training-jobs-expert-replacement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593959\">https://news.ycombinator.com/item?id=49593959</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+            "published": "Mon, 07 Sep 2026 04:38:22 +0000",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Keep Our Servers Running",
+            "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\">https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49593563\">https://news.ycombinator.com/item?id=49593563</a></p>\n<p>Points: 170</p>\n<p># Comments: 40</p>",
+            "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+            "published": "Mon, 07 Sep 2026 03:29:51 +0000",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
+            "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
+            "url": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 05:31:06 GMT",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+            "description": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 04:48:02 GMT",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+            "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
+            "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 04:07:23 GMT",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Six children among 11 people killed in Indonesian market fire",
+            "description": "A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 05:37:32 +0000",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ten killed and dozens injured in Mexico fireworks blast",
+            "description": "Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 04:56:51 +0000",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anti-immigration protesters clash with police in UK after boat arrival",
+            "description": "Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 04:55:34 +0000",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-07T09:42:46+03:30"
+        }
+    ]
+}
