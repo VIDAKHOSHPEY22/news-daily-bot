@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 15:47:57
+**Last Update:** 2026-09-07 16:17:54
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49597189">https://news.ycombinator.com/item?id=49597189</a></p>
-<p>Points: 22</p>
-<p># Comments: 0</p>
+<p>Points: 58</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
 
@@ -36,26 +36,26 @@
 <p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with "save:false", and the marker then appeared verbatim in the HTML served from the generated "*.codepen.dev preview". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596976">https://news.ycombinator.com/item?id=49596976</a></p>
-<p>Points: 25</p>
-<p># Comments: 9</p>
+<p>Points: 34</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=49596976](https://news.ycombinator.com/item?id=49596976)
 
 ---
 
-### 3. Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame
+### 3. VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/">https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596629">https://news.ycombinator.com/item?id=49596629</a></p>
-<p>Points: 22</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/">https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596797">https://news.ycombinator.com/item?id=49596797</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
+🔗 **Read more:** [https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/](https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/)
 
 ---
 
@@ -98,42 +98,42 @@ Police say they have arrested two men and two women as part of their investigati
 
 ---
 
-### 7. Can Iran enforce a restricted zone in the Strait of Hormuz?
+### 7. Moment Amazon plane crash lands in Miami
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?
+Moment Amazon plane crash lands in Miami
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss)
 
 ---
 
-### 8. Champions League: Five key talking points for the 2026-27 season
+### 8. Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arsenal and Bayern lead the challengers to PSG, Mourinho aims for glory with Real and Italian minnows Como make debut.
+US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/7/champions-league-five-key-talking-points-for-the-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/7/champions-league-five-key-talking-points-for-the-2026-27-season?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss)
 
 ---
 
-### 9. Iran and Ukraine wars: Why ship fuel is running short, and why it matters
+### 9. Balogun red card U-turn prompts Belgium to withdraw support for Infantino
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There&#039;s less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.
+Belgian football association says it will not back Infantino&#039;s bid for re-election, citing the World Cup controversy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-07T16:17:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532\">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49597189\">https://news.ycombinator.com/item?id=49597189</a></p>\n<p>Points: 58</p>\n<p># Comments: 12</p>",
+            "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+            "published": "Mon, 07 Sep 2026 11:46:37 +0000",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+            "description": "<p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with \"save:false\", and the marker then appeared verbatim in the HTML served from the generated \"*.codepen.dev preview\". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596976\">https://news.ycombinator.com/item?id=49596976</a></p>\n<p>Points: 34</p>\n<p># Comments: 13</p>",
+            "url": "https://news.ycombinator.com/item?id=49596976",
+            "published": "Mon, 07 Sep 2026 11:22:40 +0000",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/\">https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596797\">https://news.ycombinator.com/item?id=49596797</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+            "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+            "published": "Mon, 07 Sep 2026 11:01:06 +0000",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How anti-migrant boat protests were organised and who is behind them",
+            "description": "Danny Thomas organised the demonstration in Dover - seemingly after weeks of preparation - and was also present in Portsmouth.",
+            "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 11:27:53 GMT",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+            "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+            "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 11:51:54 GMT",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Murder arrests over baby girl's death in woodland",
+            "description": "Police say they have arrested two men and two women as part of their investigation.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 12:36:09 GMT",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moment Amazon plane crash lands in Miami",
+            "description": "Moment Amazon plane crash lands in Miami",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-amazon-plane-crash-lands-in-miami?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 12:03:32 +0000",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?",
+            "description": "US threats to punish Iran’s trade partners could disrupt Spain’s saffron supply, pressuring paella chefs and exporters.",
+            "url": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 12:00:07 +0000",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Balogun red card U-turn prompts Belgium to withdraw support for Infantino",
+            "description": "Belgian football association says it will not back Infantino&#039;s bid for re-election, citing the World Cup controversy.",
+            "url": "https://www.aljazeera.com/sports/2026/9/7/balogun-red-card-u-turn-prompts-belgium-to-withdraw-support-for-infantino?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 11:50:26 +0000",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-07T16:17:54+03:30"
+        }
+    ]
+}
