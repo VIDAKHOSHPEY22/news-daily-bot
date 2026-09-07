@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 02:27:41
+**Last Update:** 2026-09-07 04:20:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Windows 11's "special" developer edition looks like another marketing misfire
+### 1. Making a Python interpreter in 1024 bytes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/">https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591036">https://news.ycombinator.com/item?id=49591036</a></p>
-<p>Points: 25</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://austinhenley.com/blog/python1024.html">https://austinhenley.com/blog/python1024.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591876">https://news.ycombinator.com/item?id=49591876</a></p>
+<p>Points: 46</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/](https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/)
+🔗 **Read more:** [https://austinhenley.com/blog/python1024.html](https://austinhenley.com/blog/python1024.html)
 
 ---
 
-### 2. Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
+### 2. Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/marsbos/mador">https://github.com/marsbos/mador</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590738">https://news.ycombinator.com/item?id=49590738</a></p>
-<p>Points: 44</p>
+<p>Article URL: <a href="https://twitter.com/Liquid_BTC/status/2096696272447218108">https://twitter.com/Liquid_BTC/status/2096696272447218108</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591672">https://news.ycombinator.com/item?id=49591672</a></p>
+<p>Points: 43</p>
 <p># Comments: 16</p>
 
-🔗 **Read more:** [https://github.com/marsbos/mador](https://github.com/marsbos/mador)
+🔗 **Read more:** [https://twitter.com/Liquid_BTC/status/2096696272447218108](https://twitter.com/Liquid_BTC/status/2096696272447218108)
 
 ---
 
-### 3. It took a year to ship WebAssembly in Anubis
+### 3. Political meddling at the Census Bureau damages the US statistical system
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://anubis.techaro.lol/blog/2026/anubis-wasm/">https://anubis.techaro.lol/blog/2026/anubis-wasm/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49590611">https://news.ycombinator.com/item?id=49590611</a></p>
-<p>Points: 88</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system">https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591620">https://news.ycombinator.com/item?id=49591620</a></p>
+<p>Points: 52</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://anubis.techaro.lol/blog/2026/anubis-wasm/](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+🔗 **Read more:** [https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system](https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system)
 
 ---
 
@@ -71,7 +71,20 @@ Germany's AfD has hailed a "historic result" and is projected to win 44% of the 
 
 ---
 
-### 5. Zelensky says he expects war to continue into winter after talks with US envoys
+### 5. Five dead after Amazon cargo plane crashes at Miami airport
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Five people are dead and five seriously injured after a Boeing 767-300 cargo plane "overran" the runway and caught fire, officials say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Zelensky says he expects war to continue into winter after talks with US envoys
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ There was no announcement of a major breakthrough, after Steve Witkoff and Jared
 
 ---
 
-### 6. Minister to meet Jaguar Land Rover boss as thousands of job cuts expected
+### 7. Iran war live: Tehran to announce new Hormuz shipping route in coming days
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.
+Move comes as Iran&#039;s top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss)
 
 ---
 
-### 7. Alcaraz breezes into last eight at US Open
+### 8. Alcaraz breezes into last eight at US Open
 
 **Source:** Al Jazeera
 
@@ -110,29 +123,16 @@ Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quart
 
 ---
 
-### 8. Amazon cargo plane crashes in US while landing at Miami airport
+### 9. At least five killed after Amazon cargo plane crash in Miami airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The cause of the crash is being investigated.
+Five people are injured, and the cause of the crash is being investigated, authorities say.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss)
-
----
-
-### 9. At least 10 killed in central Mexico fireworks blast during festival
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Local government says at least 60 were wounded in the blast, apparently caused by a burning bull effigy.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss)
 
 ---
 
