@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-07T04:38:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Making a Python interpreter in 1024 bytes",
+            "description": "<p>Article URL: <a href=\"https://austinhenley.com/blog/python1024.html\">https://austinhenley.com/blog/python1024.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591876\">https://news.ycombinator.com/item?id=49591876</a></p>\n<p>Points: 57</p>\n<p># Comments: 20</p>",
+            "url": "https://austinhenley.com/blog/python1024.html",
+            "published": "Sun, 06 Sep 2026 23:14:08 +0000",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is mathematics about to enter the conservatory?",
+            "description": "<p>Article URL: <a href=\"https://mbmccoy.dev/posts/mathematical-conservatory/\">https://mbmccoy.dev/posts/mathematical-conservatory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591793\">https://news.ycombinator.com/item?id=49591793</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+            "published": "Sun, 06 Sep 2026 23:02:11 +0000",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/Liquid_BTC/status/2096696272447218108\">https://twitter.com/Liquid_BTC/status/2096696272447218108</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49591672\">https://news.ycombinator.com/item?id=49591672</a></p>\n<p>Points: 52</p>\n<p># Comments: 22</p>",
+            "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+            "published": "Sun, 06 Sep 2026 22:43:25 +0000",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+            "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 23:02:45 GMT",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+            "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+            "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 00:57:38 GMT",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+            "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+            "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 06 Sep 2026 20:41:58 GMT",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbia’s Red Star Belgrade honour Ratko Mladic with tifo",
+            "description": "Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 00:49:33 +0000",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+            "description": "Leader Kim Jong Un says vessel will form part of Pyongyang&#039;s nuclear response system, strengthen naval forces.",
+            "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 00:20:04 +0000",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+            "description": "Move comes as Iran&#039;s top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-07T04:38:03+03:30"
+        }
+    ]
+}

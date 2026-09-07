@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 04:20:22
+**Last Update:** 2026-09-07 04:38:03
 
 **Total News:** 12
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://austinhenley.com/blog/python1024.html">https://austinhenley.com/blog/python1024.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591876">https://news.ycombinator.com/item?id=49591876</a></p>
-<p>Points: 46</p>
-<p># Comments: 12</p>
+<p>Points: 57</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://austinhenley.com/blog/python1024.html](https://austinhenley.com/blog/python1024.html)
 
 ---
 
-### 2. Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet
+### 2. Is mathematics about to enter the conservatory?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mbmccoy.dev/posts/mathematical-conservatory/">https://mbmccoy.dev/posts/mathematical-conservatory/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591793">https://news.ycombinator.com/item?id=49591793</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://mbmccoy.dev/posts/mathematical-conservatory/](https://mbmccoy.dev/posts/mathematical-conservatory/)
+
+---
+
+### 3. Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/Liquid_BTC/status/2096696272447218108">https://twitter.com/Liquid_BTC/status/2096696272447218108</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591672">https://news.ycombinator.com/item?id=49591672</a></p>
-<p>Points: 43</p>
-<p># Comments: 16</p>
+<p>Points: 52</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://twitter.com/Liquid_BTC/status/2096696272447218108](https://twitter.com/Liquid_BTC/status/2096696272447218108)
-
----
-
-### 3. Political meddling at the Census Bureau damages the US statistical system
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system">https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49591620">https://news.ycombinator.com/item?id=49591620</a></p>
-<p>Points: 52</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system](https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Germany's AfD has hailed a "historic result" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.
+Germany's AfD hails a "historic result" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ There was no announcement of a major breakthrough, after Steve Witkoff and Jared
 
 ---
 
-### 7. Iran war live: Tehran to announce new Hormuz shipping route in coming days
+### 7. Serbia’s Red Star Belgrade honour Ratko Mladic with tifo
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Red Star Belgrade fans unveiled a tifo honouring Ratko Mladic at the Belgrade derby with Partizan.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_red-star-belgrade-fans-unveil-tifo-honouring-mladic-060926?traffic_source=rss)
+
+---
+
+### 8. North Korea deploys warship ‘capable of annihilating retaliatory strikes’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Leader Kim Jong Un says vessel will form part of Pyongyang&#039;s nuclear response system, strengthen naval forces.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes?traffic_source=rss)
+
+---
+
+### 9. Iran war live: Tehran to announce new Hormuz shipping route in coming days
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ There was no announcement of a major breakthrough, after Steve Witkoff and Jared
 Move comes as Iran&#039;s top negotiator warns of heavier responses to new attacks after US strikes on Iranian oil tankers.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss)
-
----
-
-### 8. Alcaraz breezes into last eight at US Open
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Carlos Alcaraz beats American Tommy Paul in straight sets to reach US Open quarterfinals.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss)
-
----
-
-### 9. At least five killed after Amazon cargo plane crash in Miami airport
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Five people are injured, and the cause of the crash is being investigated, authorities say.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss)
 
 ---
 
