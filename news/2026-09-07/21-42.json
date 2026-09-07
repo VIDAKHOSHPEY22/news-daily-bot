@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-07T21:42:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PostgreSQL 19 Interactive Tour",
+            "description": "<p>Article URL: <a href=\"https://victoriametrics.com/blog/postgres-19/index.html\">https://victoriametrics.com/blog/postgres-19/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600432\">https://news.ycombinator.com/item?id=49600432</a></p>\n<p>Points: 20</p>\n<p># Comments: 0</p>",
+            "url": "https://victoriametrics.com/blog/postgres-19/index.html",
+            "published": "Mon, 07 Sep 2026 16:58:35 +0000",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+            "description": "<p>In case you're wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49600233\">https://news.ycombinator.com/item?id=49600233</a></p>\n<p>Points: 77</p>\n<p># Comments: 50</p>",
+            "url": "https://news.ycombinator.com/item?id=49600233",
+            "published": "Mon, 07 Sep 2026 16:40:32 +0000",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
+            "description": "<p>Article URL: <a href=\"https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set\">https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49599719\">https://news.ycombinator.com/item?id=49599719</a></p>\n<p>Points: 70</p>\n<p># Comments: 39</p>",
+            "url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
+            "published": "Mon, 07 Sep 2026 15:50:37 +0000",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+            "description": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
+            "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 15:20:48 GMT",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+            "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+            "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 14:57:30 GMT",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King makes clear Harry and Meghan remain non-working royals",
+            "description": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+            "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 16:37:55 GMT",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+            "description": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 17:52:47 +0000",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Board of Peace touts progress as Palestinians’ situation worsens",
+            "description": "Humanitarian official Athena Rayburn dissects the Israeli tactics making life ‘untenable’ for millions of Palestinians.",
+            "url": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 17:50:10 +0000",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Egyptian wrestlers keep vanishing abroad amid a sport in crisis",
+            "description": "Two wrestlers have become the latest to flee while abroad, drawing a wave of sympathy as well as legal threats.",
+            "url": "https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 17:41:53 +0000",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-07T21:42:49+03:30"
+        }
+    ]
+}
