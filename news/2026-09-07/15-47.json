@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-07T15:47:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532\">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49597189\">https://news.ycombinator.com/item?id=49597189</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+            "published": "Mon, 07 Sep 2026 11:46:37 +0000",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+            "description": "<p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with \"save:false\", and the marker then appeared verbatim in the HTML served from the generated \"*.codepen.dev preview\". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596976\">https://news.ycombinator.com/item?id=49596976</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+            "url": "https://news.ycombinator.com/item?id=49596976",
+            "published": "Mon, 07 Sep 2026 11:22:40 +0000",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+            "description": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/\">https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49596629\">https://news.ycombinator.com/item?id=49596629</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
+            "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+            "published": "Mon, 07 Sep 2026 10:41:29 +0000",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How anti-migrant boat protests were organised and who is behind them",
+            "description": "Danny Thomas organised the demonstration in Dover - seemingly after weeks of preparation - and was also present in Portsmouth.",
+            "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 11:27:53 GMT",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+            "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+            "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 11:51:54 GMT",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Murder arrests over baby girl's death in woodland",
+            "description": "Police say they have arrested two men and two women as part of their investigation.",
+            "url": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 12:10:42 GMT",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
+            "description": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
+            "url": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 11:37:46 +0000",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Champions League: Five key talking points for the 2026-27 season",
+            "description": "Arsenal and Bayern lead the challengers to PSG, Mourinho aims for glory with Real and Italian minnows Como make debut.",
+            "url": "https://www.aljazeera.com/sports/2026/9/7/champions-league-five-key-talking-points-for-the-2026-27-season?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 11:34:15 +0000",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
+            "description": "There&#039;s less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.",
+            "url": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 11:26:27 +0000",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-07T15:47:57+03:30"
+        }
+    ]
+}

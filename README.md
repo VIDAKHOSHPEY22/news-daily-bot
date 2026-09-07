@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-07 09:42:46
+**Last Update:** 2026-09-07 15:47:57
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI
+### 1. Smartphone makers don't bother to comply with EU repairability requirements
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9">https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49594189">https://news.ycombinator.com/item?id=49594189</a></p>
-<p>Points: 12</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9](https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9)
-
----
-
-### 2. I refused to train the AI that could replace me
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://restofworld.org/2026/ai-training-jobs-expert-replacement/">https://restofworld.org/2026/ai-training-jobs-expert-replacement/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593959">https://news.ycombinator.com/item?id=49593959</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532">https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49597189">https://news.ycombinator.com/item?id=49597189</a></p>
+<p>Points: 22</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://restofworld.org/2026/ai-training-jobs-expert-replacement/](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
+🔗 **Read more:** [https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
 
 ---
 
-### 3. Keep Our Servers Running
+### 2. Apparently CodePen 2.0 sends data to their servers as you type
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/">https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49593563">https://news.ycombinator.com/item?id=49593563</a></p>
-<p>Points: 170</p>
-<p># Comments: 40</p>
+<p>They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with "save:false", and the marker then appeared verbatim in the HTML served from the generated "*.codepen.dev preview". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596976">https://news.ycombinator.com/item?id=49596976</a></p>
+<p>Points: 25</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49596976](https://news.ycombinator.com/item?id=49596976)
 
 ---
 
-### 4. New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state
+### 3. Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/">https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49596629">https://news.ycombinator.com/item?id=49596629</a></p>
+<p>Points: 22</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/](https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/)
+
+---
+
+### 4. How anti-migrant boat protests were organised and who is behind them
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.
+Danny Thomas organised the demonstration in Dover - seemingly after weeks of preparation - and was also present in Portsmouth.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Germany's far-right AfD hails big victory in east, but falls short of majority
+### 5. Jaguar Land Rover to cut 4,000 jobs over next two years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Alternative for Germany hails a "historic" success as preliminary results show a big margin of victory with almost 44% of the vote.
+The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Europe wrestles with impact of historic regional gains for Germany's AfD
+### 6. Murder arrests over baby girl's death in woodland
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.
+Police say they have arrested two men and two women as part of their investigation.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Six children among 11 people killed in Indonesian market fire
+### 7. Can Iran enforce a restricted zone in the Strait of Hormuz?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A massive fire at a market in the Indonesia village of Babuda has claimed the lives of eleven people.
+Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_11-dead-in-massive-indonesia-market-fire-070926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss)
 
 ---
 
-### 8. Ten killed and dozens injured in Mexico fireworks blast
+### 8. Champions League: Five key talking points for the 2026-27 season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ten people were killed after a fireworks display detonated during a religious festival in Mexico, injuring dozens more.
+Arsenal and Bayern lead the challengers to PSG, Mourinho aims for glory with Real and Italian minnows Como make debut.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/ten-killed-and-dozens-injured-in-mexico-fireworks-blast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/7/champions-league-five-key-talking-points-for-the-2026-27-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/7/champions-league-five-key-talking-points-for-the-2026-27-season?traffic_source=rss)
 
 ---
 
-### 9. Anti-immigration protesters clash with police in UK after boat arrival
+### 9. Iran and Ukraine wars: Why ship fuel is running short, and why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anti-immigration protesters clashed with police in Portsmouth after around 140 people arrived in UK aboard a small boat.
+There&#039;s less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/anti-immigration-protesters-clash-with-police-in-uk-after-boat-arrival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss)
 
 ---
 
