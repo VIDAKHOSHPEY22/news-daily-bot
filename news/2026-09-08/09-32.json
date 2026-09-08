@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T09:32:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My Feed, My Way",
+            "description": "<p>Article URL: <a href=\"https://www.pm.gov.au/media/my-feed-my-way\">https://www.pm.gov.au/media/my-feed-my-way</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605782\">https://news.ycombinator.com/item?id=49605782</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+            "url": "https://www.pm.gov.au/media/my-feed-my-way",
+            "published": "Tue, 08 Sep 2026 05:10:36 +0000",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+            "description": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/\">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605767\">https://news.ycombinator.com/item?id=49605767</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+            "published": "Tue, 08 Sep 2026 05:06:23 +0000",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We have a year to fix security everywhere",
+            "description": "<p>Article URL: <a href=\"https://jyn.dev/a-year-to-fix-security/\">https://jyn.dev/a-year-to-fix-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605691\">https://news.ycombinator.com/item?id=49605691</a></p>\n<p>Points: 68</p>\n<p># Comments: 28</p>",
+            "url": "https://jyn.dev/a-year-to-fix-security/",
+            "published": "Tue, 08 Sep 2026 04:48:10 +0000",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+            "description": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+            "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 01:50:55 GMT",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "A&E did not get the basics right - now my son's life is ruined at 32",
+            "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 03:49:39 GMT",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+            "description": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 19:04:09 GMT",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Forest fires force evacuations near resorts in Antalya",
+            "description": "Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 04:55:59 +0000",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mladic’s funeral: Were no lessons learned?",
+            "description": "Thirty years of international justice has taught political leaders little.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 04:47:56 +0000",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Polls suggest tight presidential race as Brazil marks Independence Day",
+            "description": "Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 04:29:33 +0000",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-08T09:32:56+03:30"
+        }
+    ]
+}

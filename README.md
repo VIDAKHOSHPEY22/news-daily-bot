@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 09:18:41
+**Last Update:** 2026-09-08 09:32:56
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.pm.gov.au/media/my-feed-my-way">https://www.pm.gov.au/media/my-feed-my-way</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605782">https://news.ycombinator.com/item?id=49605782</a></p>
-<p>Points: 16</p>
-<p># Comments: 5</p>
+<p>Points: 25</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.pm.gov.au/media/my-feed-my-way](https://www.pm.gov.au/media/my-feed-my-way)
 
 ---
 
-### 2. We have a year to fix security everywhere
+### 2. Mistral raises €3B to make sovereign, open-weight AI the technology frontier
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605767">https://news.ycombinator.com/item?id=49605767</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+
+---
+
+### 3. We have a year to fix security everywhere
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://jyn.dev/a-year-to-fix-security/">https://jyn.dev/a-year-to-fix-security/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605691">https://news.ycombinator.com/item?id=49605691</a></p>
-<p>Points: 47</p>
-<p># Comments: 19</p>
+<p>Points: 68</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://jyn.dev/a-year-to-fix-security/](https://jyn.dev/a-year-to-fix-security/)
-
----
-
-### 3. The VMs Powering Mobile Agents (Instinct, Claude Code)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://rohanadwankar.github.io/posts/platforms.html">https://rohanadwankar.github.io/posts/platforms.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605644">https://news.ycombinator.com/item?id=49605644</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://rohanadwankar.github.io/posts/platforms.html](https://rohanadwankar.github.io/posts/platforms.html)
 
 ---
 
