@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T20:01:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US police fear Meta smart glasses could be used to secretly record them",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses\">https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611946\">https://news.ycombinator.com/item?id=49611946</a></p>\n<p>Points: 20</p>\n<p># Comments: 9</p>",
+            "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
+            "published": "Tue, 08 Sep 2026 15:39:49 +0000",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Disappointed Optimists",
+            "description": "<p>Article URL: <a href=\"https://cwodtke.com/disappointed-optimists/\">https://cwodtke.com/disappointed-optimists/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611549\">https://news.ycombinator.com/item?id=49611549</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+            "url": "https://cwodtke.com/disappointed-optimists/",
+            "published": "Tue, 08 Sep 2026 15:13:56 +0000",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
+            "description": "<p>Article URL: <a href=\"https://logicola.org/blog/the-new-logicola\">https://logicola.org/blog/the-new-logicola</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611329\">https://news.ycombinator.com/item?id=49611329</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://logicola.org/blog/the-new-logicola",
+            "published": "Tue, 08 Sep 2026 15:00:43 +0000",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ports denied request to land 120 migrants in RNLI boats",
+            "description": "The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 15:26:05 GMT",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+            "description": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.",
+            "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 09:43:53 GMT",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Renoir paintings worth millions stolen in French museum heist",
+            "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+            "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 13:35:28 GMT",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
+            "description": "UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 16:05:38 +0000",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli academia accused of systemic apartheid against Palestinians",
+            "description": "A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 16:04:42 +0000",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Real Madrid vs Inter Milan – UEFA Champions League",
+            "description": "Follow our live build-up and text commentary stream coverage as Kylian Mbappe and Jude Bellingham star for Real.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 15:47:25 +0000",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-08T20:01:22+03:30"
+        }
+    ]
+}

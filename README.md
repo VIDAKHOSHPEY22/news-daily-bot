@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 18:44:00
+**Last Update:** 2026-09-08 20:01:22
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google DeepMind Releases AlphaGenome Atlas
+### 1. US police fear Meta smart glasses could be used to secretly record them
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611251">https://news.ycombinator.com/item?id=49611251</a></p>
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses">https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611946">https://news.ycombinator.com/item?id=49611946</a></p>
+<p>Points: 20</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses](https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses)
+
+---
+
+### 2. Disappointed Optimists
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cwodtke.com/disappointed-optimists/">https://cwodtke.com/disappointed-optimists/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611549">https://news.ycombinator.com/item?id=49611549</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://cwodtke.com/disappointed-optimists/](https://cwodtke.com/disappointed-optimists/)
+
+---
+
+### 3. Reverse engineering the 2008 LogiCola, a logic drill program
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://logicola.org/blog/the-new-logicola">https://logicola.org/blog/the-new-logicola</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611329">https://news.ycombinator.com/item?id=49611329</a></p>
 <p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+🔗 **Read more:** [https://logicola.org/blog/the-new-logicola](https://logicola.org/blog/the-new-logicola)
 
 ---
 
-### 2. ZX Spectrum: Experimenting with 1-Bit Sound
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/">https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611230">https://news.ycombinator.com/item?id=49611230</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)
-
----
-
-### 3. How Climate Resilient Are the Largest Cities?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/">https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611132">https://news.ycombinator.com/item?id=49611132</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/](https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/)
-
----
-
-### 4. Heathrow and Gatwick among airports hit by air traffic control problems
+### 4. Ports denied request to land 120 migrants in RNLI boats
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.
+The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,7 +84,7 @@ A spokesman says they were not told in advance about the letter sent on behalf o
 
 ---
 
-### 6. Four Renoir paintings worth millions stolen in French museum heist
+### 6. Renoir paintings worth millions stolen in French museum heist
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ It is the latest in a string of high-profile art thefts in Europe that has again
 
 ---
 
-### 7. UK imposes ban on goods from Israeli settlements in occupied West Bank
+### 7. UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.
+UN expert Francesca Albanese calls UK sanctions on Israeli settlements a ‘seismic shift’ after years of UK ‘complicity’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-israel-sanctions-albanese-qt-mp4?traffic_source=rss)
 
 ---
 
-### 8. UK bans goods from Israeli West Bank settlements: What that really means
+### 8. Israeli academia accused of systemic apartheid against Palestinians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Foreign Minister Ed Miliband said the ban represents a &#039;comprehensive reset&#039; of UK&#039;s policy on Israel.
+A legal report exposes how Israeli universities use a dual-track disciplinary system to target Palestinian students.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/israeli-academia-accused-of-systemic-apartheid-against-palestinians?traffic_source=rss)
 
 ---
 
-### 9. FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe
+### 9. LIVE: Real Madrid vs Inter Milan – UEFA Champions League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European Leagues body first filed complaint to the European Commission to protect men&#039;s players in October 2024.
+Follow our live build-up and text commentary stream coverage as Kylian Mbappe and Jude Bellingham star for Real.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/8/live-real-madrid-vs-inter-milan-uefa-champions-league?traffic_source=rss)
 
 ---
 
