@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T22:20:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "On the Navier–Stokes Millennium Prize Problem",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/navier-stokes-solution/\">https://openai.com/index/navier-stokes-solution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613262\">https://news.ycombinator.com/item?id=49613262</a></p>\n<p>Points: 445</p>\n<p># Comments: 305</p>",
+            "url": "https://openai.com/index/navier-stokes-solution/",
+            "published": "Tue, 08 Sep 2026 17:13:21 +0000",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OUI-1: world's first model for Generative UI",
+            "description": "<p>Article URL: <a href=\"https://www.openui.com/blog/oui-1\">https://www.openui.com/blog/oui-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613182\">https://news.ycombinator.com/item?id=49613182</a></p>\n<p>Points: 30</p>\n<p># Comments: 27</p>",
+            "url": "https://www.openui.com/blog/oui-1",
+            "published": "Tue, 08 Sep 2026 17:07:54 +0000",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: LLM Attention Visualization",
+            "description": "<p>Article URL: <a href=\"https://ishamf.dev/p/llm-attention-visualizer/\">https://ishamf.dev/p/llm-attention-visualizer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613068\">https://news.ycombinator.com/item?id=49613068</a></p>\n<p>Points: 29</p>\n<p># Comments: 4</p>",
+            "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+            "published": "Tue, 08 Sep 2026 16:59:41 +0000",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+            "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 18:40:49 GMT",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ports denied request to land 120 migrants in RNLI boats",
+            "description": "The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 15:26:05 GMT",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump shares misleading video of King and fainting worker",
+            "description": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 16:31:16 GMT",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar responds to Netanyahu’s ‘hostile state’ remark",
+            "description": "Qatar has responded to Benjamin Netanyahu’s claims that it’s a &#039;hostile state&#039;.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 18:18:17 +0000",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Women and children remain trapped in Syria’s Roj camp",
+            "description": "Women and children remain trapped in Syria’s Roj camp",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 18:00:24 +0000",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Renoir paintings worth $10.5 million missing after museum heist",
+            "description": "A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 17:47:08 +0000",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-08T22:20:06+03:30"
+        }
+    ]
+}
