@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 22:20:06
+**Last Update:** 2026-09-08 23:19:37
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. On the Navier–Stokes Millennium Prize Problem
+### 1. Muse: Meta's personal AI agent, features and capabilities
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/navier-stokes-solution/">https://openai.com/index/navier-stokes-solution/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613262">https://news.ycombinator.com/item?id=49613262</a></p>
-<p>Points: 445</p>
-<p># Comments: 305</p>
+<p>Article URL: <a href="https://ai.meta.com/muse/">https://ai.meta.com/muse/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615537">https://news.ycombinator.com/item?id=49615537</a></p>
+<p>Points: 37</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://openai.com/index/navier-stokes-solution/](https://openai.com/index/navier-stokes-solution/)
+🔗 **Read more:** [https://ai.meta.com/muse/](https://ai.meta.com/muse/)
 
 ---
 
-### 2. OUI-1: world's first model for Generative UI
+### 2. Function Arguments Are Not Function Colors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.openui.com/blog/oui-1">https://www.openui.com/blog/oui-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613182">https://news.ycombinator.com/item?id=49613182</a></p>
-<p>Points: 30</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://jerf.org/iri/post/2026/func_args_are_not_colors/">https://jerf.org/iri/post/2026/func_args_are_not_colors/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49615139">https://news.ycombinator.com/item?id=49615139</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.openui.com/blog/oui-1](https://www.openui.com/blog/oui-1)
+🔗 **Read more:** [https://jerf.org/iri/post/2026/func_args_are_not_colors/](https://jerf.org/iri/post/2026/func_args_are_not_colors/)
 
 ---
 
-### 3. Show HN: LLM Attention Visualization
+### 3. ChatGPT Images 2.5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ishamf.dev/p/llm-attention-visualizer/">https://ishamf.dev/p/llm-attention-visualizer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49613068">https://news.ycombinator.com/item?id=49613068</a></p>
-<p>Points: 29</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://openai.com/index/introducing-chatgpt-images-2-5/">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49614720">https://news.ycombinator.com/item?id=49614720</a></p>
+<p>Points: 160</p>
+<p># Comments: 189</p>
 
-🔗 **Read more:** [https://ishamf.dev/p/llm-attention-visualizer/](https://ishamf.dev/p/llm-attention-visualizer/)
+🔗 **Read more:** [https://openai.com/index/introducing-chatgpt-images-2-5/](https://openai.com/index/introducing-chatgpt-images-2-5/)
 
 ---
 
@@ -97,42 +97,42 @@ The president shares a misleading video which appears to show Charles shrugging 
 
 ---
 
-### 7. Qatar responds to Netanyahu’s ‘hostile state’ remark
+### 7. Philippine defence chief calls out China over note handed to him mid-panel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar has responded to Benjamin Netanyahu’s claims that it’s a &#039;hostile state&#039;.
+Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss)
 
 ---
 
-### 8. Women and children remain trapped in Syria’s Roj camp
+### 8. Does the UK have a legal obligation to redress the harms of slavery?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Women and children remain trapped in Syria’s Roj camp
+Jamaica petitions the British monarch over questions about the legality of the transatlantic slave trade.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/8/does-the-uk-have-a-legal-obligation-to-redress-the-harms-of-slavery?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/8/does-the-uk-have-a-legal-obligation-to-redress-the-harms-of-slavery?traffic_source=rss)
 
 ---
 
-### 9. Renoir paintings worth $10.5 million missing after museum heist
+### 9. China and Qatar are strengthening bilateral ties: What that really means
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings
+Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss](https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss)
 
 ---
 

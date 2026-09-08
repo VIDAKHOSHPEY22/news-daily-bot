@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T23:19:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Muse: Meta's personal AI agent, features and capabilities",
+            "description": "<p>Article URL: <a href=\"https://ai.meta.com/muse/\">https://ai.meta.com/muse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49615537\">https://news.ycombinator.com/item?id=49615537</a></p>\n<p>Points: 37</p>\n<p># Comments: 14</p>",
+            "url": "https://ai.meta.com/muse/",
+            "published": "Tue, 08 Sep 2026 19:25:00 +0000",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Function Arguments Are Not Function Colors",
+            "description": "<p>Article URL: <a href=\"https://jerf.org/iri/post/2026/func_args_are_not_colors/\">https://jerf.org/iri/post/2026/func_args_are_not_colors/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49615139\">https://news.ycombinator.com/item?id=49615139</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+            "published": "Tue, 08 Sep 2026 19:04:26 +0000",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ChatGPT Images 2.5",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-images-2-5/\">https://openai.com/index/introducing-chatgpt-images-2-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49614720\">https://news.ycombinator.com/item?id=49614720</a></p>\n<p>Points: 160</p>\n<p># Comments: 189</p>",
+            "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+            "published": "Tue, 08 Sep 2026 18:37:51 +0000",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+            "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 19:11:39 GMT",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ports denied request to land 120 migrants in RNLI boats",
+            "description": "The King's Harbour Master and Southampton Port both declined to allow migrants ashore on Sunday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 15:26:05 GMT",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump shares misleading video of King and fainting worker",
+            "description": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 16:31:16 GMT",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Philippine defence chief calls out China over note handed to him mid-panel",
+            "description": "Philippine Defence Secretary accused China of coercion, bullying and aggression after being handed a note mid-panel.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-philippine-defence-min-denounces-china-clip?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 19:28:55 +0000",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Does the UK have a legal obligation to redress the harms of slavery?",
+            "description": "Jamaica petitions the British monarch over questions about the legality of the transatlantic slave trade.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/8/does-the-uk-have-a-legal-obligation-to-redress-the-harms-of-slavery?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 19:01:13 +0000",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China and Qatar are strengthening bilateral ties: What that really means",
+            "description": "Beijing says it will increase coordination with Doha to help de-escalate regional tensions amid the ongoing war on Iran.",
+            "url": "https://www.aljazeera.com/features/2026/9/8/china-and-qatar-are-strengthening-bilateral-ties-what-that-really-means?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 18:44:39 +0000",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-08T23:19:37+03:30"
+        }
+    ]
+}
