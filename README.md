@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 01:25:55
+**Last Update:** 2026-09-09 02:02:40
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mercury 2.5
+### 1. Large Language Models Develop Novel Social Biases Through Adaptive Exploration
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617581">https://news.ycombinator.com/item?id=49617581</a></p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+
+---
+
+### 2. How to Build a Printer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617255">https://news.ycombinator.com/item?id=49617255</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+
+---
+
+### 3. Mercury 2.5
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2-5">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616354">https://news.ycombinator.com/item?id=49616354</a></p>
-<p>Points: 68</p>
-<p># Comments: 8</p>
+<p>Points: 82</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.inceptionlabs.ai/blog/introducing-mercury-2-5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
-
----
-
-### 2. Animation in Bevy: The Big Picture
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://glocq.com/en/blog/20260827/">https://glocq.com/en/blog/20260827/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616272">https://news.ycombinator.com/item?id=49616272</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://glocq.com/en/blog/20260827/](https://glocq.com/en/blog/20260827/)
-
----
-
-### 3. Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/argonautlabsai/deltafin">https://github.com/argonautlabsai/deltafin</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616257">https://news.ycombinator.com/item?id=49616257</a></p>
-<p>Points: 139</p>
-<p># Comments: 52</p>
-
-🔗 **Read more:** [https://github.com/argonautlabsai/deltafin](https://github.com/argonautlabsai/deltafin)
 
 ---
 
@@ -97,7 +97,20 @@ Departures from a number of airports are affected by a technical problem affecti
 
 ---
 
-### 7. Haaland to the double as Manchester City beat Porto in Champions League
+### 7. Protesters, police clash in Albania over Trump-linked project
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Albanians have protested for over 100 days against a planned luxury hotel linked to Jared Kushner and Ivanka Trump.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss)
+
+---
+
+### 8. Haaland to the double as Manchester City beat Porto in Champions League
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win
 
 ---
 
-### 8. What the UK ban on goods from illegal Israeli settlements really means
+### 9. What the UK ban on goods from illegal Israeli settlements really means
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win
 Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss)
-
----
-
-### 9. US warns Ford over ties with Chinese firms amid tensions
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss)
 
 ---
 
