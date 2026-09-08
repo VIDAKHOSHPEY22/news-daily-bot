@@ -40,7 +40,17 @@
                 "NASA",
                 "Al Jazeera"
             ]
+        },
+        {
+            "time": "09-18",
+            "news_count": 12,
+            "sources": [
+                "BBC",
+                "Hacker News",
+                "Al Jazeera",
+                "NASA"
+            ]
         }
     ],
-    "total_news": 48
+    "total_news": 60
 }

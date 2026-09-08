@@ -1,65 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 04:01:35
+**Last Update:** 2026-09-08 09:18:41
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. TALA Is Open-Source
+### 1. My Feed, My Way
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://d2lang.com/blog/tala-is-open-source/">https://d2lang.com/blog/tala-is-open-source/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49604150">https://news.ycombinator.com/item?id=49604150</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.pm.gov.au/media/my-feed-my-way">https://www.pm.gov.au/media/my-feed-my-way</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605782">https://news.ycombinator.com/item?id=49605782</a></p>
+<p>Points: 16</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.pm.gov.au/media/my-feed-my-way](https://www.pm.gov.au/media/my-feed-my-way)
+
+---
+
+### 2. We have a year to fix security everywhere
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jyn.dev/a-year-to-fix-security/">https://jyn.dev/a-year-to-fix-security/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605691">https://news.ycombinator.com/item?id=49605691</a></p>
+<p>Points: 47</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://jyn.dev/a-year-to-fix-security/](https://jyn.dev/a-year-to-fix-security/)
+
+---
+
+### 3. The VMs Powering Mobile Agents (Instinct, Claude Code)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://rohanadwankar.github.io/posts/platforms.html">https://rohanadwankar.github.io/posts/platforms.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49605644">https://news.ycombinator.com/item?id=49605644</a></p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://d2lang.com/blog/tala-is-open-source/](https://d2lang.com/blog/tala-is-open-source/)
+🔗 **Read more:** [https://rohanadwankar.github.io/posts/platforms.html](https://rohanadwankar.github.io/posts/platforms.html)
 
 ---
 
-### 2. Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon
+### 4. UK government expected to announce restrictions on trade with West Bank settlements
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Stuxnet! Here reproduced by me. Only researchs educations purposes.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603546">https://news.ycombinator.com/item?id=49603546</a></p>
-<p>Points: 34</p>
-<p># Comments: 7</p>
+Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.
 
-🔗 **Read more:** [https://github.com/Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Working on Economics with Fable 5
+### 5. A&E did not get the basics right - now my son's life is ruined at 32
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/">https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603086">https://news.ycombinator.com/item?id=49603086</a></p>
-<p>Points: 45</p>
-<p># Comments: 22</p>
+Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.
 
-🔗 **Read more:** [https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt
+### 6. Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt
 
 **Source:** BBC
 
@@ -72,68 +97,42 @@ Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a si
 
 ---
 
-### 5. What we know about anti-migrant protests and organiser Danny Thomas
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. King makes clear Harry and Meghan remain non-working royals
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Houthis accuse Saudi Arabia of killing seven in Yemen prison attack
+### 7. Forest fires force evacuations near resorts in Antalya
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.
+Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss)
 
 ---
 
-### 8. Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region
+### 8. Mladic’s funeral: Were no lessons learned?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rightward shift in Latin America comes as Washington pledges to grow influence, take militaristic approach to cartels.
+Thirty years of international justice has taught political leaders little.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/8/burying-mladic-were-no-lessons-learned?traffic_source=rss)
 
 ---
 
-### 9. Hawaii braces for Hurricane Lowell
+### 9. Polls suggest tight presidential race as Brazil marks Independence Day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.
+Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss)
 
 ---
 
