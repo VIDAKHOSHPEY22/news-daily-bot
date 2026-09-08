@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T14:35:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why getting your hands dirty is good for you",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks\">https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608023\">https://news.ycombinator.com/item?id=49608023</a></p>\n<p>Points: 30</p>\n<p># Comments: 21</p>",
+            "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+            "published": "Tue, 08 Sep 2026 09:48:24 +0000",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Antiquated HTML Snippets and Artefacts",
+            "description": "<p>Article URL: <a href=\"https://vale.rocks/posts/html-relics\">https://vale.rocks/posts/html-relics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49607991\">https://news.ycombinator.com/item?id=49607991</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+            "url": "https://vale.rocks/posts/html-relics",
+            "published": "Tue, 08 Sep 2026 09:43:14 +0000",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+            "description": "<p>Article URL: <a href=\"https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten\">https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49607443\">https://news.ycombinator.com/item?id=49607443</a></p>\n<p>Points: 127</p>\n<p># Comments: 132</p>",
+            "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+            "published": "Tue, 08 Sep 2026 08:42:56 +0000",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
+            "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
+            "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 06:58:02 GMT",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+            "description": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.",
+            "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 09:43:53 GMT",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drought and hosepipe bans remain despite wettest week since early February",
+            "description": "Parts of England and Wales have seen more rain than any other week since early February but are still in drought.",
+            "url": "https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 09:31:31 GMT",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What to watch in the US’s New Hampshire and Rhode Island primary elections",
+            "description": "Some of the US midterm election&#039;s biggest themes will play out in these New England states&#039; most notable races.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 10:41:21 +0000",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three paintings worth $10m stolen from Renoir Museum in southern France",
+            "description": "The two thieves had attempted to steal a fourth painting, but abandoned it as they ran from the museum.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/three-paintings-worth-10m-stolen-from-renoir-museum-in-southern-france?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 10:35:40 +0000",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How South Korea finds itself trapped in the US-Iran war",
+            "description": "Washington is pressuring a reluctant Seoul to support its naval blockade of Iran; Tehran is threatening consequences.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 10:00:52 +0000",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-08T14:35:40+03:30"
+        }
+    ]
+}
