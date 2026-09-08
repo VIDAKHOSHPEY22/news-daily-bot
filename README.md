@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 15:00:12
+**Last Update:** 2026-09-08 18:44:00
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why getting your hands dirty is good for you
+### 1. Google DeepMind Releases AlphaGenome Atlas
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks">https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49608023">https://news.ycombinator.com/item?id=49608023</a></p>
-<p>Points: 45</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611251">https://news.ycombinator.com/item?id=49611251</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
 
 ---
 
-### 2. Antiquated HTML Snippets and Artefacts
+### 2. ZX Spectrum: Experimenting with 1-Bit Sound
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vale.rocks/posts/html-relics">https://vale.rocks/posts/html-relics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49607991">https://news.ycombinator.com/item?id=49607991</a></p>
-<p>Points: 39</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/">https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611230">https://news.ycombinator.com/item?id=49611230</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://vale.rocks/posts/html-relics](https://vale.rocks/posts/html-relics)
+🔗 **Read more:** [https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/](https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/)
 
 ---
 
-### 3. Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare
+### 3. How Climate Resilient Are the Largest Cities?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten">https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49607443">https://news.ycombinator.com/item?id=49607443</a></p>
-<p>Points: 153</p>
-<p># Comments: 137</p>
+<p>Article URL: <a href="https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/">https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49611132">https://news.ycombinator.com/item?id=49611132</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+🔗 **Read more:** [https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/](https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/)
 
 ---
 
-### 4. Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals
+### 4. Heathrow and Gatwick among airports hit by air traffic control problems
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals
 
 **Source:** BBC
 
@@ -71,72 +84,59 @@ A spokesman says they were not told in advance about the letter sent on behalf o
 
 ---
 
-### 5. Nottingham attacks victim's death 'potentially preventable'
+### 6. Four Renoir paintings worth millions stolen in French museum heist
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived.
+It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Drought and hosepipe bans remain despite wettest week since early February
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Parts of England and Wales have seen more rain than any other week since early February but are still in drought.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cgl7zn37jw8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Saudi political analyst says ‘No prolonged war with the Houthis’
+### 7. UK imposes ban on goods from Israeli settlements in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Khaled Batarfi, a Saudi political analyst, says the war with the Houthis will not be ‘prolonged’.
+The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 8. ‘Limit overshoot, peak, decline’: A new global goal for climate change?
+### 8. UK bans goods from Israeli West Bank settlements: What that really means
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The world agreed to limit temperature rises in 2015; that aim is proving impossible. Is it time for a course correction?
+Foreign Minister Ed Miliband said the ban represents a &#039;comprehensive reset&#039; of UK&#039;s policy on Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss](https://www.aljazeera.com/features/2026/9/8/limit-overshoot-peak-decline-a-new-global-goal-for-climate-change?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss)
 
 ---
 
-### 9. What to watch in the US’s New Hampshire and Rhode Island primary elections
+### 9. FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some of the US midterm election&#039;s biggest themes will play out in these New England states&#039; most notable races.
+European Leagues body first filed complaint to the European Commission to protect men&#039;s players in October 2024.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss)
 
 ---
 
-### 10. Emergency Stabilization BAER McConnell, Humboldt, Nevada
+### 10. Wildfire S7, Broward, Florida
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ Some of the US midterm election&#039;s biggest themes will play out in these New
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100)
 
 ---
 
-### 11. Wildfire Ayers Pond, Prairie, Montana
+### 11. Wildfire Needles, Oglala Lakota, South Dakota
 
 **Source:** NASA
 
@@ -158,11 +158,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096)
 
 ---
 
-### 12. Wildfire Snow, Custer, Montana
+### 12. Incident Complex Rattlesnake Complex, Prairie, Montana
 
 **Source:** NASA
 
@@ -171,7 +171,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095)
 
 ---
 

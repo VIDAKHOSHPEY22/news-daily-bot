@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T18:44:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google DeepMind Releases AlphaGenome Atlas",
+            "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/\">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611251\">https://news.ycombinator.com/item?id=49611251</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+            "published": "Tue, 08 Sep 2026 14:55:45 +0000",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+            "description": "<p>Article URL: <a href=\"https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/\">https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611230\">https://news.ycombinator.com/item?id=49611230</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+            "published": "Tue, 08 Sep 2026 14:54:29 +0000",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Climate Resilient Are the Largest Cities?",
+            "description": "<p>Article URL: <a href=\"https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/\">https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49611132\">https://news.ycombinator.com/item?id=49611132</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/",
+            "published": "Tue, 08 Sep 2026 14:49:39 +0000",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+            "description": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 15:08:03 GMT",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+            "description": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this.",
+            "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 09:43:53 GMT",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four Renoir paintings worth millions stolen in French museum heist",
+            "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
+            "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 13:35:28 GMT",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK imposes ban on goods from Israeli settlements in occupied West Bank",
+            "description": "The UK has announced a trade ban on goods made in illegal Israeli settlements in the occupied West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/uk-imposes-ban-on-goods-from-israeli-settlements-in-occupied-west-bank?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 15:00:20 +0000",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK bans goods from Israeli West Bank settlements: What that really means",
+            "description": "Foreign Minister Ed Miliband said the ban represents a &#039;comprehensive reset&#039; of UK&#039;s policy on Israel.",
+            "url": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 14:52:00 +0000",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe",
+            "description": "European Leagues body first filed complaint to the European Commission to protect men&#039;s players in October 2024.",
+            "url": "https://www.aljazeera.com/sports/2026/9/8/fifa-accused-of-abusive-conduct-over-womens-football-calendar-in-europe?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 14:44:16 +0000",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-08T18:44:00+03:30"
+        }
+    ]
+}
