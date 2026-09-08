@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 03:42:05
+**Last Update:** 2026-09-08 04:01:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon
+### 1. TALA Is Open-Source
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://d2lang.com/blog/tala-is-open-source/">https://d2lang.com/blog/tala-is-open-source/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49604150">https://news.ycombinator.com/item?id=49604150</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://d2lang.com/blog/tala-is-open-source/](https://d2lang.com/blog/tala-is-open-source/)
+
+---
+
+### 2. Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p>Stuxnet! Here reproduced by me. Only researchs educations purposes.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603546">https://news.ycombinator.com/item?id=49603546</a></p>
-<p>Points: 21</p>
-<p># Comments: 4</p>
+<p>Points: 34</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://github.com/Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet)
 
 ---
 
-### 2. Working on Economics with Fable 5
+### 3. Working on Economics with Fable 5
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/">https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603086">https://news.ycombinator.com/item?id=49603086</a></p>
-<p>Points: 38</p>
-<p># Comments: 20</p>
+<p>Points: 45</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
-
----
-
-### 3. Macbeth and His Problems
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://porticoquarterly.com/essay/macbeth-and-his-problems/">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602716">https://news.ycombinator.com/item?id=49602716</a></p>
-<p>Points: 30</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://porticoquarterly.com/essay/macbeth-and-his-problems/](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
 
 ---
 
@@ -98,20 +98,7 @@ The letter has been sent to Prince Harry's team, the government, military and Lo
 
 ---
 
-### 7. Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An average of 10 ships transited Strait of Hormuz daily over past 10 days, the lowest level since May, Kpler data shows.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss)
-
----
-
-### 8. Houthis accuse Saudi Arabia of killing seven in Yemen prison attack
+### 7. Houthis accuse Saudi Arabia of killing seven in Yemen prison attack
 
 **Source:** Al Jazeera
 
@@ -124,7 +111,7 @@ Houthi-run media outlet released footage of destruction after alleged Saudi air 
 
 ---
 
-### 9. Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region
+### 8. Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region
 
 **Source:** Al Jazeera
 
@@ -134,6 +121,19 @@ Houthi-run media outlet released footage of destruction after alleged Saudi air 
 Rightward shift in Latin America comes as Washington pledges to grow influence, take militaristic approach to cartels.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss)
+
+---
+
+### 9. Hawaii braces for Hurricane Lowell
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-08T04:01:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "TALA Is Open-Source",
+            "description": "<p>Article URL: <a href=\"https://d2lang.com/blog/tala-is-open-source/\">https://d2lang.com/blog/tala-is-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604150\">https://news.ycombinator.com/item?id=49604150</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://d2lang.com/blog/tala-is-open-source/",
+            "published": "Mon, 07 Sep 2026 23:37:42 +0000",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+            "description": "<p>Stuxnet! Here reproduced by me. Only researchs educations purposes.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49603546\">https://news.ycombinator.com/item?id=49603546</a></p>\n<p>Points: 34</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/Sadpainy/Stuxnet",
+            "published": "Mon, 07 Sep 2026 22:12:38 +0000",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Working on Economics with Fable 5",
+            "description": "<p>Article URL: <a href=\"https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/\">https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49603086\">https://news.ycombinator.com/item?id=49603086</a></p>\n<p>Points: 45</p>\n<p># Comments: 22</p>",
+            "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+            "published": "Mon, 07 Sep 2026 21:18:15 +0000",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+            "description": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 19:04:09 GMT",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+            "description": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
+            "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 15:20:48 GMT",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King makes clear Harry and Meghan remain non-working royals",
+            "description": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+            "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 18:23:31 GMT",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison attack",
+            "description": "Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.",
+            "url": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 23:50:53 +0000",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
+            "description": "Rightward shift in Latin America comes as Washington pledges to grow influence, take militaristic approach to cartels.",
+            "url": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 22:41:27 +0000",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hawaii braces for Hurricane Lowell",
+            "description": "Threats of cyclones and deadly surf as the Category 3 storm path approaches Hawaiian islands on Monday night.",
+            "url": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
+            "published": "Mon, 07 Sep 2026 22:37:25 +0000",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Emergency Stabilization BAER McConnell, Humboldt, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23868",
+            "published": "2026-09-03T13:03:00Z",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Ayers Pond, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23869",
+            "published": "2026-09-03T01:45:00Z",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Snow, Custer, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_23870",
+            "published": "2026-09-02T22:16:00Z",
+            "fetched": "2026-09-08T04:01:35+03:30"
+        }
+    ]
+}
