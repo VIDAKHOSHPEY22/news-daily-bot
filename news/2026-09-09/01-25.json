@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T01:25:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mercury 2.5",
+            "description": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-2-5\">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616354\">https://news.ycombinator.com/item?id=49616354</a></p>\n<p>Points: 68</p>\n<p># Comments: 8</p>",
+            "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+            "published": "Tue, 08 Sep 2026 20:14:52 +0000",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Animation in Bevy: The Big Picture",
+            "description": "<p>Article URL: <a href=\"https://glocq.com/en/blog/20260827/\">https://glocq.com/en/blog/20260827/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616272\">https://news.ycombinator.com/item?id=49616272</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://glocq.com/en/blog/20260827/",
+            "published": "Tue, 08 Sep 2026 20:08:44 +0000",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+            "description": "<p>Article URL: <a href=\"https://github.com/argonautlabsai/deltafin\">https://github.com/argonautlabsai/deltafin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616257\">https://news.ycombinator.com/item?id=49616257</a></p>\n<p>Points: 139</p>\n<p># Comments: 52</p>",
+            "url": "https://github.com/argonautlabsai/deltafin",
+            "published": "Tue, 08 Sep 2026 20:07:55 +0000",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+            "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 19:11:39 GMT",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+            "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 21:46:31 GMT",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+            "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 21:46:21 GMT",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Haaland to the double as Manchester City beat Porto in Champions League",
+            "description": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.",
+            "url": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 21:46:58 +0000",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What the UK ban on goods from illegal Israeli settlements really means",
+            "description": "Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 21:35:36 +0000",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US warns Ford over ties with Chinese firms amid tensions",
+            "description": "US officials criticise Ford’s partnerships with Chinese firms CATL, Geely, and BYD over security risks.",
+            "url": "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss",
+            "published": "Tue, 08 Sep 2026 21:24:03 +0000",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T01:25:55+03:30"
+        }
+    ]
+}
