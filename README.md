@@ -1,32 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-08 01:27:13
+**Last Update:** 2026-09-08 03:42:05
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Education of a Doomer
+### 1. Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://borretti.me/article/the-education-of-a-doomer">https://borretti.me/article/the-education-of-a-doomer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603092">https://news.ycombinator.com/item?id=49603092</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Stuxnet! Here reproduced by me. Only researchs educations purposes.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603546">https://news.ycombinator.com/item?id=49603546</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://borretti.me/article/the-education-of-a-doomer](https://borretti.me/article/the-education-of-a-doomer)
+🔗 **Read more:** [https://github.com/Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet)
 
 ---
 
-### 2. Macbeth and His Problems
+### 2. Working on Economics with Fable 5
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/">https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49603086">https://news.ycombinator.com/item?id=49603086</a></p>
+<p>Points: 38</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/](https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/)
+
+---
+
+### 3. Macbeth and His Problems
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://porticoquarterly.com/essay/macbeth-and-his-problems/">https://porticoquarterly.com/essay/macbeth-and-his-problems/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602716">https://news.ycombinator.com/item?id=49602716</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 30</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://porticoquarterly.com/essay/macbeth-and-his-problems/](https://porticoquarterly.com/essay/macbeth-and-his-problems/)
-
----
-
-### 3. A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/">https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49602582">https://news.ycombinator.com/item?id=49602582</a></p>
-<p>Points: 53</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/](https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/)
 
 ---
 
@@ -97,42 +98,42 @@ The letter has been sent to Prince Harry's team, the government, military and Lo
 
 ---
 
-### 7. Oil prices surge as US-Iran strikes intensify in Strait of Hormuz
+### 7. Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.
+An average of 10 ships transited Strait of Hormuz daily over past 10 days, the lowest level since May, Kpler data shows.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss)
 
 ---
 
-### 8. Indian temple collapses into Ganges as riverbank erodes
+### 8. Houthis accuse Saudi Arabia of killing seven in Yemen prison attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A temple collapsed into the Ganges River in India’s West Bengal after severe erosion breached protective barriers
+Houthi-run media outlet released footage of destruction after alleged Saudi air strike on al-Hazm prison.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss)
 
 ---
 
-### 9. Israel’s removal of Gaza rubble risk to war crimes evidence: UN
+### 9. Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.
+Rightward shift in Latin America comes as Washington pledges to grow influence, take militaristic approach to cartels.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss](https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss)
 
 ---
 
