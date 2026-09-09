@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T22:13:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Watch Ultra 4",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/apple-watch-ultra-4/\">https://www.apple.com/apple-watch-ultra-4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49631121\">https://news.ycombinator.com/item?id=49631121</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.apple.com/apple-watch-ultra-4/",
+            "published": "Wed, 09 Sep 2026 18:21:40 +0000",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AirPods 5",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/airpods-5/\">https://www.apple.com/airpods-5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49631047\">https://news.ycombinator.com/item?id=49631047</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.apple.com/airpods-5/",
+            "published": "Wed, 09 Sep 2026 18:19:32 +0000",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Unveils iPhone Duo",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/\">https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49630964\">https://news.ycombinator.com/item?id=49630964</a></p>\n<p>Points: 69</p>\n<p># Comments: 23</p>",
+            "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+            "published": "Wed, 09 Sep 2026 18:17:06 +0000",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police launch criminal investigation into Reform UK donations",
+            "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+            "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 17:21:14 GMT",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Air traffic failure was avoidable, says transport secretary",
+            "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 18:21:16 GMT",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "National security can't come at expense of social security, Burnham says",
+            "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 14:53:26 GMT",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Back to work, not school: Yemen’s crisis forces children to drop out",
+            "description": "Struggling families in Yemen are forced to choose between education and survival amid mounting economic challenges.",
+            "url": "https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 17:57:37 +0000",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil",
+            "description": "The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.",
+            "url": "https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 17:47:11 +0000",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudanese refugee returning home ’to make buildings for our country’",
+            "description": "The UN says Uganda hosts more than 96,000 Sudanese refugees, but a programme intends to fly at least 1,300 people home.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 17:46:44 +0000",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T22:13:45+03:30"
+        }
+    ]
+}

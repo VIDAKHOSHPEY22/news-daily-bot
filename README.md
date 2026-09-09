@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 20:37:01
+**Last Update:** 2026-09-09 22:13:45
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Defining AI Psychosis. Part 2: "Prolific AI Psychosis"
+### 1. Apple Watch Ultra 4
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific">https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49628880">https://news.ycombinator.com/item?id=49628880</a></p>
-<p>Points: 22</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.apple.com/apple-watch-ultra-4/">https://www.apple.com/apple-watch-ultra-4/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49631121">https://news.ycombinator.com/item?id=49631121</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific](https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific)
+🔗 **Read more:** [https://www.apple.com/apple-watch-ultra-4/](https://www.apple.com/apple-watch-ultra-4/)
 
 ---
 
-### 2. Anthropic Is Building a Predictive Surveillance System to Monitor Activists
+### 2. AirPods 5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/">https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49628704">https://news.ycombinator.com/item?id=49628704</a></p>
-<p>Points: 153</p>
-<p># Comments: 52</p>
+<p>Article URL: <a href="https://www.apple.com/airpods-5/">https://www.apple.com/airpods-5/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49631047">https://news.ycombinator.com/item?id=49631047</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/](https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/)
+🔗 **Read more:** [https://www.apple.com/airpods-5/](https://www.apple.com/airpods-5/)
 
 ---
 
-### 3. Understanding the Recent DDoS Attack Against Read the Docs
+### 3. Apple Unveils iPhone Duo
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/">https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49628614">https://news.ycombinator.com/item?id=49628614</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630964">https://news.ycombinator.com/item?id=49630964</a></p>
+<p>Points: 69</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/)
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)
 
 ---
 
@@ -71,7 +71,20 @@ The investigation, which follows a broadcast by Channel 4 News, is being folded 
 
 ---
 
-### 5. National security can't come at expense of social security, Burnham says
+### 5. Air traffic failure was avoidable, says transport secretary
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. National security can't come at expense of social security, Burnham says
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The prime minister says he will fund defence and get the welfare bill down in "t
 
 ---
 
-### 6. Watch: Europe's royalty pay last respects to King Harald V in Norway
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. 78 people including newborn rescued in Mediterranean
+### 7. Back to work, not school: Yemen’s crisis forces children to drop out
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 78 people including a newborn baby were rescued from the Mediterranean Sea.
+Struggling families in Yemen are forced to choose between education and survival amid mounting economic challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss](https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss)
 
 ---
 
-### 8. LIVE: Napoli vs Arsenal – UEFA Champions League
+### 8. Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow live updates from our text commentary stream coverage as favourites Arsenal begin their Champions League season.
+The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss)
 
 ---
 
-### 9. Attackers kill police officer, kidnap teachers in Cameroon’s northwest
+### 9. Sudanese refugee returning home ’to make buildings for our country’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An armed group attacks a teacher training centre in the town of Wum, according to the Northwest Region&#039;s governor.
+The UN says Uganda hosts more than 96,000 Sudanese refugees, but a programme intends to fly at least 1,300 people home.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss)
 
 ---
 
