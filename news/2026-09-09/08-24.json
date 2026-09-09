@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T08:24:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+            "description": "<p>Article URL: <a href=\"https://gpu-lexer.vercel.app/\">https://gpu-lexer.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619464\">https://news.ycombinator.com/item?id=49619464</a></p>\n<p>Points: 37</p>\n<p># Comments: 14</p>",
+            "url": "https://gpu-lexer.vercel.app/",
+            "published": "Wed, 09 Sep 2026 01:14:50 +0000",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I resigned from Anthropic today",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/hilbertspaess/status/2097476196791709843#m\">https://twitter.com/hilbertspaess/status/2097476196791709843#m</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619227\">https://news.ycombinator.com/item?id=49619227</a></p>\n<p>Points: 195</p>\n<p># Comments: 251</p>",
+            "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+            "published": "Wed, 09 Sep 2026 00:40:40 +0000",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Topological Picture Book, Rendered",
+            "description": "<p>Article URL: <a href=\"https://e-infinity.space/picture-book/\">https://e-infinity.space/picture-book/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49618050\">https://news.ycombinator.com/item?id=49618050</a></p>\n<p>Points: 70</p>\n<p># Comments: 8</p>",
+            "url": "https://e-infinity.space/picture-book/",
+            "published": "Tue, 08 Sep 2026 22:28:14 +0000",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+            "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 01:45:15 GMT",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+            "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 21:46:31 GMT",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+            "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 02:59:38 GMT",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The case for the US going back to the firing squad",
+            "description": "John Malcolm of the Meese Institute tells Al Jazeera that the US should ‘go back to a firing squad’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_the-case-for-the-us-going-back-to-the-firing-squad-090926?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 04:29:12 +0000",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cluster munitions kill, wound over 1,000 globally in 2025",
+            "description": "The 1,063 global casualties in 2025 one of the highest annual tolls on record, a report has found.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 04:11:51 +0000",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
+            "description": "The United States remains Taiwan&#039;s main international backer and arms supplier despite lack of formal diplomatic ties.",
+            "url": "https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 04:04:45 +0000",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T08:24:24+03:30"
+        }
+    ]
+}
