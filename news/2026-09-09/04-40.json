@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T04:40:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Resigned from Anthropic Today",
+            "description": "<p>Article URL: <a href=\"https://xcancel.com/hilbertspaess/status/2097476196791709843#m\">https://xcancel.com/hilbertspaess/status/2097476196791709843#m</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49619227\">https://news.ycombinator.com/item?id=49619227</a></p>\n<p>Points: 22</p>\n<p># Comments: 9</p>",
+            "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843#m",
+            "published": "Wed, 09 Sep 2026 00:40:40 +0000",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Topological Picture Book, Rendered",
+            "description": "<p>Article URL: <a href=\"https://e-infinity.space/picture-book/\">https://e-infinity.space/picture-book/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49618050\">https://news.ycombinator.com/item?id=49618050</a></p>\n<p>Points: 40</p>\n<p># Comments: 5</p>",
+            "url": "https://e-infinity.space/picture-book/",
+            "published": "Tue, 08 Sep 2026 22:28:14 +0000",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Large language models develop novel social biases through adaptive exploration",
+            "description": "<p>Article URL: <a href=\"https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617581\">https://news.ycombinator.com/item?id=49617581</a></p>\n<p>Points: 83</p>\n<p># Comments: 44</p>",
+            "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+            "published": "Tue, 08 Sep 2026 21:47:38 +0000",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+            "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 19:11:39 GMT",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+            "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 21:46:31 GMT",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+            "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 23:18:39 GMT",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sharpeville massacre, 66 years on: Families still wait for justice",
+            "description": "More than six decades after police opened fire on protesters, survivors and relatives are taking their fight to court.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/sharpeville-massacre-66-years-on-families-still-wait-for-justice?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 00:24:57 +0000",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anti-AfD protesters rally in Cologne after far-right election win",
+            "description": "Thousands of protesters rallied in Cologne against the AfD after the far-right group&#039;s election victory.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_anti-afd-protesters-rally-in-after-election-win-080926?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 00:16:06 +0000",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Marco Rubio says US seeks more economic and security ties in Latin America",
+            "description": "The US secretary of state visits Colombia, Ecuador and Peru in a bid to enhance cooperation with right-wing allies.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/marco-rubio-says-us-seeks-more-economic-and-security-ties-in-latin-america?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 00:14:22 +0000",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T04:40:16+03:30"
+        }
+    ]
+}
