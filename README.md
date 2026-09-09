@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 00:20:47
+**Last Update:** 2026-09-10 01:16:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. iPhone Duo
+### 1. Amazon refused to give pregnant workers bathroom breaks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/">https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49634095">https://news.ycombinator.com/item?id=49634095</a></p>
+<p>Points: 29</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/](https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/)
+
+---
+
+### 2. iPhone Duo
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator.com/item?id=49630931</a></p>
-<p>Points: 519</p>
-<p># Comments: 1146</p>
+<p>Points: 606</p>
+<p># Comments: 1292</p>
 
 🔗 **Read more:** [https://www.apple.com/iphone-duo/](https://www.apple.com/iphone-duo/)
 
 ---
 
-### 2. Show HN: Self-hosted company OS, Claude Code and Codex agents in departments
+### 3. Show HN: Self-hosted company OS, Claude Code and Codex agents in departments
 
 **Source:** Hacker News
 
@@ -38,26 +54,10 @@ This is a company OS that I built and use to run my business and anyone can inst
 Website: <a href="https://otodock.io" rel="nofollow">https://otodock.io</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630606">https://news.ycombinator.com/item?id=49630606</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Points: 25</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://github.com/OtoDock/oto-dock](https://github.com/OtoDock/oto-dock)
-
----
-
-### 3. Apple Watch Ultra 4
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/">https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630583">https://news.ycombinator.com/item?id=49630583</a></p>
-<p>Points: 59</p>
-<p># Comments: 91</p>
-
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
 
 ---
 
@@ -87,55 +87,55 @@ Heidi Alexander orders an investigation into the glitch that caused more than 2,
 
 ---
 
-### 6. National security can't come at expense of social security, Burnham says
+### 6. Spanish intelligence warned of Ceuta mass crossing plans before surge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says he will fund defence and get the welfare bill down in "the Labour way".
+Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’
+### 7. Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.
+Arsenal dominate the play but need a screamer from Martin Odegaard to seal three points in Napoli to open league phase.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss)
 
 ---
 
-### 8. UK man charged with assisting Russian military spies in sabotage plot
+### 8. Manchester United vs Sabah: UEFA Champions League – preview, team news
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Joshua Cammidge, 31, has been charged after alleged contact with a member of the GRU Volunteer Corps.
+Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss)
 
 ---
 
-### 9. Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait
+### 9. Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In an interview with Al Jazeera, Yemen&#039;s ambassador warns Houthi attacks threaten global shipping.
+Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss)
 
 ---
 
