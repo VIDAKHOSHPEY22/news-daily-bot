@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 01:16:19
+**Last Update:** 2026-09-10 02:38:23
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Amazon refused to give pregnant workers bathroom breaks
+### 1. South Park creators rename show 'South America'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/">https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49634095">https://news.ycombinator.com/item?id=49634095</a></p>
-<p>Points: 29</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp9340rg7k8o">https://www.bbc.co.uk/news/articles/cp9340rg7k8o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49634966">https://news.ycombinator.com/item?id=49634966</a></p>
+<p>Points: 49</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/](https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp9340rg7k8o](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)
 
 ---
 
-### 2. iPhone Duo
+### 2. Matt Mullenweg put on 'leave of absence'
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/">https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49634650">https://news.ycombinator.com/item?id=49634650</a></p>
+<p>Points: 118</p>
+<p># Comments: 69</p>
+
+🔗 **Read more:** [https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/)
+
+---
+
+### 3. iPhone Duo
 
 **Source:** Hacker News
 
@@ -35,29 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator.com/item?id=49630931</a></p>
-<p>Points: 606</p>
-<p># Comments: 1292</p>
+<p>Points: 741</p>
+<p># Comments: 1470</p>
 
 🔗 **Read more:** [https://www.apple.com/iphone-duo/](https://www.apple.com/iphone-duo/)
-
----
-
-### 3. Show HN: Self-hosted company OS, Claude Code and Codex agents in departments
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hi HN, I am Dimitris. 
-This is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.<p>It is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthropic or OpenAi subscription or even with local models.<p>Every agent can run on Claude Code or Codex CLI running as a persistent process on your server in a kernel sandbox (bubblewrap) with network isolation always on (pasta), with its own workspace, memory, schedules and tools. The same agents can also be configured to run identical on any remote computer through one outbound WebSocket (no inbound ports, no VPN needed).<p>The agent already have lots of built in features, as an example they can answer and place phone calls through Twilio or your own Asterisk, they can edit videos and excel, word, ppt files and preview them directly inside the chat with collabora and many more.<p>Trying it is one install script and a docker compose, no signup. The license is Fair Source, all the code is public and self hosting is free up to 5 users. 1.6.0 went out today.<p>AI Disclaimer: large parts of OtoDock are written using OtoDock itself, running Claude Code.<p>I would love people to read the code, take a look in the sandbox model, and tell me what would stop you from running this on your own hardware.<p>GitHub: <a href="https://github.com/OtoDock/oto-dock" rel="nofollow">https://github.com/OtoDock/oto-dock</a>
-Website: <a href="https://otodock.io" rel="nofollow">https://otodock.io</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630606">https://news.ycombinator.com/item?id=49630606</a></p>
-<p>Points: 25</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://github.com/OtoDock/oto-dock](https://github.com/OtoDock/oto-dock)
 
 ---
 
@@ -100,42 +97,42 @@ Declassified documents show Spanish and Moroccan authorities were alerted to soc
 
 ---
 
-### 7. Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League
+### 7. Gauff beats Andreeva to reach US Open semifinals in comeback win
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arsenal dominate the play but need a screamer from Martin Odegaard to seal three points in Napoli to open league phase.
+Coco Gauff sets up US Open semifinal with Elena Rybakina after saving two match points against Mirra Andreeva.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/misfiring-arsenal-beat-napoli-with-odegaard-stunner-in-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/gauff-beats-andreeva-to-reach-us-open-semifinals-in-comeback-win?traffic_source=rss)
 
 ---
 
-### 8. Manchester United vs Sabah: UEFA Champions League – preview, team news
+### 8. ‘Everyone’s had their holidays ruined’: outrage after UK airport chaos
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Man Utd have taken four points from their first four Premier League games, but Michael Carrick says team ready to rise.
+The UK&#039;s independent aerospace regulator has been instructed to review an air traffic control system outage on Tuesday.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/carrick-confident-man-utd-can-go-far-in-magical-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/everyones-had-their-holidays-ruined-outrage-after-uk-airport-chaos?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/everyones-had-their-holidays-ruined-outrage-after-uk-airport-chaos?traffic_source=rss)
 
 ---
 
-### 9. Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener
+### 9. US court denies Tate brothers’ bid to be released from Miami jail
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Marcos Llorente gives Atleti an early lead but Liverpool strike back through Dominik Szoboszlai and Alexis Mac Allister.
+A judge rules the brothers are a &#039;quintessential flight risk&#039; due to their wealth and frequent international travel.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/us-court-denies-tate-brothers-bid-to-be-released-from-miami-jail?traffic_source=rss)
 
 ---
 
