@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T10:48:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Trying",
+            "description": "<p>Article URL: <a href=\"https://gwern.net/on-really-trying\">https://gwern.net/on-really-trying</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49622305\">https://news.ycombinator.com/item?id=49622305</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://gwern.net/on-really-trying",
+            "published": "Wed, 09 Sep 2026 06:58:44 +0000",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Copyright does more harm than good and should be abolished",
+            "description": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/117231186011306184\">https://grapheneos.social/@GrapheneOS/117231186011306184</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49622042\">https://news.ycombinator.com/item?id=49622042</a></p>\n<p>Points: 59</p>\n<p># Comments: 14</p>",
+            "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+            "published": "Wed, 09 Sep 2026 06:31:28 +0000",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"Tweet\" and the bird logo apparently enter the public domain",
+            "description": "<p>Article URL: <a href=\"https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm\">https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49621751\">https://news.ycombinator.com/item?id=49621751</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+            "published": "Wed, 09 Sep 2026 06:02:07 +0000",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+            "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 21:46:31 GMT",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
+            "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+            "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 02:59:38 GMT",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+            "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 04:59:08 GMT",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Nepal is demanding climate justice and compensation after deadly floods",
+            "description": "Nepal&#039;s politicians have said the country is bearing the brunt for climate change caused by other nations.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/why-nepal-is-demanding-climate-justice-and-compensation-after-deadly-floods?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 06:17:02 +0000",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Asian Games athletes forced to evacuate amid record rainfall in Japan",
+            "description": "Rainwater leaked into competition venues a day before some preopening ceremony competitions beginning on Thursday.",
+            "url": "https://www.aljazeera.com/sports/2026/9/9/asian-games-athletes-forced-to-evacuate-amid-record-rainfall-in-japan?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 06:14:33 +0000",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As SDF disband in Syria, Kurds ponder how to secure their rights",
+            "description": "As the Kurdish forces dissolve, experts express concern if their rights will be won through democratic means.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 05:57:02 +0000",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T10:48:54+03:30"
+        }
+    ]
+}

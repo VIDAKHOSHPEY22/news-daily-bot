@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 08:24:24
+**Last Update:** 2026-09-09 10:48:54
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. 27.5KB language-agnostic WebGPU syntax highlighter
+### 1. Trying
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gpu-lexer.vercel.app/">https://gpu-lexer.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619464">https://news.ycombinator.com/item?id=49619464</a></p>
-<p>Points: 37</p>
+<p>Article URL: <a href="https://gwern.net/on-really-trying">https://gwern.net/on-really-trying</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622305">https://news.ycombinator.com/item?id=49622305</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://gwern.net/on-really-trying](https://gwern.net/on-really-trying)
+
+---
+
+### 2. Copyright does more harm than good and should be abolished
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117231186011306184">https://grapheneos.social/@GrapheneOS/117231186011306184</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622042">https://news.ycombinator.com/item?id=49622042</a></p>
+<p>Points: 59</p>
 <p># Comments: 14</p>
 
-🔗 **Read more:** [https://gpu-lexer.vercel.app/](https://gpu-lexer.vercel.app/)
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117231186011306184](https://grapheneos.social/@GrapheneOS/117231186011306184)
 
 ---
 
-### 2. I resigned from Anthropic today
+### 3. "Tweet" and the bird logo apparently enter the public domain
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/hilbertspaess/status/2097476196791709843#m">https://twitter.com/hilbertspaess/status/2097476196791709843#m</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49619227">https://news.ycombinator.com/item?id=49619227</a></p>
-<p>Points: 195</p>
-<p># Comments: 251</p>
+<p>Article URL: <a href="https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm">https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49621751">https://news.ycombinator.com/item?id=49621751</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/hilbertspaess/status/2097476196791709843#m](https://twitter.com/hilbertspaess/status/2097476196791709843#m)
-
----
-
-### 3. A Topological Picture Book, Rendered
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://e-infinity.space/picture-book/">https://e-infinity.space/picture-book/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49618050">https://news.ycombinator.com/item?id=49618050</a></p>
-<p>Points: 70</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://e-infinity.space/picture-book/](https://e-infinity.space/picture-book/)
+🔗 **Read more:** [https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
 
 ---
 
-### 4. UK announces sanctions on West Bank settlements prompting furious Israeli response
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Britain's foreign secretary accuses settlers of carrying out the "ethnic cleansing" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Paul Adams: British-Israeli relations at lowest ebb in decades
+### 4. Paul Adams: British-Israeli relations at lowest ebb in decades
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Israel's response to London's trade ban with Israeli settlements in the occupied
 
 ---
 
-### 6. More flight delays expected after hundreds cancelled by air traffic control glitch
+### 5. More flights delayed after hundreds cancelled by air traffic control glitch
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Departures from a number of airports are affected by a technical problem affecti
 
 ---
 
-### 7. The case for the US going back to the firing squad
+### 6. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-John Malcolm of the Meese Institute tells Al Jazeera that the US should ‘go back to a firing squad’.
+Four victims describe being targeted by criminals and then not being taken seriously by the authorities.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_the-case-for-the-us-going-back-to-the-firing-squad-090926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/aje-onl-nf_the-case-for-the-us-going-back-to-the-firing-squad-090926?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Cluster munitions kill, wound over 1,000 globally in 2025
+### 7. Why Nepal is demanding climate justice and compensation after deadly floods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 1,063 global casualties in 2025 one of the highest annual tolls on record, a report has found.
+Nepal&#039;s politicians have said the country is bearing the brunt for climate change caused by other nations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/cluster-munitions-kill-wound-over-1000-globally-in-2025?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/why-nepal-is-demanding-climate-justice-and-compensation-after-deadly-floods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/why-nepal-is-demanding-climate-justice-and-compensation-after-deadly-floods?traffic_source=rss)
 
 ---
 
-### 9. Conflict over Taiwan would be disastrous, de facto US ambassador warns
+### 8. Asian Games athletes forced to evacuate amid record rainfall in Japan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The United States remains Taiwan&#039;s main international backer and arms supplier despite lack of formal diplomatic ties.
+Rainwater leaked into competition venues a day before some preopening ceremony competitions beginning on Thursday.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/9/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/asian-games-athletes-forced-to-evacuate-amid-record-rainfall-in-japan?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/asian-games-athletes-forced-to-evacuate-amid-record-rainfall-in-japan?traffic_source=rss)
+
+---
+
+### 9. As SDF disband in Syria, Kurds ponder how to secure their rights
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As the Kurdish forces dissolve, experts express concern if their rights will be won through democratic means.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss)
 
 ---
 
