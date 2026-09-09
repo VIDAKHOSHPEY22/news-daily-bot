@@ -1,60 +1,63 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 22:13:45
+**Last Update:** 2026-09-10 00:20:47
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple Watch Ultra 4
+### 1. iPhone Duo
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/apple-watch-ultra-4/">https://www.apple.com/apple-watch-ultra-4/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49631121">https://news.ycombinator.com/item?id=49631121</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.apple.com/iphone-duo/">https://www.apple.com/iphone-duo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630931">https://news.ycombinator.com/item?id=49630931</a></p>
+<p>Points: 519</p>
+<p># Comments: 1146</p>
 
-🔗 **Read more:** [https://www.apple.com/apple-watch-ultra-4/](https://www.apple.com/apple-watch-ultra-4/)
+🔗 **Read more:** [https://www.apple.com/iphone-duo/](https://www.apple.com/iphone-duo/)
 
 ---
 
-### 2. AirPods 5
+### 2. Show HN: Self-hosted company OS, Claude Code and Codex agents in departments
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/airpods-5/">https://www.apple.com/airpods-5/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49631047">https://news.ycombinator.com/item?id=49631047</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Hi HN, I am Dimitris. 
+This is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.<p>It is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthropic or OpenAi subscription or even with local models.<p>Every agent can run on Claude Code or Codex CLI running as a persistent process on your server in a kernel sandbox (bubblewrap) with network isolation always on (pasta), with its own workspace, memory, schedules and tools. The same agents can also be configured to run identical on any remote computer through one outbound WebSocket (no inbound ports, no VPN needed).<p>The agent already have lots of built in features, as an example they can answer and place phone calls through Twilio or your own Asterisk, they can edit videos and excel, word, ppt files and preview them directly inside the chat with collabora and many more.<p>Trying it is one install script and a docker compose, no signup. The license is Fair Source, all the code is public and self hosting is free up to 5 users. 1.6.0 went out today.<p>AI Disclaimer: large parts of OtoDock are written using OtoDock itself, running Claude Code.<p>I would love people to read the code, take a look in the sandbox model, and tell me what would stop you from running this on your own hardware.<p>GitHub: <a href="https://github.com/OtoDock/oto-dock" rel="nofollow">https://github.com/OtoDock/oto-dock</a>
+Website: <a href="https://otodock.io" rel="nofollow">https://otodock.io</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630606">https://news.ycombinator.com/item?id=49630606</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.apple.com/airpods-5/](https://www.apple.com/airpods-5/)
+🔗 **Read more:** [https://github.com/OtoDock/oto-dock](https://github.com/OtoDock/oto-dock)
 
 ---
 
-### 3. Apple Unveils iPhone Duo
+### 3. Apple Watch Ultra 4
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630964">https://news.ycombinator.com/item?id=49630964</a></p>
-<p>Points: 69</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/">https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49630583">https://news.ycombinator.com/item?id=49630583</a></p>
+<p>Points: 59</p>
+<p># Comments: 91</p>
 
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/](https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/)
 
 ---
 
@@ -97,42 +100,42 @@ The prime minister says he will fund defence and get the welfare bill down in "t
 
 ---
 
-### 7. Back to work, not school: Yemen’s crisis forces children to drop out
+### 7. IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Struggling families in Yemen are forced to choose between education and survival amid mounting economic challenges.
+The symbolic escalation has been initiated by the United States, Germany, France and the United Kingdom.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss](https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss)
 
 ---
 
-### 8. Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil
+### 8. UK man charged with assisting Russian military spies in sabotage plot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.
+Joshua Cammidge, 31, has been charged after alleged contact with a member of the GRU Volunteer Corps.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss)
 
 ---
 
-### 9. Sudanese refugee returning home ’to make buildings for our country’
+### 9. Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The UN says Uganda hosts more than 96,000 Sudanese refugees, but a programme intends to fly at least 1,300 people home.
+In an interview with Al Jazeera, Yemen&#039;s ambassador warns Houthi attacks threaten global shipping.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/yemen-envoy-warns-of-wider-war-as-houthis-threaten-bab-al-mandeb-strait?traffic_source=rss)
 
 ---
 
