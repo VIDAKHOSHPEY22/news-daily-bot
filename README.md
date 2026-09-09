@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 02:02:40
+**Last Update:** 2026-09-09 03:52:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Large Language Models Develop Novel Social Biases Through Adaptive Exploration
+### 1. A Topological Picture Book, Rendered
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://e-infinity.space/picture-book/">https://e-infinity.space/picture-book/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49618050">https://news.ycombinator.com/item?id=49618050</a></p>
+<p>Points: 28</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://e-infinity.space/picture-book/](https://e-infinity.space/picture-book/)
+
+---
+
+### 2. Large language models develop novel social biases through adaptive exploration
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617581">https://news.ycombinator.com/item?id=49617581</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Points: 67</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 
 ---
 
-### 2. How to Build a Printer
+### 3. How to build a printer
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49617255">https://news.ycombinator.com/item?id=49617255</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 89</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-
----
-
-### 3. Mercury 2.5
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2-5">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49616354">https://news.ycombinator.com/item?id=49616354</a></p>
-<p>Points: 82</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://www.inceptionlabs.ai/blog/introducing-mercury-2-5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
 
 ---
 
@@ -97,42 +97,42 @@ Departures from a number of airports are affected by a technical problem affecti
 
 ---
 
-### 7. Protesters, police clash in Albania over Trump-linked project
+### 7. Suspected smugglers on trial over deadliest migrant tragedy in France
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Albanians have protested for over 100 days against a planned luxury hotel linked to Jared Kushner and Ivanka Trump.
+Paris trial begins over deadly Channel tragedy, with 14 facing charges for manslaughter.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/suspected-smugglers-on-trial-over-deadliest-migrant-tragedy-in-france?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/suspected-smugglers-on-trial-over-deadliest-migrant-tragedy-in-france?traffic_source=rss)
 
 ---
 
-### 8. Haaland to the double as Manchester City beat Porto in Champions League
+### 8. Iran war live: US hits Iranian tankers, IRGC attacks US base in Jordan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.
+Iran&#039;s IRGC urges crews to leave tankers in Kuwait and Bahrain, warning it will target ships following US attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss)
 
 ---
 
-### 9. What the UK ban on goods from illegal Israeli settlements really means
+### 9. US increases pressure on Iran with sanctions targeting aviation sector
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.
+Trump administration has sought to isolate Tehran through a raft of measures meant to squeeze the country&#039;s economy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss](https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss)
 
 ---
 
