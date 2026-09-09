@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T20:37:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
+            "description": "<p>Article URL: <a href=\"https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific\">https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628880\">https://news.ycombinator.com/item?id=49628880</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
+            "url": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
+            "published": "Wed, 09 Sep 2026 16:13:11 +0000",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+            "description": "<p>Article URL: <a href=\"https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/\">https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628704\">https://news.ycombinator.com/item?id=49628704</a></p>\n<p>Points: 153</p>\n<p># Comments: 52</p>",
+            "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+            "published": "Wed, 09 Sep 2026 16:01:41 +0000",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Understanding the Recent DDoS Attack Against Read the Docs",
+            "description": "<p>Article URL: <a href=\"https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/\">https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49628614\">https://news.ycombinator.com/item?id=49628614</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+            "published": "Wed, 09 Sep 2026 15:55:53 +0000",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police launch criminal investigation into Reform UK donations",
+            "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+            "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 15:50:12 GMT",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "National security can't come at expense of social security, Burnham says",
+            "description": "The prime minister says he will fund defence and get the welfare bill down in \"the Labour way\".",
+            "url": "https://www.bbc.co.uk/news/articles/c5yw3223w1vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 14:53:26 GMT",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Europe's royalty pay last respects to King Harald V in Norway",
+            "description": "Tens of thousands of people lined the streets to pay their respects after 13 days of national mourning.",
+            "url": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 16:36:45 GMT",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "78 people including newborn rescued in Mediterranean",
+            "description": "At least 78 people including a newborn baby were rescued from the Mediterranean Sea.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/78-people-including-newborn-rescued-in-mediterranean?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 16:40:48 +0000",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Napoli vs Arsenal – UEFA Champions League",
+            "description": "Follow live updates from our text commentary stream coverage as favourites Arsenal begin their Champions League season.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-napoli-vs-arsenal-uefa-champions-league?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 16:04:09 +0000",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
+            "description": "An armed group attacks a teacher training centre in the town of Wum, according to the Northwest Region&#039;s governor.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 16:00:01 +0000",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T20:37:01+03:30"
+        }
+    ]
+}
