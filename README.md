@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-09 10:48:54
+**Last Update:** 2026-09-09 13:25:13
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Trying
+### 1. Gambling with our lives: AI researcher quits Anthropic with warning about safety
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/">https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49623306">https://news.ycombinator.com/item?id=49623306</a></p>
+<p>Points: 26</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/](https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/)
+
+---
+
+### 2. How GPT‑5.6 Sol helps run quantum computing experiments
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/codex-quantum-computing-experiments/">https://openai.com/index/codex-quantum-computing-experiments/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622561">https://news.ycombinator.com/item?id=49622561</a></p>
+<p>Points: 56</p>
+<p># Comments: 40</p>
+
+🔗 **Read more:** [https://openai.com/index/codex-quantum-computing-experiments/](https://openai.com/index/codex-quantum-computing-experiments/)
+
+---
+
+### 3. On Really Trying (2009)
 
 **Source:** Hacker News
 
@@ -19,72 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://gwern.net/on-really-trying">https://gwern.net/on-really-trying</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622305">https://news.ycombinator.com/item?id=49622305</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 46</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://gwern.net/on-really-trying](https://gwern.net/on-really-trying)
 
 ---
 
-### 2. Copyright does more harm than good and should be abolished
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117231186011306184">https://grapheneos.social/@GrapheneOS/117231186011306184</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49622042">https://news.ycombinator.com/item?id=49622042</a></p>
-<p>Points: 59</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117231186011306184](https://grapheneos.social/@GrapheneOS/117231186011306184)
-
----
-
-### 3. "Tweet" and the bird logo apparently enter the public domain
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm">https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49621751">https://news.ycombinator.com/item?id=49621751</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm](https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm)
-
----
-
-### 4. Paul Adams: British-Israeli relations at lowest ebb in decades
+### 4. Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.
+It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. More flights delayed after hundreds cancelled by air traffic control glitch
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
+### 5. Drug gangs exploited and raped us as teens, then police failed us, women tell BBC
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Four victims describe being targeted by criminals and then not being taken serio
 
 ---
 
-### 7. Why Nepal is demanding climate justice and compensation after deadly floods
+### 6. Oil hits $100 a barrel for first time since July after US and Houthi strikes
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nepal&#039;s politicians have said the country is bearing the brunt for climate change caused by other nations.
+Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/why-nepal-is-demanding-climate-justice-and-compensation-after-deadly-floods?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/why-nepal-is-demanding-climate-justice-and-compensation-after-deadly-floods?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Asian Games athletes forced to evacuate amid record rainfall in Japan
+### 7. Flash floods surge through Morocco’s Atlas Mountains
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rainwater leaked into competition venues a day before some preopening ceremony competitions beginning on Thursday.
+Video shows floodwaters sweeping through Morocco’s Atlas Mountains after heavy rain in Khenifra.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/9/asian-games-athletes-forced-to-evacuate-amid-record-rainfall-in-japan?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/9/asian-games-athletes-forced-to-evacuate-amid-record-rainfall-in-japan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss)
 
 ---
 
-### 9. As SDF disband in Syria, Kurds ponder how to secure their rights
+### 8. In maps and charts: Russian and Ukrainian attacks on civilian targets
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As the Kurdish forces dissolve, experts express concern if their rights will be won through democratic means.
+Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/as-sdf-disband-in-syria-kurds-ponder-how-to-secure-their-rights?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss)
+
+---
+
+### 9. Video: Protesters shut down UNHCR headquarters in Tripoli, Libya
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The United Nations refugee agency headquarters in Tripoli, Libya, has been sealed shut by protesters.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss)
 
 ---
 
