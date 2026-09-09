@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-09T16:24:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor\">https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49625110\">https://news.ycombinator.com/item?id=49625110</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
+            "published": "Wed, 09 Sep 2026 12:01:38 +0000",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I advertise malicious software on Google Ads",
+            "description": "<p>Article URL: <a href=\"https://xlii.space/eng/malicious-software-on-google-ads/\">https://xlii.space/eng/malicious-software-on-google-ads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624856\">https://news.ycombinator.com/item?id=49624856</a></p>\n<p>Points: 40</p>\n<p># Comments: 15</p>",
+            "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+            "published": "Wed, 09 Sep 2026 11:43:21 +0000",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Desert Ant Labs: local, fast models that run on device",
+            "description": "<p>Article URL: <a href=\"https://desertant.com/blog/introducing-desert-ant-labs/\">https://desertant.com/blog/introducing-desert-ant-labs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624823\">https://news.ycombinator.com/item?id=49624823</a></p>\n<p>Points: 45</p>\n<p># Comments: 5</p>",
+            "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+            "published": "Wed, 09 Sep 2026 11:39:46 +0000",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+            "description": "The foreign secretary disagrees with the UK's chief rabbi who warns sanctions on Israeli settlements could put British Jews at greater risk.",
+            "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 12:40:12 GMT",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Actor Noel Clarke charged with sexual offences",
+            "description": "He has been charged with sexual offences including sexual assault, voyeurism and exposure.",
+            "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 12:51:24 GMT",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+            "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 04:59:08 GMT",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Video: Why are Republicans hosting a midterm convention?",
+            "description": "US Republicans are hosting their first ever midterm convention, but why?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-why-are-republicans-hosting-a-midterm-convention?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 12:41:18 +0000",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+            "description": "Benchmark Brent crude hits $100, shaking markets and fuelling concerns over rising inflation pressures worldwide.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 12:26:25 +0000",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How has Israel hit back against sanctions by the UK, others?",
+            "description": "Israel announced four countermeasures including the closure of the British consulate in East Jerusalem.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 12:17:50 +0000",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-09T16:24:17+03:30"
+        }
+    ]
+}
