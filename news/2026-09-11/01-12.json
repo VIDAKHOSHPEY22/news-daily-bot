@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T01:12:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The part of Navier-Stokes no one is talking about",
+            "description": "<p>Article URL: <a href=\"https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49650326\">https://news.ycombinator.com/item?id=49650326</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+            "published": "Thu, 10 Sep 2026 21:22:59 +0000",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+            "description": "<p>Article URL: <a href=\"https://merybenavente.me/blog/proof-of-capture\">https://merybenavente.me/blog/proof-of-capture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649222\">https://news.ycombinator.com/item?id=49649222</a></p>\n<p>Points: 18</p>\n<p># Comments: 10</p>",
+            "url": "https://merybenavente.me/blog/proof-of-capture",
+            "published": "Thu, 10 Sep 2026 19:44:15 +0000",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI Agents API",
+            "description": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/guides/agents-api/overview\">https://developers.openai.com/api/docs/guides/agents-api/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649213\">https://news.ycombinator.com/item?id=49649213</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
+            "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+            "published": "Thu, 10 Sep 2026 19:43:22 +0000",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Labour mayors in England vow to cap tourist tax at 5%",
+            "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 21:22:06 GMT",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+            "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 17:38:31 GMT",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+            "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 16:57:06 GMT",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
+            "description": "Israel’s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 21:19:16 +0000",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza hospitals ration power as fuel shortages deepen",
+            "description": "Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 21:17:09 +0000",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian strike hits shopping centre in central Ukraine",
+            "description": "A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 21:03:42 +0000",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T01:12:22+03:30"
+        }
+    ]
+}
