@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 22:04:21
+**Last Update:** 2026-09-11 01:02:34
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. JEP 544: Ahead-of-Time Code Compilation
+### 1. The part of Navier-Stokes no one is talking about
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openjdk.org/jeps/544">https://openjdk.org/jeps/544</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647404">https://news.ycombinator.com/item?id=49647404</a></p>
-<p>Points: 8</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650326">https://news.ycombinator.com/item?id=49650326</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://openjdk.org/jeps/544](https://openjdk.org/jeps/544)
+🔗 **Read more:** [https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
 
 ---
 
-### 2. Music Theory for the 21st-Century Classroom
+### 2. Proof of Capture: Apple Reference Image, but open source and using steganography
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647134">https://news.ycombinator.com/item?id=49647134</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://merybenavente.me/blog/proof-of-capture">https://merybenavente.me/blog/proof-of-capture</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649222">https://news.ycombinator.com/item?id=49649222</a></p>
+<p>Points: 18</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://musictheory.pugetsound.edu/mt21c/MusicTheory.html](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+🔗 **Read more:** [https://merybenavente.me/blog/proof-of-capture](https://merybenavente.me/blog/proof-of-capture)
 
 ---
 
-### 3. Anthropic Says It Blocked Possible Efforts to Build Biological Weapons
+### 3. OpenAI Agents API
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html">https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49646988">https://news.ycombinator.com/item?id=49646988</a></p>
-<p>Points: 36</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://developers.openai.com/api/docs/guides/agents-api/overview">https://developers.openai.com/api/docs/guides/agents-api/overview</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649213">https://news.ycombinator.com/item?id=49649213</a></p>
+<p>Points: 20</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)
+🔗 **Read more:** [https://developers.openai.com/api/docs/guides/agents-api/overview](https://developers.openai.com/api/docs/guides/agents-api/overview)
 
 ---
 
@@ -97,42 +97,42 @@ Two anti-migrant protests took place in Dover and Portsmouth last weekend.
 
 ---
 
-### 7. England close in on Pakistan whitewash in third Test as Robinson shines
+### 7. Israel says it destroyed key Hezbollah tunnels in southern Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demoralised tourists reach 52-2 before rain ends play early on day two, needing 268 runs to make England bat again.
+Israel’s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss)
 
 ---
 
-### 8. More than a dozen children killed in fire in eastern DR Congo schools
+### 8. Gaza hospitals ration power as fuel shortages deepen
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities say at least 14 school children have been killed after fire ravaged schools in the DR Congo.
+Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss)
 
 ---
 
-### 9. Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF
+### 9. Russian strike hits shopping centre in central Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 171 million students affected globally with girls disproportionately impacted.
+A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss)
 
 ---
 
