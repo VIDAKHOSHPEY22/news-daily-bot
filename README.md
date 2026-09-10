@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 03:50:20
+**Last Update:** 2026-09-10 07:52:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Blizzard Workers Win Historic Union Contract
+### 1. Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers">https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49635384">https://news.ycombinator.com/item?id=49635384</a></p>
-<p>Points: 36</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://hugovergnes.github.io/little-lm-3-8b/">https://hugovergnes.github.io/little-lm-3-8b/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637435">https://news.ycombinator.com/item?id=49637435</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers](https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers)
+🔗 **Read more:** [https://hugovergnes.github.io/little-lm-3-8b/](https://hugovergnes.github.io/little-lm-3-8b/)
 
 ---
 
-### 2. South Park creators rename show 'South America'
+### 2. A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/cp9340rg7k8o">https://www.bbc.co.uk/news/articles/cp9340rg7k8o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49634966">https://news.ycombinator.com/item?id=49634966</a></p>
-<p>Points: 106</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/">https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637395">https://news.ycombinator.com/item?id=49637395</a></p>
+<p>Points: 15</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp9340rg7k8o](https://www.bbc.co.uk/news/articles/cp9340rg7k8o)
+🔗 **Read more:** [https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
 
 ---
 
-### 3. Factoring RSA 260
+### 3. Show HN: What if the speed of light was 5 km/h?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cognition.com/blog/factoring-rsa-260">https://cognition.com/blog/factoring-rsa-260</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49633534">https://news.ycombinator.com/item?id=49633534</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version of it!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637385">https://news.ycombinator.com/item?id=49637385</a></p>
+<p>Points: 80</p>
+<p># Comments: 41</p>
 
-🔗 **Read more:** [https://cognition.com/blog/factoring-rsa-260](https://cognition.com/blog/factoring-rsa-260)
+🔗 **Read more:** [https://rivendell.dmitrybrant.com/relativity/](https://rivendell.dmitrybrant.com/relativity/)
 
 ---
 
-### 4. Police launch criminal investigation into Reform UK donations
+### 4. England's mayors to be given power to introduce tourist tax
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.
+The government is expected to outline how local leaders will be able to impose levies on overnight stays.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Air traffic failure was avoidable, says transport secretary
+### 5. Iran war will not end until after November US elections, says Trump
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.
+The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. AI is becoming harder to control – can humans stay in charge?
+### 6. Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-AI agents went on an uncontrolled hacking spree, leaving some in the industry worried
+BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US announces $45m in security funding, additional naval vessels for Ecuador
+### 7. Five dead, dozens missing in Philippines ferry fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Secretary of State Rubio has hailed Ecuador as the US&#039;s &#039;most involved and aggressive partner&#039; in the anti-drug fight.
+Coastguard says the ferry had 134 listed passengers and crew when it sank off the coast of Palawan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss)
 
 ---
 
-### 8. Trump says the US-Iran war will end right after midterms
+### 8. Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven months after launching the war on Iran, US President Donald Trump says it will end immediately after midterms.
+Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss)
 
 ---
 
-### 9. Iran war looms over Trump at Republican midterm convention in Dallas
+### 9. Why is Iran bombing Jordan’s Al-Azraq base?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump supporters say he can rally Republican voters despite concerns over the unpopular war and rising prices.
+Iran has increased its targeting of Jordan’s Muwaffaq Salti Air Base near Al-Azraq in recent weeks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss](https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss)
 
 ---
 
