@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 13:03:57
+**Last Update:** 2026-09-10 13:22:03
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Botbin.io – pastebin for AI agent artifacts
+### 1. What algorithm did Windows XP use to choose your initial user picture?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://botbin.io/?v=next">https://botbin.io/?v=next</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639496">https://news.ycombinator.com/item?id=49639496</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683">https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49640646">https://news.ycombinator.com/item?id=49640646</a></p>
+<p>Points: 10</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://botbin.io/?v=next](https://botbin.io/?v=next)
+🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://strategictree.bearblog.dev/i-think-i-hate-the-internet/">https://strategictree.bearblog.dev/i-think-i-hate-the-internet/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639104">https://news.ycombinator.com/item?id=49639104</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 22</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://strategictree.bearblog.dev/i-think-i-hate-the-internet/](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)
 
@@ -52,8 +52,8 @@
 <p><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" rel="nofollow">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639090">https://news.ycombinator.com/item?id=49639090</a></p>
-<p>Points: 278</p>
-<p># Comments: 108</p>
+<p>Points: 334</p>
+<p># Comments: 143</p>
 
 🔗 **Read more:** [https://twitter.com/deepseek_ai/status/2097930608790167907](https://twitter.com/deepseek_ai/status/2097930608790167907)
 
@@ -98,7 +98,20 @@ The government is expected to detail how local leaders will be able to impose le
 
 ---
 
-### 7. ‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels
+### 7. Houthis, Yemeni forces engaged in fierce battles: Why each front matters
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Forces loyal to the UN-recognised government and Houthis fight on multiple fronts in an effort to expand their control.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss)
+
+---
+
+### 8. ‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ The migrants were at work, building homes and hotels, when the floods hit, sweep
 
 ---
 
-### 8. Enrique hails Dembele, praises Toure after PSG’s win over Bratislava
+### 9. Enrique hails Dembele, praises Toure after PSG’s win over Bratislava
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ The migrants were at work, building homes and hotels, when the floods hit, sweep
 PSG coach hails &#039;marvellous&#039; Dembele after the French forward scored two goals in PSG&#039;s 6–1 win over Toure&#039;s side.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss)
-
----
-
-### 9. Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia&#039;s Arctic region.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss)
 
 ---
 
