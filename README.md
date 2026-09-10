@@ -1,65 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 13:22:03
+**Last Update:** 2026-09-10 17:45:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. What algorithm did Windows XP use to choose your initial user picture?
+### 1. Tell HN: OpenAI keeps re-enabling the 'allow training' setting
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683">https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49640646">https://news.ycombinator.com/item?id=49640646</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
-
----
-
-### 2. I think I hate the internet
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://strategictree.bearblog.dev/i-think-i-hate-the-internet/">https://strategictree.bearblog.dev/i-think-i-hate-the-internet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639104">https://news.ycombinator.com/item?id=49639104</a></p>
-<p>Points: 22</p>
+<p>I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it hasn't been re-enabled if you believe it to be off right now.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643556">https://news.ycombinator.com/item?id=49643556</a></p>
+<p>Points: 42</p>
 <p># Comments: 10</p>
 
-🔗 **Read more:** [https://strategictree.bearblog.dev/i-think-i-hate-the-internet/](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49643556](https://news.ycombinator.com/item?id=49643556)
 
 ---
 
-### 3. DeepSeek v4.1 Flash
+### 2. Another researcher says OpenAI trained on conversations, then claimed breakthrou
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" rel="nofollow">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639090">https://news.ycombinator.com/item?id=49639090</a></p>
-<p>Points: 334</p>
-<p># Comments: 143</p>
+<p>Article URL: <a href="https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d">https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643112">https://news.ycombinator.com/item?id=49643112</a></p>
+<p>Points: 104</p>
+<p># Comments: 42</p>
 
-🔗 **Read more:** [https://twitter.com/deepseek_ai/status/2097930608790167907](https://twitter.com/deepseek_ai/status/2097930608790167907)
+🔗 **Read more:** [https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
 
 ---
 
-### 4. Trump says every adult American would get $5,000 if Republicans win midterm elections
+### 3. Who People Talk to When They're Struggling
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling">https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643027">https://news.ycombinator.com/item?id=49643027</a></p>
+<p>Points: 20</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
+
+---
+
+### 4. England's mayors to get power to impose tourist tax
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Trump says every adult American would get $5,000 if Republicans win midterm elections
 
 **Source:** BBC
 
@@ -72,7 +85,7 @@ Speaking at a party convention, the US president gave no details on how the plan
 
 ---
 
-### 5. Watch: Is Trump's $5,000 election pledge legal?
+### 6. Watch: Is Trump's $5,000 election pledge legal?
 
 **Source:** BBC
 
@@ -85,59 +98,59 @@ The US president has said every American will get $5,000 (£3,700) if the Republ
 
 ---
 
-### 6. England's mayors to be given power to introduce tourist tax
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The government is expected to detail how local leaders will be able to impose levies on overnight stays.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Houthis, Yemeni forces engaged in fierce battles: Why each front matters
+### 7. French Football Federation withdraws support for FIFA President Infantino
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Forces loyal to the UN-recognised government and Houthis fight on multiple fronts in an effort to expand their control.
+FFF aligns position with of other European federations, such as Belgium, England, Italy, Scotland, and Sweden.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss)
 
 ---
 
-### 8. ‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels
+### 8. Multicultural Malmo: Swedish city loathed by far right braces for election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.
+Al Jazeera speaks to voters in Malmo, a city the far right often singles out for its diversity, ahead of Sweden&#039;s vote.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss](https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss](https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss)
 
 ---
 
-### 9. Enrique hails Dembele, praises Toure after PSG’s win over Bratislava
+### 9. Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-PSG coach hails &#039;marvellous&#039; Dembele after the French forward scored two goals in PSG&#039;s 6–1 win over Toure&#039;s side.
+The English cricket board confirms it is reviewing the team’s security for the remainder of the tour.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk?traffic_source=rss)
 
 ---
 
-### 10. Wildfire S7, Broward, Florida
+### 10. Tropical Storm Norbert
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184)
+
+---
+
+### 11. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -146,11 +159,11 @@ PSG coach hails &#039;marvellous&#039; Dembele after the French forward scored t
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189)
 
 ---
 
-### 11. Wildfire Needles, Oglala Lakota, South Dakota
+### 12. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
@@ -159,20 +172,7 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096)
-
----
-
-### 12. Incident Complex Rattlesnake Complex, Prairie, Montana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185)
 
 ---
 

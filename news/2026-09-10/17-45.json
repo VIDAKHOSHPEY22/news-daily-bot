@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T17:45:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+            "description": "<p>I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it hasn't been re-enabled if you believe it to be off right now.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49643556\">https://news.ycombinator.com/item?id=49643556</a></p>\n<p>Points: 42</p>\n<p># Comments: 10</p>",
+            "url": "https://news.ycombinator.com/item?id=49643556",
+            "published": "Thu, 10 Sep 2026 13:39:53 +0000",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+            "description": "<p>Article URL: <a href=\"https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d\">https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49643112\">https://news.ycombinator.com/item?id=49643112</a></p>\n<p>Points: 104</p>\n<p># Comments: 42</p>",
+            "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+            "published": "Thu, 10 Sep 2026 13:07:14 +0000",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Who People Talk to When They're Struggling",
+            "description": "<p>Article URL: <a href=\"https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling\">https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49643027\">https://news.ycombinator.com/item?id=49643027</a></p>\n<p>Points: 20</p>\n<p># Comments: 9</p>",
+            "url": "https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling",
+            "published": "Thu, 10 Sep 2026 13:00:08 +0000",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England's mayors to get power to impose tourist tax",
+            "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 14:13:27 GMT",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+            "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+            "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 13:23:37 GMT",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Is Trump's $5,000 election pledge legal?",
+            "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+            "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "French Football Federation withdraws support for FIFA President Infantino",
+            "description": "FFF aligns position with of other European federations, such as Belgium, England, Italy, Scotland, and Sweden.",
+            "url": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 13:38:51 +0000",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Multicultural Malmo: Swedish city loathed by far right braces for election",
+            "description": "Al Jazeera speaks to voters in Malmo, a city the far right often singles out for its diversity, ahead of Sweden&#039;s vote.",
+            "url": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 13:29:20 +0000",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
+            "description": "The English cricket board confirms it is reviewing the team’s security for the remainder of the tour.",
+            "url": "https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 13:25:06 +0000",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-10T17:45:26+03:30"
+        }
+    ]
+}
