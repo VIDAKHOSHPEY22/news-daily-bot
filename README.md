@@ -1,139 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 08:26:07
+**Last Update:** 2026-09-10 13:03:57
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes
+### 1. Show HN: Botbin.io – pastebin for AI agent artifacts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hugovergnes.github.io/little-lm-3-8b/">https://hugovergnes.github.io/little-lm-3-8b/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637435">https://news.ycombinator.com/item?id=49637435</a></p>
-<p>Points: 25</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://botbin.io/?v=next">https://botbin.io/?v=next</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639496">https://news.ycombinator.com/item?id=49639496</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://hugovergnes.github.io/little-lm-3-8b/](https://hugovergnes.github.io/little-lm-3-8b/)
+🔗 **Read more:** [https://botbin.io/?v=next](https://botbin.io/?v=next)
 
 ---
 
-### 2. A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming
+### 2. I think I hate the internet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/">https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637395">https://news.ycombinator.com/item?id=49637395</a></p>
-<p>Points: 20</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://strategictree.bearblog.dev/i-think-i-hate-the-internet/">https://strategictree.bearblog.dev/i-think-i-hate-the-internet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639104">https://news.ycombinator.com/item?id=49639104</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
+🔗 **Read more:** [https://strategictree.bearblog.dev/i-think-i-hate-the-internet/](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/)
 
 ---
 
-### 3. Show HN: What if the speed of light was 5 km/h?
+### 3. DeepSeek v4.1 Flash
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version of it!</p>
+<p><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" rel="nofollow">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49637385">https://news.ycombinator.com/item?id=49637385</a></p>
-<p>Points: 96</p>
-<p># Comments: 43</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49639090">https://news.ycombinator.com/item?id=49639090</a></p>
+<p>Points: 278</p>
+<p># Comments: 108</p>
 
-🔗 **Read more:** [https://rivendell.dmitrybrant.com/relativity/](https://rivendell.dmitrybrant.com/relativity/)
+🔗 **Read more:** [https://twitter.com/deepseek_ai/status/2097930608790167907](https://twitter.com/deepseek_ai/status/2097930608790167907)
 
 ---
 
-### 4. England's mayors to be given power to introduce tourist tax
+### 4. Trump says every adult American would get $5,000 if Republicans win midterm elections
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government is expected to outline how local leaders will be able to impose levies on overnight stays.
+Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Is Trump's $5,000 election pledge legal?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. England's mayors to be given power to introduce tourist tax
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The government is expected to detail how local leaders will be able to impose levies on overnight stays.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Iran war will not end until after November US elections, says Trump
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Four takeaways from Trump's speech at first Republican midterms convention
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-He covered many of the subjects he has returned to time and again - with a few surprises thrown in.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Trump: Every American gets $5,000 if Republicans win House & Senate
+### 7. ‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Donald Trump promised a $5,000 ‘dividend’ to every adult US citizen.
+The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/trump-every-american-gets-5000-if-republicans-win-house-senate?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/trump-every-american-gets-5000-if-republicans-win-house-senate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss](https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss)
 
 ---
 
-### 8. Five dead, dozens missing in Philippines ferry fire
+### 8. Enrique hails Dembele, praises Toure after PSG’s win over Bratislava
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Coastguard says the ferry had 134 listed passengers and crew when it sank off the coast of Palawan.
+PSG coach hails &#039;marvellous&#039; Dembele after the French forward scored two goals in PSG&#039;s 6–1 win over Toure&#039;s side.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss)
 
 ---
 
-### 9. Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack
+### 9. Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.
+Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia&#039;s Arctic region.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T13:03:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
+            "description": "<p>Article URL: <a href=\"https://botbin.io/?v=next\">https://botbin.io/?v=next</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49639496\">https://news.ycombinator.com/item?id=49639496</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://botbin.io/?v=next",
+            "published": "Thu, 10 Sep 2026 07:00:22 +0000",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I think I hate the internet",
+            "description": "<p>Article URL: <a href=\"https://strategictree.bearblog.dev/i-think-i-hate-the-internet/\">https://strategictree.bearblog.dev/i-think-i-hate-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49639104\">https://news.ycombinator.com/item?id=49639104</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+            "published": "Thu, 10 Sep 2026 06:12:23 +0000",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek v4.1 Flash",
+            "description": "<p><a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash\" rel=\"nofollow\">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49639090\">https://news.ycombinator.com/item?id=49639090</a></p>\n<p>Points: 278</p>\n<p># Comments: 108</p>",
+            "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+            "published": "Thu, 10 Sep 2026 06:11:05 +0000",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
+            "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+            "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 09:00:05 GMT",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Is Trump's $5,000 election pledge legal?",
+            "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+            "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England's mayors to be given power to introduce tourist tax",
+            "description": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 09:01:13 GMT",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels",
+            "description": "The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.",
+            "url": "https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 07:57:23 +0000",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Enrique hails Dembele, praises Toure after PSG’s win over Bratislava",
+            "description": "PSG coach hails &#039;marvellous&#039; Dembele after the French forward scored two goals in PSG&#039;s 6–1 win over Toure&#039;s side.",
+            "url": "https://www.aljazeera.com/sports/2026/9/10/enrique-hails-dembele-praises-toure-after-psgs-win-over-bratislava?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 07:52:33 +0000",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic",
+            "description": "Ukraine launches one of its deepest strikes to date, targeting natural gas plants in Russia&#039;s Arctic region.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/russian-attacks-kill-7-in-ukraine-as-kyiv-targets-gas-plants-deep-in-arctic?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 07:50:24 +0000",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-10T13:03:57+03:30"
+        }
+    ]
+}
