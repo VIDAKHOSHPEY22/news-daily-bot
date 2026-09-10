@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T08:26:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+            "description": "<p>Article URL: <a href=\"https://hugovergnes.github.io/little-lm-3-8b/\">https://hugovergnes.github.io/little-lm-3-8b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49637435\">https://news.ycombinator.com/item?id=49637435</a></p>\n<p>Points: 25</p>\n<p># Comments: 2</p>",
+            "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+            "published": "Thu, 10 Sep 2026 02:04:11 +0000",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+            "description": "<p>Article URL: <a href=\"https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/\">https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49637395\">https://news.ycombinator.com/item?id=49637395</a></p>\n<p>Points: 20</p>\n<p># Comments: 12</p>",
+            "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+            "published": "Thu, 10 Sep 2026 01:59:51 +0000",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: What if the speed of light was 5 km/h?",
+            "description": "<p>I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version of it!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49637385\">https://news.ycombinator.com/item?id=49637385</a></p>\n<p>Points: 96</p>\n<p># Comments: 43</p>",
+            "url": "https://rivendell.dmitrybrant.com/relativity/",
+            "published": "Thu, 10 Sep 2026 01:58:00 +0000",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "England's mayors to be given power to introduce tourist tax",
+            "description": "The government is expected to outline how local leaders will be able to impose levies on overnight stays.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 02:48:38 GMT",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran war will not end until after November US elections, says Trump",
+            "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 04:21:00 GMT",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Four takeaways from Trump's speech at first Republican midterms convention",
+            "description": "He covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
+            "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 04:07:44 GMT",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump: Every American gets $5,000 if Republicans win House & Senate",
+            "description": "Donald Trump promised a $5,000 ‘dividend’ to every adult US citizen.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/trump-every-american-gets-5000-if-republicans-win-house-senate?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 04:25:50 +0000",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Five dead, dozens missing in Philippines ferry fire",
+            "description": "Coastguard says the ferry had 134 listed passengers and crew when it sank off the coast of Palawan.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 03:43:18 +0000",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
+            "description": "Israeli prime minister denies claim that UAE president warned him of Hamas plans before the 2023 attacks.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 03:14:52 +0000",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-10T08:26:07+03:30"
+        }
+    ]
+}
