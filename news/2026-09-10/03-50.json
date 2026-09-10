@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T03:50:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Blizzard Workers Win Historic Union Contract",
+            "description": "<p>Article URL: <a href=\"https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers\">https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49635384\">https://news.ycombinator.com/item?id=49635384</a></p>\n<p>Points: 36</p>\n<p># Comments: 0</p>",
+            "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+            "published": "Wed, 09 Sep 2026 22:22:53 +0000",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "South Park creators rename show 'South America'",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cp9340rg7k8o\">https://www.bbc.co.uk/news/articles/cp9340rg7k8o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49634966\">https://news.ycombinator.com/item?id=49634966</a></p>\n<p>Points: 106</p>\n<p># Comments: 20</p>",
+            "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
+            "published": "Wed, 09 Sep 2026 21:53:43 +0000",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Factoring RSA 260",
+            "description": "<p>Article URL: <a href=\"https://cognition.com/blog/factoring-rsa-260\">https://cognition.com/blog/factoring-rsa-260</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49633534\">https://news.ycombinator.com/item?id=49633534</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://cognition.com/blog/factoring-rsa-260",
+            "published": "Wed, 09 Sep 2026 20:16:08 +0000",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police launch criminal investigation into Reform UK donations",
+            "description": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
+            "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 20:22:00 GMT",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Air traffic failure was avoidable, says transport secretary",
+            "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 18:21:16 GMT",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI is becoming harder to control – can humans stay in charge?",
+            "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+            "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 23:17:33 GMT",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US announces $45m in security funding, additional naval vessels for Ecuador",
+            "description": "Secretary of State Rubio has hailed Ecuador as the US&#039;s &#039;most involved and aggressive partner&#039; in the anti-drug fight.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/us-announces-45m-in-security-funding-additional-naval-vessels-for-ecuador?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 23:40:00 +0000",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says the US-Iran war will end right after midterms",
+            "description": "Seven months after launching the war on Iran, US President Donald Trump says it will end immediately after midterms.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 23:22:46 +0000",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+            "description": "Trump supporters say he can rally Republican voters despite concerns over the unpopular war and rising prices.",
+            "url": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
+            "published": "Wed, 09 Sep 2026 23:15:38 +0000",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire S7, Broward, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24100",
+            "published": "2026-09-04T15:16:00Z",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Needles, Oglala Lakota, South Dakota",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24096",
+            "published": "2026-09-04T13:53:00Z",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Incident Complex Rattlesnake Complex, Prairie, Montana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24095",
+            "published": "2026-09-04T12:59:00Z",
+            "fetched": "2026-09-10T03:50:20+03:30"
+        }
+    ]
+}
