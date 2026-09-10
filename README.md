@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 01:12:22
+**Last Update:** 2026-09-11 03:27:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The part of Navier-Stokes no one is talking about
+### 1. OpenAI’s Navier-Stokes release included a Lean 4 formal proof
 
 **Source:** Hacker News
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650326">https://news.ycombinator.com/item?id=49650326</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 121</p>
+<p># Comments: 115</p>
 
 🔗 **Read more:** [https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
 
 ---
 
-### 2. Proof of Capture: Apple Reference Image, but open source and using steganography
+### 2. Bodily Oddities
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://vester.si/bodily-oddities/">https://vester.si/bodily-oddities/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649789">https://news.ycombinator.com/item?id=49649789</a></p>
+<p>Points: 40</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://vester.si/bodily-oddities/](https://vester.si/bodily-oddities/)
+
+---
+
+### 3. Proof of Capture: Apple Reference Image, but open source and using steganography
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://merybenavente.me/blog/proof-of-capture">https://merybenavente.me/blog/proof-of-capture</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649222">https://news.ycombinator.com/item?id=49649222</a></p>
-<p>Points: 18</p>
-<p># Comments: 10</p>
+<p>Points: 54</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://merybenavente.me/blog/proof-of-capture](https://merybenavente.me/blog/proof-of-capture)
-
----
-
-### 3. OpenAI Agents API
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://developers.openai.com/api/docs/guides/agents-api/overview">https://developers.openai.com/api/docs/guides/agents-api/overview</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649213">https://news.ycombinator.com/item?id=49649213</a></p>
-<p>Points: 20</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://developers.openai.com/api/docs/guides/agents-api/overview](https://developers.openai.com/api/docs/guides/agents-api/overview)
 
 ---
 
@@ -71,7 +71,20 @@ Reform UK and the Conservatives have criticised plans for the new levy on visito
 
 ---
 
-### 5. Oil, gas and borrowing costs surge as fears over Middle East escalate
+### 5. Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The attacks came to define a generation of foreign, security and intelligence policy in the first decades of this century, the BBC’s security correspondent writes.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Oil, gas and borrowing costs surge as fears over Middle East escalate
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The price of oil jumps to $105 a barrel amid signs the Iran war will not be reso
 
 ---
 
-### 6. Use all powers necessary on anti-migrant protests, home secretary tells police
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Two anti-migrant protests took place in Dover and Portsmouth last weekend.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Israel says it destroyed key Hezbollah tunnels in southern Lebanon
+### 7. A year after Charlie Kirk’s death, are young voters turning on Trump?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s military says it has destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in Lebanon.
+Turning Point USA has expanded its campus presence, even as Trump’s support among young men has fallen.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss)
 
 ---
 
-### 8. Gaza hospitals ration power as fuel shortages deepen
+### 8. Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fuel and engine oil shortages are forcing Gaza’s hospitals to ration electricity
+Israeli attacks come a week after it said to have established operational control over the strategic ridge.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss)
 
 ---
 
-### 9. Russian strike hits shopping centre in central Ukraine
+### 9. Spain’s Parliament backs citizenship for Western Saharans born before 1977
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people.
+After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss)
 
 ---
 

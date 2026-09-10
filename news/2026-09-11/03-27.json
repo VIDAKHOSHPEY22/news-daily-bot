@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T03:27:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+            "description": "<p>Article URL: <a href=\"https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49650326\">https://news.ycombinator.com/item?id=49650326</a></p>\n<p>Points: 121</p>\n<p># Comments: 115</p>",
+            "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+            "published": "Thu, 10 Sep 2026 21:22:59 +0000",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bodily Oddities",
+            "description": "<p>Article URL: <a href=\"https://vester.si/bodily-oddities/\">https://vester.si/bodily-oddities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649789\">https://news.ycombinator.com/item?id=49649789</a></p>\n<p>Points: 40</p>\n<p># Comments: 28</p>",
+            "url": "https://vester.si/bodily-oddities/",
+            "published": "Thu, 10 Sep 2026 20:33:11 +0000",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+            "description": "<p>Article URL: <a href=\"https://merybenavente.me/blog/proof-of-capture\">https://merybenavente.me/blog/proof-of-capture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49649222\">https://news.ycombinator.com/item?id=49649222</a></p>\n<p>Points: 54</p>\n<p># Comments: 38</p>",
+            "url": "https://merybenavente.me/blog/proof-of-capture",
+            "published": "Thu, 10 Sep 2026 19:44:15 +0000",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Labour mayors in England vow to cap tourist tax at 5%",
+            "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 21:22:06 GMT",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+            "description": "The attacks came to define a generation of foreign, security and intelligence policy in the first decades of this century, the BBC’s security correspondent writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 23:21:00 GMT",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+            "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 17:38:31 GMT",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A year after Charlie Kirk’s death, are young voters turning on Trump?",
+            "description": "Turning Point USA has expanded its campus presence, even as Trump’s support among young men has fallen.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 23:08:55 +0000",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+            "description": "Israeli attacks come a week after it said to have established operational control over the strategic ridge.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 22:33:41 +0000",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
+            "description": "After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 21:47:14 +0000",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T03:27:43+03:30"
+        }
+    ]
+}
