@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-10T21:47:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "JEP 544: Ahead-of-Time Code Compilation",
+            "description": "<p>Article URL: <a href=\"https://openjdk.org/jeps/544\">https://openjdk.org/jeps/544</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647404\">https://news.ycombinator.com/item?id=49647404</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+            "url": "https://openjdk.org/jeps/544",
+            "published": "Thu, 10 Sep 2026 17:30:39 +0000",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Music Theory for the 21st-Century Classroom",
+            "description": "<p>Article URL: <a href=\"https://musictheory.pugetsound.edu/mt21c/MusicTheory.html\">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49647134\">https://news.ycombinator.com/item?id=49647134</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+            "published": "Thu, 10 Sep 2026 17:14:12 +0000",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html\">https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49646988\">https://news.ycombinator.com/item?id=49646988</a></p>\n<p>Points: 22</p>\n<p># Comments: 11</p>",
+            "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+            "published": "Thu, 10 Sep 2026 17:04:34 +0000",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Labour mayors in England vow to cap tourist tax at 5%",
+            "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
+            "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 16:59:38 GMT",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+            "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 17:38:31 GMT",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+            "description": "Two anti-migrant protests took place in Dover and Portsmouth last weekend.",
+            "url": "https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 16:57:06 GMT",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "England close in on Pakistan whitewash in third Test as Robinson shines",
+            "description": "Demoralised tourists reach 52-2 before rain ends play early on day two, needing 268 runs to make England bat again.",
+            "url": "https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 18:01:15 +0000",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than a dozen children killed in fire in eastern DR Congo schools",
+            "description": "Authorities say at least 14 school children have been killed after fire ravaged schools in the DR Congo.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 17:45:19 +0000",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF",
+            "description": "More than 171 million students affected globally with girls disproportionately impacted.",
+            "url": "https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss",
+            "published": "Thu, 10 Sep 2026 17:41:52 +0000",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-10T21:47:14+03:30"
+        }
+    ]
+}

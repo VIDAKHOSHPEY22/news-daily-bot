@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 18:02:10
+**Last Update:** 2026-09-10 21:47:14
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Amazon pilots ad services in ChatGPT
+### 1. JEP 544: Ahead-of-Time Code Compilation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/">https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49644047">https://news.ycombinator.com/item?id=49644047</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
-
----
-
-### 2. Show HN: I couldn't afford interview prep, so I built a free alternative
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://learningto.co/">https://learningto.co/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643992">https://news.ycombinator.com/item?id=49643992</a></p>
-<p>Points: 6</p>
+<p>Article URL: <a href="https://openjdk.org/jeps/544">https://openjdk.org/jeps/544</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647404">https://news.ycombinator.com/item?id=49647404</a></p>
+<p>Points: 7</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://learningto.co/](https://learningto.co/)
+🔗 **Read more:** [https://openjdk.org/jeps/544](https://openjdk.org/jeps/544)
 
 ---
 
-### 3. Shopify moves back to Native from React Native
+### 2. Music Theory for the 21st-Century Classroom
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://shopify.engineering/back-to-native">https://shopify.engineering/back-to-native</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643982">https://news.ycombinator.com/item?id=49643982</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html">https://musictheory.pugetsound.edu/mt21c/MusicTheory.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49647134">https://news.ycombinator.com/item?id=49647134</a></p>
+<p>Points: 6</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://shopify.engineering/back-to-native](https://shopify.engineering/back-to-native)
+🔗 **Read more:** [https://musictheory.pugetsound.edu/mt21c/MusicTheory.html](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 
 ---
 
-### 4. England's mayors to get power to impose tourist tax
+### 3. Anthropic Says It Blocked Possible Efforts to Build Biological Weapons
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html">https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49646988">https://news.ycombinator.com/item?id=49646988</a></p>
+<p>Points: 22</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)
+
+---
+
+### 4. Labour mayors in England vow to cap tourist tax at 5%
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.
+Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Trump says every adult American would get $5,000 if Republicans win midterm elections
+### 5. Oil, gas and borrowing costs surge as fears over Middle East escalate
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.
+The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Is Trump's $5,000 election pledge legal?
+### 6. Use all powers necessary on anti-migrant protests, home secretary tells police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.
+Two anti-migrant protests took place in Dover and Portsmouth last weekend.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqjke44pr7zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. French Football Federation withdraws support for FIFA President Infantino
+### 7. England close in on Pakistan whitewash in third Test as Robinson shines
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FFF aligns position with of other European federations, such as Belgium, England, Italy, Scotland, and Sweden.
+Demoralised tourists reach 52-2 before rain ends play early on day two, needing 268 runs to make England bat again.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss)
 
 ---
 
-### 8. Multicultural Malmo: Swedish city loathed by far right braces for election
+### 8. More than a dozen children killed in fire in eastern DR Congo schools
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera speaks to voters in Malmo, a city the far right often singles out for its diversity, ahead of Sweden&#039;s vote.
+Authorities say at least 14 school children have been killed after fire ravaged schools in the DR Congo.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss](https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss)
 
 ---
 
-### 9. Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK
+### 9. Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The English cricket board confirms it is reviewing the team’s security for the remainder of the tour.
+More than 171 million students affected globally with girls disproportionately impacted.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss)
 
 ---
 
