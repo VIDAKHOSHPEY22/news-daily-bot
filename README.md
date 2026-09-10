@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-10 17:45:26
+**Last Update:** 2026-09-10 18:02:10
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tell HN: OpenAI keeps re-enabling the 'allow training' setting
+### 1. Amazon pilots ad services in ChatGPT
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I've reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if it hasn't been re-enabled if you believe it to be off right now.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643556">https://news.ycombinator.com/item?id=49643556</a></p>
-<p>Points: 42</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/">https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49644047">https://news.ycombinator.com/item?id=49644047</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49643556](https://news.ycombinator.com/item?id=49643556)
+🔗 **Read more:** [https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
 
 ---
 
-### 2. Another researcher says OpenAI trained on conversations, then claimed breakthrou
+### 2. Show HN: I couldn't afford interview prep, so I built a free alternative
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d">https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643112">https://news.ycombinator.com/item?id=49643112</a></p>
-<p>Points: 104</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://learningto.co/">https://learningto.co/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643992">https://news.ycombinator.com/item?id=49643992</a></p>
+<p>Points: 6</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d](https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d)
+🔗 **Read more:** [https://learningto.co/](https://learningto.co/)
 
 ---
 
-### 3. Who People Talk to When They're Struggling
+### 3. Shopify moves back to Native from React Native
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling">https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643027">https://news.ycombinator.com/item?id=49643027</a></p>
-<p>Points: 20</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://shopify.engineering/back-to-native">https://shopify.engineering/back-to-native</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49643982">https://news.ycombinator.com/item?id=49643982</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling](https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling)
+🔗 **Read more:** [https://shopify.engineering/back-to-native](https://shopify.engineering/back-to-native)
 
 ---
 
