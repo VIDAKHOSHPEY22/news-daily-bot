@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 08:22:49
+**Last Update:** 2026-09-11 13:00:27
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Exercise intensity is associated with cardiometabolic health
+### 1. Cherenkov Radiation - traveling faster than light
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653328">https://news.ycombinator.com/item?id=49653328</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655286">https://news.ycombinator.com/item?id=49655286</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
+
+---
+
+### 2. Neijuan
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Neijuan">https://en.wikipedia.org/wiki/Neijuan</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655176">https://news.ycombinator.com/item?id=49655176</a></p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Neijuan](https://en.wikipedia.org/wiki/Neijuan)
 
 ---
 
-### 2. Mexican student creates an acoustic fire extinguisher to put out fire in seconds
+### 3. Astra for Coding: Why Are We Doing This Again?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652237">https://news.ycombinator.com/item?id=49652237</a></p>
-<p>Points: 100</p>
-<p># Comments: 43</p>
+<p>Article URL: <a href="https://lucumr.pocoo.org/2026/9/7/astra-why/">https://lucumr.pocoo.org/2026/9/7/astra-why/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49654229">https://news.ycombinator.com/item?id=49654229</a></p>
+<p>Points: 298</p>
+<p># Comments: 222</p>
 
-🔗 **Read more:** [https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
-
----
-
-### 3. Herdr Studio
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://powerfooI.github.io/herdr-studio/">https://powerfooI.github.io/herdr-studio/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652188">https://news.ycombinator.com/item?id=49652188</a></p>
-<p>Points: 16</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://powerfooI.github.io/herdr-studio/](https://powerfooI.github.io/herdr-studio/)
+🔗 **Read more:** [https://lucumr.pocoo.org/2026/9/7/astra-why/](https://lucumr.pocoo.org/2026/9/7/astra-why/)
 
 ---
 
-### 4. MPs to vote on legalising assisted dying in England and Wales
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
+### 4. Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Twenty-five years on, the attacks have come to define a generation of foreign, s
 
 ---
 
-### 6. Oil, gas and borrowing costs surge as fears over Middle East escalate
+### 5. AI boom helps drive surprise UK growth in July
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.
+The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump jokes Republicans can ‘cheat like hell’ in the midterms
+### 6. Anthropic blocks possible attempt to use AI to make biological weapons
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Japan, India, Ukraine: Why some countries are uneasy about new UN map
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump has jokingly asked Republican voters to ‘cheat like hell’ in the midterms, ‘like Democrats’.
+The countries are not opposed to a new map per se; they&#039;re testy about the colour shades.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss)
 
 ---
 
-### 8. Republican midterm convention wraps up in Dallas, Texas: Key takeaways
+### 8. World Athletics Ultimate Championship opens with record $10m prize pot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters gather on final night as US Republicans seek to rally base ahead of consequential legislative elections.
+The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss)
 
 ---
 
-### 9. Taiwan vice president makes rare Europe visit for conference on democracy
+### 9. Pro-Palestine student suspended by King’s College London returns to campus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European Parliament&#039;s Pina Picierno says Hsiao&#039;s visit &#039;was kept secret until her arrival to protect her participation&#039;.
+College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss)
 
 ---
 
