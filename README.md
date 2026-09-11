@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 03:46:15
+**Last Update:** 2026-09-11 07:57:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. NTSB issues investigative update on B-767 runway excursion accident in Miami
+### 1. LLM Visualizer – Build a Transformer from Scratch
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650418">https://news.ycombinator.com/item?id=49650418</a></p>
-<p>Points: 40</p>
-<p># Comments: 51</p>
+<p>Article URL: <a href="https://jayvisaria.github.io/LLM-Visualizer/#/dashboard">https://jayvisaria.github.io/LLM-Visualizer/#/dashboard</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652996">https://news.ycombinator.com/item?id=49652996</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+🔗 **Read more:** [https://jayvisaria.github.io/LLM-Visualizer/#/dashboard](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
 
 ---
 
-### 2. OpenAI’s Navier-Stokes release included a Lean 4 formal proof
+### 2. Mexican student creates an acoustic fire extinguisher to put out fire in seconds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650326">https://news.ycombinator.com/item?id=49650326</a></p>
-<p>Points: 124</p>
-<p># Comments: 121</p>
+<p>Article URL: <a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652237">https://news.ycombinator.com/item?id=49652237</a></p>
+<p>Points: 95</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
+🔗 **Read more:** [https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
 
 ---
 
-### 3. Bodily Oddities
+### 3. Herdr Studio
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vester.si/bodily-oddities/">https://vester.si/bodily-oddities/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649789">https://news.ycombinator.com/item?id=49649789</a></p>
-<p>Points: 44</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://powerfooI.github.io/herdr-studio/">https://powerfooI.github.io/herdr-studio/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652188">https://news.ycombinator.com/item?id=49652188</a></p>
+<p>Points: 13</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://vester.si/bodily-oddities/](https://vester.si/bodily-oddities/)
+🔗 **Read more:** [https://powerfooI.github.io/herdr-studio/](https://powerfooI.github.io/herdr-studio/)
 
 ---
 
-### 4. Labour mayors in England vow to cap tourist tax at 5%
+### 4. MPs to vote on legalising assisted dying in England and Wales
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.
+The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -78,7 +78,7 @@ Reform UK and the Conservatives have criticised plans for the new levy on visito
 **Category:** world
 
 **Description:**
-The attacks came to define a generation of foreign, security and intelligence policy in the first decades of this century, the BBC’s security correspondent writes.
+Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The price of oil jumps to $105 a barrel amid signs the Iran war will not be reso
 
 ---
 
-### 7. Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit
+### 7. Republican midterm convention wraps up in Dallas, Texas: Key takeaways
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-IRGC says it attacked a US unmanned vessel in Hormuz, while UKMTO says projectiles hit two ships off Oman.
+Protesters gather on final night as US Republicans seek to rally base ahead of consequential legislative elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss)
 
 ---
 
-### 8. UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’
+### 8. Taiwan vice president makes rare Europe visit for conference on democracy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Envoy for Yemen Hans Grundberg demands urgent steps to protect civilians and trade routes amid Houthi escalation.
+European Parliament&#039;s Pina Picierno says Hsiao&#039;s visit &#039;was kept secret until her arrival to protect her participation&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss)
 
 ---
 
-### 9. A year after Charlie Kirk’s death, are young voters turning on Trump?
+### 9. Young republicans break with Trump over Iran war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Turning Point USA has expanded its campus presence, even as Trump’s support among young men has fallen.
+A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss)
 
 ---
 

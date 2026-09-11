@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T07:57:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LLM Visualizer – Build a Transformer from Scratch",
+            "description": "<p>Article URL: <a href=\"https://jayvisaria.github.io/LLM-Visualizer/#/dashboard\">https://jayvisaria.github.io/LLM-Visualizer/#/dashboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652996\">https://news.ycombinator.com/item?id=49652996</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+            "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+            "published": "Fri, 11 Sep 2026 02:51:51 +0000",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+            "description": "<p>Article URL: <a href=\"https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/\">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652237\">https://news.ycombinator.com/item?id=49652237</a></p>\n<p>Points: 95</p>\n<p># Comments: 39</p>",
+            "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+            "published": "Fri, 11 Sep 2026 01:00:56 +0000",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Herdr Studio",
+            "description": "<p>Article URL: <a href=\"https://powerfooI.github.io/herdr-studio/\">https://powerfooI.github.io/herdr-studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652188\">https://news.ycombinator.com/item?id=49652188</a></p>\n<p>Points: 13</p>\n<p># Comments: 6</p>",
+            "url": "https://powerfooI.github.io/herdr-studio/",
+            "published": "Fri, 11 Sep 2026 00:54:36 +0000",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs to vote on legalising assisted dying in England and Wales",
+            "description": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 02:05:23 GMT",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+            "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 23:21:00 GMT",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+            "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 17:38:31 GMT",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Republican midterm convention wraps up in Dallas, Texas: Key takeaways",
+            "description": "Protesters gather on final night as US Republicans seek to rally base ahead of consequential legislative elections.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/republican-midterm-convention-wraps-up-in-dallas-texas-key-takeaways?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 03:33:08 +0000",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Taiwan vice president makes rare Europe visit for conference on democracy",
+            "description": "European Parliament&#039;s Pina Picierno says Hsiao&#039;s visit &#039;was kept secret until her arrival to protect her participation&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 03:15:44 +0000",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Young republicans break with Trump over Iran war",
+            "description": "A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 02:45:52 +0000",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T07:57:19+03:30"
+        }
+    ]
+}
