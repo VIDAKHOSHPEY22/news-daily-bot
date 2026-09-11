@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 03:27:43
+**Last Update:** 2026-09-11 03:46:15
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI’s Navier-Stokes release included a Lean 4 formal proof
+### 1. NTSB issues investigative update on B-767 runway excursion accident in Miami
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx">https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650418">https://news.ycombinator.com/item?id=49650418</a></p>
+<p>Points: 40</p>
+<p># Comments: 51</p>
+
+🔗 **Read more:** [https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx](https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx)
+
+---
+
+### 2. OpenAI’s Navier-Stokes release included a Lean 4 formal proof
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49650326">https://news.ycombinator.com/item?id=49650326</a></p>
-<p>Points: 121</p>
-<p># Comments: 115</p>
+<p>Points: 124</p>
+<p># Comments: 121</p>
 
 🔗 **Read more:** [https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/)
 
 ---
 
-### 2. Bodily Oddities
+### 3. Bodily Oddities
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://vester.si/bodily-oddities/">https://vester.si/bodily-oddities/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649789">https://news.ycombinator.com/item?id=49649789</a></p>
-<p>Points: 40</p>
-<p># Comments: 28</p>
+<p>Points: 44</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://vester.si/bodily-oddities/](https://vester.si/bodily-oddities/)
-
----
-
-### 3. Proof of Capture: Apple Reference Image, but open source and using steganography
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://merybenavente.me/blog/proof-of-capture">https://merybenavente.me/blog/proof-of-capture</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49649222">https://news.ycombinator.com/item?id=49649222</a></p>
-<p>Points: 54</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://merybenavente.me/blog/proof-of-capture](https://merybenavente.me/blog/proof-of-capture)
 
 ---
 
@@ -97,7 +97,33 @@ The price of oil jumps to $105 a barrel amid signs the Iran war will not be reso
 
 ---
 
-### 7. A year after Charlie Kirk’s death, are young voters turning on Trump?
+### 7. Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+IRGC says it attacked a US unmanned vessel in Hormuz, while UKMTO says projectiles hit two ships off Oman.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss)
+
+---
+
+### 8. UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Envoy for Yemen Hans Grundberg demands urgent steps to protect civilians and trade routes amid Houthi escalation.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss)
+
+---
+
+### 9. A year after Charlie Kirk’s death, are young voters turning on Trump?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The price of oil jumps to $105 a barrel amid signs the Iran war will not be reso
 Turning Point USA has expanded its campus presence, even as Trump’s support among young men has fallen.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss)
-
----
-
-### 8. Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli attacks come a week after it said to have established operational control over the strategic ridge.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss)
-
----
-
-### 9. Spain’s Parliament backs citizenship for Western Saharans born before 1977
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-After lower house approval, the bill to grant tens of thousands of Sahrawis citizenship now goes to the Spanish Senate.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss](https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss)
 
 ---
 
