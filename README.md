@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 01:09:22
+**Last Update:** 2026-09-12 01:17:34
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -97,7 +97,33 @@ In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the la
 
 ---
 
-### 7. Somber tributes as US marks the 25th anniversary of September 11 attacks
+### 7. Saudi Arabia says East-West pipeline hit by drones launched from Iraq
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss)
+
+---
+
+### 8. Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Top seeds Aryna Sabalenka and Elena Rybakina clash in a Grand Slam final for the second time this year.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss)
+
+---
+
+### 9. Somber tributes as US marks the 25th anniversary of September 11 attacks
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the la
 Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss)
-
----
-
-### 8. Zohran Mamdani commemorates 9/11 amid widespread criticism
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city&#039;s history.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss)
-
----
-
-### 9. US legislators push AI safety laws amid human extinction warnings
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Concerns over AI&#039;s dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss)
 
 ---
 

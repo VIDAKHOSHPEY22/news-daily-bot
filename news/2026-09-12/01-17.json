@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T01:17:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ElevenLabs Music v2.5",
+            "description": "<p>Article URL: <a href=\"https://elevenmusic.io/blog/introducing-music-v2-5\">https://elevenmusic.io/blog/introducing-music-v2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665210\">https://news.ycombinator.com/item?id=49665210</a></p>\n<p>Points: 36</p>\n<p># Comments: 31</p>",
+            "url": "https://elevenmusic.io/blog/introducing-music-v2-5",
+            "published": "Fri, 11 Sep 2026 20:53:16 +0000",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
+            "description": "<p>Article URL: <a href=\"https://txt.hellman.io/\">https://txt.hellman.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49664322\">https://news.ycombinator.com/item?id=49664322</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://txt.hellman.io/",
+            "published": "Fri, 11 Sep 2026 19:46:43 +0000",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GrapheneOS' rewritten Messages app is released",
+            "description": "<p>Article URL: <a href=\"https://github.com/GrapheneOS/Messaging/releases/tag/13\">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663373\">https://news.ycombinator.com/item?id=49663373</a></p>\n<p>Points: 114</p>\n<p># Comments: 64</p>",
+            "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+            "published": "Fri, 11 Sep 2026 18:50:36 +0000",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs vote against fresh attempt to legalise assisted dying",
+            "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+            "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 17:22:39 GMT",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
+            "description": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 16:49:47 GMT",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+            "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+            "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 20:12:01 GMT",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+            "description": "Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 21:30:47 +0000",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
+            "description": "Top seeds Aryna Sabalenka and Elena Rybakina clash in a Grand Slam final for the second time this year.",
+            "url": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 21:28:34 +0000",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
+            "description": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 21:23:51 +0000",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T01:17:34+03:30"
+        }
+    ]
+}
