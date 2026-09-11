@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T21:51:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Litelm: LiteLLM Without the Bloat",
+            "description": "<p>Article URL: <a href=\"https://github.com/kennethwolters/litelm\">https://github.com/kennethwolters/litelm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662767\">https://news.ycombinator.com/item?id=49662767</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/kennethwolters/litelm",
+            "published": "Fri, 11 Sep 2026 18:10:20 +0000",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Toast, a beautiful by default in terminal IDE",
+            "description": "<p>Article URL: <a href=\"https://github.com/paradise-runner/toast\">https://github.com/paradise-runner/toast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662496\">https://news.ycombinator.com/item?id=49662496</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/paradise-runner/toast",
+            "published": "Fri, 11 Sep 2026 17:54:53 +0000",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+            "description": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+            "url": "https://snap.berkeley.edu/",
+            "published": "Fri, 11 Sep 2026 17:36:11 +0000",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs vote against fresh attempt to legalise assisted dying",
+            "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+            "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 17:22:39 GMT",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
+            "description": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
+            "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 16:49:47 GMT",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+            "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+            "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 16:58:34 GMT",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
+            "description": "The International Organisation for Migration (IOM) warns that the figure is rising &#039;by the hour&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 18:14:29 +0000",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US holds memorials for the 9/11 attacks, 25 years later",
+            "description": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
+            "url": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 18:00:41 +0000",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US declares end of largest recorded cyclosporiasis outbreak",
+            "description": "The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 17:35:36 +0000",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T21:51:21+03:30"
+        }
+    ]
+}

@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 18:00:53
+**Last Update:** 2026-09-11 21:51:21
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic blocks possible attempt to use AI to make biological weapons
+### 1. Litelm: LiteLLM Without the Bloat
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/kennethwolters/litelm">https://github.com/kennethwolters/litelm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662767">https://news.ycombinator.com/item?id=49662767</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/kennethwolters/litelm](https://github.com/kennethwolters/litelm)
+
+---
+
+### 2. Show HN: Toast, a beautiful by default in terminal IDE
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/paradise-runner/toast">https://github.com/paradise-runner/toast</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662496">https://news.ycombinator.com/item?id=49662496</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/paradise-runner/toast](https://github.com/paradise-runner/toast)
+
+---
+
+### 3. Λ Snap – An inviting programming language for kids and adults for CS study
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://snap.berkeley.edu/">https://snap.berkeley.edu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662214">https://news.ycombinator.com/item?id=49662214</a></p>
+<p>Points: 21</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://snap.berkeley.edu/](https://snap.berkeley.edu/)
+
+---
+
+### 4. MPs vote against fresh attempt to legalise assisted dying
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
+The proposed law sought to introduce one of the biggest societal changes in recent years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. AI boom helps drive surprise UK growth in July
+### 5. An extraordinary result - why did MPs reject assisted dying bill this time?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.
+Although supporters say they will try again, for now the momentum has fallen away from a change in the law.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Princess Diana's 'revenge dress' goes up for auction
+### 6. Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.
+The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Hull City’s Sorba Thomas unharmed as car overturned in crash
+### 7. At least 46,000 displaced by escalating Yemen fighting: UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Premier League club confirms accident, says 27-year-old Welsh international &#039;unscathed&#039;.
+The International Organisation for Migration (IOM) warns that the figure is rising &#039;by the hour&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/hull-city-sorba-thomas-car-crash-accident-training-ground-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/hull-city-sorba-thomas-car-crash-accident-training-ground-premier-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss)
 
 ---
 
-### 5. ‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza
+### 8. US holds memorials for the 9/11 attacks, 25 years later
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.
+In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss)
 
 ---
 
-### 6. Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates
+### 9. US declares end of largest recorded cyclosporiasis outbreak
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.
+The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Norbert
+### 10. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire MEERS, Comanche, Oklahoma
+### 11. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Kurk, San Saba, Texas
+### 12. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
