@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 22:09:53
+**Last Update:** 2026-09-12 01:09:22
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Litelm: LiteLLM Without the Bloat
+### 1. ElevenLabs Music v2.5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/kennethwolters/litelm">https://github.com/kennethwolters/litelm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662767">https://news.ycombinator.com/item?id=49662767</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://elevenmusic.io/blog/introducing-music-v2-5">https://elevenmusic.io/blog/introducing-music-v2-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49665210">https://news.ycombinator.com/item?id=49665210</a></p>
+<p>Points: 36</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://github.com/kennethwolters/litelm](https://github.com/kennethwolters/litelm)
+🔗 **Read more:** [https://elevenmusic.io/blog/introducing-music-v2-5](https://elevenmusic.io/blog/introducing-music-v2-5)
 
 ---
 
-### 2. The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution
+### 2. Txt: A fast, keyboard-driven terminal text editor for engineers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://capitalbnews.org/data-centers-permit-rules-epa/">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662672">https://news.ycombinator.com/item?id=49662672</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://txt.hellman.io/">https://txt.hellman.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49664322">https://news.ycombinator.com/item?id=49664322</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://capitalbnews.org/data-centers-permit-rules-epa/](https://capitalbnews.org/data-centers-permit-rules-epa/)
+🔗 **Read more:** [https://txt.hellman.io/](https://txt.hellman.io/)
 
 ---
 
-### 3. Show HN: Toast, a beautiful by default in terminal IDE
+### 3. GrapheneOS' rewritten Messages app is released
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/paradise-runner/toast">https://github.com/paradise-runner/toast</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49662496">https://news.ycombinator.com/item?id=49662496</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://github.com/GrapheneOS/Messaging/releases/tag/13">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49663373">https://news.ycombinator.com/item?id=49663373</a></p>
+<p>Points: 114</p>
+<p># Comments: 64</p>
 
-🔗 **Read more:** [https://github.com/paradise-runner/toast](https://github.com/paradise-runner/toast)
+🔗 **Read more:** [https://github.com/GrapheneOS/Messaging/releases/tag/13](https://github.com/GrapheneOS/Messaging/releases/tag/13)
 
 ---
 
@@ -97,42 +97,42 @@ In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the la
 
 ---
 
-### 7. At least 46,000 displaced by escalating Yemen fighting: UN
+### 7. Somber tributes as US marks the 25th anniversary of September 11 attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The International Organisation for Migration (IOM) warns that the figure is rising &#039;by the hour&#039;.
+Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss)
 
 ---
 
-### 8. US holds memorials for the 9/11 attacks, 25 years later
+### 8. Zohran Mamdani commemorates 9/11 amid widespread criticism
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.
+NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city&#039;s history.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss)
 
 ---
 
-### 9. US declares end of largest recorded cyclosporiasis outbreak
+### 9. US legislators push AI safety laws amid human extinction warnings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The FDA says contaminated lettuce has been removed from the market after nearly 13,000 linked cases.
+Concerns over AI&#039;s dangers grow as US legislators introduce bills to ensure human oversight and prevent rogue systems.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss)
 
 ---
 
