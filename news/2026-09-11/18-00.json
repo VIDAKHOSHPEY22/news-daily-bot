@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-11T18:00:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+            "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+            "fetched": "2026-09-11T18:00:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI boom helps drive surprise UK growth in July",
+            "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 10:17:28 GMT",
+            "fetched": "2026-09-11T18:00:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Princess Diana's 'revenge dress' goes up for auction",
+            "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+            "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 12:04:46 GMT",
+            "fetched": "2026-09-11T18:00:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hull City’s Sorba Thomas unharmed as car overturned in crash",
+            "description": "Premier League club confirms accident, says 27-year-old Welsh international &#039;unscathed&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/9/11/hull-city-sorba-thomas-car-crash-accident-training-ground-premier-league?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 14:22:19 +0000",
+            "fetched": "2026-09-11T18:00:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
+            "description": "Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 14:09:52 +0000",
+            "fetched": "2026-09-11T18:00:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates",
+            "description": "Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 14:07:00 +0000",
+            "fetched": "2026-09-11T18:00:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T18:00:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T18:00:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T18:00:53+03:30"
+        }
+    ]
+}

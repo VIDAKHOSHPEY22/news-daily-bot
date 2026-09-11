@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 17:45:08
+**Last Update:** 2026-09-11 18:00:53
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Chamilo 3.0 – open-source LMS with native MCP server (PAuth2.1)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0">https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49658472">https://news.ycombinator.com/item?id=49658472</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0](https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0)
-
----
-
-### 2. Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/Field-Logic-Ltd/ClaudeStatsBar">https://github.com/Field-Logic-Ltd/ClaudeStatsBar</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49658328">https://news.ycombinator.com/item?id=49658328</a></p>
-<p>Points: 6</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://github.com/Field-Logic-Ltd/ClaudeStatsBar](https://github.com/Field-Logic-Ltd/ClaudeStatsBar)
-
----
-
-### 3. If coding is solved, what now?: Measuring the sloppiness of code
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://earendil.com/posts/measuring-code-sloppiness/">https://earendil.com/posts/measuring-code-sloppiness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49658311">https://news.ycombinator.com/item?id=49658311</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://earendil.com/posts/measuring-code-sloppiness/](https://earendil.com/posts/measuring-code-sloppiness/)
-
----
-
-### 4. Anthropic blocks possible attempt to use AI to make biological weapons
+### 1. Anthropic blocks possible attempt to use AI to make biological weapons
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The revelations in Anthropic's threat intelligence report come after a former to
 
 ---
 
-### 5. AI boom helps drive surprise UK growth in July
+### 2. AI boom helps drive surprise UK growth in July
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The economy expanded by 0.4%, official figures show, whereas analysts had predic
 
 ---
 
-### 6. Princess Diana's 'revenge dress' goes up for auction
+### 3. Princess Diana's 'revenge dress' goes up for auction
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000)
 
 ---
 
-### 7. The vanishing pharmacy of the Sundarbans
+### 4. Hull City’s Sorba Thomas unharmed as car overturned in crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As rising seas push salt into the world&#039;s largest mangrove, traditional medicinal plants are being lost.
+Premier League club confirms accident, says 27-year-old Welsh international &#039;unscathed&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/11/the-vanishing-pharmacy-of-the-sundarbans?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/11/the-vanishing-pharmacy-of-the-sundarbans?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/hull-city-sorba-thomas-car-crash-accident-training-ground-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/hull-city-sorba-thomas-car-crash-accident-training-ground-premier-league?traffic_source=rss)
 
 ---
 
-### 8. The dystopian legal architecture of the ‘war on terror’ must be dismantled
+### 5. ‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A quarter-century after 9/11, we are still living under the security order it unleashed.
+Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/11/the-dystopian-legal-architecture-of-the-war-on-terror-must-be-dismantled?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/11/the-dystopian-legal-architecture-of-the-war-on-terror-must-be-dismantled?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss)
 
 ---
 
-### 9. Arsenal manager Arteta ‘very surprised’ at Jesus blast over Barcelona move
+### 6. Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gabriel Jesus claims he was forced to train alone before Barcelona move, but Arsenal &#039;surprised&#039; by criticism.
+Pakistan faces growing pressure to honour its Saudi defence commitments while keeping diplomatic channels to Iran open.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/11/arsenal-manager-arteta-very-surprised-at-jesus-blast-over-barcelona-move?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/11/arsenal-manager-arteta-very-surprised-at-jesus-blast-over-barcelona-move?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Norbert
+### 7. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire MEERS, Comanche, Oklahoma
+### 8. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Kurk, San Saba, Texas
+### 9. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
