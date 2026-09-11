@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T17:45:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chamilo 3.0 – open-source LMS with native MCP server (PAuth2.1)",
+            "description": "<p>Article URL: <a href=\"https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0\">https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658472\">https://news.ycombinator.com/item?id=49658472</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/chamilo/chamilo-lms/releases/tag/v3.0.0",
+            "published": "Fri, 11 Sep 2026 13:53:33 +0000",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
+            "description": "<p>Article URL: <a href=\"https://github.com/Field-Logic-Ltd/ClaudeStatsBar\">https://github.com/Field-Logic-Ltd/ClaudeStatsBar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658328\">https://news.ycombinator.com/item?id=49658328</a></p>\n<p>Points: 6</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
+            "published": "Fri, 11 Sep 2026 13:43:53 +0000",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If coding is solved, what now?: Measuring the sloppiness of code",
+            "description": "<p>Article URL: <a href=\"https://earendil.com/posts/measuring-code-sloppiness/\">https://earendil.com/posts/measuring-code-sloppiness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658311\">https://news.ycombinator.com/item?id=49658311</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+            "published": "Fri, 11 Sep 2026 13:42:28 +0000",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+            "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI boom helps drive surprise UK growth in July",
+            "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 10:17:28 GMT",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Princess Diana's 'revenge dress' goes up for auction",
+            "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+            "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 12:04:46 GMT",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The vanishing pharmacy of the Sundarbans",
+            "description": "As rising seas push salt into the world&#039;s largest mangrove, traditional medicinal plants are being lost.",
+            "url": "https://www.aljazeera.com/features/longform/2026/9/11/the-vanishing-pharmacy-of-the-sundarbans?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 13:29:29 +0000",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The dystopian legal architecture of the ‘war on terror’ must be dismantled",
+            "description": "A quarter-century after 9/11, we are still living under the security order it unleashed.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/11/the-dystopian-legal-architecture-of-the-war-on-terror-must-be-dismantled?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 13:24:58 +0000",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arsenal manager Arteta ‘very surprised’ at Jesus blast over Barcelona move",
+            "description": "Gabriel Jesus claims he was forced to train alone before Barcelona move, but Arsenal &#039;surprised&#039; by criticism.",
+            "url": "https://www.aljazeera.com/sports/2026/9/11/arsenal-manager-arteta-very-surprised-at-jesus-blast-over-barcelona-move?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 13:18:47 +0000",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T17:45:08+03:30"
+        }
+    ]
+}
