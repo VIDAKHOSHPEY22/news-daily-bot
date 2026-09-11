@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 13:00:27
+**Last Update:** 2026-09-11 13:21:21
 
 **Total News:** 12
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655286">https://news.ycombinator.com/item?id=49655286</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://en.wikipedia.org/wiki/Neijuan">https://en.wikipedia.org/wiki/Neijuan</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49655176">https://news.ycombinator.com/item?id=49655176</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 19</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://en.wikipedia.org/wiki/Neijuan](https://en.wikipedia.org/wiki/Neijuan)
 
 ---
 
-### 3. Astra for Coding: Why Are We Doing This Again?
+### 3. DeepSeek v4.1 Flash Uncensored
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lucumr.pocoo.org/2026/9/7/astra-why/">https://lucumr.pocoo.org/2026/9/7/astra-why/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49654229">https://news.ycombinator.com/item?id=49654229</a></p>
-<p>Points: 298</p>
-<p># Comments: 222</p>
+<p>Article URL: <a href="https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8">https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49654387">https://news.ycombinator.com/item?id=49654387</a></p>
+<p>Points: 39</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://lucumr.pocoo.org/2026/9/7/astra-why/](https://lucumr.pocoo.org/2026/9/7/astra-why/)
+🔗 **Read more:** [https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8)
 
 ---
 

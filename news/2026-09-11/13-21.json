@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-11T13:21:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cherenkov Radiation - traveling faster than light",
+            "description": "<p>Article URL: <a href=\"http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655286\">https://news.ycombinator.com/item?id=49655286</a></p>\n<p>Points: 31</p>\n<p># Comments: 19</p>",
+            "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+            "published": "Fri, 11 Sep 2026 08:42:04 +0000",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Neijuan",
+            "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Neijuan\">https://en.wikipedia.org/wiki/Neijuan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655176\">https://news.ycombinator.com/item?id=49655176</a></p>\n<p>Points: 19</p>\n<p># Comments: 7</p>",
+            "url": "https://en.wikipedia.org/wiki/Neijuan",
+            "published": "Fri, 11 Sep 2026 08:26:56 +0000",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek v4.1 Flash Uncensored",
+            "description": "<p>Article URL: <a href=\"https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8\">https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49654387\">https://news.ycombinator.com/item?id=49654387</a></p>\n<p>Points: 39</p>\n<p># Comments: 7</p>",
+            "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+            "published": "Fri, 11 Sep 2026 06:46:19 +0000",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+            "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 05:53:06 GMT",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI boom helps drive surprise UK growth in July",
+            "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 09:50:40 GMT",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+            "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 08:15:25 GMT",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japan, India, Ukraine: Why some countries are uneasy about new UN map",
+            "description": "The countries are not opposed to a new map per se; they&#039;re testy about the colour shades.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/japan-india-ukraine-why-some-countries-are-uneasy-about-new-un-map?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 09:11:42 +0000",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World Athletics Ultimate Championship opens with record $10m prize pot",
+            "description": "The inaugural Ultimate Championship opens with Olympic Games champions competing for a record prize pot of $10m.",
+            "url": "https://www.aljazeera.com/sports/2026/9/11/world-athletics-ultimate-championship-opens-with-record-10m-prize-pot?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 08:50:40 +0000",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pro-Palestine student suspended by King’s College London returns to campus",
+            "description": "College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 08:22:02 +0000",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-11T13:21:21+03:30"
+        }
+    ]
+}
