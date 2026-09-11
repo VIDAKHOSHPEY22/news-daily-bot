@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-11 07:57:19
+**Last Update:** 2026-09-11 08:22:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. LLM Visualizer – Build a Transformer from Scratch
+### 1. Exercise intensity is associated with cardiometabolic health
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jayvisaria.github.io/LLM-Visualizer/#/dashboard">https://jayvisaria.github.io/LLM-Visualizer/#/dashboard</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652996">https://news.ycombinator.com/item?id=49652996</a></p>
-<p>Points: 11</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49653328">https://news.ycombinator.com/item?id=49653328</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://jayvisaria.github.io/LLM-Visualizer/#/dashboard](https://jayvisaria.github.io/LLM-Visualizer/#/dashboard)
+🔗 **Read more:** [https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/">https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652237">https://news.ycombinator.com/item?id=49652237</a></p>
-<p>Points: 95</p>
-<p># Comments: 39</p>
+<p>Points: 100</p>
+<p># Comments: 43</p>
 
 🔗 **Read more:** [https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://powerfooI.github.io/herdr-studio/">https://powerfooI.github.io/herdr-studio/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49652188">https://news.ycombinator.com/item?id=49652188</a></p>
-<p>Points: 13</p>
-<p># Comments: 6</p>
+<p>Points: 16</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://powerfooI.github.io/herdr-studio/](https://powerfooI.github.io/herdr-studio/)
 
@@ -97,7 +97,20 @@ The price of oil jumps to $105 a barrel amid signs the Iran war will not be reso
 
 ---
 
-### 7. Republican midterm convention wraps up in Dallas, Texas: Key takeaways
+### 7. Trump jokes Republicans can ‘cheat like hell’ in the midterms
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President Donald Trump has jokingly asked Republican voters to ‘cheat like hell’ in the midterms, ‘like Democrats’.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/aje-onl-nf_trump-republicans-can-cheat-in-the-midterms-100926?traffic_source=rss)
+
+---
+
+### 8. Republican midterm convention wraps up in Dallas, Texas: Key takeaways
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Protesters gather on final night as US Republicans seek to rally base ahead of c
 
 ---
 
-### 8. Taiwan vice president makes rare Europe visit for conference on democracy
+### 9. Taiwan vice president makes rare Europe visit for conference on democracy
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Protesters gather on final night as US Republicans seek to rally base ahead of c
 European Parliament&#039;s Pina Picierno says Hsiao&#039;s visit &#039;was kept secret until her arrival to protect her participation&#039;.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/taiwan-vice-president-makes-rare-europe-visit-for-conference-on-democracy?traffic_source=rss)
-
----
-
-### 9. Young republicans break with Trump over Iran war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss)
 
 ---
 
