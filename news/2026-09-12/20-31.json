@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T20:31:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+            "description": "<p>Article URL: <a href=\"https://high5apps.github.io/josm-plugin-website-wizard/\">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674050\">https://news.ycombinator.com/item?id=49674050</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+            "published": "Sat, 12 Sep 2026 16:25:08 +0000",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+            "description": "<p>Article URL: <a href=\"https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html\">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673580\">https://news.ycombinator.com/item?id=49673580</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+            "published": "Sat, 12 Sep 2026 15:49:52 +0000",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LG responds to TV spying allegations",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations\">https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673392\">https://news.ycombinator.com/item?id=49673392</a></p>\n<p>Points: 72</p>\n<p># Comments: 56</p>",
+            "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+            "published": "Sat, 12 Sep 2026 15:33:48 +0000",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+            "description": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
+            "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 16:41:09 GMT",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
+            "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+            "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 12:51:24 GMT",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
+            "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 13:56:20 GMT",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will the Houthi attacks activate the Mecca Pact?",
+            "description": "If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 16:06:48 +0000",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DR Congo’s worst Ebola epidemic ever passes 7,000 cases",
+            "description": "DRC detected the outbreak of the rare Bundibugyo virus in mid-May; nearly 3,400 people have since died.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 15:58:53 +0000",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US court rejects Trump’s emergency order keeping Michigan coal plant open",
+            "description": "The ruling says the Energy Department exceeded its authority by extending the plant’s operation.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 15:34:51 +0000",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T20:31:32+03:30"
+        }
+    ]
+}
