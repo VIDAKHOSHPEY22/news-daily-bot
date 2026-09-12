@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T19:53:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LG responds to TV spying allegations",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations\">https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673392\">https://news.ycombinator.com/item?id=49673392</a></p>\n<p>Points: 32</p>\n<p># Comments: 19</p>",
+            "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+            "published": "Sat, 12 Sep 2026 15:33:48 +0000",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is it time for a Luddite Renaissance?",
+            "description": "<p>Article URL: <a href=\"https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance\">https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673281\">https://news.ycombinator.com/item?id=49673281</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance",
+            "published": "Sat, 12 Sep 2026 15:24:47 +0000",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia is the central bank of AI",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai\">https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673098\">https://news.ycombinator.com/item?id=49673098</a></p>\n<p>Points: 90</p>\n<p># Comments: 53</p>",
+            "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+            "published": "Sat, 12 Sep 2026 15:08:27 +0000",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+            "description": "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.",
+            "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 15:58:54 GMT",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
+            "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+            "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 12:51:24 GMT",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
+            "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 13:56:20 GMT",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will the Houthi attacks activate the Mecca Pact?",
+            "description": "If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 16:06:48 +0000",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DR Congo’s worst Ebola epidemic ever passes 7,000 cases",
+            "description": "DRC detected the outbreak of the rare Bundibugyo virus in mid-May; nearly 3,400 people have since died.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 15:58:53 +0000",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US court rejects Trump’s emergency order keeping Michigan coal plant open",
+            "description": "The ruling says the Energy Department exceeded its authority by extending the plant’s operation.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 15:34:51 +0000",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T19:53:03+03:30"
+        }
+    ]
+}

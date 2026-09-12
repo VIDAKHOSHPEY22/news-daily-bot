@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 17:29:19
+**Last Update:** 2026-09-12 19:53:03
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Fuck it, make it anyway
+### 1. LG responds to TV spying allegations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.joelotter.com/posts/2026/09/make-it-anyway/">https://www.joelotter.com/posts/2026/09/make-it-anyway/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671329">https://news.ycombinator.com/item?id=49671329</a></p>
-<p>Points: 210</p>
-<p># Comments: 148</p>
-
-🔗 **Read more:** [https://www.joelotter.com/posts/2026/09/make-it-anyway/](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
-
----
-
-### 2. Crypto farm in Mexican mountains puts spotlight on cartel funding
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/">https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671296">https://news.ycombinator.com/item?id=49671296</a></p>
-<p>Points: 24</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
-
----
-
-### 3. The Worst Spam Emails: Inside iLands' AI Agent Hustle
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671159">https://news.ycombinator.com/item?id=49671159</a></p>
-<p>Points: 44</p>
+<p>Article URL: <a href="https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations">https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673392">https://news.ycombinator.com/item?id=49673392</a></p>
+<p>Points: 32</p>
 <p># Comments: 19</p>
 
-🔗 **Read more:** [https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
+🔗 **Read more:** [https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
+
+---
+
+### 2. Is it time for a Luddite Renaissance?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance">https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673281">https://news.ycombinator.com/item?id=49673281</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance](https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance)
+
+---
+
+### 3. Nvidia is the central bank of AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai">https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673098">https://news.ycombinator.com/item?id=49673098</a></p>
+<p>Points: 90</p>
+<p># Comments: 53</p>
+
+🔗 **Read more:** [https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 
 ---
 
@@ -84,55 +84,55 @@ As Reform slip back in the polls, Labour and the Conservatives rediscover a fami
 
 ---
 
-### 6. Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+### 6. Trump says united Ireland would be 'fantastic' during visit to Dublin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.
+Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will "stick to the Good Friday Agreement".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast
+### 7. Will the Houthi attacks activate the Mecca Pact?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian officials have praised the Houthis&#039; victories but have not spoken about any imminent closure of Bab al-Mandeb.
+If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss)
 
 ---
 
-### 8. India’s Modi calls for empowerment of Global South at BRICS Summit
+### 8. DR Congo’s worst Ebola epidemic ever passes 7,000 cases
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India’s Prime Minister Narendra Modi has called for an overhaul of global governance.
+DRC detected the outbreak of the rare Bundibugyo virus in mid-May; nearly 3,400 people have since died.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss)
 
 ---
 
-### 9. Manchester United vs Man City: Premier League – predictions, teams, lineups
+### 9. US court rejects Trump’s emergency order keeping Michigan coal plant open
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Premier League leaders Manchester City gear up for their first derby under new boss Enzo Maresca against rivals United.
+The ruling says the Energy Department exceeded its authority by extending the plant’s operation.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss)
 
 ---
 
