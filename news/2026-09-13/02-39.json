@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T02:39:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K",
+            "description": "<p>Article URL: <a href=\"https://maxmautner.com/2026/09/11/liability-coverage.html\">https://maxmautner.com/2026/09/11/liability-coverage.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677836\">https://news.ycombinator.com/item?id=49677836</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://maxmautner.com/2026/09/11/liability-coverage.html",
+            "published": "Sat, 12 Sep 2026 22:22:31 +0000",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "StarCraft returns in 2030 as an open-world shooter",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter\">https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677715\">https://news.ycombinator.com/item?id=49677715</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+            "published": "Sat, 12 Sep 2026 22:07:19 +0000",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Financial Times' 404 Page not Found",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/article/404\">https://www.ft.com/article/404</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677391\">https://news.ycombinator.com/item?id=49677391</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
+            "url": "https://www.ft.com/article/404",
+            "published": "Sat, 12 Sep 2026 21:28:08 +0000",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+            "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 21:16:47 GMT",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+            "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+            "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 17:28:53 GMT",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+            "description": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
+            "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 17:36:45 GMT",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
+            "description": "Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.",
+            "url": "https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 22:51:28 +0000",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tens of thousands march across Germany to protest far-right party AfD",
+            "description": "Protesters in about 20 cities, including Berlin, Hamburg and Munich, demand the banning of the Alternative for Germany.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 22:37:03 +0000",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
+            "description": "USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.",
+            "url": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 22:10:18 +0000",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T02:39:17+03:30"
+        }
+    ]
+}
