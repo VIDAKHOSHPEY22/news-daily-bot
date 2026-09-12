@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T09:05:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Usenet rewind archive search engine",
+            "description": "<p>Article URL: <a href=\"https://www.usenet-rewind.com/\">https://www.usenet-rewind.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668777\">https://news.ycombinator.com/item?id=49668777</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
+            "url": "https://www.usenet-rewind.com/",
+            "published": "Sat, 12 Sep 2026 04:19:52 +0000",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+            "description": "<p>Article URL: <a href=\"https://www.claymath.org/news/navier-stokes-announcement/\">https://www.claymath.org/news/navier-stokes-announcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668706\">https://news.ycombinator.com/item?id=49668706</a></p>\n<p>Points: 29</p>\n<p># Comments: 5</p>",
+            "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+            "published": "Sat, 12 Sep 2026 04:09:43 +0000",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google no longer provides direct URLs in search results",
+            "description": "<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 181</p>\n<p># Comments: 94</p>",
+            "url": "https://www.autom.dev/blog/google-search-goto-links",
+            "published": "Sat, 12 Sep 2026 03:14:20 +0000",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives record £36m donation from crypto billionaire",
+            "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 23:27:18 GMT",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+            "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+            "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 04:43:10 GMT",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+            "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 19:44:58 GMT",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘The family paid the price’: India’s deadly online gambling crisis",
+            "description": "Debts and deaths are mounting, as a soaring online gambling industry adapts to evade an Indian government ban.",
+            "url": "https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 04:46:56 +0000",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s Xi heads to India for BRICS summit overshadowed by wars",
+            "description": "Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 04:27:27 +0000",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
+            "description": "Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 04:00:23 +0000",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T09:05:47+03:30"
+        }
+    ]
+}

@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 08:15:42
+**Last Update:** 2026-09-12 09:05:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google no longer provides direct URLs in search results
+### 1. Usenet rewind archive search engine
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.usenet-rewind.com/">https://www.usenet-rewind.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668777">https://news.ycombinator.com/item?id=49668777</a></p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.usenet-rewind.com/](https://www.usenet-rewind.com/)
+
+---
+
+### 2. Clay Mathematics Institute on the Navier-Stokes Problem
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.claymath.org/news/navier-stokes-announcement/">https://www.claymath.org/news/navier-stokes-announcement/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668706">https://news.ycombinator.com/item?id=49668706</a></p>
+<p>Points: 29</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.claymath.org/news/navier-stokes-announcement/](https://www.claymath.org/news/navier-stokes-announcement/)
+
+---
+
+### 3. Google no longer provides direct URLs in search results
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.autom.dev/blog/google-search-goto-links">https://www.autom.dev/blog/google-search-goto-links</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668386">https://news.ycombinator.com/item?id=49668386</a></p>
-<p>Points: 85</p>
-<p># Comments: 48</p>
+<p>Points: 181</p>
+<p># Comments: 94</p>
 
 🔗 **Read more:** [https://www.autom.dev/blog/google-search-goto-links](https://www.autom.dev/blog/google-search-goto-links)
-
----
-
-### 2. Pandas Should Go Extinct
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://eddie.codes/posts/pandas-should-go-extinct/">https://eddie.codes/posts/pandas-should-go-extinct/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668198">https://news.ycombinator.com/item?id=49668198</a></p>
-<p>Points: 69</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://eddie.codes/posts/pandas-should-go-extinct/](https://eddie.codes/posts/pandas-should-go-extinct/)
-
----
-
-### 3. Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies">https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49667375">https://news.ycombinator.com/item?id=49667375</a></p>
-<p>Points: 74</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
 
 ---
 
@@ -71,7 +71,20 @@ Ben Delo's donation, the biggest single sum ever given to a political party in t
 
 ---
 
-### 5. Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
+### 5. Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
 
 **Source:** BBC
 
@@ -84,20 +97,33 @@ The capture by the rebels of a stretch Yemen's strategic coastline is the group'
 
 ---
 
-### 6. Masked men, lorries and road blocks: How anti-migrant activists are changing tactics
+### 7. ‘The family paid the price’: India’s deadly online gambling crisis
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Patriot Platform wants to build a group of working-class voters to influence political parties on the right.
+Debts and deaths are mounting, as a soaring online gambling industry adapts to evade an Indian government ban.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss](https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss)
 
 ---
 
-### 7. A stable Afghanistan post 9/11 is in US interests says former US diplomat
+### 8. China’s Xi heads to India for BRICS summit overshadowed by wars
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss)
+
+---
+
+### 9. A stable Afghanistan post 9/11 is in US interests says former US diplomat
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Patriot Platform wants to build a group of working-class voters to influence pol
 Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss)
-
----
-
-### 8. Mexican authorities rescue eight from violent cartel’s secret site
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rescue operation in Jalisco uncovers cartel&#039;s hidden clinic, illegal drugs and weapons; six suspected guards arrested.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss)
-
----
-
-### 9. North Korea fires ballistic missiles off eastern coast, Seoul says
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-South Korea said it was closely exchanging information on the launches with the US and Japan.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss)
 
 ---
 
