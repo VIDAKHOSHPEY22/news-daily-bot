@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 20:31:32
+**Last Update:** 2026-09-12 22:00:39
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Make Your First Edit to OpenStreetMap in the Next 15 Minutes
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://high5apps.github.io/josm-plugin-website-wizard/">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674050">https://news.ycombinator.com/item?id=49674050</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://high5apps.github.io/josm-plugin-website-wizard/](https://high5apps.github.io/josm-plugin-website-wizard/)
-
----
-
-### 2. Microcode in Intel's 8087 floating-point chip: the scale instruction
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html">https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673580">https://news.ycombinator.com/item?id=49673580</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html)
-
----
-
-### 3. LG responds to TV spying allegations
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations">https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49673392">https://news.ycombinator.com/item?id=49673392</a></p>
-<p>Points: 72</p>
-<p># Comments: 56</p>
-
-🔗 **Read more:** [https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
-
----
-
-### 4. Reform receives second £36m donation in two days as crypto investor matches record
+### 1. Reform receives second £36m donation in two days as crypto investor matches record
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The party says the money will allow it to fight the next election on a "level pl
 
 ---
 
-### 5. Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations
+### 2. Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ As Reform slip back in the polls, Labour and the Conservatives rediscover a fami
 
 ---
 
-### 6. Trump says united Ireland would be 'fantastic' during visit to Dublin
+### 3. Trump says united Ireland would be 'fantastic' during visit to Dublin
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Trump made the comments during a meeting with Irish leader Micheál Martin, but 
 
 ---
 
-### 7. Will the Houthi attacks activate the Mecca Pact?
+### 4. Selling the war: Purges, polygraphs and propaganda
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.
+The Iran war has become ever more challenging for the Trump administration to sell.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/12/will-the-houthi-attacks-activate-the-mecca-pact?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss)
 
 ---
 
-### 8. DR Congo’s worst Ebola epidemic ever passes 7,000 cases
+### 5. India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-DRC detected the outbreak of the rare Bundibugyo virus in mid-May; nearly 3,400 people have since died.
+Aiming for a record-extending eighth title, India take on defending champions Sri Lanka in Sunday&#039;s final in Dubai.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/dr-congos-worst-ebola-epidemic-ever-passes-7000-cases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss)
 
 ---
 
-### 9. US court rejects Trump’s emergency order keeping Michigan coal plant open
+### 6. Man arrested over killing of Tasia Fortune, found hanging from tree
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ruling says the Energy Department exceeded its authority by extending the plant’s operation.
+Police have arrested a man in connection with the murder of Tasia Fortune, a Black woman found hanging from a tree.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/us-court-rejects-trumps-emergency-order-keeping-michigan-coal-plant-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Norbert
+### 7. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire MEERS, Comanche, Oklahoma
+### 8. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Kurk, San Saba, Texas
+### 9. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
