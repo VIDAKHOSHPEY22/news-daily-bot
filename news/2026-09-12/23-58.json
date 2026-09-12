@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T23:58:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An open letter to Dario: if you mean it, open the weights",
+            "description": "<p>Article URL: <a href=\"https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676085\">https://news.ycombinator.com/item?id=49676085</a></p>\n<p>Points: 161</p>\n<p># Comments: 49</p>",
+            "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+            "published": "Sat, 12 Sep 2026 19:15:32 +0000",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Will There Be a 7G?",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.01877\">https://arxiv.org/abs/2609.01877</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674498\">https://news.ycombinator.com/item?id=49674498</a></p>\n<p>Points: 52</p>\n<p># Comments: 81</p>",
+            "url": "https://arxiv.org/abs/2609.01877",
+            "published": "Sat, 12 Sep 2026 17:05:31 +0000",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Make your first edit to OpenStreetMap",
+            "description": "<p>Article URL: <a href=\"https://high5apps.github.io/josm-plugin-website-wizard/\">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674050\">https://news.ycombinator.com/item?id=49674050</a></p>\n<p>Points: 140</p>\n<p># Comments: 50</p>",
+            "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+            "published": "Sat, 12 Sep 2026 16:25:08 +0000",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+            "description": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
+            "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 17:36:45 GMT",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
+            "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+            "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 12:51:24 GMT",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
+            "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 13:56:20 GMT",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel bombs southern Lebanon as talks postponed",
+            "description": "The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 19:56:09 +0000",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
+            "description": "‘NAZA’, a documentary about Israel’s genocide in Gaza, has won the Special Jury Prize at the Venice Film Festival.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 19:50:08 +0000",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US court blocks Trump administration plan to cut disaster agency workforce",
+            "description": "US President Donald Trump has said he would like to abolish the agency.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 19:49:29 +0000",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T23:58:02+03:30"
+        }
+    ]
+}

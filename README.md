@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 22:00:39
+**Last Update:** 2026-09-12 23:58:02
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Reform receives second £36m donation in two days as crypto investor matches record
+### 1. An open letter to Dario: if you mean it, open the weights
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676085">https://news.ycombinator.com/item?id=49676085</a></p>
+<p>Points: 161</p>
+<p># Comments: 49</p>
+
+🔗 **Read more:** [https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/)
+
+---
+
+### 2. Will There Be a 7G?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2609.01877">https://arxiv.org/abs/2609.01877</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674498">https://news.ycombinator.com/item?id=49674498</a></p>
+<p>Points: 52</p>
+<p># Comments: 81</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2609.01877](https://arxiv.org/abs/2609.01877)
+
+---
+
+### 3. Make your first edit to OpenStreetMap
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://high5apps.github.io/josm-plugin-website-wizard/">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49674050">https://news.ycombinator.com/item?id=49674050</a></p>
+<p>Points: 140</p>
+<p># Comments: 50</p>
+
+🔗 **Read more:** [https://high5apps.github.io/josm-plugin-website-wizard/](https://high5apps.github.io/josm-plugin-website-wizard/)
+
+---
+
+### 4. Reform receives second £36m donation in two days as crypto investor matches record
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The party says the money will allow it to fight the next election on a "level pl
 
 ---
 
-### 2. Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations
+### 5. Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ As Reform slip back in the polls, Labour and the Conservatives rediscover a fami
 
 ---
 
-### 3. Trump says united Ireland would be 'fantastic' during visit to Dublin
+### 6. Trump says united Ireland would be 'fantastic' during visit to Dublin
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Trump made the comments during a meeting with Irish leader Micheál Martin, but 
 
 ---
 
-### 4. Selling the war: Purges, polygraphs and propaganda
+### 7. Israel bombs southern Lebanon as talks postponed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Iran war has become ever more challenging for the Trump administration to sell.
+The next round of talks between Israel and Lebanon, mediated by the US, has been postponed.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss)
 
 ---
 
-### 5. India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form
+### 8. Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aiming for a record-extending eighth title, India take on defending champions Sri Lanka in Sunday&#039;s final in Dubai.
+‘NAZA’, a documentary about Israel’s genocide in Gaza, has won the Special Jury Prize at the Venice Film Festival.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/india-sri-lanka-womens-t20-asia-cup-2026-final-schedule-form-teams?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss)
 
 ---
 
-### 6. Man arrested over killing of Tasia Fortune, found hanging from tree
+### 9. US court blocks Trump administration plan to cut disaster agency workforce
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police have arrested a man in connection with the murder of Tasia Fortune, a Black woman found hanging from a tree.
+US President Donald Trump has said he would like to abolish the agency.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-sv-tasia-fortune-murder?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Norbert
+### 10. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire MEERS, Comanche, Oklahoma
+### 11. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Kurk, San Saba, Texas
+### 12. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
