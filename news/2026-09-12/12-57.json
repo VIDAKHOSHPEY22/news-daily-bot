@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-12T12:57:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives record £36m donation from crypto billionaire",
+            "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 06:19:50 GMT",
+            "fetched": "2026-09-12T12:57:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+            "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+            "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 04:43:10 GMT",
+            "fetched": "2026-09-12T12:57:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+            "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 19:44:58 GMT",
+            "fetched": "2026-09-12T12:57:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
+            "description": "The &#039;War on Terror&#039; gave far-right Islamophobia legitimacy, reach and electoral force.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 08:49:01 +0000",
+            "fetched": "2026-09-12T12:57:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Guatemalan judge clears deputy minister, three leaders of terrorism charges",
+            "description": "Luis Pacheco and three other Indigenous ex-leaders cleared of charges over 2023 Guatemala protests.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 08:47:19 +0000",
+            "fetched": "2026-09-12T12:57:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
+            "description": "Sweden votes on Sunday as voters weigh migration, crime, the economy and whether the far right will enter government.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 08:42:28 +0000",
+            "fetched": "2026-09-12T12:57:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T12:57:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T12:57:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T12:57:54+03:30"
+        }
+    ]
+}

@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 09:05:47
+**Last Update:** 2026-09-12 12:57:54
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Usenet rewind archive search engine
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.usenet-rewind.com/">https://www.usenet-rewind.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668777">https://news.ycombinator.com/item?id=49668777</a></p>
-<p>Points: 19</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.usenet-rewind.com/](https://www.usenet-rewind.com/)
-
----
-
-### 2. Clay Mathematics Institute on the Navier-Stokes Problem
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.claymath.org/news/navier-stokes-announcement/">https://www.claymath.org/news/navier-stokes-announcement/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668706">https://news.ycombinator.com/item?id=49668706</a></p>
-<p>Points: 29</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.claymath.org/news/navier-stokes-announcement/](https://www.claymath.org/news/navier-stokes-announcement/)
-
----
-
-### 3. Google no longer provides direct URLs in search results
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.autom.dev/blog/google-search-goto-links">https://www.autom.dev/blog/google-search-goto-links</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668386">https://news.ycombinator.com/item?id=49668386</a></p>
-<p>Points: 181</p>
-<p># Comments: 94</p>
-
-🔗 **Read more:** [https://www.autom.dev/blog/google-search-goto-links](https://www.autom.dev/blog/google-search-goto-links)
-
----
-
-### 4. Reform receives record £36m donation from crypto billionaire
+### 1. Reform receives record £36m donation from crypto billionaire
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Ben Delo's donation, the biggest single sum ever given to a political party in t
 
 ---
 
-### 5. Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+### 2. Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ Iraq removes a military commander and opens investigations into the attack that 
 
 ---
 
-### 6. Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
+### 3. Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.
+The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘The family paid the price’: India’s deadly online gambling crisis
+### 4. 9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Debts and deaths are mounting, as a soaring online gambling industry adapts to evade an Indian government ban.
+The &#039;War on Terror&#039; gave far-right Islamophobia legitimacy, reach and electoral force.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss](https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss)
 
 ---
 
-### 8. China’s Xi heads to India for BRICS summit overshadowed by wars
+### 5. Guatemalan judge clears deputy minister, three leaders of terrorism charges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.
+Luis Pacheco and three other Indigenous ex-leaders cleared of charges over 2023 Guatemala protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss)
 
 ---
 
-### 9. A stable Afghanistan post 9/11 is in US interests says former US diplomat
+### 6. Sweden heads to the polls: What’s at stake in the knife-edge election?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.
+Sweden votes on Sunday as voters weigh migration, crime, the economy and whether the far right will enter government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Norbert
+### 7. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire MEERS, Comanche, Oklahoma
+### 8. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Kurk, San Saba, Texas
+### 9. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
