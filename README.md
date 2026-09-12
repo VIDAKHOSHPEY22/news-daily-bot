@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 14:04:54
+**Last Update:** 2026-09-12 16:28:28
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Resistance Training Prescription for Muscle Function, Hypertrophy in Health
+### 1. Fuck it, make it anyway
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49670493">https://news.ycombinator.com/item?id=49670493</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://www.joelotter.com/posts/2026/09/make-it-anyway/">https://www.joelotter.com/posts/2026/09/make-it-anyway/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671329">https://news.ycombinator.com/item?id=49671329</a></p>
+<p>Points: 92</p>
+<p># Comments: 45</p>
+
+🔗 **Read more:** [https://www.joelotter.com/posts/2026/09/make-it-anyway/](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+
+---
+
+### 2. Crypto farm in Mexican mountains puts spotlight on cartel funding
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/">https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671296">https://news.ycombinator.com/item?id=49671296</a></p>
+<p>Points: 12</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
+🔗 **Read more:** [https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
 
 ---
 
-### 2. Retrospectively Reverse-Engineering Apple's Neural Engine
+### 3. Altman tells staff OpenAI is open to slowing AI development
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eiln.github.io/posts/ane.html">https://eiln.github.io/posts/ane.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49670032">https://news.ycombinator.com/item?id=49670032</a></p>
-<p>Points: 87</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/">https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671274">https://news.ycombinator.com/item?id=49671274</a></p>
+<p>Points: 19</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://eiln.github.io/posts/ane.html](https://eiln.github.io/posts/ane.html)
-
----
-
-### 3. WeWorm: Zero-Click WeChat Worm
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://calif.io/research/weworm">https://calif.io/research/weworm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49669276">https://news.ycombinator.com/item?id=49669276</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://calif.io/research/weworm](https://calif.io/research/weworm)
+🔗 **Read more:** [https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/](https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/)
 
 ---
 
-### 4. Reform receives record £36m donation from crypto billionaire
+### 4. Reform receives second £36m donation in two days as crypto investor matches record
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.
+Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation
+### 5. Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Iraq removes a military commander and opens investigations into the attack that 
 
 ---
 
-### 7. Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season
+### 7. India’s Modi calls for empowerment of Global South at BRICS Summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kylian Mbappe went trophyless in his first two Real Madrid seasons, but hopes World Cup goals boost Ballon d&#039;Or bid.
+India’s Prime Minister Narendra Modi has called for an overhaul of global governance.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/indias-modi-calls-for-empowerment-of-global-south-at-brics-summit?traffic_source=rss)
 
 ---
 
-### 8. What did US intelligence know before the 9/11 attacks?
+### 8. Manchester United vs Man City: Premier League – predictions, teams, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The CIA have declassified documents showing US presidents were warned about Osama bin Laden and al-Qaeda before 9/11.
+Premier League leaders Manchester City gear up for their first derby under new boss Enzo Maresca against rivals United.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss)
 
 ---
 
-### 9. Fighting re-erupts in Yemen and civilians are paying the price
+### 9. Trump: Iran probably ‘behind’ Saudi oil pipeline attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 900 people have been killed or injured and at least 5,000 families have fled their homes in less than a week.
+Trump: Iran probably ‘behind’ Saudi oil pipeline attack
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss)
 
 ---
 
