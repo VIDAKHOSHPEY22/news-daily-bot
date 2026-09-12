@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 16:28:28
+**Last Update:** 2026-09-12 17:29:19
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.joelotter.com/posts/2026/09/make-it-anyway/">https://www.joelotter.com/posts/2026/09/make-it-anyway/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671329">https://news.ycombinator.com/item?id=49671329</a></p>
-<p>Points: 92</p>
-<p># Comments: 45</p>
+<p>Points: 210</p>
+<p># Comments: 148</p>
 
 🔗 **Read more:** [https://www.joelotter.com/posts/2026/09/make-it-anyway/](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/">https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671296">https://news.ycombinator.com/item?id=49671296</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/](https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/)
 
 ---
 
-### 3. Altman tells staff OpenAI is open to slowing AI development
+### 3. The Worst Spam Emails: Inside iLands' AI Agent Hustle
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/">https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671274">https://news.ycombinator.com/item?id=49671274</a></p>
-<p>Points: 19</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49671159">https://news.ycombinator.com/item?id=49671159</a></p>
+<p>Points: 44</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/](https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/)
+🔗 **Read more:** [https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/)
 
 ---
 
@@ -97,7 +97,20 @@ Iraq removes a military commander and opens investigations into the attack that 
 
 ---
 
-### 7. India’s Modi calls for empowerment of Global South at BRICS Summit
+### 7. ‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iranian officials have praised the Houthis&#039; victories but have not spoken about any imminent closure of Bab al-Mandeb.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss)
+
+---
+
+### 8. India’s Modi calls for empowerment of Global South at BRICS Summit
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ India’s Prime Minister Narendra Modi has called for an overhaul of global gove
 
 ---
 
-### 8. Manchester United vs Man City: Premier League – predictions, teams, lineups
+### 9. Manchester United vs Man City: Premier League – predictions, teams, lineups
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ India’s Prime Minister Narendra Modi has called for an overhaul of global gove
 Premier League leaders Manchester City gear up for their first derby under new boss Enzo Maresca against rivals United.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/man-united-vs-man-city-premier-league-predictions-schedule-team-news-lineups?traffic_source=rss)
-
----
-
-### 9. Trump: Iran probably ‘behind’ Saudi oil pipeline attack
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump: Iran probably ‘behind’ Saudi oil pipeline attack
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss)
 
 ---
 
