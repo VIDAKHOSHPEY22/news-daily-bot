@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T08:15:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google no longer provides direct URLs in search results",
+            "description": "<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 85</p>\n<p># Comments: 48</p>",
+            "url": "https://www.autom.dev/blog/google-search-goto-links",
+            "published": "Sat, 12 Sep 2026 03:14:20 +0000",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pandas Should Go Extinct",
+            "description": "<p>Article URL: <a href=\"https://eddie.codes/posts/pandas-should-go-extinct/\">https://eddie.codes/posts/pandas-should-go-extinct/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668198\">https://news.ycombinator.com/item?id=49668198</a></p>\n<p>Points: 69</p>\n<p># Comments: 36</p>",
+            "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+            "published": "Sat, 12 Sep 2026 02:42:08 +0000",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+            "description": "<p>Article URL: <a href=\"https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies\">https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49667375\">https://news.ycombinator.com/item?id=49667375</a></p>\n<p>Points: 74</p>\n<p># Comments: 33</p>",
+            "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+            "published": "Sat, 12 Sep 2026 00:40:32 +0000",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives record £36m donation from crypto billionaire",
+            "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 23:27:18 GMT",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+            "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 19:44:58 GMT",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
+            "description": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 23:06:39 GMT",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
+            "description": "Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 04:00:23 +0000",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexican authorities rescue eight from violent cartel’s secret site",
+            "description": "Rescue operation in Jalisco uncovers cartel&#039;s hidden clinic, illegal drugs and weapons; six suspected guards arrested.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 03:32:54 +0000",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+            "description": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 02:25:59 +0000",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T08:15:42+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 03:53:24
+**Last Update:** 2026-09-12 08:15:42
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI agents carried out an undisclosed attack on RubyGems
+### 1. Google no longer provides direct URLs in search results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rubyhack.ai/">https://www.rubyhack.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666735">https://news.ycombinator.com/item?id=49666735</a></p>
-<p>Points: 99</p>
+<p>Article URL: <a href="https://www.autom.dev/blog/google-search-goto-links">https://www.autom.dev/blog/google-search-goto-links</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668386">https://news.ycombinator.com/item?id=49668386</a></p>
+<p>Points: 85</p>
+<p># Comments: 48</p>
+
+🔗 **Read more:** [https://www.autom.dev/blog/google-search-goto-links](https://www.autom.dev/blog/google-search-goto-links)
+
+---
+
+### 2. Pandas Should Go Extinct
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eddie.codes/posts/pandas-should-go-extinct/">https://eddie.codes/posts/pandas-should-go-extinct/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49668198">https://news.ycombinator.com/item?id=49668198</a></p>
+<p>Points: 69</p>
 <p># Comments: 36</p>
 
-🔗 **Read more:** [https://www.rubyhack.ai/](https://www.rubyhack.ai/)
+🔗 **Read more:** [https://eddie.codes/posts/pandas-should-go-extinct/](https://eddie.codes/posts/pandas-should-go-extinct/)
 
 ---
 
-### 2. QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]
+### 3. Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf">https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666155">https://news.ycombinator.com/item?id=49666155</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies">https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49667375">https://news.ycombinator.com/item?id=49667375</a></p>
+<p>Points: 74</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
-
----
-
-### 3. Project Blinkenlights
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blinkenlights.de/en/">https://blinkenlights.de/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666146">https://news.ycombinator.com/item?id=49666146</a></p>
-<p>Points: 30</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://blinkenlights.de/en/](https://blinkenlights.de/en/)
+🔗 **Read more:** [https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies)
 
 ---
 
@@ -71,16 +71,16 @@ Ben Delo's donation, the biggest single sum ever given to a political party in t
 
 ---
 
-### 5. MPs vote against fresh attempt to legalise assisted dying
+### 5. Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The proposed law sought to introduce one of the biggest societal changes in recent years.
+The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Patriot Platform wants to build a group of working-class voters to influence pol
 
 ---
 
-### 7. Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down
+### 7. A stable Afghanistan post 9/11 is in US interests says former US diplomat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.
+Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss)
 
 ---
 
-### 8. UN extends partial Sudan arms embargo for a month
+### 8. Mexican authorities rescue eight from violent cartel’s secret site
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.
+Rescue operation in Jalisco uncovers cartel&#039;s hidden clinic, illegal drugs and weapons; six suspected guards arrested.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss)
 
 ---
 
-### 9. Flavio Bolsonaro faces corruption probe weeks before Brazil election
+### 9. North Korea fires ballistic missiles off eastern coast, Seoul says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The investigation came to light as Brazil&#039;s Supreme Court unseals files related to the Banco Master corruption scandal.
+South Korea said it was closely exchanging information on the launches with the US and Japan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss)
 
 ---
 
