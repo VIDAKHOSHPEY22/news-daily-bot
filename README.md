@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 03:34:51
+**Last Update:** 2026-09-12 03:53:24
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
@@ -19,30 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.rubyhack.ai/">https://www.rubyhack.ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666735">https://news.ycombinator.com/item?id=49666735</a></p>
-<p>Points: 26</p>
-<p># Comments: 5</p>
+<p>Points: 99</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://www.rubyhack.ai/](https://www.rubyhack.ai/)
 
 ---
 
-### 2. DeCloudflare
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md">https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666587">https://news.ycombinator.com/item?id=49666587</a></p>
-<p>Points: 25</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md](https://0xacab.org/dCF/deCloudflare/-/blob/master/README.md)
-
----
-
-### 3. QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]
+### 2. QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf">https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666155">https://news.ycombinator.com/item?id=49666155</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf)
+
+---
+
+### 3. Project Blinkenlights
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blinkenlights.de/en/">https://blinkenlights.de/en/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49666146">https://news.ycombinator.com/item?id=49666146</a></p>
+<p>Points: 30</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://blinkenlights.de/en/](https://blinkenlights.de/en/)
 
 ---
 
@@ -97,7 +97,20 @@ Patriot Platform wants to build a group of working-class voters to influence pol
 
 ---
 
-### 7. UN extends partial Sudan arms embargo for a month
+### 7. Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss)
+
+---
+
+### 8. UN extends partial Sudan arms embargo for a month
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Sudan’s UN ambassador said a total arms embargo goes against the UN Charter th
 
 ---
 
-### 8. Flavio Bolsonaro faces corruption probe weeks before Brazil election
+### 9. Flavio Bolsonaro faces corruption probe weeks before Brazil election
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Sudan’s UN ambassador said a total arms embargo goes against the UN Charter th
 The investigation came to light as Brazil&#039;s Supreme Court unseals files related to the Banco Master corruption scandal.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss)
-
----
-
-### 9. Israeli demolitions threaten schools and homes in Masafer Yatta
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Students pledge to continue learning as Masafer Yatta demolitions target homes, schools, and their right to education.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss](https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss)
 
 ---
 

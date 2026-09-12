@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T03:53:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+            "description": "<p>Article URL: <a href=\"https://www.rubyhack.ai/\">https://www.rubyhack.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666735\">https://news.ycombinator.com/item?id=49666735</a></p>\n<p>Points: 99</p>\n<p># Comments: 36</p>",
+            "url": "https://www.rubyhack.ai/",
+            "published": "Fri, 11 Sep 2026 23:17:42 +0000",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+            "description": "<p>Article URL: <a href=\"https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf\">https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666155\">https://news.ycombinator.com/item?id=49666155</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+            "published": "Fri, 11 Sep 2026 22:16:15 +0000",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Project Blinkenlights",
+            "description": "<p>Article URL: <a href=\"https://blinkenlights.de/en/\">https://blinkenlights.de/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666146\">https://news.ycombinator.com/item?id=49666146</a></p>\n<p>Points: 30</p>\n<p># Comments: 12</p>",
+            "url": "https://blinkenlights.de/en/",
+            "published": "Fri, 11 Sep 2026 22:15:00 +0000",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives record £36m donation from crypto billionaire",
+            "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 23:27:18 GMT",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs vote against fresh attempt to legalise assisted dying",
+            "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+            "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 00:10:55 GMT",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
+            "description": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right.",
+            "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 11 Sep 2026 23:06:39 GMT",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+            "description": "Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN extends partial Sudan arms embargo for a month",
+            "description": "Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 23:08:05 +0000",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
+            "description": "The investigation came to light as Brazil&#039;s Supreme Court unseals files related to the Banco Master corruption scandal.",
+            "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+            "published": "Fri, 11 Sep 2026 22:57:51 +0000",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T03:53:24+03:30"
+        }
+    ]
+}
