@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-12 12:57:54
+**Last Update:** 2026-09-12 14:04:54
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Reform receives record £36m donation from crypto billionaire
+### 1. Resistance Training Prescription for Muscle Function, Hypertrophy in Health
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49670493">https://news.ycombinator.com/item?id=49670493</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/)
+
+---
+
+### 2. Retrospectively Reverse-Engineering Apple's Neural Engine
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eiln.github.io/posts/ane.html">https://eiln.github.io/posts/ane.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49670032">https://news.ycombinator.com/item?id=49670032</a></p>
+<p>Points: 87</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://eiln.github.io/posts/ane.html](https://eiln.github.io/posts/ane.html)
+
+---
+
+### 3. WeWorm: Zero-Click WeChat Worm
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://calif.io/research/weworm">https://calif.io/research/weworm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49669276">https://news.ycombinator.com/item?id=49669276</a></p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://calif.io/research/weworm](https://calif.io/research/weworm)
+
+---
+
+### 4. Reform receives record £36m donation from crypto billionaire
 
 **Source:** BBC
 
@@ -23,7 +71,20 @@ Ben Delo's donation, the biggest single sum ever given to a political party in t
 
 ---
 
-### 2. Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+### 5. Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ Iraq removes a military commander and opens investigations into the attack that 
 
 ---
 
-### 3. Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. 9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right
+### 7. Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The &#039;War on Terror&#039; gave far-right Islamophobia legitimacy, reach and electoral force.
+Kylian Mbappe went trophyless in his first two Real Madrid seasons, but hopes World Cup goals boost Ballon d&#039;Or bid.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss)
 
 ---
 
-### 5. Guatemalan judge clears deputy minister, three leaders of terrorism charges
+### 8. What did US intelligence know before the 9/11 attacks?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Luis Pacheco and three other Indigenous ex-leaders cleared of charges over 2023 Guatemala protests.
+The CIA have declassified documents showing US presidents were warned about Osama bin Laden and al-Qaeda before 9/11.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/guatemalan-judge-clears-deputy-minister-three-leaders-of-terrorism-charges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss)
 
 ---
 
-### 6. Sweden heads to the polls: What’s at stake in the knife-edge election?
+### 9. Fighting re-erupts in Yemen and civilians are paying the price
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sweden votes on Sunday as voters weigh migration, crime, the economy and whether the far right will enter government.
+More than 900 people have been killed or injured and at least 5,000 families have fled their homes in less than a week.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Norbert
+### 10. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire MEERS, Comanche, Oklahoma
+### 11. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Kurk, San Saba, Texas
+### 12. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-12T14:04:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+            "description": "<p>Article URL: <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/\">https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670493\">https://news.ycombinator.com/item?id=49670493</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+            "published": "Sat, 12 Sep 2026 09:08:54 +0000",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+            "description": "<p>Article URL: <a href=\"https://eiln.github.io/posts/ane.html\">https://eiln.github.io/posts/ane.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670032\">https://news.ycombinator.com/item?id=49670032</a></p>\n<p>Points: 87</p>\n<p># Comments: 11</p>",
+            "url": "https://eiln.github.io/posts/ane.html",
+            "published": "Sat, 12 Sep 2026 07:54:03 +0000",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "WeWorm: Zero-Click WeChat Worm",
+            "description": "<p>Article URL: <a href=\"https://calif.io/research/weworm\">https://calif.io/research/weworm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49669276\">https://news.ycombinator.com/item?id=49669276</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
+            "url": "https://calif.io/research/weworm",
+            "published": "Sat, 12 Sep 2026 05:49:10 +0000",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives record £36m donation from crypto billionaire",
+            "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+            "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 06:19:50 GMT",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+            "description": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+            "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 10:07:00 GMT",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+            "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+            "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 04:43:10 GMT",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid’s Mbappe confident of Ballon d’Or despite trophyless season",
+            "description": "Kylian Mbappe went trophyless in his first two Real Madrid seasons, but hopes World Cup goals boost Ballon d&#039;Or bid.",
+            "url": "https://www.aljazeera.com/sports/2026/9/12/real-madrids-mbappe-confident-of-ballon-dor-despite-trophyless-season?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 09:53:59 +0000",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What did US intelligence know before the 9/11 attacks?",
+            "description": "The CIA have declassified documents showing US presidents were warned about Osama bin Laden and al-Qaeda before 9/11.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 09:30:51 +0000",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fighting re-erupts in Yemen and civilians are paying the price",
+            "description": "More than 900 people have been killed or injured and at least 5,000 families have fled their homes in less than a week.",
+            "url": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 09:30:46 +0000",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-12T14:04:54+03:30"
+        }
+    ]
+}
