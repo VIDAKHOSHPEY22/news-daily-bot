@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 00:59:46
+**Last Update:** 2026-09-13 02:26:26
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
+### 1. Financial Times' 404 Page not Found
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ft.com/article/404">https://www.ft.com/article/404</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49677391">https://news.ycombinator.com/item?id=49677391</a></p>
+<p>Points: 12</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.ft.com/article/404](https://www.ft.com/article/404)
+
+---
+
+### 2. OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676849">https://news.ycombinator.com/item?id=49676849</a></p>
+<p>Points: 32</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/](https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/)
+
+---
+
+### 3. Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://withspecific.com/benchmarks/real-swe">https://withspecific.com/benchmarks/real-swe</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676820">https://news.ycombinator.com/item?id=49676820</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 48</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://withspecific.com/benchmarks/real-swe](https://withspecific.com/benchmarks/real-swe)
-
----
-
-### 2. Benchmark: CadQuery vs. OpenSCAD for agentic CAD work
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://modelrift.com/blog/cadquery-vs-openscad/">https://modelrift.com/blog/cadquery-vs-openscad/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676577">https://news.ycombinator.com/item?id=49676577</a></p>
-<p>Points: 10</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://modelrift.com/blog/cadquery-vs-openscad/](https://modelrift.com/blog/cadquery-vs-openscad/)
-
----
-
-### 3. LG Says We're Fake News [video]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=ToP9xfLDSME">https://www.youtube.com/watch?v=ToP9xfLDSME</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49676324">https://news.ycombinator.com/item?id=49676324</a></p>
-<p>Points: 18</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.youtube.com/watch?v=ToP9xfLDSME](https://www.youtube.com/watch?v=ToP9xfLDSME)
 
 ---
 
@@ -97,7 +97,33 @@ The party says the money will allow it to fight the next election on a "level pl
 
 ---
 
-### 7. Ebola spreads to seventh DRC province as gov’t insists cases are declining
+### 7. USA edge Spain to book Women’s Basketball World Cup final against France
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss)
+
+---
+
+### 8. First naval battle between drones takes place in the Black Sea
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss)
+
+---
+
+### 9. Ebola spreads to seventh DRC province as gov’t insists cases are declining
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The party says the money will allow it to fight the next election on a "level pl
 Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss)
-
----
-
-### 8. Second crypto billionaire donates record $49m to far-right Reform UK
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The two donations increase the total sum of money pledged to Reform since Friday to $97m.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss)
-
----
-
-### 9. Fire at nursing home in Chile kills 16 elderly residents
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The facility had faced fines and enforcement proceedings over regulatory violations since 2019.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss](https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T02:26:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Financial Times' 404 Page not Found",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/article/404\">https://www.ft.com/article/404</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677391\">https://news.ycombinator.com/item?id=49677391</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
+            "url": "https://www.ft.com/article/404",
+            "published": "Sat, 12 Sep 2026 21:28:08 +0000",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/\">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676849\">https://news.ycombinator.com/item?id=49676849</a></p>\n<p>Points: 32</p>\n<p># Comments: 24</p>",
+            "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+            "published": "Sat, 12 Sep 2026 20:28:29 +0000",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+            "description": "<p>Article URL: <a href=\"https://withspecific.com/benchmarks/real-swe\">https://withspecific.com/benchmarks/real-swe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676820\">https://news.ycombinator.com/item?id=49676820</a></p>\n<p>Points: 48</p>\n<p># Comments: 37</p>",
+            "url": "https://withspecific.com/benchmarks/real-swe",
+            "published": "Sat, 12 Sep 2026 20:25:48 +0000",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+            "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 21:16:47 GMT",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+            "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+            "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 17:28:53 GMT",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+            "description": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
+            "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 17:36:45 GMT",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
+            "description": "USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.",
+            "url": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 22:10:18 +0000",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "First naval battle between drones takes place in the Black Sea",
+            "description": "The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 21:38:24 +0000",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
+            "description": "Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 20:44:18 +0000",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T02:26:26+03:30"
+        }
+    ]
+}
