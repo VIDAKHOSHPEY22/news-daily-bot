@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 09:50:08
+**Last Update:** 2026-09-13 15:08:31
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. A succession crisis that tore England apart
+### 1. Nvidia dismisses "circular financing", says every $1 it invests brings back $100
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart">https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679647">https://news.ycombinator.com/item?id=49679647</a></p>
-<p>Points: 16</p>
+<p>Article URL: <a href="https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/">https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682319">https://news.ycombinator.com/item?id=49682319</a></p>
+<p>Points: 22</p>
 <p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+🔗 **Read more:** [https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/)
 
 ---
 
-### 2. Aligned to Whom?
+### 2. Revolut confirms customer data breach through fake government requests
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hyperbo.la/w/aligned-to-whom/">https://hyperbo.la/w/aligned-to-whom/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679643">https://news.ycombinator.com/item?id=49679643</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682087">https://news.ycombinator.com/item?id=49682087</a></p>
+<p>Points: 19</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://hyperbo.la/w/aligned-to-whom/](https://hyperbo.la/w/aligned-to-whom/)
+🔗 **Read more:** [https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
 
 ---
 
-### 3. After Math
+### 3. Homebrew 7.0.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/12/after-math/">https://terrytao.wordpress.com/2026/09/12/after-math/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679637">https://news.ycombinator.com/item?id=49679637</a></p>
-<p>Points: 12</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681545">https://news.ycombinator.com/item?id=49681545</a></p>
+<p>Points: 58</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/12/after-math/](https://terrytao.wordpress.com/2026/09/12/after-math/)
+🔗 **Read more:** [https://brew.sh/2026/09/13/homebrew-7.0.0/](https://brew.sh/2026/09/13/homebrew-7.0.0/)
 
 ---
 
@@ -71,68 +71,68 @@ It comes as the AI firm's boss has called for the technology's development to be
 
 ---
 
-### 5. Dramatic insider warnings over AI fall flat with some in Silicon Valley
+### 5. Reform's £72m donations 'entirely in line with law', Jenrick says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.
+The government is trying to change the law on donations to UK political parties from British expats.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. PM's top security adviser says Europe faces hard winter to keep pressure on Putin
+### 6. 'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In rare public remarks, Jonathan Powell said now was not the time for European nations to take their "foot off the gas".
+High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. 1,400 Yemenis flee to Djibouti within 24 hours
+### 7. Fighting continues between Yemen gov’t forces, Houthis: What is the latest?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten their grip on the Bab al-Mandeb strait.
+Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss)
 
 ---
 
-### 8. Wildfire rages on Croatia’s Dalmatian Coast island of Brac
+### 8. Israeli attack on Gaza kills two Palestinians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.
+Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss)
 
 ---
 
-### 9. One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says
+### 9. A kingdom within a republic: Inside Uganda’s Buganda
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescuers continue searching for survivors as the government scales back operations in open waters.
+The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss)
 
 ---
 

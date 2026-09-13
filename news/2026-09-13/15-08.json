@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T15:08:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+            "description": "<p>Article URL: <a href=\"https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/\">https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49682319\">https://news.ycombinator.com/item?id=49682319</a></p>\n<p>Points: 22</p>\n<p># Comments: 9</p>",
+            "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+            "published": "Sun, 13 Sep 2026 10:29:18 +0000",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Revolut confirms customer data breach through fake government requests",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/\">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49682087\">https://news.ycombinator.com/item?id=49682087</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+            "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+            "published": "Sun, 13 Sep 2026 09:59:58 +0000",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Homebrew 7.0.0",
+            "description": "<p>Article URL: <a href=\"https://brew.sh/2026/09/13/homebrew-7.0.0/\">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49681545\">https://news.ycombinator.com/item?id=49681545</a></p>\n<p>Points: 58</p>\n<p># Comments: 15</p>",
+            "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+            "published": "Sun, 13 Sep 2026 08:41:17 +0000",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+            "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 11:13:07 GMT",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
+            "description": "The government is trying to change the law on donations to UK political parties from British expats.",
+            "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 10:54:50 GMT",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+            "description": "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.",
+            "url": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 11:16:06 GMT",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fighting continues between Yemen gov’t forces, Houthis: What is the latest?",
+            "description": "Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 10:47:19 +0000",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli attack on Gaza kills two Palestinians",
+            "description": "Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 10:22:01 +0000",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A kingdom within a republic: Inside Uganda’s Buganda",
+            "description": "The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 10:12:15 +0000",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T15:08:31+03:30"
+        }
+    ]
+}
