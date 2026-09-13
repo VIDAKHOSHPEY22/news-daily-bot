@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T04:19:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K",
+            "description": "<p>Article URL: <a href=\"https://maxmautner.com/2026/09/11/liability-coverage.html\">https://maxmautner.com/2026/09/11/liability-coverage.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677836\">https://news.ycombinator.com/item?id=49677836</a></p>\n<p>Points: 37</p>\n<p># Comments: 30</p>",
+            "url": "https://maxmautner.com/2026/09/11/liability-coverage.html",
+            "published": "Sat, 12 Sep 2026 22:22:31 +0000",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Financial Times' 404 Page not Found",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/article/404\">https://www.ft.com/article/404</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49677391\">https://news.ycombinator.com/item?id=49677391</a></p>\n<p>Points: 47</p>\n<p># Comments: 5</p>",
+            "url": "https://www.ft.com/article/404",
+            "published": "Sat, 12 Sep 2026 21:28:08 +0000",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+            "description": "<p>Article URL: <a href=\"https://withspecific.com/benchmarks/real-swe\">https://withspecific.com/benchmarks/real-swe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676820\">https://news.ycombinator.com/item?id=49676820</a></p>\n<p>Points: 88</p>\n<p># Comments: 55</p>",
+            "url": "https://withspecific.com/benchmarks/real-swe",
+            "published": "Sat, 12 Sep 2026 20:25:48 +0000",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+            "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 21:16:47 GMT",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+            "description": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 23:15:54 GMT",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+            "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 21:25:28 GMT",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+            "description": "The Houthis claim their attack targeted a Saudi military base in Sharurah.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 00:24:29 +0000",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+            "description": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 00:00:40 +0000",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Teen rescued after clinging to boat for two days off Alaska",
+            "description": "A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
+            "published": "Sat, 12 Sep 2026 23:56:58 +0000",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T04:19:46+03:30"
+        }
+    ]
+}
