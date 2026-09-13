@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 04:41:07
+**Last Update:** 2026-09-13 09:25:19
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic boss Dario Amodei calls for AI development to slow down
+### 1. A succession crisis that tore England apart
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart">https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679647">https://news.ycombinator.com/item?id=49679647</a></p>
+<p>Points: 14</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+
+---
+
+### 2. Aligned to Whom?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hyperbo.la/w/aligned-to-whom/">https://hyperbo.la/w/aligned-to-whom/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679643">https://news.ycombinator.com/item?id=49679643</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://hyperbo.la/w/aligned-to-whom/](https://hyperbo.la/w/aligned-to-whom/)
+
+---
+
+### 3. After Math
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/12/after-math/">https://terrytao.wordpress.com/2026/09/12/after-math/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679637">https://news.ycombinator.com/item?id=49679637</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/12/after-math/](https://terrytao.wordpress.com/2026/09/12/after-math/)
+
+---
+
+### 4. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
+Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Will the Thirlwall report change the debate about Lucy Letby?
+### 5. Dramatic insider warnings over AI fall flat with some in Silicon Valley
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.
+A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Trump's comments on a united Ireland may have targeted audience across the Atlantic
+### 6. PM's top security adviser says Europe faces hard winter to keep pressure on Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
+In rare public remarks, Jonathan Powell said now was not the time for European nations to take their "foot off the gas".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Trump says he would ‘love to see’ a united Ireland during Irish visit
+### 7. 1,400 Yemenis flee to Djibouti within 24 hours
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump said he would ‘love to see’ a united Ireland.
+Yemeni refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten their grip on the Bab al-Mandeb strait.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss)
 
 ---
 
-### 5. Houthi projectile wounds two, damages mosque in Jazan region, Saudi says
+### 8. Wildfire rages on Croatia’s Dalmatian Coast island of Brac
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Houthis claim their attack targeted a Saudi military base in Sharurah.
+Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss)
 
 ---
 
-### 6. Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb
+### 9. One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.
+Rescuers continue searching for survivors as the government scales back operations in open waters.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Norbert
+### 10. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire MEERS, Comanche, Oklahoma
+### 11. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Kurk, San Saba, Texas
+### 12. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
