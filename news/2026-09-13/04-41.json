@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-13T04:41:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+            "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+            "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 21:16:47 GMT",
+            "fetched": "2026-09-13T04:41:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+            "description": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+            "url": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 23:15:54 GMT",
+            "fetched": "2026-09-13T04:41:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+            "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 21:25:28 GMT",
+            "fetched": "2026-09-13T04:41:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
+            "description": "US President Donald Trump said he would ‘love to see’ a united Ireland.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 00:43:48 +0000",
+            "fetched": "2026-09-13T04:41:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+            "description": "The Houthis claim their attack targeted a Saudi military base in Sharurah.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 00:24:29 +0000",
+            "fetched": "2026-09-13T04:41:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+            "description": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 00:00:40 +0000",
+            "fetched": "2026-09-13T04:41:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T04:41:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T04:41:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T04:41:07+03:30"
+        }
+    ]
+}
