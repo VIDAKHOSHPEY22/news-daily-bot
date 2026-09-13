@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 01:49:22
+**Last Update:** 2026-09-14 02:48:18
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+### 1. Due to concerns about malicious applications, GPT2 will not be released (2019)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vals.ai/blogs/fable-solves-cyphral-distich">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688695">https://news.ycombinator.com/item?id=49688695</a></p>
-<p>Points: 132</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://openai.com/index/better-language-models/">https://openai.com/index/better-language-models/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689706">https://news.ycombinator.com/item?id=49689706</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.vals.ai/blogs/fable-solves-cyphral-distich](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+🔗 **Read more:** [https://openai.com/index/better-language-models/](https://openai.com/index/better-language-models/)
 
 ---
 
-### 2. Flawed Routers Flood University of Wisconsin Internet Time Server (2003)
+### 2. It's All Fun and Games Until You Give AI Your Credit Card
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pages.cs.wisc.edu/~plonka/netgear-sntp/">https://pages.cs.wisc.edu/~plonka/netgear-sntp/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688391">https://news.ycombinator.com/item?id=49688391</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/">https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689664">https://news.ycombinator.com/item?id=49689664</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://pages.cs.wisc.edu/~plonka/netgear-sntp/](https://pages.cs.wisc.edu/~plonka/netgear-sntp/)
+🔗 **Read more:** [https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/](https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/)
 
 ---
 
-### 3. Mark Zuckerberg: "Cambridge Analytica" (2017)
+### 3. The Contagion of Fear
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/TechEmails/status/2099214399840059428">https://twitter.com/TechEmails/status/2099214399840059428</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49688157">https://news.ycombinator.com/item?id=49688157</a></p>
-<p>Points: 192</p>
-<p># Comments: 74</p>
+<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689460">https://news.ycombinator.com/item?id=49689460</a></p>
+<p>Points: 20</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://twitter.com/TechEmails/status/2099214399840059428](https://twitter.com/TechEmails/status/2099214399840059428)
+🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
 
 ---
 
@@ -97,42 +97,42 @@ The US President said "negative forces" were airing concerns about "things that 
 
 ---
 
-### 7. A third person has died of measles in the US, health officials say
+### 7. Zverev defeats Shelton in four sets to win his first US Open title
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000.
+Germany&#039;s Alexander Zverev beats Ben Shelton of USA 6-3 7-6(2) ​5-7 6-2 to claim the men&#039;s singles trophy in New York.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss)
 
 ---
 
-### 8. USA defeat France to win 12th FIBA Women’s Basketball World Cup
+### 8. Could AI really kill us within a decade?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Breanna Stewart leads comeback win for the record champions despite France&#039;s early lead in the Berlin final.
+AI companies are warning that their technology could wipe out humanity.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss)
 
 ---
 
-### 9. Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border
+### 9. Barcelona beat Levante as Yamal scores twice to maintain perfect start
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.
+Barcelona have won all six games this season and sit top of La Liga with five wins from five after victory at Levante.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T02:48:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/better-language-models/\">https://openai.com/index/better-language-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689706\">https://news.ycombinator.com/item?id=49689706</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://openai.com/index/better-language-models/",
+            "published": "Sun, 13 Sep 2026 23:11:17 +0000",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "It's All Fun and Games Until You Give AI Your Credit Card",
+            "description": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/\">https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689664\">https://news.ycombinator.com/item?id=49689664</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+            "published": "Sun, 13 Sep 2026 23:05:13 +0000",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Contagion of Fear",
+            "description": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689460\">https://news.ycombinator.com/item?id=49689460</a></p>\n<p>Points: 20</p>\n<p># Comments: 6</p>",
+            "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+            "published": "Sun, 13 Sep 2026 22:38:18 +0000",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 19:14:21 GMT",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Culture shift' needed in how UK does business, PM urges",
+            "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 21:30:21 GMT",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+            "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+            "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:49:37 GMT",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zverev defeats Shelton in four sets to win his first US Open title",
+            "description": "Germany&#039;s Alexander Zverev beats Ben Shelton of USA 6-3 7-6(2) ​5-7 6-2 to claim the men&#039;s singles trophy in New York.",
+            "url": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 22:33:34 +0000",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could AI really kill us within a decade?",
+            "description": "AI companies are warning that their technology could wipe out humanity.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 22:17:15 +0000",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
+            "description": "Barcelona have won all six games this season and sit top of La Liga with five wins from five after victory at Levante.",
+            "url": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 22:10:04 +0000",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T02:48:18+03:30"
+        }
+    ]
+}
