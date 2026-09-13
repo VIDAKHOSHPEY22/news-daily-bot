@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T01:49:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+            "description": "<p>Article URL: <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">https://www.vals.ai/blogs/fable-solves-cyphral-distich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688695\">https://news.ycombinator.com/item?id=49688695</a></p>\n<p>Points: 132</p>\n<p># Comments: 30</p>",
+            "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+            "published": "Sun, 13 Sep 2026 21:06:13 +0000",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+            "description": "<p>Article URL: <a href=\"https://pages.cs.wisc.edu/~plonka/netgear-sntp/\">https://pages.cs.wisc.edu/~plonka/netgear-sntp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688391\">https://news.ycombinator.com/item?id=49688391</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+            "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+            "published": "Sun, 13 Sep 2026 20:33:18 +0000",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/TechEmails/status/2099214399840059428\">https://twitter.com/TechEmails/status/2099214399840059428</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49688157\">https://news.ycombinator.com/item?id=49688157</a></p>\n<p>Points: 192</p>\n<p># Comments: 74</p>",
+            "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+            "published": "Sun, 13 Sep 2026 20:08:45 +0000",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 19:14:21 GMT",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Culture shift' needed in how UK does business, PM urges",
+            "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 21:30:21 GMT",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+            "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+            "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:49:37 GMT",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A third person has died of measles in the US, health officials say",
+            "description": "Pennsylvania reports that a 40-year-old woman died from the disease, which was declared eliminated in the US in 2000.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 21:21:32 +0000",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
+            "description": "Breanna Stewart leads comeback win for the record champions despite France&#039;s early lead in the Berlin final.",
+            "url": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 21:12:11 +0000",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+            "description": "Western officials including ex-UK PM Boris Johnson were nearby when Russia hit a train at the Poland-Ukraine border.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 21:10:07 +0000",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T01:49:22+03:30"
+        }
+    ]
+}
