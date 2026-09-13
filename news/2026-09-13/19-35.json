@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T19:35:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Libraries Run Rust Inside Python (With PyO3)",
+            "description": "<p>Article URL: <a href=\"https://belderbos.dev/blog/how-libraries-run-rust-inside-python/\">https://belderbos.dev/blog/how-libraries-run-rust-inside-python/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49685037\">https://news.ycombinator.com/item?id=49685037</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+            "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+            "published": "Sun, 13 Sep 2026 15:24:05 +0000",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Predictive intelligence to anticipate anything.",
+            "description": "<p>Article URL: <a href=\"https://prior.chat/\">https://prior.chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684879\">https://news.ycombinator.com/item?id=49684879</a></p>\n<p>Points: 4</p>\n<p># Comments: 3</p>",
+            "url": "https://prior.chat/",
+            "published": "Sun, 13 Sep 2026 15:11:22 +0000",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+            "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment\">https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49684393\">https://news.ycombinator.com/item?id=49684393</a></p>\n<p>Points: 77</p>\n<p># Comments: 20</p>",
+            "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+            "published": "Sun, 13 Sep 2026 14:28:36 +0000",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
+            "description": "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have \"to return that money\".",
+            "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 15:40:38 GMT",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+            "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 14:53:40 GMT",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham among Great North Run finishers",
+            "description": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
+            "url": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 14:54:40 GMT",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Six killed, 130 missing after Indonesian passenger ship capsizes",
+            "description": "Six people have been killed and 130 remain missing after a passenger ship capsized in the Java Sea off Indonesia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/six-killed-130-missing-after-indonesian-passenger-ship-capsizes?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 15:50:46 +0000",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World leaders gather in New Delhi for final day of BRICS summit",
+            "description": "BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 15:40:24 +0000",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As Chavez and Maduro images disappear, is Venezuela entering a new chapter?",
+            "description": "As part of Delcy Rodriguez&#039;s &#039;Venezuela reborn&#039; campaign, murals of leaders like Hugo Chavez are being removed.",
+            "url": "https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 15:22:59 +0000",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T19:35:56+03:30"
+        }
+    ]
+}

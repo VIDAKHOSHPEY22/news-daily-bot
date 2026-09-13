@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 15:37:51
+**Last Update:** 2026-09-13 19:35:56
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Career paths to consider if I am better at supporting than creating?
+### 1. Libraries Run Rust Inside Python (With PyO3)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I have a BS/MS in computer science and somewhere around 9 years of experience, where the first half was spent working as a backend developer and the second half I've been working in product owner roles. I switched from development to product because I simply realized that I wasn't very good at implementation and system design work to be honest. I wanted to work with tech from a more overarching level, and let the experts who were much more skilled than me handle the implementation work.<p>Around 8 months ago I switched companies and am still working as a PO, but this organization I am working in is a terrible fit for me. I don't want to go too far into why I really dislike this job, but a big part of it is that the organization wants me to make technical design decisions which I am just really not good at, since the development team doesn’t have this experience themselves. This is making it completely impossible to deliver on the project I’m responsible for.<p>This has really made me think about what I should do for my next role. I fully admit that I was and still am a mediocre developer, which is why I moved into a PO role in the first place around 4 years ago. I have such a huge amount of respect for people who are great developers and architects. It's a challenging role and I can imagine it's exciting if you are creative and like to build new things. But I am just not cut out for it. I am not very creative, and I often have no clue where to even start when I need to build new things.<p>The parts I've enjoyed the most in the various roles in my career have been things like:<p>- 2nd/3rd line ticket management and troubleshooting. It's been quite fun going through logs and trying to figure out what went wrong, perhaps trying to recreate the situation in a test environment with an API client.<p>- Supporting customers. For example helping customers with installations of software. It honestly gives me a huge sense of accomplishment when I get to see a customer making use of our products, and helping them investigate why something may not be working.<p>- Being an interface between business and tech. I've always thought of myself as someone who is able to understand both business needs and technical needs quite well. Even though I'm not good at implementing software, I can understand limitations of software, read and understand existing codebases, and so on.<p>- Testing software. It's a lot of fun to test software to see if there are any issues before we go live!<p>- Just working with people in general! I really like to do whatever I can to support my team and the people that I work with.<p>I thought I'd ask for some advice to see if you guys have any recommendations for career tracks to consider, given that I am just much more comfortable supporting existing software than building new software. I like working with people. I like achieving results. I'm just not cut out for system design and building new software.<p>Honestly it might mean that I need to live with a lower salary, and that is fine with me. To be completely honest, given the fact that my current role is genuinely making me sick with severe anxiety (made a post about this a while back [1], I've learned that money isn't everything. There isn't a point to making more money if my job is literally killing me and I am losing my health. I'd much rather work with something I enjoy that isn't making me feel sick. Life is too short.<p>Thanks for reading this. I really appreciate any advice or thoughts you may have.<p>[1] https://news.ycombinator.com/item?id=49533073</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682920">https://news.ycombinator.com/item?id=49682920</a></p>
+<p>Article URL: <a href="https://belderbos.dev/blog/how-libraries-run-rust-inside-python/">https://belderbos.dev/blog/how-libraries-run-rust-inside-python/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49685037">https://news.ycombinator.com/item?id=49685037</a></p>
 <p>Points: 8</p>
-<p># Comments: 1</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49682920](https://news.ycombinator.com/item?id=49682920)
+🔗 **Read more:** [https://belderbos.dev/blog/how-libraries-run-rust-inside-python/](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
 
 ---
 
-### 2. Nvidia dismisses "circular financing", says every $1 it invests brings back $100
+### 2. Predictive intelligence to anticipate anything.
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/">https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682319">https://news.ycombinator.com/item?id=49682319</a></p>
-<p>Points: 51</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://prior.chat/">https://prior.chat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684879">https://news.ycombinator.com/item?id=49684879</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/)
+🔗 **Read more:** [https://prior.chat/](https://prior.chat/)
 
 ---
 
-### 3. Revolut confirms customer data breach through fake government requests
+### 3. Astra and Fable still hack on simple variants of alignment evals from 2025
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682087">https://news.ycombinator.com/item?id=49682087</a></p>
-<p>Points: 31</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment">https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684393">https://news.ycombinator.com/item?id=49684393</a></p>
+<p>Points: 77</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
+🔗 **Read more:** [https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
 
 ---
 
-### 4. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
+### 4. Reform confident it won't need to repay any of £72m under proposed new donor rules
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have "to return that money".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
 
 **Source:** BBC
 
@@ -72,68 +84,55 @@ It comes as the AI firm's boss has called for the technology's development to be
 
 ---
 
-### 5. Reform's £72m donations 'entirely in line with law', Jenrick says
+### 6. Andy Burnham among Great North Run finishers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government is trying to change the law on donations to UK political parties from British expats.
+This year's event sees 63,000 people take on the half marathon - including the prime minister.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. A dignified life is a ‘distant dream’ for many Iranian families amid US war
+### 7. Six killed, 130 missing after Indonesian passenger ship capsizes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.
+Six people have been killed and 130 remain missing after a passenger ship capsized in the Java Sea off Indonesia.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/six-killed-130-missing-after-indonesian-passenger-ship-capsizes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/six-killed-130-missing-after-indonesian-passenger-ship-capsizes?traffic_source=rss)
 
 ---
 
-### 8. Philippines set for historic vote in Bangsamoro after decades of conflict
+### 8. World leaders gather in New Delhi for final day of BRICS summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Philippines set for historic vote in Bangsamoro after decades of conflict
+BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/world-leaders-gather-in-new-delhi-for-final-day-of-brics-summit?traffic_source=rss)
 
 ---
 
-### 9. Fighting continues between Yemen gov’t forces, Houthis: What is the latest?
+### 9. As Chavez and Maduro images disappear, is Venezuela entering a new chapter?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.
+As part of Delcy Rodriguez&#039;s &#039;Venezuela reborn&#039; campaign, murals of leaders like Hugo Chavez are being removed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss)
 
 ---
 
