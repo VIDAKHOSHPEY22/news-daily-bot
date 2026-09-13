@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 22:21:38
+**Last Update:** 2026-09-13 22:47:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I'm being cyberattacked by Tesla, Inc
+### 1. Flock cameras used to arrest a child for playing on a swing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.youtube.com/watch?v=koclOnlde0E">https://www.youtube.com/watch?v=koclOnlde0E</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49687312">https://news.ycombinator.com/item?id=49687312</a></p>
+<p>Points: 24</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.youtube.com/watch?v=koclOnlde0E](https://www.youtube.com/watch?v=koclOnlde0E)
+
+---
+
+### 2. I'm being cyberattacked by Tesla, Inc
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://dreamstation.systems/personal/tesla.html">https://dreamstation.systems/personal/tesla.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686766">https://news.ycombinator.com/item?id=49686766</a></p>
-<p>Points: 112</p>
-<p># Comments: 24</p>
+<p>Points: 224</p>
+<p># Comments: 54</p>
 
 🔗 **Read more:** [https://dreamstation.systems/personal/tesla.html](https://dreamstation.systems/personal/tesla.html)
 
 ---
 
-### 2. Why is Google still serving dodgy ads?
+### 3. Global Shortage Has Led to Motor Oil Rationing at Costco
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads">https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686445">https://news.ycombinator.com/item?id=49686445</a></p>
-<p>Points: 73</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/">https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686697">https://news.ycombinator.com/item?id=49686697</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
-
----
-
-### 3. Romania soccer introduces black card to 'combat abusive behaviour' from parents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/">https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49686134">https://news.ycombinator.com/item?id=49686134</a></p>
-<p>Points: 38</p>
-<p># Comments: 23</p>
-
-🔗 **Read more:** [https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/](https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/)
+🔗 **Read more:** [https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/)
 
 ---
 
@@ -97,7 +97,20 @@ The US President said "negative forces" were airing concerns about "things that 
 
 ---
 
-### 7. Trump tells Zelenskyy to stop hitting Russian diesel supplies
+### 7. Syrian child killed after roadside object explodes near Damascus
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A child has been killed after an explosive object detonated when he touched it near Damascus.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss)
+
+---
+
+### 8. Trump tells Zelenskyy to stop hitting Russian diesel supplies
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The US president says Ukraine&#039;s attacks on Russian diesel infrastructure ar
 
 ---
 
-### 8. French TV programme pulled after actress speaks out on Gaza
+### 9. French TV programme pulled after actress speaks out on Gaza
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The US president says Ukraine&#039;s attacks on Russian diesel infrastructure ar
 France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss)
-
----
-
-### 9. Ukrainian drone evades Russian helicopter fire to strike oil tanker
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Ukraine has released footage showing a drone evading fire from a Russian helicopter before striking a Russian oil tanker
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/09-12-ukraine-drone-russian-tanker-sv?traffic_source=rss)
 
 ---
 

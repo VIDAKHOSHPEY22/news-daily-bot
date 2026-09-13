@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T22:47:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flock cameras used to arrest a child for playing on a swing",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=koclOnlde0E\">https://www.youtube.com/watch?v=koclOnlde0E</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49687312\">https://news.ycombinator.com/item?id=49687312</a></p>\n<p>Points: 24</p>\n<p># Comments: 5</p>",
+            "url": "https://www.youtube.com/watch?v=koclOnlde0E",
+            "published": "Sun, 13 Sep 2026 18:47:26 +0000",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm being cyberattacked by Tesla, Inc",
+            "description": "<p>Article URL: <a href=\"https://dreamstation.systems/personal/tesla.html\">https://dreamstation.systems/personal/tesla.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686766\">https://news.ycombinator.com/item?id=49686766</a></p>\n<p>Points: 224</p>\n<p># Comments: 54</p>",
+            "url": "https://dreamstation.systems/personal/tesla.html",
+            "published": "Sun, 13 Sep 2026 18:03:09 +0000",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+            "description": "<p>Article URL: <a href=\"https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/\">https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49686697\">https://news.ycombinator.com/item?id=49686697</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+            "published": "Sun, 13 Sep 2026 17:57:59 +0000",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
+            "description": "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have \"to return that money\".",
+            "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 15:40:38 GMT",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 19:14:21 GMT",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+            "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+            "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:49:37 GMT",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian child killed after roadside object explodes near Damascus",
+            "description": "A child has been killed after an explosive object detonated when he touched it near Damascus.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 18:30:29 +0000",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
+            "description": "The US president says Ukraine&#039;s attacks on Russian diesel infrastructure are contributing to global fuel shortages.",
+            "url": "https://www.aljazeera.com/economy/2026/9/13/trump-tells-zelenskyy-to-stop-hitting-russian-diesel-supplies?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 18:15:12 +0000",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "French TV programme pulled after actress speaks out on Gaza",
+            "description": "France Televisions has removed the replay of a  programme after actress Adèle Haenel denounced the Gaza genocide.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/french-tv-programme-pulled-after-actress-speaks-out-on-gaza?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 17:15:36 +0000",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T22:47:53+03:30"
+        }
+    ]
+}
