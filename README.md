@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 15:08:31
+**Last Update:** 2026-09-13 15:37:51
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia dismisses "circular financing", says every $1 it invests brings back $100
+### 1. Ask HN: Career paths to consider if I am better at supporting than creating?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I have a BS/MS in computer science and somewhere around 9 years of experience, where the first half was spent working as a backend developer and the second half I've been working in product owner roles. I switched from development to product because I simply realized that I wasn't very good at implementation and system design work to be honest. I wanted to work with tech from a more overarching level, and let the experts who were much more skilled than me handle the implementation work.<p>Around 8 months ago I switched companies and am still working as a PO, but this organization I am working in is a terrible fit for me. I don't want to go too far into why I really dislike this job, but a big part of it is that the organization wants me to make technical design decisions which I am just really not good at, since the development team doesn’t have this experience themselves. This is making it completely impossible to deliver on the project I’m responsible for.<p>This has really made me think about what I should do for my next role. I fully admit that I was and still am a mediocre developer, which is why I moved into a PO role in the first place around 4 years ago. I have such a huge amount of respect for people who are great developers and architects. It's a challenging role and I can imagine it's exciting if you are creative and like to build new things. But I am just not cut out for it. I am not very creative, and I often have no clue where to even start when I need to build new things.<p>The parts I've enjoyed the most in the various roles in my career have been things like:<p>- 2nd/3rd line ticket management and troubleshooting. It's been quite fun going through logs and trying to figure out what went wrong, perhaps trying to recreate the situation in a test environment with an API client.<p>- Supporting customers. For example helping customers with installations of software. It honestly gives me a huge sense of accomplishment when I get to see a customer making use of our products, and helping them investigate why something may not be working.<p>- Being an interface between business and tech. I've always thought of myself as someone who is able to understand both business needs and technical needs quite well. Even though I'm not good at implementing software, I can understand limitations of software, read and understand existing codebases, and so on.<p>- Testing software. It's a lot of fun to test software to see if there are any issues before we go live!<p>- Just working with people in general! I really like to do whatever I can to support my team and the people that I work with.<p>I thought I'd ask for some advice to see if you guys have any recommendations for career tracks to consider, given that I am just much more comfortable supporting existing software than building new software. I like working with people. I like achieving results. I'm just not cut out for system design and building new software.<p>Honestly it might mean that I need to live with a lower salary, and that is fine with me. To be completely honest, given the fact that my current role is genuinely making me sick with severe anxiety (made a post about this a while back [1], I've learned that money isn't everything. There isn't a point to making more money if my job is literally killing me and I am losing my health. I'd much rather work with something I enjoy that isn't making me feel sick. Life is too short.<p>Thanks for reading this. I really appreciate any advice or thoughts you may have.<p>[1] https://news.ycombinator.com/item?id=49533073</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682920">https://news.ycombinator.com/item?id=49682920</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49682920](https://news.ycombinator.com/item?id=49682920)
+
+---
+
+### 2. Nvidia dismisses "circular financing", says every $1 it invests brings back $100
 
 **Source:** Hacker News
 
@@ -19,14 +36,14 @@
 **Description:**
 <p>Article URL: <a href="https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/">https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682319">https://news.ycombinator.com/item?id=49682319</a></p>
-<p>Points: 22</p>
-<p># Comments: 9</p>
+<p>Points: 51</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/)
 
 ---
 
-### 2. Revolut confirms customer data breach through fake government requests
+### 3. Revolut confirms customer data breach through fake government requests
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49682087">https://news.ycombinator.com/item?id=49682087</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
+<p>Points: 31</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
-
----
-
-### 3. Homebrew 7.0.0
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">https://brew.sh/2026/09/13/homebrew-7.0.0/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49681545">https://news.ycombinator.com/item?id=49681545</a></p>
-<p>Points: 58</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://brew.sh/2026/09/13/homebrew-7.0.0/](https://brew.sh/2026/09/13/homebrew-7.0.0/)
 
 ---
 
@@ -97,7 +98,33 @@ High construction costs and the Iran war are threatening the key manifesto pledg
 
 ---
 
-### 7. Fighting continues between Yemen gov’t forces, Houthis: What is the latest?
+### 7. A dignified life is a ‘distant dream’ for many Iranian families amid US war
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+With constant degredation and no real prospects of improvement in the foreseeable future, Iranians are losing hope.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss)
+
+---
+
+### 8. Philippines set for historic vote in Bangsamoro after decades of conflict
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Philippines set for historic vote in Bangsamoro after decades of conflict
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/philippines-set-for-historic-vote-in-bangsamoro-after-decades-of-conflict?traffic_source=rss)
+
+---
+
+### 9. Fighting continues between Yemen gov’t forces, Houthis: What is the latest?
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ High construction costs and the Iran war are threatening the key manifesto pledg
 Government forces and Saudi Arabia carry out air attacks to stop Houthis&#039; advance as thousands displaced by conflict.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss)
-
----
-
-### 8. Israeli attack on Gaza kills two Palestinians
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli strikes on Palestinian territory persist despite a &#039;ceasefire&#039; brokered by the United States.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss)
-
----
-
-### 9. A kingdom within a republic: Inside Uganda’s Buganda
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss](https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss)
 
 ---
 
