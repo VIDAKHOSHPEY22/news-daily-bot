@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 19:35:56
+**Last Update:** 2026-09-13 19:58:43
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Libraries Run Rust Inside Python (With PyO3)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://belderbos.dev/blog/how-libraries-run-rust-inside-python/">https://belderbos.dev/blog/how-libraries-run-rust-inside-python/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49685037">https://news.ycombinator.com/item?id=49685037</a></p>
-<p>Points: 8</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://belderbos.dev/blog/how-libraries-run-rust-inside-python/](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
-
----
-
-### 2. Predictive intelligence to anticipate anything.
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://prior.chat/">https://prior.chat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684879">https://news.ycombinator.com/item?id=49684879</a></p>
-<p>Points: 4</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://prior.chat/](https://prior.chat/)
-
----
-
-### 3. Astra and Fable still hack on simple variants of alignment evals from 2025
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment">https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49684393">https://news.ycombinator.com/item?id=49684393</a></p>
-<p>Points: 77</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
-
----
-
-### 4. Reform confident it won't need to repay any of £72m under proposed new donor rules
+### 1. Reform confident it won't need to repay any of £72m under proposed new donor rules
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Housing Secretary Angela Rayner says rule changes on donations from UK expats wo
 
 ---
 
-### 5. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
+### 2. AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
 
 **Source:** BBC
 
@@ -84,20 +36,33 @@ It comes as the AI firm's boss has called for the technology's development to be
 
 ---
 
-### 6. Andy Burnham among Great North Run finishers
+### 3. Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-This year's event sees 63,000 people take on the half marathon - including the prime minister.
+The former UK PM said "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Six killed, 130 missing after Indonesian passenger ship capsizes
+### 4. F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The 20-year-old Italian has extended his championship lead to 81 points after 14 rounds.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/f1-leader-antonelli-wins-spanish-grand-prix-as-unlucky-norris-misses-out?traffic_source=rss)
+
+---
+
+### 5. Six killed, 130 missing after Indonesian passenger ship capsizes
 
 **Source:** Al Jazeera
 
@@ -110,7 +75,7 @@ Six people have been killed and 130 remain missing after a passenger ship capsiz
 
 ---
 
-### 8. World leaders gather in New Delhi for final day of BRICS summit
+### 6. World leaders gather in New Delhi for final day of BRICS summit
 
 **Source:** Al Jazeera
 
@@ -123,20 +88,7 @@ BRICS leaders gathered in New Delhi for the final day of the summit amid divisio
 
 ---
 
-### 9. As Chavez and Maduro images disappear, is Venezuela entering a new chapter?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-As part of Delcy Rodriguez&#039;s &#039;Venezuela reborn&#039; campaign, murals of leaders like Hugo Chavez are being removed.
-
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/13/as-chavez-and-maduro-images-disappear-is-venezuela-entering-a-new-chapter?traffic_source=rss)
-
----
-
-### 10. Tropical Storm Norbert
+### 7. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire MEERS, Comanche, Oklahoma
+### 8. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Kurk, San Saba, Texas
+### 9. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
