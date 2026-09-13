@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-13T09:50:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A succession crisis that tore England apart",
+            "description": "<p>Article URL: <a href=\"https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart\">https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679647\">https://news.ycombinator.com/item?id=49679647</a></p>\n<p>Points: 16</p>\n<p># Comments: 9</p>",
+            "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+            "published": "Sun, 13 Sep 2026 03:18:29 +0000",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Aligned to Whom?",
+            "description": "<p>Article URL: <a href=\"https://hyperbo.la/w/aligned-to-whom/\">https://hyperbo.la/w/aligned-to-whom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679643\">https://news.ycombinator.com/item?id=49679643</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://hyperbo.la/w/aligned-to-whom/",
+            "published": "Sun, 13 Sep 2026 03:17:18 +0000",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "After Math",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/12/after-math/\">https://terrytao.wordpress.com/2026/09/12/after-math/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49679637\">https://news.ycombinator.com/item?id=49679637</a></p>\n<p>Points: 12</p>\n<p># Comments: 6</p>",
+            "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+            "published": "Sun, 13 Sep 2026 03:16:41 +0000",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+            "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 06:04:06 GMT",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+            "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+            "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 17:28:53 GMT",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM's top security adviser says Europe faces hard winter to keep pressure on Putin",
+            "description": "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\".",
+            "url": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 05:03:12 GMT",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "1,400 Yemenis flee to Djibouti within 24 hours",
+            "description": "Yemeni refugees arrive in Obock, Djibouti, within 24 hours as Houthis tighten their grip on the Bab al-Mandeb strait.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 04:40:18 +0000",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
+            "description": "Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 04:22:41 +0000",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says",
+            "description": "Rescuers continue searching for survivors as the government scales back operations in open waters.",
+            "url": "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 03:41:14 +0000",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-13T09:50:08+03:30"
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-13 09:25:19
+**Last Update:** 2026-09-13 09:50:08
 
 **Total News:** 12
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart">https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679647">https://news.ycombinator.com/item?id=49679647</a></p>
-<p>Points: 14</p>
-<p># Comments: 7</p>
+<p>Points: 16</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
 
@@ -35,7 +35,7 @@
 **Description:**
 <p>Article URL: <a href="https://hyperbo.la/w/aligned-to-whom/">https://hyperbo.la/w/aligned-to-whom/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679643">https://news.ycombinator.com/item?id=49679643</a></p>
-<p>Points: 4</p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://hyperbo.la/w/aligned-to-whom/](https://hyperbo.la/w/aligned-to-whom/)
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/12/after-math/">https://terrytao.wordpress.com/2026/09/12/after-math/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49679637">https://news.ycombinator.com/item?id=49679637</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/12/after-math/](https://terrytao.wordpress.com/2026/09/12/after-math/)
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.
+It comes as the AI firm's boss has called for the technology's development to be slowed down, citing "serious" risks.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
 
