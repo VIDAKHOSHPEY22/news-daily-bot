@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T09:59:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Who gets to define the rules for AI?",
+            "description": "<p>Article URL: <a href=\"https://cohere.com/blog/who-gets-to-define-the-rules-for-ai\">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49692118\">https://news.ycombinator.com/item?id=49692118</a></p>\n<p>Points: 16</p>\n<p># Comments: 11</p>",
+            "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+            "published": "Mon, 14 Sep 2026 04:49:51 +0000",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
+            "description": "<p>Article URL: <a href=\"https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html\">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49691584\">https://news.ycombinator.com/item?id=49691584</a></p>\n<p>Points: 29</p>\n<p># Comments: 9</p>",
+            "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
+            "published": "Mon, 14 Sep 2026 03:26:51 +0000",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+            "description": "<p><a href=\"https://archive.ph/8NmSg\" rel=\"nofollow\">https://archive.ph/8NmSg</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49691343\">https://news.ycombinator.com/item?id=49691343</a></p>\n<p>Points: 63</p>\n<p># Comments: 64</p>",
+            "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+            "published": "Mon, 14 Sep 2026 02:50:40 +0000",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MPs and Lords call for new law to address AI threat to human rights",
+            "description": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
+            "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 05:49:32 GMT",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 03:38:13 GMT",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+            "description": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
+            "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 01:12:20 GMT",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Animated map shows spread of illegal Israeli settlements across Palestine",
+            "description": "Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 05:56:36 +0000",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesia intensifies search for 129 people missing after ship capsizes",
+            "description": "Officials say more than 600 rescuers battle stormy seas in search for missing people.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 05:51:35 +0000",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protests break out across Syria over fuel price increases",
+            "description": "Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 04:50:25 +0000",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T09:59:08+03:30"
+        }
+    ]
+}
