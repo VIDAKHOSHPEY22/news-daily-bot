@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T22:43:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "iOS 27, iPadOS 27, and macOS 27",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701004\">https://news.ycombinator.com/item?id=49701004</a></p>\n<p>Points: 164</p>\n<p># Comments: 147</p>",
+            "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+            "published": "Mon, 14 Sep 2026 17:50:29 +0000",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Steam Frame starts at $1059",
+            "description": "<p>Article URL: <a href=\"https://store.steampowered.com/hardware/steamframe\">https://store.steampowered.com/hardware/steamframe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700661\">https://news.ycombinator.com/item?id=49700661</a></p>\n<p>Points: 190</p>\n<p># Comments: 96</p>",
+            "url": "https://store.steampowered.com/hardware/steamframe",
+            "published": "Mon, 14 Sep 2026 17:27:55 +0000",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pion, an agent designed to run any company autonomously",
+            "description": "<p>Article URL: <a href=\"https://andonlabs.com/blog/why-we-built-pion\">https://andonlabs.com/blog/why-we-built-pion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700477\">https://news.ycombinator.com/item?id=49700477</a></p>\n<p>Points: 117</p>\n<p># Comments: 117</p>",
+            "url": "https://andonlabs.com/blog/why-we-built-pion",
+            "published": "Mon, 14 Sep 2026 17:16:06 +0000",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits drugging and raping wife for 20 years",
+            "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 16:54:26 GMT",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham cancels engagements after death of his father",
+            "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+            "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 18:53:38 GMT",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage says £72m donations are compliant 'with the law today'",
+            "description": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
+            "url": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 17:50:29 GMT",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
+            "description": "Djibouti humanitarian situation worsens as Yemenis seek refuge",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 18:46:25 +0000",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+            "description": "NATO chief Rutte insists Western allies will not be intimidated by Russian attacks meant to &#039;scare&#039; them off.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 18:40:23 +0000",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+            "description": "Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 18:02:44 +0000",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T22:43:56+03:30"
+        }
+    ]
+}

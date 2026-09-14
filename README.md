@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 22:13:58
+**Last Update:** 2026-09-14 22:43:56
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Iranian banks' SSL certificates are being revoked due to OFAC sanctions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/">https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49701104">https://news.ycombinator.com/item?id=49701104</a></p>
-<p>Points: 23</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/](https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/)
-
----
-
-### 2. iOS 27, iPadOS 27, and macOS 27
+### 1. iOS 27, iPadOS 27, and macOS 27
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49701004">https://news.ycombinator.com/item?id=49701004</a></p>
-<p>Points: 124</p>
-<p># Comments: 98</p>
+<p>Points: 164</p>
+<p># Comments: 147</p>
 
 🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
 
 ---
 
-### 3. Steam Frame starts at $1059
+### 2. Steam Frame starts at $1059
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://store.steampowered.com/hardware/steamframe">https://store.steampowered.com/hardware/steamframe</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49700661">https://news.ycombinator.com/item?id=49700661</a></p>
-<p>Points: 127</p>
-<p># Comments: 59</p>
+<p>Points: 190</p>
+<p># Comments: 96</p>
 
 🔗 **Read more:** [https://store.steampowered.com/hardware/steamframe](https://store.steampowered.com/hardware/steamframe)
+
+---
+
+### 3. Pion, an agent designed to run any company autonomously
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://andonlabs.com/blog/why-we-built-pion">https://andonlabs.com/blog/why-we-built-pion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49700477">https://news.ycombinator.com/item?id=49700477</a></p>
+<p>Points: 117</p>
+<p># Comments: 117</p>
+
+🔗 **Read more:** [https://andonlabs.com/blog/why-we-built-pion](https://andonlabs.com/blog/why-we-built-pion)
 
 ---
 
@@ -97,7 +97,33 @@ Ministers are seeking to put a £100,000 annual cap on donations from British ex
 
 ---
 
-### 7. Jerusalem Daily: A new report on the erosion of Palestinian life
+### 7. Djibouti humanitarian situation worsens as Yemenis seek refuge
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Djibouti humanitarian situation worsens as Yemenis seek refuge
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/djibouti-humanitarian-situation-worsens-as-yemenis-seek-refuge?traffic_source=rss)
+
+---
+
+### 8. NATO pledges increased Ukraine support as Russia strikes near border
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+NATO chief Rutte insists Western allies will not be intimidated by Russian attacks meant to &#039;scare&#039; them off.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss)
+
+---
+
+### 9. Jerusalem Daily: A new report on the erosion of Palestinian life
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Ministers are seeking to put a £100,000 annual cap on donations from British ex
 Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss)
-
----
-
-### 8. India to supply Nepal electricity after floods wrecked hydropower projects
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-India to provide Nepal with 654 megawatts of electricity daily to meet urgent needs after devastating glacial floods.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss)
-
----
-
-### 9. Carney pitches Canada to global investors amid US trade war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hundreds of investors overseeing nearly $120 trillion in assets will gather in Toronto for the Canada Investment Summit.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss)
 
 ---
 
