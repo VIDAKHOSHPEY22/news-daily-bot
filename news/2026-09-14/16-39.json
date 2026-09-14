@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T16:39:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+            "description": "<p>Article URL: <a href=\"https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695876\">https://news.ycombinator.com/item?id=49695876</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+            "published": "Mon, 14 Sep 2026 12:40:57 +0000",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+            "description": "<p>Article URL: <a href=\"https://xcancel.com/twitter\">https://xcancel.com/twitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695459\">https://news.ycombinator.com/item?id=49695459</a></p>\n<p>Points: 93</p>\n<p># Comments: 46</p>",
+            "url": "https://xcancel.com/twitter",
+            "published": "Mon, 14 Sep 2026 12:05:52 +0000",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+            "description": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/\">https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695409\">https://news.ycombinator.com/item?id=49695409</a></p>\n<p>Points: 43</p>\n<p># Comments: 13</p>",
+            "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+            "published": "Mon, 14 Sep 2026 12:01:32 +0000",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham cancels engagements after death of his father",
+            "description": "The PM is understood to have cancelled engagements for Monday and Tuesday following the death of his father Roy.",
+            "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 12:51:52 GMT",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What you need to know about the latest donations to Reform UK",
+            "description": "Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations.",
+            "url": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 11:07:25 GMT",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
+            "description": "The leaders of Plaid Cymru, SNP and Sinn Fein say the UK government should prepare for constitutional change.",
+            "url": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 10:59:31 GMT",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why the Houthi advance towards Yemen’s Marib, Taiz matters",
+            "description": "Marib is home to Yemen&#039;s oil sector. Whoever controls it secures economic gains. Taiz&#039;s location makes it critical.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 12:09:02 +0000",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
+            "description": "Saudi Arabia asked for the meeting to be postponed, but Tehran says it will continue to seek a regionally backed bill.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 11:50:44 +0000",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tom Aspinall vacates UFC heavyweight title due to eye injury",
+            "description": "Despite vacating the belt, Aspinall stresses that he is not retiring and remains determined to compete again.",
+            "url": "https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 11:11:14 +0000",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T16:39:43+03:30"
+        }
+    ]
+}

@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 09:59:08
+**Last Update:** 2026-09-14 16:39:43
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Who gets to define the rules for AI?
+### 1. What a time to be alive – rouge AI agents attack RubyGems.org
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cohere.com/blog/who-gets-to-define-the-rules-for-ai">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49692118">https://news.ycombinator.com/item?id=49692118</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695876">https://news.ycombinator.com/item?id=49695876</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://cohere.com/blog/who-gets-to-define-the-rules-for-ai](https://cohere.com/blog/who-gets-to-define-the-rules-for-ai)
+🔗 **Read more:** [https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)
 
 ---
 
-### 2. Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping
+### 2. XCancel suspended "due to a new development in the ongoing legal proceedings"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html">https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691584">https://news.ycombinator.com/item?id=49691584</a></p>
-<p>Points: 29</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://xcancel.com/twitter">https://xcancel.com/twitter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695459">https://news.ycombinator.com/item?id=49695459</a></p>
+<p>Points: 93</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html](https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html)
+🔗 **Read more:** [https://xcancel.com/twitter](https://xcancel.com/twitter)
 
 ---
 
-### 3. Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout
+### 3. Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://archive.ph/8NmSg" rel="nofollow">https://archive.ph/8NmSg</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49691343">https://news.ycombinator.com/item?id=49691343</a></p>
-<p>Points: 63</p>
-<p># Comments: 64</p>
+<p>Article URL: <a href="https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/">https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695409">https://news.ycombinator.com/item?id=49695409</a></p>
+<p>Points: 43</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/](https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/)
+🔗 **Read more:** [https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)
 
 ---
 
-### 4. MPs and Lords call for new law to address AI threat to human rights
+### 4. Burnham cancels engagements after death of his father
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
+The PM is understood to have cancelled engagements for Monday and Tuesday following the death of his father Roy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+### 5. What you need to know about the latest donations to Reform UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
+Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
+### 6. Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.
+The leaders of Plaid Cymru, SNP and Sinn Fein say the UK government should prepare for constitutional change.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Animated map shows spread of illegal Israeli settlements across Palestine
+### 7. Why the Houthi advance towards Yemen’s Marib, Taiz matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.
+Marib is home to Yemen&#039;s oil sector. Whoever controls it secures economic gains. Taiz&#039;s location makes it critical.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss)
 
 ---
 
-### 8. Indonesia intensifies search for 129 people missing after ship capsizes
+### 8. Temporary Hormuz solution deferred as Iran-Arab summit falls through
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials say more than 600 rescuers battle stormy seas in search for missing people.
+Saudi Arabia asked for the meeting to be postponed, but Tehran says it will continue to seek a regionally backed bill.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss)
 
 ---
 
-### 9. Protests break out across Syria over fuel price increases
+### 9. Tom Aspinall vacates UFC heavyweight title due to eye injury
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.
+Despite vacating the belt, Aspinall stresses that he is not retiring and remains determined to compete again.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss)
 
 ---
 
