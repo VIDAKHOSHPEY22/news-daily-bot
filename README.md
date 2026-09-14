@@ -1,29 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 02:05:52
+**Last Update:** 2026-09-15 02:33:44
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tell HN: iOS 27 does not allow Apple Intelligence to be disabled
+### 1. Charts built for Chat
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I'm surprised that this didn't get more attention during the Beta period.<p>iOS 26 had a toggle you could select to disable all Apple Intelligence features.<p>That toggle was removed for iOS 27. Every AI feature has to be turned off individually: https://archive.ph/AE72I<p>There is a way of turning it off through Content Restrictions in Screen Time, but one Redditor reported that doing this disables CarPlay for some reason.<p>This is pretty disappointing.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704226">https://news.ycombinator.com/item?id=49704226</a></p>
-<p>Points: 21</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://dbtcharts.com/blog/charts-built-for-chat/">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704246">https://news.ycombinator.com/item?id=49704246</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49704226](https://news.ycombinator.com/item?id=49704226)
+🔗 **Read more:** [https://dbtcharts.com/blog/charts-built-for-chat/](https://dbtcharts.com/blog/charts-built-for-chat/)
 
 ---
 
@@ -36,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704008">https://news.ycombinator.com/item?id=49704008</a></p>
-<p>Points: 117</p>
-<p># Comments: 90</p>
+<p>Points: 130</p>
+<p># Comments: 124</p>
 
 🔗 **Read more:** [https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
 
@@ -52,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49703003">https://news.ycombinator.com/item?id=49703003</a></p>
-<p>Points: 68</p>
-<p># Comments: 86</p>
+<p>Points: 74</p>
+<p># Comments: 92</p>
 
 🔗 **Read more:** [https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)
 
