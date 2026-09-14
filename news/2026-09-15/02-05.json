@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T02:05:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tell HN: iOS 27 does not allow Apple Intelligence to be disabled",
+            "description": "<p>I'm surprised that this didn't get more attention during the Beta period.<p>iOS 26 had a toggle you could select to disable all Apple Intelligence features.<p>That toggle was removed for iOS 27. Every AI feature has to be turned off individually: https://archive.ph/AE72I<p>There is a way of turning it off through Content Restrictions in Screen Time, but one Redditor reported that doing this disables CarPlay for some reason.<p>This is pretty disappointing.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704226\">https://news.ycombinator.com/item?id=49704226</a></p>\n<p>Points: 21</p>\n<p># Comments: 0</p>",
+            "url": "https://news.ycombinator.com/item?id=49704226",
+            "published": "Mon, 14 Sep 2026 21:21:58 +0000",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+            "description": "<p>Article URL: <a href=\"https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html\">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704008\">https://news.ycombinator.com/item?id=49704008</a></p>\n<p>Points: 117</p>\n<p># Comments: 90</p>",
+            "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+            "published": "Mon, 14 Sep 2026 21:05:22 +0000",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+            "description": "<p>Article URL: <a href=\"https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review\">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49703003\">https://news.ycombinator.com/item?id=49703003</a></p>\n<p>Points: 68</p>\n<p># Comments: 86</p>",
+            "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+            "published": "Mon, 14 Sep 2026 19:56:20 +0000",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits drugging and raping wife over 20 years",
+            "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 16:54:26 GMT",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+            "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 22:10:10 GMT",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham cancels engagements after death of his father",
+            "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+            "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 18:53:38 GMT",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Landowners in Texas ask court to stop Trump border wall",
+            "description": "Indigenous groups, environmentalists and locals oppose the wall; Big Bend sees about 1 percent of border arrests.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/landowners-in-texas-ask-court-to-stop-trump-border-wall?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 21:44:03 +0000",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli attack targets Gaza displacement camp",
+            "description": "Israeli attack targets Gaza displacement camp",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 21:37:04 +0000",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US repeals rules limiting greenhouse gas emissions by power plants",
+            "description": "The Trump administration says it could save power plants more than $300bn and &#039;unleash&#039; American energy.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/us-repeals-rules-limiting-greenhouse-gas-emissions-by-power-plants?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 21:36:09 +0000",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T02:05:52+03:30"
+        }
+    ]
+}
