@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 16:39:43
+**Last Update:** 2026-09-14 17:21:44
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. What a time to be alive – rouge AI agents attack RubyGems.org
+### 1. Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/">https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49696313">https://news.ycombinator.com/item?id=49696313</a></p>
+<p>Points: 18</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/](https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/)
+
+---
+
+### 2. What a time to be alive – rouge AI agents attack RubyGems.org
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695876">https://news.ycombinator.com/item?id=49695876</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Points: 70</p>
+<p># Comments: 81</p>
 
 🔗 **Read more:** [https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)
 
 ---
 
-### 2. XCancel suspended "due to a new development in the ongoing legal proceedings"
+### 3. Texas judge rules TikTok misled users on child safety feature
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xcancel.com/twitter">https://xcancel.com/twitter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695459">https://news.ycombinator.com/item?id=49695459</a></p>
-<p>Points: 93</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/">https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695829">https://news.ycombinator.com/item?id=49695829</a></p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://xcancel.com/twitter](https://xcancel.com/twitter)
-
----
-
-### 3. Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/">https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695409">https://news.ycombinator.com/item?id=49695409</a></p>
-<p>Points: 43</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)
+🔗 **Read more:** [https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The PM is understood to have cancelled engagements for Monday and Tuesday following the death of his father Roy.
+Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ Chief political correspondent Henry Zeffman explains who's behind Reform UK's £
 
 ---
 
-### 6. Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say
+### 6. Member of UK armed forces dies in road traffic incident in Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The leaders of Plaid Cymru, SNP and Sinn Fein say the UK government should prepare for constitutional change.
+The incident is not the result of hostile action, the BBC understands.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why the Houthi advance towards Yemen’s Marib, Taiz matters
+### 7. ‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Marib is home to Yemen&#039;s oil sector. Whoever controls it secures economic gains. Taiz&#039;s location makes it critical.
+Automated AI drones are just one component of an ultimate chain of destruction both sides are building.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/why-the-houthi-advance-towards-yemens-marib-taiz-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss)
 
 ---
 
-### 8. Temporary Hormuz solution deferred as Iran-Arab summit falls through
+### 8. Why Saudi Arabia’s East-West pipeline matters for global oil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia asked for the meeting to be postponed, but Tehran says it will continue to seek a regionally backed bill.
+The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss)
 
 ---
 
-### 9. Tom Aspinall vacates UFC heavyweight title due to eye injury
+### 9. Israel working to eliminate Palestinian presence from West Bank, NGO warns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Despite vacating the belt, Aspinall stresses that he is not retiring and remains determined to compete again.
+Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss)
 
 ---
 

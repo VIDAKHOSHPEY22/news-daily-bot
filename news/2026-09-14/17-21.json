@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T17:21:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge",
+            "description": "<p>Article URL: <a href=\"https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/\">https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696313\">https://news.ycombinator.com/item?id=49696313</a></p>\n<p>Points: 18</p>\n<p># Comments: 10</p>",
+            "url": "https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/",
+            "published": "Mon, 14 Sep 2026 13:15:05 +0000",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+            "description": "<p>Article URL: <a href=\"https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695876\">https://news.ycombinator.com/item?id=49695876</a></p>\n<p>Points: 70</p>\n<p># Comments: 81</p>",
+            "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+            "published": "Mon, 14 Sep 2026 12:40:57 +0000",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Texas judge rules TikTok misled users on child safety feature",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/\">https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695829\">https://news.ycombinator.com/item?id=49695829</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p>",
+            "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+            "published": "Mon, 14 Sep 2026 12:37:42 +0000",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham cancels engagements after death of his father",
+            "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+            "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 13:32:21 GMT",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What you need to know about the latest donations to Reform UK",
+            "description": "Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations.",
+            "url": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 11:07:25 GMT",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
+            "description": "The incident is not the result of hostile action, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 13:50:01 GMT",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare",
+            "description": "Automated AI drones are just one component of an ultimate chain of destruction both sides are building.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 13:20:50 +0000",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Saudi Arabia’s East-West pipeline matters for global oil",
+            "description": "The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 13:15:14 +0000",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
+            "description": "Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 12:58:12 +0000",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T17:21:44+03:30"
+        }
+    ]
+}
