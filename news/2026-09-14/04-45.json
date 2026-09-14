@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T04:45:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Open-Source AI and Open Models Reading List",
+            "description": "<p>Article URL: <a href=\"https://www.interconnects.ai/p/open-source-ai-reading-list\">https://www.interconnects.ai/p/open-source-ai-reading-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690260\">https://news.ycombinator.com/item?id=49690260</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+            "published": "Mon, 14 Sep 2026 00:22:51 +0000",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Coming War on General Computation (2011)",
+            "description": "<p>Article URL: <a href=\"https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation\">https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690051\">https://news.ycombinator.com/item?id=49690051</a></p>\n<p>Points: 31</p>\n<p># Comments: 4</p>",
+            "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+            "published": "Sun, 13 Sep 2026 23:54:55 +0000",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The contagion of fear",
+            "description": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689460\">https://news.ycombinator.com/item?id=49689460</a></p>\n<p>Points: 122</p>\n<p># Comments: 87</p>",
+            "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+            "published": "Sun, 13 Sep 2026 22:38:18 +0000",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 19:14:21 GMT",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Culture shift' needed in how UK does business, PM urges",
+            "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 21:30:21 GMT",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+            "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+            "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:49:37 GMT",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protests erupt across Syria over sharp fuel price hikes",
+            "description": "Protests have erupted in Syria after the government raised fuel prices.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 01:08:01 +0000",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Heavy rain falls over the Kaaba in Mecca",
+            "description": "Heavy rain and thunderstorms hit Mecca creating dramatic scenes as worshippers prayed at the Grand Mosque.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/aje-onl-nf_heavy-rain-falls-over-the-kaaba-in-mecca-130926?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 01:02:45 +0000",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
+            "description": "Vandals spray red paint on Charlie Kirk statue days after its unveiling to mark one year since his death.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 00:37:12 +0000",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T04:45:18+03:30"
+        }
+    ]
+}
