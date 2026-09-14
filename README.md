@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 17:21:44
+**Last Update:** 2026-09-14 22:13:58
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge
+### 1. Iranian banks' SSL certificates are being revoked due to OFAC sanctions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/">https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49696313">https://news.ycombinator.com/item?id=49696313</a></p>
-<p>Points: 18</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/">https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49701104">https://news.ycombinator.com/item?id=49701104</a></p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/](https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/)
+🔗 **Read more:** [https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/](https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/)
 
 ---
 
-### 2. What a time to be alive – rouge AI agents attack RubyGems.org
+### 2. iOS 27, iPadOS 27, and macOS 27
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695876">https://news.ycombinator.com/item?id=49695876</a></p>
-<p>Points: 70</p>
-<p># Comments: 81</p>
+<p>Article URL: <a href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49701004">https://news.ycombinator.com/item?id=49701004</a></p>
+<p>Points: 124</p>
+<p># Comments: 98</p>
 
-🔗 **Read more:** [https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/)
+🔗 **Read more:** [https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
 
 ---
 
-### 3. Texas judge rules TikTok misled users on child safety feature
+### 3. Steam Frame starts at $1059
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/">https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49695829">https://news.ycombinator.com/item?id=49695829</a></p>
-<p>Points: 31</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://store.steampowered.com/hardware/steamframe">https://store.steampowered.com/hardware/steamframe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49700661">https://news.ycombinator.com/item?id=49700661</a></p>
+<p>Points: 127</p>
+<p># Comments: 59</p>
 
-🔗 **Read more:** [https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/](https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/)
+🔗 **Read more:** [https://store.steampowered.com/hardware/steamframe](https://store.steampowered.com/hardware/steamframe)
 
 ---
 
-### 4. Burnham cancels engagements after death of his father
+### 4. Man admits drugging and raping wife for 20 years
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham cancels engagements after death of his father
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Burnham has previously said his father did not know he had become prime minister
 
 ---
 
-### 5. What you need to know about the latest donations to Reform UK
+### 6. Farage says £72m donations are compliant 'with the law today'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations.
+Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Member of UK armed forces dies in road traffic incident in Ukraine
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The incident is not the result of hostile action, the BBC understands.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare
+### 7. Jerusalem Daily: A new report on the erosion of Palestinian life
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Automated AI drones are just one component of an ultimate chain of destruction both sides are building.
+Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss)
 
 ---
 
-### 8. Why Saudi Arabia’s East-West pipeline matters for global oil
+### 8. India to supply Nepal electricity after floods wrecked hydropower projects
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 1,200km (745-mile) pipeline has been temporarily closed, affecting up to 5 percent of global oil supply.
+India to provide Nepal with 654 megawatts of electricity daily to meet urgent needs after devastating glacial floods.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/why-saudi-arabias-east-west-pipeline-matters-for-global-oil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss)
 
 ---
 
-### 9. Israel working to eliminate Palestinian presence from West Bank, NGO warns
+### 9. Carney pitches Canada to global investors amid US trade war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.
+Hundreds of investors overseeing nearly $120 trillion in assets will gather in Toronto for the Canada Investment Summit.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss)
 
 ---
 

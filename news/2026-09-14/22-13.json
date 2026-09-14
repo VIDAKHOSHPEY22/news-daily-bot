@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T22:13:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Iranian banks' SSL certificates are being revoked due to OFAC sanctions",
+            "description": "<p>Article URL: <a href=\"https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/\">https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701104\">https://news.ycombinator.com/item?id=49701104</a></p>\n<p>Points: 23</p>\n<p># Comments: 6</p>",
+            "url": "https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/",
+            "published": "Mon, 14 Sep 2026 17:58:00 +0000",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "iOS 27, iPadOS 27, and macOS 27",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701004\">https://news.ycombinator.com/item?id=49701004</a></p>\n<p>Points: 124</p>\n<p># Comments: 98</p>",
+            "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+            "published": "Mon, 14 Sep 2026 17:50:29 +0000",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Steam Frame starts at $1059",
+            "description": "<p>Article URL: <a href=\"https://store.steampowered.com/hardware/steamframe\">https://store.steampowered.com/hardware/steamframe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700661\">https://news.ycombinator.com/item?id=49700661</a></p>\n<p>Points: 127</p>\n<p># Comments: 59</p>",
+            "url": "https://store.steampowered.com/hardware/steamframe",
+            "published": "Mon, 14 Sep 2026 17:27:55 +0000",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits drugging and raping wife for 20 years",
+            "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 16:54:26 GMT",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham cancels engagements after death of his father",
+            "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+            "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 14:24:10 GMT",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Farage says £72m donations are compliant 'with the law today'",
+            "description": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
+            "url": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 17:50:29 GMT",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+            "description": "Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 18:02:44 +0000",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India to supply Nepal electricity after floods wrecked hydropower projects",
+            "description": "India to provide Nepal with 654 megawatts of electricity daily to meet urgent needs after devastating glacial floods.",
+            "url": "https://www.aljazeera.com/news/2026/9/14/india-to-supply-nepal-electricity-after-floods-wrecked-hydropower-projects?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 17:52:33 +0000",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Carney pitches Canada to global investors amid US trade war",
+            "description": "Hundreds of investors overseeing nearly $120 trillion in assets will gather in Toronto for the Canada Investment Summit.",
+            "url": "https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 17:42:33 +0000",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T22:13:58+03:30"
+        }
+    ]
+}
