@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 04:45:18
+**Last Update:** 2026-09-14 09:32:22
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Open-Source AI and Open Models Reading List
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.interconnects.ai/p/open-source-ai-reading-list">https://www.interconnects.ai/p/open-source-ai-reading-list</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690260">https://news.ycombinator.com/item?id=49690260</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.interconnects.ai/p/open-source-ai-reading-list](https://www.interconnects.ai/p/open-source-ai-reading-list)
-
----
-
-### 2. The Coming War on General Computation (2011)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation">https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690051">https://news.ycombinator.com/item?id=49690051</a></p>
-<p>Points: 31</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
-
----
-
-### 3. The contagion of fear
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689460">https://news.ycombinator.com/item?id=49689460</a></p>
-<p>Points: 122</p>
-<p># Comments: 87</p>
-
-🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
-
----
-
-### 4. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+### 1. MPs and Lords call for new law to address AI threat to human rights
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The former UK PM said "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
+Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 2. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The former UK PM said: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Culture shift' needed in how UK does business, PM urges
+### 3. Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.
+No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Trump downplays warnings of AI risks as he cites rivalry with China
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The US president said "negative forces" were airing concerns about "things that won't happen".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Protests erupt across Syria over sharp fuel price hikes
+### 4. Animated map shows spread of illegal Israeli settlements across Palestine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protests have erupted in Syria after the government raised fuel prices.
+Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/14-09-sv-syria-protest-fuel-hikes-sy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss)
 
 ---
 
-### 8. Heavy rain falls over the Kaaba in Mecca
+### 5. Indonesia intensifies search for 129 people missing after ship capsizes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy rain and thunderstorms hit Mecca creating dramatic scenes as worshippers prayed at the Grand Mosque.
+Officials say more than 600 rescuers battle stormy seas in search for missing people.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/aje-onl-nf_heavy-rain-falls-over-the-kaaba-in-mecca-130926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/aje-onl-nf_heavy-rain-falls-over-the-kaaba-in-mecca-130926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss)
 
 ---
 
-### 9. Charlie Kirk statue vandalised outside Turning Point USA headquarters
+### 6. Protests break out across Syria over fuel price increases
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Vandals spray red paint on Charlie Kirk statue days after its unveiling to mark one year since his death.
+Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss](https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Norbert
+### 7. Tropical Storm Norbert
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire MEERS, Comanche, Oklahoma
+### 8. Wildfire MEERS, Comanche, Oklahoma
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Kurk, San Saba, Texas
+### 9. Wildfire Kurk, San Saba, Texas
 
 **Source:** NASA
 
