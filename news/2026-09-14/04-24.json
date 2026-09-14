@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-14T04:24:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Coming War on General Computation (2011)",
+            "description": "<p>Article URL: <a href=\"https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation\">https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690051\">https://news.ycombinator.com/item?id=49690051</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
+            "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+            "published": "Sun, 13 Sep 2026 23:54:55 +0000",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The contagion of fear",
+            "description": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689460\">https://news.ycombinator.com/item?id=49689460</a></p>\n<p>Points: 107</p>\n<p># Comments: 76</p>",
+            "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+            "published": "Sun, 13 Sep 2026 22:38:18 +0000",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+            "description": "<p>Article URL: <a href=\"https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10\">https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689048\">https://news.ycombinator.com/item?id=49689048</a></p>\n<p>Points: 48</p>\n<p># Comments: 23</p>",
+            "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+            "published": "Sun, 13 Sep 2026 21:47:04 +0000",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+            "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+            "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 19:14:21 GMT",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Culture shift' needed in how UK does business, PM urges",
+            "description": "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+            "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 21:30:21 GMT",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
+            "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+            "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:49:37 GMT",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
+            "description": "Fighting is intensifying in Yemen as Houthi fighters advance toward Saudi-backed government-held areas.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 00:14:09 +0000",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+            "description": "Oman says Hormuz talks with Iran and Gulf states are postponed &#039;in the interests of consensus&#039;.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+            "published": "Mon, 14 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli quadcopter terrorises homes in Gaza City",
+            "description": "Video shows a low-flying Israeli quadcopter maneuvering between residential buildings in eastern Gaza City.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
+            "published": "Sun, 13 Sep 2026 23:33:23 +0000",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-14T04:24:45+03:30"
+        }
+    ]
+}

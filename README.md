@@ -1,48 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-14 02:48:18
+**Last Update:** 2026-09-14 04:24:45
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Due to concerns about malicious applications, GPT2 will not be released (2019)
+### 1. The Coming War on General Computation (2011)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/better-language-models/">https://openai.com/index/better-language-models/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689706">https://news.ycombinator.com/item?id=49689706</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation">https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49690051">https://news.ycombinator.com/item?id=49690051</a></p>
+<p>Points: 26</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://openai.com/index/better-language-models/](https://openai.com/index/better-language-models/)
-
----
-
-### 2. It's All Fun and Games Until You Give AI Your Credit Card
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/">https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689664">https://news.ycombinator.com/item?id=49689664</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/](https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/)
+🔗 **Read more:** [https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation](https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation)
 
 ---
 
-### 3. The Contagion of Fear
+### 2. The contagion of fear
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689460">https://news.ycombinator.com/item?id=49689460</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Points: 107</p>
+<p># Comments: 76</p>
 
 🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+
+---
+
+### 3. Registration without a phone number on Signal will use zero-knowledge proofs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10">https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49689048">https://news.ycombinator.com/item?id=49689048</a></p>
+<p>Points: 48</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
 
 ---
 
@@ -91,48 +91,48 @@ Burnham has said those who take risks should be backed by government, but his go
 **Category:** world
 
 **Description:**
-The US President said "negative forces" were airing concerns about "things that won't happen".
+The US president said "negative forces" were airing concerns about "things that won't happen".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Zverev defeats Shelton in four sets to win his first US Open title
+### 7. Yemen’s Houthis advance on government strongholds of Marib, Taiz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Germany&#039;s Alexander Zverev beats Ben Shelton of USA 6-3 7-6(2) ​5-7 6-2 to claim the men&#039;s singles trophy in New York.
+Fighting is intensifying in Yemen as Houthi fighters advance toward Saudi-backed government-held areas.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss)
 
 ---
 
-### 8. Could AI really kill us within a decade?
+### 8. Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI companies are warning that their technology could wipe out humanity.
+Oman says Hormuz talks with Iran and Gulf states are postponed &#039;in the interests of consensus&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss)
 
 ---
 
-### 9. Barcelona beat Levante as Yamal scores twice to maintain perfect start
+### 9. Israeli quadcopter terrorises homes in Gaza City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Barcelona have won all six games this season and sit top of La Liga with five wins from five after victory at Levante.
+Video shows a low-flying Israeli quadcopter maneuvering between residential buildings in eastern Gaza City.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss)
 
 ---
 
