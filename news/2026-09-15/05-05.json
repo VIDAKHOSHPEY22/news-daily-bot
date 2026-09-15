@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T05:05:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/JamesRyanATX/fcbnerd\">https://github.com/JamesRyanATX/fcbnerd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49705442\">https://news.ycombinator.com/item?id=49705442</a></p>\n<p>Points: 31</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/JamesRyanATX/fcbnerd",
+            "published": "Mon, 14 Sep 2026 23:01:36 +0000",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Charts built for Chat",
+            "description": "<p>Article URL: <a href=\"https://dbtcharts.com/blog/charts-built-for-chat/\">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704246\">https://news.ycombinator.com/item?id=49704246</a></p>\n<p>Points: 89</p>\n<p># Comments: 28</p>",
+            "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+            "published": "Mon, 14 Sep 2026 21:22:54 +0000",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+            "description": "<p>Article URL: <a href=\"https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html\">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704008\">https://news.ycombinator.com/item?id=49704008</a></p>\n<p>Points: 171</p>\n<p># Comments: 171</p>",
+            "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+            "published": "Mon, 14 Sep 2026 21:05:22 +0000",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man admits drugging and raping wife over 20 years",
+            "description": "A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 16:54:26 GMT",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+            "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 00:32:21 GMT",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
+            "description": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
+            "url": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 23:51:03 GMT",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia resupplies military bases in Syria for first time under new deal",
+            "description": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
+            "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 00:43:47 +0000",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Geneva talks put Rwanda-DRC peace deal to the test",
+            "description": "The talks come amid continued fighting and disputes over the implementation of key security commitments.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 00:26:06 +0000",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sweden election is too close to call as far right loses ground",
+            "description": "Opposition bloc leads in tight Swedish election with 95% counted.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 00:06:34 +0000",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T05:05:52+03:30"
+        }
+    ]
+}
