@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 18:23:57
+**Last Update:** 2026-09-15 21:48:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Global bond yields hit 2008 highs, raising stakes for big borrowers
+### 1. Dystopian Surveillance Is Becoming a Reality
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/">https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712746">https://news.ycombinator.com/item?id=49712746</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality">https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715934">https://news.ycombinator.com/item?id=49715934</a></p>
+<p>Points: 114</p>
+<p># Comments: 49</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/](https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/)
+🔗 **Read more:** [https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality](https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality)
 
 ---
 
-### 2. Show HN: Jexxa: High Speed on Device Dictation
+### 2. GEFS on OpenBSD: A Early Preview
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Jexxa Demo: <a href="https://lnkd.in/p/gvpF4nJN">https://lnkd.in/p/gvpF4nJN</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712720">https://news.ycombinator.com/item?id=49712720</a></p>
-<p>Points: 6</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2">https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715590">https://news.ycombinator.com/item?id=49715590</a></p>
+<p>Points: 25</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://jexxa.org](https://jexxa.org)
+🔗 **Read more:** [https://marc.info/?l=openbsd-tech&m=178948744271633&w=2](https://marc.info/?l=openbsd-tech&m=178948744271633&w=2)
 
 ---
 
-### 3. Show HN: Panel – A research workspace where the agent can build its own panes
+### 3. Jiga (YC W21) Is Hiring Product Engineer (Remote/US)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/greentfrapp/panel">https://github.com/greentfrapp/panel</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712621">https://news.ycombinator.com/item?id=49712621</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd">https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49715446">https://news.ycombinator.com/item?id=49715446</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/greentfrapp/panel](https://github.com/greentfrapp/panel)
+🔗 **Read more:** [https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd)
 
 ---
 
-### 4. Key findings from Lucy Letby Thirlwall Inquiry
+### 4. Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The inquiry found a "complete failure to protect babies on the neonatal unit" where the nurse worked.
+Plans will be "urgently" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
+### 5. Letby failings go beyond one hospital - the whole system has been found lacking
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The increase has reignited the debate about the state pension's long-term affordability and generational fairness.
+Inquiry chair Lady Justice Thirlwall set out how the culture of the health system created the conditions that enabled poor care and criminality.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Denmark says Russian warship fired flares at military helicopter
+### 6. Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Danish prime minister has accused Russia of "reckless" behaviour, while the Kremlin is yet to comment.
+Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Who is NFL billionaire Robert Kraft?
+### 7. Police crack down on protests against constitutional change in DR Congo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Who is Robert Kraft, the Epstein-linked NFL billionaire and why did he get Macklemore dropped from Ed Sheeran’s tour?
+Demonstrations held across country against president&#039;s proposed constitutional changes seeking third term.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss)
 
 ---
 
-### 8. What are ‘space weapons’, which US says it has deployed into orbit?
+### 8. More than 100,000 displaced as they flee violence in Yemen: UN
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The rare announcement from Washington is expected to raise alarm among allies and adversaries alike, experts say.
+Thousands making risky maritime journey to Djibouti as conflict between Yemen gov&#039;t and Houthis intensifies.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss](https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss)
 
 ---
 
-### 9. Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina
+### 9. How an Israeli cell orchestrated an anti-Qatar campaign
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven members of ousted PM Sheikh Hasina&#039;s Awami League convicted of crimes including murder, provoking killings.
+Israeli newspaper Haaretz reports that influence experts and an ex-Mossad official were part of an anti-Qatar group.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss)
 
 ---
 
