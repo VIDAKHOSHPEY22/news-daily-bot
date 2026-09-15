@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T22:22:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How AI tool calling works (40 lines of vanilla JavaScript)",
+            "description": "<p>Article URL: <a href=\"https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html\">https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716702\">https://news.ycombinator.com/item?id=49716702</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html",
+            "published": "Tue, 15 Sep 2026 18:27:24 +0000",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+            "description": "<p>Article URL: <a href=\"https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\">https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716476\">https://news.ycombinator.com/item?id=49716476</a></p>\n<p>Points: 48</p>\n<p># Comments: 12</p>",
+            "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+            "published": "Tue, 15 Sep 2026 18:11:24 +0000",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An Update on Wayback Machine Access",
+            "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716176\">https://news.ycombinator.com/item?id=49716176</a></p>\n<p>Points: 74</p>\n<p># Comments: 24</p>",
+            "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+            "published": "Tue, 15 Sep 2026 17:52:18 +0000",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
+            "description": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
+            "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 16:53:53 GMT",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+            "description": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 16:45:49 GMT",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+            "description": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 16:01:54 GMT",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India beat Afghanistan by seven wickets to seal T20 series",
+            "description": "Sanju Samson&#039;s half century helps India seal three-match series with wins in first two games.",
+            "url": "https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 18:15:43 +0000",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
+            "description": "Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 18:05:24 +0000",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police crack down on protests against constitutional change in DR Congo",
+            "description": "Demonstrations held across country against president&#039;s proposed constitutional changes seeking third term.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 17:58:53 +0000",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T22:22:20+03:30"
+        }
+    ]
+}
