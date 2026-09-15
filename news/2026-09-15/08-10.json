@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T08:10:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oil Executives Say the Great Fuel Crisis Is Here",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030\">https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707477\">https://news.ycombinator.com/item?id=49707477</a></p>\n<p>Points: 32</p>\n<p># Comments: 19</p>",
+            "url": "https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030",
+            "published": "Tue, 15 Sep 2026 03:48:55 +0000",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49706223\">https://news.ycombinator.com/item?id=49706223</a></p>\n<p>Points: 90</p>\n<p># Comments: 47</p>",
+            "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+            "published": "Tue, 15 Sep 2026 00:40:14 +0000",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/JamesRyanATX/fcbnerd\">https://github.com/JamesRyanATX/fcbnerd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49705442\">https://news.ycombinator.com/item?id=49705442</a></p>\n<p>Points: 48</p>\n<p># Comments: 9</p>",
+            "url": "https://github.com/JamesRyanATX/fcbnerd",
+            "published": "Mon, 14 Sep 2026 23:01:36 +0000",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lucy Letby public inquiry findings set to be published",
+            "description": "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.",
+            "url": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 01:54:35 GMT",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+            "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+            "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 03:47:27 GMT",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
+            "description": "The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.",
+            "url": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 23:51:03 GMT",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’",
+            "description": "US President Donald Trump makes a surprise call to Nvidia&#039;s CEO, interrupting a live event to discuss fears about AI.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 03:28:42 +0000",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Supreme Court rejects Trump mail ballot restrictions ahead of midterms",
+            "description": "US Supreme Court rejects Trump’s bid to tighten mail-in voting rules ahead of critical midterm elections.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 03:21:23 +0000",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration suffers double legal setback over immigration policy",
+            "description": "Courts and Democratic-led states mount legal challenges against Trump administration visa and green card limits.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 02:31:18 +0000",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T08:10:55+03:30"
+        }
+    ]
+}

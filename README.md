@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 05:05:52
+**Last Update:** 2026-09-15 08:10:55
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
+### 1. Oil Executives Say the Great Fuel Crisis Is Here
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030">https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49707477">https://news.ycombinator.com/item?id=49707477</a></p>
+<p>Points: 32</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030](https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030)
+
+---
+
+### 2. Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49706223">https://news.ycombinator.com/item?id=49706223</a></p>
+<p>Points: 90</p>
+<p># Comments: 47</p>
+
+🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+
+---
+
+### 3. Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
 
 **Source:** Hacker News
 
@@ -19,68 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/JamesRyanATX/fcbnerd">https://github.com/JamesRyanATX/fcbnerd</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49705442">https://news.ycombinator.com/item?id=49705442</a></p>
-<p>Points: 31</p>
-<p># Comments: 2</p>
+<p>Points: 48</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://github.com/JamesRyanATX/fcbnerd](https://github.com/JamesRyanATX/fcbnerd)
 
 ---
 
-### 2. Charts built for Chat
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dbtcharts.com/blog/charts-built-for-chat/">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704246">https://news.ycombinator.com/item?id=49704246</a></p>
-<p>Points: 89</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://dbtcharts.com/blog/charts-built-for-chat/](https://dbtcharts.com/blog/charts-built-for-chat/)
-
----
-
-### 3. Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html">https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49704008">https://news.ycombinator.com/item?id=49704008</a></p>
-<p>Points: 171</p>
-<p># Comments: 171</p>
-
-🔗 **Read more:** [https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
-
----
-
-### 4. Man admits drugging and raping wife over 20 years
+### 4. Lucy Letby public inquiry findings set to be published
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A husband, who cannot be named to protect his wife's anonymity, pleads guilty to more than 60 offences, including rape and administering a substance with intent.
+The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3042q6w3zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
+### 5. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it "taking over the World" are a "HOAX".
+The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The £72m heading towards Reform UK's coffers is transforming the debate at West
 
 ---
 
-### 7. Russia resupplies military bases in Syria for first time under new deal
+### 7. Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moscow maintains military foothold in the Mediterranean following talks with Damascus
+US President Donald Trump makes a surprise call to Nvidia&#039;s CEO, interrupting a live event to discuss fears about AI.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss)
 
 ---
 
-### 8. Geneva talks put Rwanda-DRC peace deal to the test
+### 8. US Supreme Court rejects Trump mail ballot restrictions ahead of midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The talks come amid continued fighting and disputes over the implementation of key security commitments.
+US Supreme Court rejects Trump’s bid to tighten mail-in voting rules ahead of critical midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss)
 
 ---
 
-### 9. Sweden election is too close to call as far right loses ground
+### 9. Trump administration suffers double legal setback over immigration policy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Opposition bloc leads in tight Swedish election with 95% counted.
+Courts and Democratic-led states mount legal challenges against Trump administration visa and green card limits.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/sweden-election-is-too-close-to-call-as-far-right-loses-ground?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss)
 
 ---
 
