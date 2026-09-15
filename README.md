@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 17:11:41
+**Last Update:** 2026-09-15 18:23:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Java 27 Released
+### 1. Global bond yields hit 2008 highs, raising stakes for big borrowers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/">https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712041">https://news.ycombinator.com/item?id=49712041</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/">https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712746">https://news.ycombinator.com/item?id=49712746</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
+🔗 **Read more:** [https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/](https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/)
 
 ---
 
-### 2. Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+### 2. Show HN: Jexxa: High Speed on Device Dictation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/arnegiacomo/fugleramme">https://github.com/arnegiacomo/fugleramme</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49711544">https://news.ycombinator.com/item?id=49711544</a></p>
-<p>Points: 57</p>
-<p># Comments: 15</p>
+<p>Jexxa Demo: <a href="https://lnkd.in/p/gvpF4nJN">https://lnkd.in/p/gvpF4nJN</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712720">https://news.ycombinator.com/item?id=49712720</a></p>
+<p>Points: 6</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://github.com/arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
+🔗 **Read more:** [https://jexxa.org](https://jexxa.org)
 
 ---
 
-### 3. 25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]
+### 3. Show HN: Panel – A research workspace where the agent can build its own panes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough">https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49711309">https://news.ycombinator.com/item?id=49711309</a></p>
-<p>Points: 23</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://github.com/greentfrapp/panel">https://github.com/greentfrapp/panel</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49712621">https://news.ycombinator.com/item?id=49712621</a></p>
+<p>Points: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough)
+🔗 **Read more:** [https://github.com/greentfrapp/panel](https://github.com/greentfrapp/panel)
 
 ---
 
@@ -97,42 +98,42 @@ The Danish prime minister has accused Russia of "reckless" behaviour, while the 
 
 ---
 
-### 7. Houthi-run TV releases video of abandoned Mocha airport
+### 7. Who is NFL billionaire Robert Kraft?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi-run TV has aired drone video of Yemen’s Mocha International Airport, empty and abandoned.
+Who is Robert Kraft, the Epstein-linked NFL billionaire and why did he get Macklemore dropped from Ed Sheeran’s tour?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss)
 
 ---
 
-### 8. El Nino reaches super status: Where will it bring rain, drought and heat?
+### 8. What are ‘space weapons’, which US says it has deployed into orbit?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Forecasters say the Pacific Ocean warming pattern could be the strongest on record. Here is what that means for you.
+The rare announcement from Washington is expected to raise alarm among allies and adversaries alike, experts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss](https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss)
 
 ---
 
-### 9. Coalition talks likely as no party dominates Philippines’ Bangsamoro region
+### 9. Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With 98.56 percent of party-list votes counted, no party has received a majority, according to unofficial results.
+Seven members of ousted PM Sheikh Hasina&#039;s Awami League convicted of crimes including murder, provoking killings.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/coalition-talks-likely-as-no-party-dominates-philippines-bangsamoro-region?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/coalition-talks-likely-as-no-party-dominates-philippines-bangsamoro-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss)
 
 ---
 

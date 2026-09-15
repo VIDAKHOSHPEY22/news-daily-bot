@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T18:23:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/\">https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712746\">https://news.ycombinator.com/item?id=49712746</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+            "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+            "published": "Tue, 15 Sep 2026 14:07:01 +0000",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Jexxa: High Speed on Device Dictation",
+            "description": "<p>Jexxa Demo: <a href=\"https://lnkd.in/p/gvpF4nJN\">https://lnkd.in/p/gvpF4nJN</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712720\">https://news.ycombinator.com/item?id=49712720</a></p>\n<p>Points: 6</p>\n<p># Comments: 7</p>",
+            "url": "https://jexxa.org",
+            "published": "Tue, 15 Sep 2026 14:05:42 +0000",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+            "description": "<p>Article URL: <a href=\"https://github.com/greentfrapp/panel\">https://github.com/greentfrapp/panel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712621\">https://news.ycombinator.com/item?id=49712621</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/greentfrapp/panel",
+            "published": "Tue, 15 Sep 2026 13:58:37 +0000",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key findings from Lucy Letby Thirlwall Inquiry",
+            "description": "The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked.",
+            "url": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 12:37:11 GMT",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+            "description": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
+            "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 11:05:42 GMT",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Denmark says Russian warship fired flares at military helicopter",
+            "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+            "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 11:40:00 GMT",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is NFL billionaire Robert Kraft?",
+            "description": "Who is Robert Kraft, the Epstein-linked NFL billionaire and why did he get Macklemore dropped from Ed Sheeran’s tour?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/who-is-nfl-billionaire-robert-kraft?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 13:59:34 +0000",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What are ‘space weapons’, which US says it has deployed into orbit?",
+            "description": "The rare announcement from Washington is expected to raise alarm among allies and adversaries alike, experts say.",
+            "url": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 13:57:31 +0000",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina",
+            "description": "Seven members of ousted PM Sheikh Hasina&#039;s Awami League convicted of crimes including murder, provoking killings.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/bangladesh-hands-death-sentences-to-7-aides-of-ousted-prime-minister-hasina?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 13:40:32 +0000",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T18:23:57+03:30"
+        }
+    ]
+}
