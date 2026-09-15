@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T17:11:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Java 27 Released",
+            "description": "<p>Article URL: <a href=\"https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\">https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712041\">https://news.ycombinator.com/item?id=49712041</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
+            "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+            "published": "Tue, 15 Sep 2026 13:13:43 +0000",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+            "description": "<p>Article URL: <a href=\"https://github.com/arnegiacomo/fugleramme\">https://github.com/arnegiacomo/fugleramme</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711544\">https://news.ycombinator.com/item?id=49711544</a></p>\n<p>Points: 57</p>\n<p># Comments: 15</p>",
+            "url": "https://github.com/arnegiacomo/fugleramme",
+            "published": "Tue, 15 Sep 2026 12:31:10 +0000",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+            "description": "<p>Article URL: <a href=\"https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough\">https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711309\">https://news.ycombinator.com/item?id=49711309</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+            "url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+            "published": "Tue, 15 Sep 2026 12:08:26 +0000",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key findings from Lucy Letby Thirlwall Inquiry",
+            "description": "The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked.",
+            "url": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 12:37:11 GMT",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+            "description": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
+            "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 11:05:42 GMT",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Denmark says Russian warship fired flares at military helicopter",
+            "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+            "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 11:40:00 GMT",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthi-run TV releases video of abandoned Mocha airport",
+            "description": "Houthi-run TV has aired drone video of Yemen’s Mocha International Airport, empty and abandoned.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 13:11:13 +0000",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El Nino reaches super status: Where will it bring rain, drought and heat?",
+            "description": "Forecasters say the Pacific Ocean warming pattern could be the strongest on record. Here is what that means for you.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 13:10:26 +0000",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Coalition talks likely as no party dominates Philippines’ Bangsamoro region",
+            "description": "With 98.56 percent of party-list votes counted, no party has received a majority, according to unofficial results.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/coalition-talks-likely-as-no-party-dominates-philippines-bangsamoro-region?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 13:07:41 +0000",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T17:11:41+03:30"
+        }
+    ]
+}
