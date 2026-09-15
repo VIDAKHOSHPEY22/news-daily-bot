@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 22:22:20
+**Last Update:** 2026-09-16 01:01:57
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. How AI tool calling works (40 lines of vanilla JavaScript)
+### 1. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html">https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49716702">https://news.ycombinator.com/item?id=49716702</a></p>
+<p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
 <p>Points: 8</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html](https://buttercup.sh/lessons/2026-09-15-lesson-2-tool-calling.html)
+🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 
 ---
 
-### 2. We got admin access to Baseten's production GitHub in 25 minutes
+### 2. Jean-Pierre Serre is 100 years old today
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.strix.ai/blog/baseten-harbor-github-pat-takeover">https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49716476">https://news.ycombinator.com/item?id=49716476</a></p>
-<p>Points: 48</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718822">https://news.ycombinator.com/item?id=49718822</a></p>
+<p>Points: 19</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.strix.ai/blog/baseten-harbor-github-pat-takeover](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover)
+🔗 **Read more:** [https://mathshistory.st-andrews.ac.uk/Biographies/Serre/](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 
 ---
 
-### 3. An Update on Wayback Machine Access
+### 3. How much oil-market buffer is left?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49716176">https://news.ycombinator.com/item?id=49716176</a></p>
-<p>Points: 74</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://www.depletion.org">https://www.depletion.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718025">https://news.ycombinator.com/item?id=49718025</a></p>
+<p>Points: 62</p>
+<p># Comments: 86</p>
 
-🔗 **Read more:** [https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
+🔗 **Read more:** [https://www.depletion.org](https://www.depletion.org)
 
 ---
 
@@ -71,7 +71,20 @@ Plans will be "urgently" developed for live-streaming cameras after an inquiry r
 
 ---
 
-### 5. Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault
+### 5. All support acts on Ed Sheeran's US tour quit after Macklemore dropped
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspici
 
 ---
 
-### 6. Ed Sheeran says it was 'not my decision' to drop Macklemore from tour
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. India beat Afghanistan by seven wickets to seal T20 series
+### 7. Hundreds protest in DR Congo against third presidential term
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sanju Samson&#039;s half century helps India seal three-match series with wins in first two games.
+Hundreds protest in DR Congo against third presidential term
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/15/india-beat-afghanistan-by-seven-wickets-to-seal-t20-series?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss)
 
 ---
 
-### 8. Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation
+### 8. Romanian shepards and farmers clash with police
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Red Sea disruptions impact Egypt’s economy, with Suez Canal revenues dropping by $7bn in two years.
+Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/egypts-sisi-meets-mbs-backs-saudi-call-for-secure-red-sea-navigation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss)
 
 ---
 
-### 9. Police crack down on protests against constitutional change in DR Congo
+### 9. What makes these midterms so pivotal?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrations held across country against president&#039;s proposed constitutional changes seeking third term.
+The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/police-crack-down-on-protests-against-constitutional-change-in-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss)
 
 ---
 
