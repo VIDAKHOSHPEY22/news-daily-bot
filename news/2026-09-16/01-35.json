@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T01:35:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+            "description": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 54</p>\n<p># Comments: 4</p>",
+            "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+            "published": "Tue, 15 Sep 2026 21:07:47 +0000",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jean-Pierre Serre is 100 years old today",
+            "description": "<p>Article URL: <a href=\"https://mathshistory.st-andrews.ac.uk/Biographies/Serre/\">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718822\">https://news.ycombinator.com/item?id=49718822</a></p>\n<p>Points: 42</p>\n<p># Comments: 7</p>",
+            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+            "published": "Tue, 15 Sep 2026 20:57:18 +0000",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+            "description": "<p>Article URL: <a href=\"https://codyho.dev/blog/gpu-driver/\">https://codyho.dev/blog/gpu-driver/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717638\">https://news.ycombinator.com/item?id=49717638</a></p>\n<p>Points: 61</p>\n<p># Comments: 18</p>",
+            "url": "https://codyho.dev/blog/gpu-driver/",
+            "published": "Tue, 15 Sep 2026 19:30:03 +0000",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
+            "description": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.",
+            "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 19:47:10 GMT",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+            "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 21:07:13 GMT",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
+            "description": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 20:41:35 GMT",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Senate crypto bill collapses in blow to industry",
+            "description": "The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market",
+            "url": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 21:31:48 +0000",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds protest in DR Congo against third presidential term",
+            "description": "Hundreds protest in DR Congo against third presidential term",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 21:20:41 +0000",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Romanian shepards and farmers clash with police",
+            "description": "Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 20:40:05 +0000",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T01:35:10+03:30"
+        }
+    ]
+}

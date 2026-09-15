@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 01:01:57
+**Last Update:** 2026-09-16 01:35:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 54</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718822">https://news.ycombinator.com/item?id=49718822</a></p>
-<p>Points: 19</p>
-<p># Comments: 0</p>
+<p>Points: 42</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://mathshistory.st-andrews.ac.uk/Biographies/Serre/](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 
 ---
 
-### 3. How much oil-market buffer is left?
+### 3. Building a Linux GPU Driver for the M4 Mac Mini in One Month
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.depletion.org">https://www.depletion.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718025">https://news.ycombinator.com/item?id=49718025</a></p>
-<p>Points: 62</p>
-<p># Comments: 86</p>
+<p>Article URL: <a href="https://codyho.dev/blog/gpu-driver/">https://codyho.dev/blog/gpu-driver/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717638">https://news.ycombinator.com/item?id=49717638</a></p>
+<p>Points: 61</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://www.depletion.org](https://www.depletion.org)
+🔗 **Read more:** [https://codyho.dev/blog/gpu-driver/](https://codyho.dev/blog/gpu-driver/)
 
 ---
 
@@ -97,7 +97,20 @@ Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspici
 
 ---
 
-### 7. Hundreds protest in DR Congo against third presidential term
+### 7. US Senate crypto bill collapses in blow to industry
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss)
+
+---
+
+### 8. Hundreds protest in DR Congo against third presidential term
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Hundreds protest in DR Congo against third presidential term
 
 ---
 
-### 8. Romanian shepards and farmers clash with police
+### 9. Romanian shepards and farmers clash with police
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Hundreds protest in DR Congo against third presidential term
 Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss)
-
----
-
-### 9. What makes these midterms so pivotal?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The 2026 midterms could reshape Washington as voters weigh Trump, party divisions and the issues driving the election.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/9/15/what-makes-these-midterms-so-pivotal?traffic_source=rss)
 
 ---
 
