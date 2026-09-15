@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 11:23:42
+**Last Update:** 2026-09-15 13:28:23
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)
+### 1. The k-server conjecture is true
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2609.15979">https://arxiv.org/abs/2609.15979</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49709129">https://news.ycombinator.com/item?id=49709129</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2609.15979](https://arxiv.org/abs/2609.15979)
+
+---
+
+### 2. Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)
 
 **Source:** Hacker News
 
@@ -26,65 +42,36 @@
 
 ---
 
-### 2. Linux from Scratch
+### 3. I can't stop thinking about Papua New Guinea
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.linuxfromscratch.org/">https://www.linuxfromscratch.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49707627">https://news.ycombinator.com/item?id=49707627</a></p>
-<p>Points: 118</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua">https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49708431">https://news.ycombinator.com/item?id=49708431</a></p>
+<p>Points: 145</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://www.linuxfromscratch.org/](https://www.linuxfromscratch.org/)
-
----
-
-### 3. Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49706223">https://news.ycombinator.com/item?id=49706223</a></p>
-<p>Points: 153</p>
-<p># Comments: 82</p>
-
-🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+🔗 **Read more:** [https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 
 ---
 
-### 4. State pension likely to rise by £488 a year in April
+### 4. State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The triple lock has come under scrutiny as the number of pensioners rises making the policy more expensive.
+The increase has reignited the debate about the state pension's long-term affordability and generational fairness.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Lucy Letby public inquiry findings set to be published
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
+### 5. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The US president's comments come after Anthropic co-founder Jack Clark told the 
 
 ---
 
-### 7. Hungary to amend anti-LGBTQ law to align with EU standards
+### 6. Welsh actor Matthew Rhys makes Emmy Awards history with double win
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-A new bill will remove references to banning the &#039;promotion&#039; of homosexuality.
+He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Palestine weekly: Settlement sanctions spark diplomatic crisis
+### 7. US Supreme Court rejects Trump’s plans on postal ballots: Why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.
+Trump has repeatedly criticised mail-in votes and has attempted to restrict them ahead of the midterms.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss)
 
 ---
 
-### 9. BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes
+### 8. Mitch McConnell returns to US Senate after three-month absence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Since Prime Minister Modi&#039;s BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.
+Senator McConnell casts his first vote since June, pledging presence for crucial Senate decisions.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss](https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss)
+
+---
+
+### 9. Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi-led coalition promises to respond &#039;firmly&#039; to Houthi strikes on urban areas in Saudi Arabia.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T13:28:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The k-server conjecture is true",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.15979\">https://arxiv.org/abs/2609.15979</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49709129\">https://news.ycombinator.com/item?id=49709129</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2609.15979",
+            "published": "Tue, 15 Sep 2026 07:45:31 +0000",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+            "description": "<p>Article URL: <a href=\"https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013\">https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708774\">https://news.ycombinator.com/item?id=49708774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+            "published": "Tue, 15 Sep 2026 07:00:30 +0000",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I can't stop thinking about Papua New Guinea",
+            "description": "<p>Article URL: <a href=\"https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua\">https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708431\">https://news.ycombinator.com/item?id=49708431</a></p>\n<p>Points: 145</p>\n<p># Comments: 46</p>",
+            "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+            "published": "Tue, 15 Sep 2026 06:16:24 +0000",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+            "description": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
+            "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 08:51:39 GMT",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+            "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+            "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 08:49:31 GMT",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+            "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 03:50:06 GMT",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Supreme Court rejects Trump’s plans on postal ballots: Why it matters",
+            "description": "Trump has repeatedly criticised mail-in votes and has attempted to restrict them ahead of the midterms.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 09:15:01 +0000",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mitch McConnell returns to US Senate after three-month absence",
+            "description": "Senator McConnell casts his first vote since June, pledging presence for crucial Senate decisions.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 08:41:10 +0000",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
+            "description": "Saudi-led coalition promises to respond &#039;firmly&#039; to Houthi strikes on urban areas in Saudi Arabia.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 08:11:09 +0000",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T13:28:23+03:30"
+        }
+    ]
+}
