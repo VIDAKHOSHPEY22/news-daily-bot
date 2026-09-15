@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-15T11:23:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+            "description": "<p>Article URL: <a href=\"https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013\">https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708774\">https://news.ycombinator.com/item?id=49708774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+            "published": "Tue, 15 Sep 2026 07:00:30 +0000",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux from Scratch",
+            "description": "<p>Article URL: <a href=\"https://www.linuxfromscratch.org/\">https://www.linuxfromscratch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707627\">https://news.ycombinator.com/item?id=49707627</a></p>\n<p>Points: 118</p>\n<p># Comments: 39</p>",
+            "url": "https://www.linuxfromscratch.org/",
+            "published": "Tue, 15 Sep 2026 04:15:23 +0000",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49706223\">https://news.ycombinator.com/item?id=49706223</a></p>\n<p>Points: 153</p>\n<p># Comments: 82</p>",
+            "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+            "published": "Tue, 15 Sep 2026 00:40:14 +0000",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "State pension likely to rise by £488 a year in April",
+            "description": "The triple lock has come under scrutiny as the number of pensioners rises making the policy more expensive.",
+            "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 07:33:15 GMT",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lucy Letby public inquiry findings set to be published",
+            "description": "The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.",
+            "url": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 01:54:35 GMT",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+            "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+            "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 03:47:27 GMT",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
+            "description": "A new bill will remove references to banning the &#039;promotion&#039; of homosexuality.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 07:40:37 +0000",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+            "description": "New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.",
+            "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 06:53:50 +0000",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes",
+            "description": "Since Prime Minister Modi&#039;s BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.",
+            "url": "https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 06:15:43 +0000",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-15T11:23:42+03:30"
+        }
+    ]
+}

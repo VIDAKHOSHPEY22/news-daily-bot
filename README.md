@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-15 08:10:55
+**Last Update:** 2026-09-15 11:23:42
 
 **Total News:** 12
 
@@ -10,23 +10,39 @@
 
 ## 📰 Latest News
 
-### 1. Oil Executives Say the Great Fuel Crisis Is Here
+### 1. Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030">https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49707477">https://news.ycombinator.com/item?id=49707477</a></p>
-<p>Points: 32</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013">https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49708774">https://news.ycombinator.com/item?id=49708774</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030](https://www.wsj.com/business/energy-oil/oil-executives-say-the-great-fuel-crisis-is-here-b6b32030)
+🔗 **Read more:** [https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013)
 
 ---
 
-### 2. Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
+### 2. Linux from Scratch
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.linuxfromscratch.org/">https://www.linuxfromscratch.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49707627">https://news.ycombinator.com/item?id=49707627</a></p>
+<p>Points: 118</p>
+<p># Comments: 39</p>
+
+🔗 **Read more:** [https://www.linuxfromscratch.org/](https://www.linuxfromscratch.org/)
+
+---
+
+### 3. Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325">https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49706223">https://news.ycombinator.com/item?id=49706223</a></p>
-<p>Points: 90</p>
-<p># Comments: 47</p>
+<p>Points: 153</p>
+<p># Comments: 82</p>
 
 🔗 **Read more:** [https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
 
 ---
 
-### 3. Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
+### 4. State pension likely to rise by £488 a year in April
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://github.com/JamesRyanATX/fcbnerd">https://github.com/JamesRyanATX/fcbnerd</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49705442">https://news.ycombinator.com/item?id=49705442</a></p>
-<p>Points: 48</p>
-<p># Comments: 9</p>
+The triple lock has come under scrutiny as the number of pensioners rises making the policy more expensive.
 
-🔗 **Read more:** [https://github.com/JamesRyanATX/fcbnerd](https://github.com/JamesRyanATX/fcbnerd)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Lucy Letby public inquiry findings set to be published
+### 5. Lucy Letby public inquiry findings set to be published
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The Thirlwall Inquiry has been investigating how concerns about killer nurse Let
 
 ---
 
-### 5. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
+### 6. Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The US president's comments come after Anthropic co-founder Jack Clark told the 
 
 ---
 
-### 6. Chris Mason: Row over Reform's mega donations has mileage in it yet
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The £72m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Trump calls, interrupts Nvidia CEO to say AI fears are ‘a hoax’
+### 7. Hungary to amend anti-LGBTQ law to align with EU standards
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump makes a surprise call to Nvidia&#039;s CEO, interrupting a live event to discuss fears about AI.
+A new bill will remove references to banning the &#039;promotion&#039; of homosexuality.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/14-09-clip-trump-comments-on-ai?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss)
 
 ---
 
-### 8. US Supreme Court rejects Trump mail ballot restrictions ahead of midterms
+### 8. Palestine weekly: Settlement sanctions spark diplomatic crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Supreme Court rejects Trump’s bid to tighten mail-in voting rules ahead of critical midterm elections.
+New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss)
 
 ---
 
-### 9. Trump administration suffers double legal setback over immigration policy
+### 9. BJP effect: Beef is vanishing from India’s Bengal, forcing diet changes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Courts and Democratic-led states mount legal challenges against Trump administration visa and green card limits.
+Since Prime Minister Modi&#039;s BJP came to power in West Bengal, beef is vanishing from menus as supplies become harder.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss](https://www.aljazeera.com/features/2026/9/15/bjp-effect-beef-is-vanishing-from-indian-bengal-forcing-diet-changes?traffic_source=rss)
 
 ---
 
