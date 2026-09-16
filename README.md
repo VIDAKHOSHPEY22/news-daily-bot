@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 11:05:12
+**Last Update:** 2026-09-16 15:20:31
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. MartyPC – A Cycle-Accurate IBM PC/XT Emulator
+### 1. The Google Play app review process now regularly takes longer than a week
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/dbalsom/martypc">https://github.com/dbalsom/martypc</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722591">https://news.ycombinator.com/item?id=49722591</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://gultsch.social/@daniel/117280438824908947">https://gultsch.social/@daniel/117280438824908947</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724927">https://news.ycombinator.com/item?id=49724927</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/dbalsom/martypc](https://github.com/dbalsom/martypc)
+🔗 **Read more:** [https://gultsch.social/@daniel/117280438824908947](https://gultsch.social/@daniel/117280438824908947)
 
 ---
 
-### 2. A software thing I built: GPS on a 25MHz 486-SX
+### 2. Devastated father says his 9-year-old son spent $118,000 on YouTube ads
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722521">https://news.ycombinator.com/item?id=49722521</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion">https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724849">https://news.ycombinator.com/item?id=49724849</a></p>
+<p>Points: 9</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/)
+🔗 **Read more:** [https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion](https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion)
 
 ---
 
-### 3. Datamimic – don't let your coding agent invent its own test world
+### 3. Salesforce Global Outage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/rapiddweller/datamimic">https://github.com/rapiddweller/datamimic</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722276">https://news.ycombinator.com/item?id=49722276</a></p>
-<p>Points: 25</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://status.salesforce.com/products/all">https://status.salesforce.com/products/all</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724488">https://news.ycombinator.com/item?id=49724488</a></p>
+<p>Points: 44</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://github.com/rapiddweller/datamimic](https://github.com/rapiddweller/datamimic)
+🔗 **Read more:** [https://status.salesforce.com/products/all](https://status.salesforce.com/products/all)
 
 ---
 
-### 4. OpenAI boss says world 'right to be afraid' but should trust AI firms
+### 4. Petrol and diesel price rises push UK inflation higher
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.
+Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. All support acts on Ed Sheeran's US tour quit after Macklemore dropped
+### 5. EU chief backs plan for Canada to become 'associate member'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The star said he was not responsible for Macklemore being dropped from the line-
 
 ---
 
-### 6. UK in talks about joining global defence bank led by Canada
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US charges five people over alleged Russian plots
+### 7. Alex Eala firm on Asian Games participation despite threat of WTA fine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prosecutors said that the group worked on behalf of Russian intelligence services to carry out attacks and murders.
+National lawmakers propose paying her fine should WTA impose it on her for skipping the concurrent mandatory China Open.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss)
 
 ---
 
-### 8. Manchester derby VAR error caused by ‘tunnel vision’: Pro Ref chief Webb
+### 8. Moment Kash Patel’s senate hearing takes bizarre turn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Howard Webb says the referees&#039; body is disappointed with the decision to allow Haaland&#039;s goal against Manchester United.
+Moment Kash Patel&#039;s senate hearing takes bizarre turn
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/manchester-derby-var-error-caused-by-tunnel-vision-pro-ref-chief-webb?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/manchester-derby-var-error-caused-by-tunnel-vision-pro-ref-chief-webb?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/moment-kash-patels-senate-hearing-takes-bizarre-turn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/moment-kash-patels-senate-hearing-takes-bizarre-turn?traffic_source=rss)
 
 ---
 
-### 9. US House votes to end Iran war, 7 Republicans join in favour
+### 9. India summons Pakistani diplomat after incident in Arabian Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For a third time, the US House approved a war powers resolution, halting Trump&#039;s ability to continue military action.
+India accuses Pakistan of ignoring bilateral agreement after collison between the two countries&#039; navies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss)
 
 ---
 

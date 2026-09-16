@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T15:20:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Google Play app review process now regularly takes longer than a week",
+            "description": "<p>Article URL: <a href=\"https://gultsch.social/@daniel/117280438824908947\">https://gultsch.social/@daniel/117280438824908947</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724927\">https://news.ycombinator.com/item?id=49724927</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://gultsch.social/@daniel/117280438824908947",
+            "published": "Wed, 16 Sep 2026 11:19:11 +0000",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Devastated father says his 9-year-old son spent $118,000 on YouTube ads",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion\">https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724849\">https://news.ycombinator.com/item?id=49724849</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion",
+            "published": "Wed, 16 Sep 2026 11:12:58 +0000",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Salesforce Global Outage",
+            "description": "<p>Article URL: <a href=\"https://status.salesforce.com/products/all\">https://status.salesforce.com/products/all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724488\">https://news.ycombinator.com/item?id=49724488</a></p>\n<p>Points: 44</p>\n<p># Comments: 28</p>",
+            "url": "https://status.salesforce.com/products/all",
+            "published": "Wed, 16 Sep 2026 10:37:08 +0000",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Petrol and diesel price rises push UK inflation higher",
+            "description": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+            "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 10:33:42 GMT",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU chief backs plan for Canada to become 'associate member'",
+            "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 10:59:53 GMT",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments",
+            "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 09:36:54 GMT",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alex Eala firm on Asian Games participation despite threat of WTA fine",
+            "description": "National lawmakers propose paying her fine should WTA impose it on her for skipping the concurrent mandatory China Open.",
+            "url": "https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 11:28:49 +0000",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moment Kash Patel’s senate hearing takes bizarre turn",
+            "description": "Moment Kash Patel&#039;s senate hearing takes bizarre turn",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/moment-kash-patels-senate-hearing-takes-bizarre-turn?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 11:12:04 +0000",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India summons Pakistani diplomat after incident in Arabian Sea",
+            "description": "India accuses Pakistan of ignoring bilateral agreement after collison between the two countries&#039; navies.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 10:46:34 +0000",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T15:20:31+03:30"
+        }
+    ]
+}
