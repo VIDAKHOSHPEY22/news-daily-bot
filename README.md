@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 04:47:05
+**Last Update:** 2026-09-16 09:41:52
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Saving Jet Fuel
+### 1. Datamimic – don't let your coding agent invent its own test world
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49720164">https://news.ycombinator.com/item?id=49720164</a></p>
-<p>Points: 23</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://github.com/rapiddweller/datamimic">https://github.com/rapiddweller/datamimic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722276">https://news.ycombinator.com/item?id=49722276</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+🔗 **Read more:** [https://github.com/rapiddweller/datamimic](https://github.com/rapiddweller/datamimic)
 
 ---
 
-### 2. Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA
+### 2. Negativland, Culture Jamming, and the Art of Making Something New
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nand2mario.github.io/posts/2026/zsst-voodoo/">https://nand2mario.github.io/posts/2026/zsst-voodoo/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49719938">https://news.ycombinator.com/item?id=49719938</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721548">https://news.ycombinator.com/item?id=49721548</a></p>
+<p>Points: 60</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://nand2mario.github.io/posts/2026/zsst-voodoo/](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
+🔗 **Read more:** [https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
 
 ---
 
-### 3. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+### 3. Stay discoverable in search while disallowing AI training
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
-<p>Points: 125</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/">https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721435">https://news.ycombinator.com/item?id=49721435</a></p>
+<p>Points: 47</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+🔗 **Read more:** [https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 
 ---
 
-### 4. OpenAI boss says world 'right to be afraid' but 'should trust' AI firms
+### 4. OpenAI boss says world 'right to be afraid' but should trust AI firms
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ The star said he was not responsible for Macklemore being dropped from the line-
 
 ---
 
-### 6. Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'
+### 6. UK in talks about joining global defence bank led by Canada
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.
+Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli soldiers rappel from helicopter in occupied West Bank
+### 7. US House votes to end Iran war, 7 Republicans join in favour
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta, in the occupied West Bank.
+For a third time, the US House approved a war powers resolution, halting Trump&#039;s ability to continue military action.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss)
 
 ---
 
-### 8. Iran war increasing inflation, straining US munitions: congressional report
+### 8. Seoul court orders North Korea to pay $32.5m for blowing up office
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.
+Pyongyang blew up the Inter-Korean Liaison Office building in June 2020 after days of rising tensions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss)
 
 ---
 
-### 9. Former Maduro ally pleads guilty to money laundering and fraud
+### 9. What’s the Pinglu Canal, China’s new gateway to Southeast Asia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Alex Saab pleads guilty in US court to laundering bribe and fraud proceeds linked to Venezuela&#039;s welfare programme.
+China&#039;s first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T09:41:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Datamimic – don't let your coding agent invent its own test world",
+            "description": "<p>Article URL: <a href=\"https://github.com/rapiddweller/datamimic\">https://github.com/rapiddweller/datamimic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722276\">https://news.ycombinator.com/item?id=49722276</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/rapiddweller/datamimic",
+            "published": "Wed, 16 Sep 2026 04:58:36 +0000",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+            "description": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721548\">https://news.ycombinator.com/item?id=49721548</a></p>\n<p>Points: 60</p>\n<p># Comments: 17</p>",
+            "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+            "published": "Wed, 16 Sep 2026 02:46:06 +0000",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Stay discoverable in search while disallowing AI training",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/\">https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721435\">https://news.ycombinator.com/item?id=49721435</a></p>\n<p>Points: 47</p>\n<p># Comments: 30</p>",
+            "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+            "published": "Wed, 16 Sep 2026 02:25:18 +0000",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+            "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 06:04:30 GMT",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+            "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 01:29:20 GMT",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK in talks about joining global defence bank led by Canada",
+            "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 23:50:55 GMT",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US House votes to end Iran war, 7 Republicans join in favour",
+            "description": "For a third time, the US House approved a war powers resolution, halting Trump&#039;s ability to continue military action.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 05:36:53 +0000",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Seoul court orders North Korea to pay $32.5m for blowing up office",
+            "description": "Pyongyang blew up the Inter-Korean Liaison Office building in June 2020 after days of rising tensions.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 05:31:34 +0000",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s the Pinglu Canal, China’s new gateway to Southeast Asia?",
+            "description": "China&#039;s first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 05:24:50 +0000",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T09:41:52+03:30"
+        }
+    ]
+}
