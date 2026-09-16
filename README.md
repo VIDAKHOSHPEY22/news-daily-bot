@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 04:02:24
+**Last Update:** 2026-09-16 04:47:05
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49720164">https://news.ycombinator.com/item?id=49720164</a></p>
-<p>Points: 16</p>
-<p># Comments: 6</p>
+<p>Points: 23</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
 
 ---
 
-### 2. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+### 2. Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nand2mario.github.io/posts/2026/zsst-voodoo/">https://nand2mario.github.io/posts/2026/zsst-voodoo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49719938">https://news.ycombinator.com/item?id=49719938</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://nand2mario.github.io/posts/2026/zsst-voodoo/](https://nand2mario.github.io/posts/2026/zsst-voodoo/)
+
+---
+
+### 3. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
-<p>Points: 105</p>
-<p># Comments: 28</p>
+<p>Points: 125</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
-
----
-
-### 3. Jean-Pierre Serre is 100 years old today
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718822">https://news.ycombinator.com/item?id=49718822</a></p>
-<p>Points: 76</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://mathshistory.st-andrews.ac.uk/Biographies/Serre/](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 
 ---
 
@@ -97,42 +97,42 @@ Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 201
 
 ---
 
-### 7. Iran war live: Iran’s top diplomat heads to China as war drags on
+### 7. Israeli soldiers rappel from helicopter in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian foreign minister heads to China as Beijing seeks to mediate an end to the war.
+Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta, in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 8. Panic on board Iranian plane as violent shaking rips cabin apart
+### 8. Iran war increasing inflation, straining US munitions: congressional report
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.
+Report by nonpartisan research body finds that replenishing depleted munitions stockpiles could take up to five years.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss)
 
 ---
 
-### 9. Argentina intensifies campaign against Falklands oil companies
+### 9. Former Maduro ally pleads guilty to money laundering and fraud
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.
+Alex Saab pleads guilty in US court to laundering bribe and fraud proceeds linked to Venezuela&#039;s welfare programme.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss)
 
 ---
 
