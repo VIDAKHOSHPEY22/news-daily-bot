@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T21:36:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+            "description": "<p>Article URL: <a href=\"https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market\">https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49730239\">https://news.ycombinator.com/item?id=49730239</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+            "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+            "published": "Wed, 16 Sep 2026 17:27:37 +0000",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Cowork and chat are now one Claude",
+            "description": "<p>Article URL: <a href=\"https://claude.com/blog/cowork-is-now-claude\">https://claude.com/blog/cowork-is-now-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729412\">https://news.ycombinator.com/item?id=49729412</a></p>\n<p>Points: 74</p>\n<p># Comments: 101</p>",
+            "url": "https://claude.com/blog/cowork-is-now-claude",
+            "published": "Wed, 16 Sep 2026 16:26:25 +0000",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "This Code Is CRAP (2011)",
+            "description": "<p>Article URL: <a href=\"https://testing.googleblog.com/2011/02/this-code-is-crap.html\">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729228\">https://news.ycombinator.com/item?id=49729228</a></p>\n<p>Points: 56</p>\n<p># Comments: 39</p>",
+            "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+            "published": "Wed, 16 Sep 2026 16:13:55 +0000",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
+            "description": "Buckingham Palace has pushed back against the claim, saying grief can \"colour memory\" of events.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 17:47:17 GMT",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU chief backs plan for Canada to become 'associate member'",
+            "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 12:36:51 GMT",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Putney pusher' suspect found dead at home",
+            "description": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
+            "url": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 15:56:06 GMT",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK trade unions back motion to boycott and sanction Israel",
+            "description": "Motion demands taking action to oppose the &#039;catastrophic destruction of Gaza&#039; and Israeli settler violence.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 17:42:00 +0000",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Belarus frees 25 political prisoners in return for US sanctions relief",
+            "description": "The Trump administration said more releases would be secured soon amid improved US-Belarus relations.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 17:38:09 +0000",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kosovo’s former president guilty of war crimes",
+            "description": "Hashim Thaci, former President of Kosovo and KLA leader, has been found guilty of war crimes in the Hague.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 17:20:15 +0000",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T21:36:52+03:30"
+        }
+    ]
+}

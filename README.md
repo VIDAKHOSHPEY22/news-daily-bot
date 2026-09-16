@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 20:39:08
+**Last Update:** 2026-09-16 21:36:52
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Cowork and chat are now one Claude
+### 1. ER visits for gambling disorders doubled after expanded online gambling market
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market">https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49730239">https://news.ycombinator.com/item?id=49730239</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market](https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market)
+
+---
+
+### 2. Claude Cowork and chat are now one Claude
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://claude.com/blog/cowork-is-now-claude">https://claude.com/blog/cowork-is-now-claude</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729412">https://news.ycombinator.com/item?id=49729412</a></p>
-<p>Points: 22</p>
-<p># Comments: 9</p>
+<p>Points: 74</p>
+<p># Comments: 101</p>
 
 🔗 **Read more:** [https://claude.com/blog/cowork-is-now-claude](https://claude.com/blog/cowork-is-now-claude)
 
 ---
 
-### 2. Code Is CRAP [2011]
+### 3. This Code Is CRAP (2011)
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://testing.googleblog.com/2011/02/this-code-is-crap.html">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729228">https://news.ycombinator.com/item?id=49729228</a></p>
-<p>Points: 41</p>
-<p># Comments: 30</p>
+<p>Points: 56</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://testing.googleblog.com/2011/02/this-code-is-crap.html](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
 
 ---
 
-### 3. Small Programming Tricks
+### 4. Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://will-keleher.com/posts/small-programming-tricks-matter/">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729000">https://news.ycombinator.com/item?id=49729000</a></p>
-<p>Points: 66</p>
-<p># Comments: 46</p>
+Buckingham Palace has pushed back against the claim, saying grief can "colour memory" of events.
 
-🔗 **Read more:** [https://will-keleher.com/posts/small-programming-tricks-matter/](https://will-keleher.com/posts/small-programming-tricks-matter/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. EU chief backs plan for Canada to become 'associate member'
+### 5. EU chief backs plan for Canada to become 'associate member'
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Canada is seeking closer ties with EU after a breakdown in relations with the US
 
 ---
 
-### 5. 'Putney pusher' suspect found dead at home
+### 6. 'Putney pusher' suspect found dead at home
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Nicholas Brandram was a suspect in the incident where a woman was shoved into th
 
 ---
 
-### 6. Photos show widespread damage at US sites from Iranian attacks
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Poll shows Americans are increasingly alarmed by AI’s ecological footprint
+### 7. UK trade unions back motion to boycott and sanction Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New poll finds over half of Americans fear AI-driven data centers will hike electricity costs and strain water supplies.
+Motion demands taking action to oppose the &#039;catastrophic destruction of Gaza&#039; and Israeli settler violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss)
 
 ---
 
-### 8. Malaysia offers to invite Myanmar leader in Rohingya repatriation push
+### 8. Belarus frees 25 political prisoners in return for US sanctions relief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation.
+The Trump administration said more releases would be secured soon amid improved US-Belarus relations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss)
 
 ---
 
-### 9. Angry Dutch farmers blamed for railway sabotage: What happened?
+### 9. Kosovo’s former president guilty of war crimes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Farmers in the Netherlands have taken action in the past, protesting against the government’s nitrogen policy.
+Hashim Thaci, former President of Kosovo and KLA leader, has been found guilty of war crimes in the Hague.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss)
 
 ---
 
