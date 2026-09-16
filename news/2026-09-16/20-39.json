@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T20:39:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Cowork and chat are now one Claude",
+            "description": "<p>Article URL: <a href=\"https://claude.com/blog/cowork-is-now-claude\">https://claude.com/blog/cowork-is-now-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729412\">https://news.ycombinator.com/item?id=49729412</a></p>\n<p>Points: 22</p>\n<p># Comments: 9</p>",
+            "url": "https://claude.com/blog/cowork-is-now-claude",
+            "published": "Wed, 16 Sep 2026 16:26:25 +0000",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Code Is CRAP [2011]",
+            "description": "<p>Article URL: <a href=\"https://testing.googleblog.com/2011/02/this-code-is-crap.html\">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729228\">https://news.ycombinator.com/item?id=49729228</a></p>\n<p>Points: 41</p>\n<p># Comments: 30</p>",
+            "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+            "published": "Wed, 16 Sep 2026 16:13:55 +0000",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Small Programming Tricks",
+            "description": "<p>Article URL: <a href=\"https://will-keleher.com/posts/small-programming-tricks-matter/\">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729000\">https://news.ycombinator.com/item?id=49729000</a></p>\n<p>Points: 66</p>\n<p># Comments: 46</p>",
+            "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+            "published": "Wed, 16 Sep 2026 15:56:47 +0000",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU chief backs plan for Canada to become 'associate member'",
+            "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 12:36:51 GMT",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Putney pusher' suspect found dead at home",
+            "description": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
+            "url": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 15:56:06 GMT",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Photos show widespread damage at US sites from Iranian attacks",
+            "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+            "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 16:33:56 GMT",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poll shows Americans are increasingly alarmed by AI’s ecological footprint",
+            "description": "New poll finds over half of Americans fear AI-driven data centers will hike electricity costs and strain water supplies.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 16:45:04 +0000",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Malaysia offers to invite Myanmar leader in Rohingya repatriation push",
+            "description": "Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 16:39:11 +0000",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Angry Dutch farmers blamed for railway sabotage: What happened?",
+            "description": "Farmers in the Netherlands have taken action in the past, protesting against the government’s nitrogen policy.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 16:35:28 +0000",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T20:39:08+03:30"
+        }
+    ]
+}

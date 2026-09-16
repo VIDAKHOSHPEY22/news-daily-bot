@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 16:54:32
+**Last Update:** 2026-09-16 20:39:08
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. ImpactGate: A merge gate that scores the structural decay AI adds
+### 1. Claude Cowork and chat are now one Claude
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/officefloor/ImpactGate">https://github.com/officefloor/ImpactGate</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49726329">https://news.ycombinator.com/item?id=49726329</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://claude.com/blog/cowork-is-now-claude">https://claude.com/blog/cowork-is-now-claude</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729412">https://news.ycombinator.com/item?id=49729412</a></p>
+<p>Points: 22</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://github.com/officefloor/ImpactGate](https://github.com/officefloor/ImpactGate)
+🔗 **Read more:** [https://claude.com/blog/cowork-is-now-claude](https://claude.com/blog/cowork-is-now-claude)
 
 ---
 
-### 2. Kyber (YC W23) Is Hiring a Forward Deployed Engineer
+### 2. Code Is CRAP [2011]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer">https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49725541">https://news.ycombinator.com/item?id=49725541</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://testing.googleblog.com/2011/02/this-code-is-crap.html">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729228">https://news.ycombinator.com/item?id=49729228</a></p>
+<p>Points: 41</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer)
+🔗 **Read more:** [https://testing.googleblog.com/2011/02/this-code-is-crap.html](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
 
 ---
 
-### 3. Original Sony PlayStation 2 security chip 'broken wide open' after 26 years
+### 3. Small Programming Tricks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip">https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49725356">https://news.ycombinator.com/item?id=49725356</a></p>
-<p>Points: 57</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://will-keleher.com/posts/small-programming-tricks-matter/">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729000">https://news.ycombinator.com/item?id=49729000</a></p>
+<p>Points: 66</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
-
----
-
-### 4. Petrol and diesel price rises push UK inflation higher
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://will-keleher.com/posts/small-programming-tricks-matter/](https://will-keleher.com/posts/small-programming-tricks-matter/)
 
 ---
 
-### 5. EU chief backs plan for Canada to become 'associate member'
+### 4. EU chief backs plan for Canada to become 'associate member'
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Canada is seeking closer ties with EU after a breakdown in relations with the US
 
 ---
 
-### 6. How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career
+### 5. 'Putney pusher' suspect found dead at home
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.
+Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What is BRICS Pay, and can it rival the West’s SWIFT payments system?
+### 6. Photos show widespread damage at US sites from Iranian attacks
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Poll shows Americans are increasingly alarmed by AI’s ecological footprint
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-BRICS Pay is a decentralised digital system for making international payments in currencies other than the dollar.
+New poll finds over half of Americans fear AI-driven data centers will hike electricity costs and strain water supplies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint?traffic_source=rss)
 
 ---
 
-### 8. US political rivals Sanders and Bannon unite on AI warning
+### 8. Malaysia offers to invite Myanmar leader in Rohingya repatriation push
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US senator Bernie Sanders and Donald Trump’s former adviser Steve Bannon have united to warn against the dangers of AI.
+Malaysia has invited Myanmar’s military ruler for a visit to the country in a bid to expedite Rohingya repatriation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/us-political-rivals-sanders-and-bannon-unite-on-ai-warning?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/us-political-rivals-sanders-and-bannon-unite-on-ai-warning?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/malaysia-offers-to-invite-myanmar-leader-in-rohingya-repatriation-push?traffic_source=rss)
 
 ---
 
-### 9. At least 20 killed as multi-storey building collapses in Gaza City
+### 9. Angry Dutch farmers blamed for railway sabotage: What happened?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescuers are searching through the rubble for survivors after a damaged apartment building collapsed overnight in Gaza.
+Farmers in the Netherlands have taken action in the past, protesting against the government’s nitrogen policy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/angry-farmers-blamed-for-dutch-railways-sabotage-what-happened?traffic_source=rss)
 
 ---
 
