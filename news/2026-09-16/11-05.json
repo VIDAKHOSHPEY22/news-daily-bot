@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T11:05:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+            "description": "<p>Article URL: <a href=\"https://github.com/dbalsom/martypc\">https://github.com/dbalsom/martypc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722591\">https://news.ycombinator.com/item?id=49722591</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/dbalsom/martypc",
+            "published": "Wed, 16 Sep 2026 05:56:02 +0000",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A software thing I built: GPS on a 25MHz 486-SX",
+            "description": "<p>Article URL: <a href=\"https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/\">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722521\">https://news.ycombinator.com/item?id=49722521</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+            "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+            "published": "Wed, 16 Sep 2026 05:43:44 +0000",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Datamimic – don't let your coding agent invent its own test world",
+            "description": "<p>Article URL: <a href=\"https://github.com/rapiddweller/datamimic\">https://github.com/rapiddweller/datamimic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722276\">https://news.ycombinator.com/item?id=49722276</a></p>\n<p>Points: 25</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/rapiddweller/datamimic",
+            "published": "Wed, 16 Sep 2026 04:58:36 +0000",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+            "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 06:57:32 GMT",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+            "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 01:29:20 GMT",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK in talks about joining global defence bank led by Canada",
+            "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 23:50:55 GMT",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US charges five people over alleged Russian plots",
+            "description": "Prosecutors said that the group worked on behalf of Russian intelligence services to carry out attacks and murders.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 06:57:10 +0000",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Manchester derby VAR error caused by ‘tunnel vision’: Pro Ref chief Webb",
+            "description": "Howard Webb says the referees&#039; body is disappointed with the decision to allow Haaland&#039;s goal against Manchester United.",
+            "url": "https://www.aljazeera.com/sports/2026/9/16/manchester-derby-var-error-caused-by-tunnel-vision-pro-ref-chief-webb?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 06:25:35 +0000",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US House votes to end Iran war, 7 Republicans join in favour",
+            "description": "For a third time, the US House approved a war powers resolution, halting Trump&#039;s ability to continue military action.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 05:36:53 +0000",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T11:05:12+03:30"
+        }
+    ]
+}

@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 09:41:52
+**Last Update:** 2026-09-16 11:05:12
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Datamimic – don't let your coding agent invent its own test world
+### 1. MartyPC – A Cycle-Accurate IBM PC/XT Emulator
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/dbalsom/martypc">https://github.com/dbalsom/martypc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722591">https://news.ycombinator.com/item?id=49722591</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/dbalsom/martypc](https://github.com/dbalsom/martypc)
+
+---
+
+### 2. A software thing I built: GPS on a 25MHz 486-SX
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722521">https://news.ycombinator.com/item?id=49722521</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/](https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/)
+
+---
+
+### 3. Datamimic – don't let your coding agent invent its own test world
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/rapiddweller/datamimic">https://github.com/rapiddweller/datamimic</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49722276">https://news.ycombinator.com/item?id=49722276</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Points: 25</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://github.com/rapiddweller/datamimic](https://github.com/rapiddweller/datamimic)
-
----
-
-### 2. Negativland, Culture Jamming, and the Art of Making Something New
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721548">https://news.ycombinator.com/item?id=49721548</a></p>
-<p>Points: 60</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
-
----
-
-### 3. Stay discoverable in search while disallowing AI training
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/">https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49721435">https://news.ycombinator.com/item?id=49721435</a></p>
-<p>Points: 47</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 
 ---
 
@@ -97,7 +97,33 @@ Supporters of the scheme say the bank would enable governments to get cheaper lo
 
 ---
 
-### 7. US House votes to end Iran war, 7 Republicans join in favour
+### 7. US charges five people over alleged Russian plots
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Prosecutors said that the group worked on behalf of Russian intelligence services to carry out attacks and murders.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-charges-five-people-over-alleged-russian-assassination-plots?traffic_source=rss)
+
+---
+
+### 8. Manchester derby VAR error caused by ‘tunnel vision’: Pro Ref chief Webb
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Howard Webb says the referees&#039; body is disappointed with the decision to allow Haaland&#039;s goal against Manchester United.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/manchester-derby-var-error-caused-by-tunnel-vision-pro-ref-chief-webb?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/manchester-derby-var-error-caused-by-tunnel-vision-pro-ref-chief-webb?traffic_source=rss)
+
+---
+
+### 9. US House votes to end Iran war, 7 Republicans join in favour
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Supporters of the scheme say the bank would enable governments to get cheaper lo
 For a third time, the US House approved a war powers resolution, halting Trump&#039;s ability to continue military action.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss)
-
----
-
-### 8. Seoul court orders North Korea to pay $32.5m for blowing up office
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pyongyang blew up the Inter-Korean Liaison Office building in June 2020 after days of rising tensions.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/seoul-court-orders-north-korea-to-pay-32-5m-for-blowing-up-office?traffic_source=rss)
-
----
-
-### 9. What’s the Pinglu Canal, China’s new gateway to Southeast Asia?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-China&#039;s first modern river-to-sea canal could significantly cut down time and costs of trade to Southeast Asia.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/whats-the-pinglu-canal-chinas-new-gateway-to-southeast-asia?traffic_source=rss)
 
 ---
 
