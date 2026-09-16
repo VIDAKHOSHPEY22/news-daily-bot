@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 01:32:21
+**Last Update:** 2026-09-17 02:33:09
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.16338">https://arxiv.org/abs/2609.16338</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732931">https://news.ycombinator.com/item?id=49732931</a></p>
-<p>Points: 41</p>
-<p># Comments: 0</p>
+<p>Points: 82</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.16338](https://arxiv.org/abs/2609.16338)
 
 ---
 
-### 2. Xiaomi Mimo 2.6 live post-training dashboard
+### 2. Backups Aren't Simple
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://filipovski.net/2026/09/16/backups-arent-simple.html">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732513">https://news.ycombinator.com/item?id=49732513</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://filipovski.net/2026/09/16/backups-arent-simple.html](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+
+---
+
+### 3. Xiaomi Mimo 2.6 live post-training dashboard
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://mimo.xiaomi.com/rl/">https://mimo.xiaomi.com/rl/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732270">https://news.ycombinator.com/item?id=49732270</a></p>
-<p>Points: 122</p>
-<p># Comments: 34</p>
+<p>Points: 168</p>
+<p># Comments: 46</p>
 
 🔗 **Read more:** [https://mimo.xiaomi.com/rl/](https://mimo.xiaomi.com/rl/)
-
----
-
-### 3. macOS 27 Golden Gate – Review
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/">https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732036">https://news.ycombinator.com/item?id=49732036</a></p>
-<p>Points: 63</p>
-<p># Comments: 55</p>
-
-🔗 **Read more:** [https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
 
 ---
 
@@ -78,7 +78,7 @@ Police divers discover child's body in a pond after Noah went missing from a pla
 **Category:** world
 
 **Description:**
-The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.
+Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss)
 
@@ -97,7 +97,33 @@ Diana's brother claimed the then-Prince of Wales said she would be forgotten "so
 
 ---
 
-### 7. Manchester United lose 3-2 to Brighton, crash out of League Cup
+### 7. For checkpoint and settler attack news, Palestinians tune into the radio
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss)
+
+---
+
+### 8. Macklemore pledges $1m in tour earnings to Palestinian groups
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss)
+
+---
+
+### 9. Manchester United lose 3-2 to Brighton, crash out of League Cup
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Diana's brother claimed the then-Prince of Wales said she would be forgotten "so
 Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss)
-
----
-
-### 8. Rescue workers search for survivors after Gaza building collapse
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Rescue workers search for survivors after Gaza building collapse
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss)
-
----
-
-### 9. US removes Venezuela from list of drug transit, production countries
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump says the country has made progress against narcotics since Maduro&#039;s removal, may also remove Colombia and Bolivia.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss)
 
 ---
 

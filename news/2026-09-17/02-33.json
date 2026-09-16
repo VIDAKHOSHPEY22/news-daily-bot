@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-17T02:33:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.16338\">https://arxiv.org/abs/2609.16338</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732931\">https://news.ycombinator.com/item?id=49732931</a></p>\n<p>Points: 82</p>\n<p># Comments: 5</p>",
+            "url": "https://arxiv.org/abs/2609.16338",
+            "published": "Wed, 16 Sep 2026 20:59:24 +0000",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Backups Aren't Simple",
+            "description": "<p>Article URL: <a href=\"https://filipovski.net/2026/09/16/backups-arent-simple.html\">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732513\">https://news.ycombinator.com/item?id=49732513</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+            "published": "Wed, 16 Sep 2026 20:27:16 +0000",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+            "description": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/rl/\">https://mimo.xiaomi.com/rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732270\">https://news.ycombinator.com/item?id=49732270</a></p>\n<p>Points: 168</p>\n<p># Comments: 46</p>",
+            "url": "https://mimo.xiaomi.com/rl/",
+            "published": "Wed, 16 Sep 2026 20:09:18 +0000",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Body found in search for missing three-year-old Noah Woods",
+            "description": "Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 18:50:09 GMT",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US interest rates raised for first time in three years",
+            "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 22:16:51 GMT",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
+            "description": "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 20:46:30 GMT",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
+            "description": "Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 22:30:34 +0000",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+            "description": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 22:18:49 +0000",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+            "description": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
+            "url": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 21:41:36 +0000",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-17T02:33:09+03:30"
+        }
+    ]
+}
