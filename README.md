@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 01:35:10
+**Last Update:** 2026-09-16 04:02:24
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
+### 1. Saving Jet Fuel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49720164">https://news.ycombinator.com/item?id=49720164</a></p>
+<p>Points: 16</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html](https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html)
+
+---
+
+### 2. German Rheinmetall open-sources its Battlesuite connected weapon system protcol
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718928">https://news.ycombinator.com/item?id=49718928</a></p>
-<p>Points: 54</p>
-<p># Comments: 4</p>
+<p>Points: 105</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
 
 ---
 
-### 2. Jean-Pierre Serre is 100 years old today
+### 3. Jean-Pierre Serre is 100 years old today
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Serre/">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49718822">https://news.ycombinator.com/item?id=49718822</a></p>
-<p>Points: 42</p>
-<p># Comments: 7</p>
+<p>Points: 76</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://mathshistory.st-andrews.ac.uk/Biographies/Serre/](https://mathshistory.st-andrews.ac.uk/Biographies/Serre/)
 
 ---
 
-### 3. Building a Linux GPU Driver for the M4 Mac Mini in One Month
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://codyho.dev/blog/gpu-driver/">https://codyho.dev/blog/gpu-driver/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49717638">https://news.ycombinator.com/item?id=49717638</a></p>
-<p>Points: 61</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://codyho.dev/blog/gpu-driver/](https://codyho.dev/blog/gpu-driver/)
-
----
-
-### 4. Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented
+### 4. OpenAI boss says world 'right to be afraid' but 'should trust' AI firms
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Plans will be "urgently" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes.
+Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,59 +84,59 @@ The star said he was not responsible for Macklemore being dropped from the line-
 
 ---
 
-### 6. Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault
+### 6. Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.
+Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US Senate crypto bill collapses in blow to industry
+### 7. Iran war live: Iran’s top diplomat heads to China as war drags on
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market
+Iranian foreign minister heads to China as Beijing seeks to mediate an end to the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss)
 
 ---
 
-### 8. Hundreds protest in DR Congo against third presidential term
+### 8. Panic on board Iranian plane as violent shaking rips cabin apart
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds protest in DR Congo against third presidential term
+A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss)
 
 ---
 
-### 9. Romanian shepards and farmers clash with police
+### 9. Argentina intensifies campaign against Falklands oil companies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dozens injured as 2,000 farmers - backed by far-right groups - protest the extension of a livestock export ban.
+Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss](https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Norbert
+### 10. Cyclone Norbert
 
 **Source:** NASA
 

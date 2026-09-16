@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T04:02:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Saving Jet Fuel",
+            "description": "<p>Article URL: <a href=\"https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html\">https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49720164\">https://news.ycombinator.com/item?id=49720164</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
+            "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+            "published": "Tue, 15 Sep 2026 23:17:20 +0000",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+            "description": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 105</p>\n<p># Comments: 28</p>",
+            "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+            "published": "Tue, 15 Sep 2026 21:07:47 +0000",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jean-Pierre Serre is 100 years old today",
+            "description": "<p>Article URL: <a href=\"https://mathshistory.st-andrews.ac.uk/Biographies/Serre/\">https://mathshistory.st-andrews.ac.uk/Biographies/Serre/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718822\">https://news.ycombinator.com/item?id=49718822</a></p>\n<p>Points: 76</p>\n<p># Comments: 13</p>",
+            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+            "published": "Tue, 15 Sep 2026 20:57:18 +0000",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+            "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 00:13:09 GMT",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+            "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 21:07:13 GMT",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+            "description": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 00:25:34 GMT",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Iran’s top diplomat heads to China as war drags on",
+            "description": "Iranian foreign minister heads to China as Beijing seeks to mediate an end to the war.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
+            "description": "A Sepehran Airlines Boeing 737 cabin rips apart after an emergency landing in Mashhad, Iran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 23:47:56 +0000",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina intensifies campaign against Falklands oil companies",
+            "description": "Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.",
+            "url": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
+            "published": "Tue, 15 Sep 2026 23:03:52 +0000",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T04:02:24+03:30"
+        }
+    ]
+}
