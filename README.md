@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 15:20:31
+**Last Update:** 2026-09-16 16:54:32
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Google Play app review process now regularly takes longer than a week
+### 1. ImpactGate: A merge gate that scores the structural decay AI adds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gultsch.social/@daniel/117280438824908947">https://gultsch.social/@daniel/117280438824908947</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724927">https://news.ycombinator.com/item?id=49724927</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/officefloor/ImpactGate">https://github.com/officefloor/ImpactGate</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49726329">https://news.ycombinator.com/item?id=49726329</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://gultsch.social/@daniel/117280438824908947](https://gultsch.social/@daniel/117280438824908947)
+🔗 **Read more:** [https://github.com/officefloor/ImpactGate](https://github.com/officefloor/ImpactGate)
 
 ---
 
-### 2. Devastated father says his 9-year-old son spent $118,000 on YouTube ads
+### 2. Kyber (YC W23) Is Hiring a Forward Deployed Engineer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion">https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724849">https://news.ycombinator.com/item?id=49724849</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer">https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49725541">https://news.ycombinator.com/item?id=49725541</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion](https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaigns-for-his-minecraft-channel-using-a-company-credit-card-bill-racked-up-in-just-three-weeks-was-supposed-to-be-one-usd20-promotion)
+🔗 **Read more:** [https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer)
 
 ---
 
-### 3. Salesforce Global Outage
+### 3. Original Sony PlayStation 2 security chip 'broken wide open' after 26 years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.salesforce.com/products/all">https://status.salesforce.com/products/all</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49724488">https://news.ycombinator.com/item?id=49724488</a></p>
-<p>Points: 44</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip">https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49725356">https://news.ycombinator.com/item?id=49725356</a></p>
+<p>Points: 57</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://status.salesforce.com/products/all](https://status.salesforce.com/products/all)
+🔗 **Read more:** [https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip](https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip)
 
 ---
 
@@ -84,55 +84,55 @@ Canada is seeking closer ties with EU after a breakdown in relations with the US
 
 ---
 
-### 6. Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments
+### 6. How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.
+Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Alex Eala firm on Asian Games participation despite threat of WTA fine
+### 7. What is BRICS Pay, and can it rival the West’s SWIFT payments system?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-National lawmakers propose paying her fine should WTA impose it on her for skipping the concurrent mandatory China Open.
+BRICS Pay is a decentralised digital system for making international payments in currencies other than the dollar.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/alex-eala-firm-on-asian-games-participation-despite-threat-of-wta-fine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system?traffic_source=rss)
 
 ---
 
-### 8. Moment Kash Patel’s senate hearing takes bizarre turn
+### 8. US political rivals Sanders and Bannon unite on AI warning
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moment Kash Patel&#039;s senate hearing takes bizarre turn
+US senator Bernie Sanders and Donald Trump’s former adviser Steve Bannon have united to warn against the dangers of AI.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/moment-kash-patels-senate-hearing-takes-bizarre-turn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/moment-kash-patels-senate-hearing-takes-bizarre-turn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/us-political-rivals-sanders-and-bannon-unite-on-ai-warning?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/us-political-rivals-sanders-and-bannon-unite-on-ai-warning?traffic_source=rss)
 
 ---
 
-### 9. India summons Pakistani diplomat after incident in Arabian Sea
+### 9. At least 20 killed as multi-storey building collapses in Gaza City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India accuses Pakistan of ignoring bilateral agreement after collison between the two countries&#039; navies.
+Rescuers are searching through the rubble for survivors after a damaged apartment building collapsed overnight in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/india-summons-pakistani-diplomat-after-incident-in-arabian-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss)
 
 ---
 

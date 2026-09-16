@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T16:54:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+            "description": "<p>Article URL: <a href=\"https://github.com/officefloor/ImpactGate\">https://github.com/officefloor/ImpactGate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726329\">https://news.ycombinator.com/item?id=49726329</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/officefloor/ImpactGate",
+            "published": "Wed, 16 Sep 2026 13:01:09 +0000",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer\">https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725541\">https://news.ycombinator.com/item?id=49725541</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+            "published": "Wed, 16 Sep 2026 12:01:09 +0000",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip\">https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725356\">https://news.ycombinator.com/item?id=49725356</a></p>\n<p>Points: 57</p>\n<p># Comments: 11</p>",
+            "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+            "published": "Wed, 16 Sep 2026 11:49:40 +0000",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Petrol and diesel price rises push UK inflation higher",
+            "description": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+            "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 12:16:56 GMT",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU chief backs plan for Canada to become 'associate member'",
+            "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 12:36:51 GMT",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+            "description": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
+            "url": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 11:50:12 GMT",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What is BRICS Pay, and can it rival the West’s SWIFT payments system?",
+            "description": "BRICS Pay is a decentralised digital system for making international payments in currencies other than the dollar.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/what-is-brics-pay-and-can-it-rival-the-wests-swift-payments-system?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 12:53:07 +0000",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US political rivals Sanders and Bannon unite on AI warning",
+            "description": "US senator Bernie Sanders and Donald Trump’s former adviser Steve Bannon have united to warn against the dangers of AI.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/us-political-rivals-sanders-and-bannon-unite-on-ai-warning?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 12:39:47 +0000",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 20 killed as multi-storey building collapses in Gaza City",
+            "description": "Rescuers are searching through the rubble for survivors after a damaged apartment building collapsed overnight in Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-20-killed-as-multi-storey-building-collapses-in-gaza-city?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 12:32:47 +0000",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T16:54:32+03:30"
+        }
+    ]
+}
