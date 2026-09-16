@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 23:45:58
+**Last Update:** 2026-09-17 01:32:21
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How good are frontier models at physics?
+### 1. Breaking the 1.58-bit Barrier for Ternary LLMs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.13009">https://arxiv.org/abs/2609.13009</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731620">https://news.ycombinator.com/item?id=49731620</a></p>
-<p>Points: 17</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.16338">https://arxiv.org/abs/2609.16338</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732931">https://news.ycombinator.com/item?id=49732931</a></p>
+<p>Points: 41</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.13009](https://arxiv.org/abs/2609.13009)
+🔗 **Read more:** [https://arxiv.org/abs/2609.16338](https://arxiv.org/abs/2609.16338)
 
 ---
 
-### 2. Fed Raises Rates for First Time in Three Years
+### 2. Xiaomi Mimo 2.6 live post-training dashboard
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe">https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731515">https://news.ycombinator.com/item?id=49731515</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://mimo.xiaomi.com/rl/">https://mimo.xiaomi.com/rl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732270">https://news.ycombinator.com/item?id=49732270</a></p>
+<p>Points: 122</p>
+<p># Comments: 34</p>
 
-🔗 **Read more:** [https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe](https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe)
+🔗 **Read more:** [https://mimo.xiaomi.com/rl/](https://mimo.xiaomi.com/rl/)
 
 ---
 
-### 3. Accurate Models of AMD Matrix Cores
+### 3. macOS 27 Golden Gate – Review
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.14845">https://arxiv.org/abs/2609.14845</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731360">https://news.ycombinator.com/item?id=49731360</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/">https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732036">https://news.ycombinator.com/item?id=49732036</a></p>
+<p>Points: 63</p>
+<p># Comments: 55</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.14845](https://arxiv.org/abs/2609.14845)
+🔗 **Read more:** [https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/](https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/)
 
 ---
 
@@ -71,68 +71,68 @@ Police divers discover child's body in a pond after Noah went missing from a pla
 
 ---
 
-### 5. Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book
+### 5. US interest rates raised for first time in three years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Buckingham Palace has pushed back against the claim, saying grief can "colour memory" of events.
+The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. 'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Diana's brother claimed the then-Prince of Wales said she would be forgotten "soon enough" days after her death.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. EU chief backs plan for Canada to become 'associate member'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Al-Mughayyir: A village under siege
+### 7. Manchester United lose 3-2 to Brighton, crash out of League Cup
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.
+Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss)
 
 ---
 
-### 8. Republican US senator slams Trump vaccine policy amid rising measles deaths
+### 8. Rescue workers search for survivors after Gaza building collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Senator Bill Cassidy presses Trump&#039;s pick for surgeon general on views over vaccines, public health.
+Rescue workers search for survivors after Gaza building collapse
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss)
 
 ---
 
-### 9. Lebanon returns 37 artefacts smuggled out of Egypt six years ago
+### 9. US removes Venezuela from list of drug transit, production countries
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.
+Trump says the country has made progress against narcotics since Maduro&#039;s removal, may also remove Colombia and Bolivia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss)
 
 ---
 
