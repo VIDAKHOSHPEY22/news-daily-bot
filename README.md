@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-16 21:36:52
+**Last Update:** 2026-09-16 23:45:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. ER visits for gambling disorders doubled after expanded online gambling market
+### 1. How good are frontier models at physics?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market">https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49730239">https://news.ycombinator.com/item?id=49730239</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.13009">https://arxiv.org/abs/2609.13009</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731620">https://news.ycombinator.com/item?id=49731620</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market](https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market)
+🔗 **Read more:** [https://arxiv.org/abs/2609.13009](https://arxiv.org/abs/2609.13009)
 
 ---
 
-### 2. Claude Cowork and chat are now one Claude
+### 2. Fed Raises Rates for First Time in Three Years
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.com/blog/cowork-is-now-claude">https://claude.com/blog/cowork-is-now-claude</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729412">https://news.ycombinator.com/item?id=49729412</a></p>
-<p>Points: 74</p>
-<p># Comments: 101</p>
+<p>Article URL: <a href="https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe">https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731515">https://news.ycombinator.com/item?id=49731515</a></p>
+<p>Points: 15</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://claude.com/blog/cowork-is-now-claude](https://claude.com/blog/cowork-is-now-claude)
+🔗 **Read more:** [https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe](https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe)
 
 ---
 
-### 3. This Code Is CRAP (2011)
+### 3. Accurate Models of AMD Matrix Cores
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://testing.googleblog.com/2011/02/this-code-is-crap.html">https://testing.googleblog.com/2011/02/this-code-is-crap.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49729228">https://news.ycombinator.com/item?id=49729228</a></p>
-<p>Points: 56</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.14845">https://arxiv.org/abs/2609.14845</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49731360">https://news.ycombinator.com/item?id=49731360</a></p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://testing.googleblog.com/2011/02/this-code-is-crap.html](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+🔗 **Read more:** [https://arxiv.org/abs/2609.14845](https://arxiv.org/abs/2609.14845)
 
 ---
 
-### 4. Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book
+### 4. Body found in search for missing three-year-old Noah Woods
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Buckingham Palace has pushed back against the claim, saying grief can "colour me
 
 ---
 
-### 5. EU chief backs plan for Canada to become 'associate member'
+### 6. EU chief backs plan for Canada to become 'associate member'
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Canada is seeking closer ties with EU after a breakdown in relations with the US
 
 ---
 
-### 6. 'Putney pusher' suspect found dead at home
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. UK trade unions back motion to boycott and sanction Israel
+### 7. Al-Mughayyir: A village under siege
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Motion demands taking action to oppose the &#039;catastrophic destruction of Gaza&#039; and Israeli settler violence.
+In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/uk-trade-unions-back-motion-to-boycott-and-sanction-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss)
 
 ---
 
-### 8. Belarus frees 25 political prisoners in return for US sanctions relief
+### 8. Republican US senator slams Trump vaccine policy amid rising measles deaths
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Trump administration said more releases would be secured soon amid improved US-Belarus relations.
+US Senator Bill Cassidy presses Trump&#039;s pick for surgeon general on views over vaccines, public health.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/belarus-frees-25-political-prisoners-in-return-for-us-sanctions-relief?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss)
 
 ---
 
-### 9. Kosovo’s former president guilty of war crimes
+### 9. Lebanon returns 37 artefacts smuggled out of Egypt six years ago
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hashim Thaci, former President of Kosovo and KLA leader, has been found guilty of war crimes in the Hague.
+The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/16/kosovos-former-president-guilty-of-war-crimes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-16T23:45:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How good are frontier models at physics?",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.13009\">https://arxiv.org/abs/2609.13009</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731620\">https://news.ycombinator.com/item?id=49731620</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+            "url": "https://arxiv.org/abs/2609.13009",
+            "published": "Wed, 16 Sep 2026 19:19:08 +0000",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fed Raises Rates for First Time in Three Years",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe\">https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731515\">https://news.ycombinator.com/item?id=49731515</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe",
+            "published": "Wed, 16 Sep 2026 19:09:22 +0000",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Accurate Models of AMD Matrix Cores",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.14845\">https://arxiv.org/abs/2609.14845</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731360\">https://news.ycombinator.com/item?id=49731360</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
+            "url": "https://arxiv.org/abs/2609.14845",
+            "published": "Wed, 16 Sep 2026 18:56:05 +0000",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Body found in search for missing three-year-old Noah Woods",
+            "description": "Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 18:50:09 GMT",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
+            "description": "Buckingham Palace has pushed back against the claim, saying grief can \"colour memory\" of events.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 17:47:17 GMT",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "EU chief backs plan for Canada to become 'associate member'",
+            "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 12:36:51 GMT",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al-Mughayyir: A village under siege",
+            "description": "In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 19:48:05 +0000",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
+            "description": "US Senator Bill Cassidy presses Trump&#039;s pick for surgeon general on views over vaccines, public health.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 19:45:30 +0000",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
+            "description": "The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.",
+            "url": "https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss",
+            "published": "Wed, 16 Sep 2026 19:44:05 +0000",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-16T23:45:58+03:30"
+        }
+    ]
+}
