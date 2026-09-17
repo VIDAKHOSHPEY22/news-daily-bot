@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T01:01:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bend",
+            "description": "<p>Article URL: <a href=\"https://bend-lang.com/\">https://bend-lang.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746163\">https://news.ycombinator.com/item?id=49746163</a></p>\n<p>Points: 74</p>\n<p># Comments: 18</p>",
+            "url": "https://bend-lang.com/",
+            "published": "Thu, 17 Sep 2026 20:36:13 +0000",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Astra for Law",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/astra-for-law/\">https://openai.com/index/astra-for-law/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745940\">https://news.ycombinator.com/item?id=49745940</a></p>\n<p>Points: 116</p>\n<p># Comments: 85</p>",
+            "url": "https://openai.com/index/astra-for-law/",
+            "published": "Thu, 17 Sep 2026 20:17:48 +0000",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Everybody's Lost Their Minds",
+            "description": "<p>Article URL: <a href=\"https://www.netmeister.org/blog/everybodys-lost-their-minds.html\">https://www.netmeister.org/blog/everybodys-lost-their-minds.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49745570\">https://news.ycombinator.com/item?id=49745570</a></p>\n<p>Points: 138</p>\n<p># Comments: 53</p>",
+            "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+            "published": "Thu, 17 Sep 2026 19:43:34 +0000",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+            "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
+            "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 15:08:05 GMT",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+            "description": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+            "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 18:56:31 GMT",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Interest rates held but Bank signals rise if energy prices stay high",
+            "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 14:05:38 GMT",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
+            "description": "The CDC and officials from the US state differ over how four deaths should be classified as cases continue to spread.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 21:08:51 +0000",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia, China veto UN mandate to monitor Iran sanctions",
+            "description": "Move ends the Security Council’s watchdog panel on Iran sanctions.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 21:01:41 +0000",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+            "description": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 20:47:52 +0000",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T01:01:41+03:30"
+        }
+    ]
+}
