@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 02:33:09
+**Last Update:** 2026-09-17 04:46:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Breaking the 1.58-bit Barrier for Ternary LLMs
+### 1. OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.16338">https://arxiv.org/abs/2609.16338</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732931">https://news.ycombinator.com/item?id=49732931</a></p>
-<p>Points: 82</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2609.16338](https://arxiv.org/abs/2609.16338)
-
----
-
-### 2. Backups Aren't Simple
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://filipovski.net/2026/09/16/backups-arent-simple.html">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732513">https://news.ycombinator.com/item?id=49732513</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html">https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735180">https://news.ycombinator.com/item?id=49735180</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://filipovski.net/2026/09/16/backups-arent-simple.html](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+🔗 **Read more:** [https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)
 
 ---
 
-### 3. Xiaomi Mimo 2.6 live post-training dashboard
+### 2. OpenSpec – A lightweight and configurable AI spec framework
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mimo.xiaomi.com/rl/">https://mimo.xiaomi.com/rl/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49732270">https://news.ycombinator.com/item?id=49732270</a></p>
-<p>Points: 168</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://openspec.dev/">https://openspec.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734264">https://news.ycombinator.com/item?id=49734264</a></p>
+<p>Points: 53</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://mimo.xiaomi.com/rl/](https://mimo.xiaomi.com/rl/)
+🔗 **Read more:** [https://openspec.dev/](https://openspec.dev/)
+
+---
+
+### 3. Australia says it could follow Canada in forging deeper ties with EU
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html">https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734171">https://news.ycombinator.com/item?id=49734171</a></p>
+<p>Points: 109</p>
+<p># Comments: 61</p>
+
+🔗 **Read more:** [https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
 
 ---
 
@@ -97,42 +97,42 @@ Diana's brother claimed the then-Prince of Wales said she would be forgotten "so
 
 ---
 
-### 7. For checkpoint and settler attack news, Palestinians tune into the radio
+### 7. Congress passes sweeping US sanctions bill targeting Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.
+The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss)
 
 ---
 
-### 8. Macklemore pledges $1m in tour earnings to Palestinian groups
+### 8. US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.
+The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss](https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss)
 
 ---
 
-### 9. Manchester United lose 3-2 to Brighton, crash out of League Cup
+### 9. Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.
+The US president threatened heavy tariffs and said the US could cut some trade with Europe over the proposed status.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss)
 
 ---
 
