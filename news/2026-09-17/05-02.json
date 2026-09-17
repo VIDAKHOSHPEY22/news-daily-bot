@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-17T05:02:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html\">https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735180\">https://news.ycombinator.com/item?id=49735180</a></p>\n<p>Points: 8</p>\n<p># Comments: 4</p>",
+            "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+            "published": "Thu, 17 Sep 2026 01:02:13 +0000",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenSpec – A lightweight and configurable AI spec framework",
+            "description": "<p>Article URL: <a href=\"https://openspec.dev/\">https://openspec.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734264\">https://news.ycombinator.com/item?id=49734264</a></p>\n<p>Points: 57</p>\n<p># Comments: 15</p>",
+            "url": "https://openspec.dev/",
+            "published": "Wed, 16 Sep 2026 23:06:39 +0000",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Australia says it could follow Canada in forging deeper ties with EU",
+            "description": "<p>Article URL: <a href=\"https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html\">https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734171\">https://news.ycombinator.com/item?id=49734171</a></p>\n<p>Points: 117</p>\n<p># Comments: 70</p>",
+            "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+            "published": "Wed, 16 Sep 2026 22:56:48 +0000",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Body found in search for missing three-year-old Noah Woods",
+            "description": "Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 18:50:09 GMT",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US interest rates raised for first time in three years",
+            "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 00:40:17 GMT",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
+            "description": "Diana's brother claimed the then-Prince of Wales said she would be forgotten \"soon enough\" days after her death.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 20:46:30 GMT",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK and Canada discuss AI risks and defence ties in first bilateral meeting",
+            "description": "UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 01:14:26 +0000",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Congress passes sweeping US sanctions bill targeting Russia",
+            "description": "The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine",
+            "url": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 00:55:13 +0000",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
+            "description": "The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 00:32:54 +0000",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-17T05:02:28+03:30"
+        }
+    ]
+}

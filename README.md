@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 04:46:57
+**Last Update:** 2026-09-17 05:02:28
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html">https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735180">https://news.ycombinator.com/item?id=49735180</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://openspec.dev/">https://openspec.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734264">https://news.ycombinator.com/item?id=49734264</a></p>
-<p>Points: 53</p>
-<p># Comments: 14</p>
+<p>Points: 57</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://openspec.dev/](https://openspec.dev/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html">https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734171">https://news.ycombinator.com/item?id=49734171</a></p>
-<p>Points: 109</p>
-<p># Comments: 61</p>
+<p>Points: 117</p>
+<p># Comments: 70</p>
 
 🔗 **Read more:** [https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
 
@@ -97,7 +97,20 @@ Diana's brother claimed the then-Prince of Wales said she would be forgotten "so
 
 ---
 
-### 7. Congress passes sweeping US sanctions bill targeting Russia
+### 7. UK and Canada discuss AI risks and defence ties in first bilateral meeting
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss)
+
+---
+
+### 8. Congress passes sweeping US sanctions bill targeting Russia
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The bill marks the first time in more than two years the US Congress has passed 
 
 ---
 
-### 8. US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’
+### 9. US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The bill marks the first time in more than two years the US Congress has passed 
 The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss)
-
----
-
-### 9. Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president threatened heavy tariffs and said the US could cut some trade with Europe over the proposed status.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss)
 
 ---
 
