@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-17T21:51:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Economic Policy for AGI",
+            "description": "<p>Article URL: <a href=\"https://institute.deepmind.com/essays/economic-policy-for-agi/\">https://institute.deepmind.com/essays/economic-policy-for-agi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743685\">https://news.ycombinator.com/item?id=49743685</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+            "url": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
+            "published": "Thu, 17 Sep 2026 17:12:51 +0000",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+            "description": "<p>Article URL: <a href=\"https://zscc.ai/careers?job_id=109821\">https://zscc.ai/careers?job_id=109821</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743567\">https://news.ycombinator.com/item?id=49743567</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://zscc.ai/careers?job_id=109821",
+            "published": "Thu, 17 Sep 2026 17:00:59 +0000",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Towards Self-Driving Codebases",
+            "description": "<p>Article URL: <a href=\"https://blog.detail.dev/posts/towards-self-driving-codebases/\">https://blog.detail.dev/posts/towards-self-driving-codebases/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49743527\">https://news.ycombinator.com/item?id=49743527</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
+            "published": "Thu, 17 Sep 2026 16:58:31 +0000",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+            "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
+            "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 15:08:05 GMT",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Interest rates held but Bank signals rise if energy prices stay high",
+            "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 14:05:38 GMT",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+            "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" to local people.",
+            "url": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 14:54:53 GMT",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The UK’s King Charles warns AI leaders of ‘existential dangers’",
+            "description": "British monarch highlights AI&#039;s potential darker capacities, urging safety and humanity-focused development.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 17:29:54 +0000",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN fact-finding mission says US committed possible war crimes in Iran",
+            "description": "The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 17:02:31 +0000",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends",
+            "description": "Chelsea announce that Clearlake will acquire the stakes of Todd Boehly and director Mark Walter.",
+            "url": "https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 16:23:49 +0000",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-17T21:51:45+03:30"
+        }
+    ]
+}
