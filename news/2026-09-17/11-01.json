@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-17T11:01:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cloudflare/Security-Audit-Skill",
+            "description": "<p>Article URL: <a href=\"https://github.com/cloudflare/security-audit-skill\">https://github.com/cloudflare/security-audit-skill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49736466\">https://news.ycombinator.com/item?id=49736466</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/cloudflare/security-audit-skill",
+            "published": "Thu, 17 Sep 2026 04:36:55 +0000",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+            "description": "<p>Article URL: <a href=\"https://github.com/browser-use/jev-ultrafast\">https://github.com/browser-use/jev-ultrafast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735979\">https://news.ycombinator.com/item?id=49735979</a></p>\n<p>Points: 29</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/browser-use/jev-ultrafast",
+            "published": "Thu, 17 Sep 2026 03:12:05 +0000",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+            "description": "<p>Article URL: <a href=\"https://ryan.science/blog/keys-not-included\">https://ryan.science/blog/keys-not-included</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735930\">https://news.ycombinator.com/item?id=49735930</a></p>\n<p>Points: 132</p>\n<p># Comments: 47</p>",
+            "url": "https://ryan.science/blog/keys-not-included",
+            "published": "Thu, 17 Sep 2026 03:03:23 +0000",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Palace in war of words with Earl Spencer over claims in Diana book",
+            "description": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
+            "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 06:15:35 GMT",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC",
+            "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 06:38:43 GMT",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+            "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
+            "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 23:50:56 GMT",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel weaponises AI for West Bank demolitions",
+            "description": "AI tools push forced evictions of Palestinians, automating demolitions in occupied territories under Israeli control.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 06:30:08 +0000",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "OpenAI reports more incidents of models acting deceptively",
+            "description": "The ChatGPT creator says it is introducing a public reporting framework to share unexpected AI behaviour.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 06:15:07 +0000",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What are the biggest AI companies and how much are they worth?",
+            "description": "As AI firms push for greater controls on the industry, Al Jazeera unpacks the value of the main companies in the sector.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 05:55:22 +0000",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Kurk, San Saba, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24185",
+            "published": "2026-09-08T16:39:00Z",
+            "fetched": "2026-09-17T11:01:51+03:30"
+        }
+    ]
+}

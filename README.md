@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-17 05:02:28
+**Last Update:** 2026-09-17 11:01:51
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior
+### 1. Cloudflare/Security-Audit-Skill
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html">https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735180">https://news.ycombinator.com/item?id=49735180</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://github.com/cloudflare/security-audit-skill">https://github.com/cloudflare/security-audit-skill</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49736466">https://news.ycombinator.com/item?id=49736466</a></p>
+<p>Points: 16</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)
+🔗 **Read more:** [https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 
 ---
 
-### 2. OpenSpec – A lightweight and configurable AI spec framework
+### 2. Jev Ultrafast: A browser agent with a dynamic, indexed action space
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openspec.dev/">https://openspec.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734264">https://news.ycombinator.com/item?id=49734264</a></p>
-<p>Points: 57</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://github.com/browser-use/jev-ultrafast">https://github.com/browser-use/jev-ultrafast</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735979">https://news.ycombinator.com/item?id=49735979</a></p>
+<p>Points: 29</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://openspec.dev/](https://openspec.dev/)
+🔗 **Read more:** [https://github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
 
 ---
 
-### 3. Australia says it could follow Canada in forging deeper ties with EU
+### 3. Keys Not Included: recovering the signing keys for US driver's license barcodes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html">https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49734171">https://news.ycombinator.com/item?id=49734171</a></p>
-<p>Points: 117</p>
-<p># Comments: 70</p>
+<p>Article URL: <a href="https://ryan.science/blog/keys-not-included">https://ryan.science/blog/keys-not-included</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49735930">https://news.ycombinator.com/item?id=49735930</a></p>
+<p>Points: 132</p>
+<p># Comments: 47</p>
 
-🔗 **Read more:** [https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
+🔗 **Read more:** [https://ryan.science/blog/keys-not-included](https://ryan.science/blog/keys-not-included)
 
 ---
 
-### 4. Body found in search for missing three-year-old Noah Woods
+### 4. Palace in war of words with Earl Spencer over claims in Diana book
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.
+The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US interest rates raised for first time in three years
+### 5. Tech treating AI like humans is mistaken and misguided, Microsoft boss tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.
+Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it "may be conscious".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book
+### 6. New hope for breast cancer patients as life-extending drug now on NHS in England
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Diana's brother claimed the then-Prince of Wales said she would be forgotten "soon enough" days after her death.
+Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UK and Canada discuss AI risks and defence ties in first bilateral meeting
+### 7. Israel weaponises AI for West Bank demolitions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool.
+AI tools push forced evictions of Palestinians, automating demolitions in occupied territories under Israeli control.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss)
 
 ---
 
-### 8. Congress passes sweeping US sanctions bill targeting Russia
+### 8. OpenAI reports more incidents of models acting deceptively
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine
+The ChatGPT creator says it is introducing a public reporting framework to share unexpected AI behaviour.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss)
 
 ---
 
-### 9. US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’
+### 9. What are the biggest AI companies and how much are they worth?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.
+As AI firms push for greater controls on the industry, Al Jazeera unpacks the value of the main companies in the sector.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss)
 
 ---
 
