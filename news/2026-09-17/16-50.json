@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-17T16:50:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My AI agent gets his own calendar",
+            "description": "<p>Article URL: <a href=\"https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/\">https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740093\">https://news.ycombinator.com/item?id=49740093</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/",
+            "published": "Thu, 17 Sep 2026 13:00:38 +0000",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+            "description": "<p>Hi HN!<p>flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elements and activities (I recently added surfing!).<p>Live demo to try it out: <a href=\"https://app.flat.social/f/demo-flat\" rel=\"nofollow\">https://app.flat.social/f/demo-flat</a><p>Here's a quick demo video: <a href=\"https://www.youtube.com/watch?v=GeinBNqL23s\" rel=\"nofollow\">https://www.youtube.com/watch?v=GeinBNqL23s</a><p>It's a solo, bootstrapped project built with Three.js, LiveKit and Rapier for physics. I built the first version during the pandemic and posted it here back then: <a href=\"https://news.ycombinator.com/item?id=31833415\">https://news.ycombinator.com/item?id=31833415</a><p>I had a couple of months off this year, so I locked myself in an (almost) jungle house in Brazil and rebuilt it into what I've always wanted it to be.<p>Would love to hear what you think!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740047\">https://news.ycombinator.com/item?id=49740047</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
+            "url": "https://flat.social",
+            "published": "Thu, 17 Sep 2026 12:57:09 +0000",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+            "description": "<p>I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.<p>Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 2023 (worth $800,000 now...)<p>From the activity history, neovim last sent bitcoin out of the address in 2019 so it's been max 7 years since they've definitely had access.<p>Does anyone from the neovim project know about this? \nSeems like a pretty significant amount of funding to have sitting there. Hope it can come to good use as I use neovim daily.<p>https://www.blockchain.com/explorer/addresses/btc/1Evu6wPrzjsjrNPdCYbHy3HT6ry2EzXFyQ</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49738879\">https://news.ycombinator.com/item?id=49738879</a></p>\n<p>Points: 195</p>\n<p># Comments: 104</p>",
+            "url": "https://news.ycombinator.com/item?id=49738879",
+            "published": "Thu, 17 Sep 2026 10:44:49 +0000",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+            "description": "Representatives from tech firms such as Nvidia and OpenAI were also part of the summit.",
+            "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 12:58:18 GMT",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father's tribute to 'sweetest little boy' Noah Woods",
+            "description": "Rhys Woods pays tribute to his three-year-old son and offers \"deepest gratitude\" for community support.",
+            "url": "https://www.bbc.co.uk/news/articles/cmkg71ygwny7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 12:52:56 GMT",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family of 'Putney pusher' suspect say he was innocent and blame police for his death",
+            "description": "The family of Nicholas Brandram said there was no forensic evidence linking him to the incident.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg59nq6y990o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 13:03:45 GMT",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
+            "description": "US sanctions aim to weaken Russian oil exports, heavily targeting China and India as Moscow&#039;s largest energy buyers.",
+            "url": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 12:59:36 +0000",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada’s Carney welcomes EU’s associated membership proposal",
+            "description": "In address to European parliament, Canadian Prime Minister Mark Carney listed areas where he wants to boost cooperation.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 12:31:57 +0000",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian court sentences three linked to coastal violence",
+            "description": "Former member of gov&#039;t forces sentenced to 20 years, as two Assad supporters receive death sentence and life in prison.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 12:31:14 +0000",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Cyclone Norbert",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24184",
+            "published": "2026-09-10T06:00:00Z",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire MEERS, Comanche, Oklahoma",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24189",
+            "published": "2026-09-08T16:57:00Z",
+            "fetched": "2026-09-17T16:50:29+03:30"
+        }
+    ]
+}
