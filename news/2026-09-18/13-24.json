@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T13:24:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jemalloc 5.4.0",
+            "description": "<p>Article URL: <a href=\"https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750152\">https://news.ycombinator.com/item?id=49750152</a></p>\n<p>Points: 138</p>\n<p># Comments: 37</p>",
+            "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+            "published": "Fri, 18 Sep 2026 04:20:24 +0000",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The scourge of x86 emulation",
+            "description": "<p>Article URL: <a href=\"https://fex-emu.com/Scourge-of-emulation/\">https://fex-emu.com/Scourge-of-emulation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49750094\">https://news.ycombinator.com/item?id=49750094</a></p>\n<p>Points: 139</p>\n<p># Comments: 22</p>",
+            "url": "https://fex-emu.com/Scourge-of-emulation/",
+            "published": "Fri, 18 Sep 2026 04:09:48 +0000",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+            "description": "<p>Article URL: <a href=\"https://linguisticdiscovery.com/posts/pre-greek/\">https://linguisticdiscovery.com/posts/pre-greek/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749771\">https://news.ycombinator.com/item?id=49749771</a></p>\n<p>Points: 82</p>\n<p># Comments: 33</p>",
+            "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+            "published": "Fri, 18 Sep 2026 03:04:38 +0000",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
+            "description": "They are among more than 300 cancer patients now known to have been affected in County Durham",
+            "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 09:46:17 GMT",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman tells BBC of trauma after unnecessary breast cancer surgery",
+            "description": "Denise Howarth is one of several women who have been told by the NHS that their breast was removed unnecessarily.",
+            "url": "https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 09:43:19 GMT",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Our brother did not match description of 'Putney pusher', suspect's sisters tell BBC",
+            "description": "Nicholas Brandram's sisters give the BBC a list of reasons as to why their brother was not the jogger who pushed a woman into the path of a bus on Putney Bridge.",
+            "url": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 09:14:29 GMT",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India star Sooryavanshi urged to be patient, says coach Gambhir",
+            "description": "Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.",
+            "url": "https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 09:34:37 +0000",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
+            "description": "Harry Kane could become first Ballon d&#039;Or from England since 2001, but striker focused on Bayern Munich trophies.",
+            "url": "https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 09:12:09 +0000",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why the Kremlin fears even the ‘managed opposition’ in Russia",
+            "description": "The risk of a protest vote was too high at the Duma elections so a pre-election crackdown was carried out.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 09:10:42 +0000",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T13:24:43+03:30"
+        }
+    ]
+}

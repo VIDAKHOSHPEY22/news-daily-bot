@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 10:50:18
+**Last Update:** 2026-09-18 13:24:43
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">https://github.com/jemalloc/jemalloc/releases/tag/5.4.0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750152">https://news.ycombinator.com/item?id=49750152</a></p>
-<p>Points: 43</p>
-<p># Comments: 8</p>
+<p>Points: 138</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://github.com/jemalloc/jemalloc/releases/tag/5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 
@@ -35,104 +35,104 @@
 **Description:**
 <p>Article URL: <a href="https://fex-emu.com/Scourge-of-emulation/">https://fex-emu.com/Scourge-of-emulation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49750094">https://news.ycombinator.com/item?id=49750094</a></p>
-<p>Points: 54</p>
-<p># Comments: 1</p>
+<p>Points: 139</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://fex-emu.com/Scourge-of-emulation/](https://fex-emu.com/Scourge-of-emulation/)
 
 ---
 
-### 3. Waymo in Singapore
+### 3. Pre-Greek: The lost language hidden within Ancient Greek
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://waymo.com/waymo-in-singapore/">https://waymo.com/waymo-in-singapore/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749981">https://news.ycombinator.com/item?id=49749981</a></p>
-<p>Points: 93</p>
-<p># Comments: 79</p>
+<p>Article URL: <a href="https://linguisticdiscovery.com/posts/pre-greek/">https://linguisticdiscovery.com/posts/pre-greek/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49749771">https://news.ycombinator.com/item?id=49749771</a></p>
+<p>Points: 82</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://waymo.com/waymo-in-singapore/](https://waymo.com/waymo-in-singapore/)
+🔗 **Read more:** [https://linguisticdiscovery.com/posts/pre-greek/](https://linguisticdiscovery.com/posts/pre-greek/)
 
 ---
 
-### 4. Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits
+### 4. Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The women were among hundreds who were harmed by their treatment at County Durham health trust.
+They are among more than 300 cancer patients now known to have been affected in County Durham
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Charles 'sounded giddily elated' after Diana died, Earl Spencer claims
+### 5. Woman tells BBC of trauma after unnecessary breast cancer surgery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.
+Denise Howarth is one of several women who have been told by the NHS that their breast was removed unnecessarily.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c9lyk2xj62yro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. War may be coming. Are we psychologically ready?
+### 6. Our brother did not match description of 'Putney pusher', suspect's sisters tell BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The military and government say the risk of conflict is growing, but we may not be mentally ready for it
+Nicholas Brandram's sisters give the BBC a list of reasons as to why their brother was not the jogger who pushed a woman into the path of a bus on Putney Bridge.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions
+### 7. India star Sooryavanshi urged to be patient, says coach Gambhir
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New sanctions highlight Israel&#039;s isolation, yet analysts say they won&#039;t sway voters before October&#039;s elections.
+Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss)
 
 ---
 
-### 8. In Yemen, war at home and in the region drives up prices
+### 8. Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families in Sanaa brace for higher food and transport costs after first fuel price increase in four years.
+Harry Kane could become first Ballon d&#039;Or from England since 2001, but striker focused on Bayern Munich trophies.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss](https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss)
 
 ---
 
-### 9. Nigerian police probe death in custody of 37 illegal mining suspects
+### 9. Why the Kremlin fears even the ‘managed opposition’ in Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials blame disease outbreak for deaths as survivor suggests they suffocated.
+The risk of a protest vote was too high at the Duma elections so a pre-election crackdown was carried out.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/nigerian-police-probe-death-in-custody-of-37-illegal-mining-suspects?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss)
 
 ---
 
