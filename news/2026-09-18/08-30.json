@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T08:30:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Waymo in Singapore",
+            "description": "<p>Article URL: <a href=\"https://waymo.com/waymo-in-singapore/\">https://waymo.com/waymo-in-singapore/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749981\">https://news.ycombinator.com/item?id=49749981</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
+            "url": "https://waymo.com/waymo-in-singapore/",
+            "published": "Fri, 18 Sep 2026 03:49:24 +0000",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+            "description": "<p>Article URL: <a href=\"https://linguisticdiscovery.com/posts/pre-greek/\">https://linguisticdiscovery.com/posts/pre-greek/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749771\">https://news.ycombinator.com/item?id=49749771</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+            "published": "Fri, 18 Sep 2026 03:04:38 +0000",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Code Scans",
+            "description": "<p>Article URL: <a href=\"https://devin.ai/blog/introducing-code-scans\">https://devin.ai/blog/introducing-code-scans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49749744\">https://news.ycombinator.com/item?id=49749744</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://devin.ai/blog/introducing-code-scans",
+            "published": "Fri, 18 Sep 2026 03:00:40 +0000",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Twenty women had breasts removed unnecessarily, NHS trust admits",
+            "description": "The women were among hundreds who were harmed by their treatment at County Durham health trust.",
+            "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 04:58:31 GMT",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+            "description": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+            "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 02:55:18 GMT",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+            "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 20:34:30 GMT",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could this economic squeeze sway US voters?",
+            "description": "Americans on the lower end of the economy are feeling the impact of higher borrowing costs and weaker purchasing power.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/aje-onl-nf_could-this-economic-squeeze-sway-us-voters-180926?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 04:27:25 +0000",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New tiger cat species identified in Bolivia, first in over a century",
+            "description": "Leopardus tilcayo is the first new living cat species named and described in more than a century.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 04:16:28 +0000",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
+            "description": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 03:20:20 +0000",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T08:30:02+03:30"
+        }
+    ]
+}
