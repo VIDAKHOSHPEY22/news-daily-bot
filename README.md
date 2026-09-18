@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 22:03:46
+**Last Update:** 2026-09-19 00:18:40
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. US Military had close call after using AI for hallucinated intelligence report
+### 1. Korea raises data breach fines to 10% of revenue
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49757520">https://news.ycombinator.com/item?id=49757520</a></p>
-<p>Points: 38</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899">https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49759466">https://news.ycombinator.com/item?id=49759466</a></p>
+<p>Points: 82</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+🔗 **Read more:** [https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 
 ---
 
-### 2. Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug
+### 2. Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/">https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49757050">https://news.ycombinator.com/item?id=49757050</a></p>
-<p>Points: 45</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117282080803799576">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758736">https://news.ycombinator.com/item?id=49758736</a></p>
+<p>Points: 197</p>
+<p># Comments: 91</p>
 
-🔗 **Read more:** [https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/)
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117282080803799576](https://grapheneos.social/@GrapheneOS/117282080803799576)
 
 ---
 
-### 3. Systemd is a suite of basic building blocks
+### 3. The Implications of Linguistic Illegibility for LLM Security
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://brand.systemd.io/">https://brand.systemd.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49756762">https://news.ycombinator.com/item?id=49756762</a></p>
-<p>Points: 4</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.02852">https://arxiv.org/abs/2609.02852</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758689">https://news.ycombinator.com/item?id=49758689</a></p>
+<p>Points: 23</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://brand.systemd.io/](https://brand.systemd.io/)
+🔗 **Read more:** [https://arxiv.org/abs/2609.02852](https://arxiv.org/abs/2609.02852)
 
 ---
 
@@ -97,42 +97,81 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 
 ---
 
-### 7. Russia’s drones threaten Kyiv-bound Western officials as war effort stalls
+### 7. Syria arrests five former al-Assad-era officers over strikes on civilians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in Ukraine’s east.
+Former air officers, including an air force general, were arrested in a series of operations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss)
 
 ---
 
-### 8. Police clear Ceuta migrants off beaches in Spanish enclave
+### 8. Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.
+Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss)
 
 ---
 
-### 9. Early in-person voting begins in the 2026 US midterm elections in Virginia
+### 9. Lebanese artist turns Israeli missile debris into art
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Virginia leads the way for in-person voting, reflecting a nationwide trend towards casting ballots before Election Day.
+In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/early-in-person-voting-begins-in-the-2026-us-midterm-elections-in-virginia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/early-in-person-voting-begins-in-the-2026-us-midterm-elections-in-virginia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss)
+
+---
+
+### 10. Wildfire Breezy, Starr, Texas
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483)
+
+---
+
+### 11. Wildfire FLORISTON, Nevada, California
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488)
+
+---
+
+### 12. Typhoon Dujuan
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317)
 
 ---
 
