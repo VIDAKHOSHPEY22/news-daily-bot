@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T18:03:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI chatbots becoming experts at changing people's minds. What's their secret?",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret\">https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754250\">https://news.ycombinator.com/item?id=49754250</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+            "published": "Fri, 18 Sep 2026 13:39:27 +0000",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An Empirical Study of Harness Design for Coding Agents",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.20804\">https://arxiv.org/abs/2609.20804</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753878\">https://news.ycombinator.com/item?id=49753878</a></p>\n<p>Points: 36</p>\n<p># Comments: 3</p>",
+            "url": "https://arxiv.org/abs/2609.20804",
+            "published": "Fri, 18 Sep 2026 13:06:30 +0000",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If materialism is true, the United States is probably conscious",
+            "description": "<p>Article URL: <a href=\"https://www.jstor.org/stable/24704177\">https://www.jstor.org/stable/24704177</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753417\">https://news.ycombinator.com/item?id=49753417</a></p>\n<p>Points: 16</p>\n<p># Comments: 26</p>",
+            "url": "https://www.jstor.org/stable/24704177",
+            "published": "Fri, 18 Sep 2026 12:27:40 +0000",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flight chaos caused by software defect in space of a millisecond, report says",
+            "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 14:24:30 GMT",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+            "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 12:30:16 GMT",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+            "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 14:02:09 GMT",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
+            "description": "Spain&#039;s Lamine Yamal says most racism he has suffered has come from people unaware of their own comments or behaviour.",
+            "url": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 14:08:03 +0000",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The cost of Iran’s regional leverage",
+            "description": "Tehran’s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 13:52:49 +0000",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
+            "description": "Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.",
+            "url": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 13:36:58 +0000",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T18:03:19+03:30"
+        }
+    ]
+}

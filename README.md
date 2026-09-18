@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 16:28:23
+**Last Update:** 2026-09-18 18:03:19
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. I don't like passkeys
+### 1. AI chatbots becoming experts at changing people's minds. What's their secret?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hawksley.dev/blog/i-dont-like-passkeys">https://hawksley.dev/blog/i-dont-like-passkeys</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753211">https://news.ycombinator.com/item?id=49753211</a></p>
-<p>Points: 78</p>
-<p># Comments: 56</p>
+<p>Article URL: <a href="https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret">https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49754250">https://news.ycombinator.com/item?id=49754250</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://hawksley.dev/blog/i-dont-like-passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+🔗 **Read more:** [https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
 
 ---
 
-### 2. Bend 2 and the Vibe-Coding Trap
+### 2. An Empirical Study of Harness Design for Coding Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.liampwll.com/posts/bend_vibe_coding/">https://blog.liampwll.com/posts/bend_vibe_coding/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753179">https://news.ycombinator.com/item?id=49753179</a></p>
-<p>Points: 91</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.20804">https://arxiv.org/abs/2609.20804</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753878">https://news.ycombinator.com/item?id=49753878</a></p>
+<p>Points: 36</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://blog.liampwll.com/posts/bend_vibe_coding/](https://blog.liampwll.com/posts/bend_vibe_coding/)
+🔗 **Read more:** [https://arxiv.org/abs/2609.20804](https://arxiv.org/abs/2609.20804)
 
 ---
 
-### 3. Cekura (YC F24) Is Hiring
+### 3. If materialism is true, the United States is probably conscious
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us">https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753131">https://news.ycombinator.com/item?id=49753131</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.jstor.org/stable/24704177">https://www.jstor.org/stable/24704177</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753417">https://news.ycombinator.com/item?id=49753417</a></p>
+<p>Points: 16</p>
+<p># Comments: 26</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us)
-
----
-
-### 4. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.jstor.org/stable/24704177](https://www.jstor.org/stable/24704177)
 
 ---
 
-### 5. Flight chaos caused by software defect, says air traffic control body
+### 4. Flight chaos caused by software defect in space of a millisecond, report says
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ The failure led to more than 2,000 flights being cancelled and hundreds of thous
 
 ---
 
-### 6. Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm
+### 5. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The trust's new chief executive says he apologises unreservedly - "What happened was utterly unacceptable."
+It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How fantasy fans are keeping a Turkish blacksmithing tradition alive
+### 6. Russian hybrid attacks against Europe intensifying, says Macron
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Izmir’s historic Kemeralti bazaar, the Akdemir family is finding new customers for a four-generation craft.
+Spain&#039;s Lamine Yamal says most racism he has suffered has come from people unaware of their own comments or behaviour.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/18/how-fantasy-fans-are-keeping-a-turkish-blacksmithing-tradition-alive?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/18/how-fantasy-fans-are-keeping-a-turkish-blacksmithing-tradition-alive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss)
 
 ---
 
-### 8. The view from Russia: ‘No party can be antiwar’ in parliamentary election
+### 8. The cost of Iran’s regional leverage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-First vote since Russia invaded Ukraine seen as a sham by some and an opportunity to strengthen nationalism by others.
+Tehran’s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss)
 
 ---
 
-### 9. Thailand’s Malay-Muslim separatists vow to fight as peace talks stall
+### 9. Ronaldo keeps Portugal place for Nations League as Jesus names first squad
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thailand’s main armed separatist group, Barisan Revolusi Nasional, says it will continue fighting for self-determination
+Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/thailand-malay-muslim-separatists-southern-insurgency-peace-talks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/thailand-malay-muslim-separatists-southern-insurgency-peace-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss)
 
 ---
 
