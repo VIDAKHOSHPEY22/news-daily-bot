@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 00:18:40
+**Last Update:** 2026-09-19 01:14:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Korea raises data breach fines to 10% of revenue
+### 1. Claude Code now reads AGENTS.md if there is no Claude.md
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://code.claude.com/docs/en/changelog">https://code.claude.com/docs/en/changelog</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49760187">https://news.ycombinator.com/item?id=49760187</a></p>
+<p>Points: 109</p>
+<p># Comments: 47</p>
+
+🔗 **Read more:** [https://code.claude.com/docs/en/changelog](https://code.claude.com/docs/en/changelog)
+
+---
+
+### 2. Korea raises data breach fines to 10% of revenue
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899">https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49759466">https://news.ycombinator.com/item?id=49759466</a></p>
-<p>Points: 82</p>
-<p># Comments: 20</p>
+<p>Points: 173</p>
+<p># Comments: 49</p>
 
 🔗 **Read more:** [https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 
 ---
 
-### 2. Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
+### 3. Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117282080803799576">https://grapheneos.social/@GrapheneOS/117282080803799576</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758736">https://news.ycombinator.com/item?id=49758736</a></p>
-<p>Points: 197</p>
-<p># Comments: 91</p>
+<p>Points: 319</p>
+<p># Comments: 146</p>
 
 🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117282080803799576](https://grapheneos.social/@GrapheneOS/117282080803799576)
-
----
-
-### 3. The Implications of Linguistic Illegibility for LLM Security
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.02852">https://arxiv.org/abs/2609.02852</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49758689">https://news.ycombinator.com/item?id=49758689</a></p>
-<p>Points: 23</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2609.02852](https://arxiv.org/abs/2609.02852)
 
 ---
 
@@ -97,42 +97,42 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 
 ---
 
-### 7. Syria arrests five former al-Assad-era officers over strikes on civilians
+### 7. New cat species found, first in more than 100 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former air officers, including an air force general, were arrested in a series of operations.
+A new species of living cat has been identified for the first time in more than a century.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss)
 
 ---
 
-### 8. Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’
+### 8. Germany receives first F-35 jet from US as NATO boosts military spending
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine.
+Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss)
 
 ---
 
-### 9. Lebanese artist turns Israeli missile debris into art
+### 9. UK court clears woman of voicing support for Hamas in university speech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art.
+Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians&#039; right to resist.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss)
 
 ---
 
