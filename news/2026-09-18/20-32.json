@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T20:32:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
+            "description": "<p>Article URL: <a href=\"https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/\">https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756171\">https://news.ycombinator.com/item?id=49756171</a></p>\n<p>Points: 50</p>\n<p># Comments: 21</p>",
+            "url": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
+            "published": "Fri, 18 Sep 2026 15:50:29 +0000",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI is an elite crime spree",
+            "description": "<p>Article URL: <a href=\"https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree\">https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49755590\">https://news.ycombinator.com/item?id=49755590</a></p>\n<p>Points: 59</p>\n<p># Comments: 14</p>",
+            "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+            "published": "Fri, 18 Sep 2026 15:15:33 +0000",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+            "description": "<p>Article URL: <a href=\"https://www.miro.vision/index.php/2026/09/17/grasslobbster/\">https://www.miro.vision/index.php/2026/09/17/grasslobbster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49755431\">https://news.ycombinator.com/item?id=49755431</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+            "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+            "published": "Fri, 18 Sep 2026 15:04:54 +0000",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+            "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+            "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+            "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:21 GMT",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+            "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 12:30:16 GMT",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East",
+            "description": "Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 16:38:10 +0000",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti",
+            "description": "United Nations says 22 million people need humanitarian aid as conflict intensifies.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 16:12:28 +0000",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigerian forces fire at protesters rallying over deaths of detained miners",
+            "description": "Government has promised to fully investigate after 37 miners died while being held in police custody in Niger State.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 15:45:45 +0000",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T20:32:32+03:30"
+        }
+    ]
+}

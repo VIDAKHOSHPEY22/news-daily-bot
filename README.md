@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 18:03:19
+**Last Update:** 2026-09-18 20:32:32
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI chatbots becoming experts at changing people's minds. What's their secret?
+### 1. US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret">https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49754250">https://news.ycombinator.com/item?id=49754250</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/">https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49756171">https://news.ycombinator.com/item?id=49756171</a></p>
+<p>Points: 50</p>
+<p># Comments: 21</p>
+
+🔗 **Read more:** [https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/](https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/)
+
+---
+
+### 2. AI is an elite crime spree
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree">https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49755590">https://news.ycombinator.com/item?id=49755590</a></p>
+<p>Points: 59</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
+
+---
+
+### 3. GrassLobster: AI Agentic Generation of Parametric Geometry Workflows
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.miro.vision/index.php/2026/09/17/grasslobbster/">https://www.miro.vision/index.php/2026/09/17/grasslobbster/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49755431">https://news.ycombinator.com/item?id=49755431</a></p>
+<p>Points: 17</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
+🔗 **Read more:** [https://www.miro.vision/index.php/2026/09/17/grasslobbster/](https://www.miro.vision/index.php/2026/09/17/grasslobbster/)
 
 ---
 
-### 2. An Empirical Study of Harness Design for Coding Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.20804">https://arxiv.org/abs/2609.20804</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753878">https://news.ycombinator.com/item?id=49753878</a></p>
-<p>Points: 36</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2609.20804](https://arxiv.org/abs/2609.20804)
-
----
-
-### 3. If materialism is true, the United States is probably conscious
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.jstor.org/stable/24704177">https://www.jstor.org/stable/24704177</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49753417">https://news.ycombinator.com/item?id=49753417</a></p>
-<p>Points: 16</p>
-<p># Comments: 26</p>
-
-🔗 **Read more:** [https://www.jstor.org/stable/24704177](https://www.jstor.org/stable/24704177)
-
----
-
-### 4. Flight chaos caused by software defect in space of a millisecond, report says
+### 4. 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.
+Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her soon enough" were "exactly" the words used by the then-Prince of Wales.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
+### 5. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ It is the first time MI5 has confirmed the BBC's revelation that it gave evidenc
 
 ---
 
-### 6. Russian hybrid attacks against Europe intensifying, says Macron
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’
+### 7. Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain&#039;s Lamine Yamal says most racism he has suffered has come from people unaware of their own comments or behaviour.
+Israeli Prime Minister Benjamin Netanyahu says he will ‘change the face of the Middle East’
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss)
 
 ---
 
-### 8. The cost of Iran’s regional leverage
+### 8. More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran’s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.
+United Nations says 22 million people need humanitarian aid as conflict intensifies.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/more-than-112000-displaced-by-yemen-fighting-thousands-flee-to-djibouti?traffic_source=rss)
 
 ---
 
-### 9. Ronaldo keeps Portugal place for Nations League as Jesus names first squad
+### 9. Nigerian forces fire at protesters rallying over deaths of detained miners
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.
+Government has promised to fully investigate after 37 miners died while being held in police custody in Niger State.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/nigerian-forces-fire-at-protesters-rallying-over-deaths-of-detained-miners?traffic_source=rss)
 
 ---
 
