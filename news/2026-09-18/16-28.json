@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T16:28:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I don't like passkeys",
+            "description": "<p>Article URL: <a href=\"https://hawksley.dev/blog/i-dont-like-passkeys\">https://hawksley.dev/blog/i-dont-like-passkeys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753211\">https://news.ycombinator.com/item?id=49753211</a></p>\n<p>Points: 78</p>\n<p># Comments: 56</p>",
+            "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+            "published": "Fri, 18 Sep 2026 12:06:50 +0000",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bend 2 and the Vibe-Coding Trap",
+            "description": "<p>Article URL: <a href=\"https://blog.liampwll.com/posts/bend_vibe_coding/\">https://blog.liampwll.com/posts/bend_vibe_coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753179\">https://news.ycombinator.com/item?id=49753179</a></p>\n<p>Points: 91</p>\n<p># Comments: 35</p>",
+            "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+            "published": "Fri, 18 Sep 2026 12:03:55 +0000",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cekura (YC F24) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us\">https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49753131\">https://news.ycombinator.com/item?id=49753131</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+            "published": "Fri, 18 Sep 2026 12:00:10 +0000",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+            "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 12:30:16 GMT",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flight chaos caused by software defect, says air traffic control body",
+            "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 12:50:05 GMT",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
+            "description": "The trust's new chief executive says he apologises unreservedly - \"What happened was utterly unacceptable.\"",
+            "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 09:46:17 GMT",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How fantasy fans are keeping a Turkish blacksmithing tradition alive",
+            "description": "In Izmir’s historic Kemeralti bazaar, the Akdemir family is finding new customers for a four-generation craft.",
+            "url": "https://www.aljazeera.com/features/longform/2026/9/18/how-fantasy-fans-are-keeping-a-turkish-blacksmithing-tradition-alive?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 12:27:44 +0000",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
+            "description": "First vote since Russia invaded Ukraine seen as a sham by some and an opportunity to strengthen nationalism by others.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 12:26:46 +0000",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thailand’s Malay-Muslim separatists vow to fight as peace talks stall",
+            "description": "Thailand’s main armed separatist group, Barisan Revolusi Nasional, says it will continue fighting for self-determination",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/thailand-malay-muslim-separatists-southern-insurgency-peace-talks?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 12:20:37 +0000",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T16:28:23+03:30"
+        }
+    ]
+}
