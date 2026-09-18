@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-18T04:42:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sex, AI, and the Apocalypse",
+            "description": "<p>Article URL: <a href=\"https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/\">https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746654\">https://news.ycombinator.com/item?id=49746654</a></p>\n<p>Points: 152</p>\n<p># Comments: 131</p>",
+            "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+            "published": "Thu, 17 Sep 2026 21:15:52 +0000",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Uber Protects Against Retry Storms",
+            "description": "<p>Article URL: <a href=\"https://www.uber.com/us/en/blog/protecting-against-retry-storms/\">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746628\">https://news.ycombinator.com/item?id=49746628</a></p>\n<p>Points: 30</p>\n<p># Comments: 20</p>",
+            "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+            "published": "Thu, 17 Sep 2026 21:14:32 +0000",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+            "description": "<p>Article URL: <a href=\"https://prismml.com/news/bonsai-2-27b\">https://prismml.com/news/bonsai-2-27b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49746618\">https://news.ycombinator.com/item?id=49746618</a></p>\n<p>Points: 188</p>\n<p># Comments: 62</p>",
+            "url": "https://prismml.com/news/bonsai-2-27b",
+            "published": "Thu, 17 Sep 2026 21:13:31 +0000",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+            "description": "A 56-year-old man is arrested after the remains of Joanne Sheen were found in London almost seven years after she went missing.",
+            "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 15:08:05 GMT",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+            "description": "Buckingham Palace has strongly pushed back against claims in a new book by the late Princess of Wales's brother.",
+            "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 00:54:05 GMT",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "War may be coming. Are we psychologically ready?",
+            "description": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it",
+            "url": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 23:22:17 GMT",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran expels Swedish diplomat in retaliatory move",
+            "description": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 00:09:32 +0000",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+            "description": "Trump says he faces a &#039;big decision&#039; on whether to &#039;annihilate&#039; his Iranian foes, adding that &#039;anything could happen&#039;.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM",
+            "description": "More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.",
+            "url": "https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss",
+            "published": "Thu, 17 Sep 2026 23:42:37 +0000",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-18T04:42:15+03:30"
+        }
+    ]
+}

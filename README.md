@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-18 03:59:41
+**Last Update:** 2026-09-18 04:42:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/">https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746654">https://news.ycombinator.com/item?id=49746654</a></p>
-<p>Points: 124</p>
-<p># Comments: 104</p>
+<p>Points: 152</p>
+<p># Comments: 131</p>
 
 🔗 **Read more:** [https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.uber.com/us/en/blog/protecting-against-retry-storms/">https://www.uber.com/us/en/blog/protecting-against-retry-storms/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746628">https://news.ycombinator.com/item?id=49746628</a></p>
-<p>Points: 25</p>
-<p># Comments: 15</p>
+<p>Points: 30</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.uber.com/us/en/blog/protecting-against-retry-storms/](https://www.uber.com/us/en/blog/protecting-against-retry-storms/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://prismml.com/news/bonsai-2-27b">https://prismml.com/news/bonsai-2-27b</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49746618">https://news.ycombinator.com/item?id=49746618</a></p>
-<p>Points: 155</p>
-<p># Comments: 51</p>
+<p>Points: 188</p>
+<p># Comments: 62</p>
 
 🔗 **Read more:** [https://prismml.com/news/bonsai-2-27b](https://prismml.com/news/bonsai-2-27b)
 
@@ -97,7 +97,20 @@ The military and government say the risk of conflict is growing, but we may not 
 
 ---
 
-### 7. Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz
+### 7. Iran expels Swedish diplomat in retaliatory move
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss)
+
+---
+
+### 8. Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Trump says he faces a &#039;big decision&#039; on whether to &#039;annihilate&#0
 
 ---
 
-### 8. Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM
+### 9. Migrant crossings to Europe by sea drop sharply amid heightened risks: IOM
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Trump says he faces a &#039;big decision&#039; on whether to &#039;annihilate&#0
 More than 2,200 migrants died or vanished at sea in 2026, despite declining crossings into Europe, says IOM.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/migrant-crossings-to-europe-by-sea-drop-sharply-amid-heightened-risks-iom?traffic_source=rss)
-
----
-
-### 9. US approves $414M uranium investment in Niger, two years after troops left
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Uranium project investment could mark a turning point in US-Niger and US-Canada relations.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss](https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss)
 
 ---
 
@@ -162,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Tropical Storm Dujuan
+### 12. Typhoon Dujuan
 
 **Source:** NASA
 
