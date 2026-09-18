@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-18T22:03:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US Military had close call after using AI for hallucinated intelligence report",
+            "description": "<p>Article URL: <a href=\"https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship\">https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49757520\">https://news.ycombinator.com/item?id=49757520</a></p>\n<p>Points: 38</p>\n<p># Comments: 9</p>",
+            "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+            "published": "Fri, 18 Sep 2026 17:28:01 +0000",
+            "fetched": "2026-09-18T22:03:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+            "description": "<p>Article URL: <a href=\"https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/\">https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49757050\">https://news.ycombinator.com/item?id=49757050</a></p>\n<p>Points: 45</p>\n<p># Comments: 7</p>",
+            "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+            "published": "Fri, 18 Sep 2026 16:54:18 +0000",
+            "fetched": "2026-09-18T22:03:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Systemd is a suite of basic building blocks",
+            "description": "<p>Article URL: <a href=\"https://brand.systemd.io/\">https://brand.systemd.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49756762\">https://news.ycombinator.com/item?id=49756762</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+            "url": "https://brand.systemd.io/",
+            "published": "Fri, 18 Sep 2026 16:31:43 +0000",
+            "fetched": "2026-09-18T22:03:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+            "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+            "fetched": "2026-09-18T22:03:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+            "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+            "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:21 GMT",
+            "fetched": "2026-09-18T22:03:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+            "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 12:30:16 GMT",
+            "fetched": "2026-09-18T22:03:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+            "description": "Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in Ukraine’s east.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 18:19:47 +0000",
+            "fetched": "2026-09-18T22:03:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
+            "description": "At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 18:16:20 +0000",
+            "fetched": "2026-09-18T22:03:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
+            "description": "Virginia leads the way for in-person voting, reflecting a nationwide trend towards casting ballots before Election Day.",
+            "url": "https://www.aljazeera.com/news/2026/9/18/early-in-person-voting-begins-in-the-2026-us-midterm-elections-in-virginia?traffic_source=rss",
+            "published": "Fri, 18 Sep 2026 18:15:32 +0000",
+            "fetched": "2026-09-18T22:03:46+03:30"
+        }
+    ]
+}
