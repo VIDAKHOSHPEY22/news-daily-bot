@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 17:26:52
+**Last Update:** 2026-09-19 20:39:01
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Laya the open source version of Jev
+### 1. Agreement between the USA and Denmark (1951,2004) [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://laya.convaiinnovations.com/">https://laya.convaiinnovations.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49765348">https://news.ycombinator.com/item?id=49765348</a></p>
-<p>Points: 201</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf">https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766976">https://news.ycombinator.com/item?id=49766976</a></p>
+<p>Points: 13</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://laya.convaiinnovations.com/](https://laya.convaiinnovations.com/)
+🔗 **Read more:** [https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
 
 ---
 
-### 2. AI-generated posters don’t have to be horrible
+### 2. Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49764791">https://news.ycombinator.com/item?id=49764791</a></p>
-<p>Points: 453</p>
-<p># Comments: 296</p>
+<p>Article URL: <a href="https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951">https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766821">https://news.ycombinator.com/item?id=49766821</a></p>
+<p>Points: 41</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://john.hartnup.uk/2026/06/07/ai-event-posters.html](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+🔗 **Read more:** [https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
 
 ---
 
-### 3. GPT-6 Astra Solves a WWI German Radio Cipher
+### 3. A graphical desktop for the ZX Spectrum
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763987">https://news.ycombinator.com/item?id=49763987</a></p>
-<p>Points: 188</p>
-<p># Comments: 103</p>
+<p>Article URL: <a href="https://github.com/mindbox77/zxdesk">https://github.com/mindbox77/zxdesk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766676">https://news.ycombinator.com/item?id=49766676</a></p>
+<p>Points: 63</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+🔗 **Read more:** [https://github.com/mindbox77/zxdesk](https://github.com/mindbox77/zxdesk)
 
 ---
 
-### 4. US and Denmark reach deal over Greenland after Trump annexation threats
+### 4. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Denmark and Greenland have welcomed the deal, which Trump claims will give the US "permanent control over security and all other needs" in the Danish territory.
+Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview
+### 5. Journalists report being denied White House access after Trump bans some outlets
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her soon enough" were "exactly" the words used by the then-Prince of Wales.
+CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
+### 6. Major seaside hotel fire treated as suspicious
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.
+About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. An unaffordable car market highlights Iran’s cost-of-living crisis
+### 7. Brighton beat Arsenal 3-0 as Man City top Premier League without playing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some officials and state media have long openly described the industry as a ‘mafia’ system.
+Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss)
 
 ---
 
-### 8. Taiwan flexes military capabilities ahead of Trump-Xi talks
+### 8. Demonstrators in US form human chain to protest Kennedy Center closure vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.
+&#039;Hands Around the Kennedy Center&#039; rally drew thousands after Trump-backed board votes to close the iconic arts venue.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss)
 
 ---
 
-### 9. Child among three Palestinians killed in Israeli attacks across Gaza
+### 9. Police hiring standards matter. But they alone cannot stop abuse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.
+Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss)
 
 ---
 
