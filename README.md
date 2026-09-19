@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 02:41:11
+**Last Update:** 2026-09-19 03:55:55
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. US troop deaths during Iran war exceed Pentagon count by at least four
+### 1. How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://spectrum.ieee.org/llms-for-chip-design">https://spectrum.ieee.org/llms-for-chip-design</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49761432">https://news.ycombinator.com/item?id=49761432</a></p>
+<p>Points: 30</p>
+<p># Comments: 26</p>
+
+🔗 **Read more:** [https://spectrum.ieee.org/llms-for-chip-design](https://spectrum.ieee.org/llms-for-chip-design)
+
+---
+
+### 2. US troop deaths during Iran war exceed Pentagon count by at least four
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/">https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49761178">https://news.ycombinator.com/item?id=49761178</a></p>
-<p>Points: 47</p>
-<p># Comments: 16</p>
+<p>Points: 147</p>
+<p># Comments: 90</p>
 
 🔗 **Read more:** [https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
 
 ---
 
-### 2. Claude Code now reads AGENTS.md if there is no Claude.md
+### 3. Claude Code now reads AGENTS.md if there is no Claude.md
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://code.claude.com/docs/en/changelog">https://code.claude.com/docs/en/changelog</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49760187">https://news.ycombinator.com/item?id=49760187</a></p>
-<p>Points: 324</p>
-<p># Comments: 133</p>
+<p>Points: 470</p>
+<p># Comments: 169</p>
 
 🔗 **Read more:** [https://code.claude.com/docs/en/changelog](https://code.claude.com/docs/en/changelog)
-
----
-
-### 3. Korea raises data breach fines to 10% of revenue
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899">https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49759466">https://news.ycombinator.com/item?id=49759466</a></p>
-<p>Points: 228</p>
-<p># Comments: 71</p>
-
-🔗 **Read more:** [https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 
 ---
 
@@ -84,55 +84,55 @@ Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her
 
 ---
 
-### 6. MI5 accepts it gave evidence based on lies in neo-Nazi spy case
+### 6. Flight chaos caused by software defect in space of a millisecond, report says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant.
+The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump claims deal with Denmark gives US ‘permanent control’ over Greenland
+### 7. Israeli strike on motorcycle kills Palestinian in Gaza City, injures child
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Denmark and Greenland plan to sign a US defence pact next week, pending approval from both parliaments.
+Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss](https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss)
 
 ---
 
-### 8. Brighton vs Arsenal: Premier League – predictions, teams, lineups
+### 8. Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Premier League holders Arsenal have won all seven of their matches to start the new season.
+Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/18/brighton-vs-arsenal-premier-league-predictions-teams-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss)
 
 ---
 
-### 9. New cat species found, first in more than 100 years
+### 9. Trump says Denmark deal gives US security ‘control’ over Greenland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new species of living cat has been identified for the first time in more than a century.
+Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss)
 
 ---
 
