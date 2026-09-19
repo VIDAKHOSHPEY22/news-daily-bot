@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-19T22:53:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+            "description": "<p>Article URL: <a href=\"https://bartosz.fenski.pl/modern-fs-benchmark/\">https://bartosz.fenski.pl/modern-fs-benchmark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768833\">https://news.ycombinator.com/item?id=49768833</a></p>\n<p>Points: 23</p>\n<p># Comments: 15</p>",
+            "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+            "published": "Sat, 19 Sep 2026 18:11:40 +0000",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+            "description": "<p>Article URL: <a href=\"https://supabase.link/orioledbjob\">https://supabase.link/orioledbjob</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768220\">https://news.ycombinator.com/item?id=49768220</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://supabase.link/orioledbjob",
+            "published": "Sat, 19 Sep 2026 17:01:30 +0000",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Almost Never Use AI to Write Anything Substantive",
+            "description": "<p>Article URL: <a href=\"https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\">https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49767937\">https://news.ycombinator.com/item?id=49767937</a></p>\n<p>Points: 79</p>\n<p># Comments: 44</p>",
+            "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+            "published": "Sat, 19 Sep 2026 16:35:24 +0000",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+            "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+            "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 16:43:21 GMT",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+            "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 19:09:49 GMT",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+            "description": "Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 18:32:30 +0000",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel targets paramedics in southern Lebanon",
+            "description": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 18:06:52 +0000",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cuba works to restore power after another major nationwide blackout",
+            "description": "The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 17:59:57 +0000",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T22:53:54+03:30"
+        }
+    ]
+}
