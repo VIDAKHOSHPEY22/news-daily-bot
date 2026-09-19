@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 03:55:55
+**Last Update:** 2026-09-19 07:53:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip
+### 1. SDCC – Small Device C Compiler
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/llms-for-chip-design">https://spectrum.ieee.org/llms-for-chip-design</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49761432">https://news.ycombinator.com/item?id=49761432</a></p>
-<p>Points: 30</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://sdcc.sourceforge.net/">https://sdcc.sourceforge.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762744">https://news.ycombinator.com/item?id=49762744</a></p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/llms-for-chip-design](https://spectrum.ieee.org/llms-for-chip-design)
+🔗 **Read more:** [https://sdcc.sourceforge.net/](https://sdcc.sourceforge.net/)
 
 ---
 
-### 2. US troop deaths during Iran war exceed Pentagon count by at least four
+### 2. Science Is Open Software
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/">https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49761178">https://news.ycombinator.com/item?id=49761178</a></p>
-<p>Points: 147</p>
-<p># Comments: 90</p>
+<p>Article URL: <a href="https://jepedersen.dk/blog/202505_research/">https://jepedersen.dk/blog/202505_research/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762687">https://news.ycombinator.com/item?id=49762687</a></p>
+<p>Points: 33</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
+🔗 **Read more:** [https://jepedersen.dk/blog/202505_research/](https://jepedersen.dk/blog/202505_research/)
 
 ---
 
-### 3. Claude Code now reads AGENTS.md if there is no Claude.md
+### 3. Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://code.claude.com/docs/en/changelog">https://code.claude.com/docs/en/changelog</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49760187">https://news.ycombinator.com/item?id=49760187</a></p>
-<p>Points: 470</p>
-<p># Comments: 169</p>
+<p>Article URL: <a href="https://liveworld.info/">https://liveworld.info/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762099">https://news.ycombinator.com/item?id=49762099</a></p>
+<p>Points: 25</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://code.claude.com/docs/en/changelog](https://code.claude.com/docs/en/changelog)
+🔗 **Read more:** [https://liveworld.info/](https://liveworld.info/)
 
 ---
 
@@ -84,55 +84,55 @@ Princess Diana's brother tells the BBC's Laura Kuenssberg that "we'll forget her
 
 ---
 
-### 6. Flight chaos caused by software defect in space of a millisecond, report says
+### 6. Watch: Diana's brother says Charles 'went ballistic' in phone call after her death
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.
+Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israeli strike on motorcycle kills Palestinian in Gaza City, injures child
+### 7. North Korea dismisses UN nuclear watchdog resolution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Separate attacks struck central refugee camps as officials warned Gaza&#039;s health sector faces total collapse.
+The country rebukes the UN atomic agency&#039;s &#039;double standards&#039; and says nuclear status is &#039;irreversible&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa
+### 8. Report: More US troops have died in Iran war than Pentagon says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.
+The Pentagon publicly lists 18 US military deaths since the Iran war began.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss)
 
 ---
 
-### 9. Trump says Denmark deal gives US security ‘control’ over Greenland
+### 9. South Africans voice their anger as hundreds hold femicide vigil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.
+Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss)
 
 ---
 
