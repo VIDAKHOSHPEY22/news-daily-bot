@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 12:51:55
+**Last Update:** 2026-09-19 13:06:56
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -97,7 +97,20 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 7. Can Trump ban CNN, news outlets he doesn’t like from the White House?
+### 7. EU urges US to lift travel ban on Palestinian delegation for UNGA meeting
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss)
+
+---
+
+### 8. Can Trump ban CNN, news outlets he doesn’t like from the White House?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The ban is the latest attack by Trump on media outlets that he perceives as unfa
 
 ---
 
-### 8. Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul
+### 9. Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The ban is the latest attack by Trump on media outlets that he perceives as unfa
 The Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss)
-
----
-
-### 9. NAZA: Why are old Gaza allegations causing new fury in Israel?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israeli soldiers&#039; Gaza testimony causes backlash across much of the country&#039;s political establishment.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss)
 
 ---
 
