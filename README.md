@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 22:53:54
+**Last Update:** 2026-09-19 23:59:28
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Btrfs/ZFS/bcachefs under workloads classic benchmarks skip
+### 1. OpenAI and Anthropic oversold AI security breaches
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bartosz.fenski.pl/modern-fs-benchmark/">https://bartosz.fenski.pl/modern-fs-benchmark/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49768833">https://news.ycombinator.com/item?id=49768833</a></p>
-<p>Points: 23</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/">https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769668">https://news.ycombinator.com/item?id=49769668</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://bartosz.fenski.pl/modern-fs-benchmark/](https://bartosz.fenski.pl/modern-fs-benchmark/)
+🔗 **Read more:** [https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/](https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/)
 
 ---
 
-### 2. Supabase (YC S20) Is Hiring for OrioleDB
+### 2. Economics Nobel Laureates' Letter Supporting the California Billionaire Tax [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://supabase.link/orioledbjob">https://supabase.link/orioledbjob</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49768220">https://news.ycombinator.com/item?id=49768220</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://gabriel-zucman.eu/files/prop40letter.pdf">https://gabriel-zucman.eu/files/prop40letter.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769421">https://news.ycombinator.com/item?id=49769421</a></p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://gabriel-zucman.eu/files/prop40letter.pdf](https://gabriel-zucman.eu/files/prop40letter.pdf)
+
+---
+
+### 3. ZK-JPEG: Zero-Knowledge Image Editing and Compression
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eprint.iacr.org/2026/2039">https://eprint.iacr.org/2026/2039</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769405">https://news.ycombinator.com/item?id=49769405</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://supabase.link/orioledbjob](https://supabase.link/orioledbjob)
-
----
-
-### 3. Almost Never Use AI to Write Anything Substantive
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai">https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49767937">https://news.ycombinator.com/item?id=49767937</a></p>
-<p>Points: 79</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
+🔗 **Read more:** [https://eprint.iacr.org/2026/2039](https://eprint.iacr.org/2026/2039)
 
 ---
 
@@ -84,55 +84,55 @@ About 280 people were evacuated from the premises at Folkestone's Grand Burstin 
 
 ---
 
-### 6. Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport
+### 6. Houthis say they targeted Saudi capital with ballistic missiles
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.
+A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran says conditions to re-engage in talks, end war sent to US via Qatar
+### 7. Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.
+US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss)
 
 ---
 
-### 8. Israel targets paramedics in southern Lebanon
+### 8. Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.
+Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss)
 
 ---
 
-### 9. Cuba works to restore power after another major nationwide blackout
+### 9. Canadians warm to EU ‘associate membership’ proposal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.
+From work and study to trade, Canadians see new possibilities in closer ties with the European Union.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss)
 
 ---
 

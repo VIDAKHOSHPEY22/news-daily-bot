@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-19T23:59:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI and Anthropic oversold AI security breaches",
+            "description": "<p>Article URL: <a href=\"https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/\">https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769668\">https://news.ycombinator.com/item?id=49769668</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+            "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+            "published": "Sat, 19 Sep 2026 19:59:28 +0000",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Economics Nobel Laureates' Letter Supporting the California Billionaire Tax [pdf]",
+            "description": "<p>Article URL: <a href=\"https://gabriel-zucman.eu/files/prop40letter.pdf\">https://gabriel-zucman.eu/files/prop40letter.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769421\">https://news.ycombinator.com/item?id=49769421</a></p>\n<p>Points: 12</p>\n<p># Comments: 6</p>",
+            "url": "https://gabriel-zucman.eu/files/prop40letter.pdf",
+            "published": "Sat, 19 Sep 2026 19:25:26 +0000",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+            "description": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/2039\">https://eprint.iacr.org/2026/2039</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769405\">https://news.ycombinator.com/item?id=49769405</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://eprint.iacr.org/2026/2039",
+            "published": "Sat, 19 Sep 2026 19:23:23 +0000",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+            "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+            "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 20:11:35 GMT",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+            "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 20:16:07 GMT",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+            "description": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 20:13:56 +0000",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+            "description": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 20:03:23 +0000",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canadians warm to EU ‘associate membership’ proposal",
+            "description": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 19:53:55 +0000",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T23:59:28+03:30"
+        }
+    ]
+}
