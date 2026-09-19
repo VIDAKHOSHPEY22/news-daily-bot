@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 07:53:35
+**Last Update:** 2026-09-19 08:17:08
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. SDCC – Small Device C Compiler
+### 1. Flock Offers Employees Buyouts as Customers Flee
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/">https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762835">https://news.ycombinator.com/item?id=49762835</a></p>
+<p>Points: 20</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/)
+
+---
+
+### 2. SDCC – Small Device C Compiler
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://sdcc.sourceforge.net/">https://sdcc.sourceforge.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762744">https://news.ycombinator.com/item?id=49762744</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Points: 26</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://sdcc.sourceforge.net/](https://sdcc.sourceforge.net/)
 
 ---
 
-### 2. Science Is Open Software
+### 3. Science Is Open Software
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://jepedersen.dk/blog/202505_research/">https://jepedersen.dk/blog/202505_research/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762687">https://news.ycombinator.com/item?id=49762687</a></p>
-<p>Points: 33</p>
+<p>Points: 38</p>
 <p># Comments: 15</p>
 
 🔗 **Read more:** [https://jepedersen.dk/blog/202505_research/](https://jepedersen.dk/blog/202505_research/)
-
----
-
-### 3. Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://liveworld.info/">https://liveworld.info/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762099">https://news.ycombinator.com/item?id=49762099</a></p>
-<p>Points: 25</p>
-<p># Comments: 28</p>
-
-🔗 **Read more:** [https://liveworld.info/](https://liveworld.info/)
 
 ---
 
@@ -97,42 +97,42 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 7. North Korea dismisses UN nuclear watchdog resolution
+### 7. Japan has record 100,000 people aged over 100: How societies are ageing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The country rebukes the UN atomic agency&#039;s &#039;double standards&#039; and says nuclear status is &#039;irreversible&#039;.
+Fewer births and worsening labour shortages are placing mounting pressure on Japan’s social care system.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss)
 
 ---
 
-### 8. Report: More US troops have died in Iran war than Pentagon says
+### 8. Trump bans CNN, MS NOW, Politico from the White House
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Pentagon publicly lists 18 US military deaths since the Iran war began.
+Trump bans CNN, MS NOW and Politico from the White House, accusing them of ‘fake news.’
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss)
 
 ---
 
-### 9. South Africans voice their anger as hundreds hold femicide vigil
+### 9. The Nepal floods question: When the Himalayas collapse, who gets warned?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa.
+The floods raised concerns about cross-border warnings that experts say can no longer be ignored.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss)
 
 ---
 

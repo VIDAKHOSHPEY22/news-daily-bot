@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-19T08:17:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flock Offers Employees Buyouts as Customers Flee",
+            "description": "<p>Article URL: <a href=\"https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/\">https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762835\">https://news.ycombinator.com/item?id=49762835</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
+            "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+            "published": "Sat, 19 Sep 2026 02:50:24 +0000",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SDCC – Small Device C Compiler",
+            "description": "<p>Article URL: <a href=\"https://sdcc.sourceforge.net/\">https://sdcc.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762744\">https://news.ycombinator.com/item?id=49762744</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
+            "url": "https://sdcc.sourceforge.net/",
+            "published": "Sat, 19 Sep 2026 02:32:36 +0000",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Science Is Open Software",
+            "description": "<p>Article URL: <a href=\"https://jepedersen.dk/blog/202505_research/\">https://jepedersen.dk/blog/202505_research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49762687\">https://news.ycombinator.com/item?id=49762687</a></p>\n<p>Points: 38</p>\n<p># Comments: 15</p>",
+            "url": "https://jepedersen.dk/blog/202505_research/",
+            "published": "Sat, 19 Sep 2026 02:21:35 +0000",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+            "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 22:58:55 GMT",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+            "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+            "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+            "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:21 GMT",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japan has record 100,000 people aged over 100: How societies are ageing",
+            "description": "Fewer births and worsening labour shortages are placing mounting pressure on Japan’s social care system.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 04:31:06 +0000",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump bans CNN, MS NOW, Politico from the White House",
+            "description": "Trump bans CNN, MS NOW and Politico from the White House, accusing them of ‘fake news.’",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 04:28:54 +0000",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
+            "description": "The floods raised concerns about cross-border warnings that experts say can no longer be ignored.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 04:25:42 +0000",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T08:17:08+03:30"
+        }
+    ]
+}
