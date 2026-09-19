@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T02:21:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mayday Mysteries",
+            "description": "<p>Article URL: <a href=\"http://www.maydaymystery.org/mayday/\">http://www.maydaymystery.org/mayday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770362\">https://news.ycombinator.com/item?id=49770362</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "http://www.maydaymystery.org/mayday/",
+            "published": "Sat, 19 Sep 2026 21:43:09 +0000",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+            "description": "<p>Article URL: <a href=\"https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html\">https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770293\">https://news.ycombinator.com/item?id=49770293</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+            "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+            "published": "Sat, 19 Sep 2026 21:30:59 +0000",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+            "description": "<p>Article URL: <a href=\"https://chrono.fandom.com/wiki/Dream_Devourer\">https://chrono.fandom.com/wiki/Dream_Devourer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770256\">https://news.ycombinator.com/item?id=49770256</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+            "published": "Sat, 19 Sep 2026 21:25:29 +0000",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+            "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 20:16:07 GMT",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+            "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 20:11:35 GMT",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+            "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+            "description": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 22:03:05 +0000",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+            "description": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.",
+            "url": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 20:47:20 +0000",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+            "description": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 20:40:09 +0000",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T02:21:57+03:30"
+        }
+    ]
+}
