@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 20:39:01
+**Last Update:** 2026-09-19 20:50:01
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Agreement between the USA and Denmark (1951,2004) [pdf]
+### 1. Supabase (YC S20) Is Hiring for OrioleDB
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://supabase.link/orioledbjob">https://supabase.link/orioledbjob</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49768220">https://news.ycombinator.com/item?id=49768220</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://supabase.link/orioledbjob](https://supabase.link/orioledbjob)
+
+---
+
+### 2. Almost Never Use AI to Write Anything Substantive
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai">https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49767937">https://news.ycombinator.com/item?id=49767937</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
+
+---
+
+### 3. Agreement between the USA and Denmark (1951,2004) [pdf]
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf">https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766976">https://news.ycombinator.com/item?id=49766976</a></p>
-<p>Points: 13</p>
-<p># Comments: 5</p>
+<p>Points: 23</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
-
----
-
-### 2. Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951">https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766821">https://news.ycombinator.com/item?id=49766821</a></p>
-<p>Points: 41</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
-
----
-
-### 3. A graphical desktop for the ZX Spectrum
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/mindbox77/zxdesk">https://github.com/mindbox77/zxdesk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49766676">https://news.ycombinator.com/item?id=49766676</a></p>
-<p>Points: 63</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://github.com/mindbox77/zxdesk](https://github.com/mindbox77/zxdesk)
 
 ---
 

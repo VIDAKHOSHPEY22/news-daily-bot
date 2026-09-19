@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-19T20:50:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+            "description": "<p>Article URL: <a href=\"https://supabase.link/orioledbjob\">https://supabase.link/orioledbjob</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49768220\">https://news.ycombinator.com/item?id=49768220</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://supabase.link/orioledbjob",
+            "published": "Sat, 19 Sep 2026 17:01:30 +0000",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Almost Never Use AI to Write Anything Substantive",
+            "description": "<p>Article URL: <a href=\"https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\">https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49767937\">https://news.ycombinator.com/item?id=49767937</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+            "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+            "published": "Sat, 19 Sep 2026 16:35:24 +0000",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Agreement between the USA and Denmark (1951,2004) [pdf]",
+            "description": "<p>Article URL: <a href=\"https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf\">https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49766976\">https://news.ycombinator.com/item?id=49766976</a></p>\n<p>Points: 23</p>\n<p># Comments: 26</p>",
+            "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf",
+            "published": "Sat, 19 Sep 2026 14:45:12 +0000",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+            "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Journalists report being denied White House access after Trump bans some outlets",
+            "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+            "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 15:19:39 GMT",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major seaside hotel fire treated as suspicious",
+            "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 16:43:21 GMT",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
+            "description": "Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League on goal difference to Manchester City.",
+            "url": "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 16:42:26 +0000",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
+            "description": "&#039;Hands Around the Kennedy Center&#039; rally drew thousands after Trump-backed board votes to close the iconic arts venue.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 16:21:36 +0000",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police hiring standards matter. But they alone cannot stop abuse",
+            "description": "Law enforcement in the US needs high hiring standards. But it also needs reform and trust-building in communities.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/19/police-hiring-standards-matter-but-they-alone-cannot-stop-abuse?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 15:58:55 +0000",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T20:50:01+03:30"
+        }
+    ]
+}
