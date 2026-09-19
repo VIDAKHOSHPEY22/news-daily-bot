@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 08:17:08
+**Last Update:** 2026-09-19 12:51:55
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Flock Offers Employees Buyouts as Customers Flee
+### 1. GPT-6 Astra Solves a WWI German Radio Cipher
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/">https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762835">https://news.ycombinator.com/item?id=49762835</a></p>
-<p>Points: 20</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763987">https://news.ycombinator.com/item?id=49763987</a></p>
+<p>Points: 90</p>
+<p># Comments: 42</p>
 
-🔗 **Read more:** [https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/)
+🔗 **Read more:** [https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
 
 ---
 
-### 2. SDCC – Small Device C Compiler
+### 2. If math is more than proof, we need to better celebrate the rest of it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sdcc.sourceforge.net/">https://sdcc.sourceforge.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762744">https://news.ycombinator.com/item?id=49762744</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763928">https://news.ycombinator.com/item?id=49763928</a></p>
+<p>Points: 72</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://sdcc.sourceforge.net/](https://sdcc.sourceforge.net/)
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
 
 ---
 
-### 3. Science Is Open Software
+### 3. Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jepedersen.dk/blog/202505_research/">https://jepedersen.dk/blog/202505_research/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49762687">https://news.ycombinator.com/item?id=49762687</a></p>
-<p>Points: 38</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://browser.geekbench.com/v7/cpu/389219">https://browser.geekbench.com/v7/cpu/389219</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763883">https://news.ycombinator.com/item?id=49763883</a></p>
+<p>Points: 24</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://jepedersen.dk/blog/202505_research/](https://jepedersen.dk/blog/202505_research/)
+🔗 **Read more:** [https://browser.geekbench.com/v7/cpu/389219](https://browser.geekbench.com/v7/cpu/389219)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Trump said the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics haven't been confirmed by Danish officials.
+Trump says the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics have not been confirmed by Danish officials.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 7. Japan has record 100,000 people aged over 100: How societies are ageing
+### 7. Can Trump ban CNN, news outlets he doesn’t like from the White House?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fewer births and worsening labour shortages are placing mounting pressure on Japan’s social care system.
+The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/japan-has-record-100000-people-aged-over-100-how-societies-are-ageing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss)
 
 ---
 
-### 8. Trump bans CNN, MS NOW, Politico from the White House
+### 8. Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump bans CNN, MS NOW and Politico from the White House, accusing them of ‘fake news.’
+The Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss)
 
 ---
 
-### 9. The Nepal floods question: When the Himalayas collapse, who gets warned?
+### 9. NAZA: Why are old Gaza allegations causing new fury in Israel?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The floods raised concerns about cross-border warnings that experts say can no longer be ignored.
+Israeli soldiers&#039; Gaza testimony causes backlash across much of the country&#039;s political establishment.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss)
 
 ---
 
