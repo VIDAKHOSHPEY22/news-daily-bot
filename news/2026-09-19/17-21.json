@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-19T17:21:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Laya the open source version of Jev",
+            "description": "<p>Article URL: <a href=\"https://laya.convaiinnovations.com/\">https://laya.convaiinnovations.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49765348\">https://news.ycombinator.com/item?id=49765348</a></p>\n<p>Points: 201</p>\n<p># Comments: 33</p>",
+            "url": "https://laya.convaiinnovations.com/",
+            "published": "Sat, 19 Sep 2026 10:46:58 +0000",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI-generated posters don’t have to be horrible",
+            "description": "<p>Article URL: <a href=\"https://john.hartnup.uk/2026/06/07/ai-event-posters.html\">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49764791\">https://news.ycombinator.com/item?id=49764791</a></p>\n<p>Points: 453</p>\n<p># Comments: 296</p>",
+            "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+            "published": "Sat, 19 Sep 2026 09:20:58 +0000",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+            "description": "<p>Article URL: <a href=\"https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio\">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49763987\">https://news.ycombinator.com/item?id=49763987</a></p>\n<p>Points: 188</p>\n<p># Comments: 103</p>",
+            "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+            "published": "Sat, 19 Sep 2026 06:41:44 +0000",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+            "description": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+            "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+            "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book.",
+            "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 18 Sep 2026 15:59:21 GMT",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+            "description": "Some officials and state media have long openly described the industry as a ‘mafia’ system.",
+            "url": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 13:21:52 +0000",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Taiwan flexes military capabilities ahead of Trump-Xi talks",
+            "description": "Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 13:13:19 +0000",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Child among three Palestinians killed in Israeli attacks across Gaza",
+            "description": "Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 12:59:31 +0000",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-19T17:21:16+03:30"
+        }
+    ]
+}

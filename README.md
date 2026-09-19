@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 13:06:56
+**Last Update:** 2026-09-19 17:21:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. GPT-6 Astra Solves a WWI German Radio Cipher
+### 1. Laya the open source version of Jev
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://laya.convaiinnovations.com/">https://laya.convaiinnovations.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49765348">https://news.ycombinator.com/item?id=49765348</a></p>
+<p>Points: 201</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://laya.convaiinnovations.com/](https://laya.convaiinnovations.com/)
+
+---
+
+### 2. AI-generated posters don’t have to be horrible
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">https://john.hartnup.uk/2026/06/07/ai-event-posters.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49764791">https://news.ycombinator.com/item?id=49764791</a></p>
+<p>Points: 453</p>
+<p># Comments: 296</p>
+
+🔗 **Read more:** [https://john.hartnup.uk/2026/06/07/ai-event-posters.html](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+
+---
+
+### 3. GPT-6 Astra Solves a WWI German Radio Cipher
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763987">https://news.ycombinator.com/item?id=49763987</a></p>
-<p>Points: 90</p>
-<p># Comments: 42</p>
+<p>Points: 188</p>
+<p># Comments: 103</p>
 
 🔗 **Read more:** [https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
-
----
-
-### 2. If math is more than proof, we need to better celebrate the rest of it
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/">https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763928">https://news.ycombinator.com/item?id=49763928</a></p>
-<p>Points: 72</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
-
----
-
-### 3. Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://browser.geekbench.com/v7/cpu/389219">https://browser.geekbench.com/v7/cpu/389219</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49763883">https://news.ycombinator.com/item?id=49763883</a></p>
-<p>Points: 24</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://browser.geekbench.com/v7/cpu/389219](https://browser.geekbench.com/v7/cpu/389219)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Trump says the agreement will give the US "permanent control over security, and all other needs, in Greenland", though specifics have not been confirmed by Danish officials.
+Denmark and Greenland have welcomed the deal, which Trump claims will give the US "permanent control over security and all other needs" in the Danish territory.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he h
 
 ---
 
-### 7. EU urges US to lift travel ban on Palestinian delegation for UNGA meeting
+### 7. An unaffordable car market highlights Iran’s cost-of-living crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.
+Some officials and state media have long openly described the industry as a ‘mafia’ system.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss)
 
 ---
 
-### 8. Can Trump ban CNN, news outlets he doesn’t like from the White House?
+### 8. Taiwan flexes military capabilities ahead of Trump-Xi talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration.
+Taiwan has staged live-fire drills with missiles and attack drones as Donald Trump prepares to host China’s Xi Jinping.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-taiwan-drills-minisv?traffic_source=rss)
 
 ---
 
-### 9. Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul
+### 9. Child among three Palestinians killed in Israeli attacks across Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.
+Gaza’s Health Ministry says the son of its director general, Munir al-Bursh, is among those killed.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss)
 
 ---
 
