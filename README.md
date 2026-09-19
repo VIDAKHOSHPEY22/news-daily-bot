@@ -1,44 +1,44 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-19 23:59:28
+**Last Update:** 2026-09-20 01:00:53
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI and Anthropic oversold AI security breaches
+### 1. I captured 72 hours of idle Android packets behind pfSense
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/">https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769668">https://news.ycombinator.com/item?id=49769668</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://www.praveentechworld.com/research/degoogle-telemetry-2026">https://www.praveentechworld.com/research/degoogle-telemetry-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769694">https://news.ycombinator.com/item?id=49769694</a></p>
+<p>Points: 8</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/](https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/)
+🔗 **Read more:** [https://www.praveentechworld.com/research/degoogle-telemetry-2026](https://www.praveentechworld.com/research/degoogle-telemetry-2026)
 
 ---
 
-### 2. Economics Nobel Laureates' Letter Supporting the California Billionaire Tax [pdf]
+### 2. Measure internet censorship. Contribute to the largest open dataset
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gabriel-zucman.eu/files/prop40letter.pdf">https://gabriel-zucman.eu/files/prop40letter.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769421">https://news.ycombinator.com/item?id=49769421</a></p>
-<p>Points: 12</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://ooni.org/install">https://ooni.org/install</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769676">https://news.ycombinator.com/item?id=49769676</a></p>
+<p>Points: 22</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://gabriel-zucman.eu/files/prop40letter.pdf](https://gabriel-zucman.eu/files/prop40letter.pdf)
+🔗 **Read more:** [https://ooni.org/install](https://ooni.org/install)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://eprint.iacr.org/2026/2039">https://eprint.iacr.org/2026/2039</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49769405">https://news.ycombinator.com/item?id=49769405</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 27</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://eprint.iacr.org/2026/2039](https://eprint.iacr.org/2026/2039)
 
@@ -97,42 +97,42 @@ A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, a
 
 ---
 
-### 7. Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash
+### 7. Fulham vs Manchester United: Premier League – prediction, teams, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.
+Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss)
 
 ---
 
-### 8. Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty
+### 8. Israel’s president pardons soldier who killed wounded Palestinian in 2016
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.
+Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss)
 
 ---
 
-### 9. Canadians warm to EU ‘associate membership’ proposal
+### 9. Lacking equipment, but not ambition: Gaza students try to keep up with tech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From work and study to trade, Canadians see new possibilities in closer ties with the European Union.
+Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss](https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss)
 
 ---
 

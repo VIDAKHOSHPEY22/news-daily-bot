@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T01:00:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I captured 72 hours of idle Android packets behind pfSense",
+            "description": "<p>Article URL: <a href=\"https://www.praveentechworld.com/research/degoogle-telemetry-2026\">https://www.praveentechworld.com/research/degoogle-telemetry-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769694\">https://news.ycombinator.com/item?id=49769694</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://www.praveentechworld.com/research/degoogle-telemetry-2026",
+            "published": "Sat, 19 Sep 2026 20:03:35 +0000",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Measure internet censorship. Contribute to the largest open dataset",
+            "description": "<p>Article URL: <a href=\"https://ooni.org/install\">https://ooni.org/install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769676\">https://news.ycombinator.com/item?id=49769676</a></p>\n<p>Points: 22</p>\n<p># Comments: 12</p>",
+            "url": "https://ooni.org/install",
+            "published": "Sat, 19 Sep 2026 20:00:59 +0000",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+            "description": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/2039\">https://eprint.iacr.org/2026/2039</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49769405\">https://news.ycombinator.com/item?id=49769405</a></p>\n<p>Points: 27</p>\n<p># Comments: 2</p>",
+            "url": "https://eprint.iacr.org/2026/2039",
+            "published": "Sat, 19 Sep 2026 19:23:23 +0000",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+            "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+            "description": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 20:11:35 GMT",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+            "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 20:16:07 GMT",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+            "description": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.",
+            "url": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 20:47:20 +0000",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+            "description": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
+            "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 20:40:09 +0000",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+            "description": "Gaza&#039;s IT industry has been devastated from three-years of bombing and destruction.",
+            "url": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+            "published": "Sat, 19 Sep 2026 20:30:01 +0000",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T01:00:53+03:30"
+        }
+    ]
+}
