@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 15:42:45
+**Last Update:** 2026-09-20 17:46:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. If AI coding is lowering your code quality, you're not managing quality right
+### 1. Teen Social Media Bans Miss the Point
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code">https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774795">https://news.ycombinator.com/item?id=49774795</a></p>
-<p>Points: 12</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/">https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775700">https://news.ycombinator.com/item?id=49775700</a></p>
+<p>Points: 19</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
+🔗 **Read more:** [https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/](https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/)
 
 ---
 
-### 2. I'm Tired of the AI Tone
+### 2. Do birds have accents? the regional differences in birdsong
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sagivo.com/blog/im-tired-of-the-ai-tone">https://sagivo.com/blog/im-tired-of-the-ai-tone</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774665">https://news.ycombinator.com/item?id=49774665</a></p>
-<p>Points: 20</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108">https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775579">https://news.ycombinator.com/item?id=49775579</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://sagivo.com/blog/im-tired-of-the-ai-tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
+🔗 **Read more:** [https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
 
 ---
 
-### 3. Why Do We Need Human Mathematicians Anymore?
+### 3. Qwen-Image-2.1: Compact, efficient, and unified image creation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/">https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774521">https://news.ycombinator.com/item?id=49774521</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://qwen.ai/blog?id=qwen-image-2.1">https://qwen.ai/blog?id=qwen-image-2.1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775499">https://news.ycombinator.com/item?id=49775499</a></p>
+<p>Points: 48</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
+🔗 **Read more:** [https://qwen.ai/blog?id=qwen-image-2.1](https://qwen.ai/blog?id=qwen-image-2.1)
 
 ---
 
@@ -97,42 +97,42 @@ Moscow's mayor says 450 drones were downed during the overnight barrage, in whic
 
 ---
 
-### 7. Pro-Palestine protesters demonstrate outside Ed Sheeran concert
+### 7. Jews and Muslims lived together for centuries. Did Zionism tear them apart?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia.
+On Deja Vu, Rabbi Haim Sofer explores the history of the Neturei Karta movement’s opposition to Zionism.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss)
 
 ---
 
-### 8. Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites
+### 8. What’s behind Iranian authorities’ push for a mass mobilisation campaign?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu storms Western Wall tunnels amid Yom Kippur settler incursions, drawing fierce condemnation.
+Iran has launched a major mobilisation drive, sparking fears of renewed conflict with the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss)
 
 ---
 
-### 9. Back to school in Gaza: Learning in tents after years of disruption
+### 9. Netanyahu tours tunnels underneath Al-Aqsa Mosque compound
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After nearly three years of disruption, children return to school in Gaza in makeshift spaces with scarce resources.
+Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss](https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss)
 
 ---
 

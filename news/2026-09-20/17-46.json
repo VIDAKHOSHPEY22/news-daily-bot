@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T17:46:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Teen Social Media Bans Miss the Point",
+            "description": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/\">https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775700\">https://news.ycombinator.com/item?id=49775700</a></p>\n<p>Points: 19</p>\n<p># Comments: 17</p>",
+            "url": "https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/",
+            "published": "Sun, 20 Sep 2026 13:32:14 +0000",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Do birds have accents? the regional differences in birdsong",
+            "description": "<p>Article URL: <a href=\"https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108\">https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775579\">https://news.ycombinator.com/item?id=49775579</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
+            "published": "Sun, 20 Sep 2026 13:19:32 +0000",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+            "description": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen-image-2.1\">https://qwen.ai/blog?id=qwen-image-2.1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775499\">https://news.ycombinator.com/item?id=49775499</a></p>\n<p>Points: 48</p>\n<p># Comments: 15</p>",
+            "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+            "published": "Sun, 20 Sep 2026 13:09:25 +0000",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+            "description": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 12:23:05 GMT",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+            "description": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.",
+            "url": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:06:37 GMT",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+            "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+            "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 10:45:39 GMT",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jews and Muslims lived together for centuries. Did Zionism tear them apart?",
+            "description": "On Deja Vu, Rabbi Haim Sofer explores the history of the Neturei Karta movement’s opposition to Zionism.",
+            "url": "https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 13:53:21 +0000",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
+            "description": "Iran has launched a major mobilisation drive, sparking fears of renewed conflict with the US.",
+            "url": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 13:47:26 +0000",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
+            "description": "Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 13:31:25 +0000",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T17:46:50+03:30"
+        }
+    ]
+}
