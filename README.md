@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 17:46:50
+**Last Update:** 2026-09-20 20:14:47
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Teen Social Media Bans Miss the Point
+### 1. Prompts Aren't Real
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/">https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775700">https://news.ycombinator.com/item?id=49775700</a></p>
-<p>Points: 19</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/](https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/)
-
----
-
-### 2. Do birds have accents? the regional differences in birdsong
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108">https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775579">https://news.ycombinator.com/item?id=49775579</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://evaluation.club">https://evaluation.club</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49777111">https://news.ycombinator.com/item?id=49777111</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108](https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108)
+🔗 **Read more:** [https://evaluation.club](https://evaluation.club)
 
 ---
 
-### 3. Qwen-Image-2.1: Compact, efficient, and unified image creation
+### 2. Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://qwen.ai/blog?id=qwen-image-2.1">https://qwen.ai/blog?id=qwen-image-2.1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49775499">https://news.ycombinator.com/item?id=49775499</a></p>
-<p>Points: 48</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0">https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49777106">https://news.ycombinator.com/item?id=49777106</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://qwen.ai/blog?id=qwen-image-2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+🔗 **Read more:** [https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0](https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0)
+
+---
+
+### 3. Custom home server built from spare parts
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://asmat.ca/blog/i-went-bananas/">https://asmat.ca/blog/i-went-bananas/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49776960">https://news.ycombinator.com/item?id=49776960</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://asmat.ca/blog/i-went-bananas/](https://asmat.ca/blog/i-went-bananas/)
 
 ---
 
@@ -71,68 +71,68 @@ Princess Diana's brother describes press coverage of Prince Harry and Meghan as 
 
 ---
 
-### 5. Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives
+### 5. Key takeaways from BBC interview as Earl Spencer defends claims about King
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.
+Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
+### 6. Watch: Emotional Earl Spencer says he misses sister Diana every day
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.
+"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her", Earl Spencer told presenter Laura Kuenssberg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Jews and Muslims lived together for centuries. Did Zionism tear them apart?
+### 7. Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-On Deja Vu, Rabbi Haim Sofer explores the history of the Neturei Karta movement’s opposition to Zionism.
+The game hinged on Huijsen&#039;s red card early in the second half for pulling down Giuliano Simeone in the box.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/9/20/jews-and-muslims-lived-together-for-centuries-did-zionism-tear-them-apart-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss)
 
 ---
 
-### 8. What’s behind Iranian authorities’ push for a mass mobilisation campaign?
+### 8. Photos: Nepal flood survivors find little trace of former lives
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran has launched a major mobilisation drive, sparking fears of renewed conflict with the US.
+Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss)
 
 ---
 
-### 9. Netanyahu tours tunnels underneath Al-Aqsa Mosque compound
+### 9. Why have US prosecutors labelled China’s Huawei a criminal enterprise?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Prime Minister Benjamin Netanyahu and his wife, Sara, walked through tunnels beneath Al-Aqsa mosque compound.
+Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/netanyahu-tours-tunnels-underneath-al-aqsa-mosque-compound?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss)
 
 ---
 

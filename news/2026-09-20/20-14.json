@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T20:14:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Prompts Aren't Real",
+            "description": "<p>Article URL: <a href=\"https://evaluation.club\">https://evaluation.club</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49777111\">https://news.ycombinator.com/item?id=49777111</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://evaluation.club",
+            "published": "Sun, 20 Sep 2026 15:59:25 +0000",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+            "description": "<p>Article URL: <a href=\"https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0\">https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49777106\">https://news.ycombinator.com/item?id=49777106</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+            "published": "Sun, 20 Sep 2026 15:58:52 +0000",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Custom home server built from spare parts",
+            "description": "<p>Article URL: <a href=\"https://asmat.ca/blog/i-went-bananas/\">https://asmat.ca/blog/i-went-bananas/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49776960\">https://news.ycombinator.com/item?id=49776960</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://asmat.ca/blog/i-went-bananas/",
+            "published": "Sun, 20 Sep 2026 15:43:32 +0000",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+            "description": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 12:23:05 GMT",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+            "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+            "description": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:00:09 GMT",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+            "description": "The game hinged on Huijsen&#039;s red card early in the second half for pulling down Giuliano Simeone in the box.",
+            "url": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 16:37:19 +0000",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Nepal flood survivors find little trace of former lives",
+            "description": "Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris.",
+            "url": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 16:36:03 +0000",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+            "description": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 15:57:48 +0000",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T20:14:47+03:30"
+        }
+    ]
+}
