@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T15:42:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If AI coding is lowering your code quality, you're not managing quality right",
+            "description": "<p>Article URL: <a href=\"https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code\">https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774795\">https://news.ycombinator.com/item?id=49774795</a></p>\n<p>Points: 12</p>\n<p># Comments: 8</p>",
+            "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+            "published": "Sun, 20 Sep 2026 11:37:10 +0000",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm Tired of the AI Tone",
+            "description": "<p>Article URL: <a href=\"https://sagivo.com/blog/im-tired-of-the-ai-tone\">https://sagivo.com/blog/im-tired-of-the-ai-tone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774665\">https://news.ycombinator.com/item?id=49774665</a></p>\n<p>Points: 20</p>\n<p># Comments: 16</p>",
+            "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+            "published": "Sun, 20 Sep 2026 11:18:26 +0000",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Do We Need Human Mathematicians Anymore?",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/\">https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774521\">https://news.ycombinator.com/item?id=49774521</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+            "published": "Sun, 20 Sep 2026 10:49:58 +0000",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+            "description": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:00:07 GMT",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+            "description": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.",
+            "url": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:06:37 GMT",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+            "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+            "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 10:45:39 GMT",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
+            "description": "Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 12:00:16 +0000",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
+            "description": "Netanyahu storms Western Wall tunnels amid Yom Kippur settler incursions, drawing fierce condemnation.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 11:54:24 +0000",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Back to school in Gaza: Learning in tents after years of disruption",
+            "description": "After nearly three years of disruption, children return to school in Gaza in makeshift spaces with scarce resources.",
+            "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 11:26:20 +0000",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T15:42:45+03:30"
+        }
+    ]
+}

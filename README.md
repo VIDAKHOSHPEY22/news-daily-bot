@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 13:22:56
+**Last Update:** 2026-09-20 15:42:45
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. KDE turns 30 and someone's brought an AI-native desktop proposal
+### 1. If AI coding is lowering your code quality, you're not managing quality right
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282">https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49773439">https://news.ycombinator.com/item?id=49773439</a></p>
-<p>Points: 26</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code">https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774795">https://news.ycombinator.com/item?id=49774795</a></p>
+<p>Points: 12</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282)
+🔗 **Read more:** [https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
 
 ---
 
-### 2. Spain Orders Blocks on Archive.today and Its Mirrors
+### 2. I'm Tired of the AI Tone
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors">https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772961">https://news.ycombinator.com/item?id=49772961</a></p>
-<p>Points: 120</p>
-<p># Comments: 84</p>
-
-🔗 **Read more:** [https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors](https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors)
-
----
-
-### 3. Orchestrating Claude Code Agents: The Chief of Staff Pattern
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/">https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49772806">https://news.ycombinator.com/item?id=49772806</a></p>
+<p>Article URL: <a href="https://sagivo.com/blog/im-tired-of-the-ai-tone">https://sagivo.com/blog/im-tired-of-the-ai-tone</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774665">https://news.ycombinator.com/item?id=49774665</a></p>
 <p>Points: 20</p>
 <p># Comments: 16</p>
 
-🔗 **Read more:** [https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/](https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/)
+🔗 **Read more:** [https://sagivo.com/blog/im-tired-of-the-ai-tone](https://sagivo.com/blog/im-tired-of-the-ai-tone)
+
+---
+
+### 3. Why Do We Need Human Mathematicians Anymore?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/">https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49774521">https://news.ycombinator.com/item?id=49774521</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
 
 ---
 
@@ -84,55 +84,55 @@ Earl Spencer says that he can see echoes of Princess Diana's treatment from the 
 
 ---
 
-### 6. Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says
+### 6. Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the "unprecedented attack".
+Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Echoicide: Who decides which truths survive in Gaza?
+### 7. Pro-Palestine protesters demonstrate outside Ed Sheeran concert
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From Gaza to the digital age, visibility has become one of the central political struggles of modern conflicts.
+Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss)
 
 ---
 
-### 8. Former England and Tottenham star Andros Townsend run over by pitch roller
+### 8. Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former England forward Andros Townsend avoided serious injury after being run over by a pitch roller in Thailand.
+Netanyahu storms Western Wall tunnels amid Yom Kippur settler incursions, drawing fierce condemnation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss)
 
 ---
 
-### 9. Mass Ukrainian drone attack on Moscow kills two, Russia says
+### 9. Back to school in Gaza: Learning in tents after years of disruption
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moscow mayor says Russia intercepted 1,600 drones since Saturday, including 450 directed at the capital.
+After nearly three years of disruption, children return to school in Gaza in makeshift spaces with scarce resources.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss](https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss)
 
 ---
 
