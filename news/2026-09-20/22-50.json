@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T22:50:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Necessary History of the Oddest Letter: W",
+            "description": "<p>Article URL: <a href=\"https://lithub.com/a-necessary-history-of-the-oddest-letter-w/\">https://lithub.com/a-necessary-history-of-the-oddest-letter-w/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778195\">https://news.ycombinator.com/item?id=49778195</a></p>\n<p>Points: 31</p>\n<p># Comments: 19</p>",
+            "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+            "published": "Sun, 20 Sep 2026 17:55:57 +0000",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I turned Jev into a (lousy) chatbot",
+            "description": "<p>Article URL: <a href=\"https://github.com/kyle-pena-nlp/jevchat/\">https://github.com/kyle-pena-nlp/jevchat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778162\">https://news.ycombinator.com/item?id=49778162</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/kyle-pena-nlp/jevchat/",
+            "published": "Sun, 20 Sep 2026 17:51:27 +0000",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+            "description": "<p>Article URL: <a href=\"https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say\">https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49778029\">https://news.ycombinator.com/item?id=49778029</a></p>\n<p>Points: 91</p>\n<p># Comments: 55</p>",
+            "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+            "published": "Sun, 20 Sep 2026 17:38:50 +0000",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+            "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 18:32:55 GMT",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+            "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+            "description": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:00:09 GMT",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How will Saudi Arabia deal with the Houthis?",
+            "description": "Yemeni group warns of further attacks on the kingdom.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 18:34:36 +0000",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man Utd salvage Fulham draw as pressure mounts on Carrick",
+            "description": "Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick.",
+            "url": "https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 18:32:03 +0000",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza artists honour Macklemore for supporting Palestine",
+            "description": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 17:59:10 +0000",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T22:50:10+03:30"
+        }
+    ]
+}
