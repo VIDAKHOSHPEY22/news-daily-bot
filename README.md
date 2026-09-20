@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 01:51:27
+**Last Update:** 2026-09-21 02:49:15
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nipple tattooist 'frustrated' by online censorship
+### 1. What Happened to the Snowden Archive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cx2z7ejn891o">https://www.bbc.com/news/articles/cx2z7ejn891o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780466">https://news.ycombinator.com/item?id=49780466</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://libroot.org/posts/what-happened-to-the-snowden-archive">https://libroot.org/posts/what-happened-to-the-snowden-archive</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780820">https://news.ycombinator.com/item?id=49780820</a></p>
+<p>Points: 21</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cx2z7ejn891o](https://www.bbc.com/news/articles/cx2z7ejn891o)
+🔗 **Read more:** [https://libroot.org/posts/what-happened-to-the-snowden-archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
 
 ---
 
-### 2. Nobody pays for FOSS, we can force them to
+### 2. Google's Open Agentic Orchestrator
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/">https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780064">https://news.ycombinator.com/item?id=49780064</a></p>
-<p>Points: 45</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://agentexecutor.io">https://agentexecutor.io</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780797">https://news.ycombinator.com/item?id=49780797</a></p>
+<p>Points: 27</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/](https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/)
+🔗 **Read more:** [https://agentexecutor.io](https://agentexecutor.io)
 
 ---
 
-### 3. Ogre Battle 64 Recompiled Project at 99.05%
+### 3. Bill to Ban Private Equity from Owning Medical Practices
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/lfarroco/ogre-battle-64-recomp">https://github.com/lfarroco/ogre-battle-64-recomp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780022">https://news.ycombinator.com/item?id=49780022</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/">https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49780630">https://news.ycombinator.com/item?id=49780630</a></p>
+<p>Points: 64</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://github.com/lfarroco/ogre-battle-64-recomp](https://github.com/lfarroco/ogre-battle-64-recomp)
+🔗 **Read more:** [https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
 
 ---
 
@@ -97,7 +97,20 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 7. France to summon Iran envoy after language centre closure in Tehran
+### 7. Polls close in Russian wartime election with ruling party set to dominate
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss)
+
+---
+
+### 8. France to summon Iran envoy after language centre closure in Tehran
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Iran accuses the French language centre of conducting &#039;illegal acts that vi
 
 ---
 
-### 8. Qatar PM urges Gulf security framework with Iran
+### 9. Qatar PM urges Gulf security framework with Iran
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Iran accuses the French language centre of conducting &#039;illegal acts that vi
 Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss)
-
----
-
-### 9. Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss)
 
 ---
 
