@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 20:14:47
+**Last Update:** 2026-09-20 21:01:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Prompts Aren't Real
+### 1. Show HN: Radius – A Meetup.com Alternative
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hello HN!<p>I'm relaunching Radius [1] - far too long after the original Show HN [2] (I'll blame the day job for that).<p>Radius started out from my frustration with not knowing what was going on around me.  The initial plan was to "show all and every type of event" from big to small, but over time I narrowed the focus to communities, groups, events, and helping people connect through them.<p>The initial Show HN gave me 150+ comments (surprising, looking back, given how terrible the plain Bootstrap UI was...) with a huge amount of useful feedback and feature requests.  I've spent the time since then working through that, along with additional requests from groups using Radius, and it finally feels ready for a proper relaunch.<p>I've also recently added "Activities" [3] - which are lightweight events, independent of groups, intended to help people find others to do things with - for example:<p>> John is going for a cycle and a coffee in New York at 10am<p>People can join and vote for a time that works for them.<p>I've got a bunch of ideas for where to go next with this, including things like open sourcing and federation, but those are for another day!<p>Any feedback would be greatly appreciated!<p>P.S. it's built with Ruby on Rails, for those interested.  I highly suspect it would have taken me 2 more years to get to this point without Rails!<p>[1] <a href="https://radius.to/" rel="nofollow">https://radius.to/</a><p>[2] <a href="https://news.ycombinator.com/item?id=40717398">https://news.ycombinator.com/item?id=40717398</a><p>[3] <a href="https://radius.to/documentation/activities/post-an-activity" rel="nofollow">https://radius.to/documentation/activities/post-an-activity</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49777539">https://news.ycombinator.com/item?id=49777539</a></p>
+<p>Points: 15</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://radius.to/](https://radius.to/)
+
+---
+
+### 2. Prompts Aren't Real
 
 **Source:** Hacker News
 
@@ -19,14 +36,14 @@
 **Description:**
 <p>Article URL: <a href="https://evaluation.club">https://evaluation.club</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49777111">https://news.ycombinator.com/item?id=49777111</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 25</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://evaluation.club](https://evaluation.club)
 
 ---
 
-### 2. Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)
+### 3. Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0">https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49777106">https://news.ycombinator.com/item?id=49777106</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 38</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0](https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0)
-
----
-
-### 3. Custom home server built from spare parts
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://asmat.ca/blog/i-went-bananas/">https://asmat.ca/blog/i-went-bananas/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49776960">https://news.ycombinator.com/item?id=49776960</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://asmat.ca/blog/i-went-bananas/](https://asmat.ca/blog/i-went-bananas/)
 
 ---
 
@@ -97,20 +98,33 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 7. Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby
+### 7. Central Colombia forest fire threatens tourist town of Villa de Leyva
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The game hinged on Huijsen&#039;s red card early in the second half for pulling down Giuliano Simeone in the box.
+The country has battled multiple wildfires amid record-breaking temperatures fuelled by El Nino and drought conditions.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/central-colombia-forest-fire-threatens-tourist-town-of-villa-de-leyva?traffic_source=rss)
+
+---
+
+### 8. Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The game hinged on Dean Huijsen&#039;s red card early in the second half for pulling down Giuliano Simeone in the box.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss)
 
 ---
 
-### 8. Photos: Nepal flood survivors find little trace of former lives
+### 9. Photos: Nepal flood survivors find little trace of former lives
 
 **Source:** Al Jazeera
 
@@ -120,19 +134,6 @@ The game hinged on Huijsen&#039;s red card early in the second half for pulling 
 Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss)
-
----
-
-### 9. Why have US prosecutors labelled China’s Huawei a criminal enterprise?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss)
 
 ---
 
