@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-20T13:22:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282\">https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49773439\">https://news.ycombinator.com/item?id=49773439</a></p>\n<p>Points: 26</p>\n<p># Comments: 26</p>",
+            "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+            "published": "Sun, 20 Sep 2026 07:38:37 +0000",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+            "description": "<p>Article URL: <a href=\"https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors\">https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772961\">https://news.ycombinator.com/item?id=49772961</a></p>\n<p>Points: 120</p>\n<p># Comments: 84</p>",
+            "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+            "published": "Sun, 20 Sep 2026 06:16:42 +0000",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+            "description": "<p>Article URL: <a href=\"https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/\">https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49772806\">https://news.ycombinator.com/item?id=49772806</a></p>\n<p>Points: 20</p>\n<p># Comments: 16</p>",
+            "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+            "published": "Sun, 20 Sep 2026 05:46:19 +0000",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+            "description": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:00:07 GMT",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+            "description": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised.",
+            "url": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 05:06:37 GMT",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+            "description": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\".",
+            "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 08:41:36 GMT",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Echoicide: Who decides which truths survive in Gaza?",
+            "description": "From Gaza to the digital age, visibility has become one of the central political struggles of modern conflicts.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 08:32:45 +0000",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former England and Tottenham star Andros Townsend run over by pitch roller",
+            "description": "Former England forward Andros Townsend avoided serious injury after being run over by a pitch roller in Thailand.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/20-09-clip-townsend-gets-rolled-over-in-thailand-th?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 07:55:58 +0000",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mass Ukrainian drone attack on Moscow kills two, Russia says",
+            "description": "Moscow mayor says Russia intercepted 1,600 drones since Saturday, including 450 directed at the capital.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/mass-ukrainian-drone-attack-on-moscow-kills-two-russia-says?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 06:57:05 +0000",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-20T13:22:56+03:30"
+        }
+    ]
+}
