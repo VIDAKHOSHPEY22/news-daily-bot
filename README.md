@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-20 22:50:10
+**Last Update:** 2026-09-21 00:26:03
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Necessary History of the Oddest Letter: W
+### 1. OpenAI's Sam Altman to Brief UN Security Council Next Week
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lithub.com/a-necessary-history-of-the-oddest-letter-w/">https://lithub.com/a-necessary-history-of-the-oddest-letter-w/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778195">https://news.ycombinator.com/item?id=49778195</a></p>
-<p>Points: 31</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/">https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779802">https://news.ycombinator.com/item?id=49779802</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://lithub.com/a-necessary-history-of-the-oddest-letter-w/](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/)
+🔗 **Read more:** [https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/](https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/)
 
 ---
 
-### 2. I turned Jev into a (lousy) chatbot
+### 2. Frontier Labs Are Selling Garbage to Fools in Washington
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/kyle-pena-nlp/jevchat/">https://github.com/kyle-pena-nlp/jevchat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778162">https://news.ycombinator.com/item?id=49778162</a></p>
-<p>Points: 37</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage">https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779432">https://news.ycombinator.com/item?id=49779432</a></p>
+<p>Points: 33</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/kyle-pena-nlp/jevchat/](https://github.com/kyle-pena-nlp/jevchat/)
+🔗 **Read more:** [https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage](https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage)
 
 ---
 
-### 3. Samsung is expected to more than double output of its HBM4 and HBM4E DRAM
+### 3. The Hierarchy of Money
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say">https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49778029">https://news.ycombinator.com/item?id=49778029</a></p>
-<p>Points: 91</p>
-<p># Comments: 55</p>
+<p>Article URL: <a href="https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/">https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49779253">https://news.ycombinator.com/item?id=49779253</a></p>
+<p>Points: 21</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+🔗 **Read more:** [https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/)
 
 ---
 
@@ -97,42 +97,42 @@ Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of hi
 
 ---
 
-### 7. How will Saudi Arabia deal with the Houthis?
+### 7. Eighteen suspects extradited to US over Haitian president’s 2021 killing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni group warns of further attacks on the kingdom.
+Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss)
 
 ---
 
-### 8. Man Utd salvage Fulham draw as pressure mounts on Carrick
+### 8. Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Matheus Cunha strikes late as Manchester United seal a 1-1 draw at Fulham, but pressure mounts on Michael Carrick.
+Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar&#039;s investment strategy.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/20/man-utd-salvage-fulham-draw-as-pressure-mounts-on-carrick?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss)
 
 ---
 
-### 9. Gaza artists honour Macklemore for supporting Palestine
+### 9. US, China open high-level talks ahead of Trump-Xi summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.
+Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss)
 
 ---
 

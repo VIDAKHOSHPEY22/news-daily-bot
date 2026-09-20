@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T00:26:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/\">https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49779802\">https://news.ycombinator.com/item?id=49779802</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+            "published": "Sun, 20 Sep 2026 20:32:43 +0000",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
+            "description": "<p>Article URL: <a href=\"https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage\">https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49779432\">https://news.ycombinator.com/item?id=49779432</a></p>\n<p>Points: 33</p>\n<p># Comments: 11</p>",
+            "url": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
+            "published": "Sun, 20 Sep 2026 19:55:36 +0000",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Hierarchy of Money",
+            "description": "<p>Article URL: <a href=\"https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/\">https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49779253\">https://news.ycombinator.com/item?id=49779253</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
+            "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+            "published": "Sun, 20 Sep 2026 19:37:43 +0000",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+            "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 20:21:40 GMT",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+            "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+            "description": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:00:09 GMT",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+            "description": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 20:31:15 +0000",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+            "description": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar&#039;s investment strategy.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 20:13:18 +0000",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US, China open high-level talks ahead of Trump-Xi summit",
+            "description": "Scott Bessent and He Lifeng meet in New York for US-China talks ahead of the Trump-Xi meeting later this week.",
+            "url": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 19:42:13 +0000",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T00:26:03+03:30"
+        }
+    ]
+}
