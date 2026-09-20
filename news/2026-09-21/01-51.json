@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T01:51:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nipple tattooist 'frustrated' by online censorship",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cx2z7ejn891o\">https://www.bbc.com/news/articles/cx2z7ejn891o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780466\">https://news.ycombinator.com/item?id=49780466</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bbc.com/news/articles/cx2z7ejn891o",
+            "published": "Sun, 20 Sep 2026 21:51:09 +0000",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nobody pays for FOSS, we can force them to",
+            "description": "<p>Article URL: <a href=\"https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/\">https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780064\">https://news.ycombinator.com/item?id=49780064</a></p>\n<p>Points: 45</p>\n<p># Comments: 18</p>",
+            "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+            "published": "Sun, 20 Sep 2026 21:04:32 +0000",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+            "description": "<p>Article URL: <a href=\"https://github.com/lfarroco/ogre-battle-64-recomp\">https://github.com/lfarroco/ogre-battle-64-recomp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780022\">https://news.ycombinator.com/item?id=49780022</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+            "published": "Sun, 20 Sep 2026 20:59:02 +0000",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+            "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 20:21:40 GMT",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+            "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+            "description": "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:00:09 GMT",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France to summon Iran envoy after language centre closure in Tehran",
+            "description": "Iran accuses the French language centre of conducting &#039;illegal acts that violated diplomatic conventions&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 22:06:22 +0000",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar PM urges Gulf security framework with Iran",
+            "description": "Qatar’s PM says, the Gulf won&#039;t be the same unless there&#039;s a framework ensuring no one is a threat to each other.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 21:00:15 +0000",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
+            "description": "Thousands of protesters took to the streets of Buenos Aires for the ‘March of Anger’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
+            "published": "Sun, 20 Sep 2026 20:58:01 +0000",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T01:51:27+03:30"
+        }
+    ]
+}
