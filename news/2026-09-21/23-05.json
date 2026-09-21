@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T23:05:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/\">https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791997\">https://news.ycombinator.com/item?id=49791997</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+            "published": "Mon, 21 Sep 2026 19:17:42 +0000",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "In Search of a Compositional Theory of Self-Stabilization",
+            "description": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html\">http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791797\">https://news.ycombinator.com/item?id=49791797</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+            "published": "Mon, 21 Sep 2026 19:04:36 +0000",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US halts flights at busy East Coast airports, says fiber line cut",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/\">https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791509\">https://news.ycombinator.com/item?id=49791509</a></p>\n<p>Points: 67</p>\n<p># Comments: 26</p>",
+            "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+            "published": "Mon, 21 Sep 2026 18:41:59 +0000",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+            "description": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system.",
+            "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 16:39:16 GMT",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+            "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "First UK charges brought over 1994 Rwanda genocide",
+            "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+            "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 17:48:23 GMT",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters blockade Elbit Systems factory over Israel weapons supply",
+            "description": "Nine protesters blocked access to Elbit Systems’ factory in Staffordshire by attaching themselves to five ‘lock-ons’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 19:22:15 +0000",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
+            "description": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 19:10:52 +0000",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Gaza’s children return to class in tents and ruins",
+            "description": "Gaza children return to classrooms after three years, facing challenges of damaged schools, tents, and scarce supplies.",
+            "url": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 18:40:26 +0000",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T23:05:52+03:30"
+        }
+    ]
+}

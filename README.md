@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 22:45:38
+**Last Update:** 2026-09-21 23:05:52
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. US halts flights at busy East Coast airports, says fiber line cut
+### 1. The Advisory Group on Mathematics and Artificial Intelligence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/">https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791997">https://news.ycombinator.com/item?id=49791997</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)
+
+---
+
+### 2. In Search of a Compositional Theory of Self-Stabilization
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html">http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791797">https://news.ycombinator.com/item?id=49791797</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html](http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html)
+
+---
+
+### 3. US halts flights at busy East Coast airports, says fiber line cut
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/">https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791509">https://news.ycombinator.com/item?id=49791509</a></p>
-<p>Points: 13</p>
-<p># Comments: 6</p>
+<p>Points: 67</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/](https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/)
-
----
-
-### 2. Help 404 Media Find Out How Your Local Police Are Surveiling You
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/">https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791380">https://news.ycombinator.com/item?id=49791380</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/](https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/)
-
----
-
-### 3. Avoiding the babbling-idiot failure in a time-triggered communication system
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ieeexplore.ieee.org/document/689473">https://ieeexplore.ieee.org/document/689473</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791117">https://news.ycombinator.com/item?id=49791117</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://ieeexplore.ieee.org/document/689473](https://ieeexplore.ieee.org/document/689473)
 
 ---
 
@@ -97,7 +97,33 @@ Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Ma
 
 ---
 
-### 7. Photos: Gaza’s children return to class in tents and ruins
+### 7. Protesters blockade Elbit Systems factory over Israel weapons supply
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Nine protesters blocked access to Elbit Systems’ factory in Staffordshire by attaching themselves to five ‘lock-ons’.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss)
+
+---
+
+### 8. Trump’s approval rating hits record low amid Iran war, economy fallout
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss)
+
+---
+
+### 9. Photos: Gaza’s children return to class in tents and ruins
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Ma
 Gaza children return to classrooms after three years, facing challenges of damaged schools, tents, and scarce supplies.
 
 🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss)
-
----
-
-### 8. Protesters march on Islamabad over soaring fuel prices
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pakistan’s Jamaat-e-Islami party has launched a protest march towards Islamabad over soaring fuel prices.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss)
-
----
-
-### 9. Ceuta solidarity shirt row: How the crisis engulfed Spanish football
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Football has been dragged into growing tensions over the influx of migrants from Morocco to the Spanish enclave Ceuta.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss)
 
 ---
 
