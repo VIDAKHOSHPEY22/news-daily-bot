@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 09:41:50
+**Last Update:** 2026-09-21 10:04:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI chatbots give wrong answers to financial queries 'most of the time'
+### 1. Grim Fandango Puzzle Document (1996) [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf">http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783495">https://news.ycombinator.com/item?id=49783495</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+
+---
+
+### 2. Far-left party wins Berlin election, pledging to nationalise housing
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/">https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783406">https://news.ycombinator.com/item?id=49783406</a></p>
+<p>Points: 13</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/](https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/)
+
+---
+
+### 3. AI chatbots give wrong answers to financial queries 'most of the time'
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666">https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49783062">https://news.ycombinator.com/item?id=49783062</a></p>
-<p>Points: 39</p>
-<p># Comments: 12</p>
+<p>Points: 48</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666)
-
----
-
-### 2. Winning the Visa Lottery
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.aeaweb.org/research/immigration-restrictions-firms-workers">https://www.aeaweb.org/research/immigration-restrictions-firms-workers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782775">https://news.ycombinator.com/item?id=49782775</a></p>
-<p>Points: 30</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://www.aeaweb.org/research/immigration-restrictions-firms-workers](https://www.aeaweb.org/research/immigration-restrictions-firms-workers)
-
----
-
-### 3. Deterministic Core, Non-Deterministic Shell
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://outdata.net/blog/260803">https://outdata.net/blog/260803</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49782220">https://news.ycombinator.com/item?id=49782220</a></p>
-<p>Points: 26</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://outdata.net/blog/260803](https://outdata.net/blog/260803)
 
 ---
 
@@ -97,7 +97,33 @@ Men who sexually abused them as underage girls are still walking around the city
 
 ---
 
-### 7. Iran’s military says US preparing to resume strikes
+### 7. Who actually has power at the United Nations?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Every country at the United Nations gets a vote. But five countries have a power the other 188 don’t.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/who-actually-has-power-at-the-united-nations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/who-actually-has-power-at-the-united-nations?traffic_source=rss)
+
+---
+
+### 8. Meloni promises to ban burqas, niqabs in Italy’s schools
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Italy is planning to ban the burqa and niqab in schools and cap the number of foreign students per class.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss)
+
+---
+
+### 9. Iran’s military says US preparing to resume strikes
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Men who sexually abused them as underage girls are still walking around the city
 Tehran threatens retaliation as Trump weighs military action while Qatar pushes to revive talks.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss)
-
----
-
-### 8. Massive explosions at Syrian army weapons depot near Aleppo
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Explosions rocked a Syrian army ammunition depot south of Aleppo, injuring at least four people.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss)
-
----
-
-### 9. Imran Khan’s family says three sisters detained ahead of Islamabad march
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Imran Khan’s family says three of his sisters have been detained in Lahore ahead of a march demanding his release.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss)
 
 ---
 
