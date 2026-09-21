@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T04:46:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amiga Unix, Again",
+            "description": "<p>Article URL: <a href=\"https://amigaux.org/\">https://amigaux.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49781436\">https://news.ycombinator.com/item?id=49781436</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://amigaux.org/",
+            "published": "Sun, 20 Sep 2026 23:57:10 +0000",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air",
+            "description": "<p>Article URL: <a href=\"https://github.com/BytedTsinghua-SIA/DAPO\">https://github.com/BytedTsinghua-SIA/DAPO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49781138\">https://news.ycombinator.com/item?id=49781138</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+            "published": "Sun, 20 Sep 2026 23:19:04 +0000",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What happened to the Snowden archive",
+            "description": "<p>Article URL: <a href=\"https://libroot.org/posts/what-happened-to-the-snowden-archive\">https://libroot.org/posts/what-happened-to-the-snowden-archive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780820\">https://news.ycombinator.com/item?id=49780820</a></p>\n<p>Points: 132</p>\n<p># Comments: 43</p>",
+            "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+            "published": "Sun, 20 Sep 2026 22:35:49 +0000",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+            "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+            "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 20:21:40 GMT",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+            "description": "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 15:21:19 GMT",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Specialist courts for rape cases to be rolled out across England and Wales",
+            "description": "Funding will allow victims to view proceedings remotely and give evidence from a separate room via video link, the government says.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 20 Sep 2026 22:43:31 GMT",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Sahel and the UN: a smaller footprint, a different role",
+            "description": "As UNGA 81 begins, the UN faces a changing Sahel demanding greater sovereignty.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/the-sahel-and-the-un-a-smaller-footprint-a-different-role?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 00:53:15 +0000",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ethiopian armed groups forge alliance against government",
+            "description": "Former adversaries say they will settle differences as fears grow of expanding war in Ethiopia.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 00:34:30 +0000",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+            "description": "Tehran says it has learned the US may be planning a new round of strikes, warns of retaliation &#039;without limitations&#039;.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 00:00:47 +0000",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T04:46:09+03:30"
+        }
+    ]
+}
