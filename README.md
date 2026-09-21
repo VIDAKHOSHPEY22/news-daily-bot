@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 23:05:52
+**Last Update:** 2026-09-22 02:40:14
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Advisory Group on Mathematics and Artificial Intelligence
+### 1. Data Protection Commission fines Google €403M over processing of location data
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/">https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791997">https://news.ycombinator.com/item?id=49791997</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location">https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794354">https://news.ycombinator.com/item?id=49794354</a></p>
+<p>Points: 12</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/](https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/)
+🔗 **Read more:** [https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location](https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location)
 
 ---
 
-### 2. In Search of a Compositional Theory of Self-Stabilization
+### 2. I don't want to read what you didn't write
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html">http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791797">https://news.ycombinator.com/item?id=49791797</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794330">https://news.ycombinator.com/item?id=49794330</a></p>
+<p>Points: 24</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html](http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html)
+🔗 **Read more:** [https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
 
 ---
 
-### 3. US halts flights at busy East Coast airports, says fiber line cut
+### 3. Suspension of the de minimis administrative exemption for imports $800 or less
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/">https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49791509">https://news.ycombinator.com/item?id=49791509</a></p>
-<p>Points: 67</p>
-<p># Comments: 26</p>
+<p><a href="https://www.federalregister.gov/documents/2026/06/24/2026-12669/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry" rel="nofollow">https://www.federalregister.gov/documents/2026/06/24/2026-12...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49793322">https://news.ycombinator.com/item?id=49793322</a></p>
+<p>Points: 72</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/](https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/)
+🔗 **Read more:** [https://www.personalimportation.org/advocacy](https://www.personalimportation.org/advocacy)
 
 ---
 
@@ -65,13 +66,26 @@
 **Category:** world
 
 **Description:**
-Airlines are angry about the delays, with EasyJet saying the latest incident "once again calls into question the resilience" of the system.
+Prime Minister Andy Burnham said further issues today "cause even greater concern" about the UK's air traffic control and the head of the organisation that runs it.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
+### 5. UK to provide Saudi Arabia with 'defensive' military support, says Burnham
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister says "defensive air-to-air refuelling" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
 
 **Source:** BBC
 
@@ -84,55 +98,42 @@ The BBC's Frank Gardner speaks to some of those who have fled the war by crossin
 
 ---
 
-### 6. First UK charges brought over 1994 Rwanda genocide
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Protesters blockade Elbit Systems factory over Israel weapons supply
+### 7. How thousands of migrants stranded in Ceuta are surviving
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nine protesters blocked access to Elbit Systems’ factory in Staffordshire by attaching themselves to five ‘lock-ons’.
+Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-blockade-elbit-systems-factory-over-israel-weapons-supply?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss)
 
 ---
 
-### 8. Trump’s approval rating hits record low amid Iran war, economy fallout
+### 8. Former ‘death squad’ leader appears in military trial in The Gambia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.
+Sanna Manjang faces court for deserting army in 2017 after end of Jammeh&#039;s 20-year rule.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss)
 
 ---
 
-### 9. Photos: Gaza’s children return to class in tents and ruins
+### 9. Trump speech inaudible as US networks boycott White House event
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gaza children return to classrooms after three years, facing challenges of damaged schools, tents, and scarce supplies.
+US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-22T02:40:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Data Protection Commission fines Google €403M over processing of location data",
+            "description": "<p>Article URL: <a href=\"https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location\">https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794354\">https://news.ycombinator.com/item?id=49794354</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
+            "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+            "published": "Mon, 21 Sep 2026 22:33:45 +0000",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I don't want to read what you didn't write",
+            "description": "<p>Article URL: <a href=\"https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/\">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794330\">https://news.ycombinator.com/item?id=49794330</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+            "published": "Mon, 21 Sep 2026 22:30:41 +0000",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+            "description": "<p><a href=\"https://www.federalregister.gov/documents/2026/06/24/2026-12669/indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry\" rel=\"nofollow\">https://www.federalregister.gov/documents/2026/06/24/2026-12...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49793322\">https://news.ycombinator.com/item?id=49793322</a></p>\n<p>Points: 72</p>\n<p># Comments: 29</p>",
+            "url": "https://www.personalimportation.org/advocacy",
+            "published": "Mon, 21 Sep 2026 20:58:17 +0000",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+            "description": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+            "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 20:21:18 GMT",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+            "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 21:36:39 GMT",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+            "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How thousands of migrants stranded in Ceuta are surviving",
+            "description": "Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 21:04:44 +0000",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
+            "description": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh&#039;s 20-year rule.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 20:57:43 +0000",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump speech inaudible as US networks boycott White House event",
+            "description": "US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 20:38:51 +0000",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-22T02:40:14+03:30"
+        }
+    ]
+}
