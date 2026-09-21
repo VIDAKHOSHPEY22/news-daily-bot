@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-21 17:23:52
+**Last Update:** 2026-09-21 17:51:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Raspberry Pi blocks changing RAM chips
+### 1. Uber arbitration award over Emily Normandin-Parker's death
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888">https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49786689">https://news.ycombinator.com/item?id=49786689</a></p>
-<p>Points: 57</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death">https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49787523">https://news.ycombinator.com/item?id=49787523</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888](https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888)
+🔗 **Read more:** [https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death)
 
 ---
 
-### 2. Ask HN: Is it impossible to disable Siri on macOS 27?
+### 2. What Sun Got Wrong
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings > Screen Time.<p>Next, I disabled all Siri-related and Apple Intelligence-related services as per https://github.com/OleksandrKrupko/mac-os-debloat<p>But after restarting, I could still see a "Siri" process running in Activity Monitor. Upon further inspection, I found that it is the "Siri AI.app".<p>These "features", together with Apple's Personal Context sound very similar to Microsoft's Recall.<p>Does anyone have the same experience? Is it really impossible to fully turn off Siri, Siri AI, Apple Intelligence and all related services and features on macOS 27?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49786609">https://news.ycombinator.com/item?id=49786609</a></p>
-<p>Points: 10</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/">https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49787436">https://news.ycombinator.com/item?id=49787436</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49786609](https://news.ycombinator.com/item?id=49786609)
+🔗 **Read more:** [https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
 
 ---
 
-### 3. Show HN: Lossless-memory – a personal AI memory that never summarizes
+### 3. M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/aru-labs/lossless-memory">https://github.com/aru-labs/lossless-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49786419">https://news.ycombinator.com/item?id=49786419</a></p>
-<p>Points: 12</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/">https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49787313">https://news.ycombinator.com/item?id=49787313</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/aru-labs/lossless-memory](https://github.com/aru-labs/lossless-memory)
+🔗 **Read more:** [https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/)
 
 ---
 
@@ -85,20 +84,46 @@ Men who sexually abused them as underage girls are still walking around the city
 
 ---
 
-### 6. Inside Djibouti refugee camp for thousands fleeing Houthi advance in Yemen
+### 6. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.
+Frank Gardner speaks to some of those who have fled the war between Houthis and pro-government forces in Yemen.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Inside Kazakhstan’s push to become a regional AI centre
+### 7. Egypt’s Amina Orfi becomes youngest women’s squash world number one at 19
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Orfi, the reigning senior and junior world champion, topped the rankings with victory at the Qatar Classic last week.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss)
+
+---
+
+### 8. What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Washington and Beijing discuss AI hotline idea amid escalating competition and restrictions on advanced technologies.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss)
+
+---
+
+### 9. Inside Kazakhstan’s push to become a regional AI centre
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ Fighting on Yemen's west coast has prompted thousands of people to flee by boat 
 Kazakhstan accelerates AI development but experts warn of impact on the environment and human rights.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss](https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss)
-
----
-
-### 8. Swiss captain Xhaka sidelined over fake COVID-19 vaccination certificate
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Switzerland&#039;s football association will reassess the situation with Xhaka after the international window closes.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/21/swiss-captain-xhaka-sidelined-over-fake-covid-19-vaccination-certificate?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/21/swiss-captain-xhaka-sidelined-over-fake-covid-19-vaccination-certificate?traffic_source=rss)
-
----
-
-### 9. Who is Yu Zidi, China’s 13-year-old swimming sensation?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The teen phenomenon won her second gold medal in the 200m medley in 2:06.10 to set a new Games and Asian record.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/21/who-is-yu-zidi-chinas-13-year-old-swimming-sensation?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/21/who-is-yu-zidi-chinas-13-year-old-swimming-sensation?traffic_source=rss)
 
 ---
 

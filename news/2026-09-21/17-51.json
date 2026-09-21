@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-21T17:51:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Uber arbitration award over Emily Normandin-Parker's death",
+            "description": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death\">https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787523\">https://news.ycombinator.com/item?id=49787523</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+            "published": "Mon, 21 Sep 2026 14:09:48 +0000",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Sun Got Wrong",
+            "description": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/\">https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787436\">https://news.ycombinator.com/item?id=49787436</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+            "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+            "published": "Mon, 21 Sep 2026 14:03:18 +0000",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+            "description": "<p>Article URL: <a href=\"https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/\">https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787313\">https://news.ycombinator.com/item?id=49787313</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+            "published": "Mon, 21 Sep 2026 13:53:27 +0000",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+            "description": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
+            "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 04:00:05 GMT",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
+            "description": "Men who sexually abused them as underage girls are still walking around the city, they say.",
+            "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 05:00:34 GMT",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+            "description": "Frank Gardner speaks to some of those who have fled the war between Houthis and pro-government forces in Yemen.",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Egypt’s Amina Orfi becomes youngest women’s squash world number one at 19",
+            "description": "Orfi, the reigning senior and junior world champion, topped the rankings with victory at the Qatar Classic last week.",
+            "url": "https://www.aljazeera.com/sports/2026/9/21/egypts-amina-orfi-becomes-youngest-womens-squash-world-number-one-at-19?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 13:59:13 +0000",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
+            "description": "Washington and Beijing discuss AI hotline idea amid escalating competition and restrictions on advanced technologies.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 13:32:55 +0000",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inside Kazakhstan’s push to become a regional AI centre",
+            "description": "Kazakhstan accelerates AI development but experts warn of impact on the environment and human rights.",
+            "url": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
+            "published": "Mon, 21 Sep 2026 13:26:01 +0000",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-21T17:51:53+03:30"
+        }
+    ]
+}
