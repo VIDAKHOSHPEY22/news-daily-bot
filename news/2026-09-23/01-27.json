@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-23T01:27:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The UV index is not the warm sensation of sunlight on bare skin",
+            "description": "<p>Article URL: <a href=\"https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/\">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808109\">https://news.ycombinator.com/item?id=49808109</a></p>\n<p>Points: 17</p>\n<p># Comments: 8</p>",
+            "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+            "published": "Tue, 22 Sep 2026 21:06:40 +0000",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+            "description": "<p>Article URL: <a href=\"https://foxscript.org/\">https://foxscript.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808023\">https://news.ycombinator.com/item?id=49808023</a></p>\n<p>Points: 44</p>\n<p># Comments: 21</p>",
+            "url": "https://foxscript.org/",
+            "published": "Tue, 22 Sep 2026 21:00:30 +0000",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LLM Ass Bench",
+            "description": "<p>Article URL: <a href=\"https://www.assbench.com/\">https://www.assbench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49807688\">https://news.ycombinator.com/item?id=49807688</a></p>\n<p>Points: 27</p>\n<p># Comments: 9</p>",
+            "url": "https://www.assbench.com/",
+            "published": "Tue, 22 Sep 2026 20:34:19 +0000",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+            "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+            "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 21:22:36 GMT",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+            "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+            "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 19:15:57 GMT",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+            "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
+            "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 20:54:49 GMT",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
+            "description": "Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 21:30:51 +0000",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US signs ‘tremendous’ security deal with Denmark and Greenland",
+            "description": "Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 21:11:47 +0000",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’",
+            "description": "Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 21:09:23 +0000",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-23T01:27:45+03:30"
+        }
+    ]
+}
