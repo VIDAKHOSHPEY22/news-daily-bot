@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 01:27:45
+**Last Update:** 2026-09-23 03:12:19
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The UV index is not the warm sensation of sunlight on bare skin
+### 1. The current balance of power in open models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808109">https://news.ycombinator.com/item?id=49808109</a></p>
-<p>Points: 17</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808816">https://news.ycombinator.com/item?id=49808816</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
+🔗 **Read more:** [https://www.interconnects.ai/p/the-current-balance-of-power-in-open](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
 
 ---
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://foxscript.org/">https://foxscript.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808023">https://news.ycombinator.com/item?id=49808023</a></p>
-<p>Points: 44</p>
-<p># Comments: 21</p>
+<p>Points: 121</p>
+<p># Comments: 86</p>
 
 🔗 **Read more:** [https://foxscript.org/](https://foxscript.org/)
 
 ---
 
-### 3. LLM Ass Bench
+### 3. The JavaScript Midlife Crisis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.assbench.com/">https://www.assbench.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49807688">https://news.ycombinator.com/item?id=49807688</a></p>
-<p>Points: 27</p>
+<p>Article URL: <a href="https://maroun-baydoun.com/blog/javascript-midlife-crisis/">https://maroun-baydoun.com/blog/javascript-midlife-crisis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49807248">https://news.ycombinator.com/item?id=49807248</a></p>
+<p>Points: 28</p>
 <p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.assbench.com/](https://www.assbench.com/)
+🔗 **Read more:** [https://maroun-baydoun.com/blog/javascript-midlife-crisis/](https://maroun-baydoun.com/blog/javascript-midlife-crisis/)
 
 ---
 
@@ -97,42 +97,42 @@ Two men were arrested in Manchester on Sunday, say counter-terror police.
 
 ---
 
-### 7. Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel
+### 7. Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.
+The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss)
 
 ---
 
-### 8. US signs ‘tremendous’ security deal with Denmark and Greenland
+### 8. UNGA Day 1: US and Iran hold talks despite Trump’s threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump and leaders of Greenland and Denmark have signed a deal allowing an expanded US military presence in Greenland.
+The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/us-signs-tremendous-security-deal-with-denmark-and-greenland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss)
 
 ---
 
-### 9. Qatari Emir says country won’t ‘limit’ itself as Gulf ‘mediator’
+### 9. Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatari Emir Sheikh Tamim bin Hamad Al Thani told the UN General Assembly that Qatar is more than a mediator.
+Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/qatari-emir-says-country-wont-limit-itself-as-gulf?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss)
 
 ---
 
