@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-22T05:08:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Status – Elevated errors for multiple models",
+            "description": "<p>Article URL: <a href=\"https://status.claude.com/incidents/7g1qpkyz5gxh\">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49795579\">https://news.ycombinator.com/item?id=49795579</a></p>\n<p>Points: 26</p>\n<p># Comments: 13</p>",
+            "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+            "published": "Tue, 22 Sep 2026 01:05:19 +0000",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Looking forward to Git 2.56 – and 3.0",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794736\">https://news.ycombinator.com/item?id=49794736</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
+            "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+            "published": "Mon, 21 Sep 2026 23:16:51 +0000",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Spymarks, Not Watermarks",
+            "description": "<p>Article URL: <a href=\"https://brand.io/article/spymarks/\">https://brand.io/article/spymarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794615\">https://news.ycombinator.com/item?id=49794615</a></p>\n<p>Points: 99</p>\n<p># Comments: 21</p>",
+            "url": "https://brand.io/article/spymarks/",
+            "published": "Mon, 21 Sep 2026 23:03:49 +0000",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+            "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+            "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 20:21:18 GMT",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+            "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 00:58:52 GMT",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+            "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+            "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Influencers Jake and Logan Paul visit the Pentagon",
+            "description": "Influencers Logan and Jake Paul visited the Pentagon and addressed US troops, praising them for serving the country.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 01:17:09 +0000",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Here’s what to pay attention to at the UNGA",
+            "description": "World leaders arrive for UNGA 81 as wars multiply and trust erodes in global institutions. Emma Withrow explains.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 00:36:12 +0000",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump returns to the UN, what will he say?",
+            "description": "Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 00:31:56 +0000",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Breezy, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483",
+            "published": "2026-09-16T20:17:00Z",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire FLORISTON, Nevada, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488",
+            "published": "2026-09-16T13:01:00Z",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Dujuan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317",
+            "published": "2026-09-16T12:00:00Z",
+            "fetched": "2026-09-22T05:08:53+03:30"
+        }
+    ]
+}
