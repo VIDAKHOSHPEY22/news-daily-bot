@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 08:06:36
+**Last Update:** 2026-09-22 11:18:03
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Status – Elevated errors for multiple models
+### 1. Can gzip be a language model?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.claude.com/incidents/7g1qpkyz5gxh">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795579">https://news.ycombinator.com/item?id=49795579</a></p>
-<p>Points: 77</p>
-<p># Comments: 60</p>
+<p>Article URL: <a href="https://nathan.rs/posts/gzip-lm/">https://nathan.rs/posts/gzip-lm/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797323">https://news.ycombinator.com/item?id=49797323</a></p>
+<p>Points: 32</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://status.claude.com/incidents/7g1qpkyz5gxh](https://status.claude.com/incidents/7g1qpkyz5gxh)
+🔗 **Read more:** [https://nathan.rs/posts/gzip-lm/](https://nathan.rs/posts/gzip-lm/)
 
 ---
 
-### 2. Socrates vs. the Written Word (2011)
+### 2. Apple Music to open concert venue in Battersea Power Station
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wondermark.com/socrates-vs-writing/">https://wondermark.com/socrates-vs-writing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795122">https://news.ycombinator.com/item?id=49795122</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c607l2j2rj8ro">https://www.bbc.com/news/articles/c607l2j2rj8ro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49797139">https://news.ycombinator.com/item?id=49797139</a></p>
+<p>Points: 50</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://wondermark.com/socrates-vs-writing/](https://wondermark.com/socrates-vs-writing/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c607l2j2rj8ro](https://www.bbc.com/news/articles/c607l2j2rj8ro)
 
 ---
 
-### 3. Looking forward to Git 2.56 – and 3.0
+### 3. MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794736">https://news.ycombinator.com/item?id=49794736</a></p>
-<p>Points: 56</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/models/mimo-v2-6-pro">https://artificialanalysis.ai/models/mimo-v2-6-pro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49796660">https://news.ycombinator.com/item?id=49796660</a></p>
+<p>Points: 26</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
+🔗 **Read more:** [https://artificialanalysis.ai/models/mimo-v2-6-pro](https://artificialanalysis.ai/models/mimo-v2-6-pro)
 
 ---
 
@@ -97,42 +97,42 @@ The rule is named after 13-year-old Martha Mills, whose family's concerns about 
 
 ---
 
-### 7. US strikes on alleged drug boats may be ‘crimes against humanity’, UN says
+### 7. Undermining the UN is not a new US policy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN expert says US forces have killed 223 people in 68 attacks in the Caribbean and the Pacific in the past year.
+While acting as the official host for the UN, the US has sought to weaken it for decades.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy?traffic_source=rss)
 
 ---
 
-### 8. 20 countries propose global oversight body to manage AI dangers
+### 8. ‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Countries including Germany, South Africa and Canada suggest international institution to set and enforce standards.
+The Left party, led by Turkish-origin Elif Eralp, won Berlin, offering a contrast to the far right&#039;s wins in the east.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss)
 
 ---
 
-### 9. India vs Sri Lanka live: Asian Games – Women’s cricket final
+### 9. Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow our live build-up, team news, score and text commentary stream from the match in Nisshin, Japan, at 05:00 GMT.
+Pakistani interior minister&#039;s trip to Tehran is his sixth and comes as Islamabad, Doha seek to revive diplomacy with US.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss)
 
 ---
 

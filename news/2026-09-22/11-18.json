@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-22T11:18:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Can gzip be a language model?",
+            "description": "<p>Article URL: <a href=\"https://nathan.rs/posts/gzip-lm/\">https://nathan.rs/posts/gzip-lm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49797323\">https://news.ycombinator.com/item?id=49797323</a></p>\n<p>Points: 32</p>\n<p># Comments: 1</p>",
+            "url": "https://nathan.rs/posts/gzip-lm/",
+            "published": "Tue, 22 Sep 2026 06:08:39 +0000",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple Music to open concert venue in Battersea Power Station",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c607l2j2rj8ro\">https://www.bbc.com/news/articles/c607l2j2rj8ro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49797139\">https://news.ycombinator.com/item?id=49797139</a></p>\n<p>Points: 50</p>\n<p># Comments: 46</p>",
+            "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+            "published": "Tue, 22 Sep 2026 05:32:55 +0000",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/mimo-v2-6-pro\">https://artificialanalysis.ai/models/mimo-v2-6-pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49796660\">https://news.ycombinator.com/item?id=49796660</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
+            "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+            "published": "Tue, 22 Sep 2026 04:02:09 +0000",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+            "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+            "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 06:03:22 GMT",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+            "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 00:58:52 GMT",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Martha's Rule rolled out at every A&E department in England",
+            "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+            "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 06:54:57 GMT",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Undermining the UN is not a new US policy",
+            "description": "While acting as the official host for the UN, the US has sought to weaken it for decades.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/22/undermining-the-un-is-not-a-new-us-policy?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 07:42:37 +0000",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains",
+            "description": "The Left party, led by Turkish-origin Elif Eralp, won Berlin, offering a contrast to the far right&#039;s wins in the east.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/hope-rises-in-berlin-immigrant-communities-as-left-wins-amid-afd-gains?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 07:33:24 +0000",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran’s Pezeshkian meets Pakistan’s Naqvi in Tehran as tensions with US rise",
+            "description": "Pakistani interior minister&#039;s trip to Tehran is his sixth and comes as Islamabad, Doha seek to revive diplomacy with US.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/irans-pezeshkian-meets-pakistans-naqvi-in-tehran-as-tensions-with-us-rise?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 07:27:07 +0000",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-22T11:18:03+03:30"
+        }
+    ]
+}
