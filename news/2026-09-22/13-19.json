@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-22T13:19:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+            "description": "<p>Article URL: <a href=\"https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/\">https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49798451\">https://news.ycombinator.com/item?id=49798451</a></p>\n<p>Points: 14</p>\n<p># Comments: 10</p>",
+            "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+            "published": "Tue, 22 Sep 2026 09:18:54 +0000",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I said no and Apple said yes",
+            "description": "<p>Article URL: <a href=\"https://dbushell.com/2026/09/22/apple-intelligence/\">https://dbushell.com/2026/09/22/apple-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49797982\">https://news.ycombinator.com/item?id=49797982</a></p>\n<p>Points: 96</p>\n<p># Comments: 41</p>",
+            "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+            "published": "Tue, 22 Sep 2026 08:04:55 +0000",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Can gzip be a language model?",
+            "description": "<p>Article URL: <a href=\"https://nathan.rs/posts/gzip-lm/\">https://nathan.rs/posts/gzip-lm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49797323\">https://news.ycombinator.com/item?id=49797323</a></p>\n<p>Points: 130</p>\n<p># Comments: 50</p>",
+            "url": "https://nathan.rs/posts/gzip-lm/",
+            "published": "Tue, 22 Sep 2026 06:08:39 +0000",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Martha's Rule rolled out at every A&E department in England",
+            "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+            "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 08:32:32 GMT",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+            "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 08:52:12 GMT",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+            "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+            "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 06:03:22 GMT",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final",
+            "description": "Sri Lanka were bowled out for 69 runs, 10 less than Mandhana&#039;s belligerent match-winning innings as India retained gold.",
+            "url": "https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 09:12:55 +0000",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gunman opens fire near high school in western Turkiye, wounding eight",
+            "description": "Police arrest suspect in shooting near high school as injured are rushed to local hospitals for treatment.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/gunman-wounds-eight-in-shooting-near-high-school-in-western-turkiye?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 09:04:13 +0000",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation",
+            "description": "Nearly 100 people have died in recent days in the scramble for gold, whose value has grown in a shattered economy.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 08:54:10 +0000",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-22T13:19:16+03:30"
+        }
+    ]
+}
