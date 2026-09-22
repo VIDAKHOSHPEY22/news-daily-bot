@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 05:08:53
+**Last Update:** 2026-09-22 08:06:36
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://status.claude.com/incidents/7g1qpkyz5gxh">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795579">https://news.ycombinator.com/item?id=49795579</a></p>
-<p>Points: 26</p>
-<p># Comments: 13</p>
+<p>Points: 77</p>
+<p># Comments: 60</p>
 
 🔗 **Read more:** [https://status.claude.com/incidents/7g1qpkyz5gxh](https://status.claude.com/incidents/7g1qpkyz5gxh)
 
 ---
 
-### 2. Looking forward to Git 2.56 – and 3.0
+### 2. Socrates vs. the Written Word (2011)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://wondermark.com/socrates-vs-writing/">https://wondermark.com/socrates-vs-writing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49795122">https://news.ycombinator.com/item?id=49795122</a></p>
+<p>Points: 22</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://wondermark.com/socrates-vs-writing/](https://wondermark.com/socrates-vs-writing/)
+
+---
+
+### 3. Looking forward to Git 2.56 – and 3.0
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794736">https://news.ycombinator.com/item?id=49794736</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Points: 56</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/](https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/)
 
 ---
 
-### 3. Spymarks, Not Watermarks
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://brand.io/article/spymarks/">https://brand.io/article/spymarks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49794615">https://news.ycombinator.com/item?id=49794615</a></p>
-<p>Points: 99</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://brand.io/article/spymarks/](https://brand.io/article/spymarks/)
-
----
-
-### 4. Airlines criticise air traffic control as second glitch causes more disruption
+### 4. Burnham expects to find 'common ground' with Trump in first meeting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prime Minister Andy Burnham said further issues "cause even greater concern" about the UK's air traffic control and the head of the organisation that runs it.
+In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,85 +84,59 @@ The prime minister says "defensive air-to-air refuelling" is to be provided foll
 
 ---
 
-### 6. Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war
+### 6. Martha's Rule rolled out at every A&E department in England
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.
+The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Influencers Jake and Logan Paul visit the Pentagon
+### 7. US strikes on alleged drug boats may be ‘crimes against humanity’, UN says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Influencers Logan and Jake Paul visited the Pentagon and addressed US troops, praising them for serving the country.
+UN expert says US forces have killed 223 people in 68 attacks in the Caribbean and the Pacific in the past year.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss)
 
 ---
 
-### 8. Here’s what to pay attention to at the UNGA
+### 8. 20 countries propose global oversight body to manage AI dangers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World leaders arrive for UNGA 81 as wars multiply and trust erodes in global institutions. Emma Withrow explains.
+Countries including Germany, South Africa and Canada suggest international institution to set and enforce standards.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers?traffic_source=rss)
 
 ---
 
-### 9. Trump returns to the UN, what will he say?
+### 9. India vs Sri Lanka live: Asian Games – Women’s cricket final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.
+Follow our live build-up, team news, score and text commentary stream from the match in Nisshin, Japan, at 05:00 GMT.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss)
-
----
-
-### 10. Wildfire Breezy, Starr, Texas
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24483)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss)
 
 ---
 
-### 11. Wildfire FLORISTON, Nevada, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24488)
-
----
-
-### 12. Typhoon Dujuan
+### 10. Hurricane Polo
 
 **Source:** NASA
 
@@ -171,7 +145,33 @@ Natural event: Wildfires
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24317)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721)
+
+---
+
+### 11. Wildfire Round Prarie, Morehouse, Louisiana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710)
+
+---
+
+### 12. Tropical Storm Fay
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722)
 
 ---
 
