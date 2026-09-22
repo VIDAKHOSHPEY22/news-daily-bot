@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-22T18:08:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+            "description": "<p>Article URL: <a href=\"https://www.cryptocellar.org/bgac/the-mvueh-break.html\">https://www.cryptocellar.org/bgac/the-mvueh-break.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49801324\">https://news.ycombinator.com/item?id=49801324</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+            "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+            "published": "Tue, 22 Sep 2026 13:52:15 +0000",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/\">https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49800953\">https://news.ycombinator.com/item?id=49800953</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+            "published": "Tue, 22 Sep 2026 13:27:29 +0000",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Has No Wisdom and Neither Will You",
+            "description": "<p>Article URL: <a href=\"https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/\">https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49799965\">https://news.ycombinator.com/item?id=49799965</a></p>\n<p>Points: 231</p>\n<p># Comments: 295</p>",
+            "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+            "published": "Tue, 22 Sep 2026 12:11:09 +0000",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New EU industry rules would damage UK, warns Burnham",
+            "description": "The prime minister says he will raise his concerns when he meets the European Commission President later.",
+            "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 13:10:23 GMT",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Martha's Rule rolled out at every A&E department in England",
+            "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+            "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 08:32:32 GMT",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Father admits causing death of his son in hotel fall",
+            "description": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 14:31:34 GMT",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombia eases gun restrictions despite fears of more violence",
+            "description": "Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 13:45:31 +0000",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
+            "description": "Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 13:29:53 +0000",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
+            "description": "No group claims responsibility for attack, but suspicion falls on ISIL affiliate.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 13:28:07 +0000",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-22T18:08:37+03:30"
+        }
+    ]
+}

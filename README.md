@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 17:00:01
+**Last Update:** 2026-09-22 18:08:37
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Has No Wisdom and Neither Will You
+### 1. OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html">https://www.cryptocellar.org/bgac/the-mvueh-break.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49801324">https://news.ycombinator.com/item?id=49801324</a></p>
+<p>Points: 17</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.cryptocellar.org/bgac/the-mvueh-break.html](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+
+---
+
+### 2. People Training OpenAI's AI Fired for Using AI to Train the AI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/">https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49800953">https://news.ycombinator.com/item?id=49800953</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/)
+
+---
+
+### 3. AI Has No Wisdom and Neither Will You
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/">https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799965">https://news.ycombinator.com/item?id=49799965</a></p>
-<p>Points: 109</p>
-<p># Comments: 122</p>
+<p>Points: 231</p>
+<p># Comments: 295</p>
 
 🔗 **Read more:** [https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
-
----
-
-### 2. Will Open Source Survive the Agents That Replaced It?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/">https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799910">https://news.ycombinator.com/item?id=49799910</a></p>
-<p>Points: 22</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/](https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/)
-
----
-
-### 3. Type Punning in C and C++
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html">https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799577">https://news.ycombinator.com/item?id=49799577</a></p>
-<p>Points: 32</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)
 
 ---
 
@@ -84,55 +84,55 @@ The rule is named after 13-year-old Martha Mills, whose family's concerns about 
 
 ---
 
-### 6. Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor
+### 6. Father admits causing death of his son in hotel fall
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.
+The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. FIFA President Infantino’s letter a ploy for re-election, says German FA
+### 7. Colombia eases gun restrictions despite fears of more violence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Infantino proposed an independent review of FIFA&#039;s decision-making process amid criticism of his leadership.
+Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/22/fifa-president-infantinos-letter-a-ploy-for-re-election-says-german-fa?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/22/fifa-president-infantinos-letter-a-ploy-for-re-election-says-german-fa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss)
 
 ---
 
-### 8. ‘Disgraceful’: Did India bully umpires to win Japan T20 cricket match?
+### 8. Iran delegation to present narrative of resilience, diplomacy at UNGA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India survive a big scare against the hosts, beating them by two runs in a rain-hit T20 match in Sano, Japan.
+Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/22/disgraceful-did-india-bully-umpires-to-win-japan-t20-cricket-match?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss)
 
 ---
 
-### 9. UN warns of rising Yemen displacement as thousands flee to Djibouti
+### 9. Hundreds flee homes in Far North Cameroon after armed group raid kills 15
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Renewed fighting could drive 10,000 across the Red Sea and displace more than 230,000 internally, UNHCR says.
+No group claims responsibility for attack, but suspicion falls on ISIL affiliate.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss)
 
 ---
 
