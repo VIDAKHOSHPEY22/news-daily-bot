@@ -1,64 +1,81 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-22 18:08:37
+**Last Update:** 2026-09-22 21:11:22
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+### 1. Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html">https://www.cryptocellar.org/bgac/the-mvueh-break.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49801324">https://news.ycombinator.com/item?id=49801324</a></p>
-<p>Points: 17</p>
+<p>Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people optimize the crufty corners of their lives. Max is a former Google/Microsoft/Two Sigma PM and Gabriel has been working in startups for over a decade.<p>We’re building Coverage Cat: an AI-native, you can shop with your AI agent or via a form, insurance brokerage for consumers. Our current focus is helping tech folks (think L3-L8) buy umbrella insurance.<p>For those who are unfamiliar with this type of coverage, here’s a blurb from one of our insurance agents: “Umbrella liability insurance is a policy that provides additional coverage above the limits of existing auto, homeowners, renters, or landlord policies. It kicks in after the underlying policy limits are exhausted and may also cover personal injury claims like libel, slander, or defamation that standard policies often exclude. Policies typically start at $1 million in additional liability coverage and can protect you, your spouse, dependents, and even pets in your household.”<p>Buying insurance online is a miserable experience. You fill out a bunch of forms that say they’re going to give you quotes. Most don’t and then you end up with tons of unwanted phone calls and spam. Even if you wade through the muck, you’ll often still end up with sub-optimal prices and coverage because of a lack of market transparency and poorly-aligned advisory incentives. 
+We came to this problem because Max is a classic personal finance obsessive. He's the type of person that <i>needs</i> to know that he has the best possible price for something (everyone has one friend with the patience for a two hour phone call with the bank for some $10 fee) or that his insurance coverage is as tailored to his risk profile as the market will allow. He actually reads insurance policies end to end.<p>Years ago, when he shopped for his homeowners insurance it took him 10+ phone calls and dozens of online form fills to find the right deal. He also suffered tons of collateral damage in the process: websites sold his information to dozens of agents who proceeded to call, text, and email him a spam hoard that grows to this day.<p>After this painful search made us aware of the problem, we also spent a lot of time doing user research with wealthy-ish tech employees to see if they felt the same way. They did, and also complained that they 1) often felt like they'd left money on the table, 2) didn’t really understand their coverages, and 3) that brokers were slow, hard to communicate with, and unreliable.<p>To solve the problem, we set out to build Coverage Cat. Our approach has three major components:<p>First, we work really really hard to find and partner with insurance carriers that offer high-quality, competitively-priced products. We've also taken time to identify insurers that work on a direct-to-consumer basis or transparently list their prices online so we can make our customers aware of all the options available to them. We get paid commission when we match users to great insurance deals, but we still show and recommend folks deals that we don't make money on when they're accessible and will always recommend users buy what's best for their personal financial situation. Our goal is to meaningfully improve price transparency so consumers (and their AI agents) can make informed coverage decisions and not get nickel-and-dimed!<p>Second, we automate every possible part of the insurance process. Some forms, portals, & approvals still need human review due to regulatory constraints, but if it's not restricted, we're automating it. LLMs have given our small team tremendous leverage and enabled us to tackle problems at a scale that would've been unfathomable five years ago.<p>Finally, we build for agents first (a remix of the more classic adage, build for developers/APIs). We've always been big believers that personal finance would be the killer use-case for the AI revolution and have done our best to position ourselves to surf the wave. As personal assistants have started to explode onto the mainstream (think Muse, Instinct, Town, Codex, CC etc.) we've ensured our shopping and comparison process works via API/MCP so agents can present their users with all the information they need to make a good decision and transform a miserable shopping experience into a delightful one.<p>Coverage Cat is an unusual business because, while we also help folks find homeowners insurance in California and Texas, our main focus is on umbrella insurance. Most brokerages only sell umbrella coverage as a customer retention product, but it makes them almost no money. We focus on it as our core business because: 1) it's one piece of the insurance puzzle that many folks in tech overlook and/or are confused about even though it can have a huge impact on their financial well-being. 2) Existing online tools and brokerages broadly don't make it easy to comparison shop for. 3) It was, for us, the most technically feasible candidate for automation given startup resource constraints.<p>Insofar as we know Coverage Cat is the first instance of a tool/portal that allows AI agents to complete most of the comparison and shopping steps required to allow people to buy insurance.
+We’d love your feedback so please do try it out. Just feed the prompt: “Shop for umbrella insurance with Coverage Cat” to your personal agent and let us know what you think! 
+If you want to watch a couple of agents navigate the flow before you try it out there’s a video here: <a href="https://youtu.be/1BUkgAn6s-I" rel="nofollow">https://youtu.be/1BUkgAn6s-I</a><p>Also happy to answer any questions about the product, the problem space, and even some insurance questions (Max is a licensed agent) where regulation permits. Cheers!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49804931">https://news.ycombinator.com/item?id=49804931</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.coveragecat.com/](https://www.coveragecat.com/)
+
+---
+
+### 2. There's a high chance of devices being sold with GrapheneOS preinstalled in 2027
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grapheneos.social/@GrapheneOS/117299954135808210">https://grapheneos.social/@GrapheneOS/117299954135808210</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49804683">https://news.ycombinator.com/item?id=49804683</a></p>
+<p>Points: 7</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.cryptocellar.org/bgac/the-mvueh-break.html](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+🔗 **Read more:** [https://grapheneos.social/@GrapheneOS/117299954135808210](https://grapheneos.social/@GrapheneOS/117299954135808210)
 
 ---
 
-### 2. People Training OpenAI's AI Fired for Using AI to Train the AI
+### 3. Claude Opus 5.5 Intelligence, Performance and Price Analysis
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/">https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49800953">https://news.ycombinator.com/item?id=49800953</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/models/claude-opus-5-5">https://artificialanalysis.ai/models/claude-opus-5-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49804316">https://news.ycombinator.com/item?id=49804316</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/)
+🔗 **Read more:** [https://artificialanalysis.ai/models/claude-opus-5-5](https://artificialanalysis.ai/models/claude-opus-5-5)
 
 ---
 
-### 3. AI Has No Wisdom and Neither Will You
+### 4. Plot targeting Manchester's Jewish community disrupted, say police
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/">https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49799965">https://news.ycombinator.com/item?id=49799965</a></p>
-<p>Points: 231</p>
-<p># Comments: 295</p>
+Two men were arrested in Manchester on Sunday, say counter-terror police.
 
-🔗 **Read more:** [https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. New EU industry rules would damage UK, warns Burnham
+### 5. New EU industry rules would damage UK, warns Burnham
 
 **Source:** BBC
 
@@ -71,68 +88,55 @@ The prime minister says he will raise his concerns when he meets the European Co
 
 ---
 
-### 5. Martha's Rule rolled out at every A&E department in England
+### 6. Tim Westwood charged with two more sexual offences
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.
+The alleged sexual offences date back to 1991 and 2004.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Father admits causing death of his son in hotel fall
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Colombia eases gun restrictions despite fears of more violence
+### 7. Turkiye school shooting leaves 11 pupils wounded
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Colombia has loosened gun laws after more than a decade of restrictions. Some fear it will lead to even more violence.
+Eleven pupils were wounded after a student opened fire near a secondary school in Manisa, western Turkiye
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/colombia-eases-gun-restrictions-despite-fears-of-more-violence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss)
 
 ---
 
-### 8. Iran delegation to present narrative of resilience, diplomacy at UNGA
+### 8. Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s delegation has arrived to New York for the UNGA where the war with the United States will be raised.
+Turkish leader says UN has been forced into &#039;dysfunction&#039; and was &#039;bleeding out&#039; in Palestine, Lebanon, Sudan.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss)
 
 ---
 
-### 9. Hundreds flee homes in Far North Cameroon after armed group raid kills 15
+### 9. ‘War crime’: Jordan’s king slams Israeli West Bank expansion
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-No group claims responsibility for attack, but suspicion falls on ISIL affiliate.
+Jordan&#039;s King Abdullah II decried Israeli settlements in the occupied West Bank as a strategy of ‘forced displacement.&#039;
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss)
 
 ---
 
