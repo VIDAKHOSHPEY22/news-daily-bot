@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 08:24:49
+**Last Update:** 2026-09-23 09:17:59
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Data-Only Attacks Are Easier Than You Think
+### 1. Data-only attacks are easier than you think (2024)
 
 **Source:** Hacker News
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811429">https://news.ycombinator.com/item?id=49811429</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://waymo.com/blog/2026/09/transit-rewards/">https://waymo.com/blog/2026/09/transit-rewards/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811065">https://news.ycombinator.com/item?id=49811065</a></p>
-<p>Points: 33</p>
-<p># Comments: 14</p>
+<p>Points: 75</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://waymo.com/blog/2026/09/transit-rewards/](https://waymo.com/blog/2026/09/transit-rewards/)
 
 ---
 
-### 3. US criticises Australia's proposed algorithm opt-out laws as 'censorship'
+### 3. The current balance of power in open models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cqj3dgy8x3vro">https://www.bbc.com/news/articles/cqj3dgy8x3vro</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49810829">https://news.ycombinator.com/item?id=49810829</a></p>
-<p>Points: 86</p>
-<p># Comments: 64</p>
+<p>Article URL: <a href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808816">https://news.ycombinator.com/item?id=49808816</a></p>
+<p>Points: 67</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cqj3dgy8x3vro](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
+🔗 **Read more:** [https://www.interconnects.ai/p/the-current-balance-of-power-in-open](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
 
 ---
 
@@ -84,20 +84,46 @@ In his first speech to the UN as UK prime minister, Burnham highlighted the risk
 
 ---
 
-### 6. Trump says he can do business with Burnham but criticises 'terrible' Chagos deal
+### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.
+A concerning number of patients are reporting problems from treatment abroad, say doctors.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
+### 7. Cooperation is the goal at the UNGA, but is it possible?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Debate opened at the UN General Assembly and leaders from across the world made their arguments.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss)
+
+---
+
+### 8. Six-year-old sets Rubik’s Cube world record twice in three days
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss)
+
+---
+
+### 9. US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The UK has proposed handing the Chagos Islands to Mauritius and paying to lease 
 Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss)
-
----
-
-### 8. Sri Lanka convicts 15 people over 2019 Easter Day bombings
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Fifteen people have been convicted over Sri Lanka’s 2019 Easter Sunday bombings, which killed 279 people.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss)
-
----
-
-### 9. Venezuelans protest interim leader Delcy Rodriguez at UN headquarters
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Venezuelans protested in New York against interim President Delcy Rodriguez&#039;s participation in the UN General Assembly.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss)
 
 ---
 
