@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 09:17:59
+**Last Update:** 2026-09-23 13:37:54
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Data-only attacks are easier than you think (2024)
+### 1. Netherlands bracing for potentially devastating US sanctions against the ICC
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811429">https://news.ycombinator.com/item?id=49811429</a></p>
-<p>Points: 16</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6">https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49813419">https://news.ycombinator.com/item?id=49813419</a></p>
+<p>Points: 70</p>
+<p># Comments: 34</p>
 
-🔗 **Read more:** [https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
+🔗 **Read more:** [https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6](https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6)
 
 ---
 
-### 2. Transit rewards (Waymo pays you to take the train)
+### 2. Abandoning Scientific Linux Was a Mistake
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://waymo.com/blog/2026/09/transit-rewards/">https://waymo.com/blog/2026/09/transit-rewards/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811065">https://news.ycombinator.com/item?id=49811065</a></p>
-<p>Points: 75</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://blog.melashri.net/posts/scientific-linux-mistake/">https://blog.melashri.net/posts/scientific-linux-mistake/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49813286">https://news.ycombinator.com/item?id=49813286</a></p>
+<p>Points: 51</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://waymo.com/blog/2026/09/transit-rewards/](https://waymo.com/blog/2026/09/transit-rewards/)
+🔗 **Read more:** [https://blog.melashri.net/posts/scientific-linux-mistake/](https://blog.melashri.net/posts/scientific-linux-mistake/)
 
 ---
 
-### 3. The current balance of power in open models
+### 3. Jev in 25 Lines of Python
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808816">https://news.ycombinator.com/item?id=49808816</a></p>
-<p>Points: 67</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">https://www.nobodywho.ai/posts/jev-in-25-lines/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49812769">https://news.ycombinator.com/item?id=49812769</a></p>
+<p>Points: 146</p>
+<p># Comments: 49</p>
 
-🔗 **Read more:** [https://www.interconnects.ai/p/the-current-balance-of-power-in-open](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
+🔗 **Read more:** [https://www.nobodywho.ai/posts/jev-in-25-lines/](https://www.nobodywho.ai/posts/jev-in-25-lines/)
 
 ---
 
-### 4. UK to fight Russian disinformation and push new global AI standards, Burnham says
+### 4. UK to review Chagos Islands deal over lack of US support, Streeting tells BBC
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was "terrible".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. UK to step up fight against Russian disinformation and push global AI standards, PM says
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The UK could act as "an honest broker" on AI and other global challenges, the pr
 
 ---
 
-### 5. Watch: Key moments from Andy Burnham's first UN speech
+### 6. Chris Mason: From inside the room, how Burnham survived first Trump meeting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.
+Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A concerning number of patients are reporting problems from treatment abroad, say doctors.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Cooperation is the goal at the UNGA, but is it possible?
+### 7. ‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Debate opened at the UN General Assembly and leaders from across the world made their arguments.
+Trump threatens to &#039;annihilate&#039; Iran and then brags about diplomacy, provoking Tehran to warn of a response.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/cooperation-is-the-goal-at-the-unga-but-is-it-possible?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss)
 
 ---
 
-### 8. Six-year-old sets Rubik’s Cube world record twice in three days
+### 8. UN General Assembly quiz: Who said these 10 famous quotes?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six-year-old Lian Yunzhi broke the women’s Rubik’s Cube world record twice in three days, averaging under 4.5 seconds.
+With world leaders at the UN General Assembly podium this week, play our quiz matching famous quotes to who said them.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/six-year-old-sets-rubiks-cube-world-record-twice-in-three-days?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss)
 
 ---
 
-### 9. US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
+### 9. Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.
+Al-Attiyah is the first person to win a gold medal at the Games in the same year as his Dakar Rally triumph.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss)
 
 ---
 

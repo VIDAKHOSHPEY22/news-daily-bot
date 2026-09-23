@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-23T13:37:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Netherlands bracing for potentially devastating US sanctions against the ICC",
+            "description": "<p>Article URL: <a href=\"https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6\">https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49813419\">https://news.ycombinator.com/item?id=49813419</a></p>\n<p>Points: 70</p>\n<p># Comments: 34</p>",
+            "url": "https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6",
+            "published": "Wed, 23 Sep 2026 09:09:49 +0000",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Abandoning Scientific Linux Was a Mistake",
+            "description": "<p>Article URL: <a href=\"https://blog.melashri.net/posts/scientific-linux-mistake/\">https://blog.melashri.net/posts/scientific-linux-mistake/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49813286\">https://news.ycombinator.com/item?id=49813286</a></p>\n<p>Points: 51</p>\n<p># Comments: 18</p>",
+            "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+            "published": "Wed, 23 Sep 2026 08:46:39 +0000",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jev in 25 Lines of Python",
+            "description": "<p>Article URL: <a href=\"https://www.nobodywho.ai/posts/jev-in-25-lines/\">https://www.nobodywho.ai/posts/jev-in-25-lines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49812769\">https://news.ycombinator.com/item?id=49812769</a></p>\n<p>Points: 146</p>\n<p># Comments: 49</p>",
+            "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+            "published": "Wed, 23 Sep 2026 07:26:23 +0000",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+            "description": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
+            "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 09:52:42 GMT",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to step up fight against Russian disinformation and push global AI standards, PM says",
+            "description": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
+            "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 07:07:20 GMT",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
+            "description": "Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.",
+            "url": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 04:32:59 GMT",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
+            "description": "Trump threatens to &#039;annihilate&#039; Iran and then brags about diplomacy, provoking Tehran to warn of a response.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 09:40:20 +0000",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN General Assembly quiz: Who said these 10 famous quotes?",
+            "description": "With world leaders at the UN General Assembly podium this week, play our quiz matching famous quotes to who said them.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 09:06:41 +0000",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold",
+            "description": "Al-Attiyah is the first person to win a gold medal at the Games in the same year as his Dakar Rally triumph.",
+            "url": "https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 09:02:02 +0000",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-23T13:37:54+03:30"
+        }
+    ]
+}
