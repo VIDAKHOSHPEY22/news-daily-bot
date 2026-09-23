@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T01:52:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude's Load-Bearing Seams",
+            "description": "<p>Article URL: <a href=\"https://madradavid.com/claudes-load-bearing-seams/\">https://madradavid.com/claudes-load-bearing-seams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822864\">https://news.ycombinator.com/item?id=49822864</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://madradavid.com/claudes-load-bearing-seams/",
+            "published": "Wed, 23 Sep 2026 21:31:04 +0000",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI breaches Medicare, Albanese reveals",
+            "description": "<p>Article URL: <a href=\"https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html\">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822556\">https://news.ycombinator.com/item?id=49822556</a></p>\n<p>Points: 53</p>\n<p># Comments: 14</p>",
+            "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+            "published": "Wed, 23 Sep 2026 21:01:48 +0000",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "VSCode's SSH Agent Is Bananas",
+            "description": "<p>Article URL: <a href=\"https://fly.io/blog/vscode-ssh-wtf/\">https://fly.io/blog/vscode-ssh-wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49822555\">https://news.ycombinator.com/item?id=49822555</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+            "url": "https://fly.io/blog/vscode-ssh-wtf/",
+            "published": "Wed, 23 Sep 2026 21:01:48 +0000",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+            "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+            "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 21:01:06 GMT",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+            "description": "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites.",
+            "url": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 17:01:11 GMT",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
+            "description": "The two pilots ejected from the jet before crash and sustained minor injuries.",
+            "url": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 15:23:49 GMT",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+            "description": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 21:18:22 +0000",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
+            "description": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 21:05:36 +0000",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+            "description": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 20:56:15 +0000",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T01:52:34+03:30"
+        }
+    ]
+}
