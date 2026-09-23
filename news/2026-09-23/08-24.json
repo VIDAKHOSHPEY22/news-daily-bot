@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-23T08:24:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Data-Only Attacks Are Easier Than You Think",
+            "description": "<p>Article URL: <a href=\"https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think\">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811429\">https://news.ycombinator.com/item?id=49811429</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+            "published": "Wed, 23 Sep 2026 03:49:28 +0000",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Transit rewards (Waymo pays you to take the train)",
+            "description": "<p>Article URL: <a href=\"https://waymo.com/blog/2026/09/transit-rewards/\">https://waymo.com/blog/2026/09/transit-rewards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49811065\">https://news.ycombinator.com/item?id=49811065</a></p>\n<p>Points: 33</p>\n<p># Comments: 14</p>",
+            "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+            "published": "Wed, 23 Sep 2026 02:52:29 +0000",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cqj3dgy8x3vro\">https://www.bbc.com/news/articles/cqj3dgy8x3vro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49810829\">https://news.ycombinator.com/item?id=49810829</a></p>\n<p>Points: 86</p>\n<p># Comments: 64</p>",
+            "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+            "published": "Wed, 23 Sep 2026 02:13:52 +0000",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+            "description": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
+            "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 01:08:40 GMT",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Key moments from Andy Burnham's first UN speech",
+            "description": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
+            "url": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 01:25:47 GMT",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+            "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+            "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 21:22:36 GMT",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+            "description": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 04:42:15 +0000",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sri Lanka convicts 15 people over 2019 Easter Day bombings",
+            "description": "Fifteen people have been convicted over Sri Lanka’s 2019 Easter Sunday bombings, which killed 279 people.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 04:08:17 +0000",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuelans protest interim leader Delcy Rodriguez at UN headquarters",
+            "description": "Venezuelans protested in New York against interim President Delcy Rodriguez&#039;s participation in the UN General Assembly.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 03:08:51 +0000",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-23T08:24:49+03:30"
+        }
+    ]
+}

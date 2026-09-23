@@ -1,65 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 03:50:16
+**Last Update:** 2026-09-23 08:24:49
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The current balance of power in open models
+### 1. Data-Only Attacks Are Easier Than You Think
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808816">https://news.ycombinator.com/item?id=49808816</a></p>
-<p>Points: 23</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think">https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811429">https://news.ycombinator.com/item?id=49811429</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.interconnects.ai/p/the-current-balance-of-power-in-open](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
+🔗 **Read more:** [https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
 
 ---
 
-### 2. The UV index is not the warm sensation of sunlight on bare skin
+### 2. Transit rewards (Waymo pays you to take the train)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808109">https://news.ycombinator.com/item?id=49808109</a></p>
-<p>Points: 52</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://waymo.com/blog/2026/09/transit-rewards/">https://waymo.com/blog/2026/09/transit-rewards/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49811065">https://news.ycombinator.com/item?id=49811065</a></p>
+<p>Points: 33</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
+🔗 **Read more:** [https://waymo.com/blog/2026/09/transit-rewards/](https://waymo.com/blog/2026/09/transit-rewards/)
 
 ---
 
-### 3. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
+### 3. US criticises Australia's proposed algorithm opt-out laws as 'censorship'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808023">https://news.ycombinator.com/item?id=49808023</a></p>
-<p>Points: 135</p>
-<p># Comments: 105</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cqj3dgy8x3vro">https://www.bbc.com/news/articles/cqj3dgy8x3vro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49810829">https://news.ycombinator.com/item?id=49810829</a></p>
+<p>Points: 86</p>
+<p># Comments: 64</p>
 
-🔗 **Read more:** [https://foxscript.org/](https://foxscript.org/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cqj3dgy8x3vro](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
 
 ---
 
-### 4. Trump says he can do business with Burnham but criticises 'terrible' Chagos deal
+### 4. UK to fight Russian disinformation and push new global AI standards, Burnham says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The UK could act as "an honest broker" on AI and other global challenges, the prime minister tells world leaders at the UN.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Key moments from Andy Burnham's first UN speech
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Trump says he can do business with Burnham but criticises 'terrible' Chagos deal
 
 **Source:** BBC
 
@@ -72,68 +97,81 @@ The UK has proposed handing the Chagos Islands to Mauritius and paying to lease 
 
 ---
 
-### 5. Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the "terrible" Chagos deal.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Plot targeting Manchester's Jewish community disrupted, say police
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Two men were arrested in Manchester on Sunday, say counter-terror police.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions
+### 7. US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.
+Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss)
 
 ---
 
-### 8. Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters
+### 8. Sri Lanka convicts 15 people over 2019 Easter Day bombings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.
+Fifteen people have been convicted over Sri Lanka’s 2019 Easter Sunday bombings, which killed 279 people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss)
 
 ---
 
-### 9. UNGA Day 1: US and Iran hold talks despite Trump’s threat
+### 9. Venezuelans protest interim leader Delcy Rodriguez at UN headquarters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.
+Venezuelans protested in New York against interim President Delcy Rodriguez&#039;s participation in the UN General Assembly.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/aje-onl-nf_venezuelans-protest-delcy-rodriguez-at-unga-220926?traffic_source=rss)
+
+---
+
+### 10. Hurricane Polo
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721)
+
+---
+
+### 11. Wildfire Round Prarie, Morehouse, Louisiana
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710)
+
+---
+
+### 12. Tropical Storm Fay
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722)
 
 ---
 
