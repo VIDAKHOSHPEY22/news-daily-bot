@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-23T23:39:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How we made claude.ai 3x faster in two weeks",
+            "description": "<p>Article URL: <a href=\"https://claude.dev/blog/how-we-made-claude-ai-faster/\">https://claude.dev/blog/how-we-made-claude-ai-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49821196\">https://news.ycombinator.com/item?id=49821196</a></p>\n<p>Points: 45</p>\n<p># Comments: 8</p>",
+            "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+            "published": "Wed, 23 Sep 2026 19:23:40 +0000",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cloud Agents Are Inevitable AI Prisons",
+            "description": "<p>Article URL: <a href=\"https://normanponte.io/19df691f\">https://normanponte.io/19df691f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820267\">https://news.ycombinator.com/item?id=49820267</a></p>\n<p>Points: 29</p>\n<p># Comments: 14</p>",
+            "url": "https://normanponte.io/19df691f",
+            "published": "Wed, 23 Sep 2026 18:16:41 +0000",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820134\">https://news.ycombinator.com/item?id=49820134</a></p>\n<p>Points: 179</p>\n<p># Comments: 157</p>",
+            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+            "published": "Wed, 23 Sep 2026 18:06:47 +0000",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+            "description": "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites.",
+            "url": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 17:01:11 GMT",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Home secretary says undetected migrant landings 'unacceptable'",
+            "description": "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 17:18:49 GMT",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
+            "description": "The two pilots ejected from the jet before crash and sustained minor injuries.",
+            "url": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 15:23:49 GMT",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Harvey Weinstein sentenced to 15 years in sexual assault retrial",
+            "description": "The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 19:58:00 +0000",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
+            "description": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 19:54:24 +0000",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Manchester United losses jump nearly a third to $57m despite record revenue",
+            "description": "Manchester United&#039;s debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.",
+            "url": "https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 19:35:09 +0000",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-23T23:39:00+03:30"
+        }
+    ]
+}
