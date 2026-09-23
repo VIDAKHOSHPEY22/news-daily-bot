@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-23T03:50:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The current balance of power in open models",
+            "description": "<p>Article URL: <a href=\"https://www.interconnects.ai/p/the-current-balance-of-power-in-open\">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808816\">https://news.ycombinator.com/item?id=49808816</a></p>\n<p>Points: 23</p>\n<p># Comments: 6</p>",
+            "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+            "published": "Tue, 22 Sep 2026 22:03:46 +0000",
+            "fetched": "2026-09-23T03:50:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The UV index is not the warm sensation of sunlight on bare skin",
+            "description": "<p>Article URL: <a href=\"https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/\">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808109\">https://news.ycombinator.com/item?id=49808109</a></p>\n<p>Points: 52</p>\n<p># Comments: 47</p>",
+            "url": "https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/",
+            "published": "Tue, 22 Sep 2026 21:06:40 +0000",
+            "fetched": "2026-09-23T03:50:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+            "description": "<p>Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49808023\">https://news.ycombinator.com/item?id=49808023</a></p>\n<p>Points: 135</p>\n<p># Comments: 105</p>",
+            "url": "https://foxscript.org/",
+            "published": "Tue, 22 Sep 2026 21:00:30 +0000",
+            "fetched": "2026-09-23T03:50:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+            "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+            "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 21:22:36 GMT",
+            "fetched": "2026-09-23T03:50:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+            "description": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+            "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 19:15:57 GMT",
+            "fetched": "2026-09-23T03:50:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+            "description": "Two men were arrested in Manchester on Sunday, say counter-terror police.",
+            "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 20:54:49 GMT",
+            "fetched": "2026-09-23T03:50:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+            "description": "Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 23:46:06 +0000",
+            "fetched": "2026-09-23T03:50:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
+            "description": "The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.",
+            "url": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 23:20:17 +0000",
+            "fetched": "2026-09-23T03:50:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
+            "description": "The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss",
+            "published": "Tue, 22 Sep 2026 22:48:56 +0000",
+            "fetched": "2026-09-23T03:50:16+03:30"
+        }
+    ]
+}

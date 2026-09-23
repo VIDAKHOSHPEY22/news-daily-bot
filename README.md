@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 03:12:19
+**Last Update:** 2026-09-23 03:50:16
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, BBC
 
 ---
 
@@ -19,42 +19,43 @@
 **Description:**
 <p>Article URL: <a href="https://www.interconnects.ai/p/the-current-balance-of-power-in-open">https://www.interconnects.ai/p/the-current-balance-of-power-in-open</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808816">https://news.ycombinator.com/item?id=49808816</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://www.interconnects.ai/p/the-current-balance-of-power-in-open](https://www.interconnects.ai/p/the-current-balance-of-power-in-open)
 
 ---
 
-### 2. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
+### 2. The UV index is not the warm sensation of sunlight on bare skin
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://foxscript.org/">https://foxscript.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808023">https://news.ycombinator.com/item?id=49808023</a></p>
-<p>Points: 121</p>
-<p># Comments: 86</p>
+<p>Article URL: <a href="https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/">https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808109">https://news.ycombinator.com/item?id=49808109</a></p>
+<p>Points: 52</p>
+<p># Comments: 47</p>
 
-🔗 **Read more:** [https://foxscript.org/](https://foxscript.org/)
+🔗 **Read more:** [https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/](https://blog.asciitweezers.com/the-uv-index-is-not-the-warm-sensation-of-sunlight-on-bare-skin/)
 
 ---
 
-### 3. The JavaScript Midlife Crisis
+### 3. Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://maroun-baydoun.com/blog/javascript-midlife-crisis/">https://maroun-baydoun.com/blog/javascript-midlife-crisis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49807248">https://news.ycombinator.com/item?id=49807248</a></p>
-<p>Points: 28</p>
-<p># Comments: 9</p>
+<p>Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep milking their app for the foreseeable future, so here it is: the same language on a new runtime (Rust, compiled to wasm, checked against the real vfp9.exe), tables no longer stopped at 2 GB, the old 32-bit .fll add-ins still loading, and lambdas, JSON and an HTTP server bolted on for good measure. Reports are not done and the builds are unsigned. MIT because why not?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49808023">https://news.ycombinator.com/item?id=49808023</a></p>
+<p>Points: 135</p>
+<p># Comments: 105</p>
 
-🔗 **Read more:** [https://maroun-baydoun.com/blog/javascript-midlife-crisis/](https://maroun-baydoun.com/blog/javascript-midlife-crisis/)
+🔗 **Read more:** [https://foxscript.org/](https://foxscript.org/)
 
 ---
 
@@ -97,7 +98,20 @@ Two men were arrested in Manchester on Sunday, say counter-terror police.
 
 ---
 
-### 7. Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters
+### 7. Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran&#039;s aviation officials negotiate with Oman and Iraq as US&#039;s Bessent targets carriers seven months into the conflict.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss)
+
+---
+
+### 8. Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters
 
 **Source:** Al Jazeera
 
@@ -110,7 +124,7 @@ The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic 
 
 ---
 
-### 8. UNGA Day 1: US and Iran hold talks despite Trump’s threat
+### 9. UNGA Day 1: US and Iran hold talks despite Trump’s threat
 
 **Source:** Al Jazeera
 
@@ -120,58 +134,6 @@ The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic 
 The US and Iran hold talks on UNGA’s first day, despite Trump threatening to ‘annihilate’ Iran in his opening address.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss)
-
----
-
-### 9. Celebrities at the Pentagon: How unusual was the Paul brothers’ visit?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/22/celebrities-at-the-pentagon-how-unusual-was-the-paul-brothers-visit?traffic_source=rss)
-
----
-
-### 10. Hurricane Polo
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721)
-
----
-
-### 11. Wildfire Round Prarie, Morehouse, Louisiana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710)
-
----
-
-### 12. Tropical Storm Fay
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722)
 
 ---
 
