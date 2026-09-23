@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 13:37:54
+**Last Update:** 2026-09-23 14:51:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Netherlands bracing for potentially devastating US sanctions against the ICC
+### 1. The Download: why AI's latest breakthroughs and fears may be more hype than rea
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6">https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49813419">https://news.ycombinator.com/item?id=49813419</a></p>
-<p>Points: 70</p>
-<p># Comments: 34</p>
+<p>Article URL: <a href="https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/">https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814211">https://news.ycombinator.com/item?id=49814211</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6](https://apnews.com/article/icc-trump-sanctions-eu-israel-netherlands-2c1cc314732f920c2de59396d3b556f6)
+🔗 **Read more:** [https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
 
 ---
 
-### 2. Abandoning Scientific Linux Was a Mistake
+### 2. The darker side of being a doctor
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.melashri.net/posts/scientific-linux-mistake/">https://blog.melashri.net/posts/scientific-linux-mistake/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49813286">https://news.ycombinator.com/item?id=49813286</a></p>
-<p>Points: 51</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814159">https://news.ycombinator.com/item?id=49814159</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.melashri.net/posts/scientific-linux-mistake/](https://blog.melashri.net/posts/scientific-linux-mistake/)
+🔗 **Read more:** [https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
 
 ---
 
-### 3. Jev in 25 Lines of Python
+### 3. I am done with this shit
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">https://www.nobodywho.ai/posts/jev-in-25-lines/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49812769">https://news.ycombinator.com/item?id=49812769</a></p>
-<p>Points: 146</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/">https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49812975">https://news.ycombinator.com/item?id=49812975</a></p>
+<p>Points: 64</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.nobodywho.ai/posts/jev-in-25-lines/](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+🔗 **Read more:** [https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/](https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/)
 
 ---
 
@@ -71,20 +71,7 @@ Defence Secretary Wes Streeting has confirmed the review after Donald Trump told
 
 ---
 
-### 5. UK to step up fight against Russian disinformation and push global AI standards, PM says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The UK could act as "an honest broker" on AI and other global challenges, the prime minister tells world leaders at the UN.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Chris Mason: From inside the room, how Burnham survived first Trump meeting
+### 5. Chris Mason: From inside the room, how Burnham survived first Trump meeting
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Burnham seemed nervous at first, knowing how explosive these encounters with Tru
 
 ---
 
-### 7. ‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks
+### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Trump threatens to &#039;annihilate&#039; Iran and then brags about diplomacy, provoking Tehran to warn of a response.
+A concerning number of patients are reporting problems from treatment abroad, say doctors.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. UN General Assembly quiz: Who said these 10 famous quotes?
+### 7. China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With world leaders at the UN General Assembly podium this week, play our quiz matching famous quotes to who said them.
+The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/un-general-assembly-quiz-who-said-these-10-famous-quotes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss)
 
 ---
 
-### 9. Qatar’s Dakar Rally champ Nasser Al-Attiyah wins Asian Games shooting gold
+### 8. Powerful El Nino could cause more than 450,000 deaths, scientists say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al-Attiyah is the first person to win a gold medal at the Games in the same year as his Dakar Rally triumph.
+Heaviest toll expected in poorer countries, already struggling with food insecurity and high energy costs, report says.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/qatars-dakar-rally-champ-nasser-al-attiyah-wins-asian-games-shooting-gold?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss)
+
+---
+
+### 9. As AI leaders warn of catastrophe, US and China shun slowdown calls
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Presidents Donald Trump and Xi Jinping are expected to agree to only limited cooperation on AI safety at summit.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss)
 
 ---
 
