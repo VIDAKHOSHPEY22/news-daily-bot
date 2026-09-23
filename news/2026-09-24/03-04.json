@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T03:04:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux support is coming to Snapdragon X2 Series",
+            "description": "<p>Article URL: <a href=\"https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823582\">https://news.ycombinator.com/item?id=49823582</a></p>\n<p>Points: 33</p>\n<p># Comments: 10</p>",
+            "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+            "published": "Wed, 23 Sep 2026 22:38:16 +0000",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mercury 2.5 LLM hits 770 tokens per second",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/mercury-2-5\">https://artificialanalysis.ai/models/mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823348\">https://news.ycombinator.com/item?id=49823348</a></p>\n<p>Points: 9</p>\n<p># Comments: 5</p>",
+            "url": "https://artificialanalysis.ai/models/mercury-2-5",
+            "published": "Wed, 23 Sep 2026 22:16:19 +0000",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/vary-support/\">https://blog.cloudflare.com/vary-support/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823195\">https://news.ycombinator.com/item?id=49823195</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.cloudflare.com/vary-support/",
+            "published": "Wed, 23 Sep 2026 22:03:21 +0000",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+            "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+            "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 21:01:06 GMT",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What video footage tells us about RAF training jet crash",
+            "description": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
+            "url": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 22:48:29 GMT",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+            "description": "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites.",
+            "url": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 17:01:11 GMT",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump greets China’s Xi Jinping on arrival for three-day US trip",
+            "description": "Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 22:56:41 +0000",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FBI says investigating breach of ‘very sensitive’ data by hackers",
+            "description": "Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 21:18:22 +0000",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
+            "description": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 21:05:36 +0000",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T03:04:24+03:30"
+        }
+    ]
+}

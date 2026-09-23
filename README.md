@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 01:52:34
+**Last Update:** 2026-09-24 03:04:24
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude's Load-Bearing Seams
+### 1. Linux support is coming to Snapdragon X2 Series
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://madradavid.com/claudes-load-bearing-seams/">https://madradavid.com/claudes-load-bearing-seams/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49822864">https://news.ycombinator.com/item?id=49822864</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823582">https://news.ycombinator.com/item?id=49823582</a></p>
+<p>Points: 33</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://madradavid.com/claudes-load-bearing-seams/](https://madradavid.com/claudes-load-bearing-seams/)
+🔗 **Read more:** [https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 
 ---
 
-### 2. OpenAI breaches Medicare, Albanese reveals
+### 2. Mercury 2.5 LLM hits 770 tokens per second
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49822556">https://news.ycombinator.com/item?id=49822556</a></p>
-<p>Points: 53</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/models/mercury-2-5">https://artificialanalysis.ai/models/mercury-2-5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823348">https://news.ycombinator.com/item?id=49823348</a></p>
+<p>Points: 9</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html)
+🔗 **Read more:** [https://artificialanalysis.ai/models/mercury-2-5](https://artificialanalysis.ai/models/mercury-2-5)
 
 ---
 
-### 3. VSCode's SSH Agent Is Bananas
+### 3. We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fly.io/blog/vscode-ssh-wtf/">https://fly.io/blog/vscode-ssh-wtf/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49822555">https://news.ycombinator.com/item?id=49822555</a></p>
-<p>Points: 28</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://blog.cloudflare.com/vary-support/">https://blog.cloudflare.com/vary-support/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823195">https://news.ycombinator.com/item?id=49823195</a></p>
+<p>Points: 22</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://fly.io/blog/vscode-ssh-wtf/](https://fly.io/blog/vscode-ssh-wtf/)
+🔗 **Read more:** [https://blog.cloudflare.com/vary-support/](https://blog.cloudflare.com/vary-support/)
 
 ---
 
@@ -71,7 +71,20 @@ People living near a major chemical factory in Lancashire are told they could be
 
 ---
 
-### 5. UK military jamming other nations' satellites to defend itself, BBC told
+### 5. What video footage tells us about RAF training jet crash
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The RAF said training on their Hawk jets had been "temporarily" paused while an investigation is under way.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. UK military jamming other nations' satellites to defend itself, BBC told
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ The head of the RAF says the UK faces "unprecedented threats" from adversaries i
 
 ---
 
-### 6. Watch: Moment pilots eject as RAF jet crashes in Anglesey
+### 7. Trump greets China’s Xi Jinping on arrival for three-day US trip
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The two pilots ejected from the jet before crash and sustained minor injuries.
+Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss)
 
 ---
 
-### 7. FBI says investigating breach of ‘very sensitive’ data by hackers
+### 8. FBI says investigating breach of ‘very sensitive’ data by hackers
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Hacker group ShinyHunters claims to have detailed data on thousands of FBI emplo
 
 ---
 
-### 8. US aviation sanctions disrupt Iran flights, push travellers overland
+### 9. US aviation sanctions disrupt Iran flights, push travellers overland
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Hacker group ShinyHunters claims to have detailed data on thousands of FBI emplo
 Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss)
-
----
-
-### 9. Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss)
 
 ---
 
