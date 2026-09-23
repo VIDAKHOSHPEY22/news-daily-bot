@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 14:51:37
+**Last Update:** 2026-09-23 18:35:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Download: why AI's latest breakthroughs and fears may be more hype than rea
+### 1. Montreal adopts bylaw banning insults against police, municipal employees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/">https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814211">https://news.ycombinator.com/item?id=49814211</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920">https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49816658">https://news.ycombinator.com/item?id=49816658</a></p>
+<p>Points: 19</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/](https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/)
+🔗 **Read more:** [https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920](https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920)
 
 ---
 
-### 2. The darker side of being a doctor
+### 2. Jev in practice: typed decisions, scoped authority
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/">https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49814159">https://news.ycombinator.com/item?id=49814159</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://tenuo.ai/blog/jev-scoped-authority">https://tenuo.ai/blog/jev-scoped-authority</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49816487">https://news.ycombinator.com/item?id=49816487</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
+🔗 **Read more:** [https://tenuo.ai/blog/jev-scoped-authority](https://tenuo.ai/blog/jev-scoped-authority)
 
 ---
 
-### 3. I am done with this shit
+### 3. Comma's hands-off driving tech under investigation after 2 fatal crashes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/">https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49812975">https://news.ycombinator.com/item?id=49812975</a></p>
-<p>Points: 64</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/">https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49816176">https://news.ycombinator.com/item?id=49816176</a></p>
+<p>Points: 23</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/](https://www.reddit.com/r/ClaudeAI/comments/1wm5c21/i_am_done_with_this_shit/)
+🔗 **Read more:** [https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/](https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/)
 
 ---
 
@@ -71,68 +71,68 @@ Defence Secretary Wes Streeting has confirmed the review after Donald Trump told
 
 ---
 
-### 5. Chris Mason: From inside the room, how Burnham survived first Trump meeting
+### 5. Police examine video of anti-migrant activist slashing dinghy with knife
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.
+Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery
+### 6. UK warned over ballooning debt costs and slower growth ahead of Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A concerning number of patients are reporting problems from treatment abroad, say doctors.
+Higher energy prices due to the conflict in the Middle East and climate change could hit growth.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. China’s swimming prodigy Yu Zidi bags third gold in Asian Games record
+### 7. Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 13-year-old beat the previous 400m Asian Games record, set by China’s Ye Shiwen in 2014, by about 4.5 seconds.
+Ukraine&#039;s Zelenskyy met Trump on Tuesday and discussed a potential bilateral ceasefire on energy-related targets.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/23/chinas-swimming-prodigy-yu-zidi-bags-third-gold-in-asian-games-record?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss)
 
 ---
 
-### 8. Powerful El Nino could cause more than 450,000 deaths, scientists say
+### 8. Trump pushes Russia-Ukraine ‘energy truce’: Can it work?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heaviest toll expected in poorer countries, already struggling with food insecurity and high energy costs, report says.
+Talks of a possible halt in attacks on energy facilities come as strikes on such targets continue unabated.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/powerful-el-nino-could-cause-450000-deaths-scientists-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work?traffic_source=rss)
 
 ---
 
-### 9. As AI leaders warn of catastrophe, US and China shun slowdown calls
+### 9. Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Presidents Donald Trump and Xi Jinping are expected to agree to only limited cooperation on AI safety at summit.
+The alliance brings together movements with different enemies, claims and histories as tensions with Abiy rise.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss)
 
 ---
 
