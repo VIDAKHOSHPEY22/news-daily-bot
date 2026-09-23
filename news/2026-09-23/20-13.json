@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-23T20:13:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/\">https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817877\">https://news.ycombinator.com/item?id=49817877</a></p>\n<p>Points: 94</p>\n<p># Comments: 37</p>",
+            "url": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
+            "published": "Wed, 23 Sep 2026 15:46:27 +0000",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gemini 3.8 text-to-speech says hello",
+            "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817615\">https://news.ycombinator.com/item?id=49817615</a></p>\n<p>Points: 25</p>\n<p># Comments: 11</p>",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+            "published": "Wed, 23 Sep 2026 15:29:23 +0000",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+            "description": "<p>Article URL: <a href=\"https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol\">https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49817524\">https://news.ycombinator.com/item?id=49817524</a></p>\n<p>Points: 21</p>\n<p># Comments: 4</p>",
+            "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+            "published": "Wed, 23 Sep 2026 15:23:05 +0000",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Home secretary says undetected migrant landings 'unacceptable'",
+            "description": "Usually brought ashore by Border Security Command or the RNLI, these are the first uncontrolled landings since 2025.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 16:42:23 GMT",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
+            "description": "The two pilots ejected from the jet before crash and sustained minor injuries.",
+            "url": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 15:23:49 GMT",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran's president tells Trump it will never 'bend the knee'",
+            "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+            "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 15:58:13 GMT",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina to UN: Falkland Islands are a ‘national cause’",
+            "description": "Argentina’s President Javier Milei says the “principle of self-determination does not apply&quot; to the Falkland Islands.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/argentina-to-un-falkland-islands-are-a-national?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 16:12:48 +0000",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "KPMG manager says she was fired after facing harassment over her keffiyeh",
+            "description": "KPMG manager says she was fired after facing harassment over her keffiyeh",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 15:52:13 +0000",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
+            "description": "Iranian President Masoud Pezeshkian has accused Israel and the US of applying ‘double standards’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 15:49:59 +0000",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-23T20:13:32+03:30"
+        }
+    ]
+}

@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-23 18:35:57
+**Last Update:** 2026-09-23 20:13:32
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Montreal adopts bylaw banning insults against police, municipal employees
+### 1. Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920">https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49816658">https://news.ycombinator.com/item?id=49816658</a></p>
-<p>Points: 19</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/">https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817877">https://news.ycombinator.com/item?id=49817877</a></p>
+<p>Points: 94</p>
+<p># Comments: 37</p>
 
-🔗 **Read more:** [https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920](https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920)
+🔗 **Read more:** [https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/](https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/)
 
 ---
 
-### 2. Jev in practice: typed decisions, scoped authority
+### 2. Gemini 3.8 text-to-speech says hello
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tenuo.ai/blog/jev-scoped-authority">https://tenuo.ai/blog/jev-scoped-authority</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49816487">https://news.ycombinator.com/item?id=49816487</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817615">https://news.ycombinator.com/item?id=49817615</a></p>
+<p>Points: 25</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://tenuo.ai/blog/jev-scoped-authority](https://tenuo.ai/blog/jev-scoped-authority)
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
 
 ---
 
-### 3. Comma's hands-off driving tech under investigation after 2 fatal crashes
+### 3. Radicle: Disclosure of Vulnerability in the Network Protocol
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/">https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49816176">https://news.ycombinator.com/item?id=49816176</a></p>
-<p>Points: 23</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol">https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49817524">https://news.ycombinator.com/item?id=49817524</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/](https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/)
+🔗 **Read more:** [https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol)
 
 ---
 
-### 4. UK to review Chagos Islands deal over lack of US support, Streeting tells BBC
+### 4. Home secretary says undetected migrant landings 'unacceptable'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was "terrible".
+Usually brought ashore by Border Security Command or the RNLI, these are the first uncontrolled landings since 2025.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Police examine video of anti-migrant activist slashing dinghy with knife
+### 5. Watch: Moment pilots eject as RAF jet crashes in Anglesey
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident.
+The two pilots ejected from the jet before crash and sustained minor injuries.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UK warned over ballooning debt costs and slower growth ahead of Budget
+### 6. Iran's president tells Trump it will never 'bend the knee'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Higher energy prices due to the conflict in the Middle East and climate change could hit growth.
+Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to "annihilate" Iran if a peace deal is not agreed soon.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks
+### 7. Argentina to UN: Falkland Islands are a ‘national cause’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine&#039;s Zelenskyy met Trump on Tuesday and discussed a potential bilateral ceasefire on energy-related targets.
+Argentina’s President Javier Milei says the “principle of self-determination does not apply&quot; to the Falkland Islands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/argentina-to-un-falkland-islands-are-a-national?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/argentina-to-un-falkland-islands-are-a-national?traffic_source=rss)
 
 ---
 
-### 8. Trump pushes Russia-Ukraine ‘energy truce’: Can it work?
+### 8. KPMG manager says she was fired after facing harassment over her keffiyeh
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Talks of a possible halt in attacks on energy facilities come as strikes on such targets continue unabated.
+KPMG manager says she was fired after facing harassment over her keffiyeh
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss)
 
 ---
 
-### 9. Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?
+### 9. ‘They kill, we are punished’: Iran calls out Western hypocrisy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The alliance brings together movements with different enemies, claims and histories as tensions with Abiy rise.
+Iranian President Masoud Pezeshkian has accused Israel and the US of applying ‘double standards’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss)
 
 ---
 
