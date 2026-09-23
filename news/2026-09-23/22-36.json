@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-23T22:36:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820134\">https://news.ycombinator.com/item?id=49820134</a></p>\n<p>Points: 42</p>\n<p># Comments: 18</p>",
+            "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+            "published": "Wed, 23 Sep 2026 18:06:47 +0000",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A brief history of Windows scroll bar shortcuts",
+            "description": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/\">https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49820065\">https://news.ycombinator.com/item?id=49820065</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+            "published": "Wed, 23 Sep 2026 18:02:08 +0000",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c32l8y8kygdvo\">https://www.bbc.com/news/articles/c32l8y8kygdvo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49819814\">https://news.ycombinator.com/item?id=49819814</a></p>\n<p>Points: 53</p>\n<p># Comments: 67</p>",
+            "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+            "published": "Wed, 23 Sep 2026 17:45:30 +0000",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+            "description": "The head of the RAF says the UK faces \"unprecedented threats\" from adversaries in space, as a new unit is created to defend Britain's satellites.",
+            "url": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 17:01:11 GMT",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Home secretary says undetected migrant landings 'unacceptable'",
+            "description": "The arrivals of two unescorted migrant boats mark the first uncontrolled landings recorded in the UK since 2025.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 17:18:49 GMT",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
+            "description": "The two pilots ejected from the jet before crash and sustained minor injuries.",
+            "url": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 15:23:49 GMT",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech",
+            "description": "Pezeshkian leaves door open for negotiations, while calling out US blockade against Iran in Strait of Hormuz.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 18:36:39 +0000",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why does Greenland matter to the US?",
+            "description": "Donald Trump says a new deal gives the US complete control over the island&#039;s security.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/23/why-does-greenland-matter-to-the-us-2?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 18:35:55 +0000",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US says it is open to talks with Cuba if it changes government",
+            "description": "Marco Rubio made comments after Trump called Cuba a &#039;failed state&#039; at the UN, prompting Cuban delegation to walk out.",
+            "url": "https://www.aljazeera.com/news/2026/9/23/us-says-it-is-open-to-talks-with-cuba-if-it-changes-government?traffic_source=rss",
+            "published": "Wed, 23 Sep 2026 18:34:20 +0000",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Fay",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24722",
+            "published": "2026-09-20T09:00:00Z",
+            "fetched": "2026-09-23T22:36:56+03:30"
+        }
+    ]
+}
