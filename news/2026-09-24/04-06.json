@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T04:06:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta VR Glasses",
+            "description": "<p>Article URL: <a href=\"https://www.meta.com/vr-glasses/\">https://www.meta.com/vr-glasses/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49824268\">https://news.ycombinator.com/item?id=49824268</a></p>\n<p>Points: 86</p>\n<p># Comments: 38</p>",
+            "url": "https://www.meta.com/vr-glasses/",
+            "published": "Wed, 23 Sep 2026 23:47:56 +0000",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+            "description": "<p>Article URL: <a href=\"https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/\">https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823664\">https://news.ycombinator.com/item?id=49823664</a></p>\n<p>Points: 27</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+            "published": "Wed, 23 Sep 2026 22:45:49 +0000",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux support is coming to Snapdragon X2 Series",
+            "description": "<p>Article URL: <a href=\"https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49823582\">https://news.ycombinator.com/item?id=49823582</a></p>\n<p>Points: 86</p>\n<p># Comments: 39</p>",
+            "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+            "published": "Wed, 23 Sep 2026 22:38:16 +0000",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+            "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+            "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 21:01:06 GMT",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What video footage tells us about RAF training jet crash",
+            "description": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
+            "url": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 22:48:29 GMT",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "A red carpet and military flyover - How Trump welcomed Xi",
+            "description": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+            "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 23:03:56 GMT",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AI corporate leaders tell UN the industry needs global regulation",
+            "description": "Industry leaders urge global regulation, as Trump administration baulks at setting up new guardrails.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 00:13:53 +0000",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Kenya turning against Tata Chemicals in Magadi?",
+            "description": "A century-old industry faces a reckoning over regulation, jobs and local benefits.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/why-is-kenya-turning-against-tata-chemicals-in-magadi?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 00:03:14 +0000",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
+            "description": "Iranian president says Tehran will not bow to pressure while remaining open to dialogue in a defiant UN speech.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T04:06:34+03:30"
+        }
+    ]
+}

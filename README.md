@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 03:04:24
+**Last Update:** 2026-09-24 04:06:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Linux support is coming to Snapdragon X2 Series
+### 1. Meta VR Glasses
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.meta.com/vr-glasses/">https://www.meta.com/vr-glasses/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49824268">https://news.ycombinator.com/item?id=49824268</a></p>
+<p>Points: 86</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://www.meta.com/vr-glasses/](https://www.meta.com/vr-glasses/)
+
+---
+
+### 2. ArXiv receives multiyear commitments to support it as an independent nonprofit
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/">https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823664">https://news.ycombinator.com/item?id=49823664</a></p>
+<p>Points: 27</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+
+---
+
+### 3. Linux support is coming to Snapdragon X2 Series
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux">https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823582">https://news.ycombinator.com/item?id=49823582</a></p>
-<p>Points: 33</p>
-<p># Comments: 10</p>
+<p>Points: 86</p>
+<p># Comments: 39</p>
 
 🔗 **Read more:** [https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
-
----
-
-### 2. Mercury 2.5 LLM hits 770 tokens per second
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/models/mercury-2-5">https://artificialanalysis.ai/models/mercury-2-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823348">https://news.ycombinator.com/item?id=49823348</a></p>
-<p>Points: 9</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://artificialanalysis.ai/models/mercury-2-5](https://artificialanalysis.ai/models/mercury-2-5)
-
----
-
-### 3. We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/vary-support/">https://blog.cloudflare.com/vary-support/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49823195">https://news.ycombinator.com/item?id=49823195</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://blog.cloudflare.com/vary-support/](https://blog.cloudflare.com/vary-support/)
 
 ---
 
@@ -84,55 +84,55 @@ The RAF said training on their Hawk jets had been "temporarily" paused while an 
 
 ---
 
-### 6. UK military jamming other nations' satellites to defend itself, BBC told
+### 6. A red carpet and military flyover - How Trump welcomed Xi
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of the RAF says the UK faces "unprecedented threats" from adversaries in space, as a new unit is created to defend Britain's satellites.
+The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump greets China’s Xi Jinping on arrival for three-day US trip
+### 7. AI corporate leaders tell UN the industry needs global regulation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump takes rare step of meeting foreign leader at the airport, underscoring significance of US-China relationship.
+Industry leaders urge global regulation, as Trump administration baulks at setting up new guardrails.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss)
 
 ---
 
-### 8. FBI says investigating breach of ‘very sensitive’ data by hackers
+### 8. Why is Kenya turning against Tata Chemicals in Magadi?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hacker group ShinyHunters claims to have detailed data on thousands of FBI employees.
+A century-old industry faces a reckoning over regulation, jobs and local benefits.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/fbi-says-investigating-breach-of-very-sensitive-data-by-hackers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/why-is-kenya-turning-against-tata-chemicals-in-magadi?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/why-is-kenya-turning-against-tata-chemicals-in-magadi?traffic_source=rss)
 
 ---
 
-### 9. US aviation sanctions disrupt Iran flights, push travellers overland
+### 9. Iran war live: Tehran says it won’t be bullied, remains open for talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.
+Iranian president says Tehran will not bow to pressure while remaining open to dialogue in a defiant UN speech.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss](https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss)
 
 ---
 
