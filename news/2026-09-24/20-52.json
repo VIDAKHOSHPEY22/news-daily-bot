@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T20:52:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "S.F. Democratic Party stands behind Flock surveillance cameras in vote",
+            "description": "<p>Article URL: <a href=\"https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/\">https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49833611\">https://news.ycombinator.com/item?id=49833611</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+            "url": "https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/",
+            "published": "Thu, 24 Sep 2026 17:04:32 +0000",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
+            "description": "<p>Article URL: <a href=\"https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/\">https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49832844\">https://news.ycombinator.com/item?id=49832844</a></p>\n<p>Points: 32</p>\n<p># Comments: 4</p>",
+            "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
+            "published": "Thu, 24 Sep 2026 16:15:34 +0000",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LinkedIn wins court order blocking mass scraping of user data",
+            "description": "<p>Article URL: <a href=\"https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping\">https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49832646\">https://news.ycombinator.com/item?id=49832646</a></p>\n<p>Points: 33</p>\n<p># Comments: 21</p>",
+            "url": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
+            "published": "Thu, 24 Sep 2026 16:02:52 +0000",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has Trump been so eager to welcome Xi?",
+            "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
+            "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 15:16:27 GMT",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "White House restores access to media outlets banned by Trump after judge's order",
+            "description": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 16:42:56 GMT",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
+            "description": "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.",
+            "url": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 12:29:39 GMT",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
+            "description": "Some analysts say extending the truce is pure optics - others say it&#039;s a useful step towards a more durable deal.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 16:53:29 +0000",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Four civilians killed in Pakistani airstrikes in Afghanistan",
+            "description": "Four civilians have been killed in the latest Pakistani airstrikes in Afghanistan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/four-civilians-killed-in-pakistani-airstrikes-in-afghanistan?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 16:51:30 +0000",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Media outlets still denied access to White House despite judge’s order",
+            "description": "A US federal judge had ordered the White House to &#039;immediately return, reinstate and restore&#039; the three outlets&#039; access.",
+            "url": "https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 16:45:39 +0000",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T20:52:09+03:30"
+        }
+    ]
+}

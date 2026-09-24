@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 18:22:22
+**Last Update:** 2026-09-24 20:52:09
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Best LLM for every budget, updated daily
+### 1. S.F. Democratic Party stands behind Flock surveillance cameras in vote
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://bestmodelforyourbudget.terrydjony.com/">https://bestmodelforyourbudget.terrydjony.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49830866">https://news.ycombinator.com/item?id=49830866</a></p>
-<p>Points: 10</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/">https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49833611">https://news.ycombinator.com/item?id=49833611</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://bestmodelforyourbudget.terrydjony.com/](https://bestmodelforyourbudget.terrydjony.com/)
+🔗 **Read more:** [https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/](https://missionlocal.org/2026/09/san-francisco-democratic-party-flock-cameras/)
 
 ---
 
-### 2. Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center
+### 2. Federal judge orders Texas to air condition all prisons by the end of 2029
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center">https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49830037">https://news.ycombinator.com/item?id=49830037</a></p>
-<p>Points: 31</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/">https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49832844">https://news.ycombinator.com/item?id=49832844</a></p>
+<p>Points: 32</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center](https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center)
+🔗 **Read more:** [https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/](https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/)
 
 ---
 
-### 3. Owners mourn spoiled food after firmware update bricks Samsung smart fridges
+### 3. LinkedIn wins court order blocking mass scraping of user data
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/">https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49829960">https://news.ycombinator.com/item?id=49829960</a></p>
-<p>Points: 116</p>
-<p># Comments: 107</p>
+<p>Article URL: <a href="https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping">https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49832646">https://news.ycombinator.com/item?id=49832646</a></p>
+<p>Points: 33</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/)
+🔗 **Read more:** [https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping](https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping)
 
 ---
 
-### 4. Some reporters denied White House access despite judge overturning Trump media ban
+### 4. Watch: Why has Trump been so eager to welcome Xi?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. White House restores access to media outlets banned by Trump after judge's order
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, say
 
 ---
 
-### 5. Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says
+### 6. Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says
 
 **Source:** BBC
 
@@ -84,59 +97,72 @@ Gp Capt Gez Currie said the pilots are in hospital, and their families are with 
 
 ---
 
-### 6. Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Why are Ireland vs Israel football matches so controversial?
+### 7. ‘Hostile, but hooked’: What’s behind the US-China trade truce extension?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.
+Some analysts say extending the truce is pure optics - others say it&#039;s a useful step towards a more durable deal.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension?traffic_source=rss)
 
 ---
 
-### 8. Forever Chemicals: Ground Zero
+### 8. Four civilians killed in Pakistani airstrikes in Afghanistan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pervasive, persistent and poisonous: How one US company helped pollute the world with forever chemicals.
+Four civilians have been killed in the latest Pakistani airstrikes in Afghanistan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss](https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/four-civilians-killed-in-pakistani-airstrikes-in-afghanistan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/four-civilians-killed-in-pakistani-airstrikes-in-afghanistan?traffic_source=rss)
 
 ---
 
-### 9. ‘Unstoppable’ Rumesh revives Sri Lanka’s glory, one javelin throw at a time
+### 9. Media outlets still denied access to White House despite judge’s order
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A gold at the Asian Games will cap off an unprecedented season for the world number one.
+A US federal judge had ordered the White House to &#039;immediately return, reinstate and restore&#039; the three outlets&#039; access.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 01B
+### 10. Tropical Storm Nolo
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
+
+---
+
+### 11. Tropical Storm Surigae
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787)
+
+---
+
+### 12. Tropical Cyclone 01B
 
 **Source:** NASA
 
@@ -146,32 +172,6 @@ A gold at the Asian Games will cap off an unprecedented season for the world num
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785)
-
----
-
-### 11. Hurricane Polo
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721)
-
----
-
-### 12. Wildfire Round Prarie, Morehouse, Louisiana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710)
 
 ---
 
