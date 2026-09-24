@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T18:22:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Best LLM for every budget, updated daily",
+            "description": "<p>Article URL: <a href=\"https://bestmodelforyourbudget.terrydjony.com/\">https://bestmodelforyourbudget.terrydjony.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49830866\">https://news.ycombinator.com/item?id=49830866</a></p>\n<p>Points: 10</p>\n<p># Comments: 10</p>",
+            "url": "https://bestmodelforyourbudget.terrydjony.com/",
+            "published": "Thu, 24 Sep 2026 14:09:57 +0000",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center\">https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49830037\">https://news.ycombinator.com/item?id=49830037</a></p>\n<p>Points: 31</p>\n<p># Comments: 17</p>",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
+            "published": "Thu, 24 Sep 2026 13:04:21 +0000",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/\">https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49829960\">https://news.ycombinator.com/item?id=49829960</a></p>\n<p>Points: 116</p>\n<p># Comments: 107</p>",
+            "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+            "published": "Thu, 24 Sep 2026 12:58:08 +0000",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some reporters denied White House access despite judge overturning Trump media ban",
+            "description": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 14:21:41 GMT",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says",
+            "description": "Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.",
+            "url": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 12:29:39 GMT",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+            "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 11:59:23 GMT",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are Ireland vs Israel football matches so controversial?",
+            "description": "Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.",
+            "url": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 14:36:02 +0000",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Forever Chemicals: Ground Zero",
+            "description": "Pervasive, persistent and poisonous: How one US company helped pollute the world with forever chemicals.",
+            "url": "https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 14:30:00 +0000",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Unstoppable’ Rumesh revives Sri Lanka’s glory, one javelin throw at a time",
+            "description": "A gold at the Asian Games will cap off an unprecedented season for the world number one.",
+            "url": "https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 14:15:35 +0000",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T18:22:22+03:30"
+        }
+    ]
+}

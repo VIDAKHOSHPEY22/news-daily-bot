@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 15:29:44
+**Last Update:** 2026-09-24 18:22:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
+### 1. Best LLM for every budget, updated daily
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/">https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828969">https://news.ycombinator.com/item?id=49828969</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://bestmodelforyourbudget.terrydjony.com/">https://bestmodelforyourbudget.terrydjony.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49830866">https://news.ycombinator.com/item?id=49830866</a></p>
+<p>Points: 10</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/)
+🔗 **Read more:** [https://bestmodelforyourbudget.terrydjony.com/](https://bestmodelforyourbudget.terrydjony.com/)
 
 ---
 
-### 2. Starlink ground station in Poland hit by fire in suspected arson attack
+### 2. Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/">https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828409">https://news.ycombinator.com/item?id=49828409</a></p>
-<p>Points: 88</p>
-<p># Comments: 69</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center">https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49830037">https://news.ycombinator.com/item?id=49830037</a></p>
+<p>Points: 31</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/](https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center](https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center)
 
 ---
 
-### 3. Nokia Design Archive (2025)
+### 3. Owners mourn spoiled food after firmware update bricks Samsung smart fridges
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nokiadesignarchive.aalto.fi/index.html">https://nokiadesignarchive.aalto.fi/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828385">https://news.ycombinator.com/item?id=49828385</a></p>
-<p>Points: 77</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/">https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49829960">https://news.ycombinator.com/item?id=49829960</a></p>
+<p>Points: 116</p>
+<p># Comments: 107</p>
 
-🔗 **Read more:** [https://nokiadesignarchive.aalto.fi/index.html](https://nokiadesignarchive.aalto.fi/index.html)
+🔗 **Read more:** [https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/](https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/)
 
 ---
 
-### 4. NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found
+### 4. Some reporters denied White House access despite judge overturning Trump media ban
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.
+Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House "repeatedly violated" the order.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Anti-migrant activist arrested over video of dinghy slashing
+### 5. Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.
+Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Australia launches urgent review after OpenAI program hacks government health portal
+### 6. Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.
+The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Deadly attack on Indian cargo ship off coast of Oman
+### 7. Why are Ireland vs Israel football matches so controversial?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A crew member was killed in an attack on an Indian cargo vessel off the coast of Oman.
+Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss)
 
 ---
 
-### 8. Belgium and Rwanda are talking again. Is DR Congo any closer to peace?
+### 8. Forever Chemicals: Ground Zero
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Belgium and Rwanda have restored diplomatic relations after an 18-month rupture over the war in eastern DR Congo.
+Pervasive, persistent and poisonous: How one US company helped pollute the world with forever chemicals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss](https://www.aljazeera.com/video/people-power/2026/9/24/forever-chemicals-ground-zero?traffic_source=rss)
 
 ---
 
-### 9. Russia attacks Ukraine while Zelenskyy speaks at UNGA
+### 9. ‘Unstoppable’ Rumesh revives Sri Lanka’s glory, one javelin throw at a time
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia attacks Ukraine while Zelenskyy speaks at UNGA
+A gold at the Asian Games will cap off an unprecedented season for the world number one.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/unstoppable-rumesh-revives-sri-lankas-glory-one-javelin-throw-at-a-time?traffic_source=rss)
 
 ---
 
