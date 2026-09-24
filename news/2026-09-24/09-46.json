@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T09:46:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Six-year-old breaks women's world Rubik's Cube record [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=UCMRgvyTm08\">https://www.youtube.com/watch?v=UCMRgvyTm08</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826482\">https://news.ycombinator.com/item?id=49826482</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
+            "url": "https://www.youtube.com/watch?v=UCMRgvyTm08",
+            "published": "Thu, 24 Sep 2026 05:07:58 +0000",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Contrastive Language Models",
+            "description": "<p>Article URL: <a href=\"https://contrastive-lm.notion.site/\">https://contrastive-lm.notion.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826221\">https://news.ycombinator.com/item?id=49826221</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://contrastive-lm.notion.site/",
+            "published": "Thu, 24 Sep 2026 04:20:59 +0000",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ideas on modernizing the open-source desktop",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1095425/2d9f411252325784/\">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825642\">https://news.ycombinator.com/item?id=49825642</a></p>\n<p>Points: 37</p>\n<p># Comments: 19</p>",
+            "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+            "published": "Thu, 24 Sep 2026 02:52:09 +0000",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+            "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+            "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 21:01:06 GMT",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How Trump welcomed China's Xi with red carpet and military flyover",
+            "description": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+            "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 23:03:56 GMT",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Teenagers to be offered new vocational GCSE subjects in school",
+            "description": "New GCSE subjects could include child development and building and construction as vocational courses are being introduced.",
+            "url": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 21:31:40 GMT",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Harry Kane eyes career as NFL kicker after football retirement",
+            "description": "England&#039;s captain and record goal scorer says a transition into American football could be on the cards.",
+            "url": "https://www.aljazeera.com/sports/2026/9/24/harry-kane-eyes-career-as-nfl-kicker-after-football-retirement?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 05:55:26 +0000",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump and Xi summit may just be a ‘horse and pony show’, experts say",
+            "description": "Trade, AI and security are on the agenda, but experts say rebuilding trust may take priority over major deals.",
+            "url": "https://www.aljazeera.com/economy/2026/9/24/trump-and-xi-summit-may-just-be-a-horse-and-pony-show-experts-say?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 05:55:10 +0000",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy",
+            "description": "Open AI’s CEO has called for international coordination to address potential risks posed by artificial intelligence (AI)",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-ceo-tech-companies-dont-have-all-the-answers-on-ai-policy?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 05:08:44 +0000",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T09:46:23+03:30"
+        }
+    ]
+}
