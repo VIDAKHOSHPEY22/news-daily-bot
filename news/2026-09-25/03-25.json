@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T03:25:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitLab Outage",
+            "description": "<p>Article URL: <a href=\"https://status.gitlab.com/\">https://status.gitlab.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49838034\">https://news.ycombinator.com/item?id=49838034</a></p>\n<p>Points: 16</p>\n<p># Comments: 10</p>",
+            "url": "https://status.gitlab.com/",
+            "published": "Thu, 24 Sep 2026 23:10:44 +0000",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Back and shoulder surgery is often worse than useless",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless\">https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49837473\">https://news.ycombinator.com/item?id=49837473</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+            "url": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+            "published": "Thu, 24 Sep 2026 22:15:58 +0000",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+            "description": "<p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said \"fuck it\" and used AI to make the thing I really wanted to make.<p>I realized I didn't want \"perfect\". I wanted \"good enough\".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49837006\">https://news.ycombinator.com/item?id=49837006</a></p>\n<p>Points: 91</p>\n<p># Comments: 23</p>",
+            "url": "https://koi.rest",
+            "published": "Thu, 24 Sep 2026 21:33:03 +0000",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has Trump been so eager to welcome Xi?",
+            "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
+            "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 15:16:27 GMT",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+            "description": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 22:16:23 GMT",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "White House restores access to media outlets banned by Trump after judge's order",
+            "description": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 17:49:20 GMT",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+            "description": "President Fernandez dismisses foreign minister over his attendance at the &quot;Shield of the Americas&quot; meeting in New York.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 23:29:03 +0000",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
+            "description": "Zinedine Zidane brings &#039;aura&#039; to his first France game as coach, against Turkiye in Nations League.",
+            "url": "https://www.aljazeera.com/sports/2026/9/24/turkiye-vs-france-uefa-nations-league-teams-kickoff-time-lineups?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 22:55:03 +0000",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+            "description": "Israeli prime minister denounces Iran, NYC Mayor Mamdani and critics accusing Israel of crimes against Palestinians.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 22:32:39 +0000",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Merit Creek, Greene, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809",
+            "published": "2026-09-23T10:12:00Z",
+            "fetched": "2026-09-25T03:25:56+03:30"
+        }
+    ]
+}
