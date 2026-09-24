@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 09:46:23
+**Last Update:** 2026-09-24 13:22:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Six-year-old breaks women's world Rubik's Cube record [video]
+### 1. AI has no intent and no motivation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=UCMRgvyTm08">https://www.youtube.com/watch?v=UCMRgvyTm08</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826482">https://news.ycombinator.com/item?id=49826482</a></p>
-<p>Points: 23</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html">https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828133">https://news.ycombinator.com/item?id=49828133</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=UCMRgvyTm08](https://www.youtube.com/watch?v=UCMRgvyTm08)
+🔗 **Read more:** [https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
 
 ---
 
-### 2. Contrastive Language Models
+### 2. Meta takes down a critical video about meta AI Glasses after filming at Meta
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://contrastive-lm.notion.site/">https://contrastive-lm.notion.site/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826221">https://news.ycombinator.com/item?id=49826221</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/">https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49827794">https://news.ycombinator.com/item?id=49827794</a></p>
+<p>Points: 88</p>
+<p># Comments: 42</p>
 
-🔗 **Read more:** [https://contrastive-lm.notion.site/](https://contrastive-lm.notion.site/)
+🔗 **Read more:** [https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
 
 ---
 
-### 3. Ideas on modernizing the open-source desktop
+### 3. Early rogue AI agent activity and attempts to hack found on urlquery.net
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/SubscriberLink/1095425/2d9f411252325784/">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49825642">https://news.ycombinator.com/item?id=49825642</a></p>
-<p>Points: 37</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://transluce.org/agent-activity">https://transluce.org/agent-activity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826565">https://news.ycombinator.com/item?id=49826565</a></p>
+<p>Points: 119</p>
+<p># Comments: 85</p>
 
-🔗 **Read more:** [https://lwn.net/SubscriberLink/1095425/2d9f411252325784/](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+🔗 **Read more:** [https://transluce.org/agent-activity](https://transluce.org/agent-activity)
 
 ---
 
-### 4. Blood tests find high level of cancer-causing forever chemical in residents near factory
+### 4. NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.
+The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: How Trump welcomed China's Xi with red carpet and military flyover
+### 5. Anti-migrant activist arrested over video of dinghy slashing
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The two B-1 bombers that flew overhead are a key part of the US's combat arsenal
 
 ---
 
-### 6. Teenagers to be offered new vocational GCSE subjects in school
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-New GCSE subjects could include child development and building and construction as vocational courses are being introduced.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Harry Kane eyes career as NFL kicker after football retirement
+### 7. To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-England&#039;s captain and record goal scorer says a transition into American football could be on the cards.
+Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/harry-kane-eyes-career-as-nfl-kicker-after-football-retirement?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/harry-kane-eyes-career-as-nfl-kicker-after-football-retirement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss)
 
 ---
 
-### 8. Trump and Xi summit may just be a ‘horse and pony show’, experts say
+### 8. Yemeni forces say they repel Houthi attacks in Taiz as fighting rages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trade, AI and security are on the agenda, but experts say rebuilding trust may take priority over major deals.
+Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/24/trump-and-xi-summit-may-just-be-a-horse-and-pony-show-experts-say?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/24/trump-and-xi-summit-may-just-be-a-horse-and-pony-show-experts-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss)
 
 ---
 
-### 9. OpenAI CEO: Tech companies don’t ‘have all the answers’ on AI policy
+### 9. ‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Open AI’s CEO has called for international coordination to address potential risks posed by artificial intelligence (AI)
+As 15 men are given long prison terms, a father who lost teen daughter wants to know if it was a political conspiracy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-ceo-tech-companies-dont-have-all-the-answers-on-ai-policy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/openai-ceo-tech-companies-dont-have-all-the-answers-on-ai-policy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss)
 
 ---
 

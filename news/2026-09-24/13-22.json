@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T13:22:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI has no intent and no motivation",
+            "description": "<p>Article URL: <a href=\"https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html\">https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49828133\">https://news.ycombinator.com/item?id=49828133</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+            "url": "https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html",
+            "published": "Thu, 24 Sep 2026 09:13:25 +0000",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\">https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49827794\">https://news.ycombinator.com/item?id=49827794</a></p>\n<p>Points: 88</p>\n<p># Comments: 42</p>",
+            "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+            "published": "Thu, 24 Sep 2026 08:23:03 +0000",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+            "description": "<p>Article URL: <a href=\"https://transluce.org/agent-activity\">https://transluce.org/agent-activity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826565\">https://news.ycombinator.com/item?id=49826565</a></p>\n<p>Points: 119</p>\n<p># Comments: 85</p>",
+            "url": "https://transluce.org/agent-activity",
+            "published": "Thu, 24 Sep 2026 05:21:10 +0000",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+            "description": "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.",
+            "url": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 09:51:31 GMT",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anti-migrant activist arrested over video of dinghy slashing",
+            "description": "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 08:42:35 GMT",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader",
+            "description": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+            "url": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 23:03:56 GMT",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face",
+            "description": "Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.",
+            "url": "https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 09:31:15 +0000",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemeni forces say they repel Houthi attacks in Taiz as fighting rages",
+            "description": "Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 09:26:32 +0000",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat",
+            "description": "As 15 men are given long prison terms, a father who lost teen daughter wants to know if it was a political conspiracy.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 09:22:27 +0000",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T13:22:06+03:30"
+        }
+    ]
+}
