@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-09-24T08:00:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
+            "description": "<p>I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49826059\">https://news.ycombinator.com/item?id=49826059</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
+            "published": "Thu, 24 Sep 2026 03:53:54 +0000",
+            "fetched": "2026-09-24T08:00:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ideas on modernizing the open-source desktop",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1095425/2d9f411252325784/\">https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825642\">https://news.ycombinator.com/item?id=49825642</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+            "published": "Thu, 24 Sep 2026 02:52:09 +0000",
+            "fetched": "2026-09-24T08:00:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Australia says OpenAI agent hacked into government website",
+            "description": "<p>Article URL: <a href=\"https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\">https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49825024\">https://news.ycombinator.com/item?id=49825024</a></p>\n<p>Points: 59</p>\n<p># Comments: 38</p>",
+            "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+            "published": "Thu, 24 Sep 2026 01:24:00 +0000",
+            "fetched": "2026-09-24T08:00:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+            "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+            "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 21:01:06 GMT",
+            "fetched": "2026-09-24T08:00:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What video footage tells us about RAF training jet crash",
+            "description": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
+            "url": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 22:48:29 GMT",
+            "fetched": "2026-09-24T08:00:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+            "description": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 03:52:21 GMT",
+            "fetched": "2026-09-24T08:00:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+            "description": "Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 03:32:28 +0000",
+            "fetched": "2026-09-24T08:00:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain’s Sanchez warns of far-right threat in UNGA speech",
+            "description": "Spanish PM Pedro Sanchez has warned of the growing power of ‘selfish, ignorant and cruel’ forces undermining humanity.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 03:30:58 +0000",
+            "fetched": "2026-09-24T08:00:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australia says OpenAI agent hacked Medicare portal",
+            "description": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 02:34:58 +0000",
+            "fetched": "2026-09-24T08:00:07+03:30"
+        }
+    ]
+}
