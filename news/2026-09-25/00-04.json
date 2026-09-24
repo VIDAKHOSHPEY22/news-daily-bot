@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T00:04:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+            "description": "<p>Article URL: <a href=\"https://blog.arusekk.pl/posts/srht-account-takeover/\">https://blog.arusekk.pl/posts/srht-account-takeover/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49835996\">https://news.ycombinator.com/item?id=49835996</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+            "published": "Thu, 24 Sep 2026 19:54:21 +0000",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+            "description": "<p>Article URL: <a href=\"https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical\">https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49835531\">https://news.ycombinator.com/item?id=49835531</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+            "published": "Thu, 24 Sep 2026 19:14:27 +0000",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Radix – Visual UI for agentic programming",
+            "description": "<p>Hey HN, I'm Jordan from Radix.<p>Radix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you're working on and get an interactive widget that persists locally on disk.<p>I built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end up as python tools that read and plotted data, or separate React apps spun up just to test a single feature. Lately obviously I've been using Claude artifacts but these are quite limited.<p>I wanted a system where it was easy to leave comments or adapt an artifact without having to give vague descriptions back to the agent, and where ideally I could actually shift away from a chat window as the main interface.<p>I've got a pro version of Radix which I will launch soon. This current version is entirely free and is definitely a beta -- there will be rough edges!<p>Note: There's no telemetry or data captured. Your messages run entirely through your own agent. I require a key but that's just to get an idea of how many people are using it. Everything is stored locally (the workspaces are actually just React apps which you can edit \"artisanally\" if you want).<p>If you have any questions please reply here or email me hello@radix-os.com<p>Thank you!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49834964\">https://news.ycombinator.com/item?id=49834964</a></p>\n<p>Points: 15</p>\n<p># Comments: 16</p>",
+            "url": "https://radix-os.com",
+            "published": "Thu, 24 Sep 2026 18:35:20 +0000",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has Trump been so eager to welcome Xi?",
+            "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
+            "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 15:16:27 GMT",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+            "description": "Anti-migrant activist Daniel Thomas is charged in connection with an incident in the English Channel.",
+            "url": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 20:30:13 GMT",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "White House restores access to media outlets banned by Trump after judge's order",
+            "description": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 17:49:20 GMT",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New York sues Polymarket over allegations of illegal gambling operations",
+            "description": "The lawsuit comes two months after the state filed a similar lawsuit against competitor Kalshi.",
+            "url": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 20:15:25 +0000",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel moves to ban main Palestinian-led lists from election",
+            "description": "Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 19:54:00 +0000",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s triggered the latest violence in Ethiopia?",
+            "description": "Tigrayan forces say they are in a &#039;full-blown war&#039; with the army.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 19:34:53 +0000",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-25T00:04:21+03:30"
+        }
+    ]
+}
