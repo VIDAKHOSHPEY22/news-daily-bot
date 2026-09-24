@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T01:47:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+            "description": "<p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said \"fuck it\" and used AI to make the thing I really wanted to make.<p>I realized I didn't want \"perfect\". I wanted \"good enough\".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49837006\">https://news.ycombinator.com/item?id=49837006</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://koi.rest",
+            "published": "Thu, 24 Sep 2026 21:33:03 +0000",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "International observers to investigate Swedish election fraud",
+            "description": "<p>Article URL: <a href=\"https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken\">https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49836612\">https://news.ycombinator.com/item?id=49836612</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken",
+            "published": "Thu, 24 Sep 2026 20:55:44 +0000",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Board Game of the Alpha Nerds (2014)",
+            "description": "<p>Article URL: <a href=\"https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/\">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49836590\">https://news.ycombinator.com/item?id=49836590</a></p>\n<p>Points: 19</p>\n<p># Comments: 16</p>",
+            "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+            "published": "Thu, 24 Sep 2026 20:53:39 +0000",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has Trump been so eager to welcome Xi?",
+            "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
+            "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 15:16:27 GMT",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+            "description": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 22:16:23 GMT",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "White House restores access to media outlets banned by Trump after judge's order",
+            "description": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 17:49:20 GMT",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
+            "description": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
+            "url": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 21:56:15 +0000",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Croatian court approves extradition in Nord Stream bombing case",
+            "description": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
+            "url": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 21:47:44 +0000",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump and Xi hold critical talks at White House summit",
+            "description": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 21:41:40 +0000",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-25T01:47:27+03:30"
+        }
+    ]
+}

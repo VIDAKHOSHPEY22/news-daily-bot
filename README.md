@@ -1,61 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 00:04:21
+**Last Update:** 2026-09-25 01:47:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sourcehut account takeover via build logs (XSS in ansi2html)
+### 1. Show HN: Koi.rest – watch some fish and regain your balance
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.arusekk.pl/posts/srht-account-takeover/">https://blog.arusekk.pl/posts/srht-account-takeover/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49835996">https://news.ycombinator.com/item?id=49835996</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://blog.arusekk.pl/posts/srht-account-takeover/](https://blog.arusekk.pl/posts/srht-account-takeover/)
-
----
-
-### 2. Using LLMs to trace alchemical knowledge and decode 17th century letters
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical">https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49835531">https://news.ycombinator.com/item?id=49835531</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical)
-
----
-
-### 3. Show HN: Radix – Visual UI for agentic programming
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hey HN, I'm Jordan from Radix.<p>Radix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you're working on and get an interactive widget that persists locally on disk.<p>I built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end up as python tools that read and plotted data, or separate React apps spun up just to test a single feature. Lately obviously I've been using Claude artifacts but these are quite limited.<p>I wanted a system where it was easy to leave comments or adapt an artifact without having to give vague descriptions back to the agent, and where ideally I could actually shift away from a chat window as the main interface.<p>I've got a pro version of Radix which I will launch soon. This current version is entirely free and is definitely a beta -- there will be rough edges!<p>Note: There's no telemetry or data captured. Your messages run entirely through your own agent. I require a key but that's just to get an idea of how many people are using it. Everything is stored locally (the workspaces are actually just React apps which you can edit "artisanally" if you want).<p>If you have any questions please reply here or email me hello@radix-os.com<p>Thank you!</p>
+<p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said "fuck it" and used AI to make the thing I really wanted to make.<p>I realized I didn't want "perfect". I wanted "good enough".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49834964">https://news.ycombinator.com/item?id=49834964</a></p>
-<p>Points: 15</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837006">https://news.ycombinator.com/item?id=49837006</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://koi.rest](https://koi.rest)
+
+---
+
+### 2. International observers to investigate Swedish election fraud
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken">https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836612">https://news.ycombinator.com/item?id=49836612</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken](https://www.tv4.se/artikel/37VDHaUBmbgXCIRAP1bR8f/internationell-valobservatoer-ska-foelja-upp-misstaenkta-valfusken)
+
+---
+
+### 3. The Board Game of the Alpha Nerds (2014)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836590">https://news.ycombinator.com/item?id=49836590</a></p>
+<p>Points: 19</p>
 <p># Comments: 16</p>
 
-🔗 **Read more:** [https://radix-os.com](https://radix-os.com)
+🔗 **Read more:** [https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
 
 ---
 
@@ -79,7 +79,7 @@ President Donald Trump has been talking about Chinese President Xi Jinping's vis
 **Category:** world
 
 **Description:**
-Anti-migrant activist Daniel Thomas is charged in connection with an incident in the English Channel.
+Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss)
 
@@ -98,42 +98,42 @@ Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, say
 
 ---
 
-### 7. New York sues Polymarket over allegations of illegal gambling operations
+### 7. DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The lawsuit comes two months after the state filed a similar lawsuit against competitor Kalshi.
+DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss)
 
 ---
 
-### 8. Israel moves to ban main Palestinian-led lists from election
+### 8. Croatian court approves extradition in Nord Stream bombing case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.
+Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss)
 
 ---
 
-### 9. What’s triggered the latest violence in Ethiopia?
+### 9. Trump and Xi hold critical talks at White House summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tigrayan forces say they are in a &#039;full-blown war&#039; with the army.
+US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss)
 
 ---
 
