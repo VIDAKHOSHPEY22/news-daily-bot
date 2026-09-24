@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-24T15:29:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+            "description": "<p>Article URL: <a href=\"https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/\">https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49828969\">https://news.ycombinator.com/item?id=49828969</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+            "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+            "published": "Thu, 24 Sep 2026 11:08:39 +0000",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Starlink ground station in Poland hit by fire in suspected arson attack",
+            "description": "<p>Article URL: <a href=\"https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/\">https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49828409\">https://news.ycombinator.com/item?id=49828409</a></p>\n<p>Points: 88</p>\n<p># Comments: 69</p>",
+            "url": "https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/",
+            "published": "Thu, 24 Sep 2026 09:52:29 +0000",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nokia Design Archive (2025)",
+            "description": "<p>Article URL: <a href=\"https://nokiadesignarchive.aalto.fi/index.html\">https://nokiadesignarchive.aalto.fi/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49828385\">https://news.ycombinator.com/item?id=49828385</a></p>\n<p>Points: 77</p>\n<p># Comments: 35</p>",
+            "url": "https://nokiadesignarchive.aalto.fi/index.html",
+            "published": "Thu, 24 Sep 2026 09:49:33 +0000",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+            "description": "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.",
+            "url": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 11:12:59 GMT",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anti-migrant activist arrested over video of dinghy slashing",
+            "description": "Police had been looking into footage appearing to show the man, also known as Danny Tommo, slashing at a boat in the English Channel with a knife.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 08:42:35 GMT",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Australia launches urgent review after OpenAI program hacks government health portal",
+            "description": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+            "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 05:18:26 GMT",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly attack on Indian cargo ship off coast of Oman",
+            "description": "A crew member was killed in an attack on an Indian cargo vessel off the coast of Oman.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 11:44:21 +0000",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Belgium and Rwanda are talking again. Is DR Congo any closer to peace?",
+            "description": "Belgium and Rwanda have restored diplomatic relations after an 18-month rupture over the war in eastern DR Congo.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 11:44:00 +0000",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
+            "description": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss",
+            "published": "Thu, 24 Sep 2026 11:39:16 +0000",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01B",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24785",
+            "published": "2026-09-22T06:00:00Z",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Polo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24721",
+            "published": "2026-09-21T00:00:00Z",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Round Prarie, Morehouse, Louisiana",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24710",
+            "published": "2026-09-20T17:32:00Z",
+            "fetched": "2026-09-24T15:29:44+03:30"
+        }
+    ]
+}

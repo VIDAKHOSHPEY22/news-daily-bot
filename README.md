@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-24 13:22:06
+**Last Update:** 2026-09-24 15:29:44
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI has no intent and no motivation
+### 1. The newest ESP32 can run Linux and it's getting close to a Raspberry Pi
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html">https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828133">https://news.ycombinator.com/item?id=49828133</a></p>
+<p>Article URL: <a href="https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/">https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828969">https://news.ycombinator.com/item?id=49828969</a></p>
 <p>Points: 7</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html)
+🔗 **Read more:** [https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/)
 
 ---
 
-### 2. Meta takes down a critical video about meta AI Glasses after filming at Meta
+### 2. Starlink ground station in Poland hit by fire in suspected arson attack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/">https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49827794">https://news.ycombinator.com/item?id=49827794</a></p>
+<p>Article URL: <a href="https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/">https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828409">https://news.ycombinator.com/item?id=49828409</a></p>
 <p>Points: 88</p>
-<p># Comments: 42</p>
+<p># Comments: 69</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+🔗 **Read more:** [https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/](https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/)
 
 ---
 
-### 3. Early rogue AI agent activity and attempts to hack found on urlquery.net
+### 3. Nokia Design Archive (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://transluce.org/agent-activity">https://transluce.org/agent-activity</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49826565">https://news.ycombinator.com/item?id=49826565</a></p>
-<p>Points: 119</p>
-<p># Comments: 85</p>
+<p>Article URL: <a href="https://nokiadesignarchive.aalto.fi/index.html">https://nokiadesignarchive.aalto.fi/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49828385">https://news.ycombinator.com/item?id=49828385</a></p>
+<p>Points: 77</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://transluce.org/agent-activity](https://transluce.org/agent-activity)
+🔗 **Read more:** [https://nokiadesignarchive.aalto.fi/index.html](https://nokiadesignarchive.aalto.fi/index.html)
 
 ---
 
@@ -84,55 +84,55 @@ Police had been looking into footage appearing to show the man, also known as Da
 
 ---
 
-### 6. Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader
+### 6. Australia launches urgent review after OpenAI program hacks government health portal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.
+The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face
+### 7. Deadly attack on Indian cargo ship off coast of Oman
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.
+A crew member was killed in an attack on an Indian cargo vessel off the coast of Oman.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/deadly-attack-on-indian-cargo-ship-off-coast-of-oman?traffic_source=rss)
 
 ---
 
-### 8. Yemeni forces say they repel Houthi attacks in Taiz as fighting rages
+### 8. Belgium and Rwanda are talking again. Is DR Congo any closer to peace?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government forces say dozens of Houthis killed in southwestern governorate during battles for strategic highlands.
+Belgium and Rwanda have restored diplomatic relations after an 18-month rupture over the war in eastern DR Congo.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/yemeni-forces-claim-repelling-houthi-attacks-in-taiz-as-fighting-rages-on?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss)
 
 ---
 
-### 9. ‘Partial satisfaction’: Sri Lankans hail 2019 bombings ruling with a caveat
+### 9. Russia attacks Ukraine while Zelenskyy speaks at UNGA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As 15 men are given long prison terms, a father who lost teen daughter wants to know if it was a political conspiracy.
+Russia attacks Ukraine while Zelenskyy speaks at UNGA
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss](https://www.aljazeera.com/news/2026/9/24/partial-satisfaction-sri-lankans-hail-2019-bombings-ruling-with-a-caveat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga?traffic_source=rss)
 
 ---
 
