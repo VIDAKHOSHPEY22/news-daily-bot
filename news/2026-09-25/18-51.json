@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T18:51:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Allow Carriers on Planes",
+            "description": "<p>Article URL: <a href=\"https://www.jefftk.com/p/allow-carriers-on-planes\">https://www.jefftk.com/p/allow-carriers-on-planes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49844786\">https://news.ycombinator.com/item?id=49844786</a></p>\n<p>Points: 69</p>\n<p># Comments: 44</p>",
+            "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+            "published": "Fri, 25 Sep 2026 14:00:10 +0000",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "First Principles Thinking",
+            "description": "<p>Article URL: <a href=\"https://sunilsadasivan.com/writing/first-principles-thinking/\">https://sunilsadasivan.com/writing/first-principles-thinking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49844736\">https://news.ycombinator.com/item?id=49844736</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+            "published": "Fri, 25 Sep 2026 13:55:37 +0000",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Test",
+            "description": "<p>Article URL: <a href=\"https://tante.cc/2026/09/24/the-test/\">https://tante.cc/2026/09/24/the-test/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49843550\">https://news.ycombinator.com/item?id=49843550</a></p>\n<p>Points: 62</p>\n<p># Comments: 15</p>",
+            "url": "https://tante.cc/2026/09/24/the-test/",
+            "published": "Fri, 25 Sep 2026 12:14:02 +0000",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Special agents' blood and urine test results stolen in FBI hack",
+            "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 13:56:16 GMT",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Noah Woods left playground through gap in fence, inquest hears",
+            "description": "Noah's mother tells parents to \"hold their children a little tighter and cherish every moment\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 12:51:48 GMT",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some BBC channels and radio stations may well have to close, director general says",
+            "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
+            "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 12:00:11 GMT",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China swimmer makes Asian Games history as Thai sprinter wins track 100m",
+            "description": "China&#039;s Zhang Zhanshuo, 19, became the first swimmer to win seven golds at a single Asian Games.",
+            "url": "https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 14:47:49 +0000",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man City found guilty on almost all 115 Premier League charges: Report",
+            "description": "City found guilty of ⁠all ​but one of ⁠the 115 ​alleged breaches of the league&#039;s financial ​rules, The Athletic reports.",
+            "url": "https://www.aljazeera.com/sports/2026/9/25/man-city-found-guilty-on-almost-all-115-premier-league-charges-report?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 14:36:11 +0000",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF",
+            "description": "More than a quarter of the nearly 2,900 children screened by UNICEF in recent weeks were acutely malnourished.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 14:10:51 +0000",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Merit Creek, Greene, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809",
+            "published": "2026-09-23T10:12:00Z",
+            "fetched": "2026-09-25T18:51:17+03:30"
+        }
+    ]
+}

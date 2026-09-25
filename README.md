@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 17:05:59
+**Last Update:** 2026-09-25 18:51:17
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nobody Asked for a Crab Chair
+### 1. Allow Carriers on Planes
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newmobility.com/nobody-asked-for-a-crab-chair/">https://newmobility.com/nobody-asked-for-a-crab-chair/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843899">https://news.ycombinator.com/item?id=49843899</a></p>
-<p>Points: 7</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.jefftk.com/p/allow-carriers-on-planes">https://www.jefftk.com/p/allow-carriers-on-planes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49844786">https://news.ycombinator.com/item?id=49844786</a></p>
+<p>Points: 69</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://newmobility.com/nobody-asked-for-a-crab-chair/](https://newmobility.com/nobody-asked-for-a-crab-chair/)
+🔗 **Read more:** [https://www.jefftk.com/p/allow-carriers-on-planes](https://www.jefftk.com/p/allow-carriers-on-planes)
 
 ---
 
-### 2. The Test
+### 2. First Principles Thinking
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sunilsadasivan.com/writing/first-principles-thinking/">https://sunilsadasivan.com/writing/first-principles-thinking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49844736">https://news.ycombinator.com/item?id=49844736</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://sunilsadasivan.com/writing/first-principles-thinking/](https://sunilsadasivan.com/writing/first-principles-thinking/)
+
+---
+
+### 3. The Test
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://tante.cc/2026/09/24/the-test/">https://tante.cc/2026/09/24/the-test/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843550">https://news.ycombinator.com/item?id=49843550</a></p>
-<p>Points: 25</p>
-<p># Comments: 2</p>
+<p>Points: 62</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://tante.cc/2026/09/24/the-test/](https://tante.cc/2026/09/24/the-test/)
 
 ---
 
-### 3. I'm Tired of Being on the Network
+### 4. Special agents' blood and urine test results stolen in FBI hack
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://matduggan.com/im-tired-of-being-on-the-network/">https://matduggan.com/im-tired-of-being-on-the-network/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843547">https://news.ycombinator.com/item?id=49843547</a></p>
-<p>Points: 44</p>
-<p># Comments: 35</p>
+Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.
 
-🔗 **Read more:** [https://matduggan.com/im-tired-of-being-on-the-network/](https://matduggan.com/im-tired-of-being-on-the-network/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Noah Woods left playground through gap in fence, inquest hears
+### 5. Noah Woods left playground through gap in fence, inquest hears
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Noah's mother tells parents to "hold their children a little tighter and cherish
 
 ---
 
-### 5. Daniel Thomas pleads not guilty after dinghy slashed
+### 6. Some BBC channels and radio stations may well have to close, director general says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.
+The BBC's financial situation "may well mean" some channels and stations close, Matt Brittin says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Xi got Trump's red carpet welcome - but not everything he wanted
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. India’s ‘cockroach’ movement demands election chief’s resignation
+### 7. China swimmer makes Asian Games history as Thai sprinter wins track 100m
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Youth group threatens return to mass protests, sets deadline for Gyanesh Kumar to quit over reports of meddling.
+China&#039;s Zhang Zhanshuo, 19, became the first swimmer to win seven golds at a single Asian Games.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss)
 
 ---
 
-### 8. Israeli official takes notes after UN walkout against Netanyahu
+### 8. Man City found guilty on almost all 115 Premier League charges: Report
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli official was filmed taking notes after UN delegates staged a walk out during a speech by Netanyahu.
+City found guilty of ⁠all ​but one of ⁠the 115 ​alleged breaches of the league&#039;s financial ​rules, The Athletic reports.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-official-takes-notes-after-un-walkout-against-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/man-city-found-guilty-on-almost-all-115-premier-league-charges-report?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/man-city-found-guilty-on-almost-all-115-premier-league-charges-report?traffic_source=rss)
 
 ---
 
-### 9. Fighting in northern Ethiopia spurs fears of blackout and blockade
+### 9. Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tigray was cut off from the world during the 2020-2022 civil war, which killed around 600,000 people.
+More than a quarter of the nearly 2,900 children screened by UNICEF in recent weeks were acutely malnourished.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss)
 
 ---
 
