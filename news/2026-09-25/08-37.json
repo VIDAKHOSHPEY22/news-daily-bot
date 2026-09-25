@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T08:37:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+            "description": "<p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said \"fuck it\" and used AI to make the thing I really wanted to make.<p>I realized I didn't want \"perfect\". I wanted \"good enough\".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49837006\">https://news.ycombinator.com/item?id=49837006</a></p>\n<p>Points: 155</p>\n<p># Comments: 40</p>",
+            "url": "https://koi.rest",
+            "published": "Thu, 24 Sep 2026 21:33:03 +0000",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Board Game of the Alpha Nerds (2014)",
+            "description": "<p>Article URL: <a href=\"https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/\">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49836590\">https://news.ycombinator.com/item?id=49836590</a></p>\n<p>Points: 70</p>\n<p># Comments: 26</p>",
+            "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+            "published": "Thu, 24 Sep 2026 20:53:39 +0000",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "California is chasing wealth that has feet",
+            "description": "<p>Article URL: <a href=\"https://blog.landeconomics.org/p/california-is-chasing-wealth-that\">https://blog.landeconomics.org/p/california-is-chasing-wealth-that</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49836419\">https://news.ycombinator.com/item?id=49836419</a></p>\n<p>Points: 191</p>\n<p># Comments: 545</p>",
+            "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
+            "published": "Thu, 24 Sep 2026 20:34:32 +0000",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: The world’s two most powerful men just met. How did it go?",
+            "description": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+            "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 01:27:10 GMT",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+            "description": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 22:16:23 GMT",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
+            "description": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
+            "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 23:44:00 GMT",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+            "description": "Pakistan&#039;s security forces report ongoing cross-border fire in latest fighting with Afghanistan.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 04:22:10 +0000",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jewish protestors join Free Palestine march to denounce Netanyahu",
+            "description": "Al Jazeera’s Emma Withrow reports from a Free Palestine march, where Jewish demonstrators rejected Netanyahu.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 03:49:43 +0000",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Young men flee Tigray amid fears of forced recruitment",
+            "description": "Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 03:45:06 +0000",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Merit Creek, Greene, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809",
+            "published": "2026-09-23T10:12:00Z",
+            "fetched": "2026-09-25T08:37:02+03:30"
+        }
+    ]
+}
