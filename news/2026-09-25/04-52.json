@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T04:52:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitLab Outage",
+            "description": "<p>Article URL: <a href=\"https://status.gitlab.com/\">https://status.gitlab.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49838034\">https://news.ycombinator.com/item?id=49838034</a></p>\n<p>Points: 49</p>\n<p># Comments: 20</p>",
+            "url": "https://status.gitlab.com/",
+            "published": "Thu, 24 Sep 2026 23:10:44 +0000",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Back and shoulder surgery is often worse than useless",
+            "description": "<p><a href=\"https://archive.ph/j6oeD\" rel=\"nofollow\">https://archive.ph/j6oeD</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49837473\">https://news.ycombinator.com/item?id=49837473</a></p>\n<p>Points: 63</p>\n<p># Comments: 48</p>",
+            "url": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
+            "published": "Thu, 24 Sep 2026 22:15:58 +0000",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+            "description": "<p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said \"fuck it\" and used AI to make the thing I really wanted to make.<p>I realized I didn't want \"perfect\". I wanted \"good enough\".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49837006\">https://news.ycombinator.com/item?id=49837006</a></p>\n<p>Points: 119</p>\n<p># Comments: 27</p>",
+            "url": "https://koi.rest",
+            "published": "Thu, 24 Sep 2026 21:33:03 +0000",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has Trump been so eager to welcome Xi?",
+            "description": "President Donald Trump has been talking about Chinese President Xi Jinping's visit for months, the BBC's Sarah Smith looks at why.",
+            "url": "https://www.bbc.co.uk/news/videos/c914d17zn6kxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 15:16:27 GMT",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anti-migrant activist charged after dinghy slashed in Channel",
+            "description": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 22:16:23 GMT",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
+            "description": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
+            "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 23:44:00 GMT",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
+            "description": "Forty-nine passengers have been rescued and a search is under way for the missing.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 00:38:13 +0000",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+            "description": "Luiz Inacio Lula da Silva is up two points, but that&#039;s still within the poll&#039;s margin of error.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 00:35:51 +0000",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+            "description": "UAE joins Oman, Iraq, Azerbaijan, Georgia and Turkmenistan in restricting access to Iranian airlines.",
+            "url": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 00:24:47 +0000",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Merit Creek, Greene, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809",
+            "published": "2026-09-23T10:12:00Z",
+            "fetched": "2026-09-25T04:52:22+03:30"
+        }
+    ]
+}
