@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T21:57:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+            "description": "<p>Map your AI worldview by answering a few questions, and see how you compare with others.<p>only takes a few minutes && free & open source && private by default && powered by Jev<p>I think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49846953\">https://news.ycombinator.com/item?id=49846953</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://www.doom-or-bloom.com",
+            "published": "Fri, 25 Sep 2026 16:51:28 +0000",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/\">https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49845998\">https://news.ycombinator.com/item?id=49845998</a></p>\n<p>Points: 49</p>\n<p># Comments: 55</p>",
+            "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+            "published": "Fri, 25 Sep 2026 15:31:02 +0000",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+            "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html\">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49845977\">https://news.ycombinator.com/item?id=49845977</a></p>\n<p>Points: 214</p>\n<p># Comments: 306</p>",
+            "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+            "published": "Fri, 25 Sep 2026 15:29:25 +0000",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What could the potential sanctions for Man City be?",
+            "description": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 14:55:14 GMT",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I'm not tempted to call an early election, Burnham says",
+            "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 17:15:35 GMT",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Special agents' blood and urine test results stolen in FBI hack",
+            "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 13:56:16 GMT",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
+            "description": "Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 18:05:32 +0000",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US top court allows Trump to use controversial voter verification system",
+            "description": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 17:45:24 +0000",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanese in Brazil, Brazilian in Lebanon",
+            "description": "Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.",
+            "url": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 17:44:39 +0000",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T21:57:38+03:30"
+        }
+    ]
+}

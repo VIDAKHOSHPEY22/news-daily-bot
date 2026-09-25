@@ -1,64 +1,91 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 18:51:17
+**Last Update:** 2026-09-25 21:57:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Allow Carriers on Planes
+### 1. Show HN: Doom or Bloom, map your AI worldview with Jev
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.jefftk.com/p/allow-carriers-on-planes">https://www.jefftk.com/p/allow-carriers-on-planes</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49844786">https://news.ycombinator.com/item?id=49844786</a></p>
-<p>Points: 69</p>
-<p># Comments: 44</p>
+<p>Map your AI worldview by answering a few questions, and see how you compare with others.<p>only takes a few minutes && free & open source && private by default && powered by Jev<p>I think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49846953">https://news.ycombinator.com/item?id=49846953</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.jefftk.com/p/allow-carriers-on-planes](https://www.jefftk.com/p/allow-carriers-on-planes)
+🔗 **Read more:** [https://www.doom-or-bloom.com](https://www.doom-or-bloom.com)
 
 ---
 
-### 2. First Principles Thinking
+### 2. Gravity Seems Holographic. What Does That Mean for Reality?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sunilsadasivan.com/writing/first-principles-thinking/">https://sunilsadasivan.com/writing/first-principles-thinking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49844736">https://news.ycombinator.com/item?id=49844736</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/">https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49845998">https://news.ycombinator.com/item?id=49845998</a></p>
+<p>Points: 49</p>
+<p># Comments: 55</p>
 
-🔗 **Read more:** [https://sunilsadasivan.com/writing/first-principles-thinking/](https://sunilsadasivan.com/writing/first-principles-thinking/)
+🔗 **Read more:** [https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/](https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/)
 
 ---
 
-### 3. The Test
+### 3. U.S. appeals court upholds designation of Anthropic as supply chain risk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tante.cc/2026/09/24/the-test/">https://tante.cc/2026/09/24/the-test/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49843550">https://news.ycombinator.com/item?id=49843550</a></p>
-<p>Points: 62</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49845977">https://news.ycombinator.com/item?id=49845977</a></p>
+<p>Points: 214</p>
+<p># Comments: 306</p>
 
-🔗 **Read more:** [https://tante.cc/2026/09/24/the-test/](https://tante.cc/2026/09/24/the-test/)
+🔗 **Read more:** [https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
 
 ---
 
-### 4. Special agents' blood and urine test results stolen in FBI hack
+### 4. Watch: What could the potential sanctions for Man City be?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.
+
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. I'm not tempted to call an early election, Burnham says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister told the BBC an early poll would throw the country into a "backward-looking process".
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Special agents' blood and urine test results stolen in FBI hack
 
 **Source:** BBC
 
@@ -71,72 +98,59 @@ Experts say the hack could leave agents vulnerable to scams, blackmail and targe
 
 ---
 
-### 5. Noah Woods left playground through gap in fence, inquest hears
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Noah's mother tells parents to "hold their children a little tighter and cherish every moment".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Some BBC channels and radio stations may well have to close, director general says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC's financial situation "may well mean" some channels and stations close, Matt Brittin says.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. China swimmer makes Asian Games history as Thai sprinter wins track 100m
+### 7. Poland boosts air defence after ‘Russian provocations’ amid Ukraine war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China&#039;s Zhang Zhanshuo, 19, became the first swimmer to win seven golds at a single Asian Games.
+Alleged incursions put NATO nations on alert as Ukraine launches strikes on Russia during parliamentary voting.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss)
 
 ---
 
-### 8. Man City found guilty on almost all 115 Premier League charges: Report
+### 8. US top court allows Trump to use controversial voter verification system
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-City found guilty of ⁠all ​but one of ⁠the 115 ​alleged breaches of the league&#039;s financial ​rules, The Athletic reports.
+Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/man-city-found-guilty-on-almost-all-115-premier-league-charges-report?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/man-city-found-guilty-on-almost-all-115-premier-league-charges-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss)
 
 ---
 
-### 9. Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF
+### 9. Lebanese in Brazil, Brazilian in Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than a quarter of the nearly 2,900 children screened by UNICEF in recent weeks were acutely malnourished.
+Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/yemen-fighting-displaces-71000-children-worsens-malnutrition-unicef?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Nolo
+### 10. Tropical Storm Gonzalo
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811)
+
+---
+
+### 11. Hurricane Nolo
 
 **Source:** NASA
 
@@ -149,7 +163,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Surigae
+### 12. Tropical Storm Surigae
 
 **Source:** NASA
 
@@ -159,19 +173,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787)
-
----
-
-### 12. Wildfire Merit Creek, Greene, Mississippi
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809)
 
 ---
 
