@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-26T02:02:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Even Is an OS Now?",
+            "description": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/\">https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49850305\">https://news.ycombinator.com/item?id=49850305</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+            "published": "Fri, 25 Sep 2026 21:36:56 +0000",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+            "description": "<p>Article URL: <a href=\"https://swarmtraces.org/\">https://swarmtraces.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49849985\">https://news.ycombinator.com/item?id=49849985</a></p>\n<p>Points: 44</p>\n<p># Comments: 18</p>",
+            "url": "https://swarmtraces.org/",
+            "published": "Fri, 25 Sep 2026 21:09:27 +0000",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Excel now supports multiple values in a single cell",
+            "description": "<p>Related: <a href=\"https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395\" rel=\"nofollow\">https://techcommunity.microsoft.com/blog/microsoft365insider...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49849832\">https://news.ycombinator.com/item?id=49849832</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+            "url": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
+            "published": "Fri, 25 Sep 2026 20:55:00 +0000",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man City found guilty of majority of 115 financial rule breaches",
+            "description": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 20:11:12 GMT",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What could the potential sanctions for Man City be?",
+            "description": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 14:55:14 GMT",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+            "description": "Asked about the Iranian offer, a US official said discussions were taking place through mediators.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 21:57:23 GMT",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+            "description": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 22:16:35 +0000",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+            "description": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 21:37:35 +0000",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+            "description": "Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.",
+            "url": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 21:32:43 +0000",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-26T02:02:45+03:30"
+        }
+    ]
+}

@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 01:41:31
+**Last Update:** 2026-09-26 02:02:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Revealing the details of how OpenAI agents hacked Hugging Face
+### 1. What Even Is an OS Now?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/">https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49850305">https://news.ycombinator.com/item?id=49850305</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+
+---
+
+### 2. Revealing the details of how OpenAI agents hacked Hugging Face
 
 **Source:** Hacker News
 
@@ -19,43 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://swarmtraces.org/">https://swarmtraces.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849985">https://news.ycombinator.com/item?id=49849985</a></p>
-<p>Points: 19</p>
-<p># Comments: 2</p>
+<p>Points: 44</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://swarmtraces.org/](https://swarmtraces.org/)
 
 ---
 
-### 2. Ask HN: Who's still keeping a DOS machine up because the business depends on it?
+### 3. Excel now supports multiple values in a single cell
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Do you currently work with or know anyone who is still using:<p>* dBase/Clipper/CLARION/Paradox/other DOS RAD environments on period hardware to run business processes?<p>* CNC mills/spectrometers/microscopes/other industrial instruments controlled by ISA cards (either bespoke or standards like GPIB)?<p>* Anything with a parallel port dongle?<p>If so, I'd be very interested in hearing your experience here, or feel free to send me an email at the address in my profile. I'm not trying to sell anything, just doing some research for an idea around keeping these going on modern hardware.</p>
+<p>Related: <a href="https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395" rel="nofollow">https://techcommunity.microsoft.com/blog/microsoft365insider...</a></p>
 <hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49848955">https://news.ycombinator.com/item?id=49848955</a></p>
-<p>Points: 19</p>
-<p># Comments: 1</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49849832">https://news.ycombinator.com/item?id=49849832</a></p>
+<p>Points: 14</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49848955](https://news.ycombinator.com/item?id=49848955)
-
----
-
-### 3. Bug: Border radius has infected VSCode editor
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/microsoft/vscode/issues/338035">https://github.com/microsoft/vscode/issues/338035</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49848838">https://news.ycombinator.com/item?id=49848838</a></p>
-<p>Points: 59</p>
-<p># Comments: 33</p>
-
-🔗 **Read more:** [https://github.com/microsoft/vscode/issues/338035](https://github.com/microsoft/vscode/issues/338035)
+🔗 **Read more:** [https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756](https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756)
 
 ---
 
@@ -98,7 +98,20 @@ Asked about the Iranian offer, a US official said discussions were taking place 
 
 ---
 
-### 7. Netanyahu calls Al Jazeera a ‘toxic media outlet’
+### 7. DR Congo’s Ebola outbreak spreads to two new health zones, WHO says
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss)
+
+---
+
+### 8. Netanyahu calls Al Jazeera a ‘toxic media outlet’
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media out
 
 ---
 
-### 8. Mbappe goal overshadowed by knee injury to mar Zidane debut France win
+### 9. Mbappe goal overshadowed by knee injury to mar Zidane debut France win
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media out
 Kylian Mbappe scores the only goal of France&#039;s win in Turkiye, but Real Madrid striker immediately forced off by injury.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss)
-
----
-
-### 9. What would a US diesel export ban mean for global fuel prices?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Energy experts warn US diesel export ban could increase fuel costs domestically and internationally.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss)
 
 ---
 
