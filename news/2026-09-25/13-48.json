@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T13:48:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ink and Switch Interactive Homepage",
+            "description": "<p>Article URL: <a href=\"https://www.inkandswitch.com/\">https://www.inkandswitch.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842270\">https://news.ycombinator.com/item?id=49842270</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.inkandswitch.com/",
+            "published": "Fri, 25 Sep 2026 09:50:25 +0000",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tech Needs Humanists More",
+            "description": "<p>Article URL: <a href=\"https://passo.uno/tech-needs-humanists-more-than-ever/\">https://passo.uno/tech-needs-humanists-more-than-ever/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49842127\">https://news.ycombinator.com/item?id=49842127</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
+            "url": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+            "published": "Fri, 25 Sep 2026 09:31:34 +0000",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Special Projects (2016)",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/special-projects/\">https://openai.com/index/special-projects/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49841893\">https://news.ycombinator.com/item?id=49841893</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://openai.com/index/special-projects/",
+            "published": "Fri, 25 Sep 2026 08:55:43 +0000",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Families failed by decision to bail sex offender to flat near playground, victims commissioner says",
+            "description": "Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 10:03:25 GMT",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Noah Woods left playground through gap in fence, inquest hears",
+            "description": "An inquest is told the three-year-old's body was found among submerged tree roots.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 10:11:25 GMT",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+            "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+            "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 03:57:09 GMT",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Premier League and La Liga lead FIFA reform calls after ‘exploitative’ plan",
+            "description": "Europe&#039;s top leagues, from England, Spain, Italy and Germany, add pressure on Gianni Infantino after World Cup plan.",
+            "url": "https://www.aljazeera.com/sports/2026/9/25/premier-league-and-la-liga-lead-fifa-reform-calls-after-infantino-plan?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 10:00:17 +0000",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran pitches seven-day roadmap to end conflict with US",
+            "description": "Tehran seeks rapid implementation failed ceasefire deal, offering to open Hormuz if regional conflicts halted.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 09:54:40 +0000",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
+            "description": "Warmth on display in Washington contrasts significantly with the language Trump has used to characterise Beijing and Xi.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/from-cheats-to-great-friendship-how-trumps-rhetoric-on-china-changed?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 09:46:18 +0000",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Merit Creek, Greene, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809",
+            "published": "2026-09-23T10:12:00Z",
+            "fetched": "2026-09-25T13:48:37+03:30"
+        }
+    ]
+}
