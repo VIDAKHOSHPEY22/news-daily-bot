@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-25 08:37:02
+**Last Update:** 2026-09-25 11:06:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Koi.rest – watch some fish and regain your balance
+### 1. CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It's an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don't have the capacity to learn it right now.<p>So I let perfect be the enemy of good and, well... just kept the idea to myself.<p>Then I said "fuck it" and used AI to make the thing I really wanted to make.<p>I realized I didn't want "perfect". I wanted "good enough".<p>I tweaked, added, removed, drew, researched, questioned, tested... I just wasn't the one coding it.<p>So now, instead of occupying my brain, it now lives on the internet for others to enjoy.<p>Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head?<p>So here I am. I made the thing. The weird, little, quiet koi pond.<p>The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together.<p>I hope this pond helps you as much as it helped me.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49837006">https://news.ycombinator.com/item?id=49837006</a></p>
-<p>Points: 155</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2">https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49841115">https://news.ycombinator.com/item?id=49841115</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://koi.rest](https://koi.rest)
+🔗 **Read more:** [https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
 
 ---
 
-### 2. The Board Game of the Alpha Nerds (2014)
+### 2. Goodbye Google
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/">https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836590">https://news.ycombinator.com/item?id=49836590</a></p>
-<p>Points: 70</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://robert.ocallahan.org/2026/09/goodbye-google.html">https://robert.ocallahan.org/2026/09/goodbye-google.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49840314">https://news.ycombinator.com/item?id=49840314</a></p>
+<p>Points: 160</p>
+<p># Comments: 162</p>
 
-🔗 **Read more:** [https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/](https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/)
+🔗 **Read more:** [https://robert.ocallahan.org/2026/09/goodbye-google.html](https://robert.ocallahan.org/2026/09/goodbye-google.html)
 
 ---
 
-### 3. California is chasing wealth that has feet
+### 3. Jev Based Code Review
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.landeconomics.org/p/california-is-chasing-wealth-that">https://blog.landeconomics.org/p/california-is-chasing-wealth-that</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49836419">https://news.ycombinator.com/item?id=49836419</a></p>
-<p>Points: 191</p>
-<p># Comments: 545</p>
+<p>Article URL: <a href="https://github.com/egma-ai/jev-code-reviewer">https://github.com/egma-ai/jev-code-reviewer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49840300">https://news.ycombinator.com/item?id=49840300</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.landeconomics.org/p/california-is-chasing-wealth-that](https://blog.landeconomics.org/p/california-is-chasing-wealth-that)
+🔗 **Read more:** [https://github.com/egma-ai/jev-code-reviewer](https://github.com/egma-ai/jev-code-reviewer)
 
 ---
 
-### 4. Watch: The world’s two most powerful men just met. How did it go?
+### 4. US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Trump said he and Xi had "never gotten along better" as he hosted the Chinese president at the lavish White House event.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: The world’s two most powerful men just met. How did it go?
 
 **Source:** BBC
 
@@ -69,19 +81,6 @@
 The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Anti-migrant activist charged after dinghy slashed in Channel
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,42 +97,42 @@ The test means patients can start treatment sooner and are spared weeks of uncer
 
 ---
 
-### 7. Pakistani forces kill Afghan Taliban fighters in border escalation
+### 7. Nepal’s leader labels devastating flood a ‘warning to the world’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan&#039;s security forces report ongoing cross-border fire in latest fighting with Afghanistan.
+Prime Minister Balendra Shah says world leaders must act on climate change.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss)
 
 ---
 
-### 8. Jewish protestors join Free Palestine march to denounce Netanyahu
+### 8. Israel’s Abu Farchi sent off for gun celebration in Nations League match
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s Emma Withrow reports from a Free Palestine march, where Jewish demonstrators rejected Netanyahu.
+Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss)
 
 ---
 
-### 9. Young men flee Tigray amid fears of forced recruitment
+### 9. Converging crises, chaos and walkouts dominate UNGA Day Three
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Years after the war, unresolved tensions are again leaving young people fearful of being drawn into fighting.
+Dozens of delegates walked out on Netanyahu, Yemen’s government pleaded for help, and Kuwait riled against threats.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss](https://www.aljazeera.com/news/2026/9/25/young-men-flee-tigray-amid-fears-of-forced-recruitment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss)
 
 ---
 

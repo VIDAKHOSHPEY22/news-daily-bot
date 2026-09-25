@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-25T11:06:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+            "description": "<p>Article URL: <a href=\"https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2\">https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49841115\">https://news.ycombinator.com/item?id=49841115</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+            "published": "Fri, 25 Sep 2026 07:03:46 +0000",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Goodbye Google",
+            "description": "<p>Article URL: <a href=\"https://robert.ocallahan.org/2026/09/goodbye-google.html\">https://robert.ocallahan.org/2026/09/goodbye-google.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49840314\">https://news.ycombinator.com/item?id=49840314</a></p>\n<p>Points: 160</p>\n<p># Comments: 162</p>",
+            "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+            "published": "Fri, 25 Sep 2026 04:52:02 +0000",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jev Based Code Review",
+            "description": "<p>Article URL: <a href=\"https://github.com/egma-ai/jev-code-reviewer\">https://github.com/egma-ai/jev-code-reviewer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49840300\">https://news.ycombinator.com/item?id=49840300</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/egma-ai/jev-code-reviewer",
+            "published": "Fri, 25 Sep 2026 04:49:23 +0000",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+            "description": "Trump said he and Xi had \"never gotten along better\" as he hosted the Chinese president at the lavish White House event.",
+            "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 06:40:18 GMT",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: The world’s two most powerful men just met. How did it go?",
+            "description": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+            "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 01:27:10 GMT",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
+            "description": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
+            "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 23:44:00 GMT",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nepal’s leader labels devastating flood a ‘warning to the world’",
+            "description": "Prime Minister Balendra Shah says world leaders must act on climate change.",
+            "url": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 06:56:51 +0000",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
+            "description": "Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.",
+            "url": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 06:44:31 +0000",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Converging crises, chaos and walkouts dominate UNGA Day Three",
+            "description": "Dozens of delegates walked out on Netanyahu, Yemen’s government pleaded for help, and Kuwait riled against threats.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/converging-crises-chaos-and-walkouts-dominate-unga-day-three?traffic_source=rss",
+            "published": "Fri, 25 Sep 2026 06:28:00 +0000",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Merit Creek, Greene, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24809",
+            "published": "2026-09-23T10:12:00Z",
+            "fetched": "2026-09-25T11:06:17+03:30"
+        }
+    ]
+}
