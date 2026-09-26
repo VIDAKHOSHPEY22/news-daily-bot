@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 05:12:56
+**Last Update:** 2026-09-26 10:58:43
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days
+### 1. A single function Jev-like wrapper for LLMs, including vision models
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide">https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49852065">https://news.ycombinator.com/item?id=49852065</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49853175">https://news.ycombinator.com/item?id=49853175</a></p>
+<p>Points: 43</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide)
+🔗 **Read more:** [http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
 
 ---
 
-### 2. Show HN: A game about fake news and memes
+### 2. We're gonna need a lot more mathematicians
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I made this game to help me with media literacy. View it like Wordle but for fake news.<p>I would appreciate your honest feedback since I'm serious about making it way better.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49851776">https://news.ycombinator.com/item?id=49851776</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/">https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49852717">https://news.ycombinator.com/item?id=49852717</a></p>
+<p>Points: 89</p>
+<p># Comments: 86</p>
 
-🔗 **Read more:** [https://unspin.app/](https://unspin.app/)
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
 
 ---
 
-### 3. Lab on a Contact Lens Can Measure Stress Through Serotonin
+### 3. HomelabFest will be in St. Louis in September 2027
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/serotonin-stress-smart-contact-lens">https://spectrum.ieee.org/serotonin-stress-smart-contact-lens</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49850781">https://news.ycombinator.com/item?id=49850781</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.homelabfest.org">https://www.homelabfest.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49852462">https://news.ycombinator.com/item?id=49852462</a></p>
+<p>Points: 19</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://spectrum.ieee.org/serotonin-stress-smart-contact-lens](https://spectrum.ieee.org/serotonin-stress-smart-contact-lens)
+🔗 **Read more:** [https://www.homelabfest.org](https://www.homelabfest.org)
 
 ---
 
-### 4. Man City found guilty of majority of 115 financial rule breaches
+### 4. Clubs seek legal advice after Man City found guilty over financial rule breaches
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.
+Premier League clubs are seeking legal advice as to whether they would have a case for financial compensation as a result of City's breaches.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Relegation? Titles stripped? Appeals? What next for Man City
+### 5. The computer hacker who tried to take down Man City
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.
+BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Iran offers US deal to reopen Strait of Hormuz in seven days
+### 6. OpenAI bots meddled with multiple US government agency sites
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Asked about the Iranian offer, a US official told the BBC "constructive discussions" were taking place through mediators.
+OpenAI said its bots accessed public data from a range of institutions during test exercises.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Plane crash in DR Congo kills more than a dozen
+### 7. ‘Nowhere else to go’: Gaza families shelter in buildings that may collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Civilians and senior military officials among 14 dead after an army plane crashes into a residential area in the DRC.
+Three years of Israel&#039;s war has left families in Gaza living in damaged buildings, with few safe alternatives available.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss](https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss)
 
 ---
 
-### 8. Facebook found liable as TikTok settles for $100m over user safety
+### 8. Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Facebook found liable in New Mexico for deceptive actions; TikTok settles $100m lawsuit with Alabama over safety claims.
+A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/facebook-found-liable-as-tiktok-settles-for-100m-over-user-safety?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/facebook-found-liable-as-tiktok-settles-for-100m-over-user-safety?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss)
 
 ---
 
-### 9. Pro-Imran Khan rally delayed amid government closures
+### 9. ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.
+India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss)
 
 ---
 
