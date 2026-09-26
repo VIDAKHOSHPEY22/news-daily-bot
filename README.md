@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 02:29:57
+**Last Update:** 2026-09-27 03:01:59
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/">https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49860074">https://news.ycombinator.com/item?id=49860074</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
+<p>Points: 31</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.22978">https://arxiv.org/abs/2609.22978</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49859112">https://news.ycombinator.com/item?id=49859112</a></p>
-<p>Points: 103</p>
-<p># Comments: 23</p>
+<p>Points: 115</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.22978](https://arxiv.org/abs/2609.22978)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt">https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49858810">https://news.ycombinator.com/item?id=49858810</a></p>
-<p>Points: 77</p>
-<p># Comments: 143</p>
+<p>Points: 99</p>
+<p># Comments: 221</p>
 
 🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt)
 
@@ -71,33 +71,59 @@ The prime minister says he wants people without support from the "bank of mum an
 
 ---
 
-### 5. Heathrow Airport warns third runway could be delayed by four years
+### 5. Faisal Islam: The two big calls the chancellor has to make ahead of the Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has "always been ambitious".
+He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Trump rejects Iran deal to reopen Strait of Hormuz in seven days
+### 6. Court of Appeal overturns ban on Drumcree parade
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the "definitive views" of mediators.
+Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Student protesters disrupt NVIDIA AI climate panel
+### 7. Powerful storm brings flooding, power outages to northeastern United States
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Authorities warn residents that extreme conditions in the region could pose risks.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss)
+
+---
+
+### 8. Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Four people were killed and four wounded near the capital of Kingstown on the islands, known as a tourism destination.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss)
+
+---
+
+### 9. Student protesters disrupt NVIDIA AI climate panel
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is w
 Student protesters have interrupted an NVIDIA panel during NYC Climate Week.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss)
-
----
-
-### 8. Trump says he is rolling back Biden-era US fuel economy rules for cars
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president said he would end a so-called &#039;EV mandate&#039; that steered consumers to electric vehicles.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss)
-
----
-
-### 9. Yamal nets in Spain’s 3-2 comeback win against England in Nations League
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss)
 
 ---
 
