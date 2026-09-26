@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 16:44:28
+**Last Update:** 2026-09-26 20:34:15
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Breaking Up with Google Play: Why Conversations Is Now Free
+### 1. I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gultsch.de/posts/breaking-up-with-google-play/">https://gultsch.de/posts/breaking-up-with-google-play/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855315">https://news.ycombinator.com/item?id=49855315</a></p>
-<p>Points: 161</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip">https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857899">https://news.ycombinator.com/item?id=49857899</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://gultsch.de/posts/breaking-up-with-google-play/](https://gultsch.de/posts/breaking-up-with-google-play/)
+🔗 **Read more:** [https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
 
 ---
 
-### 2. One Month Without AI
+### 2. Banks and Credit Unions to Team Up Against Apple Pay Fees
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49855018">https://news.ycombinator.com/item?id=49855018</a></p>
-<p>Points: 87</p>
-<p># Comments: 75</p>
+<p>Article URL: <a href="https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/">https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857651">https://news.ycombinator.com/item?id=49857651</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+🔗 **Read more:** [https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/)
 
 ---
 
-### 3. The Copilot+ PC brand is dead
+### 3. Automattic has a new board after failed attempt to put CEO on leave
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49854945">https://news.ycombinator.com/item?id=49854945</a></p>
-<p>Points: 29</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/">https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857572">https://news.ycombinator.com/item?id=49857572</a></p>
+<p>Points: 33</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding)
+🔗 **Read more:** [https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/](https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/)
 
 ---
 
-### 4. Man City legal fight could spiral out of control, former Premier League club executive warns
+### 4. Burnham announces scheme to help first-time buyers onto housing ladder
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.
+The prime minister says he wants people without support from the "bank of mum and dad" to receive help.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. British national among six dead in building explosion close to Acropolis in Athens
+### 5. Heathrow Airport warns third runway could be delayed by four years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.
+The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has "always been ambitious".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. How long can Labour's feel-good factor last?
+### 6. Trump rejects Iran deal to reopen Strait of Hormuz in seven days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.
+The US president says Tehran had only put forward the proposal because it is losing the war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. The media battle behind Brazil’s election
+### 7. Women take up arms as sexual violence ravages eastern DRC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A corruption scandal, Bolsonaro’s comeback, and Trump’s influence collide as Brazil heads into elections.
+As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/9/26/the-media-battle-behind-brazils-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss)
 
 ---
 
-### 8. Manchester City face ‘drastic’ sanctions, says club’s former chairman
+### 8. At least 10 people killed in Russian and Ukrainian attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester City are understood to be ready to appeal any guilty verdict, but could face &#039;severe penalty&#039; says ex-chair.
+New strikes come after the US proposes a fresh round of Russia-Ukraine ceasefire talks in the UAE.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/man-city-face-drastic-sanctions-according-to-clubs-former-chairman?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss)
 
 ---
 
-### 9. Mecca defence alliance chiefs meet amid Houthi attacks
+### 9. Jerusalem Daily: violence continues as the world watches the UNGA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Defence chiefs from Saudi Arabia, Turkiye and Pakistan have been meeting in Riyadh to discuss support for Saudi Arabia.
+As the UN General Assembly enters its fifth day, with world leaders denouncing Israeli violence against Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/26-09-sv-saudi-turkiye-pakistan-chiefs-riy-ks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/jerusalem-daily-violence-continues-as-the-world-watches-the-unga?traffic_source=rss)
 
 ---
 
