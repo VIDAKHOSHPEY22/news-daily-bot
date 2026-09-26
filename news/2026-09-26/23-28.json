@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-26T23:28:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+            "description": "<p>I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate).<p>I wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.<p>I also wanted this to work well for humans and agents.<p>On the Github link, there's a playground where you can try it out without installation. There's also instructions for a simple npm install and for installing a skill you can use with Claude or other agents.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49858513\">https://news.ycombinator.com/item?id=49858513</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
+            "url": "https://github.com/reladraw/reladraw",
+            "published": "Sat, 26 Sep 2026 17:10:40 +0000",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+            "description": "<p>Article URL: <a href=\"https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip\">https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857899\">https://news.ycombinator.com/item?id=49857899</a></p>\n<p>Points: 305</p>\n<p># Comments: 132</p>",
+            "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+            "published": "Sat, 26 Sep 2026 16:12:18 +0000",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+            "description": "<p>Article URL: <a href=\"https://tangled.org/yanndegat.tngl.sh/drawgent\">https://tangled.org/yanndegat.tngl.sh/drawgent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857729\">https://news.ycombinator.com/item?id=49857729</a></p>\n<p>Points: 52</p>\n<p># Comments: 17</p>",
+            "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+            "published": "Sat, 26 Sep 2026 15:56:34 +0000",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+            "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+            "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 18:50:02 GMT",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Heathrow Airport warns third runway could be delayed by four years",
+            "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+            "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 16:32:42 GMT",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+            "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 18:17:12 GMT",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
+            "description": "At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 19:43:03 +0000",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ireland decide to play Israel in Nations League after squad vote",
+            "description": "Ireland&#039;s players have voted to proceed with their Nations League fixture against Israel on Sunday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 19:42:57 +0000",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
+            "description": "Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 19:40:14 +0000",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-26T23:28:28+03:30"
+        }
+    ]
+}

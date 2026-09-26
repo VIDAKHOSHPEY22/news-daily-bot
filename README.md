@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 20:47:14
+**Last Update:** 2026-09-26 23:28:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband
+### 1. Show HN: Reladraw – A diagram language where you decide where to place things
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate).<p>I wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.<p>I also wanted this to work well for humans and agents.<p>On the Github link, there's a playground where you can try it out without installation. There's also instructions for a simple npm install and for installing a skill you can use with Claude or other agents.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49858513">https://news.ycombinator.com/item?id=49858513</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://github.com/reladraw/reladraw](https://github.com/reladraw/reladraw)
+
+---
+
+### 2. I'm the mom in that viral Giants clip. Let me tell you about my husband
 
 **Source:** Hacker News
 
@@ -19,14 +36,14 @@
 **Description:**
 <p>Article URL: <a href="https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip">https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857899">https://news.ycombinator.com/item?id=49857899</a></p>
-<p>Points: 59</p>
-<p># Comments: 14</p>
+<p>Points: 305</p>
+<p># Comments: 132</p>
 
 🔗 **Read more:** [https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip](https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip)
 
 ---
 
-### 2. Make Claude your assistant in excalidraw
+### 3. Drawgent: Coding agent on a live Excalidraw canvas
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://tangled.org/yanndegat.tngl.sh/drawgent">https://tangled.org/yanndegat.tngl.sh/drawgent</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857729">https://news.ycombinator.com/item?id=49857729</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
+<p>Points: 52</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://tangled.org/yanndegat.tngl.sh/drawgent](https://tangled.org/yanndegat.tngl.sh/drawgent)
-
----
-
-### 3. Banks and Credit Unions to Team Up Against Apple Pay Fees
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/">https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49857651">https://news.ycombinator.com/item?id=49857651</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/](https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/)
 
 ---
 
@@ -97,42 +98,42 @@ The US president says Tehran had only put forward the proposal because it is los
 
 ---
 
-### 7. Venezuelan government, opposition agree to work towards reform of top court
+### 7. Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The two sides appointed a committee to review selection of candidates for Supreme Court of Justice.
+At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss)
 
 ---
 
-### 8. Women take up arms as sexual violence ravages eastern DRC
+### 8. Ireland decide to play Israel in Nations League after squad vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves
+Ireland&#039;s players have voted to proceed with their Nations League fixture against Israel on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss)
 
 ---
 
-### 9. At least 10 people killed in Russian and Ukrainian attacks
+### 9. Lavrov: Russia’s war in Ukraine will continue ‘through to the end’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New strikes come as Russian FM accuses Europe of doing &#039;everything it can to thwart peace talks&#039; with Ukraine.
+Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss)
 
 ---
 
