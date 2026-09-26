@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T02:29:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+            "description": "<p>Article URL: <a href=\"https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/\">https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49860074\">https://news.ycombinator.com/item?id=49860074</a></p>\n<p>Points: 25</p>\n<p># Comments: 3</p>",
+            "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+            "published": "Sat, 26 Sep 2026 20:08:50 +0000",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek Elastic Compute (DSec)",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.22978\">https://arxiv.org/abs/2609.22978</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49859112\">https://news.ycombinator.com/item?id=49859112</a></p>\n<p>Points: 103</p>\n<p># Comments: 23</p>",
+            "url": "https://arxiv.org/abs/2609.22978",
+            "published": "Sat, 26 Sep 2026 18:22:41 +0000",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Japan moves to tighten rules for foreigners",
+            "description": "<p>Article URL: <a href=\"https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt\">https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49858810\">https://news.ycombinator.com/item?id=49858810</a></p>\n<p>Points: 77</p>\n<p># Comments: 143</p>",
+            "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+            "published": "Sat, 26 Sep 2026 17:43:11 +0000",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
+            "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+            "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 18:50:02 GMT",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Heathrow Airport warns third runway could be delayed by four years",
+            "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+            "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 16:32:42 GMT",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+            "description": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 22:15:59 GMT",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Student protesters disrupt NVIDIA AI climate panel",
+            "description": "Student protesters have interrupted an NVIDIA panel during NYC Climate Week.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 22:09:33 +0000",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+            "description": "The US president said he would end a so-called &#039;EV mandate&#039; that steered consumers to electric vehicles.",
+            "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 21:51:56 +0000",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+            "description": "Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.",
+            "url": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 21:09:59 +0000",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T02:29:57+03:30"
+        }
+    ]
+}
