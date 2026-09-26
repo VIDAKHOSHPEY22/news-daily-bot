@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-26T20:47:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
+            "description": "<p>Article URL: <a href=\"https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip\">https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857899\">https://news.ycombinator.com/item?id=49857899</a></p>\n<p>Points: 59</p>\n<p># Comments: 14</p>",
+            "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+            "published": "Sat, 26 Sep 2026 16:12:18 +0000",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Make Claude your assistant in excalidraw",
+            "description": "<p>Article URL: <a href=\"https://tangled.org/yanndegat.tngl.sh/drawgent\">https://tangled.org/yanndegat.tngl.sh/drawgent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857729\">https://news.ycombinator.com/item?id=49857729</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+            "published": "Sat, 26 Sep 2026 15:56:34 +0000",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+            "description": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/\">https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857651\">https://news.ycombinator.com/item?id=49857651</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+            "published": "Sat, 26 Sep 2026 15:48:18 +0000",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+            "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+            "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 17:09:40 GMT",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Heathrow Airport warns third runway could be delayed by four years",
+            "description": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
+            "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 16:32:42 GMT",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+            "description": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 16:58:39 GMT",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuelan government, opposition agree to work towards reform of top court",
+            "description": "The two sides appointed a committee to review selection of candidates for Supreme Court of Justice.",
+            "url": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 16:42:38 +0000",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Women take up arms as sexual violence ravages eastern DRC",
+            "description": "As war and sexual violence rage in eastern DRC, women are joining pro-government Wazalendo fighters to defend themselves",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-drc-women-fighters-sv-mp4?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 16:24:51 +0000",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 10 people killed in Russian and Ukrainian attacks",
+            "description": "New strikes come as Russian FM accuses Europe of doing &#039;everything it can to thwart peace talks&#039; with Ukraine.",
+            "url": "https://www.aljazeera.com/news/2026/9/26/at-least-10-people-killed-in-russian-and-ukrainian-attacks?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 16:16:49 +0000",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-26T20:47:14+03:30"
+        }
+    ]
+}
