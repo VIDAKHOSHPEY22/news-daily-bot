@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-26T05:12:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+            "description": "<p>Article URL: <a href=\"https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide\">https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49852065\">https://news.ycombinator.com/item?id=49852065</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+            "published": "Sat, 26 Sep 2026 00:59:02 +0000",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A game about fake news and memes",
+            "description": "<p>I made this game to help me with media literacy. View it like Wordle but for fake news.<p>I would appreciate your honest feedback since I'm serious about making it way better.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49851776\">https://news.ycombinator.com/item?id=49851776</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+            "url": "https://unspin.app/",
+            "published": "Sat, 26 Sep 2026 00:11:33 +0000",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/serotonin-stress-smart-contact-lens\">https://spectrum.ieee.org/serotonin-stress-smart-contact-lens</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49850781\">https://news.ycombinator.com/item?id=49850781</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+            "published": "Fri, 25 Sep 2026 22:28:02 +0000",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man City found guilty of majority of 115 financial rule breaches",
+            "description": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 20:11:12 GMT",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Relegation? Titles stripped? Appeals? What next for Man City",
+            "description": "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 20:48:18 GMT",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+            "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 23:38:48 GMT",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Plane crash in DR Congo kills more than a dozen",
+            "description": "Civilians and senior military officials among 14 dead after an army plane crashes into a residential area in the DRC.",
+            "url": "https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 01:32:36 +0000",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Facebook found liable as TikTok settles for $100m over user safety",
+            "description": "Facebook found liable in New Mexico for deceptive actions; TikTok settles $100m lawsuit with Alabama over safety claims.",
+            "url": "https://www.aljazeera.com/news/2026/9/26/facebook-found-liable-as-tiktok-settles-for-100m-over-user-safety?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 01:26:21 +0000",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pro-Imran Khan rally delayed amid government closures",
+            "description": "Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 00:38:34 +0000",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-26T05:12:56+03:30"
+        }
+    ]
+}
