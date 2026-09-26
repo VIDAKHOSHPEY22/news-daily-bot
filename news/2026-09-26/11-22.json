@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-26T11:22:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A single function Jev-like wrapper for LLMs, including vision models",
+            "description": "<p>Article URL: <a href=\"http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html\">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49853175\">https://news.ycombinator.com/item?id=49853175</a></p>\n<p>Points: 47</p>\n<p># Comments: 4</p>",
+            "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+            "published": "Sat, 26 Sep 2026 04:20:58 +0000",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We're gonna need a lot more mathematicians",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/\">https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49852717\">https://news.ycombinator.com/item?id=49852717</a></p>\n<p>Points: 93</p>\n<p># Comments: 89</p>",
+            "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+            "published": "Sat, 26 Sep 2026 02:46:54 +0000",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "HomelabFest will be in St. Louis in September 2027",
+            "description": "<p>Article URL: <a href=\"https://www.homelabfest.org\">https://www.homelabfest.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49852462\">https://news.ycombinator.com/item?id=49852462</a></p>\n<p>Points: 22</p>\n<p># Comments: 10</p>",
+            "url": "https://www.homelabfest.org",
+            "published": "Sat, 26 Sep 2026 02:03:24 +0000",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
+            "description": "Premier League clubs are seeking legal advice as to whether they would have a case for financial compensation as a result of City's breaches.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 20:13:53 GMT",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The computer hacker who tried to take down Man City",
+            "description": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 05:56:40 GMT",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "OpenAI bots meddled with multiple US government agency sites",
+            "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+            "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 02:50:56 GMT",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yuki Kurihara, Japan’s 11-year-old e-sports prodigy, wins Asian Games gold",
+            "description": "Gold medallist Yuki Kurihara, a primary school student, is youngest athlete in host country Japan&#039;s Asian Games history.",
+            "url": "https://www.aljazeera.com/sports/2026/9/26/yuki-kurihara-esports-gold-medal-japan-asian-games-2026-aichi-nagoya?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 07:33:25 +0000",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+            "description": "Three years of Israel&#039;s war has left families in Gaza living in damaged buildings, with few safe alternatives available.",
+            "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 05:25:23 +0000",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US",
+            "description": "A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.",
+            "url": "https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss",
+            "published": "Sat, 26 Sep 2026 05:23:09 +0000",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-26T11:22:01+03:30"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-26 10:58:43
+**Last Update:** 2026-09-26 11:22:01
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html">http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49853175">https://news.ycombinator.com/item?id=49853175</a></p>
-<p>Points: 43</p>
+<p>Points: 47</p>
 <p># Comments: 4</p>
 
 🔗 **Read more:** [http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/">https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49852717">https://news.ycombinator.com/item?id=49852717</a></p>
-<p>Points: 89</p>
-<p># Comments: 86</p>
+<p>Points: 93</p>
+<p># Comments: 89</p>
 
 🔗 **Read more:** [https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.homelabfest.org">https://www.homelabfest.org</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49852462">https://news.ycombinator.com/item?id=49852462</a></p>
-<p>Points: 19</p>
+<p>Points: 22</p>
 <p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.homelabfest.org](https://www.homelabfest.org)
@@ -97,7 +97,20 @@ OpenAI said its bots accessed public data from a range of institutions during te
 
 ---
 
-### 7. ‘Nowhere else to go’: Gaza families shelter in buildings that may collapse
+### 7. Yuki Kurihara, Japan’s 11-year-old e-sports prodigy, wins Asian Games gold
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Gold medallist Yuki Kurihara, a primary school student, is youngest athlete in host country Japan&#039;s Asian Games history.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/26/yuki-kurihara-esports-gold-medal-japan-asian-games-2026-aichi-nagoya?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/26/yuki-kurihara-esports-gold-medal-japan-asian-games-2026-aichi-nagoya?traffic_source=rss)
+
+---
+
+### 8. ‘Nowhere else to go’: Gaza families shelter in buildings that may collapse
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Three years of Israel&#039;s war has left families in Gaza living in damaged bui
 
 ---
 
-### 8. Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US
+### 9. Huckabee blames ‘biblical illiteracy’ for waning support for Israel in US
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Three years of Israel&#039;s war has left families in Gaza living in damaged bui
 A Pew Research poll in April indicated 60 percent of the US adult population held an unfavourable view of Israel.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/huckabee-blames-biblical-illiteracy-for-declining-us-support-for-israel?traffic_source=rss)
-
----
-
-### 9. ‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss](https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss)
 
 ---
 
