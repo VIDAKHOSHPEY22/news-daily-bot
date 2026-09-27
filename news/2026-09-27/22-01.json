@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T22:01:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=-Nvne3LzBls\">https://www.youtube.com/watch?v=-Nvne3LzBls</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49868831\">https://news.ycombinator.com/item?id=49868831</a></p>\n<p>Points: 80</p>\n<p># Comments: 11</p>",
+            "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+            "published": "Sun, 27 Sep 2026 17:32:02 +0000",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ember-1",
+            "description": "<p>Article URL: <a href=\"https://fireworks.ai/blog/ember-1\">https://fireworks.ai/blog/ember-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49868830\">https://news.ycombinator.com/item?id=49868830</a></p>\n<p>Points: 52</p>\n<p># Comments: 13</p>",
+            "url": "https://fireworks.ai/blog/ember-1",
+            "published": "Sun, 27 Sep 2026 17:31:53 +0000",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There are no \"rogue\" AI agents",
+            "description": "<p>Article URL: <a href=\"https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents\">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49868083\">https://news.ycombinator.com/item?id=49868083</a></p>\n<p>Points: 169</p>\n<p># Comments: 108</p>",
+            "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+            "published": "Sun, 27 Sep 2026 16:19:46 +0000",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF base counter-terror investigation",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 18:12:55 GMT",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham proposes NHS-style social care system for England",
+            "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+            "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 13:48:05 GMT",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+            "description": "The dispute over the controversial parade is a reminder that the peace process is not over.",
+            "url": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 14:07:17 GMT",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Iran ready for doomsday war’, FM Araghchi says",
+            "description": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 17:46:04 +0000",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+            "description": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 17:42:45 +0000",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
+            "description": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 17:29:50 +0000",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T22:01:29+03:30"
+        }
+    ]
+}

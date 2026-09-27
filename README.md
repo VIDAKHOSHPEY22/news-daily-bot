@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 20:21:46
+**Last Update:** 2026-09-27 22:01:29
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Mars Delusion
+### 1. SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.noemamag.com/the-mars-delusion/">https://www.noemamag.com/the-mars-delusion/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867943">https://news.ycombinator.com/item?id=49867943</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.youtube.com/watch?v=-Nvne3LzBls">https://www.youtube.com/watch?v=-Nvne3LzBls</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868831">https://news.ycombinator.com/item?id=49868831</a></p>
+<p>Points: 80</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.noemamag.com/the-mars-delusion/](https://www.noemamag.com/the-mars-delusion/)
+🔗 **Read more:** [https://www.youtube.com/watch?v=-Nvne3LzBls](https://www.youtube.com/watch?v=-Nvne3LzBls)
 
 ---
 
-### 2. Show HN: TinyAIArena watch AI agents battle it out
+### 2. Ember-1
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!<p>Click on any of the matches to spectate them.<p>Code: <a href="https://github.com/hp6/ai-arena" rel="nofollow">https://github.com/hp6/ai-arena</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867775">https://news.ycombinator.com/item?id=49867775</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://fireworks.ai/blog/ember-1">https://fireworks.ai/blog/ember-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868830">https://news.ycombinator.com/item?id=49868830</a></p>
+<p>Points: 52</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://tinyaiarena.com/](https://tinyaiarena.com/)
+🔗 **Read more:** [https://fireworks.ai/blog/ember-1](https://fireworks.ai/blog/ember-1)
 
 ---
 
-### 3. postmarketOS Rebrand: Nura
+### 3. There are no "rogue" AI agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nura.eco/blog/2026/09/27/nura-rename/">https://nura.eco/blog/2026/09/27/nura-rename/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867553">https://news.ycombinator.com/item?id=49867553</a></p>
-<p>Points: 35</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868083">https://news.ycombinator.com/item?id=49868083</a></p>
+<p>Points: 169</p>
+<p># Comments: 108</p>
 
-🔗 **Read more:** [https://nura.eco/blog/2026/09/27/nura-rename/](https://nura.eco/blog/2026/09/27/nura-rename/)
+🔗 **Read more:** [https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
 
 ---
 
@@ -98,42 +97,42 @@ The dispute over the controversial parade is a reminder that the peace process i
 
 ---
 
-### 7. Muslims protest planned demolition of ‘600-year-old’ mosque in India
+### 7. ‘Iran ready for doomsday war’, FM Araghchi says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of Muslims have gathered in the Indian city of Ujjain to protest the partial demolition of a historic mosque.
+Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/muslims-protest-planned-demolition-of-600-year-old-mosque-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/muslims-protest-planned-demolition-of-600-year-old-mosque-in-india?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss)
 
 ---
 
-### 8. Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations
+### 8. Mike Waltz: US offered to sell Iran uranium for civilian programme
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Relations strain further as Afghanistan and Pakistan trade accusations over terrorism and cross-border violence.
+US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss)
 
 ---
 
-### 9. LIVE: Norway vs Portugal – Nations League
+### 9. One month after Nepal’s catastrophic floods, thousands remain missing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates as Norway host Portugal for a Group A4 clash, including the build-up, analysis and live text commentary.
+A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss)
 
 ---
 
