@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T15:23:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.25021\">https://arxiv.org/abs/2609.25021</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49865343\">https://news.ycombinator.com/item?id=49865343</a></p>\n<p>Points: 28</p>\n<p># Comments: 20</p>",
+            "url": "https://arxiv.org/abs/2609.25021",
+            "published": "Sun, 27 Sep 2026 10:26:25 +0000",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: LightCloud – A cloud console organised like file system",
+            "description": "<p>Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49865067\">https://news.ycombinator.com/item?id=49865067</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://www.light-cloud.com/",
+            "published": "Sun, 27 Sep 2026 09:45:15 +0000",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/\">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49864642\">https://news.ycombinator.com/item?id=49864642</a></p>\n<p>Points: 211</p>\n<p># Comments: 122</p>",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+            "published": "Sun, 27 Sep 2026 08:44:04 +0000",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham proposes NHS-style social care system for England",
+            "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+            "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 11:16:53 GMT",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Broken social care will in the end break the NHS,' says Burnham",
+            "description": "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.",
+            "url": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 09:52:49 GMT",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ten NHS staff removed over Noah Woods data breach",
+            "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 11:08:10 GMT",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+            "description": "Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 11:04:30 +0000",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
+            "description": "In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.",
+            "url": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 10:26:21 +0000",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+            "description": "Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 10:01:33 +0000",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T15:23:09+03:30"
+        }
+    ]
+}

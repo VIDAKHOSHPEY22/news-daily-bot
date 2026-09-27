@@ -1,77 +1,91 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 11:52:23
+**Last Update:** 2026-09-27 15:23:09
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kidnapping kids remains legal in USA, this site has you experience it first-hand
+### 1. "As a Language Model": Chat Template Switches LLM Self-Referential Voice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://elan.school/">https://elan.school/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864064">https://news.ycombinator.com/item?id=49864064</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.com/item?id=49865343</a></p>
+<p>Points: 28</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://elan.school/](https://elan.school/)
+🔗 **Read more:** [https://arxiv.org/abs/2609.25021](https://arxiv.org/abs/2609.25021)
 
 ---
 
-### 2. OpenAI Feared "Optics" of what might appear on Hacker News
+### 2. Show HN: LightCloud – A cloud console organised like file system
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863864">https://news.ycombinator.com/item?id=49863864</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865067">https://news.ycombinator.com/item?id=49865067</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+🔗 **Read more:** [https://www.light-cloud.com/](https://www.light-cloud.com/)
 
 ---
 
-### 3. What is the size of Yemen? (2024)
+### 3. Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theborys.substack.com/p/what-is-the-size-of-yemen">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862809">https://news.ycombinator.com/item?id=49862809</a></p>
-<p>Points: 145</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864642">https://news.ycombinator.com/item?id=49864642</a></p>
+<p>Points: 211</p>
+<p># Comments: 122</p>
 
-🔗 **Read more:** [https://theborys.substack.com/p/what-is-the-size-of-yemen](https://theborys.substack.com/p/what-is-the-size-of-yemen)
+🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
 
 ---
 
-### 4. Men arrested and houses evacuated in major incident near RAF Fairford
+### 4. Burnham proposes NHS-style social care system for England
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A major incident is declared and villagers have been evacuated from their homes in Whelford near RAF Fairford.
+The prime minister told the BBC that social care in England is "as unfair as American healthcare".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Ten NHS staff removed over Noah Woods data breach
+### 5. 'Broken social care will in the end break the NHS,' says Burnham
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Ten NHS staff removed over Noah Woods data breach
 
 **Source:** BBC
 
@@ -84,55 +98,42 @@ East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgen
 
 ---
 
-### 6. Faisal Islam: The two big calls the chancellor has to make ahead of the Budget
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Israel’s Netanyahu criticises opposition uniting against him for election
+### 7. ‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Five opposition leaders agree to cooperate to boost voter turnout to secure a majority in the October 27 elections.
+Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss)
 
 ---
 
-### 8. Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark
+### 8. ‘My hands are empty’: Displaced Palestinians struggle to survive
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iceland’s FM hit back at Netanyahu after he called diplomats who walked out of his UN address ‘moral cowards’.
+In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss](https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss)
 
 ---
 
-### 9. Photos: Heavy rains and flooding in Bangkok force thousands into shelters
+### 9. Israeli minister Bezalel Smotrich calls for war in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Continuous downpours have hammered several areas of Thailand’s capital.
+Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
