@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 15:23:09
+**Last Update:** 2026-09-27 17:36:58
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,27 +19,26 @@
 **Description:**
 <p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.com/item?id=49865343</a></p>
-<p>Points: 28</p>
-<p># Comments: 20</p>
+<p>Points: 69</p>
+<p># Comments: 67</p>
 
 🔗 **Read more:** [https://arxiv.org/abs/2609.25021](https://arxiv.org/abs/2609.25021)
 
 ---
 
-### 2. Show HN: LightCloud – A cloud console organised like file system
+### 2. Rusty thoughts on "Parse, don't validate"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865067">https://news.ycombinator.com/item?id=49865067</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/">https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864743">https://news.ycombinator.com/item?id=49864743</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.light-cloud.com/](https://www.light-cloud.com/)
+🔗 **Read more:** [https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
 
 ---
 
@@ -52,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864642">https://news.ycombinator.com/item?id=49864642</a></p>
-<p>Points: 211</p>
-<p># Comments: 122</p>
+<p>Points: 303</p>
+<p># Comments: 216</p>
 
 🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
 
@@ -98,42 +97,42 @@ East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgen
 
 ---
 
-### 7. ‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?
+### 7. US installation commemorates victims of South African ‘white genocide’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency.
+Memorial crosses installed in the US have revived erroneous claims of a ‘white genocide’ against farmers in South Africa
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss)
 
 ---
 
-### 8. ‘My hands are empty’: Displaced Palestinians struggle to survive
+### 8. Ethiopians celebrate Meskel and call for peace amid fighting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.
+Ethiopians celebrate Meskel and call for peace amid fighting
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss](https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss)
 
 ---
 
-### 9. Israeli minister Bezalel Smotrich calls for war in occupied West Bank
+### 9. ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.
+Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T17:36:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.25021\">https://arxiv.org/abs/2609.25021</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49865343\">https://news.ycombinator.com/item?id=49865343</a></p>\n<p>Points: 69</p>\n<p># Comments: 67</p>",
+            "url": "https://arxiv.org/abs/2609.25021",
+            "published": "Sun, 27 Sep 2026 10:26:25 +0000",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Rusty thoughts on \"Parse, don't validate\"",
+            "description": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/\">https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49864743\">https://news.ycombinator.com/item?id=49864743</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+            "published": "Sun, 27 Sep 2026 08:59:59 +0000",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/\">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49864642\">https://news.ycombinator.com/item?id=49864642</a></p>\n<p>Points: 303</p>\n<p># Comments: 216</p>",
+            "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+            "published": "Sun, 27 Sep 2026 08:44:04 +0000",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham proposes NHS-style social care system for England",
+            "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+            "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 13:48:05 GMT",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Broken social care will in the end break the NHS,' says Burnham",
+            "description": "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.",
+            "url": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 09:52:49 GMT",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ten NHS staff removed over Noah Woods data breach",
+            "description": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 13:25:27 GMT",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US installation commemorates victims of South African ‘white genocide’",
+            "description": "Memorial crosses installed in the US have revived erroneous claims of a ‘white genocide’ against farmers in South Africa",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 13:49:28 +0000",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ethiopians celebrate Meskel and call for peace amid fighting",
+            "description": "Ethiopians celebrate Meskel and call for peace amid fighting",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 13:34:49 +0000",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
+            "description": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 13:17:53 +0000",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T17:36:58+03:30"
+        }
+    ]
+}
