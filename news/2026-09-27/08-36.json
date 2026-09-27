@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T08:36:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If we do not stop to help each other, what do we become?",
+            "description": "<p>Article URL: <a href=\"https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/\">https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49863062\">https://news.ycombinator.com/item?id=49863062</a></p>\n<p>Points: 80</p>\n<p># Comments: 17</p>",
+            "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+            "published": "Sun, 27 Sep 2026 03:20:46 +0000",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What is the size of Yemen? (2024)",
+            "description": "<p>Article URL: <a href=\"https://theborys.substack.com/p/what-is-the-size-of-yemen\">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49862809\">https://news.ycombinator.com/item?id=49862809</a></p>\n<p>Points: 60</p>\n<p># Comments: 9</p>",
+            "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+            "published": "Sun, 27 Sep 2026 02:40:26 +0000",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+            "description": "<p>Article URL: <a href=\"https://swarmcha.se/posts/openai-unctad\">https://swarmcha.se/posts/openai-unctad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49862299\">https://news.ycombinator.com/item?id=49862299</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
+            "url": "https://swarmcha.se/posts/openai-unctad",
+            "published": "Sun, 27 Sep 2026 01:08:07 +0000",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
+            "description": "The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of legal challenges.",
+            "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 04:15:40 GMT",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
+            "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+            "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 05:00:42 GMT",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+            "description": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
+            "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 23:00:42 GMT",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Detained Tunisian flotilla activists: Worsening health amid family anguish",
+            "description": "As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 03:51:46 +0000",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "German, Russian foreign ministers hold rare talks amid rising tensions",
+            "description": "Russia&#039;s Lavrov dismisses Wadephul&#039;s call to abandon &#039;dangerous path of escalation&#039; with Europe.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 03:36:19 +0000",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangkok declared disaster zone after heavy rains submerge roads",
+            "description": "Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 03:33:13 +0000",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T08:36:22+03:30"
+        }
+    ]
+}

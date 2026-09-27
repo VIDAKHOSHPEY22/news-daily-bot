@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 05:04:47
+**Last Update:** 2026-09-27 08:36:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI (2015)
+### 1. If we do not stop to help each other, what do we become?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/introducing-openai/">https://openai.com/index/introducing-openai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862120">https://news.ycombinator.com/item?id=49862120</a></p>
-<p>Points: 3</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/">https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863062">https://news.ycombinator.com/item?id=49863062</a></p>
+<p>Points: 80</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://openai.com/index/introducing-openai/](https://openai.com/index/introducing-openai/)
+🔗 **Read more:** [https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
 
 ---
 
-### 2. Sousveillance
+### 2. What is the size of Yemen? (2024)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Sousveillance">https://en.wikipedia.org/wiki/Sousveillance</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49861992">https://news.ycombinator.com/item?id=49861992</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://theborys.substack.com/p/what-is-the-size-of-yemen">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862809">https://news.ycombinator.com/item?id=49862809</a></p>
+<p>Points: 60</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Sousveillance](https://en.wikipedia.org/wiki/Sousveillance)
+🔗 **Read more:** [https://theborys.substack.com/p/what-is-the-size-of-yemen](https://theborys.substack.com/p/what-is-the-size-of-yemen)
 
 ---
 
-### 3. Welcome to the Medical Clinic at the Interplanetary Relay Station
+### 3. OpenAI agents tried to bruteforce a UN website's API fields
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/">https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49860074">https://news.ycombinator.com/item?id=49860074</a></p>
-<p>Points: 44</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://swarmcha.se/posts/openai-unctad">https://swarmcha.se/posts/openai-unctad</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862299">https://news.ycombinator.com/item?id=49862299</a></p>
+<p>Points: 13</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/](https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/)
+🔗 **Read more:** [https://swarmcha.se/posts/openai-unctad](https://swarmcha.se/posts/openai-unctad)
 
 ---
 
-### 4. Burnham announces scheme to help first-time buyers on to housing ladder
+### 4. Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of legal challenges.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham announces scheme to help first-time buyers on to housing ladder
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 The prime minister says he wants people without support from the "bank of mum and dad" to receive help.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Appeal court judges overturn ban on controversial Drumcree parade
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Court of Appeal overturned an earlier ban on the Orange Order parading down the mainly nationalist Garvaghy Road in Portadown for the first time since the late 1990s.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ He must consider the longevity of Iran war economic pressures and how to sustain
 
 ---
 
-### 7. Araghchi ignores Trump, waits for mediators’ response on Hormuz
+### 7. Detained Tunisian flotilla activists: Worsening health amid family anguish
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says it’s still waiting for an official response from the US on its proposal to reopen the Strait of Hormuz.
+As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Tehran awaits official response as Trump rejects Hormuz plan
+### 8. German, Russian foreign ministers hold rare talks amid rising tensions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president rejects Iran&#039;s seven-day plan to reopen the Strait of Hormuz, saying the deal is not &#039;acceptable&#039;.
+Russia&#039;s Lavrov dismisses Wadephul&#039;s call to abandon &#039;dangerous path of escalation&#039; with Europe.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss)
 
 ---
 
-### 9. Pezeshkian says Iran ‘no longer trusts talks with Washington’
+### 9. Bangkok declared disaster zone after heavy rains submerge roads
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.
+Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss)
 
 ---
 
