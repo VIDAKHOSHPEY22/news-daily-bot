@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 01:53:02
+**Last Update:** 2026-09-28 03:14:26
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lunar Terminator Paradox
+### 1. EV Sales Are Booming in Europe with Gasoline at $10 a Gallon
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs">https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870928">https://news.ycombinator.com/item?id=49870928</a></p>
+<p>Points: 37</p>
+<p># Comments: 37</p>
+
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs](https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs)
+
+---
+
+### 2. Lunar Terminator Paradox
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870837">https://news.ycombinator.com/item?id=49870837</a></p>
-<p>Points: 23</p>
-<p># Comments: 4</p>
+<p>Points: 32</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
 
 ---
 
-### 2. When did Google get so weird?
+### 3. My Recent Woodworking Projects
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sancho.bearblog.dev/google-weird/">https://sancho.bearblog.dev/google-weird/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870367">https://news.ycombinator.com/item?id=49870367</a></p>
-<p>Points: 399</p>
-<p># Comments: 199</p>
+<p>Article URL: <a href="https://notoriousbfg.com/recent-woodworking-projects/">https://notoriousbfg.com/recent-woodworking-projects/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870541">https://news.ycombinator.com/item?id=49870541</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://sancho.bearblog.dev/google-weird/](https://sancho.bearblog.dev/google-weird/)
-
----
-
-### 3. Alan Kay's answer to "Did the ENIAC have a BIOS"?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870070">https://news.ycombinator.com/item?id=49870070</a></p>
-<p>Points: 44</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
+🔗 **Read more:** [https://notoriousbfg.com/recent-woodworking-projects/](https://notoriousbfg.com/recent-woodworking-projects/)
 
 ---
 
@@ -84,55 +84,55 @@ Five men have been arrested as counter-terror police lead an investigation into 
 
 ---
 
-### 6. Burnham proposes NHS-style social care system for England
+### 6. Inside Yemen's front-line city as Houthis battle for control
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister told the BBC that social care in England is "as unfair as American healthcare".
+In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ireland defeats Israel in controversial UEFA Nations League match
+### 7. Pope pledges action on clergy child abuse in meeting with French survivors
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ireland&#039;s players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.
+Head of the Roman Catholic Church holds &#039;emotional&#039; two-hour meeting with seven abuse victims in French town of Lourdes.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss)
 
 ---
 
-### 8. Alleged rape on campus sparks violent protest at Indian university
+### 8. Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Student protests at an Indian university have turned violent following claims that a female student was raped on campus.
+Man City just got found guilty on 114 of 115 financial charges — but the story behind it is much more complex.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss)
 
 ---
 
-### 9. Floods inundate roads in southeastern Algeria
+### 9. Powerful storm floods US Northeast, causes power outages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.
+The nor&#039;easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss)
 
 ---
 
