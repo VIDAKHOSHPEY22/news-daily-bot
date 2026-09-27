@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T23:31:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Imp is a full port of DSPy to the BEAM",
+            "description": "<p><a href=\"https://hex.pm/packages/imp\" rel=\"nofollow\">https://hex.pm/packages/imp</a><p><a href=\"https://dspy.ai/current/\" rel=\"nofollow\">https://dspy.ai/current/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869995\">https://news.ycombinator.com/item?id=49869995</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/deepfates/imp",
+            "published": "Sun, 27 Sep 2026 19:28:23 +0000",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+            "description": "<p>Article URL: <a href=\"https://loficities.com/\">https://loficities.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869574\">https://news.ycombinator.com/item?id=49869574</a></p>\n<p>Points: 42</p>\n<p># Comments: 7</p>",
+            "url": "https://loficities.com/",
+            "published": "Sun, 27 Sep 2026 18:44:30 +0000",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+            "description": "<p><a href=\"https://en.wikipedia.org/wiki/John_Chowning\" rel=\"nofollow\">https://en.wikipedia.org/wiki/John_Chowning</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49869142\">https://news.ycombinator.com/item?id=49869142</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+            "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+            "published": "Sun, 27 Sep 2026 18:02:43 +0000",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF base counter-terror investigation",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 19:47:44 GMT",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham proposes NHS-style social care system for England",
+            "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+            "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 13:48:05 GMT",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+            "description": "The dispute over the controversial parade is a reminder that the peace process is not over.",
+            "url": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 14:07:17 GMT",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+            "description": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
+            "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 19:35:30 +0000",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
+            "description": "The billionaire cofounder of Microsoft says, without restrictions, AI could &#039;cause a billion deaths&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 19:34:42 +0000",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Stuck between Israeli military checkpoints",
+            "description": "Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 19:04:21 +0000",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T23:31:10+03:30"
+        }
+    ]
+}

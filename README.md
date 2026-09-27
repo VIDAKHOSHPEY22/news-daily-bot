@@ -1,60 +1,62 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 22:01:29
+**Last Update:** 2026-09-27 23:31:10
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]
+### 1. Imp is a full port of DSPy to the BEAM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=-Nvne3LzBls">https://www.youtube.com/watch?v=-Nvne3LzBls</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868831">https://news.ycombinator.com/item?id=49868831</a></p>
-<p>Points: 80</p>
-<p># Comments: 11</p>
+<p><a href="https://hex.pm/packages/imp" rel="nofollow">https://hex.pm/packages/imp</a><p><a href="https://dspy.ai/current/" rel="nofollow">https://dspy.ai/current/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869995">https://news.ycombinator.com/item?id=49869995</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=-Nvne3LzBls](https://www.youtube.com/watch?v=-Nvne3LzBls)
+🔗 **Read more:** [https://github.com/deepfates/imp](https://github.com/deepfates/imp)
 
 ---
 
-### 2. Ember-1
+### 2. Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://fireworks.ai/blog/ember-1">https://fireworks.ai/blog/ember-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868830">https://news.ycombinator.com/item?id=49868830</a></p>
-<p>Points: 52</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://loficities.com/">https://loficities.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869574">https://news.ycombinator.com/item?id=49869574</a></p>
+<p>Points: 42</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://fireworks.ai/blog/ember-1](https://fireworks.ai/blog/ember-1)
+🔗 **Read more:** [https://loficities.com/](https://loficities.com/)
 
 ---
 
-### 3. There are no "rogue" AI agents
+### 3. Oral history of John Chowning, inventor of FM synthesis [video]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49868083">https://news.ycombinator.com/item?id=49868083</a></p>
-<p>Points: 169</p>
-<p># Comments: 108</p>
+<p><a href="https://en.wikipedia.org/wiki/John_Chowning" rel="nofollow">https://en.wikipedia.org/wiki/John_Chowning</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869142">https://news.ycombinator.com/item?id=49869142</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
+🔗 **Read more:** [https://www.youtube.com/watch?v=e1Xn3030IvM](https://www.youtube.com/watch?v=e1Xn3030IvM)
 
 ---
 
@@ -97,42 +99,42 @@ The dispute over the controversial parade is a reminder that the peace process i
 
 ---
 
-### 7. ‘Iran ready for doomsday war’, FM Araghchi says
+### 7. Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.
+Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss)
 
 ---
 
-### 8. Mike Waltz: US offered to sell Iran uranium for civilian programme
+### 8. Bill Gates says AI without regulation is ‘completely irresponsible’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.
+The billionaire cofounder of Microsoft says, without restrictions, AI could &#039;cause a billion deaths&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss)
 
 ---
 
-### 9. One month after Nepal’s catastrophic floods, thousands remain missing
+### 9. Stuck between Israeli military checkpoints
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.
+Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss)
 
 ---
 
