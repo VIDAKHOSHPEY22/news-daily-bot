@@ -1,66 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 23:31:10
+**Last Update:** 2026-09-28 01:53:02
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Imp is a full port of DSPy to the BEAM
+### 1. Lunar Terminator Paradox
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://hex.pm/packages/imp" rel="nofollow">https://hex.pm/packages/imp</a><p><a href="https://dspy.ai/current/" rel="nofollow">https://dspy.ai/current/</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869995">https://news.ycombinator.com/item?id=49869995</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870837">https://news.ycombinator.com/item?id=49870837</a></p>
+<p>Points: 23</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://github.com/deepfates/imp](https://github.com/deepfates/imp)
+🔗 **Read more:** [https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
 
 ---
 
-### 2. Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi
+### 2. When did Google get so weird?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://loficities.com/">https://loficities.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869574">https://news.ycombinator.com/item?id=49869574</a></p>
-<p>Points: 42</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://sancho.bearblog.dev/google-weird/">https://sancho.bearblog.dev/google-weird/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870367">https://news.ycombinator.com/item?id=49870367</a></p>
+<p>Points: 399</p>
+<p># Comments: 199</p>
 
-🔗 **Read more:** [https://loficities.com/](https://loficities.com/)
+🔗 **Read more:** [https://sancho.bearblog.dev/google-weird/](https://sancho.bearblog.dev/google-weird/)
 
 ---
 
-### 3. Oral history of John Chowning, inventor of FM synthesis [video]
+### 3. Alan Kay's answer to "Did the ENIAC have a BIOS"?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://en.wikipedia.org/wiki/John_Chowning" rel="nofollow">https://en.wikipedia.org/wiki/John_Chowning</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49869142">https://news.ycombinator.com/item?id=49869142</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870070">https://news.ycombinator.com/item?id=49870070</a></p>
+<p>Points: 44</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=e1Xn3030IvM](https://www.youtube.com/watch?v=e1Xn3030IvM)
+🔗 **Read more:** [https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
 
 ---
 
-### 4. What we know about RAF base counter-terror investigation
+### 4. Five arrested as counter-terror police investigate major incident near RAF Fairford
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What we know about RAF Fairford counter-terror probe
 
 **Source:** BBC
 
@@ -73,7 +84,7 @@ Five men have been arrested as counter-terror police lead an investigation into 
 
 ---
 
-### 5. Burnham proposes NHS-style social care system for England
+### 6. Burnham proposes NHS-style social care system for England
 
 **Source:** BBC
 
@@ -86,55 +97,42 @@ The prime minister told the BBC that social care in England is "as unfair as Ame
 
 ---
 
-### 6. Orange Order march row goes to heart of ongoing divisions in Northern Ireland
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The dispute over the controversial parade is a reminder that the peace process is not over.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide
+### 7. Ireland defeats Israel in controversial UEFA Nations League match
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.
+Ireland&#039;s players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss)
 
 ---
 
-### 8. Bill Gates says AI without regulation is ‘completely irresponsible’
+### 8. Alleged rape on campus sparks violent protest at Indian university
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The billionaire cofounder of Microsoft says, without restrictions, AI could &#039;cause a billion deaths&#039;.
+Student protests at an Indian university have turned violent following claims that a female student was raped on campus.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss)
 
 ---
 
-### 9. Stuck between Israeli military checkpoints
+### 9. Floods inundate roads in southeastern Algeria
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.
+Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss)
 
 ---
 

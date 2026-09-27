@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-28T01:53:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lunar Terminator Paradox",
+            "description": "<p>Article URL: <a href=\"https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870837\">https://news.ycombinator.com/item?id=49870837</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+            "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+            "published": "Sun, 27 Sep 2026 21:06:17 +0000",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When did Google get so weird?",
+            "description": "<p>Article URL: <a href=\"https://sancho.bearblog.dev/google-weird/\">https://sancho.bearblog.dev/google-weird/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870367\">https://news.ycombinator.com/item?id=49870367</a></p>\n<p>Points: 399</p>\n<p># Comments: 199</p>",
+            "url": "https://sancho.bearblog.dev/google-weird/",
+            "published": "Sun, 27 Sep 2026 20:12:54 +0000",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+            "description": "<p>Article URL: <a href=\"https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11\">https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870070\">https://news.ycombinator.com/item?id=49870070</a></p>\n<p>Points: 44</p>\n<p># Comments: 17</p>",
+            "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+            "published": "Sun, 27 Sep 2026 19:37:05 +0000",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+            "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+            "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 20:10:51 GMT",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF Fairford counter-terror probe",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 19:47:44 GMT",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham proposes NHS-style social care system for England",
+            "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+            "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 13:48:05 GMT",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ireland defeats Israel in controversial UEFA Nations League match",
+            "description": "Ireland&#039;s players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.",
+            "url": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 21:41:59 +0000",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alleged rape on campus sparks violent protest at Indian university",
+            "description": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 21:17:05 +0000",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Floods inundate roads in southeastern Algeria",
+            "description": "Circulating footage showed significant flooding, following heavy rain in southeastern Algeria.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 21:03:47 +0000",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-28T01:53:02+03:30"
+        }
+    ]
+}
