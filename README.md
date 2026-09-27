@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 08:36:22
+**Last Update:** 2026-09-27 11:52:23
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. If we do not stop to help each other, what do we become?
+### 1. Kidnapping kids remains legal in USA, this site has you experience it first-hand
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/">https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863062">https://news.ycombinator.com/item?id=49863062</a></p>
-<p>Points: 80</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://elan.school/">https://elan.school/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864064">https://news.ycombinator.com/item?id=49864064</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
+🔗 **Read more:** [https://elan.school/](https://elan.school/)
 
 ---
 
-### 2. What is the size of Yemen? (2024)
+### 2. OpenAI Feared "Optics" of what might appear on Hacker News
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49863864">https://news.ycombinator.com/item?id=49863864</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+
+---
+
+### 3. What is the size of Yemen? (2024)
 
 **Source:** Hacker News
 
@@ -35,52 +51,36 @@
 **Description:**
 <p>Article URL: <a href="https://theborys.substack.com/p/what-is-the-size-of-yemen">https://theborys.substack.com/p/what-is-the-size-of-yemen</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862809">https://news.ycombinator.com/item?id=49862809</a></p>
-<p>Points: 60</p>
-<p># Comments: 9</p>
+<p>Points: 145</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://theborys.substack.com/p/what-is-the-size-of-yemen](https://theborys.substack.com/p/what-is-the-size-of-yemen)
 
 ---
 
-### 3. OpenAI agents tried to bruteforce a UN website's API fields
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://swarmcha.se/posts/openai-unctad">https://swarmcha.se/posts/openai-unctad</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49862299">https://news.ycombinator.com/item?id=49862299</a></p>
-<p>Points: 13</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://swarmcha.se/posts/openai-unctad](https://swarmcha.se/posts/openai-unctad)
-
----
-
-### 4. Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama
+### 4. Men arrested and houses evacuated in major incident near RAF Fairford
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of legal challenges.
+A major incident is declared and villagers have been evacuated from their homes in Whelford near RAF Fairford.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Burnham announces scheme to help first-time buyers on to housing ladder
+### 5. Ten NHS staff removed over Noah Woods data breach
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says he wants people without support from the "bank of mum and dad" to receive help.
+East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgent" investigation.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ He must consider the longevity of Iran war economic pressures and how to sustain
 
 ---
 
-### 7. Detained Tunisian flotilla activists: Worsening health amid family anguish
+### 7. Israel’s Netanyahu criticises opposition uniting against him for election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As activists’ health deteriorates, families describe the toll of separation, hunger strikes and uncertainty.
+Five opposition leaders agree to cooperate to boost voter turnout to secure a majority in the October 27 elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss)
 
 ---
 
-### 8. German, Russian foreign ministers hold rare talks amid rising tensions
+### 8. Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russia&#039;s Lavrov dismisses Wadephul&#039;s call to abandon &#039;dangerous path of escalation&#039; with Europe.
+Iceland’s FM hit back at Netanyahu after he called diplomats who walked out of his UN address ‘moral cowards’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss)
 
 ---
 
-### 9. Bangkok declared disaster zone after heavy rains submerge roads
+### 9. Photos: Heavy rains and flooding in Bangkok force thousands into shelters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.
+Continuous downpours have hammered several areas of Thailand’s capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss](https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss)
 
 ---
 
