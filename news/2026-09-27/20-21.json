@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-27T20:21:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Mars Delusion",
+            "description": "<p>Article URL: <a href=\"https://www.noemamag.com/the-mars-delusion/\">https://www.noemamag.com/the-mars-delusion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49867943\">https://news.ycombinator.com/item?id=49867943</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.noemamag.com/the-mars-delusion/",
+            "published": "Sun, 27 Sep 2026 16:06:04 +0000",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: TinyAIArena watch AI agents battle it out",
+            "description": "<p>Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!<p>Click on any of the matches to spectate them.<p>Code: <a href=\"https://github.com/hp6/ai-arena\" rel=\"nofollow\">https://github.com/hp6/ai-arena</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49867775\">https://news.ycombinator.com/item?id=49867775</a></p>\n<p>Points: 14</p>\n<p># Comments: 5</p>",
+            "url": "https://tinyaiarena.com/",
+            "published": "Sun, 27 Sep 2026 15:51:28 +0000",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "postmarketOS Rebrand: Nura",
+            "description": "<p>Article URL: <a href=\"https://nura.eco/blog/2026/09/27/nura-rename/\">https://nura.eco/blog/2026/09/27/nura-rename/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49867553\">https://news.ycombinator.com/item?id=49867553</a></p>\n<p>Points: 35</p>\n<p># Comments: 0</p>",
+            "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+            "published": "Sun, 27 Sep 2026 15:31:15 +0000",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF base counter-terror investigation",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 16:20:06 GMT",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham proposes NHS-style social care system for England",
+            "description": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+            "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 13:48:05 GMT",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+            "description": "The dispute over the controversial parade is a reminder that the peace process is not over.",
+            "url": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 14:07:17 GMT",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Muslims protest planned demolition of ‘600-year-old’ mosque in India",
+            "description": "Hundreds of Muslims have gathered in the Indian city of Ujjain to protest the partial demolition of a historic mosque.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/muslims-protest-planned-demolition-of-600-year-old-mosque-in-india?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 16:37:59 +0000",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+            "description": "Relations strain further as Afghanistan and Pakistan trade accusations over terrorism and cross-border violence.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 16:05:49 +0000",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Norway vs Portugal – Nations League",
+            "description": "Follow updates as Norway host Portugal for a Group A4 clash, including the build-up, analysis and live text commentary.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 16:00:35 +0000",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-27T20:21:46+03:30"
+        }
+    ]
+}

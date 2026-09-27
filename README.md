@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-27 17:36:58
+**Last Update:** 2026-09-27 20:21:46
 
 **Total News:** 12
 
@@ -10,55 +10,69 @@
 
 ## 📰 Latest News
 
-### 1. "As a Language Model": Chat Template Switches LLM Self-Referential Voice
+### 1. The Mars Delusion
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2609.25021">https://arxiv.org/abs/2609.25021</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49865343">https://news.ycombinator.com/item?id=49865343</a></p>
-<p>Points: 69</p>
-<p># Comments: 67</p>
+<p>Article URL: <a href="https://www.noemamag.com/the-mars-delusion/">https://www.noemamag.com/the-mars-delusion/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867943">https://news.ycombinator.com/item?id=49867943</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2609.25021](https://arxiv.org/abs/2609.25021)
+🔗 **Read more:** [https://www.noemamag.com/the-mars-delusion/](https://www.noemamag.com/the-mars-delusion/)
 
 ---
 
-### 2. Rusty thoughts on "Parse, don't validate"
+### 2. Show HN: TinyAIArena watch AI agents battle it out
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/">https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864743">https://news.ycombinator.com/item?id=49864743</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!<p>Click on any of the matches to spectate them.<p>Code: <a href="https://github.com/hp6/ai-arena" rel="nofollow">https://github.com/hp6/ai-arena</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867775">https://news.ycombinator.com/item?id=49867775</a></p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/)
+🔗 **Read more:** [https://tinyaiarena.com/](https://tinyaiarena.com/)
 
 ---
 
-### 3. Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
+### 3. postmarketOS Rebrand: Nura
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/">https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49864642">https://news.ycombinator.com/item?id=49864642</a></p>
-<p>Points: 303</p>
-<p># Comments: 216</p>
+<p>Article URL: <a href="https://nura.eco/blog/2026/09/27/nura-rename/">https://nura.eco/blog/2026/09/27/nura-rename/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49867553">https://news.ycombinator.com/item?id=49867553</a></p>
+<p>Points: 35</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/](https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/)
+🔗 **Read more:** [https://nura.eco/blog/2026/09/27/nura-rename/](https://nura.eco/blog/2026/09/27/nura-rename/)
 
 ---
 
-### 4. Burnham proposes NHS-style social care system for England
+### 4. What we know about RAF base counter-terror investigation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham proposes NHS-style social care system for England
 
 **Source:** BBC
 
@@ -71,68 +85,55 @@ The prime minister told the BBC that social care in England is "as unfair as Ame
 
 ---
 
-### 5. 'Broken social care will in the end break the NHS,' says Burnham
+### 6. Orange Order march row goes to heart of ongoing divisions in Northern Ireland
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.
+The dispute over the controversial parade is a reminder that the peace process is not over.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Ten NHS staff removed over Noah Woods data breach
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgent" investigation.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US installation commemorates victims of South African ‘white genocide’
+### 7. Muslims protest planned demolition of ‘600-year-old’ mosque in India
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Memorial crosses installed in the US have revived erroneous claims of a ‘white genocide’ against farmers in South Africa
+Hundreds of Muslims have gathered in the Indian city of Ujjain to protest the partial demolition of a historic mosque.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/us-installation-commemorates-victims-of-south-african-white?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/muslims-protest-planned-demolition-of-600-year-old-mosque-in-india?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/muslims-protest-planned-demolition-of-600-year-old-mosque-in-india?traffic_source=rss)
 
 ---
 
-### 8. Ethiopians celebrate Meskel and call for peace amid fighting
+### 8. Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ethiopians celebrate Meskel and call for peace amid fighting
+Relations strain further as Afghanistan and Pakistan trade accusations over terrorism and cross-border violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/27/ethiopians-celebrate-meskel-and-call-for-peace-amid-fighting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss)
 
 ---
 
-### 9. ‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?
+### 9. LIVE: Norway vs Portugal – Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.
+Follow updates as Norway host Portugal for a Group A4 clash, including the build-up, analysis and live text commentary.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss)
 
 ---
 
