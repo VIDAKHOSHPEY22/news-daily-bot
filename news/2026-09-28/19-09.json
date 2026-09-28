@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-28T19:09:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jensen Huang says AI distillation is 'competition.'",
+            "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html\">https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879032\">https://news.ycombinator.com/item?id=49879032</a></p>\n<p>Points: 26</p>\n<p># Comments: 11</p>",
+            "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+            "published": "Mon, 28 Sep 2026 14:55:34 +0000",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MongoDB CEO resigns \"effective immediately\" to join Meta, stock drops 20%",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/\">https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49879000\">https://news.ycombinator.com/item?id=49879000</a></p>\n<p>Points: 17</p>\n<p># Comments: 11</p>",
+            "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+            "published": "Mon, 28 Sep 2026 14:54:21 +0000",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
+            "description": "<p>Article URL: <a href=\"https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\">https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49878900\">https://news.ycombinator.com/item?id=49878900</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+            "published": "Mon, 28 Sep 2026 14:48:44 +0000",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF Fairford counter-terror probe",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 14:37:17 GMT",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+            "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
+            "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 15:37:59 GMT",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK diesel price hits all-time high, the RAC says",
+            "description": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 10:00:18 GMT",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
+            "description": "Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 15:29:48 +0000",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "SpaceX’s showpiece Starship rocket reaches orbit for first time",
+            "description": "Founder Elon Musk&#039;s rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 15:25:38 +0000",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound",
+            "description": "Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 14:03:55 +0000",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-28T19:09:57+03:30"
+        }
+    ]
+}

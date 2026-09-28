@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 17:09:47
+**Last Update:** 2026-09-28 19:09:57
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Hntui – A TUI for Hacker News
+### 1. Jensen Huang says AI distillation is 'competition.'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49876760">https://news.ycombinator.com/item?id=49876760</a></p>
-<p>Points: 21</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html">https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879032">https://news.ycombinator.com/item?id=49879032</a></p>
+<p>Points: 26</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://github.com/ahmd-sh/hntui](https://github.com/ahmd-sh/hntui)
+🔗 **Read more:** [https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html](https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html)
 
 ---
 
-### 2. The smart home graveyard is getting crowded
+### 2. MongoDB CEO resigns "effective immediately" to join Meta, stock drops 20%
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard">https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49876373">https://news.ycombinator.com/item?id=49876373</a></p>
-<p>Points: 30</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/">https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879000">https://news.ycombinator.com/item?id=49879000</a></p>
+<p>Points: 17</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)
+🔗 **Read more:** [https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/](https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/)
 
 ---
 
-### 3. Parley: Federated, decentralised chat that speaks plain IRC
+### 3. What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://git.mills.io/prologic/parley">https://git.mills.io/prologic/parley</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49875913">https://news.ycombinator.com/item?id=49875913</a></p>
-<p>Points: 123</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/">https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49878900">https://news.ycombinator.com/item?id=49878900</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://git.mills.io/prologic/parley](https://git.mills.io/prologic/parley)
+🔗 **Read more:** [https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
 
 ---
 
-### 4. Watch: Were the RAF Fairford arrests 'pure luck'?
+### 4. What we know about RAF Fairford counter-terror probe
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Five men have been arrested on suspicion of explosive and terrorism offences after a major incident was declared at an airbase in the west of England.
+Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. UK diesel price hits all-time high, RAC says
+### 5. Best thing we can offer young people is a job, not benefits, says chancellor
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US-Israel war with Iran has caused fuel prices to soar.
+John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. UK diesel price hits all-time high, the RAC says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Thousands of illegal ghost plates on cars revealed by new cameras
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Sri Lanka’s Rumesh Pathirage wins Asian Games javelin gold
+### 7. Iran denies link to attack on airbase as UK minister warns of ‘proxies’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sri Lankan star ends incredible season with gold, while India&#039;s Yashvir Singh and Rohit Yadav take silver and bronze.
+Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/sri-lankas-rumesh-pathirage-wins-asian-games-javelin-gold?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/sri-lankas-rumesh-pathirage-wins-asian-games-javelin-gold?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss)
 
 ---
 
-### 8. Heavy rain triggers landslide in Nepal’s Mustang District
+### 8. SpaceX’s showpiece Starship rocket reaches orbit for first time
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Part of a mountain collapsed into a river in Nepal’s Mustang region, after heavy rains triggered flooding and landslides
+Founder Elon Musk&#039;s rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/heavy-rain-triggers-landslide-in-nepals-mustang-district?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/heavy-rain-triggers-landslide-in-nepals-mustang-district?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss)
 
 ---
 
-### 9. Thai police arrest jet skier after joyride through flooded Bangkok streets
+### 9. Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thai police arrest jet skier after joyride through flooded Bangkok streets
+Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/thai-police-arrest-jet-skier-after-joyride-through-flooded-bangkok-streets?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/thai-police-arrest-jet-skier-after-joyride-through-flooded-bangkok-streets?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss)
 
 ---
 
