@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 04:26:08
+**Last Update:** 2026-09-28 08:38:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lunar Terminator Paradox
+### 1. Thinking Fast and Slow in AI: The Role of Metacognition
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870837">https://news.ycombinator.com/item?id=49870837</a></p>
-<p>Points: 41</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2110.01834">https://arxiv.org/abs/2110.01834</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49873241">https://news.ycombinator.com/item?id=49873241</a></p>
+<p>Points: 18</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html)
+🔗 **Read more:** [https://arxiv.org/abs/2110.01834](https://arxiv.org/abs/2110.01834)
 
 ---
 
-### 2. My Recent Woodworking Projects
+### 2. Microsoft drops Copilot+ branding from its new laptops
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://notoriousbfg.com/recent-woodworking-projects/">https://notoriousbfg.com/recent-woodworking-projects/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870541">https://news.ycombinator.com/item?id=49870541</a></p>
-<p>Points: 23</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding">https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872980">https://news.ycombinator.com/item?id=49872980</a></p>
+<p>Points: 27</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://notoriousbfg.com/recent-woodworking-projects/](https://notoriousbfg.com/recent-woodworking-projects/)
+🔗 **Read more:** [https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding](https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding)
 
 ---
 
-### 3. Show HN: Cartopolis, interactive globe-sized 3D world
+### 3. Nissan's third generation e-POWER powertrain
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://code.garage44.eu/jeroen/cartopolis">https://code.garage44.eu/jeroen/cartopolis</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49870394">https://news.ycombinator.com/item?id=49870394</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/">https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872883">https://news.ycombinator.com/item?id=49872883</a></p>
+<p>Points: 22</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://code.garage44.eu/jeroen/cartopolis](https://code.garage44.eu/jeroen/cartopolis)
+🔗 **Read more:** [https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
 
 ---
 
@@ -97,46 +97,59 @@ Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party 
 
 ---
 
-### 7. Refugees in South Africa fear new attacks as September 30 deadline looms
+### 7. Serbia’s president resigns to run for prime minister
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp.
+Serbia’s Aleksandar Vucic has resigned as president and will lead his ruling party into a snap parliamentary election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions
+### 8. 14 killed, a dozen missing as Nepal is hit by more floods and landslides
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Abbas Araghchi&#039;s warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.
+At least 14 people have been killed and 11 remain missing after heavy rain triggered floods and landslides across Nepal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss)
 
 ---
 
-### 9. Pope pledges action on clergy child abuse in meeting with French survivors
+### 9. Anthropic CEO Amodei to have dinner with Trump at White House
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Head of the Roman Catholic Church holds &#039;emotional&#039; two-hour meeting with seven survivors in French town of Lourdes.
+Private dinner will be the first one-on-one meeting between the two men, according to reports.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss](https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Gonzalo
+### 10. Tropical Storm Rachel
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875)
+
+---
+
+### 11. Tropical Storm Gonzalo
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Hurricane Nolo
+### 12. Hurricane Nolo
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
-
----
-
-### 12. Typhoon Surigae
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787)
 
 ---
 

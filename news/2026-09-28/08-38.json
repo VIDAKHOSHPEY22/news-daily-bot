@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-28T08:38:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2110.01834\">https://arxiv.org/abs/2110.01834</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49873241\">https://news.ycombinator.com/item?id=49873241</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://arxiv.org/abs/2110.01834",
+            "published": "Mon, 28 Sep 2026 03:23:53 +0000",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft drops Copilot+ branding from its new laptops",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding\">https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872980\">https://news.ycombinator.com/item?id=49872980</a></p>\n<p>Points: 27</p>\n<p># Comments: 9</p>",
+            "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+            "published": "Mon, 28 Sep 2026 02:46:27 +0000",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nissan's third generation e-POWER powertrain",
+            "description": "<p>Article URL: <a href=\"https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\">https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49872883\">https://news.ycombinator.com/item?id=49872883</a></p>\n<p>Points: 22</p>\n<p># Comments: 20</p>",
+            "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+            "published": "Mon, 28 Sep 2026 02:31:23 +0000",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+            "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+            "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 20:10:51 GMT",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF Fairford counter-terror probe",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 19:47:44 GMT",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Protesters disperse after blocking contentious Orange Order parade",
+            "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 03:27:56 GMT",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbia’s president resigns to run for prime minister",
+            "description": "Serbia’s Aleksandar Vucic has resigned as president and will lead his ruling party into a snap parliamentary election.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 04:50:46 +0000",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
+            "description": "At least 14 people have been killed and 11 remain missing after heavy rain triggered floods and landslides across Nepal.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 04:44:12 +0000",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
+            "description": "Private dinner will be the first one-on-one meeting between the two men, according to reports.",
+            "url": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 02:57:28 +0000",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-28T08:38:26+03:30"
+        }
+    ]
+}
