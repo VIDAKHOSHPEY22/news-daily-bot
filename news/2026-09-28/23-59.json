@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-28T23:59:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "California expanded the right to delete today",
+            "description": "<p>Article URL: <a href=\"https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed\">https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883345\">https://news.ycombinator.com/item?id=49883345</a></p>\n<p>Points: 18</p>\n<p># Comments: 6</p>",
+            "url": "https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed",
+            "published": "Mon, 28 Sep 2026 19:44:49 +0000",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+            "description": "<p>Article URL: <a href=\"https://blog.plcred.org/3mwlphq42d227\">https://blog.plcred.org/3mwlphq42d227</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883159\">https://news.ycombinator.com/item?id=49883159</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.plcred.org/3mwlphq42d227",
+            "published": "Mon, 28 Sep 2026 19:27:45 +0000",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Neal Stephenson responds with wit and humor (2004)",
+            "description": "<p>Article URL: <a href=\"https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor\">https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882894\">https://news.ycombinator.com/item?id=49882894</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+            "url": "https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor",
+            "published": "Mon, 28 Sep 2026 19:06:16 +0000",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five men arrested in RAF Fairford incident released on police bail",
+            "description": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 19:16:26 GMT",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+            "description": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
+            "url": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 19:28:54 GMT",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK tries to stop Trump's diesel export ban",
+            "description": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 17:00:52 GMT",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Apple ordered to pay $5.7bn in patent infringement case",
+            "description": "California jury finds Apple infringed two Taction patents but did not wilfully violate them; Apple plans to appeal.",
+            "url": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 20:11:30 +0000",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump announces $15bn steel mill project in Iowa before US midterms",
+            "description": "Amid tight Iowa midterm races, US President Trump emphasises steel industry revival with a project announcement.",
+            "url": "https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 20:04:27 +0000",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nepal hit by deadly floods, landslides, and avalanche",
+            "description": "Heavy rain triggered deadly floods and landslides across Nepal, while an avalanche left 12 workers missing.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 19:59:36 +0000",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-28T23:59:39+03:30"
+        }
+    ]
+}

@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 19:09:57
+**Last Update:** 2026-09-28 23:59:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Jensen Huang says AI distillation is 'competition.'
+### 1. California expanded the right to delete today
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html">https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879032">https://news.ycombinator.com/item?id=49879032</a></p>
-<p>Points: 26</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed">https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49883345">https://news.ycombinator.com/item?id=49883345</a></p>
+<p>Points: 18</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html](https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html)
+🔗 **Read more:** [https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed](https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed)
 
 ---
 
-### 2. MongoDB CEO resigns "effective immediately" to join Meta, stock drops 20%
+### 2. First Steps of the PLC Organization – Independent Public Ledger of Credentials
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/">https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49879000">https://news.ycombinator.com/item?id=49879000</a></p>
-<p>Points: 17</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://blog.plcred.org/3mwlphq42d227">https://blog.plcred.org/3mwlphq42d227</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49883159">https://news.ycombinator.com/item?id=49883159</a></p>
+<p>Points: 13</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/](https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/)
+🔗 **Read more:** [https://blog.plcred.org/3mwlphq42d227](https://blog.plcred.org/3mwlphq42d227)
 
 ---
 
-### 3. What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators
+### 3. Neal Stephenson responds with wit and humor (2004)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/">https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49878900">https://news.ycombinator.com/item?id=49878900</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor">https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49882894">https://news.ycombinator.com/item?id=49882894</a></p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
+🔗 **Read more:** [https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor](https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor)
 
 ---
 
-### 4. What we know about RAF Fairford counter-terror probe
+### 4. Five men arrested in RAF Fairford incident released on police bail
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.
+Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Best thing we can offer young people is a job, not benefits, says chancellor
+### 5. Watch: RAF Fairford suspects are bailed, what happens now?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.
+The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UK diesel price hits all-time high, the RAC says
+### 6. UK tries to stop Trump's diesel export ban
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.
+John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran denies link to attack on airbase as UK minister warns of ‘proxies’
+### 7. Apple ordered to pay $5.7bn in patent infringement case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;.
+California jury finds Apple infringed two Taction patents but did not wilfully violate them; Apple plans to appeal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss)
 
 ---
 
-### 8. SpaceX’s showpiece Starship rocket reaches orbit for first time
+### 8. Trump announces $15bn steel mill project in Iowa before US midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Founder Elon Musk&#039;s rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.
+Amid tight Iowa midterm races, US President Trump emphasises steel industry revival with a project announcement.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss)
 
 ---
 
-### 9. Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound
+### 9. Nepal hit by deadly floods, landslides, and avalanche
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion.
+Heavy rain triggered deadly floods and landslides across Nepal, while an avalanche left 12 workers missing.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss](https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss)
 
 ---
 
