@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 10:34:55
+**Last Update:** 2026-09-28 17:09:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Thinking fast and slow in AI: The role of metacognition (2021)
+### 1. Show HN: Hntui – A TUI for Hacker News
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2110.01834">https://arxiv.org/abs/2110.01834</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49873241">https://news.ycombinator.com/item?id=49873241</a></p>
-<p>Points: 62</p>
-<p># Comments: 9</p>
+<p>hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i think you will too!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49876760">https://news.ycombinator.com/item?id=49876760</a></p>
+<p>Points: 21</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2110.01834](https://arxiv.org/abs/2110.01834)
+🔗 **Read more:** [https://github.com/ahmd-sh/hntui](https://github.com/ahmd-sh/hntui)
 
 ---
 
-### 2. TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14
+### 2. The smart home graveyard is getting crowded
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://efraingaray.com/en/blog/tabpfn-vs-xgboost/">https://efraingaray.com/en/blog/tabpfn-vs-xgboost/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872864">https://news.ycombinator.com/item?id=49872864</a></p>
-<p>Points: 16</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard">https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49876373">https://news.ycombinator.com/item?id=49876373</a></p>
+<p>Points: 30</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://efraingaray.com/en/blog/tabpfn-vs-xgboost/](https://efraingaray.com/en/blog/tabpfn-vs-xgboost/)
+🔗 **Read more:** [https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard](https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard)
 
 ---
 
-### 3. Owed a billion dollars in Nvidia stock
+### 3. Parley: Federated, decentralised chat that speaks plain IRC
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://colo.to/nvidia-stock-narrative.html">https://colo.to/nvidia-stock-narrative.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49872723">https://news.ycombinator.com/item?id=49872723</a></p>
-<p>Points: 446</p>
-<p># Comments: 185</p>
+<p>Article URL: <a href="https://git.mills.io/prologic/parley">https://git.mills.io/prologic/parley</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49875913">https://news.ycombinator.com/item?id=49875913</a></p>
+<p>Points: 123</p>
+<p># Comments: 50</p>
 
-🔗 **Read more:** [https://colo.to/nvidia-stock-narrative.html](https://colo.to/nvidia-stock-narrative.html)
+🔗 **Read more:** [https://git.mills.io/prologic/parley](https://git.mills.io/prologic/parley)
 
 ---
 
-### 4. What we know about RAF Fairford counter-terror probe
+### 4. Watch: Were the RAF Fairford arrests 'pure luck'?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.
+Five men have been arrested on suspicion of explosive and terrorism offences after a major incident was declared at an airbase in the west of England.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Police block Orange Order from controversial parade route
+### 5. UK diesel price hits all-time high, RAC says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-They had been unable to make the permitted parade on Sunday morning because protesters had gathered on the mainly-nationalist Garvaghy Road.
+The US-Israel war with Iran has caused fuel prices to soar.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Inside Yemen's front-line city as Houthis battle for control
+### 6. Thousands of illegal ghost plates on cars revealed by new cameras
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.
+Illegal registration plates are far too easy to get hold of and are putting the public at risk, BBC is told.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US, China list goods recommended for tariff cuts following Trump-Xi summit
+### 7. Sri Lanka’s Rumesh Pathirage wins Asian Games javelin gold
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.
+Sri Lankan star ends incredible season with gold, while India&#039;s Yashvir Singh and Rohit Yadav take silver and bronze.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/sri-lankas-rumesh-pathirage-wins-asian-games-javelin-gold?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/sri-lankas-rumesh-pathirage-wins-asian-games-javelin-gold?traffic_source=rss)
 
 ---
 
-### 8. Serbia’s snap election: Can Vucic outmanoeuvre the student revolt?
+### 8. Heavy rain triggers landslide in Nepal’s Mustang District
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The country&#039;s early parliamentary elections won’t end its crisis or defuse Vucic’s troubles, analysts say.
+Part of a mountain collapsed into a river in Nepal’s Mustang region, after heavy rains triggered flooding and landslides
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss](https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/heavy-rain-triggers-landslide-in-nepals-mustang-district?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/heavy-rain-triggers-landslide-in-nepals-mustang-district?traffic_source=rss)
 
 ---
 
-### 9. Virat Kohli passes 15,000 ODI runs as India beat West Indies
+### 9. Thai police arrest jet skier after joyride through flooded Bangkok streets
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kohli remained not out on 139 off 88 balls as the hosts romped to an eight-wicket win in their first ODI of the series.
+Thai police arrest jet skier after joyride through flooded Bangkok streets
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/thai-police-arrest-jet-skier-after-joyride-through-flooded-bangkok-streets?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/thai-police-arrest-jet-skier-after-joyride-through-flooded-bangkok-streets?traffic_source=rss)
 
 ---
 
