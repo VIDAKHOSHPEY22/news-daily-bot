@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-29T01:39:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+            "description": "<p>Article URL: <a href=\"https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/\">https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884363\">https://news.ycombinator.com/item?id=49884363</a></p>\n<p>Points: 45</p>\n<p># Comments: 13</p>",
+            "url": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+            "published": "Mon, 28 Sep 2026 21:08:10 +0000",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Palantir founder purchases large swath of forest in Sweden",
+            "description": "<p>Article URL: <a href=\"https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/\">https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884169\">https://news.ycombinator.com/item?id=49884169</a></p>\n<p>Points: 69</p>\n<p># Comments: 59</p>",
+            "url": "https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/",
+            "published": "Mon, 28 Sep 2026 20:51:47 +0000",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pacing the Frontier is not the actual goal for AI labs",
+            "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs\">https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884119\">https://news.ycombinator.com/item?id=49884119</a></p>\n<p>Points: 32</p>\n<p># Comments: 24</p>",
+            "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+            "published": "Mon, 28 Sep 2026 20:47:26 +0000",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five men arrested in RAF Fairford incident released on police bail",
+            "description": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 19:16:26 GMT",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+            "description": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
+            "url": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 19:28:54 GMT",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK tries to stop Trump's diesel export ban",
+            "description": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 20:39:31 GMT",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gold falls amid rising oil prices and higher US dollar",
+            "description": "Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.",
+            "url": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 21:34:51 +0000",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds set up tent encampments in Madrid over housing crisis",
+            "description": "Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 21:12:29 +0000",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Olise scores late to grab France 1-0 Nations League win at Belgium",
+            "description": "Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.",
+            "url": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 21:04:58 +0000",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-09-29T01:39:44+03:30"
+        }
+    ]
+}

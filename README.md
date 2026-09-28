@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-28 23:59:39
+**Last Update:** 2026-09-29 01:39:44
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. California expanded the right to delete today
+### 1. Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed">https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49883345">https://news.ycombinator.com/item?id=49883345</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/">https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884363">https://news.ycombinator.com/item?id=49884363</a></p>
+<p>Points: 45</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed](https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed)
+🔗 **Read more:** [https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/)
 
 ---
 
-### 2. First Steps of the PLC Organization – Independent Public Ledger of Credentials
+### 2. Palantir founder purchases large swath of forest in Sweden
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.plcred.org/3mwlphq42d227">https://blog.plcred.org/3mwlphq42d227</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49883159">https://news.ycombinator.com/item?id=49883159</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/">https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884169">https://news.ycombinator.com/item?id=49884169</a></p>
+<p>Points: 69</p>
+<p># Comments: 59</p>
 
-🔗 **Read more:** [https://blog.plcred.org/3mwlphq42d227](https://blog.plcred.org/3mwlphq42d227)
+🔗 **Read more:** [https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/](https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/)
 
 ---
 
-### 3. Neal Stephenson responds with wit and humor (2004)
+### 3. Pacing the Frontier is not the actual goal for AI labs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor">https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49882894">https://news.ycombinator.com/item?id=49882894</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs">https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884119">https://news.ycombinator.com/item?id=49884119</a></p>
+<p>Points: 32</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor](https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor)
+🔗 **Read more:** [https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs)
 
 ---
 
@@ -97,46 +97,59 @@ John Healey said the government is in talks with the US over Donald Trump's thre
 
 ---
 
-### 7. Apple ordered to pay $5.7bn in patent infringement case
+### 7. Gold falls amid rising oil prices and higher US dollar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-California jury finds Apple infringed two Taction patents but did not wilfully violate them; Apple plans to appeal.
+Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss)
 
 ---
 
-### 8. Trump announces $15bn steel mill project in Iowa before US midterms
+### 8. Hundreds set up tent encampments in Madrid over housing crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Amid tight Iowa midterm races, US President Trump emphasises steel industry revival with a project announcement.
+Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss)
 
 ---
 
-### 9. Nepal hit by deadly floods, landslides, and avalanche
+### 9. Olise scores late to grab France 1-0 Nations League win at Belgium
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavy rain triggered deadly floods and landslides across Nepal, while an avalanche left 12 workers missing.
+Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Rachel
+### 10. Tropical Storm Hanna
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909)
+
+---
+
+### 11. Tropical Storm Rachel
 
 **Source:** NASA
 
@@ -149,29 +162,16 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Gonzalo
+### 12. Wildfire Rafter 4B, Schleicher, Texas
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811)
-
----
-
-### 12. Hurricane Nolo
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904)
 
 ---
 
