@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-28T04:26:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lunar Terminator Paradox",
+            "description": "<p>Article URL: <a href=\"https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\">https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870837\">https://news.ycombinator.com/item?id=49870837</a></p>\n<p>Points: 41</p>\n<p># Comments: 25</p>",
+            "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+            "published": "Sun, 27 Sep 2026 21:06:17 +0000",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My Recent Woodworking Projects",
+            "description": "<p>Article URL: <a href=\"https://notoriousbfg.com/recent-woodworking-projects/\">https://notoriousbfg.com/recent-woodworking-projects/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870541\">https://news.ycombinator.com/item?id=49870541</a></p>\n<p>Points: 23</p>\n<p># Comments: 8</p>",
+            "url": "https://notoriousbfg.com/recent-woodworking-projects/",
+            "published": "Sun, 27 Sep 2026 20:33:55 +0000",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Cartopolis, interactive globe-sized 3D world",
+            "description": "<p>Article URL: <a href=\"https://code.garage44.eu/jeroen/cartopolis\">https://code.garage44.eu/jeroen/cartopolis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49870394\">https://news.ycombinator.com/item?id=49870394</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://code.garage44.eu/jeroen/cartopolis",
+            "published": "Sun, 27 Sep 2026 20:14:53 +0000",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+            "description": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+            "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 20:10:51 GMT",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about RAF Fairford counter-terror probe",
+            "description": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 27 Sep 2026 19:47:44 GMT",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Protesters disperse after blocking contentious Orange Order parade",
+            "description": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 00:54:24 GMT",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Refugees in South Africa fear new attacks as September 30 deadline looms",
+            "description": "Refugees in Durban say they have nowhere safe to return to after being forced from a makeshift camp.",
+            "url": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 00:29:25 +0000",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+            "description": "Abbas Araghchi&#039;s warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+            "published": "Mon, 28 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
+            "description": "Head of the Roman Catholic Church holds &#039;emotional&#039; two-hour meeting with seven survivors in French town of Lourdes.",
+            "url": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
+            "published": "Sun, 27 Sep 2026 23:14:15 +0000",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Gonzalo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24811",
+            "published": "2026-09-25T03:00:00Z",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Surigae",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24787",
+            "published": "2026-09-23T18:00:00Z",
+            "fetched": "2026-09-28T04:26:08+03:30"
+        }
+    ]
+}
