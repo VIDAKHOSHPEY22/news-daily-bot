@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 04:26:03
+**Last Update:** 2026-09-29 05:35:04
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. ESP32S3 cluster running 1.58-bit (BitNet) Language model
+### 1. We found 24 Android vulnerabilities using our open source AI security agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884625">https://news.ycombinator.com/item?id=49884625</a></p>
-<p>Points: 10</p>
+<p>Article URL: <a href="https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886609">https://news.ycombinator.com/item?id=49886609</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
+🔗 **Read more:** [https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)
 
 ---
 
-### 2. Deutsche Bahn "joke" is no longer funny
+### 2. Tank Body Problem
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/">https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884560">https://news.ycombinator.com/item?id=49884560</a></p>
+<p>Article URL: <a href="http://www.jimsitu.com">http://www.jimsitu.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886482">https://news.ycombinator.com/item?id=49886482</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [http://www.jimsitu.com](http://www.jimsitu.com)
+
+---
+
+### 3. 1996 chat room simulator connected to Win95 and System 7 web desktops
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lolchat.rip/">https://lolchat.rip/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886195">https://news.ycombinator.com/item?id=49886195</a></p>
 <p>Points: 15</p>
-<p># Comments: 6</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/](https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/)
-
----
-
-### 3. Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/firelex/jeff">https://github.com/firelex/jeff</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49883844">https://news.ycombinator.com/item?id=49883844</a></p>
-<p>Points: 230</p>
-<p># Comments: 79</p>
-
-🔗 **Read more:** [https://github.com/firelex/jeff](https://github.com/firelex/jeff)
+🔗 **Read more:** [https://lolchat.rip/](https://lolchat.rip/)
 
 ---
 
@@ -84,20 +84,46 @@ The men were all UK nationals in their 20s who live in London and were arrested 
 
 ---
 
-### 6. UK tries to stop Trump's diesel export ban
+### 6. OpenAI scraps rollout of new model over safety concerns
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.
+OpenAI also issued an update on incidents in which its models accessed Australian government systems.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Africa’s space ambitions are moving from policy to practice
+### 7. Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hungary&#039;s Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss)
+
+---
+
+### 8. OpenAI scraps release of latest AI model over safety concerns
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss)
+
+---
+
+### 9. Africa’s space ambitions are moving from policy to practice
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ John Healey said the government is in talks with the US over Donald Trump's thre
 As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss)
-
----
-
-### 8. Inside Al Jazeera’s UNGA coverage
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss)
-
----
-
-### 9. Iran war live: Trump says he did not offer Tehran sanctions relief
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss)
 
 ---
 
