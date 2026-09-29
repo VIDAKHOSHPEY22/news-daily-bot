@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 22:48:27
+**Last Update:** 2026-09-30 00:25:03
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging
+### 1. U.S. postal inspectors shut down website selling counterfeit postage labels
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/">https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49897826">https://news.ycombinator.com/item?id=49897826</a></p>
-<p>Points: 31</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/">https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899090">https://news.ycombinator.com/item?id=49899090</a></p>
+<p>Points: 37</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/](https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/)
+🔗 **Read more:** [https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
 
 ---
 
-### 2. ChatGPT Pro 500
+### 2. Memory Companies Have Destroyed the Consumer Market
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers">https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49896975">https://news.ycombinator.com/item?id=49896975</a></p>
-<p>Points: 133</p>
-<p># Comments: 122</p>
+<p>Article URL: <a href="https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market">https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899051">https://news.ycombinator.com/item?id=49899051</a></p>
+<p>Points: 45</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
+🔗 **Read more:** [https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market](https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market)
 
 ---
 
-### 3. Tcl/Tk 9.1 Released
+### 3. Galaxy Game – Interim Computer Museum
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tcl-lang.org/software/tcltk/9.1.html">https://www.tcl-lang.org/software/tcltk/9.1.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49896712">https://news.ycombinator.com/item?id=49896712</a></p>
-<p>Points: 108</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://icm.museum/blog/?p=698">https://icm.museum/blog/?p=698</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899004">https://news.ycombinator.com/item?id=49899004</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.tcl-lang.org/software/tcltk/9.1.html](https://www.tcl-lang.org/software/tcltk/9.1.html)
+🔗 **Read more:** [https://icm.museum/blog/?p=698](https://icm.museum/blog/?p=698)
 
 ---
 
@@ -71,16 +71,16 @@ The PM was at times emotional during his conference speech in which he outlined 
 
 ---
 
-### 5. Watch: How did Burnham's speech go down in the conference hall?
+### 5. Chris Mason: Burnham delivers deeply political speech with a personal core
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.
+The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The Premier League confirms that Manchester City have been found guilty of all c
 
 ---
 
-### 7. Jerusalem Daily: Israeli worshippers attack Palestinian man
+### 7. US sanctions 10 entities for allegedly supporting Iran’s military
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Settler pogroms intensify as a total lockdown of the occupied West Bank enters its third day.
+Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss)
 
 ---
 
-### 8. Trump unveils new site to simplify access to government services
+### 8. US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov&#039;t websites.
+Trump retaliated against Canada&#039;s counter-tariffs on $20bn worth of US imports by banning $1bn of Canadian goods.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss)
 
 ---
 
-### 9. ‘Truly historic’: Morocco’s king appoints first woman prime minister
+### 9. Has Gaza broken the Israel consensus in the US?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.
+For decades, Israel was untouchable in Washington. Gaza changed that. Josh Rushing investigates how and what comes next.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss)
 
 ---
 
