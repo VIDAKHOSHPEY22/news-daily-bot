@@ -1,90 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 17:27:07
+**Last Update:** 2026-09-29 19:30:07
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The new Firefox design is here
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/">https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49892721">https://news.ycombinator.com/item?id=49892721</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/](https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/)
-
----
-
-### 2. Delhi Cut Electricity Loss from 50 to 5 Percent
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/delhi-electricity-loss">https://spectrum.ieee.org/delhi-electricity-loss</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49892245">https://news.ycombinator.com/item?id=49892245</a></p>
-<p>Points: 94</p>
-<p># Comments: 46</p>
-
-🔗 **Read more:** [https://spectrum.ieee.org/delhi-electricity-loss](https://spectrum.ieee.org/delhi-electricity-loss)
-
----
-
-### 3. Without the Hot Air
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.withouthotair.com/">https://www.withouthotair.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49892175">https://news.ycombinator.com/item?id=49892175</a></p>
-<p>Points: 22</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://www.withouthotair.com/](https://www.withouthotair.com/)
-
----
-
-### 4. Daniel Sandford on what's next in the RAF Fairford investigation
+### 1. Watch: How did Burnham's speech go down in the conference hall?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC correspondent Daniel Sandford explains where the investigation goes from here.
+The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. OpenAI scraps rollout of new model over safety concerns
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The firm also issued an update on incidents in which its models accessed Australian government systems.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Rayner announces crackdown on 'cowboy' leasehold property agents
+### 2. Rayner announces crackdown on 'cowboy' leasehold property agents
 
 **Source:** BBC
 
@@ -97,46 +36,59 @@ The housing secretary used her Labour conference speech to announce protections 
 
 ---
 
-### 7. Estonia says Russia ordered August arson attack on defence company
+### 3. Daniel Sandford on what's next in the RAF Fairford investigation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+BBC correspondent Daniel Sandford explains where the investigation goes from here.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. ‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tallinn accuses Moscow of responsibility for the fire at Estonian company Milrem Robotics, a supplier of unmanned ground vehicles to Ukraine.
+UEFA slams Infantino over his aborted plan to sell off stakes in FIFA competitions to private investors.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss)
 
 ---
 
-### 8. Tourists face legal action over turtle-riding video in Oman
+### 5. Yemen’s war disrupts roads and ports, deepening humanitarian crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tourists face legal action over turtle-riding video in Oman
+Civilian displacement surges as key Yemen roads close, leaving thousands in camps amid dire humanitarian challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/tourists-face-legal-action-over-turtle-riding-video-in-oman?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/tourists-face-legal-action-over-turtle-riding-video-in-oman?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss)
 
 ---
 
-### 9. Are Houthis using new modified cruise missiles in Yemen’s war?
+### 6. Ireland undecided on approach for next game against Israel, coach says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say use of modified Iranian defence system could alter the balance in the fight for the Red Sea.
+Ireland played the first Nations League game despite unease among some players over Israel&#039;s genocidal war in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/9/29/are-houthis-using-new-modified-cruise-missiles-in-yemens-war?traffic_source=rss](https://www.aljazeera.com/features/2026/9/29/are-houthis-using-new-modified-cruise-missiles-in-yemens-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Hanna
+### 7. Tropical Storm Hanna
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Rachel
+### 8. Tropical Storm Rachel
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Rafter 4B, Schleicher, Texas
+### 9. Wildfire Rafter 4B, Schleicher, Texas
 
 **Source:** NASA
 
