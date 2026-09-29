@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 05:35:04
+**Last Update:** 2026-09-29 10:16:46
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. We found 24 Android vulnerabilities using our open source AI security agent
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/">https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886609">https://news.ycombinator.com/item?id=49886609</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/](https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/)
-
----
-
-### 2. Tank Body Problem
+### 1. Tank Body Problem
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="http://www.jimsitu.com">http://www.jimsitu.com</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886482">https://news.ycombinator.com/item?id=49886482</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 67</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [http://www.jimsitu.com](http://www.jimsitu.com)
 
 ---
 
-### 3. 1996 chat room simulator connected to Win95 and System 7 web desktops
+### 2. 1996 chat room simulator connected to Win95 and System 7 web desktops
 
 **Source:** Hacker News
 
@@ -51,23 +35,40 @@
 **Description:**
 <p>Article URL: <a href="https://lolchat.rip/">https://lolchat.rip/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49886195">https://news.ycombinator.com/item?id=49886195</a></p>
-<p>Points: 15</p>
-<p># Comments: 8</p>
+<p>Points: 95</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://lolchat.rip/](https://lolchat.rip/)
 
 ---
 
-### 4. Five men arrested in RAF Fairford incident released on police bail
+### 3. Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:<p>“Create a Pac-Man game in a single HTML page”<p>Each model gets one shot — no follow-up prompts or fixes.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49885493">https://news.ycombinator.com/item?id=49885493</a></p>
+<p>Points: 35</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://jonclegg.github.io/pacman-bakeoff/](https://jonclegg.github.io/pacman-bakeoff/)
+
+---
+
+### 4. Burnham to unveil public body to invest in electricity grid
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.
+The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -91,48 +92,48 @@ The men were all UK nationals in their 20s who live in London and were arrested 
 **Category:** world
 
 **Description:**
-OpenAI also issued an update on incidents in which its models accessed Australian government systems.
+The firm also issued an update on incidents in which its models accessed Australian government systems.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers
+### 7. Australia raises interest rates to 15-year high
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hungary&#039;s Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.
+Reserve Bank of Australia lifts benchmark rate to 4.6 percent amid stubborn inflation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss)
 
 ---
 
-### 8. OpenAI scraps release of latest AI model over safety concerns
+### 8. AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.
+Democratic Republic of the Congo secure their second straight win in Group E, with striker Yoanne Wissa scoring again.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss)
 
 ---
 
-### 9. Africa’s space ambitions are moving from policy to practice
+### 9. Public transport drivers strike in Manila over soaring fuel prices
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.
+Public transport drivers in Manila begin a three-day strike over soaring fuel prices.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss)
 
 ---
 
