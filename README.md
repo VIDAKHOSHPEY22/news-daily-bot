@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 01:39:44
+**Last Update:** 2026-09-29 04:26:03
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline
+### 1. ESP32S3 cluster running 1.58-bit (BitNet) Language model
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/">https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884363">https://news.ycombinator.com/item?id=49884363</a></p>
-<p>Points: 45</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884625">https://news.ycombinator.com/item?id=49884625</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/](https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/)
+🔗 **Read more:** [https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)
 
 ---
 
-### 2. Palantir founder purchases large swath of forest in Sweden
+### 2. Deutsche Bahn "joke" is no longer funny
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/">https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884169">https://news.ycombinator.com/item?id=49884169</a></p>
-<p>Points: 69</p>
-<p># Comments: 59</p>
+<p>Article URL: <a href="https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/">https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884560">https://news.ycombinator.com/item?id=49884560</a></p>
+<p>Points: 15</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/](https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/)
+🔗 **Read more:** [https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/](https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/)
 
 ---
 
-### 3. Pacing the Frontier is not the actual goal for AI labs
+### 3. Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs">https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49884119">https://news.ycombinator.com/item?id=49884119</a></p>
-<p>Points: 32</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://github.com/firelex/jeff">https://github.com/firelex/jeff</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49883844">https://news.ycombinator.com/item?id=49883844</a></p>
+<p>Points: 230</p>
+<p># Comments: 79</p>
 
-🔗 **Read more:** [https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs](https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs)
+🔗 **Read more:** [https://github.com/firelex/jeff](https://github.com/firelex/jeff)
 
 ---
 
@@ -97,42 +97,42 @@ John Healey said the government is in talks with the US over Donald Trump's thre
 
 ---
 
-### 7. Gold falls amid rising oil prices and higher US dollar
+### 7. Africa’s space ambitions are moving from policy to practice
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.
+As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss)
 
 ---
 
-### 8. Hundreds set up tent encampments in Madrid over housing crisis
+### 8. Inside Al Jazeera’s UNGA coverage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters have set up tent encampments in central Madrid to demand government action on soaring housing costs.
+Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss)
 
 ---
 
-### 9. Olise scores late to grab France 1-0 Nations League win at Belgium
+### 9. Iran war live: Trump says he did not offer Tehran sanctions relief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bayern Munich star Olise set off from inside his own half to score the winner in the 88th minute.
+US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-29T04:26:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+            "description": "<p>Article URL: <a href=\"https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\">https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884625\">https://news.ycombinator.com/item?id=49884625</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+            "published": "Mon, 28 Sep 2026 21:26:41 +0000",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Deutsche Bahn \"joke\" is no longer funny",
+            "description": "<p>Article URL: <a href=\"https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/\">https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49884560\">https://news.ycombinator.com/item?id=49884560</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+            "url": "https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/",
+            "published": "Mon, 28 Sep 2026 21:21:50 +0000",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+            "description": "<p>Article URL: <a href=\"https://github.com/firelex/jeff\">https://github.com/firelex/jeff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49883844\">https://news.ycombinator.com/item?id=49883844</a></p>\n<p>Points: 230</p>\n<p># Comments: 79</p>",
+            "url": "https://github.com/firelex/jeff",
+            "published": "Mon, 28 Sep 2026 20:23:36 +0000",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five men arrested in RAF Fairford incident released on police bail",
+            "description": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 19:16:26 GMT",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+            "description": "The men were all UK nationals in their 20s who live in London and were arrested under the Explosives Act and on suspicion of preparing a terrorist act.",
+            "url": "https://www.bbc.co.uk/news/videos/cw33kxk3707jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 19:28:54 GMT",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK tries to stop Trump's diesel export ban",
+            "description": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 20:39:31 GMT",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Africa’s space ambitions are moving from policy to practice",
+            "description": "As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.",
+            "url": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 00:26:22 +0000",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inside Al Jazeera’s UNGA coverage",
+            "description": "Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 00:10:21 +0000",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+            "description": "US President Trump rejects a news report claiming his administration offered Iran sanctions relief and frozen funds.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-09-29T04:26:03+03:30"
+        }
+    ]
+}
