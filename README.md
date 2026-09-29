@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-29 19:30:07
+**Last Update:** 2026-09-29 22:48:27
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Watch: How did Burnham's speech go down in the conference hall?
+### 1. The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/">https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49897826">https://news.ycombinator.com/item?id=49897826</a></p>
+<p>Points: 31</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/](https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/)
+
+---
+
+### 2. ChatGPT Pro 500
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers">https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49896975">https://news.ycombinator.com/item?id=49896975</a></p>
+<p>Points: 133</p>
+<p># Comments: 122</p>
+
+🔗 **Read more:** [https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
+
+---
+
+### 3. Tcl/Tk 9.1 Released
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.tcl-lang.org/software/tcltk/9.1.html">https://www.tcl-lang.org/software/tcltk/9.1.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49896712">https://news.ycombinator.com/item?id=49896712</a></p>
+<p>Points: 108</p>
+<p># Comments: 22</p>
+
+🔗 **Read more:** [https://www.tcl-lang.org/software/tcltk/9.1.html](https://www.tcl-lang.org/software/tcltk/9.1.html)
+
+---
+
+### 4. Burnham vows to end existing pension triple lock in 2030 to help fund care
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: How did Burnham's speech go down in the conference hall?
 
 **Source:** BBC
 
@@ -23,72 +84,59 @@ The PM received a standing ovation as he spoke about his late dad while setting 
 
 ---
 
-### 2. Rayner announces crackdown on 'cowboy' leasehold property agents
+### 6. Man City guilty of 'sham' contracts and misleading accounts
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The housing secretary used her Labour conference speech to announce protections for leaseholders facing 'injustice'.
+The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Daniel Sandford on what's next in the RAF Fairford investigation
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-BBC correspondent Daniel Sandford explains where the investigation goes from here.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmvgy21872nyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. ‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino
+### 7. Jerusalem Daily: Israeli worshippers attack Palestinian man
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UEFA slams Infantino over his aborted plan to sell off stakes in FIFA competitions to private investors.
+Settler pogroms intensify as a total lockdown of the occupied West Bank enters its third day.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss)
 
 ---
 
-### 5. Yemen’s war disrupts roads and ports, deepening humanitarian crisis
+### 8. Trump unveils new site to simplify access to government services
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Civilian displacement surges as key Yemen roads close, leaving thousands in camps amid dire humanitarian challenges.
+America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov&#039;t websites.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services?traffic_source=rss)
 
 ---
 
-### 6. Ireland undecided on approach for next game against Israel, coach says
+### 9. ‘Truly historic’: Morocco’s king appoints first woman prime minister
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ireland played the first Nations League game despite unease among some players over Israel&#039;s genocidal war in Gaza.
+Fatima Ezzahra El Mansouri becomes the second woman to serve as prime minister in the Arab world.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/truly-historic-moroccos-king-appoints-first-woman-prime-minister?traffic_source=rss)
 
 ---
 
-### 7. Tropical Storm Hanna
+### 10. Tropical Storm Hanna
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Rachel
+### 11. Tropical Storm Rachel
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Rafter 4B, Schleicher, Texas
+### 12. Wildfire Rafter 4B, Schleicher, Texas
 
 **Source:** NASA
 
