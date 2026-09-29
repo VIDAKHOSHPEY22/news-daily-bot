@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 00:25:03
+**Last Update:** 2026-09-30 03:06:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. U.S. postal inspectors shut down website selling counterfeit postage labels
+### 1. How our vibe coded website looks like a designer made it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/">https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899090">https://news.ycombinator.com/item?id=49899090</a></p>
-<p>Points: 37</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://railcode.dev/blog/vibe-coded-website">https://railcode.dev/blog/vibe-coded-website</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901973">https://news.ycombinator.com/item?id=49901973</a></p>
+<p>Points: 15</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+🔗 **Read more:** [https://railcode.dev/blog/vibe-coded-website](https://railcode.dev/blog/vibe-coded-website)
 
 ---
 
-### 2. Memory Companies Have Destroyed the Consumer Market
+### 2. Livenerf: Has Opus 5.5 been nerfed yet?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market">https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899051">https://news.ycombinator.com/item?id=49899051</a></p>
-<p>Points: 45</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://github.com/ninjahawk/livenerf">https://github.com/ninjahawk/livenerf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901736">https://news.ycombinator.com/item?id=49901736</a></p>
+<p>Points: 48</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market](https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market)
+🔗 **Read more:** [https://github.com/ninjahawk/livenerf](https://github.com/ninjahawk/livenerf)
 
 ---
 
-### 3. Galaxy Game – Interim Computer Museum
+### 3. UnoDOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://icm.museum/blog/?p=698">https://icm.museum/blog/?p=698</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49899004">https://news.ycombinator.com/item?id=49899004</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/hmofet/unodos">https://github.com/hmofet/unodos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901437">https://news.ycombinator.com/item?id=49901437</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://icm.museum/blog/?p=698](https://icm.museum/blog/?p=698)
+🔗 **Read more:** [https://github.com/hmofet/unodos](https://github.com/hmofet/unodos)
 
 ---
 
@@ -84,55 +84,55 @@ The key thing to understand about Andy Burnham's speech is these were the words 
 
 ---
 
-### 6. Man City guilty of 'sham' contracts and misleading accounts
+### 6. 'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.
+Police say the decision to release five men on bail is one "grounded in experience and strategy".
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US sanctions 10 entities for allegedly supporting Iran’s military
+### 7. Iraq begins high-stakes security balancing act as US troops withdraw
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.
+Iraq marks national &#039;Sovereignty Days&#039; as US troops depart, but must navigate risks of new security landscape.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss)
 
 ---
 
-### 8. US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation
+### 8. Man City CEO: Premier League verdict based on ‘conspiracy theory’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump retaliated against Canada&#039;s counter-tariffs on $20bn worth of US imports by banning $1bn of Canadian goods.
+Man City says it will appeal after an independent commission convicted it of breaking Premier League financial rules.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss)
 
 ---
 
-### 9. Has Gaza broken the Israel consensus in the US?
+### 9. UN extends mandate of Gang Suppression Force in Haiti for six months
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For decades, Israel was untouchable in Washington. Gaza changed that. Josh Rushing investigates how and what comes next.
+Security force members deployed to Haiti have struggled to make progress against criminal groups as violence continues.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/9/29/has-gaza-broken-the-israel-consensus-in-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss)
 
 ---
 

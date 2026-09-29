@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-30T03:06:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How our vibe coded website looks like a designer made it",
+            "description": "<p>Article URL: <a href=\"https://railcode.dev/blog/vibe-coded-website\">https://railcode.dev/blog/vibe-coded-website</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901973\">https://news.ycombinator.com/item?id=49901973</a></p>\n<p>Points: 15</p>\n<p># Comments: 16</p>",
+            "url": "https://railcode.dev/blog/vibe-coded-website",
+            "published": "Tue, 29 Sep 2026 22:59:28 +0000",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+            "description": "<p>Article URL: <a href=\"https://github.com/ninjahawk/livenerf\">https://github.com/ninjahawk/livenerf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901736\">https://news.ycombinator.com/item?id=49901736</a></p>\n<p>Points: 48</p>\n<p># Comments: 18</p>",
+            "url": "https://github.com/ninjahawk/livenerf",
+            "published": "Tue, 29 Sep 2026 22:36:14 +0000",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UnoDOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/hmofet/unodos\">https://github.com/hmofet/unodos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901437\">https://news.ycombinator.com/item?id=49901437</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/hmofet/unodos",
+            "published": "Tue, 29 Sep 2026 22:10:23 +0000",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
+            "description": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 17:39:06 GMT",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+            "description": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 19:13:14 GMT",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
+            "description": "Police say the decision to release five men on bail is one \"grounded in experience and strategy\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 21:42:58 GMT",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
+            "description": "Iraq marks national &#039;Sovereignty Days&#039; as US troops depart, but must navigate risks of new security landscape.",
+            "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 23:06:53 +0000",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man City CEO: Premier League verdict based on ‘conspiracy theory’",
+            "description": "Man City says it will appeal after an independent commission convicted it of breaking Premier League financial rules.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/man-city-ceo-premier-league-verdict-based-on-conspiracy?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 23:06:07 +0000",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN extends mandate of Gang Suppression Force in Haiti for six months",
+            "description": "Security force members deployed to Haiti have struggled to make progress against criminal groups as violence continues.",
+            "url": "https://www.aljazeera.com/news/2026/9/29/un-extends-mandate-of-gang-suppression-force-in-haiti-for-six-months?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 22:38:10 +0000",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-09-30T03:06:56+03:30"
+        }
+    ]
+}
