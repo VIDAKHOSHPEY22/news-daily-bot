@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-01T02:25:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why the Bronze Age Collapsed",
+            "description": "<p>Article URL: <a href=\"https://www.worksinprogress.news/p/why-really-caused-the-bronze-age\">https://www.worksinprogress.news/p/why-really-caused-the-bronze-age</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915221\">https://news.ycombinator.com/item?id=49915221</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+            "published": "Wed, 30 Sep 2026 22:20:08 +0000",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Automating Wi-Fi setup testing on the ESP32",
+            "description": "<p>Article URL: <a href=\"https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/\">https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915119\">https://news.ycombinator.com/item?id=49915119</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
+            "published": "Wed, 30 Sep 2026 22:07:51 +0000",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+            "description": "<p>Article URL: <a href=\"https://www.thespacereview.com/article/4951/1\">https://www.thespacereview.com/article/4951/1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915082\">https://news.ycombinator.com/item?id=49915082</a></p>\n<p>Points: 46</p>\n<p># Comments: 1</p>",
+            "url": "https://www.thespacereview.com/article/4951/1",
+            "published": "Wed, 30 Sep 2026 22:03:04 +0000",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+            "description": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 21:30:38 GMT",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dame Esther Rantzen: A presenter who campaigned for change",
+            "description": "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions.",
+            "url": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 19:00:50 GMT",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK believes Iran involved in RAF Fairford incident, PM says",
+            "description": "Iran's foreign minister has responded, saying the PM was \"barking up the wrong tree\".",
+            "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 21:26:59 GMT",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hong Kong journalist arrested on sedition charge",
+            "description": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
+            "url": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 22:16:01 +0000",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian drone crashes into Kyiv playground without exploding",
+            "description": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 22:13:35 +0000",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
+            "description": "A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 21:34:30 +0000",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-10-01T02:25:07+03:30"
+        }
+    ]
+}
