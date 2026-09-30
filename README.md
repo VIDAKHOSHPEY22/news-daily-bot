@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 04:05:22
+**Last Update:** 2026-09-30 08:49:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. How our vibe coded website looks like a designer made it
+### 1. LinkedIn Larpmaxxing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://railcode.dev/blog/vibe-coded-website">https://railcode.dev/blog/vibe-coded-website</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901973">https://news.ycombinator.com/item?id=49901973</a></p>
-<p>Points: 48</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/">https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49904314">https://news.ycombinator.com/item?id=49904314</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://railcode.dev/blog/vibe-coded-website](https://railcode.dev/blog/vibe-coded-website)
+🔗 **Read more:** [https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
 
 ---
 
-### 2. Livenerf: Has Opus 5.5 been nerfed yet?
+### 2. PSSA: A non-transformer language model written from scratch in Rust
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ninjahawk/livenerf">https://github.com/ninjahawk/livenerf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901736">https://news.ycombinator.com/item?id=49901736</a></p>
-<p>Points: 135</p>
-<p># Comments: 73</p>
+<p>Article URL: <a href="https://github.com/Sparticle62ops/pssa">https://github.com/Sparticle62ops/pssa</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903993">https://news.ycombinator.com/item?id=49903993</a></p>
+<p>Points: 35</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://github.com/ninjahawk/livenerf](https://github.com/ninjahawk/livenerf)
+🔗 **Read more:** [https://github.com/Sparticle62ops/pssa](https://github.com/Sparticle62ops/pssa)
 
 ---
 
-### 3. UnoDOS
+### 3. RSS Feeds for Last.fm
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/hmofet/unodos">https://github.com/hmofet/unodos</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49901437">https://news.ycombinator.com/item?id=49901437</a></p>
-<p>Points: 13</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://lfm.xiffy.nl/">https://lfm.xiffy.nl/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903862">https://news.ycombinator.com/item?id=49903862</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/hmofet/unodos](https://github.com/hmofet/unodos)
+🔗 **Read more:** [https://lfm.xiffy.nl/](https://lfm.xiffy.nl/)
 
 ---
 
-### 4. One of the five men arrested near RAF Fairford called 999 himself
+### 4. Move to rejoin EU among options for UK, says Burnham
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-He made the call almost an hour before a farmer also called police after seeing men in balaclavas.
+The prime minister tells the BBC the current Brexit settlement has caused "more harm than good".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?
+### 5. Chris Mason: Burnham delivers deeply political speech with a personal core
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes.
+The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham vows to end existing pension triple lock in 2030 to help fund care
+### 6. Household energy bills forecast to see biggest rise in four years
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.
+A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: Trump claims war will end ‘very soon’, gives no details
+### 7. Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump reiterates that Tehran will not have a nuclear weapon.
+Opposition leader dismisses Netanyahu&#039;s warning of possible attacks during next month&#039;s general election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss)
 
 ---
 
-### 8. Trump says he plans to campaign for 32 days before midterm elections
+### 8. South African president orders action on femicide after killings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.
+South Africa’s President Cyril Ramaphosa has announced new measures to combat femicide and gender-based violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss)
 
 ---
 
-### 9. ‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza
+### 9. Democrats hope anger at Trump enough to get young people to vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatari leader tells Piers Morgan that Doha will continue to uphold diplomacy and mediate for peace in the Middle East.
+Political strategist Celinda Lake says that young voters don’t usually cast their ballots in midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss)
 
 ---
 

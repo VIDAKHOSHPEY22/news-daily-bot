@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-30T08:49:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LinkedIn Larpmaxxing",
+            "description": "<p>Article URL: <a href=\"https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\">https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49904314\">https://news.ycombinator.com/item?id=49904314</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+            "published": "Wed, 30 Sep 2026 04:19:57 +0000",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PSSA: A non-transformer language model written from scratch in Rust",
+            "description": "<p>Article URL: <a href=\"https://github.com/Sparticle62ops/pssa\">https://github.com/Sparticle62ops/pssa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903993\">https://news.ycombinator.com/item?id=49903993</a></p>\n<p>Points: 35</p>\n<p># Comments: 9</p>",
+            "url": "https://github.com/Sparticle62ops/pssa",
+            "published": "Wed, 30 Sep 2026 03:19:54 +0000",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RSS Feeds for Last.fm",
+            "description": "<p>Article URL: <a href=\"https://lfm.xiffy.nl/\">https://lfm.xiffy.nl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903862\">https://news.ycombinator.com/item?id=49903862</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://lfm.xiffy.nl/",
+            "published": "Wed, 30 Sep 2026 03:00:05 +0000",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Move to rejoin EU among options for UK, says Burnham",
+            "description": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 05:00:05 GMT",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+            "description": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 19:13:14 GMT",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Household energy bills forecast to see biggest rise in four years",
+            "description": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+            "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 23:03:13 GMT",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning",
+            "description": "Opposition leader dismisses Netanyahu&#039;s warning of possible attacks during next month&#039;s general election.",
+            "url": "https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 04:51:01 +0000",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South African president orders action on femicide after killings",
+            "description": "South Africa’s President Cyril Ramaphosa has announced new measures to combat femicide and gender-based violence.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 04:39:34 +0000",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrats hope anger at Trump enough to get young people to vote",
+            "description": "Political strategist Celinda Lake says that young voters don’t usually cast their ballots in midterm elections.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 04:36:27 +0000",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-09-30T08:49:54+03:30"
+        }
+    ]
+}
