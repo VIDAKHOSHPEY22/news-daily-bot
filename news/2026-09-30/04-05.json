@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-30T04:05:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How our vibe coded website looks like a designer made it",
+            "description": "<p>Article URL: <a href=\"https://railcode.dev/blog/vibe-coded-website\">https://railcode.dev/blog/vibe-coded-website</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901973\">https://news.ycombinator.com/item?id=49901973</a></p>\n<p>Points: 48</p>\n<p># Comments: 29</p>",
+            "url": "https://railcode.dev/blog/vibe-coded-website",
+            "published": "Tue, 29 Sep 2026 22:59:28 +0000",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+            "description": "<p>Article URL: <a href=\"https://github.com/ninjahawk/livenerf\">https://github.com/ninjahawk/livenerf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901736\">https://news.ycombinator.com/item?id=49901736</a></p>\n<p>Points: 135</p>\n<p># Comments: 73</p>",
+            "url": "https://github.com/ninjahawk/livenerf",
+            "published": "Tue, 29 Sep 2026 22:36:14 +0000",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UnoDOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/hmofet/unodos\">https://github.com/hmofet/unodos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901437\">https://news.ycombinator.com/item?id=49901437</a></p>\n<p>Points: 13</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/hmofet/unodos",
+            "published": "Tue, 29 Sep 2026 22:10:23 +0000",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "One of the five men arrested near RAF Fairford called 999 himself",
+            "description": "He made the call almost an hour before a farmer also called police after seeing men in balaclavas.",
+            "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 00:12:24 GMT",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
+            "description": "Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 19:54:07 GMT",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
+            "description": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 17:39:06 GMT",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+            "description": "US President Donald Trump reiterates that Tehran will not have a nuclear weapon.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 00:00:00 +0000",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says he plans to campaign for 32 days before midterm elections",
+            "description": "US president brushes aside concerns about his popularity as voters express frustration over cost of living, war on Iran.",
+            "url": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 23:53:08 +0000",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Nothing is justifying this’: Qatari PM slams atrocities in Gaza",
+            "description": "Qatari leader tells Piers Morgan that Doha will continue to uphold diplomacy and mediate for peace in the Middle East.",
+            "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
+            "published": "Tue, 29 Sep 2026 23:49:18 +0000",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-09-30T04:05:22+03:30"
+        }
+    ]
+}
