@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-09-30T15:54:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Most data centers refusing to say how much water, electricity they use",
+            "description": "<p>Article URL: <a href=\"https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use\">https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49907057\">https://news.ycombinator.com/item?id=49907057</a></p>\n<p>Points: 38</p>\n<p># Comments: 7</p>",
+            "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+            "published": "Wed, 30 Sep 2026 10:49:32 +0000",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence\">https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49906669\">https://news.ycombinator.com/item?id=49906669</a></p>\n<p>Points: 58</p>\n<p># Comments: 71</p>",
+            "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+            "published": "Wed, 30 Sep 2026 09:59:03 +0000",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pi.dev: You Said No MCP",
+            "description": "<p>Article URL: <a href=\"https://earendil.com/posts/you-said-no-mcp/\">https://earendil.com/posts/you-said-no-mcp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49906637\">https://news.ycombinator.com/item?id=49906637</a></p>\n<p>Points: 169</p>\n<p># Comments: 74</p>",
+            "url": "https://earendil.com/posts/you-said-no-mcp/",
+            "published": "Wed, 30 Sep 2026 09:55:23 +0000",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Move to rejoin EU among options for UK, says Burnham",
+            "description": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 11:36:59 GMT",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "One of the five men arrested near RAF Fairford called 999 himself",
+            "description": "He made the call almost an hour before a farmer also called police after seeing men in balaclavas.",
+            "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 00:12:24 GMT",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
+            "description": "One of the men seen outside the UK school attended by the children is understood to be an international press photographer.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 10:59:17 GMT",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
+            "description": "Crude flows through Hormuz have recovered, but tanker insurance costs and geopolitical risks remain barriers to a return to normality.",
+            "url": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 12:05:45 +0000",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Flydubai flight to Israel diverted after attack on pilot",
+            "description": "Dramatic video shows the aftermath of an attack on a pilot on a Flydubai flight to the Israeli city of Tel Aviv.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 11:43:35 +0000",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ireland vs Israel Nations League match will go ahead, coach confirms",
+            "description": "The Football Association of Ireland says the team will fulfil the second fixture despite public opposition.",
+            "url": "https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 11:36:35 +0000",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-09-30T15:54:31+03:30"
+        }
+    ]
+}

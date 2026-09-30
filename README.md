@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 10:22:52
+**Last Update:** 2026-09-30 15:54:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tesla takes on $30B in credit as it approaches unprofitability
+### 1. Most data centers refusing to say how much water, electricity they use
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/">https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49904408">https://news.ycombinator.com/item?id=49904408</a></p>
-<p>Points: 79</p>
-<p># Comments: 93</p>
+<p>Article URL: <a href="https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use">https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49907057">https://news.ycombinator.com/item?id=49907057</a></p>
+<p>Points: 38</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/](https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/)
+🔗 **Read more:** [https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
 
 ---
 
-### 2. PSSA: A non-transformer language model written from scratch in Rust
+### 2. GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Sparticle62ops/pssa">https://github.com/Sparticle62ops/pssa</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903993">https://news.ycombinator.com/item?id=49903993</a></p>
-<p>Points: 61</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence">https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49906669">https://news.ycombinator.com/item?id=49906669</a></p>
+<p>Points: 58</p>
+<p># Comments: 71</p>
 
-🔗 **Read more:** [https://github.com/Sparticle62ops/pssa](https://github.com/Sparticle62ops/pssa)
+🔗 **Read more:** [https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence](https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence)
 
 ---
 
-### 3. RSS Feeds for Last.fm
+### 3. Pi.dev: You Said No MCP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lfm.xiffy.nl/">https://lfm.xiffy.nl/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903862">https://news.ycombinator.com/item?id=49903862</a></p>
-<p>Points: 30</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://earendil.com/posts/you-said-no-mcp/">https://earendil.com/posts/you-said-no-mcp/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49906637">https://news.ycombinator.com/item?id=49906637</a></p>
+<p>Points: 169</p>
+<p># Comments: 74</p>
 
-🔗 **Read more:** [https://lfm.xiffy.nl/](https://lfm.xiffy.nl/)
+🔗 **Read more:** [https://earendil.com/posts/you-said-no-mcp/](https://earendil.com/posts/you-said-no-mcp/)
 
 ---
 
-### 4. Chris Mason: Burnham delivers deeply political speech with a personal core
+### 4. Move to rejoin EU among options for UK, says Burnham
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes.
+The prime minister tells the BBC the current Brexit settlement has caused "more harm than good".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Household energy bills forecast to see biggest rise in four years
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. One of the five men arrested near RAF Fairford called 999 himself
+### 5. One of the five men arrested near RAF Fairford called 999 himself
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ He made the call almost an hour before a farmer also called police after seeing 
 
 ---
 
-### 7. OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’
+### 6. Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-AI giant launches &#039;dots&#039; to rival Meta&#039;s Muse and Google&#039;s Gemini Spark.
+One of the men seen outside the UK school attended by the children is understood to be an international press photographer.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage
+### 7. ‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fearing outright demolition, Muslims volunteer to take down parts of the city&#039;s Shahi Mosque themselves.
+Crude flows through Hormuz have recovered, but tanker insurance costs and geopolitical risks remain barriers to a return to normality.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss)
 
 ---
 
-### 9. Hegseth to cut number of US general and admiral positions by 20%
+### 8. Flydubai flight to Israel diverted after attack on pilot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pentagon official says the plan will be announced in the defence secretary&#039;s &#039;State of the Force&#039; address in Virginia.
+Dramatic video shows the aftermath of an attack on a pilot on a Flydubai flight to the Israeli city of Tel Aviv.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss)
+
+---
+
+### 9. Ireland vs Israel Nations League match will go ahead, coach confirms
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Football Association of Ireland says the team will fulfil the second fixture despite public opposition.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Rachel
+### 11. Hurricane Rachel
 
 **Source:** NASA
 
