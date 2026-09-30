@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 08:49:54
+**Last Update:** 2026-09-30 10:22:52
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. LinkedIn Larpmaxxing
+### 1. Tesla takes on $30B in credit as it approaches unprofitability
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/">https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49904314">https://news.ycombinator.com/item?id=49904314</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/">https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49904408">https://news.ycombinator.com/item?id=49904408</a></p>
+<p>Points: 79</p>
+<p># Comments: 93</p>
 
-🔗 **Read more:** [https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
+🔗 **Read more:** [https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/](https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/Sparticle62ops/pssa">https://github.com/Sparticle62ops/pssa</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903993">https://news.ycombinator.com/item?id=49903993</a></p>
-<p>Points: 35</p>
-<p># Comments: 9</p>
+<p>Points: 61</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://github.com/Sparticle62ops/pssa](https://github.com/Sparticle62ops/pssa)
 
@@ -51,27 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://lfm.xiffy.nl/">https://lfm.xiffy.nl/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49903862">https://news.ycombinator.com/item?id=49903862</a></p>
-<p>Points: 10</p>
-<p># Comments: 3</p>
+<p>Points: 30</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://lfm.xiffy.nl/](https://lfm.xiffy.nl/)
 
 ---
 
-### 4. Move to rejoin EU among options for UK, says Burnham
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister tells the BBC the current Brexit settlement has caused "more harm than good".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Chris Mason: Burnham delivers deeply political speech with a personal core
+### 4. Chris Mason: Burnham delivers deeply political speech with a personal core
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ The key thing to understand about Andy Burnham's speech is these were the words 
 
 ---
 
-### 6. Household energy bills forecast to see biggest rise in four years
+### 5. Household energy bills forecast to see biggest rise in four years
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ A typical household faces an annual gas and electricity bill of £1,999 from Jan
 
 ---
 
-### 7. Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning
+### 6. One of the five men arrested near RAF Fairford called 999 himself
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Opposition leader dismisses Netanyahu&#039;s warning of possible attacks during next month&#039;s general election.
+He made the call almost an hour before a farmer also called police after seeing men in balaclavas.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. South African president orders action on femicide after killings
+### 7. OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-South Africa’s President Cyril Ramaphosa has announced new measures to combat femicide and gender-based violence.
+AI giant launches &#039;dots&#039; to rival Meta&#039;s Muse and Google&#039;s Gemini Spark.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/south-african-president-orders-action-on-femicide-after-killings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss)
 
 ---
 
-### 9. Democrats hope anger at Trump enough to get young people to vote
+### 8. India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Political strategist Celinda Lake says that young voters don’t usually cast their ballots in midterm elections.
+Fearing outright demolition, Muslims volunteer to take down parts of the city&#039;s Shahi Mosque themselves.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss)
+
+---
+
+### 9. Hegseth to cut number of US general and admiral positions by 20%
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Pentagon official says the plan will be announced in the defence secretary&#039;s &#039;State of the Force&#039; address in Virginia.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/hegseth-to-cut-number-of-us-general-and-admiral-positions-by-20?traffic_source=rss)
 
 ---
 
