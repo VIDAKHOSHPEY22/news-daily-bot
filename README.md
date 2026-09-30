@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 17:27:04
+**Last Update:** 2026-09-30 21:52:04
 
 **Total News:** 12
 
@@ -10,129 +10,144 @@
 
 ## 📰 Latest News
 
-### 1. Upgrade your desktop: Ubuntu 26.04.1 LTS is now available
+### 1. Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts">https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49908757">https://news.ycombinator.com/item?id=49908757</a></p>
-<p>Points: 4</p>
+<p>Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.<p>We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.<p>Inference engines today all make a performance tradeoff. They are either:<p>- Built for batched inference on datacenter hardware at the cost of single-session performance (vLLM, SGLang)
+- Designed for broad compatibility instead of optimizing for specific hardware (llama.cpp, Ollama)
+- Specialized for specific hardware or models but lacking engine completeness (oMLX, ds4)<p>Plus none of them are designed for running agents locally. Sessions are long, several often run at once, and you still want to use your computer for other things.<p>Magnitude is built for maximum performance on your hardware and running local agents:<p>- On-device compilation and tuning: Kernels are written with flexible parameters that are tuned on your actual device before the model runs. This gives you broad hardware compatibility with the same performance ceiling as hardware-specific kernels.
+- Focus on best architectures: We write our tunable, highly efficient kernels for the most popular open-weights families. This allows us to achieve and surpass the performance of hardware or model specialized engines, without forcing ourselves to over-generalize at the cost of performance.
+- Dynamic memory allocation: Magnitude reserves only enough memory up front to hold model weights. As your agent sessions grow, the memory heap dynamically increases, and frees itself when agents stop. Your hardware can still be used for other stuff while agents run.
+- Hybrid paged attention: We borrow the best ideas from engines like SGLang to allow concurrent sessions to share prefix caches, but optimize placement for memory-adjacency so single-session performance doesn't suffer.<p>Magnitude is fully open source (Apache 2.0). We built it in Rust, including a custom GPU kernel runtime and autotuner. We take inspiration from the best innovations in inference from academics (e.g. FlashAttention, FlashInfer, TurboQuant) as well as other engines (e.g. SGLang radix attention) to reach the performance ceiling.<p>Benchmarked against llama.cpp with Qwen 3.6 35B A3B (4 bit), 64k context, no speculative decoding:<p>Metal (Mac M4 Pro 48 GB)
+- 92% faster decode (30 tok/s → 57 tok/s)
+- 9% faster prefill (466 tok/s → 507 tok/s)
+- 28% less per-agent memory usage<p>CUDA (DGX Spark)
+- 19% faster decode (49 tok/s → 58 tok/s)
+- 23% faster prefill (2,033 tok/s → 2,507 tok/s)
+- 27% less per-agent memory usage<p>Magnitude ships as a desktop app that you can easily connect with whatever agents you already use (Pi, OpenCode, Hermes, Codex, and more). It automatically runs models on demand when these agents actually need them, and shuts them down after inactivity.
+Here's what it looks like: <a href="https://www.youtube.com/watch?v=0qE8BWEZu7o" rel="nofollow">https://www.youtube.com/watch?v=0qE8BWEZu7o</a><p>We're excited to push Magnitude further to let you run bigger models on the same hardware while continuing to improve performance. Our plans include:<p>- Expert streaming: store experts on RAM or disk and load them just-in-time. This lets you run models bigger than what otherwise would fit on your GPU.
+- Kernel compiler: our current kernels tune a few parameters to fit your hardware. We can take this further with a fully custom compiler that automatically chooses how to fuse kernels and which implementations to use, to make it fit to your hardware even better.
+- Multi-device utilization: Make the best possible use of all hardware on a system (CPU, GPUs, RAM, disk) by detecting these and automatically solving for the best model layout.<p>We'd love for more people to try it out and give us feedback. Feel free to comment here, we'll be around all day!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49911995">https://news.ycombinator.com/item?id=49911995</a></p>
+<p>Points: 35</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://github.com/magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
+
+---
+
+### 2. Commit Description as a Thinking Tool
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://yedhu.me/posts/commit-description-as-a-thinking-tool/">https://yedhu.me/posts/commit-description-as-a-thinking-tool/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49911757">https://news.ycombinator.com/item?id=49911757</a></p>
+<p>Points: 37</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://yedhu.me/posts/commit-description-as-a-thinking-tool/](https://yedhu.me/posts/commit-description-as-a-thinking-tool/)
+
+---
+
+### 3. Bild AI (YC W25) Is Hiring a Founding Product Engineer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer">https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49911531">https://news.ycombinator.com/item?id=49911531</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts](https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts)
+🔗 **Read more:** [https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer)
 
 ---
 
-### 2. The last time my family was replaced by technology
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/">https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49908394">https://news.ycombinator.com/item?id=49908394</a></p>
-<p>Points: 34</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/)
-
----
-
-### 3. Most data centers refusing to say how much water, electricity they use
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use">https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49907057">https://news.ycombinator.com/item?id=49907057</a></p>
-<p>Points: 116</p>
-<p># Comments: 112</p>
-
-🔗 **Read more:** [https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
-
----
-
-### 4. Move to rejoin EU among options for UK, says Burnham
+### 4. 'We removed him from the cockpit': People speak about what happened
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister tells the BBC the current Brexit settlement has caused "more harm than good".
+Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: Detail about new call to police changes RAF Fairford timeline
+### 5. UK believes Iran involved in RAF Fairford incident, PM says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One of five men arrested near RAF Fairford in the early hours of Sunday morning had dialled 999 himself, the BBC understands. BBC's UK correspondent Daniel Sandford explains the timeline of events.
+The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6eq84800zlzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6eq84800zlzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school
+### 6. UK-France 'one in, one out' migrant scheme scrapped
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One of the men seen outside the UK school attended by the children is understood to be an international press photographer.
+Some 1,500 people have been removed to France since the scheme began just over a year ago.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why Israel is interfering in Palestinian education
+### 7. Trump set to announce $200bn in energy investments from South Korea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.
+The investments come as Trump seeks to tout the Republican Party&#039;s economic record ahead of the US midterm races.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss](https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss)
 
 ---
 
-### 8. Christa Pike seeks firing squad, not lethal injection: Inside US executions
+### 8. Why is Malaysia sending back Rohingya refugees to Myanmar?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Women make up about 1 percent of US executions. How do states put people to death, and why is it contested?
+Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss)
 
 ---
 
-### 9. Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue
+### 9. Syria removed from US arms export ban list
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.
+US has gradually loosened restrictions placed on Syria during the Assad era to aid country&#039;s recovery from conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss)
 
 ---
 
