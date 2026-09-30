@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-09-30 15:54:31
+**Last Update:** 2026-09-30 17:27:04
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Most data centers refusing to say how much water, electricity they use
+### 1. Upgrade your desktop: Ubuntu 26.04.1 LTS is now available
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts">https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49908757">https://news.ycombinator.com/item?id=49908757</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts](https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts)
+
+---
+
+### 2. The last time my family was replaced by technology
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/">https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49908394">https://news.ycombinator.com/item?id=49908394</a></p>
+<p>Points: 34</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/](https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/)
+
+---
+
+### 3. Most data centers refusing to say how much water, electricity they use
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use">https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49907057">https://news.ycombinator.com/item?id=49907057</a></p>
-<p>Points: 38</p>
-<p># Comments: 7</p>
+<p>Points: 116</p>
+<p># Comments: 112</p>
 
 🔗 **Read more:** [https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use](https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use)
-
----
-
-### 2. GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence">https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49906669">https://news.ycombinator.com/item?id=49906669</a></p>
-<p>Points: 58</p>
-<p># Comments: 71</p>
-
-🔗 **Read more:** [https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence](https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence)
-
----
-
-### 3. Pi.dev: You Said No MCP
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://earendil.com/posts/you-said-no-mcp/">https://earendil.com/posts/you-said-no-mcp/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49906637">https://news.ycombinator.com/item?id=49906637</a></p>
-<p>Points: 169</p>
-<p># Comments: 74</p>
-
-🔗 **Read more:** [https://earendil.com/posts/you-said-no-mcp/](https://earendil.com/posts/you-said-no-mcp/)
 
 ---
 
@@ -71,16 +71,16 @@ The prime minister tells the BBC the current Brexit settlement has caused "more 
 
 ---
 
-### 5. One of the five men arrested near RAF Fairford called 999 himself
+### 5. Watch: Detail about new call to police changes RAF Fairford timeline
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-He made the call almost an hour before a farmer also called police after seeing men in balaclavas.
+One of five men arrested near RAF Fairford in the early hours of Sunday morning had dialled 999 himself, the BBC understands. BBC's UK correspondent Daniel Sandford explains the timeline of events.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6eq84800zlzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6eq84800zlzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ One of the men seen outside the UK school attended by the children is understood
 
 ---
 
-### 7. ‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?
+### 7. Why Israel is interfering in Palestinian education
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Crude flows through Hormuz have recovered, but tanker insurance costs and geopolitical risks remain barriers to a return to normality.
+The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss](https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss)
 
 ---
 
-### 8. Flydubai flight to Israel diverted after attack on pilot
+### 8. Christa Pike seeks firing squad, not lethal injection: Inside US executions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dramatic video shows the aftermath of an attack on a pilot on a Flydubai flight to the Israeli city of Tel Aviv.
+Women make up about 1 percent of US executions. How do states put people to death, and why is it contested?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss)
 
 ---
 
-### 9. Ireland vs Israel Nations League match will go ahead, coach confirms
+### 9. Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Football Association of Ireland says the team will fulfil the second fixture despite public opposition.
+At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss](https://www.aljazeera.com/sports/2026/9/30/ireland-vs-israel-nations-league-match-will-go-ahead-coach-confirms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss)
 
 ---
 
