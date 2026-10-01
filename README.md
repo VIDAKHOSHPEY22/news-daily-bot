@@ -1,60 +1,62 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-01 23:08:17
+**Last Update:** 2026-10-02 01:14:18
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Oxygen-deprived underwater zones may not be "dead zones" but clue to early life
+### 1. The death of web development education
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49925742">https://news.ycombinator.com/item?id=49925742</a></p>
+<p>Article URL: <a href="https://molily.de/web-dev-education/">https://molily.de/web-dev-education/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927100">https://news.ycombinator.com/item?id=49927100</a></p>
+<p>Points: 14</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://molily.de/web-dev-education/](https://molily.de/web-dev-education/)
+
+---
+
+### 2. Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/Vibra-Ingenn/Janus">https://github.com/Vibra-Ingenn/Janus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49926773">https://news.ycombinator.com/item?id=49926773</a></p>
+<p>Points: 11</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/Vibra-Ingenn/Janus](https://github.com/Vibra-Ingenn/Janus)
+
+---
+
+### 3. Show HN: Rhun, an open-source code editor written in assembly
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I found that I'm not using even 1/3 of vim/vscode features anymore.<p>That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.<p>The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.
+The latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription.<p>It's a solo project, MIT licensed and still early.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49926726">https://news.ycombinator.com/item?id=49926726</a></p>
 <p>Points: 4</p>
-<p># Comments: 0</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570)
-
----
-
-### 2. Bez: Generating a browser engine from specs and tests
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tangled.org/burrito.space/bez">https://tangled.org/burrito.space/bez</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49925036">https://news.ycombinator.com/item?id=49925036</a></p>
-<p>Points: 23</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://tangled.org/burrito.space/bez](https://tangled.org/burrito.space/bez)
-
----
-
-### 3. SlutCon
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.thenewcritic.com/p/safe-at-slutcon">https://www.thenewcritic.com/p/safe-at-slutcon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49924354">https://news.ycombinator.com/item?id=49924354</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.thenewcritic.com/p/safe-at-slutcon](https://www.thenewcritic.com/p/safe-at-slutcon)
+🔗 **Read more:** [https://rhun.app/](https://rhun.app/)
 
 ---
 
@@ -65,13 +67,26 @@
 **Category:** world
 
 **Description:**
-The 27-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.
+The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'
+### 5. Christa Pike in critical condition after surviving two lethal injections, lawyer says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'
 
 **Source:** BBC
 
@@ -84,55 +99,42 @@ Israel's prime minister says the pilot who tried to take over the Flydubai plane
 
 ---
 
-### 6. Christa Pike in critical condition after surviving two lethal injections, lawyer says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. After Red Sea losses, Yemen’s government forces hold the line
+### 7. Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Air strikes and difficult terrain have prevented the Houthis from turning coastal gains into a wider breakthrough.
+Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo&#039;s absence not felt by Portugal in Austria.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss)
 
 ---
 
-### 8. Saudi-led coalition says power station attacked in Medina, blames Houthis
+### 8. Protesters halt game as calls grow on Ireland to boycott second Israel game
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At the same time in Yemen, the Saudi-backed government army says it is inflicting heavy losses on the Houthis in Taiz.
+Republic of Ireland&#039;s game halted by tennis balls thrown and invader with Palestine flags amid Israel boycott demand.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss)
 
 ---
 
-### 9. Canada to fast track oil pipeline meant to diversify economy away from US
+### 9. Most Americans say US-Israel war on Iran not worth fighting: Poll
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.
+Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss)
 
 ---
 

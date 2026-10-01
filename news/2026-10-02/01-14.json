@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T01:14:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The death of web development education",
+            "description": "<p>Article URL: <a href=\"https://molily.de/web-dev-education/\">https://molily.de/web-dev-education/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927100\">https://news.ycombinator.com/item?id=49927100</a></p>\n<p>Points: 14</p>\n<p># Comments: 5</p>",
+            "url": "https://molily.de/web-dev-education/",
+            "published": "Thu, 01 Oct 2026 21:07:37 +0000",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+            "description": "<p>Article URL: <a href=\"https://github.com/Vibra-Ingenn/Janus\">https://github.com/Vibra-Ingenn/Janus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926773\">https://news.ycombinator.com/item?id=49926773</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/Vibra-Ingenn/Janus",
+            "published": "Thu, 01 Oct 2026 20:36:47 +0000",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Rhun, an open-source code editor written in assembly",
+            "description": "<p>I found that I'm not using even 1/3 of vim/vscode features anymore.<p>That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.<p>The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription.<p>It's a solo project, MIT licensed and still early.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49926726\">https://news.ycombinator.com/item?id=49926726</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://rhun.app/",
+            "published": "Thu, 01 Oct 2026 20:32:18 +0000",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+            "description": "The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 19:45:16 GMT",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+            "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 20:48:12 GMT",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'",
+            "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+            "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 19:59:24 GMT",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark",
+            "description": "Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo&#039;s absence not felt by Portugal in Austria.",
+            "url": "https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 21:22:17 +0000",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
+            "description": "Republic of Ireland&#039;s game halted by tennis balls thrown and invader with Palestine flags amid Israel boycott demand.",
+            "url": "https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 21:14:55 +0000",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
+            "description": "Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 20:49:45 +0000",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T01:14:18+03:30"
+        }
+    ]
+}
