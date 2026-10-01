@@ -1,86 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-01 12:16:43
+**Last Update:** 2026-10-01 17:04:18
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Yantra – an LALR(1) parser generator for C++
+### 1. FTC is investigating OpenAI, Anthropic and other AI companies over product risks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.
-It builds the whole AST first, then walks it.<p>Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.<p>That means at the time a rule's action runs, you don't yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblings or defer a decision until more context is available.<p>On the other hand, Yantra always builds the whole AST first, then walks it top-down in a separate pass, calling your semantic actions as it goes. A parent rule's action can run before its children are visited.<p>A single grammar can define more than one walker. For example, one that emits C++, another that emits Java, from the same parse. The AST and the walker classes are both generated for you.<p>A small example (full version, with compile commands, in the README):<p><pre><code>  start := expr;
+<p>Article URL: <a href="https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html">https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49921050">https://news.ycombinator.com/item?id=49921050</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-  expr := expr(a) PLUS expr(b)
-  %{
-      std::cout << "Adding" << std::endl;
-  %}
+🔗 **Read more:** [https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
 
-  expr := NUMBER(N)
-  %{
-      std::cout << "Number: " << N.text << std::endl;
-  %}
+---
 
-  NUMBER := "\d+";
-  PLUS := "\+";
-  WS := "\s+"!;
-</code></pre>
-Running this on "1 + 2 + 3" prints:<p><pre><code>  Adding
-  Number: 1
-  Adding
-  Number: 2
-  Number: 3
-</code></pre>
-The outer "Adding", the root of the tree, prints first, before either of its children. That's only possible because the whole tree exists before any action runs.<p>Some other things about it: integrated lexer with mode support (for things like nested comments), an optional amalgamated single-file output mode with a generated main(), C++23, MIT licensed.<p>It's young (0.5.1, pre-1.0) and single-maintainer, so treat it as early.
-I'd rather know what breaks than have it look more finished than it is.<p>Known gaps are listed at
-<a href="https://github.com/TantrixAuto/yantra/blob/main/docs/known_limitations.md" rel="nofollow">https://github.com/TantrixAuto/yantra/blob/main/docs/known_l...</a><p>Repo: <a href="https://github.com/TantrixAuto/yantra" rel="nofollow">https://github.com/TantrixAuto/yantra</a><p>Feedback and questions are all welcome. I'll be around.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49916997">https://news.ycombinator.com/item?id=49916997</a></p>
-<p>Points: 23</p>
+### 2. Google breaks promise to provide 10 years of updates to Chromebooks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/">https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49920997">https://news.ycombinator.com/item?id=49920997</a></p>
+<p>Points: 39</p>
 <p># Comments: 14</p>
 
-🔗 **Read more:** [https://github.com/TantrixAuto/yantra](https://github.com/TantrixAuto/yantra)
+🔗 **Read more:** [https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/)
 
 ---
 
-### 2. 56k.rip – the 1996 dial-up internet experience
+### 3. Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://56k.rip/">https://56k.rip/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915126">https://news.ycombinator.com/item?id=49915126</a></p>
-<p>Points: 162</p>
-<p># Comments: 77</p>
+<p>Article URL: <a href="https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026">https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49920932">https://news.ycombinator.com/item?id=49920932</a></p>
+<p>Points: 32</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://56k.rip/](https://56k.rip/)
-
----
-
-### 3. The top secret URSALA, RAQUEL, and FARRAH satellites (2025)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.thespacereview.com/article/4951/1">https://www.thespacereview.com/article/4951/1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915082">https://news.ycombinator.com/item?id=49915082</a></p>
-<p>Points: 208</p>
-<p># Comments: 95</p>
-
-🔗 **Read more:** [https://www.thespacereview.com/article/4951/1](https://www.thespacereview.com/article/4951/1)
+🔗 **Read more:** [https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026](https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026)
 
 ---
 
@@ -110,55 +84,55 @@ Killer Christa Pike's lawyer says she is being given "life-saving measures" in h
 
 ---
 
-### 6. Watch: The many questions raised by the failed execution of Christa Pike
+### 6. What happened in failed execution of Christa Pike - and what next?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Her legal team filed an emergency motion to halt the convicted murderer's execution as it was happening.
+The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Will Democrats move beyond rhetoric on Israel’s illegal settlements?
+### 7. Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new E1 sanctions bill could test whether US objections are finally backed by consequences.
+Russian drone strikes hit a school in Kyiv and the main bridge, disrupting transport in the latest wave of attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/1/will-democrats-move-beyond-rhetoric-on-israels-illegal-settlements?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/1/will-democrats-move-beyond-rhetoric-on-israels-illegal-settlements?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss)
 
 ---
 
-### 8. OpenAI ‘reviewing’ report of failed hacking attempt against Canada’s gov’t
+### 8. Activists protest Indian police raid over kite-flying event for Palestine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI giant says it is reviewing report of attempted cyberattack on Canada&#039;s national archives agency.
+Pro-Palestinian activists protested in Mumbai after police raided the home of a volunteer who took part in Gaza event.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss)
 
 ---
 
-### 9. Palestinians to bury remains of 105 people killed in Israeli attack on Gaza
+### 9. Botswana at 60 challenges the story of postcolonial African failure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Coffins containing the remains of those killed will be carried in a funeral procession involving family members.
+Botswana showed that resource wealth need not condemn a country to corruption and underdevelopment.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure?traffic_source=rss)
 
 ---
 
