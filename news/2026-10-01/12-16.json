@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-01T12:16:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+            "description": "<p>Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.<p>Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.<p>That means at the time a rule's action runs, you don't yet know what its parent looks like. This pushes a lot of grammars toward hand-built AST classes and a separate walking pass whenever you need to look ahead into siblings or defer a decision until more context is available.<p>On the other hand, Yantra always builds the whole AST first, then walks it top-down in a separate pass, calling your semantic actions as it goes. A parent rule's action can run before its children are visited.<p>A single grammar can define more than one walker. For example, one that emits C++, another that emits Java, from the same parse. The AST and the walker classes are both generated for you.<p>A small example (full version, with compile commands, in the README):<p><pre><code>  start := expr;\n\n  expr := expr(a) PLUS expr(b)\n  %{\n      std::cout << \"Adding\" << std::endl;\n  %}\n\n  expr := NUMBER(N)\n  %{\n      std::cout << \"Number: \" << N.text << std::endl;\n  %}\n\n  NUMBER := \"\\d+\";\n  PLUS := \"\\+\";\n  WS := \"\\s+\"!;\n</code></pre>\nRunning this on \"1 + 2 + 3\" prints:<p><pre><code>  Adding\n  Number: 1\n  Adding\n  Number: 2\n  Number: 3\n</code></pre>\nThe outer \"Adding\", the root of the tree, prints first, before either of its children. That's only possible because the whole tree exists before any action runs.<p>Some other things about it: integrated lexer with mode support (for things like nested comments), an optional amalgamated single-file output mode with a generated main(), C++23, MIT licensed.<p>It's young (0.5.1, pre-1.0) and single-maintainer, so treat it as early.\nI'd rather know what breaks than have it look more finished than it is.<p>Known gaps are listed at\n<a href=\"https://github.com/TantrixAuto/yantra/blob/main/docs/known_limitations.md\" rel=\"nofollow\">https://github.com/TantrixAuto/yantra/blob/main/docs/known_l...</a><p>Repo: <a href=\"https://github.com/TantrixAuto/yantra\" rel=\"nofollow\">https://github.com/TantrixAuto/yantra</a><p>Feedback and questions are all welcome. I'll be around.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49916997\">https://news.ycombinator.com/item?id=49916997</a></p>\n<p>Points: 23</p>\n<p># Comments: 14</p>",
+            "url": "https://github.com/TantrixAuto/yantra",
+            "published": "Thu, 01 Oct 2026 02:30:48 +0000",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "56k.rip – the 1996 dial-up internet experience",
+            "description": "<p>Article URL: <a href=\"https://56k.rip/\">https://56k.rip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915126\">https://news.ycombinator.com/item?id=49915126</a></p>\n<p>Points: 162</p>\n<p># Comments: 77</p>",
+            "url": "https://56k.rip/",
+            "published": "Wed, 30 Sep 2026 22:08:50 +0000",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+            "description": "<p>Article URL: <a href=\"https://www.thespacereview.com/article/4951/1\">https://www.thespacereview.com/article/4951/1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915082\">https://news.ycombinator.com/item?id=49915082</a></p>\n<p>Points: 208</p>\n<p># Comments: 95</p>",
+            "url": "https://www.thespacereview.com/article/4951/1",
+            "published": "Wed, 30 Sep 2026 22:03:04 +0000",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
+            "description": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.",
+            "url": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 05:56:47 GMT",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US death row inmate survives execution attempt after two lethal injections",
+            "description": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+            "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 07:01:16 GMT",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: The many questions raised by the failed execution of Christa Pike",
+            "description": "Her legal team filed an emergency motion to halt the convicted murderer's execution as it was happening.",
+            "url": "https://www.bbc.co.uk/news/videos/cq5ymyl1y29ko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 06:14:24 GMT",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Democrats move beyond rhetoric on Israel’s illegal settlements?",
+            "description": "A new E1 sanctions bill could test whether US objections are finally backed by consequences.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/1/will-democrats-move-beyond-rhetoric-on-israels-illegal-settlements?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 08:13:15 +0000",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "OpenAI ‘reviewing’ report of failed hacking attempt against Canada’s gov’t",
+            "description": "AI giant says it is reviewing report of attempted cyberattack on Canada&#039;s national archives agency.",
+            "url": "https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 07:56:49 +0000",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
+            "description": "Coffins containing the remains of those killed will be carried in a funeral procession involving family members.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 07:23:18 +0000",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-10-01T12:16:43+03:30"
+        }
+    ]
+}
