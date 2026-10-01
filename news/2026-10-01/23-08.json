@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-01T23:08:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+            "description": "<p>Article URL: <a href=\"https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925742\">https://news.ycombinator.com/item?id=49925742</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+            "published": "Thu, 01 Oct 2026 19:03:42 +0000",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bez: Generating a browser engine from specs and tests",
+            "description": "<p>Article URL: <a href=\"https://tangled.org/burrito.space/bez\">https://tangled.org/burrito.space/bez</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49925036\">https://news.ycombinator.com/item?id=49925036</a></p>\n<p>Points: 23</p>\n<p># Comments: 0</p>",
+            "url": "https://tangled.org/burrito.space/bez",
+            "published": "Thu, 01 Oct 2026 18:08:03 +0000",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SlutCon",
+            "description": "<p>Article URL: <a href=\"https://www.thenewcritic.com/p/safe-at-slutcon\">https://www.thenewcritic.com/p/safe-at-slutcon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49924354\">https://news.ycombinator.com/item?id=49924354</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+            "url": "https://www.thenewcritic.com/p/safe-at-slutcon",
+            "published": "Thu, 01 Oct 2026 17:12:15 +0000",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+            "description": "The 27-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 17:51:23 GMT",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'",
+            "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+            "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 18:48:46 GMT",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+            "description": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 19:25:43 GMT",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "After Red Sea losses, Yemen’s government forces hold the line",
+            "description": "Air strikes and difficult terrain have prevented the Houthis from turning coastal gains into a wider breakthrough.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 19:05:25 +0000",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi-led coalition says power station attacked in Medina, blames Houthis",
+            "description": "At the same time in Yemen, the Saudi-backed government army says it is inflicting heavy losses on the Houthis in Taiz.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/saudi-led-coalition-says-power-station-attacked-in-medina-blames-houthis?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 19:03:14 +0000",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada to fast track oil pipeline meant to diversify economy away from US",
+            "description": "Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.",
+            "url": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 18:56:06 +0000",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-01T23:08:17+03:30"
+        }
+    ]
+}
