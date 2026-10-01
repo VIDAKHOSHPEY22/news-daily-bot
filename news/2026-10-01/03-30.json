@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-01T03:30:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "EDG C++ Compiler is open source",
+            "description": "<p>Article URL: <a href=\"https://github.com/edgcpp/compiler\">https://github.com/edgcpp/compiler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915484\">https://news.ycombinator.com/item?id=49915484</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/edgcpp/compiler",
+            "published": "Wed, 30 Sep 2026 22:48:44 +0000",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "56k.rip – the 1996 dial-up internet experience",
+            "description": "<p>Article URL: <a href=\"https://56k.rip/\">https://56k.rip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915126\">https://news.ycombinator.com/item?id=49915126</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://56k.rip/",
+            "published": "Wed, 30 Sep 2026 22:08:50 +0000",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Automating Wi-Fi setup testing on the ESP32",
+            "description": "<p>Article URL: <a href=\"https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/\">https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915119\">https://news.ycombinator.com/item?id=49915119</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
+            "published": "Wed, 30 Sep 2026 22:07:51 +0000",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+            "description": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 21:30:38 GMT",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dame Esther Rantzen: A presenter who campaigned for change",
+            "description": "The veteran broadcaster's career spanned street interviews, national campaigns and emotional reunions.",
+            "url": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 19:00:50 GMT",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+            "description": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+            "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 23:55:17 GMT",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
+            "description": "Cases have more than doubled since August as a dispute with federal health officials over the death count continues.",
+            "url": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 23:31:54 +0000",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+            "description": "Mammoth deal has raised questions about corporate consolidation and editorial independence in media.",
+            "url": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 23:15:00 +0000",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Senate rejects bill targeting AI data centre electricity costs",
+            "description": "Democrats criticise bill as lacking &#039;teeth&#039; and push for mandatory measures to address soaring electricity bills.",
+            "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
+            "published": "Wed, 30 Sep 2026 22:58:21 +0000",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-10-01T03:30:12+03:30"
+        }
+    ]
+}

@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-01 02:25:07
+**Last Update:** 2026-10-01 03:30:12
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why the Bronze Age Collapsed
+### 1. EDG C++ Compiler is open source
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.worksinprogress.news/p/why-really-caused-the-bronze-age">https://www.worksinprogress.news/p/why-really-caused-the-bronze-age</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915221">https://news.ycombinator.com/item?id=49915221</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://github.com/edgcpp/compiler">https://github.com/edgcpp/compiler</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915484">https://news.ycombinator.com/item?id=49915484</a></p>
+<p>Points: 13</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.worksinprogress.news/p/why-really-caused-the-bronze-age](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
+🔗 **Read more:** [https://github.com/edgcpp/compiler](https://github.com/edgcpp/compiler)
 
 ---
 
-### 2. Automating Wi-Fi setup testing on the ESP32
+### 2. 56k.rip – the 1996 dial-up internet experience
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://56k.rip/">https://56k.rip/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915126">https://news.ycombinator.com/item?id=49915126</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://56k.rip/](https://56k.rip/)
+
+---
+
+### 3. Automating Wi-Fi setup testing on the ESP32
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/">https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915119">https://news.ycombinator.com/item?id=49915119</a></p>
-<p>Points: 6</p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/](https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/)
-
----
-
-### 3. The top secret URSALA, RAQUEL, and FARRAH satellites
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.thespacereview.com/article/4951/1">https://www.thespacereview.com/article/4951/1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49915082">https://news.ycombinator.com/item?id=49915082</a></p>
-<p>Points: 46</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.thespacereview.com/article/4951/1](https://www.thespacereview.com/article/4951/1)
 
 ---
 
@@ -84,55 +84,55 @@ The veteran broadcaster's career spanned street interviews, national campaigns a
 
 ---
 
-### 6. UK believes Iran involved in RAF Fairford incident, PM says
+### 6. US Supreme Court allows execution of Christa Pike to go ahead
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Iran's foreign minister has responded, saying the PM was "barking up the wrong tree".
+The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Hong Kong journalist arrested on sedition charge
+### 7. Pennsylvania confirms fifth measles-associated death as US outbreak grows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.
+Cases have more than doubled since August as a dispute with federal health officials over the death count continues.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss)
 
 ---
 
-### 8. Russian drone crashes into Kyiv playground without exploding
+### 8. US judge approves settlement allowing Paramount to acquire Warner Bros
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.
+Mammoth deal has raised questions about corporate consolidation and editorial independence in media.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss)
 
 ---
 
-### 9. It’s the ‘closest thing to an HIV vaccine’, but who gets access?
+### 9. US Senate rejects bill targeting AI data centre electricity costs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.
+Democrats criticise bill as lacking &#039;teeth&#039; and push for mandatory measures to address soaring electricity bills.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss](https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss)
 
 ---
 
