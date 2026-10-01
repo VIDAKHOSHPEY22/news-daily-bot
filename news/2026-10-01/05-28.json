@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-01T05:28:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f\">https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49916668\">https://news.ycombinator.com/item?id=49916668</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f",
+            "published": "Thu, 01 Oct 2026 01:40:50 +0000",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "56k.rip – the 1996 dial-up internet experience",
+            "description": "<p>Article URL: <a href=\"https://56k.rip/\">https://56k.rip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915126\">https://news.ycombinator.com/item?id=49915126</a></p>\n<p>Points: 51</p>\n<p># Comments: 30</p>",
+            "url": "https://56k.rip/",
+            "published": "Wed, 30 Sep 2026 22:08:50 +0000",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Automating Wi-Fi setup testing on the ESP32",
+            "description": "<p>Article URL: <a href=\"https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/\">https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915119\">https://news.ycombinator.com/item?id=49915119</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
+            "published": "Wed, 30 Sep 2026 22:07:51 +0000",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+            "description": "Rantzen, who fronted the BBC's That's Life for two decades, went on to found Childline, and in recent years had been a campaigner for assisted dying.",
+            "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 01:10:30 GMT",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How That's Life! gave Esther Rantzen a career-defining moment",
+            "description": "Sir Nicholas Winton's story became national news when he appeared on That's Life! in February 1988.",
+            "url": "https://www.bbc.co.uk/news/articles/c3gr5ynd5p1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 18:19:30 GMT",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+            "description": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 21:29:43 GMT",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
+            "description": "Night time celebrations filled the air as Iraqis observed the start of a four-day holiday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 01:11:22 +0000",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
+            "description": "Israeli passengers tell of the horror onboard the Flydubai flight that was diverted after a pilot was stabbed.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 00:53:54 +0000",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran parades Shahed drones through capital",
+            "description": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 00:39:04 +0000",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-10-01T05:28:55+03:30"
+        }
+    ]
+}
