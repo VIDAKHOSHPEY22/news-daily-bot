@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-01T19:46:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)",
+            "description": "<p>Article URL: <a href=\"https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml\">https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923056\">https://news.ycombinator.com/item?id=49923056</a></p>\n<p>Points: 21</p>\n<p># Comments: 12</p>",
+            "url": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
+            "published": "Thu, 01 Oct 2026 15:33:26 +0000",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
+            "description": "<p>Article URL: <a href=\"https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf\">https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922736\">https://news.ycombinator.com/item?id=49922736</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
+            "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+            "published": "Thu, 01 Oct 2026 15:11:10 +0000",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/GayaniFigma/status/2105295629941350454\">https://twitter.com/GayaniFigma/status/2105295629941350454</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922729\">https://news.ycombinator.com/item?id=49922729</a></p>\n<p>Points: 42</p>\n<p># Comments: 18</p>",
+            "url": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+            "published": "Thu, 01 Oct 2026 15:10:46 +0000",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Hundreds of criminals start leaving prison under new early release scheme",
+            "description": "Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full.",
+            "url": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 15:18:22 GMT",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+            "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+            "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 15:38:13 GMT",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man City to argue sponsorship deals came from Abu Dhabi government",
+            "description": "Manchester City's appeal against the Premier League's verdict hinges on the club's claim that its sponsorship deals came from the Abu Dhabi government.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 15:38:08 GMT",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
+            "description": "Motive behind Flydubai incident still unclear, but Israeli PM is framing it within his warnings of threats to Israelis.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 15:47:23 +0000",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Denmark vs Portugal – UEFA Nations League; Ronaldo latest",
+            "description": "Follow our build-up, predictions, team news, Ronaldo latest, line-ups, score and live text commentary stream.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 15:32:17 +0000",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moroccan intelligence uses surveillance to ‘silence’ journalists: Amnesty",
+            "description": "Probe finds spyware, hidden microphones and infected phones used to surveil journalists, activists, rights defenders.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 15:04:21 +0000",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-01T19:46:36+03:30"
+        }
+    ]
+}

@@ -1,142 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-01 17:04:18
+**Last Update:** 2026-10-01 19:46:36
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. FTC is investigating OpenAI, Anthropic and other AI companies over product risks
+### 1. Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html">https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49921050">https://news.ycombinator.com/item?id=49921050</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml">https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49923056">https://news.ycombinator.com/item?id=49923056</a></p>
+<p>Points: 21</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html](https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html)
+🔗 **Read more:** [https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml](https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml)
 
 ---
 
-### 2. Google breaks promise to provide 10 years of updates to Chromebooks
+### 2. OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/">https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49920997">https://news.ycombinator.com/item?id=49920997</a></p>
-<p>Points: 39</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf">https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49922736">https://news.ycombinator.com/item?id=49922736</a></p>
+<p>Points: 23</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/](https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/)
+🔗 **Read more:** [https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf)
 
 ---
 
-### 3. Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026
+### 3. Figma restricts MCP access to whitelisted clients, excluding Pi
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026">https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49920932">https://news.ycombinator.com/item?id=49920932</a></p>
-<p>Points: 32</p>
+<p>Article URL: <a href="https://twitter.com/GayaniFigma/status/2105295629941350454">https://twitter.com/GayaniFigma/status/2105295629941350454</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49922729">https://news.ycombinator.com/item?id=49922729</a></p>
+<p>Points: 42</p>
 <p># Comments: 18</p>
 
-🔗 **Read more:** [https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026](https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026)
+🔗 **Read more:** [https://twitter.com/GayaniFigma/status/2105295629941350454](https://twitter.com/GayaniFigma/status/2105295629941350454)
 
 ---
 
-### 4. We fear for our lives after being told our abusive exes will be freed from jail early
+### 4. Hundreds of criminals start leaving prison under new early release scheme
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.
+Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US death row inmate survives execution attempt after two lethal injections
+### 5. Netanyahu says flight attacker 'underwent Islamist radical indoctrination'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Killer Christa Pike's lawyer says she is being given "life-saving measures" in hospital after two syringes of pentobarbital.
+Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to "down the plane".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. What happened in failed execution of Christa Pike - and what next?
+### 6. Man City to argue sponsorship deals came from Abu Dhabi government
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.
+Manchester City's appeal against the Premier League's verdict hinges on the club's claim that its sponsorship deals came from the Abu Dhabi government.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault
+### 7. Flydubai attack gives Netanyahu new security message ahead of Israel vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian drone strikes hit a school in Kyiv and the main bridge, disrupting transport in the latest wave of attacks.
+Motive behind Flydubai incident still unclear, but Israeli PM is framing it within his warnings of threats to Israelis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss)
 
 ---
 
-### 8. Activists protest Indian police raid over kite-flying event for Palestine
+### 8. LIVE: Denmark vs Portugal – UEFA Nations League; Ronaldo latest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pro-Palestinian activists protested in Mumbai after police raided the home of a volunteer who took part in Gaza event.
+Follow our build-up, predictions, team news, Ronaldo latest, line-ups, score and live text commentary stream.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss)
 
 ---
 
-### 9. Botswana at 60 challenges the story of postcolonial African failure
+### 9. Moroccan intelligence uses surveillance to ‘silence’ journalists: Amnesty
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Botswana showed that resource wealth need not condemn a country to corruption and underdevelopment.
+Probe finds spyware, hidden microphones and infected phones used to surveil journalists, activists, rights defenders.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Hanna
+### 10. Tropical Storm Choi-wan
 
 **Source:** NASA
 
@@ -145,24 +145,11 @@ Botswana showed that resource wealth need not condemn a country to corruption an
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962)
 
 ---
 
-### 11. Hurricane Rachel
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875)
-
----
-
-### 12. Wildfire Rafter 4B, Schleicher, Texas
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -171,7 +158,20 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964)
+
+---
+
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963)
 
 ---
 
