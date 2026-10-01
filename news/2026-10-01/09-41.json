@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-01T09:41:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Suits Are Better Tech Than Modern Clothes",
+            "description": "<p>Article URL: <a href=\"https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/\">https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49918161\">https://news.ycombinator.com/item?id=49918161</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/",
+            "published": "Thu, 01 Oct 2026 05:48:56 +0000",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fuck Android Developer Verification Program",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/0xcrypto/status/2105515822643114182\">https://twitter.com/0xcrypto/status/2105515822643114182</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917761\">https://news.ycombinator.com/item?id=49917761</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+            "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
+            "published": "Thu, 01 Oct 2026 04:32:38 +0000",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is sandboxing sufficient to contain rogue agents?",
+            "description": "<p>Article URL: <a href=\"https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\">https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49917378\">https://news.ycombinator.com/item?id=49917378</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+            "published": "Thu, 01 Oct 2026 03:27:41 +0000",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+            "description": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital.",
+            "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 05:34:41 GMT",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+            "description": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 03:43:06 GMT",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Plummeting Israel flight dropped like a rollercoaster, says passenger",
+            "description": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
+            "url": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 03:52:20 GMT",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs",
+            "description": "After months of wait-and-watch, India is calling out differences with Trump head on as domestic pressure mounts.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 05:37:39 +0000",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mourners bury DR Congo official killed after defending Ebola response",
+            "description": "Marie-Celestin Karondwa died of his injuries after being beaten at his home in Butembo, an Ebola hotspot, on Sunday.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/dr-congo-official-beaten-to-death-after-defending-ebola-response-is-buried?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 05:18:52 +0000",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
+            "description": "The bodies of 105 Palestinians have been recovered from the rubble of a residential block destroyed by Israel.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 05:04:28 +0000",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Hanna",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24909",
+            "published": "2026-09-28T15:00:00Z",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Rachel",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24875",
+            "published": "2026-09-27T18:00:00Z",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Rafter 4B, Schleicher, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24904",
+            "published": "2026-09-26T15:18:00Z",
+            "fetched": "2026-10-01T09:41:07+03:30"
+        }
+    ]
+}
