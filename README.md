@@ -1,62 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 01:14:18
+**Last Update:** 2026-10-02 03:28:22
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. The death of web development education
+### 1. Apple's smart home camera reportedly won't record video
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://molily.de/web-dev-education/">https://molily.de/web-dev-education/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927100">https://news.ycombinator.com/item?id=49927100</a></p>
-<p>Points: 14</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://molily.de/web-dev-education/](https://molily.de/web-dev-education/)
-
----
-
-### 2. Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/Vibra-Ingenn/Janus">https://github.com/Vibra-Ingenn/Janus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49926773">https://news.ycombinator.com/item?id=49926773</a></p>
-<p>Points: 11</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://github.com/Vibra-Ingenn/Janus](https://github.com/Vibra-Ingenn/Janus)
-
----
-
-### 3. Show HN: Rhun, an open-source code editor written in assembly
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I found that I'm not using even 1/3 of vim/vscode features anymore.<p>That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.<p>The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.
-The latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription.<p>It's a solo project, MIT licensed and still early.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49926726">https://news.ycombinator.com/item?id=49926726</a></p>
+<p>Article URL: <a href="https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/">https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49928054">https://news.ycombinator.com/item?id=49928054</a></p>
 <p>Points: 4</p>
-<p># Comments: 1</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://rhun.app/](https://rhun.app/)
+🔗 **Read more:** [https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)
+
+---
+
+### 2. 2026 International Utility Locate Rodeo
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://locaterodeo.net/">https://locaterodeo.net/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927844">https://news.ycombinator.com/item?id=49927844</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://locaterodeo.net/](https://locaterodeo.net/)
+
+---
+
+### 3. Aweb – Communication for AI Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://aweb.ai">https://aweb.ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927587">https://news.ycombinator.com/item?id=49927587</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://aweb.ai](https://aweb.ai)
 
 ---
 
@@ -73,68 +71,68 @@ The 25-year-old man was arrested in Westminster, London, marking the sixth arres
 
 ---
 
-### 5. Christa Pike in critical condition after surviving two lethal injections, lawyer says
+### 5. Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.
+The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'
+### 6. US says Europe should ready fuel supplies as Trump threatens diesel ban
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to "down the plane".
+President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Joy for Germany and Klopp as Ronaldo-less Portugal win in Denmark
+### 7. Brazilian government calls for probe into US funding of far-right causes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo&#039;s absence not felt by Portugal in Austria.
+Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/1/joy-for-germany-as-ronaldo-less-portugal-win-in-denmark?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss)
 
 ---
 
-### 8. Protesters halt game as calls grow on Ireland to boycott second Israel game
+### 8. 94-year-old Jewish barrister arrested for supporting Palestine Action
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Republic of Ireland&#039;s game halted by tennis balls thrown and invader with Palestine flags amid Israel boycott demand.
+A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/1/protesters-halt-game-as-calls-grow-on-ireland-to-boycott-second-israel-game?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss)
 
 ---
 
-### 9. Most Americans say US-Israel war on Iran not worth fighting: Poll
+### 9. France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.
+France face neighbours Italy in new coach Zinedine Zidane&#039;s first home game, with Mbappe out injured.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss)
 
 ---
 

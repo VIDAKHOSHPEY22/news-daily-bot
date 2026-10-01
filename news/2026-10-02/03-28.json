@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T03:28:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple's smart home camera reportedly won't record video",
+            "description": "<p>Article URL: <a href=\"https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/\">https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928054\">https://news.ycombinator.com/item?id=49928054</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
+            "published": "Thu, 01 Oct 2026 23:00:10 +0000",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "2026 International Utility Locate Rodeo",
+            "description": "<p>Article URL: <a href=\"https://locaterodeo.net/\">https://locaterodeo.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927844\">https://news.ycombinator.com/item?id=49927844</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://locaterodeo.net/",
+            "published": "Thu, 01 Oct 2026 22:33:23 +0000",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Aweb – Communication for AI Agents",
+            "description": "<p>Article URL: <a href=\"https://aweb.ai\">https://aweb.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49927587\">https://news.ycombinator.com/item?id=49927587</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://aweb.ai",
+            "published": "Thu, 01 Oct 2026 22:02:31 +0000",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+            "description": "The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 19:45:16 GMT",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+            "description": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 23:45:06 GMT",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+            "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+            "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 22:21:16 GMT",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazilian government calls for probe into US funding of far-right causes",
+            "description": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.",
+            "url": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 22:48:17 +0000",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+            "description": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 22:44:56 +0000",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form",
+            "description": "France face neighbours Italy in new coach Zinedine Zidane&#039;s first home game, with Mbappe out injured.",
+            "url": "https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss",
+            "published": "Thu, 01 Oct 2026 22:31:30 +0000",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T03:28:22+03:30"
+        }
+    ]
+}
