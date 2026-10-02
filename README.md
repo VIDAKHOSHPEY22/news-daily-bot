@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 09:24:24
+**Last Update:** 2026-10-02 11:51:00
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
@@ -19,30 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://inrng.com/2026/10/shimano-bicycle-museum/">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49930047">https://news.ycombinator.com/item?id=49930047</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 65</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://inrng.com/2026/10/shimano-bicycle-museum/](https://inrng.com/2026/10/shimano-bicycle-museum/)
 
 ---
 
-### 2. Meta's Muse is fantastic for web scraping
+### 2. Building reliable (and fast) directory sync
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/">https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929970">https://news.ycombinator.com/item?id=49929970</a></p>
-<p>Points: 17</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.firezone.dev/blog/building-reliable-directory-sync">https://www.firezone.dev/blog/building-reliable-directory-sync</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929925">https://news.ycombinator.com/item?id=49929925</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
+🔗 **Read more:** [https://www.firezone.dev/blog/building-reliable-directory-sync](https://www.firezone.dev/blog/building-reliable-directory-sync)
 
 ---
 
-### 3. DeepSeek Harness
+### 3. DeepSeek Harness Desktop for macOS and Windows
 
 **Source:** Hacker News
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.deepseek.com/en/harness/">https://www.deepseek.com/en/harness/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929489">https://news.ycombinator.com/item?id=49929489</a></p>
-<p>Points: 87</p>
-<p># Comments: 26</p>
+<p>Points: 204</p>
+<p># Comments: 101</p>
 
 🔗 **Read more:** [https://www.deepseek.com/en/harness/](https://www.deepseek.com/en/harness/)
 
 ---
 
-### 4. US pressures Europe over diesel reserves as Trump threatens export ban
+### 4. 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. US pressures Europe to release diesel reserves as Trump threatens export ban
 
 **Source:** BBC
 
@@ -68,19 +81,6 @@
 President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The prime minister's comments on Man City were revealing on several levels - and
 
 ---
 
-### 7. How Switzerland lost 20 percent of its ice in five years
+### 7. Russia tries to freeze Ukraine as it suffers record casualties and retreats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Swiss glaciers have lost more than 5 percent of their ice, threatening the country’s alpine economy.
+Moscow has suffered further losses of occupied territory, but is using new drones to beat Ukraine&#039;s defences.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss)
 
 ---
 
-### 8. Nepal avalanche kills at least 15 expedition workers
+### 8. Indian police detain politicians at protests over election chief
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rescuers recovered eight more bodies on Thursday from the area of an avalanche that swept through a mountain camp.
+Police in New Delhi have detained opposition politicians and demonstrators during protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss)
 
 ---
 
-### 9. Student protests in Chile turn to violent clashes with police
+### 9. Lawyers for US inmate who survived lethal injections demand release
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Riot police in Chile’s capital deployed tear gas and water cannons to disperse hundreds of students.
+Christa Pike is in critical condition after two failed attempts to execute her by lethal injection, her lawyer says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss)
 
 ---
 

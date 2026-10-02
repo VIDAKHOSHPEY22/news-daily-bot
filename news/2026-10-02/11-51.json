@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T11:51:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Shimano Bicycle Museum Review",
+            "description": "<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p>\n<p>Points: 65</p>\n<p># Comments: 8</p>",
+            "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+            "published": "Fri, 02 Oct 2026 05:12:58 +0000",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Building reliable (and fast) directory sync",
+            "description": "<p>Article URL: <a href=\"https://www.firezone.dev/blog/building-reliable-directory-sync\">https://www.firezone.dev/blog/building-reliable-directory-sync</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929925\">https://news.ycombinator.com/item?id=49929925</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+            "published": "Fri, 02 Oct 2026 04:45:36 +0000",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek Harness Desktop for macOS and Windows",
+            "description": "<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 204</p>\n<p># Comments: 101</p>",
+            "url": "https://www.deepseek.com/en/harness/",
+            "published": "Fri, 02 Oct 2026 03:11:20 +0000",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+            "description": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.",
+            "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 08:16:53 GMT",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+            "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+            "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 08:16:32 GMT",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+            "description": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 22:22:43 GMT",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
+            "description": "Moscow has suffered further losses of occupied territory, but is using new drones to beat Ukraine&#039;s defences.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 08:03:02 +0000",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indian police detain politicians at protests over election chief",
+            "description": "Police in New Delhi have detained opposition politicians and demonstrators during protests.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 07:59:49 +0000",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lawyers for US inmate who survived lethal injections demand release",
+            "description": "Christa Pike is in critical condition after two failed attempts to execute her by lethal injection, her lawyer says.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 07:58:08 +0000",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T11:51:00+03:30"
+        }
+    ]
+}
