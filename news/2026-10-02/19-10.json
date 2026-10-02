@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T19:10:50+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Big Tech ruined the cloud, so we're renaming ours",
+            "description": "<p>Article URL: <a href=\"https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/\">https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934228\">https://news.ycombinator.com/item?id=49934228</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+            "published": "Fri, 02 Oct 2026 14:57:22 +0000",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon seeks to offload $8B of Nvidia chips to investors",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/\">https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933958\">https://news.ycombinator.com/item?id=49933958</a></p>\n<p>Points: 57</p>\n<p># Comments: 59</p>",
+            "url": "https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/",
+            "published": "Fri, 02 Oct 2026 14:30:32 +0000",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Legend of von Neumann [pdf]",
+            "description": "<p>Article URL: <a href=\"https://gwern.net/doc/math/1973-halmos.pdf\">https://gwern.net/doc/math/1973-halmos.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933235\">https://news.ycombinator.com/item?id=49933235</a></p>\n<p>Points: 77</p>\n<p># Comments: 40</p>",
+            "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+            "published": "Fri, 02 Oct 2026 13:18:32 +0000",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "School protests send shivers down French government's spine",
+            "description": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
+            "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 12:43:02 GMT",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+            "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.",
+            "url": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 08:46:37 GMT",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+            "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 14:01:09 GMT",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
+            "description": "Both decrees to tackle housing affordability crisis shot down as critics say measures would tighten the housing market.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 15:01:08 +0000",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
+            "description": "Macron says G7 will release 100 million barrels over four months; diesel release to be &#039;frontloaded&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 14:14:18 +0000",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
+            "description": "Analysts warn unrest is likely to spill into neighbouring states and could further destabilise war-torn Sudan.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 13:53:24 +0000",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T19:10:50+03:30"
+        }
+    ]
+}
