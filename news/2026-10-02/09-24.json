@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T09:24:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Shimano Bicycle Museum Review",
+            "description": "<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+            "published": "Fri, 02 Oct 2026 05:12:58 +0000",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta's Muse is fantastic for web scraping",
+            "description": "<p>Article URL: <a href=\"https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/\">https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929970\">https://news.ycombinator.com/item?id=49929970</a></p>\n<p>Points: 17</p>\n<p># Comments: 8</p>",
+            "url": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
+            "published": "Fri, 02 Oct 2026 04:56:02 +0000",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek Harness",
+            "description": "<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 87</p>\n<p># Comments: 26</p>",
+            "url": "https://www.deepseek.com/en/harness/",
+            "published": "Fri, 02 Oct 2026 03:11:20 +0000",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+            "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+            "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 05:26:06 GMT",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+            "description": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 23:45:06 GMT",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+            "description": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 22:22:43 GMT",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Switzerland lost 20 percent of its ice in five years",
+            "description": "Swiss glaciers have lost more than 5 percent of their ice, threatening the country’s alpine economy.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 04:59:58 +0000",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nepal avalanche kills at least 15 expedition workers",
+            "description": "Rescuers recovered eight more bodies on Thursday from the area of an avalanche that swept through a mountain camp.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 04:53:49 +0000",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Student protests in Chile turn to violent clashes with police",
+            "description": "Riot police in Chile’s capital deployed tear gas and water cannons to disperse hundreds of students.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 04:49:52 +0000",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T09:24:24+03:30"
+        }
+    ]
+}
