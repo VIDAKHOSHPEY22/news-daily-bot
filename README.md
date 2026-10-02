@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 11:51:00
+**Last Update:** 2026-10-02 16:23:30
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Shimano Bicycle Museum Review
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://inrng.com/2026/10/shimano-bicycle-museum/">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49930047">https://news.ycombinator.com/item?id=49930047</a></p>
-<p>Points: 65</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://inrng.com/2026/10/shimano-bicycle-museum/](https://inrng.com/2026/10/shimano-bicycle-museum/)
-
----
-
-### 2. Building reliable (and fast) directory sync
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.firezone.dev/blog/building-reliable-directory-sync">https://www.firezone.dev/blog/building-reliable-directory-sync</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929925">https://news.ycombinator.com/item?id=49929925</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.firezone.dev/blog/building-reliable-directory-sync](https://www.firezone.dev/blog/building-reliable-directory-sync)
-
----
-
-### 3. DeepSeek Harness Desktop for macOS and Windows
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.deepseek.com/en/harness/">https://www.deepseek.com/en/harness/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49929489">https://news.ycombinator.com/item?id=49929489</a></p>
-<p>Points: 204</p>
-<p># Comments: 101</p>
-
-🔗 **Read more:** [https://www.deepseek.com/en/harness/](https://www.deepseek.com/en/harness/)
-
----
-
-### 4. 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
+### 1. 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi.
+Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US pressures Europe to release diesel reserves as Trump threatens export ban
+### 2. Watch: Emotional pilot recounts moment of Flydubai attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.
+He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Chris Mason: Why Andy Burnham's about-turn on Manchester City matters
+### 3. Man City lodge appeal after being found guilty of breaching financial rules
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.
+The club's statement says the ruling contains "clear material errors, of law, principle and fact, and is unsafe".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia tries to freeze Ukraine as it suffers record casualties and retreats
+### 4. Moment mother bear slams into car to protect cub
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moscow has suffered further losses of occupied territory, but is using new drones to beat Ukraine&#039;s defences.
+This mother bear was not going to let a driver in Japan pass her cub without a warning.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss)
 
 ---
 
-### 8. Indian police detain politicians at protests over election chief
+### 5. 12 minutes of madness: How Flydubai pilot, passengers saved plane midfall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police in New Delhi have detained opposition politicians and demonstrators during protests.
+As it plunged 17,000ft in under two minutes, a quick-thinking captain and passengers saved plane from crashing.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss)
 
 ---
 
-### 9. Lawyers for US inmate who survived lethal injections demand release
+### 6. Ethiopian gov’t-aligned group claims close to full control of Tigray region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Christa Pike is in critical condition after two failed attempts to execute her by lethal injection, her lawyer says.
+Claim comes as violence flares across northern Ethiopia, deteriorating diplomatic, humanitarian situations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Choi-wan
+### 7. Tropical Storm Choi-wan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Hatch Grade, Walla Walla, Washington
+### 9. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 
