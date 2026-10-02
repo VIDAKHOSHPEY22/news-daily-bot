@@ -1,142 +1,143 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 19:10:50
+**Last Update:** 2026-10-02 22:02:38
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Big Tech ruined the cloud, so we're renaming ours
+### 1. Leaderboards and speedrun.com's new terms of service
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/">https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49934228">https://news.ycombinator.com/item?id=49934228</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://therun.gg/blog/leaderboards-speedruncom">https://therun.gg/blog/leaderboards-speedruncom</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49936641">https://news.ycombinator.com/item?id=49936641</a></p>
+<p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/](https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/)
+🔗 **Read more:** [https://therun.gg/blog/leaderboards-speedruncom](https://therun.gg/blog/leaderboards-speedruncom)
 
 ---
 
-### 2. Amazon seeks to offload $8B of Nvidia chips to investors
+### 2. ICC judge on what U.S. sanctions mean for her and global courts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/">https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49933958">https://news.ycombinator.com/item?id=49933958</a></p>
-<p>Points: 57</p>
-<p># Comments: 59</p>
+<p>Article URL: <a href="https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost">https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49935867">https://news.ycombinator.com/item?id=49935867</a></p>
+<p>Points: 147</p>
+<p># Comments: 64</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/](https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/)
+🔗 **Read more:** [https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost](https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost)
 
 ---
 
-### 3. The Legend of von Neumann [pdf]
+### 3. STS-51-F Abort-to-Orbit (1985)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gwern.net/doc/math/1973-halmos.pdf">https://gwern.net/doc/math/1973-halmos.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49933235">https://news.ycombinator.com/item?id=49933235</a></p>
-<p>Points: 77</p>
-<p># Comments: 40</p>
+<p>Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The overall mission continued, accomplished its other objectives, and was considered a success despite the engine failure.<p>Some 2015 coverage of this mission:<p><a href="https://www.americaspace.com/2015/07/25/going-to-spain-30-years-since-the-unlucky-success-of-mission-51f-part-1/" rel="nofollow">https://www.americaspace.com/2015/07/25/going-to-spain-30-ye...</a><p><a href="https://www.americaspace.com/2015/07/26/cola-and-solar-wars-30-years-since-the-unlucky-success-of-mission-51f-part-2/" rel="nofollow">https://www.americaspace.com/2015/07/26/cola-and-solar-wars-...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49935797">https://news.ycombinator.com/item?id=49935797</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://gwern.net/doc/math/1973-halmos.pdf](https://gwern.net/doc/math/1973-halmos.pdf)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/STS-51-F](https://en.wikipedia.org/wiki/STS-51-F)
 
 ---
 
-### 4. School protests send shivers down French government's spine
+### 4. Watch: Why has UK diesel price hit an all time high?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.
+Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
+### 5. Riot police clash with students as education protests rage in France
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot.
+More than 600 schools have faced disruption as protests over standards and lack of teachers continue.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. I've seen nearly 500 executions - but never one like Christa Pike's
+### 6. Intensified Russian strikes are tearing Kyiv apart, warns mayor
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.
+Vitaliy Klitschko says Ukraine's capital is in a "very dramatic situation" as Russia hits critical infrastructure.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Spain’s parliament rejects gov’t housing decrees amid mass protests
+### 7. Israeli barrier cuts off water to West Bank Palestinians before elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Both decrees to tackle housing affordability crisis shot down as critics say measures would tighten the housing market.
+Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss)
 
 ---
 
-### 8. G7 announces oil reserve release, as Trump hails Europe diesel deal
+### 8. Israel’s Supreme Court overturns election panel ban on Arab parties
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Macron says G7 will release 100 million barrels over four months; diesel release to be &#039;frontloaded&#039;.
+Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss)
 
 ---
 
-### 9. Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?
+### 9. ‘I want the truth’: NY governor appoints prosecutor in Cornell rape case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts warn unrest is likely to spill into neighbouring states and could further destabilise war-torn Sudan.
+New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Choi-wan
+### 10. Typhoon Choi-wan
 
 **Source:** NASA
 

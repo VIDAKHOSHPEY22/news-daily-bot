@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T22:02:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Leaderboards and speedrun.com's new terms of service",
+            "description": "<p>Article URL: <a href=\"https://therun.gg/blog/leaderboards-speedruncom\">https://therun.gg/blog/leaderboards-speedruncom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936641\">https://news.ycombinator.com/item?id=49936641</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://therun.gg/blog/leaderboards-speedruncom",
+            "published": "Fri, 02 Oct 2026 18:07:05 +0000",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+            "description": "<p>Article URL: <a href=\"https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost\">https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49935867\">https://news.ycombinator.com/item?id=49935867</a></p>\n<p>Points: 147</p>\n<p># Comments: 64</p>",
+            "url": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+            "published": "Fri, 02 Oct 2026 17:02:31 +0000",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "STS-51-F Abort-to-Orbit (1985)",
+            "description": "<p>Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The overall mission continued, accomplished its other objectives, and was considered a success despite the engine failure.<p>Some 2015 coverage of this mission:<p><a href=\"https://www.americaspace.com/2015/07/25/going-to-spain-30-years-since-the-unlucky-success-of-mission-51f-part-1/\" rel=\"nofollow\">https://www.americaspace.com/2015/07/25/going-to-spain-30-ye...</a><p><a href=\"https://www.americaspace.com/2015/07/26/cola-and-solar-wars-30-years-since-the-unlucky-success-of-mission-51f-part-2/\" rel=\"nofollow\">https://www.americaspace.com/2015/07/26/cola-and-solar-wars-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49935797\">https://news.ycombinator.com/item?id=49935797</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://en.wikipedia.org/wiki/STS-51-F",
+            "published": "Fri, 02 Oct 2026 16:56:47 +0000",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has UK diesel price hit an all time high?",
+            "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+            "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 16:58:30 GMT",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Riot police clash with students as education protests rage in France",
+            "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+            "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 17:43:10 GMT",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+            "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 15:26:37 GMT",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+            "description": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 18:18:42 +0000",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
+            "description": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 18:11:37 +0000",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
+            "description": "New York Governor Kathy Hochul says local authorities failed to properly investigate the 2024 allegations.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/i-want-the-truth-ny-governor-appoints-prosecutor-in-cornell-rape-case?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 17:43:30 +0000",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T22:02:38+03:30"
+        }
+    ]
+}
