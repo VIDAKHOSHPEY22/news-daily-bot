@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 00:06:57
+**Last Update:** 2026-10-03 02:35:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Made an open-source Lego AI generator
+### 1. Open-sourcing AstaBrief, the fast report-generation model in Asta
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi there :-) New on HN, first time posting.<p>Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.<p>This LDraw is literally an "assembly" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time.<p>When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted with, modified, etc.<p>Or, in other words: one LDraw source file in .mpd or .ldr format is equivalent to one LEGO CAD model.<p>So, the idea I had was: if I manage for maybe ChatGPT or Claude to generate high-quality LDraw source files... then, they would actually be generating high-quality LEGO CAD models, right?<p>Then, after months of iterations and trying one thing after the other... it worked!!!<p>Long story short: using GPT-6 Astra and Opus 5.5, I've managed to create a python toolset, instructions, and docs for agents in general. Now, these can be used by them to generate LDraw models.<p>I've packed it all as a dockerized web app for others to try and experiment, with several providers (and agents) to choose from: OpenAI, Claude and OpenRouter.<p>I'd really appreciate feedback and comments, let's see where this goes =)</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49937916">https://news.ycombinator.com/item?id=49937916</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://allenai.org/blog/astabrief">https://allenai.org/blog/astabrief</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938783">https://news.ycombinator.com/item?id=49938783</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/anteloc/ldraw-nova](https://github.com/anteloc/ldraw-nova)
+🔗 **Read more:** [https://allenai.org/blog/astabrief](https://allenai.org/blog/astabrief)
 
 ---
 
-### 2. GrapheneOS has fixed the Android 17 QPR1 kernel performance regression
+### 2. The Harness Is the Company
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression">https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49937718">https://news.ycombinator.com/item?id=49937718</a></p>
-<p>Points: 38</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://blog.sshh.io/p/the-harness-is-the-company">https://blog.sshh.io/p/the-harness-is-the-company</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938616">https://news.ycombinator.com/item?id=49938616</a></p>
+<p>Points: 29</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression](https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression)
+🔗 **Read more:** [https://blog.sshh.io/p/the-harness-is-the-company](https://blog.sshh.io/p/the-harness-is-the-company)
 
 ---
 
-### 3. Updates to Full Disk Access in macOS
+### 3. Zig v0.17.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://developer.apple.com/news/?id=p6zjojqw">https://developer.apple.com/news/?id=p6zjojqw</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49937631">https://news.ycombinator.com/item?id=49937631</a></p>
-<p>Points: 33</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://ziglang.org/download/0.17.0/release-notes.html">https://ziglang.org/download/0.17.0/release-notes.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938521">https://news.ycombinator.com/item?id=49938521</a></p>
+<p>Points: 137</p>
+<p># Comments: 65</p>
 
-🔗 **Read more:** [https://developer.apple.com/news/?id=p6zjojqw](https://developer.apple.com/news/?id=p6zjojqw)
+🔗 **Read more:** [https://ziglang.org/download/0.17.0/release-notes.html](https://ziglang.org/download/0.17.0/release-notes.html)
 
 ---
 
@@ -72,7 +71,20 @@ Counter terror police say the further charge comes after a "hugely intensive and
 
 ---
 
-### 5. Watch: Why has UK diesel price hit an all time high?
+### 5. G7 to release 100 million barrels of oil and diesel after Trump export ban threat
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Watch: Why has UK diesel price hit an all time high?
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 
 ---
 
-### 6. Riot police clash with students as education protests rage in France
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-More than 600 schools have faced disruption as protests over standards and lack of teachers continue.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Arab party leader withdraws from Israeli elections
+### 7. Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.
+Smit Machchhar recalls midair disaster after co-pilot&#039;s attack on Flydubai flight to Tel Aviv.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss)
 
 ---
 
-### 8. Trump says Europe agreed to release ‘massive amount’ of diesel reserves
+### 8. Why Carney’s economic overhaul is clashing with Canada’s unions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump says Europe agreed to release a ‘massive amount’ of diesel from emergency stockpiles.
+Unions say proposed changes to Canada&#039;s labour laws could weaken workers’ right to strike.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss)
 
 ---
 
-### 9. Sudan’s army says it captured RSF stronghold in North Kordofan
+### 9. Croatia vs England: UEFA Nations League – Kane, Modric, teams, form
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sudanese Armed Forces reportedly retake al-Mazroub, advancing the army&#039;s goal of cutting the RSF’s supply lines.
+Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss)
 
 ---
 

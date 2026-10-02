@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-03T02:35:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+            "description": "<p>Article URL: <a href=\"https://allenai.org/blog/astabrief\">https://allenai.org/blog/astabrief</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938783\">https://news.ycombinator.com/item?id=49938783</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://allenai.org/blog/astabrief",
+            "published": "Fri, 02 Oct 2026 21:25:25 +0000",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Harness Is the Company",
+            "description": "<p>Article URL: <a href=\"https://blog.sshh.io/p/the-harness-is-the-company\">https://blog.sshh.io/p/the-harness-is-the-company</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938616\">https://news.ycombinator.com/item?id=49938616</a></p>\n<p>Points: 29</p>\n<p># Comments: 29</p>",
+            "url": "https://blog.sshh.io/p/the-harness-is-the-company",
+            "published": "Fri, 02 Oct 2026 21:06:56 +0000",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zig v0.17.0",
+            "description": "<p>Article URL: <a href=\"https://ziglang.org/download/0.17.0/release-notes.html\">https://ziglang.org/download/0.17.0/release-notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938521\">https://news.ycombinator.com/item?id=49938521</a></p>\n<p>Points: 137</p>\n<p># Comments: 65</p>",
+            "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+            "published": "Fri, 02 Oct 2026 20:56:36 +0000",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe suspect charged with planning terror act against Farage",
+            "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+            "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 21:32:25 GMT",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+            "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+            "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 20:25:19 GMT",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has UK diesel price hit an all time high?",
+            "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+            "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 16:58:30 GMT",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+            "description": "Smit Machchhar recalls midair disaster after co-pilot&#039;s attack on Flydubai flight to Tel Aviv.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 22:50:23 +0000",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Carney’s economic overhaul is clashing with Canada’s unions",
+            "description": "Unions say proposed changes to Canada&#039;s labour laws could weaken workers’ right to strike.",
+            "url": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 22:14:34 +0000",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Croatia vs England: UEFA Nations League – Kane, Modric, teams, form",
+            "description": "Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric.",
+            "url": "https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 21:59:26 +0000",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T02:35:24+03:30"
+        }
+    ]
+}
