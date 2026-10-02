@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-03T00:06:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Made an open-source Lego AI generator",
+            "description": "<p>Hi there :-) New on HN, first time posting.<p>Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.<p>This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time.<p>When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted with, modified, etc.<p>Or, in other words: one LDraw source file in .mpd or .ldr format is equivalent to one LEGO CAD model.<p>So, the idea I had was: if I manage for maybe ChatGPT or Claude to generate high-quality LDraw source files... then, they would actually be generating high-quality LEGO CAD models, right?<p>Then, after months of iterations and trying one thing after the other... it worked!!!<p>Long story short: using GPT-6 Astra and Opus 5.5, I've managed to create a python toolset, instructions, and docs for agents in general. Now, these can be used by them to generate LDraw models.<p>I've packed it all as a dockerized web app for others to try and experiment, with several providers (and agents) to choose from: OpenAI, Claude and OpenRouter.<p>I'd really appreciate feedback and comments, let's see where this goes =)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937916\">https://news.ycombinator.com/item?id=49937916</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/anteloc/ldraw-nova",
+            "published": "Fri, 02 Oct 2026 20:00:15 +0000",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+            "description": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression\">https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937718\">https://news.ycombinator.com/item?id=49937718</a></p>\n<p>Points: 38</p>\n<p># Comments: 5</p>",
+            "url": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+            "published": "Fri, 02 Oct 2026 19:45:06 +0000",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Updates to Full Disk Access in macOS",
+            "description": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=p6zjojqw\">https://developer.apple.com/news/?id=p6zjojqw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937631\">https://news.ycombinator.com/item?id=49937631</a></p>\n<p>Points: 33</p>\n<p># Comments: 13</p>",
+            "url": "https://developer.apple.com/news/?id=p6zjojqw",
+            "published": "Fri, 02 Oct 2026 19:37:01 +0000",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe suspect charged with planning terror act against Farage",
+            "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+            "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 19:40:05 GMT",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has UK diesel price hit an all time high?",
+            "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+            "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 16:58:30 GMT",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Riot police clash with students as education protests rage in France",
+            "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+            "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 17:43:10 GMT",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arab party leader withdraws from Israeli elections",
+            "description": "Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 19:10:23 +0000",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
+            "description": "US President Donald Trump says Europe agreed to release a ‘massive amount’ of diesel from emergency stockpiles.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 19:01:45 +0000",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
+            "description": "Sudanese Armed Forces reportedly retake al-Mazroub, advancing the army&#039;s goal of cutting the RSF’s supply lines.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/sudans-army-says-it-captured-rsf-stronghold-in-north-kordofan?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 18:51:54 +0000",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T00:06:57+03:30"
+        }
+    ]
+}
