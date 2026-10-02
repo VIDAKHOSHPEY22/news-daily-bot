@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-02 03:28:22
+**Last Update:** 2026-10-02 05:01:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Apple's smart home camera reportedly won't record video
+### 1. Butterflies use optical illusions to dodge predators
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators">https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49928152">https://news.ycombinator.com/item?id=49928152</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators](https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators)
+
+---
+
+### 2. Several vulnerabilities have been discovered in the Linux kernel
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1097401/">https://lwn.net/Articles/1097401/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49928121">https://news.ycombinator.com/item?id=49928121</a></p>
+<p>Points: 61</p>
+<p># Comments: 31</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1097401/](https://lwn.net/Articles/1097401/)
+
+---
+
+### 3. Apple's smart home camera reportedly won't record video
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/">https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49928054">https://news.ycombinator.com/item?id=49928054</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 10</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/](https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/)
-
----
-
-### 2. 2026 International Utility Locate Rodeo
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://locaterodeo.net/">https://locaterodeo.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927844">https://news.ycombinator.com/item?id=49927844</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://locaterodeo.net/](https://locaterodeo.net/)
-
----
-
-### 3. Aweb – Communication for AI Agents
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://aweb.ai">https://aweb.ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49927587">https://news.ycombinator.com/item?id=49927587</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://aweb.ai](https://aweb.ai)
 
 ---
 
@@ -97,42 +97,42 @@ President Donald Trump has threatened to ban diesel exports in a bid to ease pri
 
 ---
 
-### 7. Brazilian government calls for probe into US funding of far-right causes
+### 7. Trump says US may ask Europe to release diesel reserves
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.
+Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss)
 
 ---
 
-### 8. 94-year-old Jewish barrister arrested for supporting Palestine Action
+### 8. UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.
+Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss)
 
 ---
 
-### 9. France vs Italy: UEFA Nations League – Zidane, Olise, Esposito, teams, form
+### 9. Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-France face neighbours Italy in new coach Zinedine Zidane&#039;s first home game, with Mbappe out injured.
+US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/1/france-italy-uefa-nations-league-zidane-olise-esposito-teams-tv-channel-stream?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-02T05:01:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Butterflies use optical illusions to dodge predators",
+            "description": "<p>Article URL: <a href=\"https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\">https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928152\">https://news.ycombinator.com/item?id=49928152</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+            "published": "Thu, 01 Oct 2026 23:15:24 +0000",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Several vulnerabilities have been discovered in the Linux kernel",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1097401/\">https://lwn.net/Articles/1097401/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928121\">https://news.ycombinator.com/item?id=49928121</a></p>\n<p>Points: 61</p>\n<p># Comments: 31</p>",
+            "url": "https://lwn.net/Articles/1097401/",
+            "published": "Thu, 01 Oct 2026 23:10:44 +0000",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple's smart home camera reportedly won't record video",
+            "description": "<p>Article URL: <a href=\"https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/\">https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928054\">https://news.ycombinator.com/item?id=49928054</a></p>\n<p>Points: 10</p>\n<p># Comments: 18</p>",
+            "url": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
+            "published": "Thu, 01 Oct 2026 23:00:10 +0000",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+            "description": "The 25-year-old man was arrested in Westminster, London, marking the sixth arrest in connection with Sunday's incident near the airbase.",
+            "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 00:20:39 GMT",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+            "description": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 23:45:06 GMT",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+            "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+            "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 22:21:16 GMT",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says US may ask Europe to release diesel reserves",
+            "description": "Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 01:23:35 +0000",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK-Mauritius Chagos sovereignty deal stalls amid fears of further delays",
+            "description": "Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running.",
+            "url": "https://www.aljazeera.com/news/2026/10/2/uk-mauritius-chagos-sovereignty-deal-stalls-amid-fears-of-further-delays?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 00:29:57 +0000",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
+            "description": "US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+            "published": "Fri, 02 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-02T05:01:42+03:30"
+        }
+    ]
+}
