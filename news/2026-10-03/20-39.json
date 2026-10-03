@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-03T20:39:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RetailReady (YC W24) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations\">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945904\">https://news.ycombinator.com/item?id=49945904</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+            "published": "Sat, 03 Oct 2026 17:00:12 +0000",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "City building games have a Soul Problem pt.2",
+            "description": "<p>Article URL: <a href=\"https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2\">https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49945323\">https://news.ycombinator.com/item?id=49945323</a></p>\n<p>Points: 36</p>\n<p># Comments: 21</p>",
+            "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+            "published": "Sat, 03 Oct 2026 15:52:07 +0000",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FTL: A new operating system for clouds",
+            "description": "<p>Article URL: <a href=\"https://ftl-os.org/\">https://ftl-os.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49944912\">https://news.ycombinator.com/item?id=49944912</a></p>\n<p>Points: 38</p>\n<p># Comments: 14</p>",
+            "url": "https://ftl-os.org/",
+            "published": "Sat, 03 Oct 2026 15:02:36 +0000",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 14:27:33 GMT",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+            "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 10:58:51 GMT",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+            "description": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 10:27:57 GMT",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+            "description": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 16:25:03 +0000",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+            "description": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 16:17:23 +0000",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+            "description": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 16:16:32 +0000",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T20:39:59+03:30"
+        }
+    ]
+}

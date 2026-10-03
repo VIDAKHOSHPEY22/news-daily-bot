@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 17:02:08
+**Last Update:** 2026-10-03 20:39:59
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)
+### 1. RetailReady (YC W24) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack">https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943524">https://news.ycombinator.com/item?id=49943524</a></p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations">https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49945904">https://news.ycombinator.com/item?id=49945904</a></p>
 <p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
+🔗 **Read more:** [https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations)
 
 ---
 
-### 2. The Escalation of War in Ethiopia
+### 2. City building games have a Soul Problem pt.2
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia">https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943451">https://news.ycombinator.com/item?id=49943451</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2">https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49945323">https://news.ycombinator.com/item?id=49945323</a></p>
+<p>Points: 36</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
+🔗 **Read more:** [https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2](https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2)
 
 ---
 
-### 3. Show HN: Germany's new sovereign AI model Kolibri
+### 3. FTL: A new operating system for clouds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tej.as/blog/aleph-alpha-kolibri">https://tej.as/blog/aleph-alpha-kolibri</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943034">https://news.ycombinator.com/item?id=49943034</a></p>
-<p>Points: 59</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://ftl-os.org/">https://ftl-os.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49944912">https://news.ycombinator.com/item?id=49944912</a></p>
+<p>Points: 38</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://tej.as/blog/aleph-alpha-kolibri](https://tej.as/blog/aleph-alpha-kolibri)
+🔗 **Read more:** [https://ftl-os.org/](https://ftl-os.org/)
 
 ---
 
@@ -97,42 +97,42 @@ The Conservative leader is expected to set out a return to core conservative pri
 
 ---
 
-### 7. LIVE: Croatia vs England – UEFA Nations League
+### 7. Somalia won’t accept Israeli presence ‘under any circumstances’: President
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.
+In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss)
 
 ---
 
-### 8. Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know
+### 8. Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Military, pro-government forces recapture airport in Tigray&#039;s capital as fighting also rages in Amhara and Afar regions.
+Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss)
 
 ---
 
-### 9. French high school engulfed in flames as student protests continue
+### 9. Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A French high school in Metz went up in flames as student protests over school conditions spread across the country.
+Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss)
 
 ---
 
