@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-03T11:50:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Understanding Frontier Artificial Intelligence",
+            "description": "<p>Article URL: <a href=\"https://casp.ac/reports/intelligence-explosion\">https://casp.ac/reports/intelligence-explosion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942002\">https://news.ycombinator.com/item?id=49942002</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+            "url": "https://casp.ac/reports/intelligence-explosion",
+            "published": "Sat, 03 Oct 2026 07:06:02 +0000",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An Update on Orion for Linux and Windows",
+            "description": "<p>Article URL: <a href=\"https://blog.kagi.com/update-orion-linux-windows\">https://blog.kagi.com/update-orion-linux-windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941447\">https://news.ycombinator.com/item?id=49941447</a></p>\n<p>Points: 28</p>\n<p># Comments: 10</p>",
+            "url": "https://blog.kagi.com/update-orion-linux-windows",
+            "published": "Sat, 03 Oct 2026 04:53:57 +0000",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Extra Big Ass Intelligence",
+            "description": "<p>Article URL: <a href=\"https://www.extrabigassintelligence.com/\">https://www.extrabigassintelligence.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941114\">https://news.ycombinator.com/item?id=49941114</a></p>\n<p>Points: 232</p>\n<p># Comments: 50</p>",
+            "url": "https://www.extrabigassintelligence.com/",
+            "published": "Sat, 03 Oct 2026 03:19:10 +0000",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe suspect charged with planning terror act against Farage",
+            "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+            "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 21:32:25 GMT",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "description": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 07:49:40 GMT",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia strikes second major bridge in Kyiv, mayor says",
+            "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+            "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 07:25:09 GMT",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man City whistleblower Pinto to lose witness protection amid death threats",
+            "description": "Pinto says he will go into hiding for an indefinite period following the Premier League&#039;s guilty verdict against City.",
+            "url": "https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 08:05:28 +0000",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
+            "description": "Bosnian Serb leader Milorad Dodik says Bosnia and Herzegovina is ‘dead’ at a final campaign rally ahead of elections.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 07:57:53 +0000",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+            "description": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 07:57:47 +0000",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T11:50:00+03:30"
+        }
+    ]
+}
