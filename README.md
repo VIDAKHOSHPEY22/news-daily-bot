@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 05:37:22
+**Last Update:** 2026-10-03 09:49:53
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Widdecombe suspect charged with planning terror act against Farage
+### 1. An Update on Orion for Linux and Windows
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.kagi.com/update-orion-linux-windows">https://blog.kagi.com/update-orion-linux-windows</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941447">https://news.ycombinator.com/item?id=49941447</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://blog.kagi.com/update-orion-linux-windows](https://blog.kagi.com/update-orion-linux-windows)
+
+---
+
+### 2. What if AI worked at 1.000.000 tokens per seconds?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.echohive.ai/one-million-tokens-per-second">https://www.echohive.ai/one-million-tokens-per-second</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941327">https://news.ycombinator.com/item?id=49941327</a></p>
+<p>Points: 4</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.echohive.ai/one-million-tokens-per-second](https://www.echohive.ai/one-million-tokens-per-second)
+
+---
+
+### 3. Extra Big Ass Intelligence
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.extrabigassintelligence.com/">https://www.extrabigassintelligence.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49941114">https://news.ycombinator.com/item?id=49941114</a></p>
+<p>Points: 89</p>
+<p># Comments: 15</p>
+
+🔗 **Read more:** [https://www.extrabigassintelligence.com/](https://www.extrabigassintelligence.com/)
+
+---
+
+### 4. Widdecombe suspect charged with planning terror act against Farage
 
 **Source:** BBC
 
@@ -23,33 +71,46 @@ Counter terror police say the further charge comes after a "hugely intensive and
 
 ---
 
-### 2. G7 to release 100 million barrels of oil and diesel after Trump export ban threat
+### 5. Russia strikes second major bridge in Kyiv, mayor says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.
+The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Watch: Why has UK diesel price hit an all time high?
+### 6. Men charged over alleged plot to target Manchester Jewish community
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.
+The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. India vs Pakistan live: Asian Games cricket final
+### 7. Gaza voters want jobs and security as Palestinian elections approach
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss)
+
+---
+
+### 8. India vs Pakistan live: Asian Games cricket final
 
 **Source:** Al Jazeera
 
@@ -62,33 +123,20 @@ Our live updates on team news, weather forecast, prediction, toss, score and tex
 
 ---
 
-### 5. Schools ablaze as student protests spread across France
+### 9. New claims that Netanyahu rejected Hamas offer to release captives
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Students have set fire to schools and clashed with police as protests spread across France
+Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss)
-
----
-
-### 6. US and Australia suspend diplomatic operations in Brazil before election
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss)
 
 ---
 
-### 7. Typhoon Choi-wan
+### 10. Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Hatch Grade, Walla Walla, Washington
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 
