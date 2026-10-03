@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 03:14:00
+**Last Update:** 2026-10-04 03:28:12
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Flydubai co-pilot attacked captain with axe, UAE official says
+### 1. Big Balls Now Exposed to Serious Criminal Charges in at Least Six States
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305">https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948438">https://news.ycombinator.com/item?id=49948438</a></p>
+<p>Points: 59</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305](https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305)
+
+---
+
+### 2. OpenAI safety leader quits, warning AI company's culture is 'broken'
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken">https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948332">https://news.ycombinator.com/item?id=49948332</a></p>
+<p>Points: 52</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
+
+---
+
+### 3. Federal judge calls Flock 'indiscriminate mass surveillance'
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/">https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948254">https://news.ycombinator.com/item?id=49948254</a></p>
+<p>Points: 157</p>
+<p># Comments: 92</p>
+
+🔗 **Read more:** [https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+
+---
+
+### 4. Flydubai co-pilot attacked captain with axe, UAE official says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The man accused of trying to take over the Israel-bound jet is named as Hamam al
 
 ---
 
-### 2. Tories pledge to scrap £100,000 childcare 'cliff edge'
+### 5. Tories pledge to scrap £100,000 childcare 'cliff edge'
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Party leader Kemi Badenoch tells the BBC that she wants to see "people who work 
 
 ---
 
-### 3. UK-Iranian dual national arrested over RAF Fairford released on bail
+### 6. UK-Iranian dual national arrested over RAF Fairford released on bail
 
 **Source:** BBC
 
@@ -49,7 +97,7 @@ The 25-year-old man was arrested in the London borough of Westminster on Thursda
 
 ---
 
-### 4. Air ambulance missing on flight from Bermuda to Boston
+### 7. Air ambulance missing on flight from Bermuda to Boston
 
 **Source:** Al Jazeera
 
@@ -62,7 +110,7 @@ The US coastguard says it has dispatched air and surface crews to search for the
 
 ---
 
-### 5. Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel
+### 8. Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel
 
 **Source:** Al Jazeera
 
@@ -75,7 +123,7 @@ Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she wil
 
 ---
 
-### 6. Israeli settlers attack Palestinian farmers during olive harvest
+### 9. Israeli settlers attack Palestinian farmers during olive harvest
 
 **Source:** Al Jazeera
 
@@ -88,7 +136,7 @@ Israeli settlers attack Palestinian farmers during olive harvest
 
 ---
 
-### 7. Typhoon Choi-wan
+### 10. Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Hatch Grade, Walla Walla, Washington
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 
