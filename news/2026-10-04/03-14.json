@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-04T03:14:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 14:27:33 GMT",
+            "fetched": "2026-10-04T03:14:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
+            "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 21:03:22 GMT",
+            "fetched": "2026-10-04T03:14:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+            "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 10:58:51 GMT",
+            "fetched": "2026-10-04T03:14:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Air ambulance missing on flight from Bermuda to Boston",
+            "description": "The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 23:03:44 +0000",
+            "fetched": "2026-10-04T03:14:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+            "description": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 22:43:58 +0000",
+            "fetched": "2026-10-04T03:14:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+            "description": "Israeli settlers attack Palestinian farmers during olive harvest",
+            "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 21:15:05 +0000",
+            "fetched": "2026-10-04T03:14:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-04T03:14:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-04T03:14:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-04T03:14:00+03:30"
+        }
+    ]
+}

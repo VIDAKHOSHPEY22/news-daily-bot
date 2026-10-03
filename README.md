@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 00:59:39
+**Last Update:** 2026-10-04 03:14:00
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. We want you to build the next Git platform on Cloudflare
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947051">https://news.ycombinator.com/item?id=49947051</a></p>
-<p>Points: 53</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://blog.cloudflare.com/next-git-platform-on-cloudflare/](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
-
----
-
-### 2. Anthropic tried to persuade Pope that AI could be conscious being
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/">https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49947050">https://news.ycombinator.com/item?id=49947050</a></p>
-<p>Points: 33</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/)
-
----
-
-### 3. Our AI Midwife
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.astralcodexten.com/p/our-ai-midwife">https://www.astralcodexten.com/p/our-ai-midwife</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49946873">https://news.ycombinator.com/item?id=49946873</a></p>
-<p>Points: 46</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.astralcodexten.com/p/our-ai-midwife](https://www.astralcodexten.com/p/our-ai-midwife)
-
----
-
-### 4. Flydubai co-pilot attacked captain with axe, UAE official says
+### 1. Flydubai co-pilot attacked captain with axe, UAE official says
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The man accused of trying to take over the Israel-bound jet is named as Hamam al
 
 ---
 
-### 5. Tories pledge to scrap £100,000 childcare 'cliff edge'
+### 2. Tories pledge to scrap £100,000 childcare 'cliff edge'
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Party leader Kemi Badenoch tells the BBC that she wants to see "people who work 
 
 ---
 
-### 6. UK-Iranian dual national arrested over RAF Fairford released on bail
+### 3. UK-Iranian dual national arrested over RAF Fairford released on bail
 
 **Source:** BBC
 
@@ -97,7 +49,33 @@ The 25-year-old man was arrested in the London borough of Westminster on Thursda
 
 ---
 
-### 7. Israeli settlers attack Palestinian farmers during olive harvest
+### 4. Air ambulance missing on flight from Bermuda to Boston
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss)
+
+---
+
+### 5. Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss)
+
+---
+
+### 6. Israeli settlers attack Palestinian farmers during olive harvest
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ Israeli settlers attack Palestinian farmers during olive harvest
 
 ---
 
-### 8. Fernandes denies Portugal rift, hails Ronaldo after walk out
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss)
-
----
-
-### 9. Trump ramps up pressure on US Republicans to end US clock switching
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president published a lawmaker&#039;s cell phone number as he called for the passage of a bill making DST permanent.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss)
-
----
-
-### 10. Typhoon Choi-wan
+### 7. Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Hatch Grade, Walla Walla, Washington
+### 9. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 
