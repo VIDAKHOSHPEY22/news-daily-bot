@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-03T05:37:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe suspect charged with planning terror act against Farage",
+            "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+            "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 21:32:25 GMT",
+            "fetched": "2026-10-03T05:37:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+            "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+            "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 20:25:19 GMT",
+            "fetched": "2026-10-03T05:37:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why has UK diesel price hit an all time high?",
+            "description": "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising.",
+            "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 16:58:30 GMT",
+            "fetched": "2026-10-03T05:37:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India vs Pakistan live: Asian Games cricket final",
+            "description": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 01:55:31 +0000",
+            "fetched": "2026-10-03T05:37:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Schools ablaze as student protests spread across France",
+            "description": "Students have set fire to schools and clashed with police as protests spread across France",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 01:46:10 +0000",
+            "fetched": "2026-10-03T05:37:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US and Australia suspend diplomatic operations in Brazil before election",
+            "description": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 00:46:10 +0000",
+            "fetched": "2026-10-03T05:37:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T05:37:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T05:37:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T05:37:22+03:30"
+        }
+    ]
+}
