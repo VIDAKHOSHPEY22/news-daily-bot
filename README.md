@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 15:54:58
+**Last Update:** 2026-10-03 17:02:08
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Flydubai co-pilot attacked captain with axe, UAE official says
+### 1. Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack">https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943524">https://news.ycombinator.com/item?id=49943524</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack)
+
+---
+
+### 2. The Escalation of War in Ethiopia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia">https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943451">https://news.ycombinator.com/item?id=49943451</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia](https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia)
+
+---
+
+### 3. Show HN: Germany's new sovereign AI model Kolibri
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://tej.as/blog/aleph-alpha-kolibri">https://tej.as/blog/aleph-alpha-kolibri</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49943034">https://news.ycombinator.com/item?id=49943034</a></p>
+<p>Points: 59</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://tej.as/blog/aleph-alpha-kolibri](https://tej.as/blog/aleph-alpha-kolibri)
+
+---
+
+### 4. Flydubai co-pilot attacked captain with axe, UAE official says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The man accused of trying to take over the Israel-bound jet is named as Hamam al
 
 ---
 
-### 2. UK-Iranian dual national arrested over RAF Fairford released on bail
+### 5. UK-Iranian dual national arrested over RAF Fairford released on bail
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The 25-year-old man was arrested in the London borough of Westminster on Thursda
 
 ---
 
-### 3. Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage
+### 6. Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The Conservative leader is expected to set out a return to core conservative pri
 
 ---
 
-### 4. World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers
+### 7. LIVE: Croatia vs England – UEFA Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Italy&#039;s Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.
+Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss)
 
 ---
 
-### 5. The double standards of a failed execution
+### 8. Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Had Christa Pike faced the death penalty in the Middle East, there would be relentless outrage and condemnations.
+Military, pro-government forces recapture airport in Tigray&#039;s capital as fighting also rages in Amhara and Afar regions.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss)
 
 ---
 
-### 6. Ethiopia’s government forces retake airport from Tigray rebels in Mekelle
+### 9. French high school engulfed in flames as student protests continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The rebels have been seen leaving the capital of the northern Tigray region, according to local sources.
+A French high school in Metz went up in flames as student protests over school conditions spread across the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss)
 
 ---
 
-### 7. Typhoon Choi-wan
+### 10. Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Hatch Grade, Walla Walla, Washington
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 

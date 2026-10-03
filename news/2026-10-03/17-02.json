@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-03T17:02:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack\">https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943524\">https://news.ycombinator.com/item?id=49943524</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+            "published": "Sat, 03 Oct 2026 12:02:10 +0000",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Escalation of War in Ethiopia",
+            "description": "<p>Article URL: <a href=\"https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia\">https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943451\">https://news.ycombinator.com/item?id=49943451</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+            "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+            "published": "Sat, 03 Oct 2026 11:54:24 +0000",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Germany's new sovereign AI model Kolibri",
+            "description": "<p>Article URL: <a href=\"https://tej.as/blog/aleph-alpha-kolibri\">https://tej.as/blog/aleph-alpha-kolibri</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943034\">https://news.ycombinator.com/item?id=49943034</a></p>\n<p>Points: 59</p>\n<p># Comments: 20</p>",
+            "url": "https://tej.as/blog/aleph-alpha-kolibri",
+            "published": "Sat, 03 Oct 2026 10:43:51 +0000",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 11:20:21 GMT",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+            "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 10:58:51 GMT",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+            "description": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 10:27:57 GMT",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Croatia vs England – UEFA Nations League",
+            "description": "Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 13:01:40 +0000",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+            "description": "Military, pro-government forces recapture airport in Tigray&#039;s capital as fighting also rages in Amhara and Afar regions.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 13:00:57 +0000",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "French high school engulfed in flames as student protests continue",
+            "description": "A French high school in Metz went up in flames as student protests over school conditions spread across the country.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 12:59:27 +0000",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-03T17:02:08+03:30"
+        }
+    ]
+}
