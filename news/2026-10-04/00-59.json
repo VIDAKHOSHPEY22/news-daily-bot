@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-04T00:59:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We want you to build the next Git platform on Cloudflare",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/next-git-platform-on-cloudflare/\">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947051\">https://news.ycombinator.com/item?id=49947051</a></p>\n<p>Points: 53</p>\n<p># Comments: 38</p>",
+            "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+            "published": "Sat, 03 Oct 2026 19:33:16 +0000",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+            "description": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/\">https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947050\">https://news.ycombinator.com/item?id=49947050</a></p>\n<p>Points: 33</p>\n<p># Comments: 36</p>",
+            "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+            "published": "Sat, 03 Oct 2026 19:33:10 +0000",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Our AI Midwife",
+            "description": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/our-ai-midwife\">https://www.astralcodexten.com/p/our-ai-midwife</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946873\">https://news.ycombinator.com/item?id=49946873</a></p>\n<p>Points: 46</p>\n<p># Comments: 20</p>",
+            "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+            "published": "Sat, 03 Oct 2026 19:12:27 +0000",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 14:27:33 GMT",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
+            "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 21:03:22 GMT",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+            "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 10:58:51 GMT",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+            "description": "Israeli settlers attack Palestinian farmers during olive harvest",
+            "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 21:15:05 +0000",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+            "description": "Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 21:02:22 +0000",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump ramps up pressure on US Republicans to end US clock switching",
+            "description": "The US president published a lawmaker&#039;s cell phone number as he called for the passage of a bill making DST permanent.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 20:16:50 +0000",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-04T00:59:39+03:30"
+        }
+    ]
+}
