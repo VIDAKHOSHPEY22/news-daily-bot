@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-03 02:35:24
+**Last Update:** 2026-10-03 03:51:41
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://allenai.org/blog/astabrief">https://allenai.org/blog/astabrief</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938783">https://news.ycombinator.com/item?id=49938783</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://allenai.org/blog/astabrief](https://allenai.org/blog/astabrief)
 
 ---
 
-### 2. The Harness Is the Company
+### 2. Every SaaS business will become a harness around a model
 
 **Source:** Hacker News
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.sshh.io/p/the-harness-is-the-company">https://blog.sshh.io/p/the-harness-is-the-company</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938616">https://news.ycombinator.com/item?id=49938616</a></p>
-<p>Points: 29</p>
-<p># Comments: 29</p>
+<p>Points: 79</p>
+<p># Comments: 58</p>
 
 🔗 **Read more:** [https://blog.sshh.io/p/the-harness-is-the-company](https://blog.sshh.io/p/the-harness-is-the-company)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://ziglang.org/download/0.17.0/release-notes.html">https://ziglang.org/download/0.17.0/release-notes.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49938521">https://news.ycombinator.com/item?id=49938521</a></p>
-<p>Points: 137</p>
-<p># Comments: 65</p>
+<p>Points: 194</p>
+<p># Comments: 109</p>
 
 🔗 **Read more:** [https://ziglang.org/download/0.17.0/release-notes.html](https://ziglang.org/download/0.17.0/release-notes.html)
 
@@ -97,42 +97,42 @@ Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group s
 
 ---
 
-### 7. Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi
+### 7. Iran war live: Fighting intensifies in Yemen, hundreds killed or injured
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Smit Machchhar recalls midair disaster after co-pilot&#039;s attack on Flydubai flight to Tel Aviv.
+Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss)
 
 ---
 
-### 8. Why Carney’s economic overhaul is clashing with Canada’s unions
+### 8. North Korea fires ballistic missile towards the sea, South Korea says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Unions say proposed changes to Canada&#039;s labour laws could weaken workers’ right to strike.
+A ballistic missile is fired from the North Korean port city of Wonsan, South Korea&#039;s military says.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss)
 
 ---
 
-### 9. Croatia vs England: UEFA Nations League – Kane, Modric, teams, form
+### 9. Dutch royal house helped slave trade to survive, study finds
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Heavyweights England play away to Croatia, with captain Harry Kane going up against veteran Luka Modric.
+In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/2/croatia-england-uefa-nations-league-kane-modric-teams-form?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss](https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss)
 
 ---
 
