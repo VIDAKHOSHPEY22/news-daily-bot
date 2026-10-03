@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-04T00:27:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We want you to build the next Git platform on Cloudflare",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/next-git-platform-on-cloudflare/\">https://blog.cloudflare.com/next-git-platform-on-cloudflare/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49947051\">https://news.ycombinator.com/item?id=49947051</a></p>\n<p>Points: 20</p>\n<p># Comments: 19</p>",
+            "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+            "published": "Sat, 03 Oct 2026 19:33:16 +0000",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Our AI Midwife",
+            "description": "<p>Article URL: <a href=\"https://www.astralcodexten.com/p/our-ai-midwife\">https://www.astralcodexten.com/p/our-ai-midwife</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946873\">https://news.ycombinator.com/item?id=49946873</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
+            "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+            "published": "Sat, 03 Oct 2026 19:12:27 +0000",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RSS Feed Best Practices (2022)",
+            "description": "<p>Article URL: <a href=\"https://kevincox.ca/2022/05/06/rss-feed-best-practices/\">https://kevincox.ca/2022/05/06/rss-feed-best-practices/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946845\">https://news.ycombinator.com/item?id=49946845</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+            "published": "Sat, 03 Oct 2026 19:09:25 +0000",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+            "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 14:27:33 GMT",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+            "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 10:58:51 GMT",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+            "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+            "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 17:48:42 GMT",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump ramps up pressure on US Republicans to end US clock switching",
+            "description": "The US president published a lawmaker&#039;s cell phone number as he called for the passage of a bill making DST permanent.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 20:16:50 +0000",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+            "description": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 20:10:17 +0000",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+            "description": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.",
+            "url": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
+            "published": "Sat, 03 Oct 2026 19:14:43 +0000",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-04T00:27:00+03:30"
+        }
+    ]
+}
