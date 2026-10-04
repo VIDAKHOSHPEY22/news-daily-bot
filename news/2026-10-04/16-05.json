@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-04T16:05:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: AI search for every photo and every frame of video on macOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/allenv0/SCM\">https://github.com/allenv0/SCM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952111\">https://news.ycombinator.com/item?id=49952111</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/allenv0/SCM",
+            "published": "Sun, 04 Oct 2026 09:24:52 +0000",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+            "description": "<p>Article URL: <a href=\"https://gamehistory.org/5k-magazines/\">https://gamehistory.org/5k-magazines/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49952029\">https://news.ycombinator.com/item?id=49952029</a></p>\n<p>Points: 40</p>\n<p># Comments: 3</p>",
+            "url": "https://gamehistory.org/5k-magazines/",
+            "published": "Sun, 04 Oct 2026 09:07:11 +0000",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "In Ukraine, distributed renewables foil Russia's assaults",
+            "description": "<p>Article URL: <a href=\"https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/\">https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49951881\">https://news.ycombinator.com/item?id=49951881</a></p>\n<p>Points: 112</p>\n<p># Comments: 93</p>",
+            "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+            "published": "Sun, 04 Oct 2026 08:39:58 +0000",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+            "description": "Proposals to limit jury trials were first introduced by former justice secretary David Lammy last year.",
+            "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 11:19:58 GMT",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
+            "description": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 11:04:47 GMT",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Daughter of MP murdered five years ago says politicians still at risk",
+            "description": "Katie Amess questions if anything has changed to protect politicians five years after her father's death.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 11:59:35 GMT",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
+            "description": "German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 11:58:14 +0000",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+            "description": "Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 11:15:34 +0000",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran says Hormuz to remain closed until US meets conditions",
+            "description": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 11:11:30 +0000",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-04T16:05:31+03:30"
+        }
+    ]
+}
