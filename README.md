@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 20:55:48
+**Last Update:** 2026-10-04 21:11:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Blindsight (Watts Novel)
+### 1. What I learnt co-leading an AI Safety bootcamp for legal and governance practit
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and">https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955839">https://news.ycombinator.com/item?id=49955839</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
+
+---
+
+### 2. Background Passive FTP with No GUI Control Survives Apple Store DFU
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d">https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955626">https://news.ycombinator.com/item?id=49955626</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d](https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d)
+
+---
+
+### 3. Blindsight (Watts Novel)
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)">https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955297">https://news.ycombinator.com/item?id=49955297</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
-
----
-
-### 2. Car is a smartphone on wheels. Here's who's listening
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://automatictransmission.khoury.northeastern.edu/">https://automatictransmission.khoury.northeastern.edu/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49954882">https://news.ycombinator.com/item?id=49954882</a></p>
-<p>Points: 114</p>
-<p># Comments: 56</p>
-
-🔗 **Read more:** [https://automatictransmission.khoury.northeastern.edu/](https://automatictransmission.khoury.northeastern.edu/)
-
----
-
-### 3. RuneScape's Position on Gen AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/">https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49954745">https://news.ycombinator.com/item?id=49954745</a></p>
-<p>Points: 13</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/](https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/)
 
 ---
 

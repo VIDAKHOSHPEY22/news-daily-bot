@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-04T21:11:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I learnt co-leading an AI Safety bootcamp for legal and governance practit",
+            "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and\">https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49955839\">https://news.ycombinator.com/item?id=49955839</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and",
+            "published": "Sun, 04 Oct 2026 17:21:26 +0000",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Background Passive FTP with No GUI Control Survives Apple Store DFU",
+            "description": "<p>Article URL: <a href=\"https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d\">https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49955626\">https://news.ycombinator.com/item?id=49955626</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d",
+            "published": "Sun, 04 Oct 2026 16:58:54 +0000",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Blindsight (Watts Novel)",
+            "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\">https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49955297\">https://news.ycombinator.com/item?id=49955297</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+            "published": "Sun, 04 Oct 2026 16:25:17 +0000",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Green Party members back 'Zionism is racism' motion",
+            "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 16:35:29 GMT",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I'm a classic old school Conservative, says Kemi Badenoch",
+            "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
+            "url": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 16:20:02 GMT",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+            "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
+            "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 14:25:32 GMT",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mass protests demanding poll chief resignation shake India for third day",
+            "description": "Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 16:55:03 +0000",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+            "description": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 16:38:45 +0000",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+            "description": "Trucks were &#039;clearly marked as humanitarian vehicles&#039;, UN agency says.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 16:28:43 +0000",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-04T21:11:42+03:30"
+        }
+    ]
+}
