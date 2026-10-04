@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-04T09:07:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why don't more developers \"use the platform\"?",
+            "description": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/\">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49950554\">https://news.ycombinator.com/item?id=49950554</a></p>\n<p>Points: 38</p>\n<p># Comments: 18</p>",
+            "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+            "published": "Sun, 04 Oct 2026 04:10:47 +0000",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We're working on a new RuneScape MMO",
+            "description": "<p>Article URL: <a href=\"https://play.runescape.com/4\">https://play.runescape.com/4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949588\">https://news.ycombinator.com/item?id=49949588</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
+            "url": "https://play.runescape.com/4",
+            "published": "Sun, 04 Oct 2026 01:12:22 +0000",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tell HN: Bob Cringely has died",
+            "description": "<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49949438\">https://news.ycombinator.com/item?id=49949438</a></p>\n<p>Points: 298</p>\n<p># Comments: 54</p>",
+            "url": "https://news.ycombinator.com/item?id=49949438",
+            "published": "Sun, 04 Oct 2026 00:50:52 +0000",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham scraps controversial plans to curb jury trials",
+            "description": "The key policy idea announced by David Lammy when he was justice secretary will no longer go ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 03:07:30 GMT",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+            "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 03 Oct 2026 21:03:22 GMT",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+            "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 04:53:29 GMT",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+            "description": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 05:00:40 +0000",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bosnia general election 2026 explained in maps and charts",
+            "description": "Bosnians head to the polls on October 4. Here’s a quick guide to the voting process, candidates and what&#039;s at stake.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 04:58:50 +0000",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
+            "description": "US president tells a rally in Ohio that he believes there will be a &#039;big surprise&#039; in the upcoming elections.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 04:10:17 +0000",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A76C",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359",
+            "published": "2021-05-28T00:00:00Z",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg D32",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288",
+            "published": "2022-10-21T00:00:00Z",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A81",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+            "published": "2023-01-27T00:00:00Z",
+            "fetched": "2026-10-04T09:07:43+03:30"
+        }
+    ]
+}

@@ -1,77 +1,78 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 03:28:12
+**Last Update:** 2026-10-04 09:07:43
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Big Balls Now Exposed to Serious Criminal Charges in at Least Six States
+### 1. Why don't more developers "use the platform"?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305">https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948438">https://news.ycombinator.com/item?id=49948438</a></p>
-<p>Points: 59</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950554">https://news.ycombinator.com/item?id=49950554</a></p>
+<p>Points: 38</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305](https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305)
+🔗 **Read more:** [https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
 
 ---
 
-### 2. OpenAI safety leader quits, warning AI company's culture is 'broken'
+### 2. We're working on a new RuneScape MMO
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken">https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948332">https://news.ycombinator.com/item?id=49948332</a></p>
-<p>Points: 52</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://play.runescape.com/4">https://play.runescape.com/4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949588">https://news.ycombinator.com/item?id=49949588</a></p>
+<p>Points: 12</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken)
+🔗 **Read more:** [https://play.runescape.com/4](https://play.runescape.com/4)
 
 ---
 
-### 3. Federal judge calls Flock 'indiscriminate mass surveillance'
+### 3. Tell HN: Bob Cringely has died
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/">https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49948254">https://news.ycombinator.com/item?id=49948254</a></p>
-<p>Points: 157</p>
-<p># Comments: 92</p>
+<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially "Triumph of the Nerds". He will be missed.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949438">https://news.ycombinator.com/item?id=49949438</a></p>
+<p>Points: 298</p>
+<p># Comments: 54</p>
 
-🔗 **Read more:** [https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/](https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49949438](https://news.ycombinator.com/item?id=49949438)
 
 ---
 
-### 4. Flydubai co-pilot attacked captain with axe, UAE official says
+### 4. Burnham scraps controversial plans to curb jury trials
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.
+The key policy idea announced by David Lammy when he was justice secretary will no longer go ahead.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Tories pledge to scrap £100,000 childcare 'cliff edge'
+### 5. Tories pledge to remove £100,000 childcare 'cliff edge'
 
 **Source:** BBC
 
@@ -84,94 +85,94 @@ Party leader Kemi Badenoch tells the BBC that she wants to see "people who work 
 
 ---
 
-### 6. UK-Iranian dual national arrested over RAF Fairford released on bail
+### 6. What to know about Brazil's election pitting Lula against Flávio Bolsonaro
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 25-year-old man was arrested in the London borough of Westminster on Thursday.
+Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Air ambulance missing on flight from Bermuda to Boston
+### 7. Somalia President: Houthis ‘not in a position’ to bring Yemen peace
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.
+Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss)
 
 ---
 
-### 8. Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel
+### 8. Bosnia general election 2026 explained in maps and charts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to &#039;end a genocide in Gaza&#039;.
+Bosnians head to the polls on October 4. Here’s a quick guide to the voting process, candidates and what&#039;s at stake.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts?traffic_source=rss)
 
 ---
 
-### 9. Israeli settlers attack Palestinian farmers during olive harvest
+### 9. Trump defiant about midterm chances as he rallies for Republicans in Ohio
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers attack Palestinian farmers during olive harvest
+US president tells a rally in Ohio that he believes there will be a &#039;big surprise&#039; in the upcoming elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss](https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss)
 
 ---
 
-### 10. Typhoon Choi-wan
+### 10. Iceberg A76C
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
 
 ---
 
-### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 11. Iceberg D32
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
 
 ---
 
-### 12. Wildfire Hatch Grade, Walla Walla, Washington
+### 12. Iceberg A81
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
 
 ---
 
