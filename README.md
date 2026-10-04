@@ -1,178 +1,177 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 09:33:55
+**Last Update:** 2026-10-04 15:42:32
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why don't more developers "use the platform"?
+### 1. Show HN: AI search for every photo and every frame of video on macOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/">https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49950554">https://news.ycombinator.com/item?id=49950554</a></p>
-<p>Points: 46</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://github.com/allenv0/SCM">https://github.com/allenv0/SCM</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49952111">https://news.ycombinator.com/item?id=49952111</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+🔗 **Read more:** [https://github.com/allenv0/SCM](https://github.com/allenv0/SCM)
 
 ---
 
-### 2. We're working on a new RuneScape MMO
+### 2. VGHF Digital Archive passes 5000 magazines. Here's what's next
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://play.runescape.com/4">https://play.runescape.com/4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949588">https://news.ycombinator.com/item?id=49949588</a></p>
-<p>Points: 17</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://gamehistory.org/5k-magazines/">https://gamehistory.org/5k-magazines/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49952029">https://news.ycombinator.com/item?id=49952029</a></p>
+<p>Points: 37</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://play.runescape.com/4](https://play.runescape.com/4)
+🔗 **Read more:** [https://gamehistory.org/5k-magazines/](https://gamehistory.org/5k-magazines/)
 
 ---
 
-### 3. Tell HN: Bob Cringely has died
+### 3. In Ukraine, distributed renewables foil Russia's assaults
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially "Triumph of the Nerds". He will be missed.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49949438">https://news.ycombinator.com/item?id=49949438</a></p>
-<p>Points: 316</p>
-<p># Comments: 59</p>
+<p>Article URL: <a href="https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/">https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49951881">https://news.ycombinator.com/item?id=49951881</a></p>
+<p>Points: 104</p>
+<p># Comments: 87</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49949438](https://news.ycombinator.com/item?id=49949438)
+🔗 **Read more:** [https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/](https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/)
 
 ---
 
-### 4. Burnham scraps controversial plans to curb jury trials
+### 4. Courts backlog will fall despite scrapping of jury trial plan, minister says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The key policy idea announced by David Lammy when he was justice secretary will no longer go ahead.
+Proposals to limit jury trials were first introduced by former justice secretary David Lammy last year.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Tories pledge to remove £100,000 childcare 'cliff edge'
+### 5. Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Party leader Kemi Badenoch tells the BBC that she wants to see "people who work harder" not getting punished for doing so.
+The Conservative leader tells the BBC the earnings threshold for government support stops people "working harder".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Cornell president says university 'must do better' after frat house rape allegations
+### 6. Daughter of MP murdered five years ago says politicians still at risk
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as "deeply disturbing".
+Katie Amess questions if anything has changed to protect politicians five years after her father's death.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. West Indies beat India in record chase as Hope hits 162 in third ODI
+### 7. Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Shai Hope&#039;s 162 leads the West Indies to a record cricket run chase as they beat India by five wickets in the third ODI.
+German chancellor visits Kyiv amid air raid sirens, pledging strong support as Russian strikes disrupt the capital.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/russian-strike-hits-kyiv-bridge-as-german-chancellor-visits-ukraine?traffic_source=rss)
 
 ---
 
-### 8. Widespread damage after huge hailstones pound Paraguay capital
+### 8. Brazil votes in deeply polarised election pitting Lula against Bolsonaro
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Large hailstones pounded parts of Paraguay’s capital, breaking windows and denting cars.
+Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/widespread-damage-after-huge-hailstones-pound-paraguay-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/widespread-damage-after-huge-hailstones-pound-paraguay-capital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss)
 
 ---
 
-### 9. Somalia President: Houthis ‘not in a position’ to bring Yemen peace
+### 9. Iran says Hormuz to remain closed until US meets conditions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb
+Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss)
 
 ---
 
-### 10. Iceberg A76C
+### 10. Typhoon Choi-wan
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962)
 
 ---
 
-### 11. Iceberg D32
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964)
 
 ---
 
-### 12. Iceberg A81
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963)
 
 ---
 
