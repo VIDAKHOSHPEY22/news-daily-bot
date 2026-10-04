@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-05T01:10:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+            "description": "<p>Article URL: <a href=\"https://island-three.gruberbuilds.workers.dev/\">https://island-three.gruberbuilds.workers.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957191\">https://news.ycombinator.com/item?id=49957191</a></p>\n<p>Points: 21</p>\n<p># Comments: 15</p>",
+            "url": "https://island-three.gruberbuilds.workers.dev/",
+            "published": "Sun, 04 Oct 2026 19:49:12 +0000",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Homa: The end of TCP for AI clusters [video]",
+            "description": "<p>Paper: \n<a href=\"https://www.usenix.org/system/files/atc21-ousterhout.pdf\" rel=\"nofollow\">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href=\"https://lwn.net/Articles/1003059/\" rel=\"nofollow\">https://lwn.net/Articles/1003059/</a>, <a href=\"https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629\" rel=\"nofollow\">https://www.theregister.com/networks/2026/10/01/stanford-pro...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957117\">https://news.ycombinator.com/item?id=49957117</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
+            "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+            "published": "Sun, 04 Oct 2026 19:42:25 +0000",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+            "description": "<p>Article URL: <a href=\"https://github.com/omlahore/RemoveMacAI\">https://github.com/omlahore/RemoveMacAI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49957116\">https://news.ycombinator.com/item?id=49957116</a></p>\n<p>Points: 142</p>\n<p># Comments: 66</p>",
+            "url": "https://github.com/omlahore/RemoveMacAI",
+            "published": "Sun, 04 Oct 2026 19:42:25 +0000",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US removes all bombers from RAF Fairford base",
+            "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 21:33:28 GMT",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Green Party members back 'Zionism is racism' motion",
+            "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 20:51:36 GMT",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I'm a classic old school Conservative, says Kemi Badenoch",
+            "description": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.",
+            "url": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 04 Oct 2026 16:20:02 GMT",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+            "description": "Holders Portugal are the first team to qualify for 2026-27 UEFA Nations League despite absence of Cristiano Ronaldo.",
+            "url": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 21:10:00 +0000",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+            "description": "Israel&#039;s president declared that the &#039;antisemitic lie&#039; deliberately endangers Jews and Israelis.",
+            "url": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 20:38:56 +0000",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Debris found near Nantucket believed to be from missing medical plane",
+            "description": "The US Coast Guard says a field of debris found near Nantucket is believed to be from an emergency medical plane.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
+            "published": "Sun, 04 Oct 2026 20:21:09 +0000",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-05T01:10:29+03:30"
+        }
+    ]
+}
