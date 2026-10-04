@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-04 21:11:42
+**Last Update:** 2026-10-05 00:43:17
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. What I learnt co-leading an AI Safety bootcamp for legal and governance practit
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and">https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955839">https://news.ycombinator.com/item?id=49955839</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and)
-
----
-
-### 2. Background Passive FTP with No GUI Control Survives Apple Store DFU
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d">https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955626">https://news.ycombinator.com/item?id=49955626</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d](https://knowledgeisuserdata.medium.com/passive-ftp-enabled-on-macbook-after-apple-store-reset-and-other-observations-ac8573069e5d)
-
----
-
-### 3. Blindsight (Watts Novel)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)">https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49955297">https://news.ycombinator.com/item?id=49955297</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
-
----
-
-### 4. Green Party members back 'Zionism is racism' motion
+### 1. Green Party members back 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 5. I'm a classic old school Conservative, says Kemi Badenoch
+### 2. I'm a classic old school Conservative, says Kemi Badenoch
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding poli
 
 ---
 
-### 6. Watch: What we know about Russian strikes on Kyiv bridges
+### 3. Watch: What we know about Russian strikes on Kyiv bridges
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has 
 
 ---
 
-### 7. Mass protests demanding poll chief resignation shake India for third day
+### 4. Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.
+Israel&#039;s president declared that the &#039;antisemitic lie&#039; deliberately endangers Jews and Israelis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss)
 
 ---
 
-### 8. Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war
+### 5. Debris found near Nantucket believed to be from missing medical plane
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid
+The US Coast Guard says a field of debris found near Nantucket is believed to be from an emergency medical plane.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss)
 
 ---
 
-### 9. Air strike in Sudan kills UN aid truck driver: WFP
+### 6. Brazil election results live: Lula and Bolsonaro locked in a tight race
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trucks were &#039;clearly marked as humanitarian vehicles&#039;, UN agency says.
+Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss)
 
 ---
 
-### 10. Typhoon Choi-wan
+### 7. Super Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Hatch Grade, Walla Walla, Washington
+### 9. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 
