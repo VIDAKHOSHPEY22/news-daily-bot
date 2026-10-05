@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 10:43:35
+**Last Update:** 2026-10-05 19:20:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic reported diary entry to police, woman faces felony charge
+### 1. "I'm Embarrassed on Behalf of the Tech Industry"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49961057">https://news.ycombinator.com/item?id=49961057</a></p>
-<p>Points: 43</p>
-<p># Comments: 36</p>
+<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/embarrassed-by-tech/">https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965497">https://news.ycombinator.com/item?id=49965497</a></p>
+<p>Points: 48</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)
+🔗 **Read more:** [https://blog.jim-nielsen.com/2026/embarrassed-by-tech/](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/)
 
 ---
 
-### 2. Replacement of petroleum based products with plant-based materials (2025)
+### 2. Making a GTK application in Haskell, part 1
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108">https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960901">https://news.ycombinator.com/item?id=49960901</a></p>
-<p>Points: 35</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/">https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965308">https://news.ycombinator.com/item?id=49965308</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
+🔗 **Read more:** [https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
 
 ---
 
-### 3. Nearly 200 people under observation after Irkutsk lab worker dies from plague
+### 3. Picard 3.0 Released
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857">https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960084">https://news.ycombinator.com/item?id=49960084</a></p>
-<p>Points: 187</p>
-<p># Comments: 150</p>
+<p>Article URL: <a href="https://blog.metabrainz.org/2026/10/04/picard-3-0-released/">https://blog.metabrainz.org/2026/10/04/picard-3-0-released/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965047">https://news.ycombinator.com/item?id=49965047</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
+🔗 **Read more:** [https://blog.metabrainz.org/2026/10/04/picard-3-0-released/](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
 
 ---
 
-### 4. US removes all bombers from RAF Fairford base
+### 4. No 10 insists RAF Fairford is safe after US withdraws bombers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to "suspicious vehicles" near the airbase.
+US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
+### 5. What we know about Andrew Mountbatten-Windsor's legal action against police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The vote has caused divisions among figures at the top of the party at its conference in Brighton.
+Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Protesters scuffle with police as migrants brought ashore on south coast
+### 6. Twelve arrests after protest over migrant boat arrival
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.
+Flares were set off and there were a few scuffles with police during the stand-off in Gosport.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Djokovic defeats top seed Zverev to reach China Open semifinals
+### 7. Nigeria launches rescue after military plane crashes with 32 aboard
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.
+Nigeria launches rescue operation after military aircraft carrying 32 people crashes in Ondo state.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss)
 
 ---
 
-### 8. Middle East oil exports surpass pre-war levels despite tensions, data shows
+### 8. Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.
+Yemeni government forces claim strategic advances near Bab al-Mandeb strait amid a major anti-Houthi offensive.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss)
 
 ---
 
-### 9. Who were the top teen athletes at the Asian Games?
+### 9. What happened between Ireland and Israel in their Nations League match?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.
+Spitting allegations, no handshakes, and bowed heads headlined the second Nations League fixture.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss)
 
 ---
 
