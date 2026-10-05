@@ -1,155 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 19:43:02
+**Last Update:** 2026-10-06 02:00:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Borland Turbo Basic
+### 1. Find the flattest route between any two points in SF
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dosdays.co.uk/topics/Software/borland_turbo_basic.php">https://dosdays.co.uk/topics/Software/borland_turbo_basic.php</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965894">https://news.ycombinator.com/item?id=49965894</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://flattensf.com/">https://flattensf.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49971230">https://news.ycombinator.com/item?id=49971230</a></p>
+<p>Points: 17</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://dosdays.co.uk/topics/Software/borland_turbo_basic.php](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
+🔗 **Read more:** [https://flattensf.com/](https://flattensf.com/)
 
 ---
 
-### 2. Making a GTK application in Haskell, part 1
+### 2. Dust: Pretraining Transformers Without Backpropagation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/">https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965308">https://news.ycombinator.com/item?id=49965308</a></p>
-<p>Points: 16</p>
+<p>Article URL: <a href="https://qlabs.sh/research/dust">https://qlabs.sh/research/dust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970871">https://news.ycombinator.com/item?id=49970871</a></p>
+<p>Points: 33</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+🔗 **Read more:** [https://qlabs.sh/research/dust](https://qlabs.sh/research/dust)
 
 ---
 
-### 3. Picard 3.0 Released
+### 3. Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.metabrainz.org/2026/10/04/picard-3-0-released/">https://blog.metabrainz.org/2026/10/04/picard-3-0-released/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965047">https://news.ycombinator.com/item?id=49965047</a></p>
-<p>Points: 18</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49970667">https://news.ycombinator.com/item?id=49970667</a></p>
+<p>Points: 114</p>
+<p># Comments: 97</p>
 
-🔗 **Read more:** [https://blog.metabrainz.org/2026/10/04/picard-3-0-released/](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
+🔗 **Read more:** [https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
 
 ---
 
-### 4. No 10 insists RAF Fairford is safe after US withdraws bombers
+### 4. Trump says 'threat' led US to pull bombers from RAF Fairford
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.
+The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What we know about Andrew Mountbatten-Windsor's legal action against police
+### 5. Author and former politician Jeffrey Archer dies aged 86
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.
+His last book, Adam and Eve, is set to release this month.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Teenager's hand blown off during confrontation between France school protesters and police
+### 6. King's funding for Andrew not to be used for legal action against police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prefect of Pas-de-Calais says the 15-year-old's life is "not in danger" after the "very serious" incident.
+Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bosnia and Herzegovina elections: Return to a nationalist political order?
+### 7. ‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Results raise the prospect of a new conservative alliance and further political polarisation, analysts say.
+Student groups call for the abolition of Greek life and more punitive action in the wake of fraternity assault allegations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss)
 
 ---
 
-### 8. LIVE: France vs Belgium – UEFA Nations League
+### 8. Super-subs help France demolish Belgium with late flurry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Build-up. teams and live text commentary stream of France&#039;s Nations League Group A1 game against Belgium in Paris
+Michael Olise scores twice and assists as France come from 1-0 with 13 minutes left to beat Belgium 4-1
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss)
 
 ---
 
-### 9. Nigeria launches rescue after military plane crashes with 32 aboard
+### 9. Ethiopia’s PM insists on access to Red Sea despite regional conflict threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigeria launches rescue operation after military aircraft carrying 32 people crashes in Ondo state.
+Neighbouring countries say coastal states must govern Red Sea as fighting escalates in northern Ethiopia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss)
-
----
-
-### 10. Super Typhoon Choi-wan
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss)
 
 ---
 
-### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 10. Prescribed Fire D3 Bear RX, Greenlee, Arizona
 
 **Source:** NASA
 
@@ -158,11 +145,11 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043)
 
 ---
 
-### 12. Wildfire Hatch Grade, Walla Walla, Washington
+### 11. Wildfire Bull, Washoe, Nevada
 
 **Source:** NASA
 
@@ -171,7 +158,20 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042)
+
+---
+
+### 12. Prescribed Fire Starvation 11A Rx, Wallowa, Oregon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045)
 
 ---
 
