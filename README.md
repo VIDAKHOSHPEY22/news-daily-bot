@@ -1,62 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 01:10:29
+**Last Update:** 2026-10-05 04:12:07
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I asked Claude build a physically accurate O'Neill cylinder you can walk around
+### 1. 1 in 8 cancer cases are caused by infections
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://island-three.gruberbuilds.workers.dev/">https://island-three.gruberbuilds.workers.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957191">https://news.ycombinator.com/item?id=49957191</a></p>
-<p>Points: 21</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say">https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49959260">https://news.ycombinator.com/item?id=49959260</a></p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://island-three.gruberbuilds.workers.dev/](https://island-three.gruberbuilds.workers.dev/)
+🔗 **Read more:** [https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say](https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say)
 
 ---
 
-### 2. Homa: The end of TCP for AI clusters [video]
+### 2. Self-hosted HTTP tunnels with SSH and Nginx
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Paper: 
-<a href="https://www.usenix.org/system/files/atc21-ousterhout.pdf" rel="nofollow">https://www.usenix.org/system/files/atc21-ousterhout.pdf</a><p>Related: <a href="https://lwn.net/Articles/1003059/" rel="nofollow">https://lwn.net/Articles/1003059/</a>, <a href="https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629" rel="nofollow">https://www.theregister.com/networks/2026/10/01/stanford-pro...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957117">https://news.ycombinator.com/item?id=49957117</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">https://vincent.bernat.ch/en/blog/2026-http-over-ssh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49958569">https://news.ycombinator.com/item?id=49958569</a></p>
+<p>Points: 35</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=eZ8WWZzoaR0](https://www.youtube.com/watch?v=eZ8WWZzoaR0)
+🔗 **Read more:** [https://vincent.bernat.ch/en/blog/2026-http-over-ssh](https://vincent.bernat.ch/en/blog/2026-http-over-ssh)
 
 ---
 
-### 3. Turn off Apple Intelligence on macOS 27 and get its disk space back
+### 3. In the wake of closure, a digital archive of animated materials appears online
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/omlahore/RemoveMacAI">https://github.com/omlahore/RemoveMacAI</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957116">https://news.ycombinator.com/item?id=49957116</a></p>
-<p>Points: 142</p>
-<p># Comments: 66</p>
+<p>Article URL: <a href="https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/">https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49957812">https://news.ycombinator.com/item?id=49957812</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
+🔗 **Read more:** [https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
 
 ---
 
@@ -73,7 +71,20 @@ A statement says all bombers deployed to RAF Fairford have been "re-deployed to 
 
 ---
 
-### 5. Green Party members back 'Zionism is racism' motion
+### 5. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Green Party members back 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -86,55 +97,42 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 6. I'm a classic old school Conservative, says Kemi Badenoch
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals
+### 7. Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Holders Portugal are the first team to qualify for 2026-27 UEFA Nations League despite absence of Cristiano Ronaldo.
+Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss)
 
 ---
 
-### 8. Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’
+### 8. Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s president declared that the &#039;antisemitic lie&#039; deliberately endangers Jews and Israelis.
+Ireland manager says &#039;disciplinary committee will look at&#039; allegations Israel player spat at one of his coaching staff.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss](https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss)
 
 ---
 
-### 9. Debris found near Nantucket believed to be from missing medical plane
+### 9. Manchester City must be relegated, says Canada’s ex-Leeds manager
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US Coast Guard says a field of debris found near Nantucket is believed to be from an emergency medical plane.
+Jesse Marsch alleges Man City&#039;s financial wrongdoing was widely known in the Premier League, and relegation must follow.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss)
 
 ---
 
