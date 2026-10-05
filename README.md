@@ -1,42 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 04:33:04
+**Last Update:** 2026-10-05 10:19:25
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. US removes all bombers from RAF Fairford base
+### 1. Anthropic reported diary entry to police, woman faces felony charge
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49961057">https://news.ycombinator.com/item?id=49961057</a></p>
+<p>Points: 32</p>
+<p># Comments: 23</p>
+
+🔗 **Read more:** [https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)
+
+---
+
+### 2. Replacement of petroleum based products with plant-based materials (2025)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108">https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960901">https://news.ycombinator.com/item?id=49960901</a></p>
+<p>Points: 30</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
+
+---
+
+### 3. Nearly 200 people under observation after Irkutsk lab worker dies from plague
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857">https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960084">https://news.ycombinator.com/item?id=49960084</a></p>
+<p>Points: 185</p>
+<p># Comments: 148</p>
+
+🔗 **Read more:** [https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
+
+---
+
+### 4. US removes all bombers from RAF Fairford base
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A statement says all bombers deployed to RAF Fairford have been "re-deployed to their home stations" in the US.
+No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to "suspicious vehicles" near the airbase.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Green Party members back 'Zionism is racism' motion
+### 5. Polanski banned from Israel after party's motion declaring 'Zionism is racism'
 
 **Source:** BBC
 
@@ -49,46 +84,59 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 4. Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks
+### 6. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Djokovic defeats top seed Zverev to reach China Open semifinals
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemeni government announces major offensive against Houthis, as Iran says it is ready to defend itself if US attacks.
+Novak Djokovic to face Daniil Medvedev in the semifinals in Beijing after the Russian defeats Francisco Cerundolo.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss)
 
 ---
 
-### 5. Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
+### 8. Middle East oil exports surpass pre-war levels despite tensions, data shows
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ireland manager says &#039;disciplinary committee will look at&#039; allegations Israel player spat at one of his coaching staff.
+IRGC commander says oil flows through US-supervised route in Hormuz are ‘negligible’.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss)
 
 ---
 
-### 6. Manchester City must be relegated, says Canada’s ex-Leeds manager
+### 9. Who were the top teen athletes at the Asian Games?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jesse Marsch alleges Man City&#039;s financial wrongdoing was widely known in the Premier League, and relegation must follow.
+China’s Zhang Zhanshuo, 19, finished with seven gold medals while compatriot Yu Zidi won three record-breaking golds.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/who-were-the-top-teen-athletes-at-the-asian-games?traffic_source=rss)
 
 ---
 
-### 7. Super Typhoon Choi-wan
+### 10. Super Typhoon Choi-wan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire SAN FRANCISCO 2, Starr, Texas
+### 11. Wildfire SAN FRANCISCO 2, Starr, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Hatch Grade, Walla Walla, Washington
+### 12. Wildfire Hatch Grade, Walla Walla, Washington
 
 **Source:** NASA
 
