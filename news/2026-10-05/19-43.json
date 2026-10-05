@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-05T19:43:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Borland Turbo Basic",
+            "description": "<p>Article URL: <a href=\"https://dosdays.co.uk/topics/Software/borland_turbo_basic.php\">https://dosdays.co.uk/topics/Software/borland_turbo_basic.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49965894\">https://news.ycombinator.com/item?id=49965894</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
+            "published": "Mon, 05 Oct 2026 15:11:31 +0000",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Making a GTK application in Haskell, part 1",
+            "description": "<p>Article URL: <a href=\"https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\">https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49965308\">https://news.ycombinator.com/item?id=49965308</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+            "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+            "published": "Mon, 05 Oct 2026 14:23:47 +0000",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Picard 3.0 Released",
+            "description": "<p>Article URL: <a href=\"https://blog.metabrainz.org/2026/10/04/picard-3-0-released/\">https://blog.metabrainz.org/2026/10/04/picard-3-0-released/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49965047\">https://news.ycombinator.com/item?id=49965047</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
+            "published": "Mon, 05 Oct 2026 14:03:01 +0000",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+            "description": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+            "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 13:16:00 GMT",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
+            "description": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
+            "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 13:09:42 GMT",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+            "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+            "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 14:30:31 GMT",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bosnia and Herzegovina elections: Return to a nationalist political order?",
+            "description": "Results raise the prospect of a new conservative alliance and further political polarisation, analysts say.",
+            "url": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 15:47:40 +0000",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: France vs Belgium – UEFA Nations League",
+            "description": "Build-up. teams and live text commentary stream of France&#039;s Nations League Group A1 game against Belgium in Paris",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 15:47:00 +0000",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
+            "description": "Nigeria launches rescue operation after military aircraft carrying 32 people crashes in Ondo state.",
+            "url": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
+            "published": "Mon, 05 Oct 2026 15:30:15 +0000",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Choi-wan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24962",
+            "published": "2026-09-30T12:00:00Z",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire SAN FRANCISCO 2, Starr, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24964",
+            "published": "2026-09-30T08:56:00Z",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Hatch Grade, Walla Walla, Washington",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24963",
+            "published": "2026-09-29T19:50:00Z",
+            "fetched": "2026-10-05T19:43:02+03:30"
+        }
+    ]
+}

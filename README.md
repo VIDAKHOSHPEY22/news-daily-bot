@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 19:20:47
+**Last Update:** 2026-10-05 19:43:02
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. "I'm Embarrassed on Behalf of the Tech Industry"
+### 1. Borland Turbo Basic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.jim-nielsen.com/2026/embarrassed-by-tech/">https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965497">https://news.ycombinator.com/item?id=49965497</a></p>
-<p>Points: 48</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://dosdays.co.uk/topics/Software/borland_turbo_basic.php">https://dosdays.co.uk/topics/Software/borland_turbo_basic.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965894">https://news.ycombinator.com/item?id=49965894</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.jim-nielsen.com/2026/embarrassed-by-tech/](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/)
+🔗 **Read more:** [https://dosdays.co.uk/topics/Software/borland_turbo_basic.php](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/">https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965308">https://news.ycombinator.com/item?id=49965308</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 16</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.metabrainz.org/2026/10/04/picard-3-0-released/">https://blog.metabrainz.org/2026/10/04/picard-3-0-released/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49965047">https://news.ycombinator.com/item?id=49965047</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Points: 18</p>
+<p># Comments: 1</p>
 
 🔗 **Read more:** [https://blog.metabrainz.org/2026/10/04/picard-3-0-released/](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
 
@@ -84,20 +84,46 @@ Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police o
 
 ---
 
-### 6. Twelve arrests after protest over migrant boat arrival
+### 6. Teenager's hand blown off during confrontation between France school protesters and police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Flares were set off and there were a few scuffles with police during the stand-off in Gosport.
+The prefect of Pas-de-Calais says the 15-year-old's life is "not in danger" after the "very serious" incident.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Nigeria launches rescue after military plane crashes with 32 aboard
+### 7. Bosnia and Herzegovina elections: Return to a nationalist political order?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Results raise the prospect of a new conservative alliance and further political polarisation, analysts say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss)
+
+---
+
+### 8. LIVE: France vs Belgium – UEFA Nations League
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Build-up. teams and live text commentary stream of France&#039;s Nations League Group A1 game against Belgium in Paris
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss)
+
+---
+
+### 9. Nigeria launches rescue after military plane crashes with 32 aboard
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Flares were set off and there were a few scuffles with police during the stand-o
 Nigeria launches rescue operation after military aircraft carrying 32 people crashes in Ondo state.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss)
-
----
-
-### 8. Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Yemeni government forces claim strategic advances near Bab al-Mandeb strait amid a major anti-Houthi offensive.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss](https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss)
-
----
-
-### 9. What happened between Ireland and Israel in their Nations League match?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Spitting allegations, no handshakes, and bowed heads headlined the second Nations League fixture.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss)
 
 ---
 
