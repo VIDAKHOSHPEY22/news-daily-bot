@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-05 10:19:25
+**Last Update:** 2026-10-05 10:43:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49961057">https://news.ycombinator.com/item?id=49961057</a></p>
-<p>Points: 32</p>
-<p># Comments: 23</p>
+<p>Points: 43</p>
+<p># Comments: 36</p>
 
 🔗 **Read more:** [https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html](https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108">https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960901">https://news.ycombinator.com/item?id=49960901</a></p>
-<p>Points: 30</p>
-<p># Comments: 2</p>
+<p>Points: 35</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108](https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857">https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49960084">https://news.ycombinator.com/item?id=49960084</a></p>
-<p>Points: 185</p>
-<p># Comments: 148</p>
+<p>Points: 187</p>
+<p># Comments: 150</p>
 
 🔗 **Read more:** [https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
 
@@ -84,16 +84,16 @@ The vote has caused divisions among figures at the top of the party at its confe
 
 ---
 
-### 6. Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round
+### 6. Protesters scuffle with police as migrants brought ashore on south coast
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.
+The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
