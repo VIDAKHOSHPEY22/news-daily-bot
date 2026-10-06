@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 06:38:43
+**Last Update:** 2026-10-06 13:33:22
 
 **Total News:** 12
 
@@ -10,51 +10,51 @@
 
 ## 📰 Latest News
 
-### 1. Photopea creator weighs in on Photosuite project
+### 1. Anthropic Subscriptions Offer 5x+ More Value Than OpenAI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/eolix/photosuite/issues/77">https://github.com/eolix/photosuite/issues/77</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972730">https://news.ycombinator.com/item?id=49972730</a></p>
-<p>Points: 19</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49975345">https://news.ycombinator.com/item?id=49975345</a></p>
+<p>Points: 14</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://github.com/eolix/photosuite/issues/77](https://github.com/eolix/photosuite/issues/77)
+🔗 **Read more:** [https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x)
 
 ---
 
-### 2. High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days
+### 2. Resurrecting iChat Audio and Video Conferencing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972607">https://news.ycombinator.com/item?id=49972607</a></p>
-<p>Points: 45</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973878">https://news.ycombinator.com/item?id=49973878</a></p>
+<p>Points: 48</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days)
+🔗 **Read more:** [https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
 
 ---
 
-### 3. AI Tutoring with Khanmigo in a Two-Year School Experiment
+### 3. Why Common Lisp is now the best programming language
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://edworkingpapers.com/ai26-1551">https://edworkingpapers.com/ai26-1551</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972419">https://news.ycombinator.com/item?id=49972419</a></p>
-<p>Points: 39</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.vivienhenz.com/common-lisp">https://www.vivienhenz.com/common-lisp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973598">https://news.ycombinator.com/item?id=49973598</a></p>
+<p>Points: 162</p>
+<p># Comments: 221</p>
 
-🔗 **Read more:** [https://edworkingpapers.com/ai26-1551](https://edworkingpapers.com/ai26-1551)
+🔗 **Read more:** [https://www.vivienhenz.com/common-lisp](https://www.vivienhenz.com/common-lisp)
 
 ---
 
@@ -71,16 +71,16 @@ The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in 
 
 ---
 
-### 5. What prompted the US bombers to leave RAF Fairford?
+### 5. ASOS app users receive notifications from hackers in apparent breach
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.
+Dozens of people appear to have received a strange message from the clothing and beauty store's app.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Archer sold more than 300 million books in his five-decade writing career, and h
 
 ---
 
-### 7. UN rights council condemns attacks on civilians in Sudan, calls for truce
+### 7. Kenya ministry of health confirms first imported Ebola case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Resolution demands an immediate ceasefire and extends the mandate of the mission investigating abuses in Sudan.
+The first imported case of Ebola has been recorded in Kenya.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss)
 
 ---
 
-### 8. Trump says taxpayers will no longer fund TV ads that praise him
+### 8. India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Move comes after ethics experts criticised three nationally broadcast ads and called for independent investigations.
+Across the country, Indians are turning disparate grievances into a broader reckoning with unaccountable power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss)
 
 ---
 
-### 9. Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows
+### 9. ‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.
+Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss)
 
 ---
 
