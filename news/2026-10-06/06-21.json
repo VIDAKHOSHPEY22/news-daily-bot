@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-06T06:21:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Photopea creator weighs in on Photosuite project",
+            "description": "<p>Article URL: <a href=\"https://github.com/eolix/photosuite/issues/77\">https://github.com/eolix/photosuite/issues/77</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972730\">https://news.ycombinator.com/item?id=49972730</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/eolix/photosuite/issues/77",
+            "published": "Tue, 06 Oct 2026 00:41:44 +0000",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+            "description": "<p>Article URL: <a href=\"https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days\">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972607\">https://news.ycombinator.com/item?id=49972607</a></p>\n<p>Points: 34</p>\n<p># Comments: 10</p>",
+            "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+            "published": "Tue, 06 Oct 2026 00:24:57 +0000",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+            "description": "<p>Article URL: <a href=\"https://edworkingpapers.com/ai26-1551\">https://edworkingpapers.com/ai26-1551</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49972419\">https://news.ycombinator.com/item?id=49972419</a></p>\n<p>Points: 35</p>\n<p># Comments: 24</p>",
+            "url": "https://edworkingpapers.com/ai26-1551",
+            "published": "Tue, 06 Oct 2026 00:00:45 +0000",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+            "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+            "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 21:46:22 GMT",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What prompted the US bombers to leave RAF Fairford?",
+            "description": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+            "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 21:57:26 GMT",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Author and former politician Jeffrey Archer dies aged 86",
+            "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 21:41:53 GMT",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says taxpayers will no longer fund TV ads that praise him",
+            "description": "Move comes after ethics experts criticised three nationally broadcast ads and called for independent investigations.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 01:51:32 +0000",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows",
+            "description": "During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 01:39:54 +0000",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder",
+            "description": "Former ‘American Idol’ singer Caleb Flynn is sentenced to life without parole after being convicted of his wife&#039;s murder",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 01:24:53 +0000",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Starvation 11A Rx, Wallowa, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045",
+            "published": "2026-09-30T15:52:00Z",
+            "fetched": "2026-10-06T06:21:51+03:30"
+        }
+    ]
+}
