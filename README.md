@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 13:33:22
+**Last Update:** 2026-10-06 14:03:43
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic Subscriptions Offer 5x+ More Value Than OpenAI
+### 1. Nobel Prize in Physics goes to Francis Halzen
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nobelprize.org/prizes/physics/2026/">https://www.nobelprize.org/prizes/physics/2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49976265">https://news.ycombinator.com/item?id=49976265</a></p>
+<p>Points: 45</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.nobelprize.org/prizes/physics/2026/](https://www.nobelprize.org/prizes/physics/2026/)
+
+---
+
+### 2. Anthropic Subscriptions Offer 5x+ More Value Than OpenAI
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49975345">https://news.ycombinator.com/item?id=49975345</a></p>
-<p>Points: 14</p>
-<p># Comments: 13</p>
+<p>Points: 36</p>
+<p># Comments: 29</p>
 
 🔗 **Read more:** [https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x)
 
 ---
 
-### 2. Resurrecting iChat Audio and Video Conferencing
+### 3. Resurrecting iChat Audio and Video Conferencing
 
 **Source:** Hacker News
 
@@ -35,65 +51,49 @@
 **Description:**
 <p>Article URL: <a href="https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973878">https://news.ycombinator.com/item?id=49973878</a></p>
-<p>Points: 48</p>
+<p>Points: 50</p>
 <p># Comments: 12</p>
 
 🔗 **Read more:** [https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
 
 ---
 
-### 3. Why Common Lisp is now the best programming language
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.vivienhenz.com/common-lisp">https://www.vivienhenz.com/common-lisp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973598">https://news.ycombinator.com/item?id=49973598</a></p>
-<p>Points: 162</p>
-<p># Comments: 221</p>
-
-🔗 **Read more:** [https://www.vivienhenz.com/common-lisp](https://www.vivienhenz.com/common-lisp)
-
----
-
-### 4. Trump says 'threat' led US to pull bombers from RAF Fairford
+### 4. Tories pledge £10bn British 'Iron Dome' air defence system
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.
+The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. ASOS app users receive notifications from hackers in apparent breach
+### 5. Former German spy chief arrested for espionage and treason
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dozens of people appear to have received a strange message from the clothing and beauty store's app.
+August Hanning is accused of obtaining classified information for a foreign power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Author and former politician Jeffrey Archer dies aged 86
+### 6. 'Ghost particles' from space telescope wins physics Nobel
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.
+Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-06T14:03:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nobel Prize in Physics goes to Francis Halzen",
+            "description": "<p>Article URL: <a href=\"https://www.nobelprize.org/prizes/physics/2026/\">https://www.nobelprize.org/prizes/physics/2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49976265\">https://news.ycombinator.com/item?id=49976265</a></p>\n<p>Points: 45</p>\n<p># Comments: 4</p>",
+            "url": "https://www.nobelprize.org/prizes/physics/2026/",
+            "published": "Tue, 06 Oct 2026 09:48:46 +0000",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+            "description": "<p>Article URL: <a href=\"https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x\">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49975345\">https://news.ycombinator.com/item?id=49975345</a></p>\n<p>Points: 36</p>\n<p># Comments: 29</p>",
+            "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+            "published": "Tue, 06 Oct 2026 07:29:50 +0000",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Resurrecting iChat Audio and Video Conferencing",
+            "description": "<p>Article URL: <a href=\"https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49973878\">https://news.ycombinator.com/item?id=49973878</a></p>\n<p>Points: 50</p>\n<p># Comments: 12</p>",
+            "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+            "published": "Tue, 06 Oct 2026 03:39:01 +0000",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tories pledge £10bn British 'Iron Dome' air defence system",
+            "description": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
+            "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 09:50:54 GMT",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Former German spy chief arrested for espionage and treason",
+            "description": "August Hanning is accused of obtaining classified information for a foreign power.",
+            "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 10:05:42 GMT",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Ghost particles' from space telescope wins physics Nobel",
+            "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+            "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 10:23:59 GMT",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kenya ministry of health confirms first imported Ebola case",
+            "description": "The first imported case of Ebola has been recorded in Kenya.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 09:51:44 +0000",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility",
+            "description": "Across the country, Indians are turning disparate grievances into a broader reckoning with unaccountable power.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 09:39:03 +0000",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it",
+            "description": "Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 09:25:14 +0000",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Starvation 11A Rx, Wallowa, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045",
+            "published": "2026-09-30T15:52:00Z",
+            "fetched": "2026-10-06T14:03:43+03:30"
+        }
+    ]
+}
