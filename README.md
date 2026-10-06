@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 20:37:58
+**Last Update:** 2026-10-06 20:48:15
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -36,7 +36,7 @@
 <p>Article URL: <a href="https://github.com/FeSens/openTPU">https://github.com/FeSens/openTPU</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49980715">https://news.ycombinator.com/item?id=49980715</a></p>
 <p>Points: 56</p>
-<p># Comments: 22</p>
+<p># Comments: 23</p>
 
 🔗 **Read more:** [https://github.com/FeSens/openTPU](https://github.com/FeSens/openTPU)
 
@@ -97,42 +97,42 @@ Dozens of people appear to have received a strange message from the clothing and
 
 ---
 
-### 7. Is Europe preparing for a wider war with Russia?
+### 7. Kenya confirms first Ebola case as man dies in Nairobi after DRC return
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A British war-game show simulating a Russian attack has drawn a nuclear warning from Moscow.
+More than 4,000 people have died in the worst outbreak in the DR Congo&#039;s history, with confirmed cases surpassing 8,300.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss)
 
 ---
 
-### 8. FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints
+### 8. Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The three complaints filed by Norway&#039;s football body ask FIFA&#039;s Ethics Committee to examine Infantino&#039;s conduct.
+Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz&#039;s third of the year.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss)
 
 ---
 
-### 9. LIVE: Croatia vs Spain – UEFA Nations League
+### 9. Ship sinks off Bulgaria after drone attack in Black Sea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates, with build-up and team news, from our live text commentary stream coverage as Lamine Yamal headlines.
+Ship sinks off Bulgaria after drone attack in Black Sea
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss)
 
 ---
 
