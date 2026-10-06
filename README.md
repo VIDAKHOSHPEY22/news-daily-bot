@@ -1,142 +1,155 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 14:03:43
+**Last Update:** 2026-10-06 20:37:58
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nobel Prize in Physics goes to Francis Halzen
+### 1. Utah to let AI examine patients and prescribe medication without human oversight
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nobelprize.org/prizes/physics/2026/">https://www.nobelprize.org/prizes/physics/2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49976265">https://news.ycombinator.com/item?id=49976265</a></p>
-<p>Points: 45</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html">https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49981197">https://news.ycombinator.com/item?id=49981197</a></p>
+<p>Points: 7</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.nobelprize.org/prizes/physics/2026/](https://www.nobelprize.org/prizes/physics/2026/)
+🔗 **Read more:** [https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
 
 ---
 
-### 2. Anthropic Subscriptions Offer 5x+ More Value Than OpenAI
+### 2. AI is now capable of developing its own inference hardware
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49975345">https://news.ycombinator.com/item?id=49975345</a></p>
-<p>Points: 36</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://github.com/FeSens/openTPU">https://github.com/FeSens/openTPU</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49980715">https://news.ycombinator.com/item?id=49980715</a></p>
+<p>Points: 56</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x)
+🔗 **Read more:** [https://github.com/FeSens/openTPU](https://github.com/FeSens/openTPU)
 
 ---
 
-### 3. Resurrecting iChat Audio and Video Conferencing
+### 3. The Early History of Smalltalk (1993)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/">https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49973878">https://news.ycombinator.com/item?id=49973878</a></p>
-<p>Points: 50</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://worrydream.com/EarlyHistoryOfSmalltalk/">https://worrydream.com/EarlyHistoryOfSmalltalk/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979845">https://news.ycombinator.com/item?id=49979845</a></p>
+<p>Points: 46</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
+🔗 **Read more:** [https://worrydream.com/EarlyHistoryOfSmalltalk/](https://worrydream.com/EarlyHistoryOfSmalltalk/)
 
 ---
 
-### 4. Tories pledge £10bn British 'Iron Dome' air defence system
+### 4. Watch: At the scene of student protests in Lille
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.
+The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Former German spy chief arrested for espionage and treason
+### 5. British national arrested in connection with RAF Fairford incident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-August Hanning is accused of obtaining classified information for a foreign power.
+It is the seventh arrest in connection to the incident near RAF Fairford last month.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'Ghost particles' from space telescope wins physics Nobel
+### 6. ASOS app users receive push notifications apparently sent by hackers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.
+Dozens of people appear to have received a strange message from the clothing and beauty store's app.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Kenya ministry of health confirms first imported Ebola case
+### 7. Is Europe preparing for a wider war with Russia?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The first imported case of Ebola has been recorded in Kenya.
+A British war-game show simulating a Russian attack has drawn a nuclear warning from Moscow.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss)
 
 ---
 
-### 8. India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility
+### 8. FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Across the country, Indians are turning disparate grievances into a broader reckoning with unaccountable power.
+The three complaints filed by Norway&#039;s football body ask FIFA&#039;s Ethics Committee to examine Infantino&#039;s conduct.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss)
 
 ---
 
-### 9. ‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it
+### 9. LIVE: Croatia vs Spain – UEFA Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.
+Follow updates, with build-up and team news, from our live text commentary stream coverage as Lamine Yamal headlines.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss)
 
 ---
 
-### 10. Prescribed Fire D3 Bear RX, Greenlee, Arizona
+### 10. Tropical Storm Koguma
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046)
+
+---
+
+### 11. Prescribed Fire D3 Bear RX, Greenlee, Arizona
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire Bull, Washoe, Nevada
+### 12. Wildfire Bull, Washoe, Nevada
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042)
-
----
-
-### 12. Prescribed Fire Starvation 11A Rx, Wallowa, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25045)
 
 ---
 
