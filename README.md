@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 20:48:15
+**Last Update:** 2026-10-07 01:14:47
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Utah to let AI examine patients and prescribe medication without human oversight
+### 1. OpenSSH 10.6
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html">https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49981197">https://news.ycombinator.com/item?id=49981197</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.6">https://www.openssh.org/releasenotes.html#10.6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983791">https://news.ycombinator.com/item?id=49983791</a></p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html](https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html)
+🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.6](https://www.openssh.org/releasenotes.html#10.6)
 
 ---
 
-### 2. AI is now capable of developing its own inference hardware
+### 2. Paramount completes $111B Warner merger, creating "Skydance" behemoth
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/FeSens/openTPU">https://github.com/FeSens/openTPU</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49980715">https://news.ycombinator.com/item?id=49980715</a></p>
-<p>Points: 56</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/">https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983703">https://news.ycombinator.com/item?id=49983703</a></p>
+<p>Points: 68</p>
+<p># Comments: 55</p>
 
-🔗 **Read more:** [https://github.com/FeSens/openTPU](https://github.com/FeSens/openTPU)
+🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
 
 ---
 
-### 3. The Early History of Smalltalk (1993)
+### 3. System-level ad-blocking in Android
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://worrydream.com/EarlyHistoryOfSmalltalk/">https://worrydream.com/EarlyHistoryOfSmalltalk/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49979845">https://news.ycombinator.com/item?id=49979845</a></p>
-<p>Points: 46</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://kevinboone.me/adblock.html">https://kevinboone.me/adblock.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983647">https://news.ycombinator.com/item?id=49983647</a></p>
+<p>Points: 16</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://worrydream.com/EarlyHistoryOfSmalltalk/](https://worrydream.com/EarlyHistoryOfSmalltalk/)
+🔗 **Read more:** [https://kevinboone.me/adblock.html](https://kevinboone.me/adblock.html)
 
 ---
 
-### 4. Watch: At the scene of student protests in Lille
+### 4. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.
+Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. British national arrested in connection with RAF Fairford incident
+### 5. Watch: Police raid on gang behind fake gay asylum claims
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the seventh arrest in connection to the incident near RAF Fairford last month.
+The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. ASOS app users receive push notifications apparently sent by hackers
+### 6. US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dozens of people appear to have received a strange message from the clothing and beauty store's app.
+Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Kenya confirms first Ebola case as man dies in Nairobi after DRC return
+### 7. Harry Kane equals England record, scores twice in 3-0 win over Czechia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 4,000 people have died in the worst outbreak in the DR Congo&#039;s history, with confirmed cases surpassing 8,300.
+England&#039;s Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss)
 
 ---
 
-### 8. Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open
+### 8. CNN, CBS News now under one roof as Paramount-Warner Bros merger closes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz&#039;s third of the year.
+The newly combined company is called Skydance and began trading on Wall Street on Tuesday.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss)
 
 ---
 
-### 9. Ship sinks off Bulgaria after drone attack in Black Sea
+### 9. US arrests suspect in connection with Tumbler Ridge school shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ship sinks off Bulgaria after drone attack in Black Sea
+The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss)
 
 ---
 
