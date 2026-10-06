@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-06 06:21:51
+**Last Update:** 2026-10-06 06:38:43
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/eolix/photosuite/issues/77">https://github.com/eolix/photosuite/issues/77</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972730">https://news.ycombinator.com/item?id=49972730</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Points: 19</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://github.com/eolix/photosuite/issues/77](https://github.com/eolix/photosuite/issues/77)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days">https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972607">https://news.ycombinator.com/item?id=49972607</a></p>
-<p>Points: 34</p>
-<p># Comments: 10</p>
+<p>Points: 45</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days](https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://edworkingpapers.com/ai26-1551">https://edworkingpapers.com/ai26-1551</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49972419">https://news.ycombinator.com/item?id=49972419</a></p>
-<p>Points: 35</p>
-<p># Comments: 24</p>
+<p>Points: 39</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://edworkingpapers.com/ai26-1551](https://edworkingpapers.com/ai26-1551)
 
@@ -97,7 +97,20 @@ Archer sold more than 300 million books in his five-decade writing career, and h
 
 ---
 
-### 7. Trump says taxpayers will no longer fund TV ads that praise him
+### 7. UN rights council condemns attacks on civilians in Sudan, calls for truce
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Resolution demands an immediate ceasefire and extends the mandate of the mission investigating abuses in Sudan.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss)
+
+---
+
+### 8. Trump says taxpayers will no longer fund TV ads that praise him
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Move comes after ethics experts criticised three nationally broadcast ads and ca
 
 ---
 
-### 8. Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows
+### 9. Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Move comes after ethics experts criticised three nationally broadcast ads and ca
 During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss)
-
----
-
-### 9. Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Former ‘American Idol’ singer Caleb Flynn is sentenced to life without parole after being convicted of his wife&#039;s murder
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss)
 
 ---
 
