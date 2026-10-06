@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-07T02:05:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sharing AI Progress in Mathematics",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/sharing-ai-progress-in-mathematics/\">https://openai.com/index/sharing-ai-progress-in-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49984923\">https://news.ycombinator.com/item?id=49984923</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+            "published": "Tue, 06 Oct 2026 22:17:21 +0000",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
+            "description": "<p>I'd have swear before there were more and even a more button at the bottom</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49984484\">https://news.ycombinator.com/item?id=49984484</a></p>\n<p>Points: 21</p>\n<p># Comments: 21</p>",
+            "url": "https://news.ycombinator.com/item?id=49984484",
+            "published": "Tue, 06 Oct 2026 21:37:01 +0000",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Decisions API is in public beta",
+            "description": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/guides/decisions\">https://developers.openai.com/api/docs/guides/decisions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49984025\">https://news.ycombinator.com/item?id=49984025</a></p>\n<p>Points: 28</p>\n<p># Comments: 8</p>",
+            "url": "https://developers.openai.com/api/docs/guides/decisions",
+            "published": "Tue, 06 Oct 2026 20:57:25 +0000",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+            "description": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 19:25:08 GMT",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Police raid on gang behind fake gay asylum claims",
+            "description": "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.",
+            "url": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 19:01:17 GMT",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+            "description": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 22:00:43 GMT",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
+            "description": "Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 22:07:44 +0000",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+            "description": "Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 21:57:03 +0000",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Harry Kane equals England record, scores twice in 3-0 win over Czechia",
+            "description": "England&#039;s Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.",
+            "url": "https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss",
+            "published": "Tue, 06 Oct 2026 21:40:12 +0000",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-07T02:05:14+03:30"
+        }
+    ]
+}

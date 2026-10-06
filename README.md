@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 01:14:47
+**Last Update:** 2026-10-07 02:05:14
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSH 10.6
+### 1. Sharing AI Progress in Mathematics
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.openssh.org/releasenotes.html#10.6">https://www.openssh.org/releasenotes.html#10.6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983791">https://news.ycombinator.com/item?id=49983791</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">https://openai.com/index/sharing-ai-progress-in-mathematics/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49984923">https://news.ycombinator.com/item?id=49984923</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.openssh.org/releasenotes.html#10.6](https://www.openssh.org/releasenotes.html#10.6)
+🔗 **Read more:** [https://openai.com/index/sharing-ai-progress-in-mathematics/](https://openai.com/index/sharing-ai-progress-in-mathematics/)
 
 ---
 
-### 2. Paramount completes $111B Warner merger, creating "Skydance" behemoth
+### 2. Ask HN: Why is Ask HN only showing me 14 posts?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/">https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983703">https://news.ycombinator.com/item?id=49983703</a></p>
-<p>Points: 68</p>
-<p># Comments: 55</p>
+<p>I'd have swear before there were more and even a more button at the bottom</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49984484">https://news.ycombinator.com/item?id=49984484</a></p>
+<p>Points: 21</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/](https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=49984484](https://news.ycombinator.com/item?id=49984484)
 
 ---
 
-### 3. System-level ad-blocking in Android
+### 3. Decisions API is in public beta
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kevinboone.me/adblock.html">https://kevinboone.me/adblock.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49983647">https://news.ycombinator.com/item?id=49983647</a></p>
-<p>Points: 16</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://developers.openai.com/api/docs/guides/decisions">https://developers.openai.com/api/docs/guides/decisions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49984025">https://news.ycombinator.com/item?id=49984025</a></p>
+<p>Points: 28</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://kevinboone.me/adblock.html](https://kevinboone.me/adblock.html)
+🔗 **Read more:** [https://developers.openai.com/api/docs/guides/decisions](https://developers.openai.com/api/docs/guides/decisions)
 
 ---
 
@@ -84,7 +85,7 @@ The arrests come after a BBC investigation in April revealed that law firms and 
 
 ---
 
-### 6. US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say
+### 6. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
 
 **Source:** BBC
 
@@ -97,7 +98,33 @@ Pike, 50, continues to receive critical medical care while handcuffed in hospita
 
 ---
 
-### 7. Harry Kane equals England record, scores twice in 3-0 win over Czechia
+### 7. Fans flood Buenos Aires ahead of Messi’s final international match
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss)
+
+---
+
+### 8. Houthis, Saudi-led forces claim victories as Yemen fighting rages on
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss)
+
+---
+
+### 9. Harry Kane equals England record, scores twice in 3-0 win over Czechia
 
 **Source:** Al Jazeera
 
@@ -107,32 +134,6 @@ Pike, 50, continues to receive critical medical care while handcuffed in hospita
 England&#039;s Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss)
-
----
-
-### 8. CNN, CBS News now under one roof as Paramount-Warner Bros merger closes
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The newly combined company is called Skydance and began trading on Wall Street on Tuesday.
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss)
-
----
-
-### 9. US arrests suspect in connection with Tumbler Ridge school shooting
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss)
 
 ---
 
