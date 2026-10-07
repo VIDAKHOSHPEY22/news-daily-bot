@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-07T20:11:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+            "description": "The Opposition leader made the pledge as she said the Tories face a \"battle for the soul of the this nation\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 14:33:11 GMT",
+            "fetched": "2026-10-07T20:11:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
+            "description": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 16:31:06 GMT",
+            "fetched": "2026-10-07T20:11:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boots sold in £7bn deal to Canadian billionaire family",
+            "description": "The sale of the High Street chain was announced on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 15:57:43 GMT",
+            "fetched": "2026-10-07T20:11:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
+            "description": "Far-right and far-left parties gain ground in local elections as Merz&#039;s approval rating sinks.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 16:12:29 +0000",
+            "fetched": "2026-10-07T20:11:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
+            "description": "With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three in four families in parts of Yemen face hunger.",
+            "url": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 16:02:17 +0000",
+            "fetched": "2026-10-07T20:11:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The mass killing does not mean Israel’s winning",
+            "description": "Israel’s military might has failed to achieve the political goals in Gaza it was supposed to.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 15:25:06 +0000",
+            "fetched": "2026-10-07T20:11:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-07T20:11:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-07T20:11:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-07T20:11:22+03:30"
+        }
+    ]
+}
