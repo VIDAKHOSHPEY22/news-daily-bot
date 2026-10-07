@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 01:35:53
+**Last Update:** 2026-10-08 02:29:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Margaret Hamilton, who led software development for Apollo program, dies at 90
+### 1. I'm in love with a German film star
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/">https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49999606">https://news.ycombinator.com/item?id=49999606</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/](https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/)
+
+---
+
+### 2. Margaret Hamilton, who led software development for the Apollo program, has died
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998895">https://news.ycombinator.com/item?id=49998895</a></p>
-<p>Points: 34</p>
-<p># Comments: 2</p>
+<p>Points: 187</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 
 ---
 
-### 2. Despite what Watson said, Rosalind Franklin understood structure of DNA first
+### 3. Despite what Watson said, Rosalind Franklin understood structure of DNA first
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://link.springer.com/article/10.1007/s10739-026-09866-7">https://link.springer.com/article/10.1007/s10739-026-09866-7</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998006">https://news.ycombinator.com/item?id=49998006</a></p>
-<p>Points: 42</p>
-<p># Comments: 6</p>
+<p>Points: 71</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://link.springer.com/article/10.1007/s10739-026-09866-7](https://link.springer.com/article/10.1007/s10739-026-09866-7)
-
----
-
-### 3. Show HN: gtlds.fyi – All the proposed new gTLDs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gtlds.fyi/">https://gtlds.fyi/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997971">https://news.ycombinator.com/item?id=49997971</a></p>
-<p>Points: 32</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://gtlds.fyi/](https://gtlds.fyi/)
 
 ---
 
@@ -97,7 +97,33 @@ Lawyers say the convicted killer was surprised to have survived and remained "sh
 
 ---
 
-### 7. Pro-Palestine university groups march in London on October 7 anniversary
+### 7. ‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil&#039;s presidential run-off.
+
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss)
+
+---
+
+### 8. Judge orders officials to preserve Pike execution evidence
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A Nashville judge ordered Tennessee officials to preserve evidence from Christa Pike’s failed execution
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/judge-orders-officials-to-preserve-pike-execution-evidence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/judge-orders-officials-to-preserve-pike-execution-evidence?traffic_source=rss)
+
+---
+
+### 9. Pro-Palestine university groups march in London on October 7 anniversary
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Lawyers say the convicted killer was surprised to have survived and remained "sh
 Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss)
-
----
-
-### 8. Trump on why he thinks he deserves the Nobel Peace Prize
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-US President Donald Trump said it would be a ‘great discredit’ to the Nobel Peace Prize committee.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss)
-
----
-
-### 9. South Africa host Australia who battle more than ‘Sandpapergate’ memories
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss)
 
 ---
 
