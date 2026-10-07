@@ -1,65 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 02:05:14
+**Last Update:** 2026-10-07 05:10:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Sharing AI Progress in Mathematics
+### 1. South Korea says AI agents appear to have been used to hack the country's banks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">https://openai.com/index/sharing-ai-progress-in-mathematics/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49984923">https://news.ycombinator.com/item?id=49984923</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/">https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985861">https://news.ycombinator.com/item?id=49985861</a></p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://openai.com/index/sharing-ai-progress-in-mathematics/](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+🔗 **Read more:** [https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
 
 ---
 
-### 2. Ask HN: Why is Ask HN only showing me 14 posts?
+### 2. AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I'd have swear before there were more and even a more button at the bottom</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49984484">https://news.ycombinator.com/item?id=49984484</a></p>
-<p>Points: 21</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://github.com/boykopovar/AnyPS5">https://github.com/boykopovar/AnyPS5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985664">https://news.ycombinator.com/item?id=49985664</a></p>
+<p>Points: 78</p>
+<p># Comments: 48</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=49984484](https://news.ycombinator.com/item?id=49984484)
+🔗 **Read more:** [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
 
 ---
 
-### 3. Decisions API is in public beta
+### 3. State of Devs 2026 survey results: developers are exhausted
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://developers.openai.com/api/docs/guides/decisions">https://developers.openai.com/api/docs/guides/decisions</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49984025">https://news.ycombinator.com/item?id=49984025</a></p>
-<p>Points: 28</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://2026.stateofdevs.com/en-US/">https://2026.stateofdevs.com/en-US/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985643">https://news.ycombinator.com/item?id=49985643</a></p>
+<p>Points: 52</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://developers.openai.com/api/docs/guides/decisions](https://developers.openai.com/api/docs/guides/decisions)
+🔗 **Read more:** [https://2026.stateofdevs.com/en-US/](https://2026.stateofdevs.com/en-US/)
 
 ---
 
-### 4. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
+### 4. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
 
 **Source:** BBC
 
@@ -72,7 +84,7 @@ Those targeted by Home Office immigration enforcement officers are accused of ch
 
 ---
 
-### 5. Watch: Police raid on gang behind fake gay asylum claims
+### 6. Watch: Police raid on gang behind fake gay asylum claims
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ The arrests come after a BBC investigation in April revealed that law firms and 
 
 ---
 
-### 6. US death row inmate Christa Pike awake and speaking after failed execution, lawyers say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Fans flood Buenos Aires ahead of Messi’s final international match
+### 7. Syrian embassy returns seized passport after 43 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.
+Syria&#039;s embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss)
 
 ---
 
-### 8. Houthis, Saudi-led forces claim victories as Yemen fighting rages on
+### 8. Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.
+Both Democrats and Republicans have expressed outrage at Trump&#039;s remarks that cities could be sacrificed in Iran war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss)
 
 ---
 
-### 9. Harry Kane equals England record, scores twice in 3-0 win over Czechia
+### 9. What’s behind Israel’s growing shift to the right?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-England&#039;s Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.
+Three years after the October 7 attacks, the politics of Israeli society has shifted further right.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/whats-behind-israels-growing-shift-to-the-right?traffic_source=rss)
 
 ---
 
