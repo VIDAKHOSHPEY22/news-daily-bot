@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-07T05:43:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald",
+            "description": "<p>Article URL: <a href=\"https://www.cbc.ca/lite/story/9.7370118\">https://www.cbc.ca/lite/story/9.7370118</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49986892\">https://news.ycombinator.com/item?id=49986892</a></p>\n<p>Points: 29</p>\n<p># Comments: 7</p>",
+            "url": "https://www.cbc.ca/lite/story/9.7370118",
+            "published": "Wed, 07 Oct 2026 01:42:24 +0000",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/\">https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49985861\">https://news.ycombinator.com/item?id=49985861</a></p>\n<p>Points: 30</p>\n<p># Comments: 6</p>",
+            "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+            "published": "Tue, 06 Oct 2026 23:50:33 +0000",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+            "description": "<p>Article URL: <a href=\"https://github.com/boykopovar/AnyPS5\">https://github.com/boykopovar/AnyPS5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49985664\">https://news.ycombinator.com/item?id=49985664</a></p>\n<p>Points: 100</p>\n<p># Comments: 75</p>",
+            "url": "https://github.com/boykopovar/AnyPS5",
+            "published": "Tue, 06 Oct 2026 23:28:08 +0000",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+            "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 00:56:59 GMT",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+            "description": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 19:25:08 GMT",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Police raid on gang behind fake gay asylum claims",
+            "description": "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.",
+            "url": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 19:01:17 GMT",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two Houthi missiles target Yemen’s Aden International Airport",
+            "description": "Explosions near Aden International Airport after Yemen’s Saudi-backed gov&#039;t said two missiles were fired by the Houthis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 01:59:15 +0000",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian embassy returns seized passport after 43 years",
+            "description": "Syria&#039;s embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 01:20:11 +0000",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles",
+            "description": "Both Democrats and Republicans have expressed outrage at Trump&#039;s remarks that cities could be sacrificed in Iran war.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 01:07:21 +0000",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Bull, Washoe, Nevada",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25042",
+            "published": "2026-10-02T14:26:00Z",
+            "fetched": "2026-10-07T05:43:25+03:30"
+        }
+    ]
+}
