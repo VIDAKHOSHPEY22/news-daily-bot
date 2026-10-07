@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 05:43:25
+**Last Update:** 2026-10-07 12:25:51
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Couple was swatted 55 times in 2 years over a post about Norm Macdonald
+### 1. Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbc.ca/lite/story/9.7370118">https://www.cbc.ca/lite/story/9.7370118</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49986892">https://news.ycombinator.com/item?id=49986892</a></p>
-<p>Points: 29</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.cbc.ca/lite/story/9.7370118](https://www.cbc.ca/lite/story/9.7370118)
-
----
-
-### 2. South Korea says AI agents appear to have been used to hack the country's banks
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/">https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985861">https://news.ycombinator.com/item?id=49985861</a></p>
-<p>Points: 30</p>
+<p>Article URL: <a href="https://github.com/shader-effects-inc/shaders">https://github.com/shader-effects-inc/shaders</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988709">https://news.ycombinator.com/item?id=49988709</a></p>
+<p>Points: 18</p>
 <p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/)
+🔗 **Read more:** [https://github.com/shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
 
 ---
 
-### 3. AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)
+### 2. Sharded, encrypted storage between friends over Yggdrasil
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/boykopovar/AnyPS5">https://github.com/boykopovar/AnyPS5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49985664">https://news.ycombinator.com/item?id=49985664</a></p>
-<p>Points: 100</p>
-<p># Comments: 75</p>
+<p>Article URL: <a href="https://github.com/peterretief/yggstore">https://github.com/peterretief/yggstore</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988550">https://news.ycombinator.com/item?id=49988550</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+🔗 **Read more:** [https://github.com/peterretief/yggstore](https://github.com/peterretief/yggstore)
+
+---
+
+### 3. Hackers obtain counterfeit TLS certificates for Google and other large services
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988230">https://news.ycombinator.com/item?id=49988230</a></p>
+<p>Points: 56</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
 
 ---
 
@@ -71,68 +71,68 @@ Experts and lawyers called the apparent recovery unprecedented, noting she is be
 
 ---
 
-### 5. Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum
+### 5. What we know about Christa Pike’s ‘unprecedented' recovery
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.
+The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: Police raid on gang behind fake gay asylum claims
+### 6. Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.
+Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Two Houthi missiles target Yemen’s Aden International Airport
+### 7. Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Explosions near Aden International Airport after Yemen’s Saudi-backed gov&#039;t said two missiles were fired by the Houthis.
+Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss)
 
 ---
 
-### 8. Syrian embassy returns seized passport after 43 years
+### 8. Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syria&#039;s embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.
+Arfat Sheikh was arrested at Washington Dulles International Airport on September 24, advocacy group says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss)
 
 ---
 
-### 9. Politicians slam Trump’s suggestion that Iran ‘take’ San Diego, Los Angeles
+### 9. ‘We’re short of resources’: France’s student protesters, in their own words
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Both Democrats and Republicans have expressed outrage at Trump&#039;s remarks that cities could be sacrificed in Iran war.
+French students and teachers protesting school conditions spoke with Al Jazeera about their demands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss)
 
 ---
 
