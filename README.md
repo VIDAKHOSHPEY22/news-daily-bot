@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 21:15:07
+**Last Update:** 2026-10-08 01:35:53
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. EmDash uses Clef to moderate the plugin registry
+### 1. Margaret Hamilton, who led software development for Apollo program, dies at 90
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry">https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49995740">https://news.ycombinator.com/item?id=49995740</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998895">https://news.ycombinator.com/item?id=49998895</a></p>
+<p>Points: 34</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry](https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry)
+🔗 **Read more:** [https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 
 ---
 
-### 2. Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth
+### 2. Despite what Watson said, Rosalind Franklin understood structure of DNA first
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth">https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49994746">https://news.ycombinator.com/item?id=49994746</a></p>
-<p>Points: 53</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://link.springer.com/article/10.1007/s10739-026-09866-7">https://link.springer.com/article/10.1007/s10739-026-09866-7</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998006">https://news.ycombinator.com/item?id=49998006</a></p>
+<p>Points: 42</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth](https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth)
+🔗 **Read more:** [https://link.springer.com/article/10.1007/s10739-026-09866-7](https://link.springer.com/article/10.1007/s10739-026-09866-7)
 
 ---
 
-### 3. Open source 160 sound visualization experiments
+### 3. Show HN: gtlds.fyi – All the proposed new gTLDs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.kagan.in/iwrzwr/visual-archive/">https://www.kagan.in/iwrzwr/visual-archive/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49994481">https://news.ycombinator.com/item?id=49994481</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://gtlds.fyi/">https://gtlds.fyi/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997971">https://news.ycombinator.com/item?id=49997971</a></p>
+<p>Points: 32</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://www.kagan.in/iwrzwr/visual-archive/](https://www.kagan.in/iwrzwr/visual-archive/)
+🔗 **Read more:** [https://gtlds.fyi/](https://gtlds.fyi/)
 
 ---
 
@@ -84,55 +84,55 @@ Kemi Badenoch has the support of her party but the Tories still trail Labour and
 
 ---
 
-### 6. Boots sold in £7bn deal to Canadian billionaire family
+### 6. Christa Pike 'angry and confused' after failed execution, lawyers say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The sale of the High Street chain was announced on Wednesday.
+Lawyers say the convicted killer was surprised to have survived and remained "shackled" to her hospital bed.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Over 100 arrested in Belgium student protests over education costs
+### 7. Pro-Palestine university groups march in London on October 7 anniversary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesting students have demanded education reforms in French-speaking areas of the country.
+Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss)
 
 ---
 
-### 8. US mortgage rates hit their highest level in three years
+### 8. Trump on why he thinks he deserves the Nobel Peace Prize
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rising borrowing costs have pushed mortgage applications to their lowest level since February 2025.
+US President Donald Trump said it would be a ‘great discredit’ to the Nobel Peace Prize committee.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss)
 
 ---
 
-### 9. UEFA football leaders meet to shape strategy to oust FIFA’s Infantino
+### 9. South Africa host Australia who battle more than ‘Sandpapergate’ memories
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-European football leaders gather in Berlin with the aim of shaping strategy to oust Gianni Infantino as FIFA president.
+WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/7/uefa-football-leaders-meet-to-shape-strategy-to-oust-fifas-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/7/uefa-football-leaders-meet-to-shape-strategy-to-oust-fifas-infantino?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss)
 
 ---
 

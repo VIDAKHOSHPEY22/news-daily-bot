@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-08T01:35:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Margaret Hamilton, who led software development for Apollo program, dies at 90",
+            "description": "<p>Article URL: <a href=\"https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998895\">https://news.ycombinator.com/item?id=49998895</a></p>\n<p>Points: 34</p>\n<p># Comments: 2</p>",
+            "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+            "published": "Wed, 07 Oct 2026 21:16:18 +0000",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
+            "description": "<p>Article URL: <a href=\"https://link.springer.com/article/10.1007/s10739-026-09866-7\">https://link.springer.com/article/10.1007/s10739-026-09866-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998006\">https://news.ycombinator.com/item?id=49998006</a></p>\n<p>Points: 42</p>\n<p># Comments: 6</p>",
+            "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
+            "published": "Wed, 07 Oct 2026 19:56:16 +0000",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: gtlds.fyi – All the proposed new gTLDs",
+            "description": "<p>Article URL: <a href=\"https://gtlds.fyi/\">https://gtlds.fyi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49997971\">https://news.ycombinator.com/item?id=49997971</a></p>\n<p>Points: 32</p>\n<p># Comments: 36</p>",
+            "url": "https://gtlds.fyi/",
+            "published": "Wed, 07 Oct 2026 19:53:17 +0000",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+            "description": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 14:33:11 GMT",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
+            "description": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 16:31:06 GMT",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
+            "description": "Lawyers say the convicted killer was surprised to have survived and remained \"shackled\" to her hospital bed.",
+            "url": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 21:51:21 GMT",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pro-Palestine university groups march in London on October 7 anniversary",
+            "description": "Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 21:33:21 +0000",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump on why he thinks he deserves the Nobel Peace Prize",
+            "description": "US President Donald Trump said it would be a ‘great discredit’ to the Nobel Peace Prize committee.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/trump-on-why-he-thinks-he-deserves-the-nobel-peace-prize-2?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 21:30:18 +0000",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Africa host Australia who battle more than ‘Sandpapergate’ memories",
+            "description": "WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal.",
+            "url": "https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 21:09:20 +0000",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-08T01:35:53+03:30"
+        }
+    ]
+}
