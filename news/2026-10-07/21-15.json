@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-07T21:15:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "EmDash uses Clef to moderate the plugin registry",
+            "description": "<p>Article URL: <a href=\"https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry\">https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49995740\">https://news.ycombinator.com/item?id=49995740</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry",
+            "published": "Wed, 07 Oct 2026 17:12:28 +0000",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth\">https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49994746\">https://news.ycombinator.com/item?id=49994746</a></p>\n<p>Points: 53</p>\n<p># Comments: 14</p>",
+            "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+            "published": "Wed, 07 Oct 2026 16:07:08 +0000",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Open source 160 sound visualization experiments",
+            "description": "<p>Article URL: <a href=\"https://www.kagan.in/iwrzwr/visual-archive/\">https://www.kagan.in/iwrzwr/visual-archive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49994481\">https://news.ycombinator.com/item?id=49994481</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
+            "url": "https://www.kagan.in/iwrzwr/visual-archive/",
+            "published": "Wed, 07 Oct 2026 15:46:30 +0000",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+            "description": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 14:33:11 GMT",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
+            "description": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 16:31:06 GMT",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boots sold in £7bn deal to Canadian billionaire family",
+            "description": "The sale of the High Street chain was announced on Wednesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 17:18:30 GMT",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Over 100 arrested in Belgium student protests over education costs",
+            "description": "Protesting students have demanded education reforms in French-speaking areas of the country.",
+            "url": "https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 17:28:56 +0000",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US mortgage rates hit their highest level in three years",
+            "description": "Rising borrowing costs have pushed mortgage applications to their lowest level since February 2025.",
+            "url": "https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 17:05:10 +0000",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA football leaders meet to shape strategy to oust FIFA’s Infantino",
+            "description": "European football leaders gather in Berlin with the aim of shaping strategy to oust Gianni Infantino as FIFA president.",
+            "url": "https://www.aljazeera.com/sports/2026/10/7/uefa-football-leaders-meet-to-shape-strategy-to-oust-fifas-infantino?traffic_source=rss",
+            "published": "Wed, 07 Oct 2026 16:47:24 +0000",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-07T21:15:07+03:30"
+        }
+    ]
+}
