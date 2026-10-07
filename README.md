@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-07 12:25:51
+**Last Update:** 2026-10-07 13:37:31
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
+### 1. A font recreated from photographs of classic Commodore 64 keycaps
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/szabadkai/c64-keyboard-font/">https://github.com/szabadkai/c64-keyboard-font/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49990224">https://news.ycombinator.com/item?id=49990224</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/szabadkai/c64-keyboard-font/](https://github.com/szabadkai/c64-keyboard-font/)
+
+---
+
+### 2. Reasons to Dislike AI Coding
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/">https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49990204">https://news.ycombinator.com/item?id=49990204</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/](https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/)
+
+---
+
+### 3. Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/shader-effects-inc/shaders">https://github.com/shader-effects-inc/shaders</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988709">https://news.ycombinator.com/item?id=49988709</a></p>
-<p>Points: 18</p>
-<p># Comments: 6</p>
+<p>Points: 27</p>
+<p># Comments: 12</p>
 
 🔗 **Read more:** [https://github.com/shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)
-
----
-
-### 2. Sharded, encrypted storage between friends over Yggdrasil
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/peterretief/yggstore">https://github.com/peterretief/yggstore</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988550">https://news.ycombinator.com/item?id=49988550</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/peterretief/yggstore](https://github.com/peterretief/yggstore)
-
----
-
-### 3. Hackers obtain counterfeit TLS certificates for Google and other large services
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49988230">https://news.ycombinator.com/item?id=49988230</a></p>
-<p>Points: 56</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/](https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/)
 
 ---
 
@@ -71,20 +71,7 @@ Experts and lawyers called the apparent recovery unprecedented, noting she is be
 
 ---
 
-### 5. What we know about Christa Pike’s ‘unprecedented' recovery
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild
+### 5. Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Three years on from the attack on Nir Oz, in which 47 people were killed and 76 
 
 ---
 
-### 7. Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi
+### 6. Husband appears in court accused of GP's murder
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.
+Mark Cain is charged with the murder of Dr Hannah Terry, whose body was found at her home.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx98ze08n3dlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx98ze08n3dlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US
+### 7. France halts police use of stun grenades at student protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Arfat Sheikh was arrested at Washington Dulles International Airport on September 24, advocacy group says.
+Prime Minister Sebastien Lecornu to make public address after thousands rally to demand more funding for education.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/france-halts-police-use-of-stun-grenades-at-student-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/france-halts-police-use-of-stun-grenades-at-student-protests?traffic_source=rss)
 
 ---
 
-### 9. ‘We’re short of resources’: France’s student protesters, in their own words
+### 8. What does a year-long ceasefire in Gaza look like?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French students and teachers protesting school conditions spoke with Al Jazeera about their demands.
+Israel attacked Gaza nine days out of 10 during a so-called ceasefire.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss)
+
+---
+
+### 9. Fear and a far-right lurch: How October 7 reshaped Israel
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Three years on, the trauma of October 7, 2023, continues to reshape Israel’s politics, wars and place in the world.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss)
 
 ---
 
