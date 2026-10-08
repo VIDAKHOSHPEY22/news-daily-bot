@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-08T06:09:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Margaret Hamilton has died",
+            "description": "<p>Article URL: <a href=\"https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998895\">https://news.ycombinator.com/item?id=49998895</a></p>\n<p>Points: 813</p>\n<p># Comments: 92</p>",
+            "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+            "published": "Wed, 07 Oct 2026 21:16:18 +0000",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'Jonathan' is the oldest land animal on Earth",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/\">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49998066\">https://news.ycombinator.com/item?id=49998066</a></p>\n<p>Points: 59</p>\n<p># Comments: 22</p>",
+            "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+            "published": "Wed, 07 Oct 2026 20:01:37 +0000",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+            "description": "<p>Article URL: <a href=\"https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/\">https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49997161\">https://news.ycombinator.com/item?id=49997161</a></p>\n<p>Points: 285</p>\n<p># Comments: 281</p>",
+            "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+            "published": "Wed, 07 Oct 2026 18:49:40 +0000",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
+            "description": "Lawyers say the convicted killer was surprised to have survived and remained \"shackled\" to her hospital bed.",
+            "url": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 21:51:21 GMT",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What we know about Christa Pike's ‘shock’ recovery in hospital",
+            "description": "The US death row inmate's legal team said at a press conference that she is now \"conscious and speaking\" after her failed execution.",
+            "url": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 20:01:05 GMT",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to hold security talks with German chancellor in Berlin",
+            "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 23:01:31 GMT",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Guantanamo prison still open?",
+            "description": "Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 01:49:11 +0000",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
+            "description": "Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 01:21:26 +0000",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Death of 87-year old sparks furious Spain housing protests",
+            "description": "Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 01:15:27 +0000",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire D3 Bear RX, Greenlee, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043",
+            "published": "2026-10-02T17:58:00Z",
+            "fetched": "2026-10-08T06:09:37+03:30"
+        }
+    ]
+}
