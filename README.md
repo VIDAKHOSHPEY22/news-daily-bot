@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 21:19:16
+**Last Update:** 2026-10-09 01:43:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Deeply Impersonal Personalized Recruiter Mail
+### 1. Show HN: Free open source Adobe Lightroom alternative, completely local with AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/">https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50008685">https://news.ycombinator.com/item?id=50008685</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://github.com/thesnarkitecht/rembrandt">https://github.com/thesnarkitecht/rembrandt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50012199">https://news.ycombinator.com/item?id=50012199</a></p>
+<p>Points: 18</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://github.com/thesnarkitecht/rembrandt](https://github.com/thesnarkitecht/rembrandt)
+
+---
+
+### 2. AI-ready biological data: $1.8B global commitment
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://biohub.org/news/virtual-biology-initiative-expansion/">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011999">https://news.ycombinator.com/item?id=50011999</a></p>
+<p>Points: 26</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/](https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/)
+🔗 **Read more:** [https://biohub.org/news/virtual-biology-initiative-expansion/](https://biohub.org/news/virtual-biology-initiative-expansion/)
 
 ---
 
-### 2. Whistle: Speech to Text in 16.9 MB
+### 3. ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cactuscompute.com/blog/whistle">https://cactuscompute.com/blog/whistle</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50008427">https://news.ycombinator.com/item?id=50008427</a></p>
-<p>Points: 64</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011928">https://news.ycombinator.com/item?id=50011928</a></p>
+<p>Points: 42</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://cactuscompute.com/blog/whistle](https://cactuscompute.com/blog/whistle)
-
----
-
-### 3. OpenAI annualised revenues $20B less than previously signalled
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a">https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50008187">https://news.ycombinator.com/item?id=50008187</a></p>
-<p>Points: 45</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a)
+🔗 **Read more:** [https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 
 ---
 
@@ -71,7 +71,7 @@ A criminal investigation into the former prince continues and police have retain
 
 ---
 
-### 5. Watch: Why the search warrants were deemed unlawful and what happens next?
+### 5. Watch: What does the ruling mean for the investigation into the former prince?
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Police say they apprehended two Latvian men at about 02:00 BST while they were i
 
 ---
 
-### 7. Syria calls for independent probe into sinking of ship in Black Sea
+### 7. Four astronauts return to earth after an eight-month space mission
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Syrian authorities questioned why search and rescue operations were called off before the fate of 10 sailors was known.
+The crew completed a parachute-assisted splashdown in the Pacific Ocean off the coast of California.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss)
 
 ---
 
-### 8. US suspends Microsoft and Adobe from visa programme amid fraud claims
+### 8. What Man City charges anger Liverpool before Premier League game?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Visa probe also targets universities for allegedly exploiting international students to reduce US wage costs.
+Clubs reportedly want reimbursements after Man City charges - one of those, Liverpool, are first opponent in fallout.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss)
 
 ---
 
-### 9. Jerusalem Daily: Remembrance and mourning
+### 9. Police use tear gas and water cannons on student protestors in Paris
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.
+Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,20 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Hurricane Isaias
+### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119)
+
+---
+
+### 12. Hurricane Isaias
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063)
-
----
-
-### 12. Typhoon Koguma
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T01:43:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+            "description": "<p>Article URL: <a href=\"https://github.com/thesnarkitecht/rembrandt\">https://github.com/thesnarkitecht/rembrandt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50012199\">https://news.ycombinator.com/item?id=50012199</a></p>\n<p>Points: 18</p>\n<p># Comments: 16</p>",
+            "url": "https://github.com/thesnarkitecht/rembrandt",
+            "published": "Thu, 08 Oct 2026 21:00:55 +0000",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI-ready biological data: $1.8B global commitment",
+            "description": "<p>Article URL: <a href=\"https://biohub.org/news/virtual-biology-initiative-expansion/\">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011999\">https://news.ycombinator.com/item?id=50011999</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
+            "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+            "published": "Thu, 08 Oct 2026 20:46:25 +0000",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy",
+            "description": "<p>Article URL: <a href=\"https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full\">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50011928\">https://news.ycombinator.com/item?id=50011928</a></p>\n<p>Points: 42</p>\n<p># Comments: 22</p>",
+            "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+            "published": "Thu, 08 Oct 2026 20:42:16 +0000",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+            "description": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
+            "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 16:33:29 GMT",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What does the ruling mean for the investigation into the former prince?",
+            "description": "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.",
+            "url": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 17:26:49 GMT",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+            "description": "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 17:36:28 GMT",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Four astronauts return to earth after an eight-month space mission",
+            "description": "The crew completed a parachute-assisted splashdown in the Pacific Ocean off the coast of California.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 21:55:29 +0000",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What Man City charges anger Liverpool before Premier League game?",
+            "description": "Clubs reportedly want reimbursements after Man City charges - one of those, Liverpool, are first opponent in fallout.",
+            "url": "https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 21:49:30 +0000",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police use tear gas and water cannons on student protestors in Paris",
+            "description": "Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 21:17:05 +0000",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T01:43:40+03:30"
+        }
+    ]
+}
