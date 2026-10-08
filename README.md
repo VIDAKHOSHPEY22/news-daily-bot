@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 06:09:37
+**Last Update:** 2026-10-08 12:40:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Margaret Hamilton has died
+### 1. OpenAI withdraws three mathematical results
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998895">https://news.ycombinator.com/item?id=49998895</a></p>
-<p>Points: 813</p>
-<p># Comments: 92</p>
+<p>Article URL: <a href="https://twitter.com/danintheory/status/2108065033070789090">https://twitter.com/danintheory/status/2108065033070789090</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002650">https://news.ycombinator.com/item?id=50002650</a></p>
+<p>Points: 37</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+🔗 **Read more:** [https://twitter.com/danintheory/status/2108065033070789090](https://twitter.com/danintheory/status/2108065033070789090)
 
 ---
 
-### 2. 'Jonathan' is the oldest land animal on Earth
+### 2. Dat-ecosystem: high level applications built on top of P2P protocols
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998066">https://news.ycombinator.com/item?id=49998066</a></p>
-<p>Points: 59</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://dat-ecosystem.org/">https://dat-ecosystem.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002505">https://news.ycombinator.com/item?id=50002505</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
+🔗 **Read more:** [https://dat-ecosystem.org/](https://dat-ecosystem.org/)
 
 ---
 
-### 3. Meta and Microsoft take steps to reduce employee usage of Claude AI
+### 3. Classic PC demoscene productions running natively in the browser
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/">https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49997161">https://news.ycombinator.com/item?id=49997161</a></p>
-<p>Points: 285</p>
-<p># Comments: 281</p>
+<p>Article URL: <a href="https://treylorswift.github.io/demoscene-recomp/web/">https://treylorswift.github.io/demoscene-recomp/web/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002426">https://news.ycombinator.com/item?id=50002426</a></p>
+<p>Points: 35</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/)
+🔗 **Read more:** [https://treylorswift.github.io/demoscene-recomp/web/](https://treylorswift.github.io/demoscene-recomp/web/)
 
 ---
 
-### 4. Christa Pike 'angry and confused' after failed execution, lawyers say
+### 4. Royal Navy service member charged with spying for a foreign power
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Lawyers say the convicted killer was surprised to have survived and remained "shackled" to her hospital bed.
+The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: What we know about Christa Pike's ‘shock’ recovery in hospital
+### 5. Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US death row inmate's legal team said at a press conference that she is now "conscious and speaking" after her failed execution.
+Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham to hold security talks with German chancellor in Berlin
+### 6. 'Come all the way' back to EU, French finance minister tells UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.
+Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why is Guantanamo prison still open?
+### 7. Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open
+&#039;Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,&#039; his lawyer said.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss)
 
 ---
 
-### 8. Democrats sue US President Trump over taxpayer-funded ad campaign
+### 8. ‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.
+Spark of hope for a natural world beset by crisis, as conservation efforts succeed amid a 73 percent drop in wildlife.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss](https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss)
 
 ---
 
-### 9. Death of 87-year old sparks furious Spain housing protests
+### 9. How Gaza war sped up India’s shift towards Israel under Modi
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.
+As even Israel&#039;s traditional allies are distancing themselves from Netanyahu, Modi&#039;s India has embraced the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss)
 
 ---
 
@@ -162,16 +162,16 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire D3 Bear RX, Greenlee, Arizona
+### 12. Hurricane Nolo
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25043)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
 
 ---
 

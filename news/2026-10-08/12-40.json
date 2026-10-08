@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-08T12:40:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI withdraws three mathematical results",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/danintheory/status/2108065033070789090\">https://twitter.com/danintheory/status/2108065033070789090</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002650\">https://news.ycombinator.com/item?id=50002650</a></p>\n<p>Points: 37</p>\n<p># Comments: 21</p>",
+            "url": "https://twitter.com/danintheory/status/2108065033070789090",
+            "published": "Thu, 08 Oct 2026 07:05:40 +0000",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+            "description": "<p>Article URL: <a href=\"https://dat-ecosystem.org/\">https://dat-ecosystem.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002505\">https://news.ycombinator.com/item?id=50002505</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://dat-ecosystem.org/",
+            "published": "Thu, 08 Oct 2026 06:43:13 +0000",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Classic PC demoscene productions running natively in the browser",
+            "description": "<p>Article URL: <a href=\"https://treylorswift.github.io/demoscene-recomp/web/\">https://treylorswift.github.io/demoscene-recomp/web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002426\">https://news.ycombinator.com/item?id=50002426</a></p>\n<p>Points: 35</p>\n<p># Comments: 11</p>",
+            "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+            "published": "Thu, 08 Oct 2026 06:29:25 +0000",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Royal Navy service member charged with spying for a foreign power",
+            "description": "The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
+            "url": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 08:29:14 GMT",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+            "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+            "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 08:18:36 GMT",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Come all the way' back to EU, French finance minister tells UK",
+            "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+            "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 04:02:26 GMT",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms",
+            "description": "&#039;Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,&#039; his lawyer said.",
+            "url": "https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 09:00:30 +0000",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Nature can recover’: Inside the race to rescue world’s crisis-hit wildlife",
+            "description": "Spark of hope for a natural world beset by crisis, as conservation efforts succeed amid a 73 percent drop in wildlife.",
+            "url": "https://www.aljazeera.com/features/2026/10/8/nature-can-recover-inside-the-race-to-rescue-worlds-crisis-hit-wildlife?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 08:37:15 +0000",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Gaza war sped up India’s shift towards Israel under Modi",
+            "description": "As even Israel&#039;s traditional allies are distancing themselves from Netanyahu, Modi&#039;s India has embraced the country.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 08:31:44 +0000",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-10-08T12:40:44+03:30"
+        }
+    ]
+}
