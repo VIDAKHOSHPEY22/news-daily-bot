@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-08T21:19:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Deeply Impersonal Personalized Recruiter Mail",
+            "description": "<p>Article URL: <a href=\"https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/\">https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008685\">https://news.ycombinator.com/item?id=50008685</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+            "published": "Thu, 08 Oct 2026 17:15:57 +0000",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Whistle: Speech to Text in 16.9 MB",
+            "description": "<p>Article URL: <a href=\"https://cactuscompute.com/blog/whistle\">https://cactuscompute.com/blog/whistle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008427\">https://news.ycombinator.com/item?id=50008427</a></p>\n<p>Points: 64</p>\n<p># Comments: 9</p>",
+            "url": "https://cactuscompute.com/blog/whistle",
+            "published": "Thu, 08 Oct 2026 16:59:39 +0000",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI annualised revenues $20B less than previously signalled",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a\">https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008187\">https://news.ycombinator.com/item?id=50008187</a></p>\n<p>Points: 45</p>\n<p># Comments: 6</p>",
+            "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+            "published": "Thu, 08 Oct 2026 16:45:58 +0000",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+            "description": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
+            "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 16:33:29 GMT",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why the search warrants were deemed unlawful and what happens next?",
+            "description": "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.",
+            "url": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 17:26:49 GMT",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+            "description": "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 17:36:28 GMT",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syria calls for independent probe into sinking of ship in Black Sea",
+            "description": "Syrian authorities questioned why search and rescue operations were called off before the fate of 10 sailors was known.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 17:27:47 +0000",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
+            "description": "Visa probe also targets universities for allegedly exploiting international students to reduce US wage costs.",
+            "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 17:25:02 +0000",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Remembrance and mourning",
+            "description": "Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 17:17:22 +0000",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-08T21:19:16+03:30"
+        }
+    ]
+}
