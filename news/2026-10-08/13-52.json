@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-08T13:52:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI withdraws three mathematical results",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/danintheory/status/2108065033070789090\">https://twitter.com/danintheory/status/2108065033070789090</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002650\">https://news.ycombinator.com/item?id=50002650</a></p>\n<p>Points: 65</p>\n<p># Comments: 53</p>",
+            "url": "https://twitter.com/danintheory/status/2108065033070789090",
+            "published": "Thu, 08 Oct 2026 07:05:40 +0000",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dat-ecosystem: high level applications built on top of P2P protocols",
+            "description": "<p>Article URL: <a href=\"https://dat-ecosystem.org/\">https://dat-ecosystem.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002505\">https://news.ycombinator.com/item?id=50002505</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
+            "url": "https://dat-ecosystem.org/",
+            "published": "Thu, 08 Oct 2026 06:43:13 +0000",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Classic PC demoscene productions running natively in the browser",
+            "description": "<p>Article URL: <a href=\"https://treylorswift.github.io/demoscene-recomp/web/\">https://treylorswift.github.io/demoscene-recomp/web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50002426\">https://news.ycombinator.com/item?id=50002426</a></p>\n<p>Points: 69</p>\n<p># Comments: 53</p>",
+            "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+            "published": "Thu, 08 Oct 2026 06:29:25 +0000",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Asos hackers took more personal details than first revealed, BBC finds",
+            "description": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+            "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 09:45:28 GMT",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Royal Navy sailor charged with spying for a foreign power",
+            "description": "The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.",
+            "url": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 08:29:14 GMT",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+            "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+            "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 08:18:36 GMT",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK police charge Royal Navy member accused of working with foreign power",
+            "description": "Police say the incident is not connected to ongoing investigations at the RAF Fairford airbase.",
+            "url": "https://www.aljazeera.com/news/2026/10/8/uk-police-charge-royal-navy-member-accused-of-working-with-foreign-power?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 09:40:10 +0000",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bosnia’s political future looks increasingly like its past",
+            "description": "Three nationalist parties are poised to dominate again, deepening fears of division and paralysis.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/8/bosnias-political-future-looks-increasingly-like-its-past?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 09:37:07 +0000",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms",
+            "description": "&#039;Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,&#039; his lawyer said.",
+            "url": "https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss",
+            "published": "Thu, 08 Oct 2026 09:00:30 +0000",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Koguma",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046",
+            "published": "2026-10-05T06:00:00Z",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Nolo",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786",
+            "published": "2026-09-24T00:00:00Z",
+            "fetched": "2026-10-08T13:52:12+03:30"
+        }
+    ]
+}
