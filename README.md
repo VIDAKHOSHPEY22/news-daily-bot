@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 01:43:40
+**Last Update:** 2026-10-09 02:44:20
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/thesnarkitecht/rembrandt">https://github.com/thesnarkitecht/rembrandt</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50012199">https://news.ycombinator.com/item?id=50012199</a></p>
-<p>Points: 18</p>
-<p># Comments: 16</p>
+<p>Points: 33</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://github.com/thesnarkitecht/rembrandt](https://github.com/thesnarkitecht/rembrandt)
 
@@ -35,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://biohub.org/news/virtual-biology-initiative-expansion/">https://biohub.org/news/virtual-biology-initiative-expansion/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011999">https://news.ycombinator.com/item?id=50011999</a></p>
-<p>Points: 26</p>
+<p>Points: 40</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://biohub.org/news/virtual-biology-initiative-expansion/](https://biohub.org/news/virtual-biology-initiative-expansion/)
 
 ---
 
-### 3. ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy
+### 3. ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)
 
 **Source:** Hacker News
 
@@ -51,14 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50011928">https://news.ycombinator.com/item?id=50011928</a></p>
-<p>Points: 42</p>
-<p># Comments: 22</p>
+<p>Points: 97</p>
+<p># Comments: 81</p>
 
 🔗 **Read more:** [https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 
 ---
 
-### 4. Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says
+### 4. ADHD and autism at risk of over-diagnosis, says government review
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The review, which focuses on younger age groups, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis or mis-diagnosis.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnham calls on Polanski to reverse Green Party's Zionism motion
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The prime minister has intervened in the row over the motion passed by members at Green Party conference.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says
 
 **Source:** BBC
 
@@ -71,33 +97,33 @@ A criminal investigation into the former prince continues and police have retain
 
 ---
 
-### 5. Watch: What does the ruling mean for the investigation into the former prince?
+### 7. Putin pledges Russia’s support to end US-led war on Iran
 
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire
-
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.
+The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran?traffic_source=rss)
 
 ---
 
-### 7. Four astronauts return to earth after an eight-month space mission
+### 8. French giants Bordeaux relegated to sixth tier for financial irregularities
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Six-time French champions Bordeaux, the club where Zinedine Zidane made his name, to play in sixth tier after sanctions.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities?traffic_source=rss)
+
+---
+
+### 9. Four astronauts return to earth after an eight-month space mission
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Police say they apprehended two Latvian men at about 02:00 BST while they were i
 The crew completed a parachute-assisted splashdown in the Pacific Ocean off the coast of California.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/four-astronauts-return-to-earth-after-an-eight-month-space-mission?traffic_source=rss)
-
----
-
-### 8. What Man City charges anger Liverpool before Premier League game?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Clubs reportedly want reimbursements after Man City charges - one of those, Liverpool, are first opponent in fallout.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss)
-
----
-
-### 9. Police use tear gas and water cannons on student protestors in Paris
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss)
 
 ---
 
