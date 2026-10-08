@@ -1,142 +1,155 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 13:52:12
+**Last Update:** 2026-10-08 20:08:32
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI withdraws three mathematical results
+### 1. 4-hour battery storage is cheaper to install than gas turbines all across globe
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/danintheory/status/2108065033070789090">https://twitter.com/danintheory/status/2108065033070789090</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002650">https://news.ycombinator.com/item?id=50002650</a></p>
-<p>Points: 65</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/">https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007519">https://news.ycombinator.com/item?id=50007519</a></p>
+<p>Points: 25</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://twitter.com/danintheory/status/2108065033070789090](https://twitter.com/danintheory/status/2108065033070789090)
+🔗 **Read more:** [https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/](https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/)
 
 ---
 
-### 2. Dat-ecosystem: high level applications built on top of P2P protocols
+### 2. New gTLD Application for .lan
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://dat-ecosystem.org/">https://dat-ecosystem.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002505">https://news.ycombinator.com/item?id=50002505</a></p>
-<p>Points: 15</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary">https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50007353">https://news.ycombinator.com/item?id=50007353</a></p>
+<p>Points: 51</p>
+<p># Comments: 48</p>
 
-🔗 **Read more:** [https://dat-ecosystem.org/](https://dat-ecosystem.org/)
+🔗 **Read more:** [https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary](https://newgtldprogram-aps.icann.org/applications/CD2694T-T26351/summary)
 
 ---
 
-### 3. Classic PC demoscene productions running natively in the browser
+### 3. US suspends Microsoft, major IT firms from key green card program
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://treylorswift.github.io/demoscene-recomp/web/">https://treylorswift.github.io/demoscene-recomp/web/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50002426">https://news.ycombinator.com/item?id=50002426</a></p>
-<p>Points: 69</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/">https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50006948">https://news.ycombinator.com/item?id=50006948</a></p>
+<p>Points: 72</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://treylorswift.github.io/demoscene-recomp/web/](https://treylorswift.github.io/demoscene-recomp/web/)
+🔗 **Read more:** [https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/](https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/)
 
 ---
 
-### 4. Asos hackers took more personal details than first revealed, BBC finds
+### 4. Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond "basic contact details"
+A criminal investigation into the former prince continues and police have retained material seized from his homes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Royal Navy sailor charged with spying for a foreign power
+### 5. Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 24-year-old man is due to appear at Westminster Magistrates’ Court on Thursday after being arrested at his home in Bedfordshire.
+Police say they apprehended the suspects at about 02:00 while they were inside the perimeter.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+### 6. Three sisters who drowned in sea off Brighton took own lives, inquest finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.
+Jane Adetoro, Christina Walters and Rebecca Walters, who lived in London, drowned in the sea in May.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c689zxd8w87lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UK police charge Royal Navy member accused of working with foreign power
+### 7. UK ex-prince Andrew search warrants quashed after police accept legal error
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police say the incident is not connected to ongoing investigations at the RAF Fairford airbase.
+London-based judge says error &#039;does not bring investigation to an end&#039; as police probe disgraced former royal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/uk-police-charge-royal-navy-member-accused-of-working-with-foreign-power?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/uk-police-charge-royal-navy-member-accused-of-working-with-foreign-power?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss)
 
 ---
 
-### 8. Bosnia’s political future looks increasingly like its past
+### 8. Video said to show Mali army in Kidal after retaking city
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three nationalist parties are poised to dominate again, deepening fears of division and paralysis.
+Recently published video is said to show Mali’s armed forces in Kidal after retaking the strategic northern city.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/8/bosnias-political-future-looks-increasingly-like-its-past?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/8/bosnias-political-future-looks-increasingly-like-its-past?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss)
 
 ---
 
-### 9. Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms
+### 9. Venezuela’s Nicolas Maduro and his wife charged over torture allegations
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,&#039; his lawyer said.
+The new US charge adds to the existing drug trafficking case against Venezuela’s former president and first lady.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Isaias
+### 10. Tropical Storm Simon
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094)
+
+---
+
+### 11. Hurricane Isaias
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Koguma
+### 12. Tropical Storm Koguma
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25046)
-
----
-
-### 12. Hurricane Nolo
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_24786)
 
 ---
 
