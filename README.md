@@ -1,32 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-08 02:29:50
+**Last Update:** 2026-10-08 05:35:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. I'm in love with a German film star
+### 1. Rust Port of TypeScript (Tsc)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/">https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49999606">https://news.ycombinator.com/item?id=49999606</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/pingdotgg/ts-rust">https://github.com/pingdotgg/ts-rust</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50000676">https://news.ycombinator.com/item?id=50000676</a></p>
+<p>Points: 39</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/](https://heatherburns.tech/2026/10/01/im-in-love-with-a-german-film-star/)
+🔗 **Read more:** [https://github.com/pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust)
 
 ---
 
-### 2. Margaret Hamilton, who led software development for the Apollo program, has died
+### 2. Margaret Hamilton has died
 
 **Source:** Hacker News
 
@@ -35,56 +35,30 @@
 **Description:**
 <p>Article URL: <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998895">https://news.ycombinator.com/item?id=49998895</a></p>
-<p>Points: 187</p>
-<p># Comments: 18</p>
+<p>Points: 743</p>
+<p># Comments: 86</p>
 
 🔗 **Read more:** [https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 
 ---
 
-### 3. Despite what Watson said, Rosalind Franklin understood structure of DNA first
+### 3. 'Jonathan' is the oldest land animal on Earth
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://link.springer.com/article/10.1007/s10739-026-09866-7">https://link.springer.com/article/10.1007/s10739-026-09866-7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998006">https://news.ycombinator.com/item?id=49998006</a></p>
-<p>Points: 71</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/">https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=49998066">https://news.ycombinator.com/item?id=49998066</a></p>
+<p>Points: 48</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://link.springer.com/article/10.1007/s10739-026-09866-7](https://link.springer.com/article/10.1007/s10739-026-09866-7)
-
----
-
-### 4. Badenoch says Tories would scrap inheritance tax on family homes
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Tory leader says her party is "coming back", as she aims to convince voters it has changed after 2024 election defeat.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 
 ---
 
-### 5. Chris Mason: Tories united behind Badenoch - but party still needs to win over voters
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Christa Pike 'angry and confused' after failed execution, lawyers say
+### 4. Christa Pike 'angry and confused' after failed execution, lawyers say
 
 **Source:** BBC
 
@@ -97,42 +71,68 @@ Lawyers say the convicted killer was surprised to have survived and remained "sh
 
 ---
 
-### 7. ‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro
+### 5. Watch: What we know about Christa Pike's ‘shock’ recovery in hospital
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil&#039;s presidential run-off.
+The US death row inmate's legal team said at a press conference that she is now "conscious and speaking" after her failed execution.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Judge orders officials to preserve Pike execution evidence
+### 6. Burnham to hold security talks with German chancellor in Berlin
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-A Nashville judge ordered Tennessee officials to preserve evidence from Christa Pike’s failed execution
+Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/judge-orders-officials-to-preserve-pike-execution-evidence?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/judge-orders-officials-to-preserve-pike-execution-evidence?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Pro-Palestine university groups march in London on October 7 anniversary
+### 7. Why is Guantanamo prison still open?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pro-Palestine students took to the streets of London on October 7, despite police calls to postpone the march.
+Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/7/pro-palestine-university-groups-march-in-london-on-october-7-anniversary?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss)
+
+---
+
+### 8. Democrats sue US President Trump over taxpayer-funded ad campaign
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss](https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss)
+
+---
+
+### 9. Death of 87-year old sparks furious Spain housing protests
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss)
 
 ---
 
