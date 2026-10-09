@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T12:49:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+            "description": "<p>Article URL: <a href=\"https://opentelemetry.io/blog/2026/otel-native-by-design/\">https://opentelemetry.io/blog/2026/otel-native-by-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016974\">https://news.ycombinator.com/item?id=50016974</a></p>\n<p>Points: 37</p>\n<p># Comments: 7</p>",
+            "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+            "published": "Fri, 09 Oct 2026 06:54:45 +0000",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+            "description": "<p>OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016840\">https://news.ycombinator.com/item?id=50016840</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.oldroll.io/",
+            "published": "Fri, 09 Oct 2026 06:40:14 +0000",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MXC - a sandboxed code execution system",
+            "description": "<p>Article URL: <a href=\"https://github.com/microsoft/mxc\">https://github.com/microsoft/mxc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50016489\">https://news.ycombinator.com/item?id=50016489</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
+            "url": "https://github.com/microsoft/mxc",
+            "published": "Fri, 09 Oct 2026 05:51:29 +0000",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I would not have voted for Zionism motion, Polanski says",
+            "description": "A motion declaring Zionism a form of racism was passed by Green Party members on Sunday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 08:48:53 GMT",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Questions remain for Green Party leader Zack Polanski",
+            "description": "Senior party figures have criticised his response to a motion passed by members declaring Zionism a form of racism.",
+            "url": "https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 06:39:13 GMT",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Firing squad execution to be livestreamed, Pentagon says",
+            "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 09:18:31 GMT",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "NBA star Wembanyama to French students: ‘I hear you’",
+            "description": "San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.",
+            "url": "https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 09:01:45 +0000",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New York police push politician to ground during anti-ICE protest",
+            "description": "New York police push politician to ground during anti-ICE protest",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 08:59:49 +0000",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japan’s Okinawa calls for review of US forces pact after killing",
+            "description": "Assembly on the island, where tens of thousands of US soldiers are stationed, seeks change after Marine arrested.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 08:51:04 +0000",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T12:49:44+03:30"
+        }
+    ]
+}

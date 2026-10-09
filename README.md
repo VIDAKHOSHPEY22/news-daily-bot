@@ -1,86 +1,87 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 09:23:01
+**Last Update:** 2026-10-09 12:49:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Keyboard differences between Windows and Macs
+### 1. OTel-Native by Design – Building Products That Export to Any Observability Stack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/">https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50015515">https://news.ycombinator.com/item?id=50015515</a></p>
-<p>Points: 46</p>
-<p># Comments: 34</p>
-
-🔗 **Read more:** [https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/)
-
----
-
-### 2. Anger as man sentenced to death for Facebook comment
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304">https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50015486">https://news.ycombinator.com/item?id=50015486</a></p>
-<p>Points: 20</p>
+<p>Article URL: <a href="https://opentelemetry.io/blog/2026/otel-native-by-design/">https://opentelemetry.io/blog/2026/otel-native-by-design/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016974">https://news.ycombinator.com/item?id=50016974</a></p>
+<p>Points: 37</p>
 <p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304](https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304)
+🔗 **Read more:** [https://opentelemetry.io/blog/2026/otel-native-by-design/](https://opentelemetry.io/blog/2026/otel-native-by-design/)
 
 ---
 
-### 3. Reducing undefined behavior in the C language
+### 2. Show HN: OldRoll, a free vintage photo editor for the browser
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1095811/">https://lwn.net/Articles/1095811/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50015074">https://news.ycombinator.com/item?id=50015074</a></p>
-<p>Points: 62</p>
-<p># Comments: 35</p>
+<p>OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016840">https://news.ycombinator.com/item?id=50016840</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1095811/](https://lwn.net/Articles/1095811/)
+🔗 **Read more:** [https://www.oldroll.io/](https://www.oldroll.io/)
 
 ---
 
-### 4. Zack Polanski defends leadership after Zionism row and by-election loss
+### 3. MXC - a sandboxed code execution system
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/microsoft/mxc">https://github.com/microsoft/mxc</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50016489">https://news.ycombinator.com/item?id=50016489</a></p>
+<p>Points: 21</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://github.com/microsoft/mxc](https://github.com/microsoft/mxc)
+
+---
+
+### 4. I would not have voted for Zionism motion, Polanski says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Green Party leader has been criticised for his response to a motion passed by members declaring Zionism a form of racism.
+A motion declaring Zionism a form of racism was passed by Green Party members on Sunday.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: Polanski faces greatest crisis of his leadership so far
+### 5. Chris Mason: Questions remain for Green Party leader Zack Polanski
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Green leader faces pressure over his response to a party motion declaring Zionism a form of racism, as well as his by-election loss.
+Senior party figures have criticised his response to a motion passed by members declaring Zionism a form of racism.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p821d6w4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p821d6w4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +98,42 @@ Pete Hegseth says the execution will be public, but a legal expert says the "unp
 
 ---
 
-### 7. Photos: Gaza before and after – a city transformed by war
+### 7. NBA star Wembanyama to French students: ‘I hear you’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Archive and recent photos show how three years of war left Gaza&#039;s streets, landmarks and public spaces unrecognisable.
+San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss)
 
 ---
 
-### 8. Mexico prison clash in strife-torn Sinaloa state leaves 10 dead
+### 8. New York police push politician to ground during anti-ICE protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nine inmates and one visitor killed in Sinaloa prison riot, local authorities say.
+New York police push politician to ground during anti-ICE protest
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss)
 
 ---
 
-### 9. Uproar in NY after ICE shoots man with child in the car
+### 9. Japan’s Okinawa calls for review of US forces pact after killing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There are protests and outrage in New York after ICE agents shot a man after surrounding his vehicle.
+Assembly on the island, where tens of thousands of US soldiers are stationed, seeks change after Marine arrested.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss)
 
 ---
 
