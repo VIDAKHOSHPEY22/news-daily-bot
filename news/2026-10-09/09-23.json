@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T09:23:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Keyboard differences between Windows and Macs",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/\">https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50015515\">https://news.ycombinator.com/item?id=50015515</a></p>\n<p>Points: 46</p>\n<p># Comments: 34</p>",
+            "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+            "published": "Fri, 09 Oct 2026 03:08:05 +0000",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anger as man sentenced to death for Facebook comment",
+            "description": "<p>Article URL: <a href=\"https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304\">https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50015486\">https://news.ycombinator.com/item?id=50015486</a></p>\n<p>Points: 20</p>\n<p># Comments: 7</p>",
+            "url": "https://www.themirror.com/news/world-news/anger-man-sentenced-death-facebook-2060304",
+            "published": "Fri, 09 Oct 2026 03:03:54 +0000",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reducing undefined behavior in the C language",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1095811/\">https://lwn.net/Articles/1095811/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50015074\">https://news.ycombinator.com/item?id=50015074</a></p>\n<p>Points: 62</p>\n<p># Comments: 35</p>",
+            "url": "https://lwn.net/Articles/1095811/",
+            "published": "Fri, 09 Oct 2026 02:02:53 +0000",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zack Polanski defends leadership after Zionism row and by-election loss",
+            "description": "The Green Party leader has been criticised for his response to a motion passed by members declaring Zionism a form of racism.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 04:38:19 GMT",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Polanski faces greatest crisis of his leadership so far",
+            "description": "The Green leader faces pressure over his response to a party motion declaring Zionism a form of racism, as well as his by-election loss.",
+            "url": "https://www.bbc.co.uk/news/articles/cm70p821d6w4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 04:54:25 GMT",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Firing squad execution to be livestreamed, Pentagon says",
+            "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 03:36:12 GMT",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Gaza before and after – a city transformed by war",
+            "description": "Archive and recent photos show how three years of war left Gaza&#039;s streets, landmarks and public spaces unrecognisable.",
+            "url": "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 05:22:16 +0000",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexico prison clash in strife-torn Sinaloa state leaves 10 dead",
+            "description": "Nine inmates and one visitor killed in Sinaloa prison riot, local authorities say.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 04:26:55 +0000",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Uproar in NY after ICE shoots man with child in the car",
+            "description": "There are protests and outrage in New York after ICE agents shot a man after surrounding his vehicle.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 04:26:50 +0000",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T09:23:01+03:30"
+        }
+    ]
+}
