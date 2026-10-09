@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T03:27:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
+            "description": "<p>Article URL: <a href=\"https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344\">https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027167\">https://news.ycombinator.com/item?id=50027167</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+            "url": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+            "published": "Fri, 09 Oct 2026 22:05:53 +0000",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+            "description": "<p>Article URL: <a href=\"https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/\">https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50026734\">https://news.ycombinator.com/item?id=50026734</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
+            "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+            "published": "Fri, 09 Oct 2026 21:25:09 +0000",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+            "description": "<p>Article URL: <a href=\"https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\">https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50026555\">https://news.ycombinator.com/item?id=50026555</a></p>\n<p>Points: 337</p>\n<p># Comments: 178</p>",
+            "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+            "published": "Fri, 09 Oct 2026 21:06:59 +0000",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+            "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 21:54:28 GMT",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NI secretary to ban the Drumcree parade",
+            "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+            "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 21:46:19 GMT",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
+            "description": "Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 22:50:15 +0000",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
+            "description": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 21:53:01 +0000",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge rules Trump administration’s use of voter data unlawful",
+            "description": "A federal judge ruled against the Justice Department&#039;s use of voter data to cross-reference an immigration database.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 21:29:01 +0000",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T03:27:38+03:30"
+        }
+    ]
+}
