@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T22:54:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "You might want to try being less creative",
+            "description": "<p>Article URL: <a href=\"https://blog.bawolf.com/p/you-might-want-to-try-being-less\">https://blog.bawolf.com/p/you-might-want-to-try-being-less</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024927\">https://news.ycombinator.com/item?id=50024927</a></p>\n<p>Points: 22</p>\n<p># Comments: 8</p>",
+            "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+            "published": "Fri, 09 Oct 2026 18:39:47 +0000",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft-Decision-1, our model for fast decision-making",
+            "description": "<p>Article URL: <a href=\"https://commandline.microsoft.com/microsoft-decision-1-model-foundry/\">https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024913\">https://news.ycombinator.com/item?id=50024913</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+            "published": "Fri, 09 Oct 2026 18:38:44 +0000",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Platforms' Violent Content Rules Are About to Meet The Pentagon's Firing Squad",
+            "description": "<p>Article URL: <a href=\"https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/\">https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024757\">https://news.ycombinator.com/item?id=50024757</a></p>\n<p>Points: 31</p>\n<p># Comments: 24</p>",
+            "url": "https://www.techdirt.com/2026/10/09/hey-platforms-your-violent-content-policies-are-about-to-meet-the-pentagons-firing-squad/",
+            "published": "Fri, 09 Oct 2026 18:28:12 +0000",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+            "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+            "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 18:40:10 GMT",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
+            "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 15:16:54 GMT",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+            "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
+            "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 12:29:02 GMT",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Katie Zacharia ‘offered’ position as White House press secretary",
+            "description": "The role has been vacant since former White House press secretary Karoline Leavitt left in August.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 18:49:24 +0000",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
+            "description": "Republican and Democratic lawmakers condemn Pentagon plan to livestream Fort Hood shooter&#039;s execution by firing squad.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 18:30:58 +0000",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
+            "description": "The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.",
+            "url": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 18:23:43 +0000",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T22:54:51+03:30"
+        }
+    ]
+}
