@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T00:32:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "No Man Is an Island",
+            "description": "<p>Article URL: <a href=\"https://borretti.me/article/no-man-is-an-island\">https://borretti.me/article/no-man-is-an-island</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50025935\">https://news.ycombinator.com/item?id=50025935</a></p>\n<p>Points: 78</p>\n<p># Comments: 28</p>",
+            "url": "https://borretti.me/article/no-man-is-an-island",
+            "published": "Fri, 09 Oct 2026 20:04:00 +0000",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "You might want to try being less creative",
+            "description": "<p>Article URL: <a href=\"https://blog.bawolf.com/p/you-might-want-to-try-being-less\">https://blog.bawolf.com/p/you-might-want-to-try-being-less</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024927\">https://news.ycombinator.com/item?id=50024927</a></p>\n<p>Points: 41</p>\n<p># Comments: 23</p>",
+            "url": "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+            "published": "Fri, 09 Oct 2026 18:39:47 +0000",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft-Decision-1, our model for fast decision-making",
+            "description": "<p>Article URL: <a href=\"https://commandline.microsoft.com/microsoft-decision-1-model-foundry/\">https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024913\">https://news.ycombinator.com/item?id=50024913</a></p>\n<p>Points: 60</p>\n<p># Comments: 24</p>",
+            "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+            "published": "Fri, 09 Oct 2026 18:38:44 +0000",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+            "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 20:32:42 GMT",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NI secretary to ban the Drumcree parade",
+            "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+            "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 20:38:31 GMT",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+            "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+            "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 18:40:10 GMT",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+            "description": "Saudi Arabia and Yemen&#039;s internationally recognised gov&#039;t urge UN Security Council action amid Houthi escalation.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 20:56:01 +0000",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How will Spain’s housing crisis affect elections?",
+            "description": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 20:39:11 +0000",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+            "description": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 20:29:30 +0000",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T00:32:34+03:30"
+        }
+    ]
+}
