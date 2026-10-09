@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-09 16:33:37
+**Last Update:** 2026-10-09 19:52:39
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Hetzner Cloud network stack – history and technical overview
+### 1. A statement on the Tor Project's relationship with Mullvad
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/">https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50019451">https://news.ycombinator.com/item?id=50019451</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://blog.torproject.org/on-tor-relationship-with-mullvad/">https://blog.torproject.org/on-tor-relationship-with-mullvad/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50022266">https://news.ycombinator.com/item?id=50022266</a></p>
+<p>Points: 9</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/](https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/)
+🔗 **Read more:** [https://blog.torproject.org/on-tor-relationship-with-mullvad/](https://blog.torproject.org/on-tor-relationship-with-mullvad/)
 
 ---
 
-### 2. US proposes $100k charge for international students to do post-graduate work
+### 2. The super intelligence shit is a humiliation ritual for OpenAI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nature.com/articles/d41586-026-02921-7">https://www.nature.com/articles/d41586-026-02921-7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50019090">https://news.ycombinator.com/item?id=50019090</a></p>
-<p>Points: 15</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z">https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50021763">https://news.ycombinator.com/item?id=50021763</a></p>
+<p>Points: 31</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.nature.com/articles/d41586-026-02921-7](https://www.nature.com/articles/d41586-026-02921-7)
+🔗 **Read more:** [https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z](https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z)
 
 ---
 
-### 3. Let your AI agents paint big arrows, boxes and text on your screen
+### 3. Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen">https://github.com/franzenzenhofer/big-arrow-on-the-screen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50018817">https://news.ycombinator.com/item?id=50018817</a></p>
-<p>Points: 107</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms">https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50021540">https://news.ycombinator.com/item?id=50021540</a></p>
+<p>Points: 35</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://github.com/franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+🔗 **Read more:** [https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms](https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms)
 
 ---
 
-### 4. Polanski vows to stay on as Green leader as criticism mounts after by-election defeat
+### 4. Polanski vows to stay on as Green leader as he faces criticism after by-election defeat
 
 **Source:** BBC
 
@@ -71,20 +71,7 @@ Jewish Greens' leader has said Polanski should resign in the wake of a Zionism r
 
 ---
 
-### 5. 'Deeply personal moment': Watch Sagal Abdi-Wali's by-election victory speech
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Labour beat the Green Party with 45% of the vote in the Holborn and St Pancras by-election.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c95yn70e678po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c95yn70e678po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. King pays Andrew's £1.5m repair bill on Royal Lodge
+### 5. King pays Andrew's £1.5m repair bill on Royal Lodge
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs af
 
 ---
 
-### 7. Malaysia shuts schools as haze from Indonesian fires chokes Southeast Asia
+### 6. Widdecombe suspect had 'particular hostility to Reform', court told
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Kuala Lumpur&#039;s Air Pollutant Index says air quality at unhealthy levels amid smog from forest fires.
+Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/malaysia-shuts-schools-as-haze-from-indonesian-fires-chokes-southeast-asia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/malaysia-shuts-schools-as-haze-from-indonesian-fires-chokes-southeast-asia?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Satire silenced: Indian artists face censorship as anti-Modi protests grow
+### 7. Thousands rally for anti-austerity protest in Brussels amid clashes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New Delhi accused of silencing dissent as satirical content and online critiques are removed under new rules.
+Belgian police respond to &#039;troublemakers&#039; on sidelines of main rally with tear gas, water cannon and baton charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/satire-silenced-indian-artists-face-censorship-as-anti-modi-protests-grow?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/satire-silenced-indian-artists-face-censorship-as-anti-modi-protests-grow?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss)
 
 ---
 
-### 9. India’s Cockroach Party says members detained ahead of protest
+### 8. Trump launches probe into Federal Reserve Governor Lisa Cook
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India’s Cockroach Janta Party says thousands of its members have been detained ahead of Saturday’s protest in New Delhi.
+Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss)
+
+---
+
+### 9. ‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss)
 
 ---
 

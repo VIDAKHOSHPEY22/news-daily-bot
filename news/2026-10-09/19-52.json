@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T19:52:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A statement on the Tor Project's relationship with Mullvad",
+            "description": "<p>Article URL: <a href=\"https://blog.torproject.org/on-tor-relationship-with-mullvad/\">https://blog.torproject.org/on-tor-relationship-with-mullvad/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50022266\">https://news.ycombinator.com/item?id=50022266</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
+            "published": "Fri, 09 Oct 2026 15:49:31 +0000",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The super intelligence shit is a humiliation ritual for OpenAI",
+            "description": "<p>Article URL: <a href=\"https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z\">https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021763\">https://news.ycombinator.com/item?id=50021763</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
+            "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
+            "published": "Fri, 09 Oct 2026 15:18:59 +0000",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Germany turning abandoned coal mines into 23 lakes, becoming artificial wetland",
+            "description": "<p>Article URL: <a href=\"https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms\">https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021540\">https://news.ycombinator.com/item?id=50021540</a></p>\n<p>Points: 35</p>\n<p># Comments: 13</p>",
+            "url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landscape-is-becoming-europes-largest-artificial-wetland/articleshow/134725669.cms",
+            "published": "Fri, 09 Oct 2026 15:05:24 +0000",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
+            "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 15:16:54 GMT",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+            "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
+            "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 12:29:02 GMT",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
+            "description": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
+            "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 14:35:31 GMT",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
+            "description": "Belgian police respond to &#039;troublemakers&#039; on sidelines of main rally with tear gas, water cannon and baton charges.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 16:07:29 +0000",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
+            "description": "Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.",
+            "url": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 16:01:37 +0000",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
+            "description": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 15:59:04 +0000",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T19:52:39+03:30"
+        }
+    ]
+}
