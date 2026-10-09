@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T05:49:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+            "description": "<p>Article URL: <a href=\"https://github.com/edrisranjbar/lifeos\">https://github.com/edrisranjbar/lifeos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50014150\">https://news.ycombinator.com/item?id=50014150</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/edrisranjbar/lifeos",
+            "published": "Fri, 09 Oct 2026 00:02:19 +0000",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: SVG Spark – 10 client-side SVG design and dev tools",
+            "description": "<p>Article URL: <a href=\"https://svg-spark.vercel.app/\">https://svg-spark.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50013931\">https://news.ycombinator.com/item?id=50013931</a></p>\n<p>Points: 27</p>\n<p># Comments: 1</p>",
+            "url": "https://svg-spark.vercel.app/",
+            "published": "Thu, 08 Oct 2026 23:32:49 +0000",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bevy 0.20",
+            "description": "<p>Article URL: <a href=\"https://bevy.org/news/bevy-0-20/\">https://bevy.org/news/bevy-0-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50013610\">https://news.ycombinator.com/item?id=50013610</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
+            "url": "https://bevy.org/news/bevy-0-20/",
+            "published": "Thu, 08 Oct 2026 22:57:50 +0000",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
+            "description": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 02:16:59 GMT",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "ADHD and autism at risk of over-diagnosis, says government review",
+            "description": "The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.",
+            "url": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 23:01:30 GMT",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
+            "description": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
+            "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 16:33:29 GMT",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Christa Pike case underscores prevalence of botched executions in US",
+            "description": "Experts say methods such as lethal injection promise a more humane form of execution but are frequently marred by mishap",
+            "url": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 02:05:00 +0000",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
+            "description": "The race between Democrat Abdul El-Sayed and Republican Mike Rogers is considered a toss-up in push to control Senate.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/key-takeaways-from-us-senate-debate-in-michigan-between-el-sayed-rogers?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 02:00:31 +0000",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
+            "description": "Thousands of protesters honour Maricarmen Abascal&#039;s life, while tributes in Spanish parliament spark debate.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 01:15:49 +0000",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T05:49:12+03:30"
+        }
+    ]
+}
