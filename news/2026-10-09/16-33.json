@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-09T16:33:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Hetzner Cloud network stack – history and technical overview",
+            "description": "<p>Article URL: <a href=\"https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/\">https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019451\">https://news.ycombinator.com/item?id=50019451</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+            "published": "Fri, 09 Oct 2026 12:20:55 +0000",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US proposes $100k charge for international students to do post-graduate work",
+            "description": "<p>Article URL: <a href=\"https://www.nature.com/articles/d41586-026-02921-7\">https://www.nature.com/articles/d41586-026-02921-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019090\">https://news.ycombinator.com/item?id=50019090</a></p>\n<p>Points: 15</p>\n<p># Comments: 7</p>",
+            "url": "https://www.nature.com/articles/d41586-026-02921-7",
+            "published": "Fri, 09 Oct 2026 11:40:30 +0000",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+            "description": "<p>Article URL: <a href=\"https://github.com/franzenzenhofer/big-arrow-on-the-screen\">https://github.com/franzenzenhofer/big-arrow-on-the-screen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018817\">https://news.ycombinator.com/item?id=50018817</a></p>\n<p>Points: 107</p>\n<p># Comments: 37</p>",
+            "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+            "published": "Fri, 09 Oct 2026 11:03:48 +0000",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski vows to stay on as Green leader as criticism mounts after by-election defeat",
+            "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
+            "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 12:49:29 GMT",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Deeply personal moment': Watch Sagal Abdi-Wali's by-election victory speech",
+            "description": "Labour beat the Green Party with 45% of the vote in the Holborn and St Pancras by-election.",
+            "url": "https://www.bbc.co.uk/news/videos/c95yn70e678po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 11:15:09 GMT",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
+            "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
+            "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 12:29:02 GMT",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Malaysia shuts schools as haze from Indonesian fires chokes Southeast Asia",
+            "description": "Kuala Lumpur&#039;s Air Pollutant Index says air quality at unhealthy levels amid smog from forest fires.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/malaysia-shuts-schools-as-haze-from-indonesian-fires-chokes-southeast-asia?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 12:53:01 +0000",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Satire silenced: Indian artists face censorship as anti-Modi protests grow",
+            "description": "New Delhi accused of silencing dissent as satirical content and online critiques are removed under new rules.",
+            "url": "https://www.aljazeera.com/news/2026/10/9/satire-silenced-indian-artists-face-censorship-as-anti-modi-protests-grow?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 12:37:49 +0000",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s Cockroach Party says members detained ahead of protest",
+            "description": "India’s Cockroach Janta Party says thousands of its members have been detained ahead of Saturday’s protest in New Delhi.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss",
+            "published": "Fri, 09 Oct 2026 12:17:25 +0000",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-09T16:33:37+03:30"
+        }
+    ]
+}
