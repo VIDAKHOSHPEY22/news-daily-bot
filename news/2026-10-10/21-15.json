@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T21:15:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Is Throwing a Roadside Picnic",
+            "description": "<p>Article URL: <a href=\"https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic\">https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50034363\">https://news.ycombinator.com/item?id=50034363</a></p>\n<p>Points: 17</p>\n<p># Comments: 18</p>",
+            "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+            "published": "Sat, 10 Oct 2026 16:19:23 +0000",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Knuth Reward Check",
+            "description": "<p>Article URL: <a href=\"https://www.thomas-huehn.com/knuth-reward-check\">https://www.thomas-huehn.com/knuth-reward-check</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50034081\">https://news.ycombinator.com/item?id=50034081</a></p>\n<p>Points: 37</p>\n<p># Comments: 13</p>",
+            "url": "https://www.thomas-huehn.com/knuth-reward-check",
+            "published": "Sat, 10 Oct 2026 15:47:01 +0000",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How Protein Took over the World",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd\">https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50034008\">https://news.ycombinator.com/item?id=50034008</a></p>\n<p>Points: 23</p>\n<p># Comments: 34</p>",
+            "url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+            "published": "Sat, 10 Oct 2026 15:40:06 +0000",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies after tiger attack at wildlife park",
+            "description": "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 17:42:31 GMT",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+            "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+            "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 17:44:26 GMT",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 14:24:14 GMT",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+            "description": "Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 17:38:18 +0000",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Video shows rare albino Asian black bear",
+            "description": "A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 17:37:37 +0000",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
+            "description": "Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 17:08:37 +0000",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T21:15:20+03:30"
+        }
+    ]
+}

@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 17:22:41
+**Last Update:** 2026-10-10 21:15:20
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Would Like the Value of My Home to Rise, While My Property Taxes Fall
+### 1. AI Is Throwing a Roadside Picnic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/">https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032758">https://news.ycombinator.com/item?id=50032758</a></p>
-<p>Points: 21</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic">https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034363">https://news.ycombinator.com/item?id=50034363</a></p>
+<p>Points: 17</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/)
+🔗 **Read more:** [https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic](https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic)
 
 ---
 
-### 2. Lobbying Is Corruption
+### 2. Knuth Reward Check
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://carette.xyz/posts/lobbying_and_corruption/">https://carette.xyz/posts/lobbying_and_corruption/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032556">https://news.ycombinator.com/item?id=50032556</a></p>
-<p>Points: 80</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://www.thomas-huehn.com/knuth-reward-check">https://www.thomas-huehn.com/knuth-reward-check</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034081">https://news.ycombinator.com/item?id=50034081</a></p>
+<p>Points: 37</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://carette.xyz/posts/lobbying_and_corruption/](https://carette.xyz/posts/lobbying_and_corruption/)
+🔗 **Read more:** [https://www.thomas-huehn.com/knuth-reward-check](https://www.thomas-huehn.com/knuth-reward-check)
 
 ---
 
-### 3. Apple/macOS silently removed from official Unix registry
+### 3. How Protein Took over the World
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.opengroup.org//openbrand/register/">https://www.opengroup.org//openbrand/register/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031653">https://news.ycombinator.com/item?id=50031653</a></p>
-<p>Points: 78</p>
-<p># Comments: 76</p>
+<p>Article URL: <a href="https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd">https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034008">https://news.ycombinator.com/item?id=50034008</a></p>
+<p>Points: 23</p>
+<p># Comments: 34</p>
 
-🔗 **Read more:** [https://www.opengroup.org//openbrand/register/](https://www.opengroup.org//openbrand/register/)
+🔗 **Read more:** [https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd](https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd)
 
 ---
 
-### 4. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
+### 4. Man dies after tiger attack at wildlife park
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. US murderer Christa Pike discharged from hospital 10 days after failed execution
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Pike's lawyers say she is "grateful" to the medical team who cared for her after she survived two lethal injections last month.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Ukraine's president sharply criticised the move, calling it an "investment in wa
 
 ---
 
-### 5. 'Cockroach' group leaders among hundreds detained in Delhi protest
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. ‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran
+### 7. Pope says death penalty ‘inadmissible’ as US plans to livestream execution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;.
+Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss)
 
 ---
 
-### 8. Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes
+### 8. Video shows rare albino Asian black bear
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Max Verstappen&#039;s sprint race win was ​Dutchman&#039;s first of any kind in Singapore as he finished ahead of Lewis Hamilton.
+A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss)
 
 ---
 
-### 9. India’s ‘Cockroach’ leaders detained; New Delhi in lockdown
+### 9. Christa Pike discharged from hospital and returned to Tennessee prison
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indian police crackdown appears to have prevented mass protests against the country&#039;s election chief from taking place.
+Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss)
 
 ---
 
