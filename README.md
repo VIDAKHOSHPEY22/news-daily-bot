@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 10:48:31
+**Last Update:** 2026-10-10 15:50:26
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Computers Cannot Make Decisions
+### 1. LLMs Aren't Inevitable
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://wiki.cateat.fish/art:computers_cannot_make_decisions">https://wiki.cateat.fish/art:computers_cannot_make_decisions</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029982">https://news.ycombinator.com/item?id=50029982</a></p>
+<p>Article URL: <a href="https://deadsimpletech.com/blog/llms-arent-inevitable">https://deadsimpletech.com/blog/llms-arent-inevitable</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50032064">https://news.ycombinator.com/item?id=50032064</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://wiki.cateat.fish/art:computers_cannot_make_decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
+🔗 **Read more:** [https://deadsimpletech.com/blog/llms-arent-inevitable](https://deadsimpletech.com/blog/llms-arent-inevitable)
 
 ---
 
-### 2. Food processing influences metabolism and brain activity
+### 2. Apple/macOS silently removed from official Unix registry
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029830">https://news.ycombinator.com/item?id=50029830</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.opengroup.org//openbrand/register/">https://www.opengroup.org//openbrand/register/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031653">https://news.ycombinator.com/item?id=50031653</a></p>
+<p>Points: 29</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
+🔗 **Read more:** [https://www.opengroup.org//openbrand/register/](https://www.opengroup.org//openbrand/register/)
 
 ---
 
-### 3. Show HN: A simple to-do app for iPhone, Mac, and your agent
+### 3. Talorys – A self-hosted personal AI agent on Cloudflare's free tier
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ilia.page/writing/introducing-nagare">https://ilia.page/writing/introducing-nagare</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029607">https://news.ycombinator.com/item?id=50029607</a></p>
-<p>Points: 9</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/rociiu/talorys">https://github.com/rociiu/talorys</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50031614">https://news.ycombinator.com/item?id=50031614</a></p>
+<p>Points: 39</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://ilia.page/writing/introducing-nagare](https://ilia.page/writing/introducing-nagare)
+🔗 **Read more:** [https://github.com/rociiu/talorys](https://github.com/rociiu/talorys)
 
 ---
 
@@ -71,68 +71,68 @@ Ukraine's president sharply criticised the move, calling it an "investment in wa
 
 ---
 
-### 5. Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+### 5. Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
+Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says
+### 6. Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.
+Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump slams Norway for not awarding him Nobel Peace Prize
+### 7. Manchester United vs Tottenham LIVE: Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump slams Norway for not awarding him Nobel Peace Prize
+Follow updates with build-up and team news from our live text commentary as Bruno Fernandes headlines.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss)
 
 ---
 
-### 8. Yemen’s Taiz under siege again as food and fuel prices rise
+### 8. Exposing an alleged crime kingpin’s Cambodian empire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.
+In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss)
 
 ---
 
-### 9. India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown
+### 9. What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.
+Analysts say board has &#039;failed&#039; in its attempts to secure lasting peace in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T15:50:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LLMs Aren't Inevitable",
+            "description": "<p>Article URL: <a href=\"https://deadsimpletech.com/blog/llms-arent-inevitable\">https://deadsimpletech.com/blog/llms-arent-inevitable</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50032064\">https://news.ycombinator.com/item?id=50032064</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+            "published": "Sat, 10 Oct 2026 12:04:04 +0000",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple/macOS silently removed from official Unix registry",
+            "description": "<p>Article URL: <a href=\"https://www.opengroup.org//openbrand/register/\">https://www.opengroup.org//openbrand/register/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031653\">https://news.ycombinator.com/item?id=50031653</a></p>\n<p>Points: 29</p>\n<p># Comments: 11</p>",
+            "url": "https://www.opengroup.org//openbrand/register/",
+            "published": "Sat, 10 Oct 2026 10:57:31 +0000",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+            "description": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
+            "url": "https://github.com/rociiu/talorys",
+            "published": "Sat, 10 Oct 2026 10:52:09 +0000",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 04:38:20 GMT",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
+            "description": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 11:17:15 GMT",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
+            "description": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.",
+            "url": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 09:19:53 GMT",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Manchester United vs Tottenham LIVE: Premier League",
+            "description": "Follow updates with build-up and team news from our live text commentary as Bruno Fernandes headlines.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 11:31:27 +0000",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Exposing an alleged crime kingpin’s Cambodian empire",
+            "description": "In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.",
+            "url": "https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 11:30:00 +0000",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
+            "description": "Analysts say board has &#039;failed&#039; in its attempts to secure lasting peace in Gaza.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 11:19:24 +0000",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T15:50:26+03:30"
+        }
+    ]
+}
