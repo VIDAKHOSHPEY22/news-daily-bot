@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T22:13:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+            "description": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/workweave\">https://jobs.ashbyhq.com/workweave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50035602\">https://news.ycombinator.com/item?id=50035602</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://jobs.ashbyhq.com/workweave",
+            "published": "Sat, 10 Oct 2026 18:16:19 +0000",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/\">https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50035550\">https://news.ycombinator.com/item?id=50035550</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+            "published": "Sat, 10 Oct 2026 18:10:54 +0000",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Knuth Reward Check",
+            "description": "<p>Article URL: <a href=\"https://www.thomas-huehn.com/knuth-reward-check\">https://www.thomas-huehn.com/knuth-reward-check</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50034081\">https://news.ycombinator.com/item?id=50034081</a></p>\n<p>Points: 63</p>\n<p># Comments: 25</p>",
+            "url": "https://www.thomas-huehn.com/knuth-reward-check",
+            "published": "Sat, 10 Oct 2026 15:47:01 +0000",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies after tiger attack at wildlife park",
+            "description": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 18:10:38 GMT",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+            "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 18:36:23 GMT",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+            "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+            "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 17:44:26 GMT",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+            "description": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 18:08:46 +0000",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nine killed in shooting in US state of Pennsylvania, including two children",
+            "description": "The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 17:48:45 +0000",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+            "description": "Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 17:38:18 +0000",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T22:13:29+03:30"
+        }
+    ]
+}
