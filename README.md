@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 09:09:36
+**Last Update:** 2026-10-10 10:48:31
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lobbying
+### 1. Computers Cannot Make Decisions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html">https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029630">https://news.ycombinator.com/item?id=50029630</a></p>
-<p>Points: 78</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://wiki.cateat.fish/art:computers_cannot_make_decisions">https://wiki.cateat.fish/art:computers_cannot_make_decisions</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029982">https://news.ycombinator.com/item?id=50029982</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
+🔗 **Read more:** [https://wiki.cateat.fish/art:computers_cannot_make_decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
 
 ---
 
-### 2. Data Center Darling's $30B IPO Dream Crushed in 48 Hours
+### 2. Food processing influences metabolism and brain activity
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours">https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029452">https://news.ycombinator.com/item?id=50029452</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029830">https://news.ycombinator.com/item?id=50029830</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours](https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours)
+🔗 **Read more:** [https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html](https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html)
 
 ---
 
-### 3. Telegram Desktop vulnerability allowed any user's file to be stolen
+### 3. Show HN: A simple to-do app for iPhone, Mac, and your agent
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029123">https://news.ycombinator.com/item?id=50029123</a></p>
-<p>Points: 26</p>
+<p>Article URL: <a href="https://ilia.page/writing/introducing-nagare">https://ilia.page/writing/introducing-nagare</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029607">https://news.ycombinator.com/item?id=50029607</a></p>
+<p>Points: 9</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+🔗 **Read more:** [https://ilia.page/writing/introducing-nagare](https://ilia.page/writing/introducing-nagare)
 
 ---
 
@@ -84,55 +84,55 @@ The US president hopes to ease his party's pain before next month's midterm elec
 
 ---
 
-### 6. NI secretary to ban the Drumcree parade
+### 6. Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.
+The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Taiwan president says defence spending boost aims to ‘deter war’
+### 7. Trump slams Norway for not awarding him Nobel Peace Prize
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Lai Ching-te emphasises peace and freedom, vows not to tolerate aggression in Taiwan Strait.
+Trump slams Norway for not awarding him Nobel Peace Prize
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss)
 
 ---
 
-### 8. Anthropic AI model submits false homicide tip to Philadelphia police
+### 8. Yemen’s Taiz under siege again as food and fuel prices rise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities called Anthropic&#039;s two-month delay in detecting and reporting the incident &#039;unacceptable&#039;.
+Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss)
 
 ---
 
-### 9. Supporters of jailed former Pakistani PM Khan marching to capital
+### 9. India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of Imran Khan supporters are on the way to Islamabad to demand his release from prison.
+Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss)
 
 ---
 

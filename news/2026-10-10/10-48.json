@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T10:48:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Computers Cannot Make Decisions",
+            "description": "<p>Article URL: <a href=\"https://wiki.cateat.fish/art:computers_cannot_make_decisions\">https://wiki.cateat.fish/art:computers_cannot_make_decisions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029982\">https://news.ycombinator.com/item?id=50029982</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+            "published": "Sat, 10 Oct 2026 05:47:46 +0000",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Food processing influences metabolism and brain activity",
+            "description": "<p>Article URL: <a href=\"https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html\">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029830\">https://news.ycombinator.com/item?id=50029830</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+            "published": "Sat, 10 Oct 2026 05:22:30 +0000",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+            "description": "<p>Article URL: <a href=\"https://ilia.page/writing/introducing-nagare\">https://ilia.page/writing/introducing-nagare</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029607\">https://news.ycombinator.com/item?id=50029607</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
+            "url": "https://ilia.page/writing/introducing-nagare",
+            "published": "Sat, 10 Oct 2026 04:37:13 +0000",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 04:38:20 GMT",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+            "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+            "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 04:34:55 GMT",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump slams Norway for not awarding him Nobel Peace Prize",
+            "description": "Trump slams Norway for not awarding him Nobel Peace Prize",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 06:47:10 +0000",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s Taiz under siege again as food and fuel prices rise",
+            "description": "Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 06:20:53 +0000",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
+            "description": "Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 05:54:36 +0000",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T10:48:31+03:30"
+        }
+    ]
+}
