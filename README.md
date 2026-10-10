@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 04:31:54
+**Last Update:** 2026-10-10 09:09:36
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 11 of 23 Core Open Source Projects Run on 1 or 2 People
+### 1. Lobbying
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028059">https://news.ycombinator.com/item?id=50028059</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html">https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029630">https://news.ycombinator.com/item?id=50029630</a></p>
+<p>Points: 78</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
+🔗 **Read more:** [https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
 
 ---
 
-### 2. HostMath – Airbnb profit calculator with break-even occupancy and payback
+### 2. Data Center Darling's $30B IPO Dream Crushed in 48 Hours
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hosttmath.ctonew.app/?src=hn">https://hosttmath.ctonew.app/?src=hn</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027856">https://news.ycombinator.com/item?id=50027856</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours">https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029452">https://news.ycombinator.com/item?id=50029452</a></p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://hosttmath.ctonew.app/?src=hn](https://hosttmath.ctonew.app/?src=hn)
+🔗 **Read more:** [https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours](https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours)
 
 ---
 
-### 3. Compiling Rust to readable C with Eurydice
+### 3. Telegram Desktop vulnerability allowed any user's file to be stolen
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1055211/">https://lwn.net/Articles/1055211/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027853">https://news.ycombinator.com/item?id=50027853</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50029123">https://news.ycombinator.com/item?id=50029123</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1055211/](https://lwn.net/Articles/1055211/)
+🔗 **Read more:** [https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
 
 ---
 
@@ -97,42 +97,42 @@ The parade has led to a stand-off between Orangemen and nationalist residents of
 
 ---
 
-### 7. Dual quakes devastate southern Panama
+### 7. Taiwan president says defence spending boost aims to ‘deter war’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Panama’s president has declared a major disaster after two earthquakes struck the country’s south.
+President Lai Ching-te emphasises peace and freedom, vows not to tolerate aggression in Taiwan Strait.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war?traffic_source=rss)
 
 ---
 
-### 8. Israeli drone attack wounds six in Lebanon near Syria border
+### 8. Anthropic AI model submits false homicide tip to Philadelphia police
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon&#039;s health authorities say.
+Authorities called Anthropic&#039;s two-month delay in detecting and reporting the incident &#039;unacceptable&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/anthropic-ai-model-submits-false-homicide-tip-to-philadelphia-police?traffic_source=rss)
 
 ---
 
-### 9. Intercommunal clashes kill 71 people in South Sudan
+### 9. Supporters of jailed former Pakistani PM Khan marching to capital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Government security forces regain control of Rumbek town after outsiders attempted to seize the area.
+Thousands of Imran Khan supporters are on the way to Islamabad to demand his release from prison.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-imran-khan-supporters-kpk-release-pk?traffic_source=rss)
 
 ---
 
