@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 22:13:29
+**Last Update:** 2026-10-11 01:00:53
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Weave (YC W25) is hiring ML, AI, product, & design engineers
+### 1. 50MB operating system can resurrect your old PC
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jobs.ashbyhq.com/workweave">https://jobs.ashbyhq.com/workweave</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50035602">https://news.ycombinator.com/item?id=50035602</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/">https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036571">https://news.ycombinator.com/item?id=50036571</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://jobs.ashbyhq.com/workweave](https://jobs.ashbyhq.com/workweave)
+🔗 **Read more:** [https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/](https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/)
 
 ---
 
-### 2. Anthropic discloses 2 months old fake tip to police among new rogue AI incidents
+### 2. Takeshi's Castle
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/">https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50035550">https://news.ycombinator.com/item?id=50035550</a></p>
-<p>Points: 16</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Takeshi%27s_Castle">https://en.wikipedia.org/wiki/Takeshi%27s_Castle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036119">https://news.ycombinator.com/item?id=50036119</a></p>
+<p>Points: 49</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Takeshi%27s_Castle](https://en.wikipedia.org/wiki/Takeshi%27s_Castle)
 
 ---
 
-### 3. Knuth Reward Check
+### 3. Nvidia in talks to acquire US 'open' model startup Reflection AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thomas-huehn.com/knuth-reward-check">https://www.thomas-huehn.com/knuth-reward-check</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50034081">https://news.ycombinator.com/item?id=50034081</a></p>
-<p>Points: 63</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a">https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50035886">https://news.ycombinator.com/item?id=50035886</a></p>
+<p>Points: 79</p>
+<p># Comments: 48</p>
 
-🔗 **Read more:** [https://www.thomas-huehn.com/knuth-reward-check](https://www.thomas-huehn.com/knuth-reward-check)
+🔗 **Read more:** [https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 
 ---
 
@@ -97,42 +97,42 @@ Pike's lawyers say she is "grateful" to the medical team who cared for her after
 
 ---
 
-### 7. Attack on airport in Saudi capital, Riyadh, leaves several injured
+### 7. Hundreds of doctors demand World Medical Association suspend Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.
+Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss)
 
 ---
 
-### 8. Nine killed in shooting in US state of Pennsylvania, including two children
+### 8. Malawi motorists queue for days as fuel shortage bites
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.
+Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss)
 
 ---
 
-### 9. Pope says death penalty ‘inadmissible’ as US plans to livestream execution
+### 9. Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo XIV describes capital punishment as an &#039;attack on the inviolability and dignity of the person&#039; in post on X.
+Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-11T01:00:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "50MB operating system can resurrect your old PC",
+            "description": "<p>Article URL: <a href=\"https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/\">https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036571\">https://news.ycombinator.com/item?id=50036571</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+            "published": "Sat, 10 Oct 2026 19:59:24 +0000",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Takeshi's Castle",
+            "description": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Takeshi%27s_Castle\">https://en.wikipedia.org/wiki/Takeshi%27s_Castle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036119\">https://news.ycombinator.com/item?id=50036119</a></p>\n<p>Points: 49</p>\n<p># Comments: 22</p>",
+            "url": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+            "published": "Sat, 10 Oct 2026 19:12:55 +0000",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\">https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50035886\">https://news.ycombinator.com/item?id=50035886</a></p>\n<p>Points: 79</p>\n<p># Comments: 48</p>",
+            "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+            "published": "Sat, 10 Oct 2026 18:48:35 +0000",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies after tiger attack at wildlife park",
+            "description": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 19:09:59 GMT",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+            "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 19:28:28 GMT",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+            "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+            "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 17:44:26 GMT",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds of doctors demand World Medical Association suspend Israel",
+            "description": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 21:12:04 +0000",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Malawi motorists queue for days as fuel shortage bites",
+            "description": "Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 21:10:38 +0000",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
+            "description": "Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 21:10:06 +0000",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-11T01:00:53+03:30"
+        }
+    ]
+}
