@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-11T02:12:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+            "description": "<p>Article URL: <a href=\"https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/\">https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50037299\">https://news.ycombinator.com/item?id=50037299</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
+            "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+            "published": "Sat, 10 Oct 2026 21:19:42 +0000",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A city-building game in which the city would prefer you didn't",
+            "description": "<p>Article URL: <a href=\"https://housing.over.pizza/\">https://housing.over.pizza/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036864\">https://news.ycombinator.com/item?id=50036864</a></p>\n<p>Points: 64</p>\n<p># Comments: 25</p>",
+            "url": "https://housing.over.pizza/",
+            "published": "Sat, 10 Oct 2026 20:31:50 +0000",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "50MB operating system can resurrect your old PC",
+            "description": "<p>Article URL: <a href=\"https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/\">https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036571\">https://news.ycombinator.com/item?id=50036571</a></p>\n<p>Points: 23</p>\n<p># Comments: 6</p>",
+            "url": "https://www.makeuseof.com/this-50mb-operating-system-can-resurrect-your-old-pc/",
+            "published": "Sat, 10 Oct 2026 19:59:24 +0000",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies after tiger attack at wildlife park",
+            "description": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 19:09:59 GMT",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+            "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 19:28:28 GMT",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+            "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+            "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 17:44:26 GMT",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemeni government’s military says its forces advancing against Houthis",
+            "description": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 22:12:25 +0000",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+            "description": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player&#039;s hair in 1-0 La Liga victory.",
+            "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 21:40:20 +0000",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds of doctors demand World Medical Association suspend Israel",
+            "description": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 21:12:04 +0000",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-11T02:12:35+03:30"
+        }
+    ]
+}
