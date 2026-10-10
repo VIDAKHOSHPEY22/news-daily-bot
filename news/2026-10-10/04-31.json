@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-10T04:31:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+            "description": "<p>Article URL: <a href=\"https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/\">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028059\">https://news.ycombinator.com/item?id=50028059</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
+            "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+            "published": "Fri, 09 Oct 2026 23:56:55 +0000",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "HostMath – Airbnb profit calculator with break-even occupancy and payback",
+            "description": "<p>Article URL: <a href=\"https://hosttmath.ctonew.app/?src=hn\">https://hosttmath.ctonew.app/?src=hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027856\">https://news.ycombinator.com/item?id=50027856</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://hosttmath.ctonew.app/?src=hn",
+            "published": "Fri, 09 Oct 2026 23:28:46 +0000",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Compiling Rust to readable C with Eurydice",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1055211/\">https://lwn.net/Articles/1055211/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027853\">https://news.ycombinator.com/item?id=50027853</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://lwn.net/Articles/1055211/",
+            "published": "Fri, 09 Oct 2026 23:28:36 +0000",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+            "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 00:45:51 GMT",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+            "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+            "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NI secretary to ban the Drumcree parade",
+            "description": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+            "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 21:46:19 GMT",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dual quakes devastate southern Panama",
+            "description": "Panama’s president has declared a major disaster after two earthquakes struck the country’s south.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 00:53:15 +0000",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+            "description": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon&#039;s health authorities say.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 00:22:52 +0000",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Intercommunal clashes kill 71 people in South Sudan",
+            "description": "Government security forces regain control of Rumbek town after outsiders attempted to seize the area.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 00:01:32 +0000",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-10T04:31:54+03:30"
+        }
+    ]
+}

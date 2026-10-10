@@ -1,71 +1,71 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-10 03:27:38
+**Last Update:** 2026-10-10 04:31:54
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen
+### 1. 11 of 23 Core Open Source Projects Run on 1 or 2 People
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344">https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027167">https://news.ycombinator.com/item?id=50027167</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/">https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50028059">https://news.ycombinator.com/item?id=50028059</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344](https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344)
+🔗 **Read more:** [https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/](https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/)
 
 ---
 
-### 2. OpenAI mistranslated mathematics into code for its Navier-Stokes proof
+### 2. HostMath – Airbnb profit calculator with break-even occupancy and payback
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/">https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50026734">https://news.ycombinator.com/item?id=50026734</a></p>
-<p>Points: 26</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://hosttmath.ctonew.app/?src=hn">https://hosttmath.ctonew.app/?src=hn</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027856">https://news.ycombinator.com/item?id=50027856</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/](https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/)
+🔗 **Read more:** [https://hosttmath.ctonew.app/?src=hn](https://hosttmath.ctonew.app/?src=hn)
 
 ---
 
-### 3. YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops
+### 3. Compiling Rust to readable C with Eurydice
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306">https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50026555">https://news.ycombinator.com/item?id=50026555</a></p>
-<p>Points: 337</p>
-<p># Comments: 178</p>
+<p>Article URL: <a href="https://lwn.net/Articles/1055211/">https://lwn.net/Articles/1055211/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50027853">https://news.ycombinator.com/item?id=50027853</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+🔗 **Read more:** [https://lwn.net/Articles/1055211/](https://lwn.net/Articles/1055211/)
 
 ---
 
-### 4. Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+### 4. Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.
+Ukraine's president sharply criticised the move, calling it an "investment in war that must be ended, not prolonged".
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The parade has led to a stand-off between Orangemen and nationalist residents of
 
 ---
 
-### 7. Mexico investigates video said to show cartel members fighting for Ukraine
+### 7. Dual quakes devastate southern Panama
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.
+Panama’s president has declared a major disaster after two earthquakes struck the country’s south.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/10/dual-quakes-devastate-southern-panama?traffic_source=rss)
 
 ---
 
-### 8. Trump confirms Fort Hood shooter’s execution will be by firing squad
+### 8. Israeli drone attack wounds six in Lebanon near Syria border
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.
+Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon&#039;s health authorities say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss)
 
 ---
 
-### 9. US judge rules Trump administration’s use of voter data unlawful
+### 9. Intercommunal clashes kill 71 people in South Sudan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A federal judge ruled against the Justice Department&#039;s use of voter data to cross-reference an immigration database.
+Government security forces regain control of Rumbek town after outsiders attempted to seize the area.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss](https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss)
 
 ---
 
