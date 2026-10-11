@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-11T22:17:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Total Annihilation, rebuilt for modern computers",
+            "description": "<p>Article URL: <a href=\"https://nanolathe.gg\">https://nanolathe.gg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50045984\">https://news.ycombinator.com/item?id=50045984</a></p>\n<p>Points: 32</p>\n<p># Comments: 15</p>",
+            "url": "https://nanolathe.gg",
+            "published": "Sun, 11 Oct 2026 18:04:47 +0000",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NYC's \"Click to Cancel\" rule is now in effect",
+            "description": "<p>Article URL: <a href=\"https://www.nyc.gov/main/click-to-cancel\">https://www.nyc.gov/main/click-to-cancel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50045946\">https://news.ycombinator.com/item?id=50045946</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
+            "url": "https://www.nyc.gov/main/click-to-cancel",
+            "published": "Sun, 11 Oct 2026 18:01:16 +0000",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We're unlocking the biggest mysteries of the clitoris",
+            "description": "<p>Article URL: <a href=\"https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2\">https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50045895\">https://news.ycombinator.com/item?id=50045895</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+            "url": "https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2",
+            "published": "Sun, 11 Oct 2026 17:56:13 +0000",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi capital airport hit by second Houthi strike in two days",
+            "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+            "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 16:41:37 GMT",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+            "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+            "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 15:32:32 GMT",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+            "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 18:00:30 GMT",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+            "description": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 18:25:42 +0000",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanon’s first electric train hopes to revive railway system",
+            "description": "A new solar-powered model train has returned to a section of Lebanon’s historic railway.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 18:00:51 +0000",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Liverpool fans give Manchester City a fiery welcome at Anfield",
+            "description": "&#039;Cheats cheats cheats&#039;\nThis is how Liverpool fans greeted Manchester City as they arrived at Anfield",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 17:52:27 +0000",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-11T22:17:07+03:30"
+        }
+    ]
+}

@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 19:19:35
+**Last Update:** 2026-10-11 22:17:07
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Internal files add to evidence of an ExxonMobil climate deception campaign
+### 1. Total Annihilation, rebuilt for modern computers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/">https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043682">https://news.ycombinator.com/item?id=50043682</a></p>
-<p>Points: 141</p>
-<p># Comments: 71</p>
+<p>Article URL: <a href="https://nanolathe.gg">https://nanolathe.gg</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50045984">https://news.ycombinator.com/item?id=50045984</a></p>
+<p>Points: 32</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
+🔗 **Read more:** [https://nanolathe.gg](https://nanolathe.gg)
 
 ---
 
-### 2. Open-Source Microsoft Office Excel, PowerPoint, and Word Replications
+### 2. NYC's "Click to Cancel" rule is now in effect
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next">https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043110">https://news.ycombinator.com/item?id=50043110</a></p>
-<p>Points: 28</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.nyc.gov/main/click-to-cancel">https://www.nyc.gov/main/click-to-cancel</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50045946">https://news.ycombinator.com/item?id=50045946</a></p>
+<p>Points: 17</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next)
+🔗 **Read more:** [https://www.nyc.gov/main/click-to-cancel](https://www.nyc.gov/main/click-to-cancel)
 
 ---
 
-### 3. Terence Tao: Math 2.0 [pdf]
+### 3. We're unlocking the biggest mysteries of the clitoris
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf">https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043026">https://news.ycombinator.com/item?id=50043026</a></p>
-<p>Points: 90</p>
-<p># Comments: 111</p>
+<p>Article URL: <a href="https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2">https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50045895">https://news.ycombinator.com/item?id=50045895</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+🔗 **Read more:** [https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2](https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2)
 
 ---
 
-### 4. Attack on Saudi Arabian airport is another dangerous moment in already tense conflict
+### 4. Saudi capital airport hit by second Houthi strike in two days
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.
+The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Riyadh airport attacks another dangerous moment in already tense conflict
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Buildings swept away as flash floods hit central Nepal
+### 6. PM says it is 'clear' Russia interfered with Brexit vote
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.
+He says voters were not "sufficiently" informed about how foreign actors sought to disrupt UK democracy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Wildlife park remains closed after fatal tiger attack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How the ICC can be saved
+### 7. Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless. Action is needed to protect the court.
+Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss)
 
 ---
 
-### 8. Trump says Ukraine and Russia agree to ‘energy ceasefire’
+### 8. Lebanon’s first electric train hopes to revive railway system
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukrainian President Volodymyr Zelenskyy had pushed for a 60-day full ceasefire.
+A new solar-powered model train has returned to a section of Lebanon’s historic railway.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss)
 
 ---
 
-### 9. Pope Leo to undergo surgery to remove lung nodule
+### 9. Liverpool fans give Manchester City a fiery welcome at Anfield
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter&#039;s Square.
+&#039;Cheats cheats cheats&#039;
+This is how Liverpool fans greeted Manchester City as they arrived at Anfield
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss)
 
 ---
 
