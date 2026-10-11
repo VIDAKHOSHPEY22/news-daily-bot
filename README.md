@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 23:54:33
+**Last Update:** 2026-10-12 02:16:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Cognitive Decline or Sanity Incline?
+### 1. Passkeys are a trap. Do not use them
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline">https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047257">https://news.ycombinator.com/item?id=50047257</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them">https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048312">https://news.ycombinator.com/item?id=50048312</a></p>
+<p>Points: 63</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)
+🔗 **Read more:** [https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
 
 ---
 
-### 2. Cartographers of North Korea
+### 2. A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cartographers-nk.wonyoung.so/">https://cartographers-nk.wonyoung.so/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047091">https://news.ycombinator.com/item?id=50047091</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963">https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047825">https://news.ycombinator.com/item?id=50047825</a></p>
+<p>Points: 72</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://cartographers-nk.wonyoung.so/](https://cartographers-nk.wonyoung.so/)
+🔗 **Read more:** [https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
 
 ---
 
-### 3. Be The Onion's Hero for Once
+### 3. The gap in shared understanding of LLM capability is widening
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mailchi.mp/email.theonion.com/archivehunt">https://mailchi.mp/email.theonion.com/archivehunt</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047055">https://news.ycombinator.com/item?id=50047055</a></p>
-<p>Points: 55</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://twitter.com/karpathy/status/2109361546505966046">https://twitter.com/karpathy/status/2109361546505966046</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047422">https://news.ycombinator.com/item?id=50047422</a></p>
+<p>Points: 98</p>
+<p># Comments: 119</p>
 
-🔗 **Read more:** [https://mailchi.mp/email.theonion.com/archivehunt](https://mailchi.mp/email.theonion.com/archivehunt)
+🔗 **Read more:** [https://twitter.com/karpathy/status/2109361546505966046](https://twitter.com/karpathy/status/2109361546505966046)
 
 ---
 
-### 4. Saudi capital airport hit by second Houthi strike in two days
+### 4. Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.
+Zelensky says Kyiv would support such a truce. Moscow has yet to comment.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. One killed, 11 injured in second Houthi strike on Riyadh airport in two days
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. PM says it is 'clear' Russia interfered with Brexit vote
+### 6. PM says it is 'clear' Russia interfered with Brexit vote
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ He says voters were not "sufficiently" informed about how foreign actors sought 
 
 ---
 
-### 6. Wildlife park remains closed after fatal tiger attack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Saudi health minister visits survivors of deadly Riyadh airport attack
+### 7. CCTV shows moment of deadly Houthi strike on Riyadh airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.
+CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss)
 
 ---
 
-### 8. Mexican president urges residents to shelter as Hurricane Simon approaches
+### 8. Waves crash into homes as excavators try to protect California properties
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco.
+Construction crews were seen trying to block waves entering homes along California&#039;s coast
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss)
 
 ---
 
-### 9. Republican senator says Trump diesel agreement with Russia may be illegal
+### 9. UK Greens leader seeks rule change after party declares Zionism is racism
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.
+Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss)
 
 ---
 

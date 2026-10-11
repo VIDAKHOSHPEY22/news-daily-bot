@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-12T02:16:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Passkeys are a trap. Do not use them",
+            "description": "<p>Article URL: <a href=\"https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them\">https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048312\">https://news.ycombinator.com/item?id=50048312</a></p>\n<p>Points: 63</p>\n<p># Comments: 18</p>",
+            "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+            "published": "Sun, 11 Oct 2026 21:59:48 +0000",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+            "description": "<p>Article URL: <a href=\"https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963\">https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047825\">https://news.ycombinator.com/item?id=50047825</a></p>\n<p>Points: 72</p>\n<p># Comments: 44</p>",
+            "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+            "published": "Sun, 11 Oct 2026 21:07:20 +0000",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The gap in shared understanding of LLM capability is widening",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/karpathy/status/2109361546505966046\">https://twitter.com/karpathy/status/2109361546505966046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047422\">https://news.ycombinator.com/item?id=50047422</a></p>\n<p>Points: 98</p>\n<p># Comments: 119</p>",
+            "url": "https://twitter.com/karpathy/status/2109361546505966046",
+            "published": "Sun, 11 Oct 2026 20:20:52 +0000",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+            "description": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 21:36:40 GMT",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+            "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+            "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 22:45:58 GMT",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+            "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 18:00:30 GMT",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+            "description": "CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 22:24:07 +0000",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Waves crash into homes as excavators try to protect California properties",
+            "description": "Construction crews were seen trying to block waves entering homes along California&#039;s coast",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 21:03:41 +0000",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
+            "description": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 20:57:48 +0000",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-12T02:16:26+03:30"
+        }
+    ]
+}
