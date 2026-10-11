@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-11T10:30:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+            "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 01:41:29 GMT",
+            "fetched": "2026-10-11T10:30:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies after tiger attack at wildlife park",
+            "description": "The man was reported to have entered the tiger enclosure before he was attacked, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 06:58:54 GMT",
+            "fetched": "2026-10-11T10:30:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US justice department investigates TV networks over Trump pool coverage",
+            "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+            "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 05:05:43 GMT",
+            "fetched": "2026-10-11T10:30:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Flash flood sweeps away buildings in Nepal",
+            "description": "Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 06:34:31 +0000",
+            "fetched": "2026-10-11T10:30:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
+            "description": "Real Madrid forward has a goal disallowed, is sent off for the hair-pull offence and could miss the next three games.",
+            "url": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 05:57:00 +0000",
+            "fetched": "2026-10-11T10:30:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How genocidal war on Gaza is shaping Israel’s election",
+            "description": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 05:35:09 +0000",
+            "fetched": "2026-10-11T10:30:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-11T10:30:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-11T10:30:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-11T10:30:14+03:30"
+        }
+    ]
+}

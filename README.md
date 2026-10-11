@@ -1,77 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 05:30:15
+**Last Update:** 2026-10-11 10:30:14
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Generative AI scandal has come to one of Nikon's competitions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/">https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038640">https://news.ycombinator.com/item?id=50038640</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)
-
----
-
-### 2. WallHop – 12ft.io is gone, so I built a replacement
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://wallhop.io/">https://wallhop.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038634">https://news.ycombinator.com/item?id=50038634</a></p>
-<p>Points: 71</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://wallhop.io/](https://wallhop.io/)
-
----
-
-### 3. PSPi 6 – Raspberry Pi in a PSP
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/othermod/PSPi-Version-6">https://github.com/othermod/PSPi-Version-6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038623">https://news.ycombinator.com/item?id=50038623</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://github.com/othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6)
-
----
-
-### 4. Twelve killed in attack on airport in Saudi capital Riyadh
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is "war crime".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+### 1. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
 
 **Source:** BBC
 
@@ -84,59 +23,72 @@ Ukraine's leader had said the deal with Russia to release diesel into the US wou
 
 ---
 
-### 6. Man dies after tiger attack at wildlife park
+### 2. Man dies after tiger attack at wildlife park
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.
+The man was reported to have entered the tiger enclosure before he was attacked, police say.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Man dies after entering tiger enclosure at England wildlife park
+### 3. US justice department investigates TV networks over Trump pool coverage
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. Flash flood sweeps away buildings in Nepal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.
+Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss)
 
 ---
 
-### 8. Global pro-Palestinian protests one year after Gaza ‘ceasefire’
+### 5. Vinicius apologises for hair-pull red card but could miss El Clasico
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.
+Real Madrid forward has a goal disallowed, is sent off for the hair-pull offence and could miss the next three games.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss)
 
 ---
 
-### 9. Twelve killed, more than 300 injured in Riyadh airport attack
+### 6. How genocidal war on Gaza is shaping Israel’s election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.
+Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Simon
+### 7. Hurricane Simon
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
+### 8. Prescribed Fire CON BSE13 RX, Covington, Alabama
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Hurricane Isaias
+### 9. Hurricane Isaias
 
 **Source:** NASA
 
