@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 17:27:25
+**Last Update:** 2026-10-11 19:19:35
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How HN: Go-dev-auth zero-dependency authentication library for Go
+### 1. Internal files add to evidence of an ExxonMobil climate deception campaign
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/go-dev-auth/go-dev-auth">https://github.com/go-dev-auth/go-dev-auth</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50042942">https://news.ycombinator.com/item?id=50042942</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/">https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043682">https://news.ycombinator.com/item?id=50043682</a></p>
+<p>Points: 141</p>
+<p># Comments: 71</p>
 
-🔗 **Read more:** [https://github.com/go-dev-auth/go-dev-auth](https://github.com/go-dev-auth/go-dev-auth)
+🔗 **Read more:** [https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
 
 ---
 
-### 2. Don't Put Tilde In Your Path
+### 2. Open-Source Microsoft Office Excel, PowerPoint, and Word Replications
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/">https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50042425">https://news.ycombinator.com/item?id=50042425</a></p>
-<p>Points: 42</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next">https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043110">https://news.ycombinator.com/item?id=50043110</a></p>
+<p>Points: 28</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
+🔗 **Read more:** [https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next](https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next)
 
 ---
 
-### 3. Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests
+### 3. Terence Tao: Math 2.0 [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html">https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50042370">https://news.ycombinator.com/item?id=50042370</a></p>
-<p>Points: 37</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf">https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50043026">https://news.ycombinator.com/item?id=50043026</a></p>
+<p>Points: 90</p>
+<p># Comments: 111</p>
 
-🔗 **Read more:** [https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)
+🔗 **Read more:** [https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
 
 ---
 
-### 4. Riyadh airport attack another dangerous moment in already tense conflict
+### 4. Attack on Saudi Arabian airport is another dangerous moment in already tense conflict
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure a
 
 ---
 
-### 7. Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints
+### 7. How the ICC can be saved
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.
+Hoping for ‘dialogue’ with the US over its sanctions on the ICC is meaningless. Action is needed to protect the court.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss](https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss)
 
 ---
 
-### 8. Cockroach Janta Party accuses Modi of ‘waging war’ on Indians
+### 8. Trump says Ukraine and Russia agree to ‘energy ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India’s Cockroach Janta Party leaders say the Modi government is ‘waging war’ on its own citizens.
+Ukrainian President Volodymyr Zelenskyy had pushed for a 60-day full ceasefire.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss)
 
 ---
 
-### 9. India’s crackdown on youth protesters: What next?
+### 9. Pope Leo to undergo surgery to remove lung nodule
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India&#039;s &#039;cockroach&#039; movement and student groups have said protests will continue despite detentions.
+The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter&#039;s Square.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss)
 
 ---
 
