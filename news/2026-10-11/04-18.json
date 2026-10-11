@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-11T04:18:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+            "description": "<p>Article URL: <a href=\"https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6\">https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50038383\">https://news.ycombinator.com/item?id=50038383</a></p>\n<p>Points: 28</p>\n<p># Comments: 32</p>",
+            "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+            "published": "Sun, 11 Oct 2026 00:08:31 +0000",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Build your own decision model",
+            "description": "<p>Article URL: <a href=\"https://nishtahir.com/build-your-own-decision-model/\">https://nishtahir.com/build-your-own-decision-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50037949\">https://news.ycombinator.com/item?id=50037949</a></p>\n<p>Points: 75</p>\n<p># Comments: 9</p>",
+            "url": "https://nishtahir.com/build-your-own-decision-model/",
+            "published": "Sat, 10 Oct 2026 22:50:10 +0000",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A city-building game in which the city would prefer you didn't",
+            "description": "<p>Article URL: <a href=\"https://housing.over.pizza/\">https://housing.over.pizza/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036864\">https://news.ycombinator.com/item?id=50036864</a></p>\n<p>Points: 152</p>\n<p># Comments: 56</p>",
+            "url": "https://housing.over.pizza/",
+            "published": "Sat, 10 Oct 2026 20:31:50 +0000",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+            "description": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+            "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 00:21:52 GMT",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+            "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 19:28:28 GMT",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies after tiger attack at wildlife park",
+            "description": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 19:09:59 GMT",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+            "description": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 00:00:13 +0000",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+            "description": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL&#039;s dominant teams in recent times.",
+            "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 22:43:08 +0000",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "WHO says no plague case registered after Russian lab worker’s death",
+            "description": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.",
+            "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+            "published": "Sat, 10 Oct 2026 22:34:29 +0000",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-11T04:18:08+03:30"
+        }
+    ]
+}
