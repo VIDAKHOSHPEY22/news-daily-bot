@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 22:17:07
+**Last Update:** 2026-10-11 23:54:33
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Total Annihilation, rebuilt for modern computers
+### 1. Cognitive Decline or Sanity Incline?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nanolathe.gg">https://nanolathe.gg</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50045984">https://news.ycombinator.com/item?id=50045984</a></p>
-<p>Points: 32</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://nanolathe.gg](https://nanolathe.gg)
-
----
-
-### 2. NYC's "Click to Cancel" rule is now in effect
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nyc.gov/main/click-to-cancel">https://www.nyc.gov/main/click-to-cancel</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50045946">https://news.ycombinator.com/item?id=50045946</a></p>
-<p>Points: 17</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.nyc.gov/main/click-to-cancel](https://www.nyc.gov/main/click-to-cancel)
-
----
-
-### 3. We're unlocking the biggest mysteries of the clitoris
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2">https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50045895">https://news.ycombinator.com/item?id=50045895</a></p>
-<p>Points: 23</p>
+<p>Article URL: <a href="https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline">https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047257">https://news.ycombinator.com/item?id=50047257</a></p>
+<p>Points: 5</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2](https://www.sciencefocus.com/the-human-body/were-finally-unlocking-the-biggest-mysteries-of-the-clitoris-2)
+🔗 **Read more:** [https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline](https://mdelcaro.substack.com/p/cognitive-decline-or-sanity-incline)
+
+---
+
+### 2. Cartographers of North Korea
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://cartographers-nk.wonyoung.so/">https://cartographers-nk.wonyoung.so/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047091">https://news.ycombinator.com/item?id=50047091</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://cartographers-nk.wonyoung.so/](https://cartographers-nk.wonyoung.so/)
+
+---
+
+### 3. Be The Onion's Hero for Once
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mailchi.mp/email.theonion.com/archivehunt">https://mailchi.mp/email.theonion.com/archivehunt</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047055">https://news.ycombinator.com/item?id=50047055</a></p>
+<p>Points: 55</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://mailchi.mp/email.theonion.com/archivehunt](https://mailchi.mp/email.theonion.com/archivehunt)
 
 ---
 
@@ -71,20 +71,7 @@ The Yemeni group says it carried out attacks that killed 13 people in Riyadh ove
 
 ---
 
-### 5. Riyadh airport attacks another dangerous moment in already tense conflict
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. PM says it is 'clear' Russia interfered with Brexit vote
+### 5. PM says it is 'clear' Russia interfered with Brexit vote
 
 **Source:** BBC
 
@@ -97,43 +84,55 @@ He says voters were not "sufficiently" informed about how foreign actors sought 
 
 ---
 
-### 7. Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza
+### 6. Wildlife park remains closed after fatal tiger attack
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza
+Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Lebanon’s first electric train hopes to revive railway system
+### 7. Saudi health minister visits survivors of deadly Riyadh airport attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A new solar-powered model train has returned to a section of Lebanon’s historic railway.
+Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss)
 
 ---
 
-### 9. Liverpool fans give Manchester City a fiery welcome at Anfield
+### 8. Mexican president urges residents to shelter as Hurricane Simon approaches
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-&#039;Cheats cheats cheats&#039;
-This is how Liverpool fans greeted Manchester City as they arrived at Anfield
+The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/liverpool-fans-give-manchester-city-a-fiery-welcome-at-anfield?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss)
+
+---
+
+### 9. Republican senator says Trump diesel agreement with Russia may be illegal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss)
 
 ---
 
