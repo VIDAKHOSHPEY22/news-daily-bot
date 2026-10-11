@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 02:16:26
+**Last Update:** 2026-10-12 03:15:40
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Passkeys are a trap. Do not use them
+### 1. Google Data Centers around the world
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them">https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048312">https://news.ycombinator.com/item?id=50048312</a></p>
-<p>Points: 63</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://datacenters.google/locations/">https://datacenters.google/locations/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048768">https://news.ycombinator.com/item?id=50048768</a></p>
+<p>Points: 18</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them](https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them)
+🔗 **Read more:** [https://datacenters.google/locations/](https://datacenters.google/locations/)
 
 ---
 
-### 2. A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her
+### 2. Fingerprints Are the New Cookies
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963">https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047825">https://news.ycombinator.com/item?id=50047825</a></p>
-<p>Points: 72</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://royfish.dev/fingerprints-are-the-new-cookies">https://royfish.dev/fingerprints-are-the-new-cookies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048642">https://news.ycombinator.com/item?id=50048642</a></p>
+<p>Points: 8</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963](https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963)
+🔗 **Read more:** [https://royfish.dev/fingerprints-are-the-new-cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 
 ---
 
-### 3. The gap in shared understanding of LLM capability is widening
+### 3. Google is illegaly cutting forest to build data centers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/karpathy/status/2109361546505966046">https://twitter.com/karpathy/status/2109361546505966046</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50047422">https://news.ycombinator.com/item?id=50047422</a></p>
-<p>Points: 98</p>
-<p># Comments: 119</p>
+<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment">https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048638">https://news.ycombinator.com/item?id=50048638</a></p>
+<p>Points: 18</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://twitter.com/karpathy/status/2109361546505966046](https://twitter.com/karpathy/status/2109361546505966046)
+🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
 
 ---
 
@@ -97,42 +97,42 @@ He says voters were not "sufficiently" informed about how foreign actors sought 
 
 ---
 
-### 7. CCTV shows moment of deadly Houthi strike on Riyadh airport
+### 7. Pakistani national killed in second Houthi strike on Riyadh airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CCTV footage released by Al Arabiya shows the moment of a Houthi strike on Riyadh’s international airport on Saturday.
+Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss)
 
 ---
 
-### 8. Waves crash into homes as excavators try to protect California properties
+### 8. US Homeland Security secretary sees no ‘risk’ from livestreamed execution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Construction crews were seen trying to block waves entering homes along California&#039;s coast
+Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss)
 
 ---
 
-### 9. UK Greens leader seeks rule change after party declares Zionism is racism
+### 9. Footage shows moment Russian strike hits Ukrainian grocery store
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.
+CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss)
 
 ---
 

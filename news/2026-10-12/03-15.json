@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-12T03:15:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google Data Centers around the world",
+            "description": "<p>Article URL: <a href=\"https://datacenters.google/locations/\">https://datacenters.google/locations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048768\">https://news.ycombinator.com/item?id=50048768</a></p>\n<p>Points: 18</p>\n<p># Comments: 7</p>",
+            "url": "https://datacenters.google/locations/",
+            "published": "Sun, 11 Oct 2026 22:45:40 +0000",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fingerprints Are the New Cookies",
+            "description": "<p>Article URL: <a href=\"https://royfish.dev/fingerprints-are-the-new-cookies\">https://royfish.dev/fingerprints-are-the-new-cookies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048642\">https://news.ycombinator.com/item?id=50048642</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+            "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+            "published": "Sun, 11 Oct 2026 22:33:39 +0000",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google is illegaly cutting forest to build data centers",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment\">https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048638\">https://news.ycombinator.com/item?id=50048638</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+            "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+            "published": "Sun, 11 Oct 2026 22:33:30 +0000",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+            "description": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 21:36:40 GMT",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+            "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+            "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 22:45:58 GMT",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+            "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 18:00:30 GMT",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+            "description": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 23:20:46 +0000",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+            "description": "Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 23:17:05 +0000",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+            "description": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 22:49:23 +0000",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-12T03:15:40+03:30"
+        }
+    ]
+}
