@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-11T05:30:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Generative AI scandal has come to one of Nikon's competitions",
+            "description": "<p>Article URL: <a href=\"https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/\">https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50038640\">https://news.ycombinator.com/item?id=50038640</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+            "published": "Sun, 11 Oct 2026 00:47:37 +0000",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "WallHop – 12ft.io is gone, so I built a replacement",
+            "description": "<p>Article URL: <a href=\"https://wallhop.io/\">https://wallhop.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50038634\">https://news.ycombinator.com/item?id=50038634</a></p>\n<p>Points: 71</p>\n<p># Comments: 44</p>",
+            "url": "https://wallhop.io/",
+            "published": "Sun, 11 Oct 2026 00:46:48 +0000",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PSPi 6 – Raspberry Pi in a PSP",
+            "description": "<p>Article URL: <a href=\"https://github.com/othermod/PSPi-Version-6\">https://github.com/othermod/PSPi-Version-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50038623\">https://news.ycombinator.com/item?id=50038623</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/othermod/PSPi-Version-6",
+            "published": "Sun, 11 Oct 2026 00:45:49 +0000",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+            "description": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+            "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 00:21:52 GMT",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+            "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 01:41:29 GMT",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies after tiger attack at wildlife park",
+            "description": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 01:05:37 GMT",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man dies after entering tiger enclosure at England wildlife park",
+            "description": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 01:16:18 +0000",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+            "description": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 01:11:10 +0000",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+            "description": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 01:02:07 +0000",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-11T05:30:15+03:30"
+        }
+    ]
+}

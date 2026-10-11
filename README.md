@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 04:18:08
+**Last Update:** 2026-10-11 05:30:15
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects
+### 1. Generative AI scandal has come to one of Nikon's competitions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6">https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038383">https://news.ycombinator.com/item?id=50038383</a></p>
-<p>Points: 28</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/">https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038640">https://news.ycombinator.com/item?id=50038640</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6](https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6)
+🔗 **Read more:** [https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/)
 
 ---
 
-### 2. Build your own decision model
+### 2. WallHop – 12ft.io is gone, so I built a replacement
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nishtahir.com/build-your-own-decision-model/">https://nishtahir.com/build-your-own-decision-model/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50037949">https://news.ycombinator.com/item?id=50037949</a></p>
-<p>Points: 75</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://wallhop.io/">https://wallhop.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038634">https://news.ycombinator.com/item?id=50038634</a></p>
+<p>Points: 71</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://nishtahir.com/build-your-own-decision-model/](https://nishtahir.com/build-your-own-decision-model/)
+🔗 **Read more:** [https://wallhop.io/](https://wallhop.io/)
 
 ---
 
-### 3. A city-building game in which the city would prefer you didn't
+### 3. PSPi 6 – Raspberry Pi in a PSP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://housing.over.pizza/">https://housing.over.pizza/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50036864">https://news.ycombinator.com/item?id=50036864</a></p>
-<p>Points: 152</p>
-<p># Comments: 56</p>
+<p>Article URL: <a href="https://github.com/othermod/PSPi-Version-6">https://github.com/othermod/PSPi-Version-6</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50038623">https://news.ycombinator.com/item?id=50038623</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://housing.over.pizza/](https://housing.over.pizza/)
+🔗 **Read more:** [https://github.com/othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6)
 
 ---
 
@@ -97,42 +97,42 @@ It was reported the man entered the tiger enclosure at the attraction near Donca
 
 ---
 
-### 7. Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis
+### 7. Man dies after entering tiger enclosure at England wildlife park
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.
+Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss)
 
 ---
 
-### 8. Liverpool vs Man City: the top five clashes between Premier League giants
+### 8. Global pro-Palestinian protests one year after Gaza ‘ceasefire’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Liverpool face Manchester City on Sunday in what has become a battle between the EPL&#039;s dominant teams in recent times.
+Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss)
 
 ---
 
-### 9. WHO says no plague case registered after Russian lab worker’s death
+### 9. Twelve killed, more than 300 injured in Riyadh airport attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.
+Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss](https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss)
 
 ---
 
