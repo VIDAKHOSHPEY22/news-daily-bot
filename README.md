@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 10:30:14
+**Last Update:** 2026-10-11 12:34:51
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+### 1. I wish you the best in the Offline
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/">https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040625">https://news.ycombinator.com/item?id=50040625</a></p>
+<p>Points: 16</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
+
+---
+
+### 2. 3rd Yandex Cloud Data Center Was Hit
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://status.yandex.cloud/en/incidents/2136">https://status.yandex.cloud/en/incidents/2136</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040547">https://news.ycombinator.com/item?id=50040547</a></p>
+<p>Points: 150</p>
+<p># Comments: 176</p>
+
+🔗 **Read more:** [https://status.yandex.cloud/en/incidents/2136](https://status.yandex.cloud/en/incidents/2136)
+
+---
+
+### 3. LineageOS 24.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lineageos.org/Changelog-32/">https://lineageos.org/Changelog-32/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040276">https://news.ycombinator.com/item?id=50040276</a></p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://lineageos.org/Changelog-32/](https://lineageos.org/Changelog-32/)
+
+---
+
+### 4. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ Ukraine's leader had said the deal with Russia to release diesel into the US wou
 
 ---
 
-### 2. Man dies after tiger attack at wildlife park
+### 5. Man dies after tiger attack at wildlife park
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The man was reported to have entered the tiger enclosure before he was attacked,
 
 ---
 
-### 3. US justice department investigates TV networks over Trump pool coverage
+### 6. US justice department investigates TV networks over Trump pool coverage
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The White House had blocked access for CNN, MS Now and Politico, leading them to
 
 ---
 
-### 4. Flash flood sweeps away buildings in Nepal
+### 7. What can Man City expect against Liverpool at Anfield on Sunday?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.
+Man City face Liverpool in their first game since being found guilty of serious EPL financial breaches.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss)
 
 ---
 
-### 5. Vinicius apologises for hair-pull red card but could miss El Clasico
+### 8. Trump calls for Ukraine election, says Zelenskyy failed to end war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Real Madrid forward has a goal disallowed, is sent off for the hair-pull offence and could miss the next three games.
+Trump has called for Ukraine to hold elections, implying Zelenskyy missed opportunities to end the war with Russia.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss)
 
 ---
 
-### 6. How genocidal war on Gaza is shaping Israel’s election
+### 9. Pakistan imposes emergency rule in ​province governed by Imran Khan’s party
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.
+PM office says cabinet move follows &#039;provincial government’s deliberate disengagement from the fight against terrorism&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss)
 
 ---
 
-### 7. Hurricane Simon
+### 10. Hurricane Simon
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire CON BSE13 RX, Covington, Alabama
+### 11. Prescribed Fire CON BSE13 RX, Covington, Alabama
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Hurricane Isaias
+### 12. Hurricane Isaias
 
 **Source:** NASA
 

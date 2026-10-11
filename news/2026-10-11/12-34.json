@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-11T12:34:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I wish you the best in the Offline",
+            "description": "<p>Article URL: <a href=\"https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/\">https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50040625\">https://news.ycombinator.com/item?id=50040625</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+            "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+            "published": "Sun, 11 Oct 2026 07:53:42 +0000",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "3rd Yandex Cloud Data Center Was Hit",
+            "description": "<p>Article URL: <a href=\"https://status.yandex.cloud/en/incidents/2136\">https://status.yandex.cloud/en/incidents/2136</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50040547\">https://news.ycombinator.com/item?id=50040547</a></p>\n<p>Points: 150</p>\n<p># Comments: 176</p>",
+            "url": "https://status.yandex.cloud/en/incidents/2136",
+            "published": "Sun, 11 Oct 2026 07:34:45 +0000",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LineageOS 24.0",
+            "description": "<p>Article URL: <a href=\"https://lineageos.org/Changelog-32/\">https://lineageos.org/Changelog-32/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50040276\">https://news.ycombinator.com/item?id=50040276</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://lineageos.org/Changelog-32/",
+            "published": "Sun, 11 Oct 2026 06:18:59 +0000",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+            "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 01:41:29 GMT",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man dies after tiger attack at wildlife park",
+            "description": "The man was reported to have entered the tiger enclosure before he was attacked, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 06:58:54 GMT",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US justice department investigates TV networks over Trump pool coverage",
+            "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+            "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 05:05:43 GMT",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What can Man City expect against Liverpool at Anfield on Sunday?",
+            "description": "Man City face Liverpool in their first game since being found guilty of serious EPL financial breaches.",
+            "url": "https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 08:46:10 +0000",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump calls for Ukraine election, says Zelenskyy failed to end war",
+            "description": "Trump has called for Ukraine to hold elections, implying Zelenskyy missed opportunities to end the war with Russia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 08:43:52 +0000",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+            "description": "PM office says cabinet move follows &#039;provincial government’s deliberate disengagement from the fight against terrorism&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 08:32:06 +0000",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-11T12:34:51+03:30"
+        }
+    ]
+}
