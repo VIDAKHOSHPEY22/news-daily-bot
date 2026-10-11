@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-11 12:34:51
+**Last Update:** 2026-10-11 17:27:25
 
 **Total News:** 12
 
@@ -10,129 +10,129 @@
 
 ## 📰 Latest News
 
-### 1. I wish you the best in the Offline
+### 1. How HN: Go-dev-auth zero-dependency authentication library for Go
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/">https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040625">https://news.ycombinator.com/item?id=50040625</a></p>
-<p>Points: 16</p>
+<p>Article URL: <a href="https://github.com/go-dev-auth/go-dev-auth">https://github.com/go-dev-auth/go-dev-auth</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50042942">https://news.ycombinator.com/item?id=50042942</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/](https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/)
+🔗 **Read more:** [https://github.com/go-dev-auth/go-dev-auth](https://github.com/go-dev-auth/go-dev-auth)
 
 ---
 
-### 2. 3rd Yandex Cloud Data Center Was Hit
+### 2. Don't Put Tilde In Your Path
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://status.yandex.cloud/en/incidents/2136">https://status.yandex.cloud/en/incidents/2136</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040547">https://news.ycombinator.com/item?id=50040547</a></p>
-<p>Points: 150</p>
-<p># Comments: 176</p>
+<p>Article URL: <a href="https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/">https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50042425">https://news.ycombinator.com/item?id=50042425</a></p>
+<p>Points: 42</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://status.yandex.cloud/en/incidents/2136](https://status.yandex.cloud/en/incidents/2136)
+🔗 **Read more:** [https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
 
 ---
 
-### 3. LineageOS 24.0
+### 3. Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lineageos.org/Changelog-32/">https://lineageos.org/Changelog-32/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50040276">https://news.ycombinator.com/item?id=50040276</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html">https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50042370">https://news.ycombinator.com/item?id=50042370</a></p>
+<p>Points: 37</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://lineageos.org/Changelog-32/](https://lineageos.org/Changelog-32/)
+🔗 **Read more:** [https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)
 
 ---
 
-### 4. 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+### 4. Riyadh airport attack another dangerous moment in already tense conflict
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.
+The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Man dies after tiger attack at wildlife park
+### 5. Buildings swept away as flash floods hit central Nepal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The man was reported to have entered the tiger enclosure before he was attacked, police say.
+A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. US justice department investigates TV networks over Trump pool coverage
+### 6. Wildlife park remains closed after fatal tiger attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.
+Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What can Man City expect against Liverpool at Anfield on Sunday?
+### 7. Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Man City face Liverpool in their first game since being found guilty of serious EPL financial breaches.
+Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss](https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss)
 
 ---
 
-### 8. Trump calls for Ukraine election, says Zelenskyy failed to end war
+### 8. Cockroach Janta Party accuses Modi of ‘waging war’ on Indians
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump has called for Ukraine to hold elections, implying Zelenskyy missed opportunities to end the war with Russia.
+India’s Cockroach Janta Party leaders say the Modi government is ‘waging war’ on its own citizens.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss)
 
 ---
 
-### 9. Pakistan imposes emergency rule in ​province governed by Imran Khan’s party
+### 9. India’s crackdown on youth protesters: What next?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-PM office says cabinet move follows &#039;provincial government’s deliberate disengagement from the fight against terrorism&#039;.
+India&#039;s &#039;cockroach&#039; movement and student groups have said protests will continue despite detentions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss)
 
 ---
 

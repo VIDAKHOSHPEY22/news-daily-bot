@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-11T17:27:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How HN: Go-dev-auth zero-dependency authentication library for Go",
+            "description": "<p>Article URL: <a href=\"https://github.com/go-dev-auth/go-dev-auth\">https://github.com/go-dev-auth/go-dev-auth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042942\">https://news.ycombinator.com/item?id=50042942</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/go-dev-auth/go-dev-auth",
+            "published": "Sun, 11 Oct 2026 13:06:36 +0000",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Don't Put Tilde In Your Path",
+            "description": "<p>Article URL: <a href=\"https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/\">https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042425\">https://news.ycombinator.com/item?id=50042425</a></p>\n<p>Points: 42</p>\n<p># Comments: 6</p>",
+            "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+            "published": "Sun, 11 Oct 2026 12:13:13 +0000",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+            "description": "<p>Article URL: <a href=\"https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html\">https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042370\">https://news.ycombinator.com/item?id=50042370</a></p>\n<p>Points: 37</p>\n<p># Comments: 28</p>",
+            "url": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
+            "published": "Sun, 11 Oct 2026 12:07:22 +0000",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+            "description": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+            "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 11:32:50 GMT",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Buildings swept away as flash floods hit central Nepal",
+            "description": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
+            "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 10:34:02 GMT",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Wildlife park remains closed after fatal tiger attack",
+            "description": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 12:38:02 GMT",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+            "description": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
+            "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 13:41:57 +0000",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
+            "description": "India’s Cockroach Janta Party leaders say the Modi government is ‘waging war’ on its own citizens.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 13:34:07 +0000",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s crackdown on youth protesters: What next?",
+            "description": "India&#039;s &#039;cockroach&#039; movement and student groups have said protests will continue despite detentions.",
+            "url": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss",
+            "published": "Sun, 11 Oct 2026 13:06:00 +0000",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-11T17:27:25+03:30"
+        }
+    ]
+}
