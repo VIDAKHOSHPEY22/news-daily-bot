@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-12T23:43:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Writing a Demoscene Intro for the ZX Spectrum",
+            "description": "<p>Article URL: <a href=\"https://www.markround.com/blog/2026/zx-spectrum-intro\">https://www.markround.com/blog/2026/zx-spectrum-intro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50061859\">https://news.ycombinator.com/item?id=50061859</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+            "published": "Mon, 12 Oct 2026 19:40:00 +0000",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI models may be capable of self-replicating without access to a datacenter",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/self-replicating-ai\">https://www.anthropic.com/research/self-replicating-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50061603\">https://news.ycombinator.com/item?id=50061603</a></p>\n<p>Points: 39</p>\n<p># Comments: 33</p>",
+            "url": "https://www.anthropic.com/research/self-replicating-ai",
+            "published": "Mon, 12 Oct 2026 19:25:29 +0000",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Introducing OpenFatigue",
+            "description": "<p>Article URL: <a href=\"https://openfatigue.ai/\">https://openfatigue.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50061278\">https://news.ycombinator.com/item?id=50061278</a></p>\n<p>Points: 73</p>\n<p># Comments: 14</p>",
+            "url": "https://openfatigue.ai/",
+            "published": "Mon, 12 Oct 2026 19:08:21 +0000",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to push for new post-Brexit deals at EU summit",
+            "description": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 17:38:15 GMT",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government expands police support to political figures who are not MPs",
+            "description": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
+            "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 19:51:34 GMT",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+            "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+            "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 17:32:13 GMT",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elon Musk spends $366m to bolster Republican Party in US midterm elections",
+            "description": "The barrage of spending comes as Republicans fight to overcome Trump&#039;s slipping popularity and cost of living concerns.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 19:48:21 +0000",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Teenager shoots headmaster, teacher at French school",
+            "description": "French officials say a 14-year-old boy opened fire with a hunting rifle at a middle school in the town of Aubagne.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 19:44:00 +0000",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
+            "description": "Minnesota Representative Ilhan Omar’s home has been searched as part of an undisclosed ‘criminal investigation’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 19:37:11 +0000",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-12T23:43:18+03:30"
+        }
+    ]
+}

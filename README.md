@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 19:16:56
+**Last Update:** 2026-10-12 23:43:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why aren't AI companies being charged for hacking?
+### 1. Writing a Demoscene Intro for the ZX Spectrum
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50057278">https://news.ycombinator.com/item?id=50057278</a></p>
-<p>Points: 180</p>
-<p># Comments: 128</p>
+<p>Article URL: <a href="https://www.markround.com/blog/2026/zx-spectrum-intro">https://www.markround.com/blog/2026/zx-spectrum-intro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50061859">https://news.ycombinator.com/item?id=50061859</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
+🔗 **Read more:** [https://www.markround.com/blog/2026/zx-spectrum-intro](https://www.markround.com/blog/2026/zx-spectrum-intro)
 
 ---
 
-### 2. An Unmade Film Shaped Hayao Miyazaki
+### 2. AI models may be capable of self-replicating without access to a datacenter
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki">https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50057030">https://news.ycombinator.com/item?id=50057030</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.anthropic.com/research/self-replicating-ai">https://www.anthropic.com/research/self-replicating-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50061603">https://news.ycombinator.com/item?id=50061603</a></p>
+<p>Points: 39</p>
+<p># Comments: 33</p>
 
-🔗 **Read more:** [https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki](https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki)
+🔗 **Read more:** [https://www.anthropic.com/research/self-replicating-ai](https://www.anthropic.com/research/self-replicating-ai)
 
 ---
 
-### 3. Solar Panels That Plug into Your Wall
+### 3. Introducing OpenFatigue
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy">https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50056822">https://news.ycombinator.com/item?id=50056822</a></p>
-<p>Points: 45</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://openfatigue.ai/">https://openfatigue.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50061278">https://news.ycombinator.com/item?id=50061278</a></p>
+<p>Points: 73</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy](https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy)
+🔗 **Read more:** [https://openfatigue.ai/](https://openfatigue.ai/)
 
 ---
 
-### 4. Saudi minister vows 'serious response' to Houthi attacks on airports
+### 4. Burnham to push for new post-Brexit deals at EU summit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.
+Conservative leader Kemi Badenoch said the prime minister was "unpicking" the deal the UK signed with the EU.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Why is it so hard to fight the Houthis?
+### 5. Government expands police support to political figures who are not MPs
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.
+Shabana Mahmood says there is "insufficient protection" for those who play a role in public life.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds
+### 6. Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.
+Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Deadly gold mine air strikes highlight Egypt-Sudan border insecurity
+### 7. Elon Musk spends $366m to bolster Republican Party in US midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.
+The barrage of spending comes as Republicans fight to overcome Trump&#039;s slipping popularity and cost of living concerns.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss)
 
 ---
 
-### 8. Oil tanker reportedly attacked in Strait of Hormuz region
+### 8. Teenager shoots headmaster, teacher at French school
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.
+French officials say a 14-year-old boy opened fire with a hunting rifle at a middle school in the town of Aubagne.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss)
 
 ---
 
-### 9. Will Ukraine survive the winter?
+### 9. US Rep. Ilhan Omar’s home searched by immigration agents
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington&#039;s position on Ukraine remains ambivalent while losses mount and an energy crisis deepens.
+Minnesota Representative Ilhan Omar’s home has been searched as part of an undisclosed ‘criminal investigation’.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss)
 
 ---
 
