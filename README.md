@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 05:44:38
+**Last Update:** 2026-10-12 09:42:01
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Yes I Understand How LLMs Work
+### 1. Type-safe HTML templating in Zig
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kemendo.com/yes-i-understand-how-llms-work.html">https://kemendo.com/yes-i-understand-how-llms-work.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049596">https://news.ycombinator.com/item?id=50049596</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html">https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50051573">https://news.ycombinator.com/item?id=50051573</a></p>
+<p>Points: 26</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://kemendo.com/yes-i-understand-how-llms-work.html](https://kemendo.com/yes-i-understand-how-llms-work.html)
+🔗 **Read more:** [https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 
 ---
 
-### 2. Local Indexing to reduce tool calling and token usage
+### 2. Yandex bot traffic down 99% after data center attack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tedhaley.ca/pensieve/">https://tedhaley.ca/pensieve/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049508">https://news.ycombinator.com/item?id=50049508</a></p>
-<p>Points: 22</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic">https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50051532">https://news.ycombinator.com/item?id=50051532</a></p>
+<p>Points: 81</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://tedhaley.ca/pensieve/](https://tedhaley.ca/pensieve/)
+🔗 **Read more:** [https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic](https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic)
 
 ---
 
-### 3. HashiCorp archives the Boundary open source repo
+### 3. Will Linux phones become a viable alternative to the Android/iOS duopoly?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/hashicorp/boundary">https://github.com/hashicorp/boundary</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049498">https://news.ycombinator.com/item?id=50049498</a></p>
-<p>Points: 39</p>
+<p>Article URL: <a href="https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/">https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50051530">https://news.ycombinator.com/item?id=50051530</a></p>
+<p>Points: 5</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/hashicorp/boundary](https://github.com/hashicorp/boundary)
+🔗 **Read more:** [https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
 
 ---
 
-### 4. Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
+### 4. Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Rejecting closer EU ties would be dereliction of duty, PM to say
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Ukraine's leader says he will support such a truce if Moscow does, after initial
 
 ---
 
-### 5. One killed, 11 injured in second Houthi strike on Riyadh airport in two days
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. PM says it is 'clear' Russia interfered with Brexit vote
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-He says voters were not "sufficiently" informed about how foreign actors sought to disrupt UK democracy.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport
+### 7. Countries warn against travel to Saudi Arabia following Houthi attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sunday&#039;s strike on King Khalid International airport kills a Pakistani national.
+US, Australia, Canada, Japan, South Korea and New Zealand among countries urging citizens to avoid travel to the kingdom.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks?traffic_source=rss)
 
 ---
 
-### 8. Bridge washed away by torrent of water in Nepal
+### 8. Clashes reported in Yemen as Houthis advance towards Taiz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flash floods along Nepal’s Budhi Gandaki River swept away homes and bridges, forcing residents to flee to higher ground.
+Heavy clashes have been reported between Houthi fighters and Yemeni- forces near the strategic southern city of Taiz.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss)
 
 ---
 
-### 9. UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote
+### 9. China sanctions Paraguay, Belize ministers over Taiwan ties
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Claim marks the first time a UK prime minister has publicly acknowledged Russia&#039;s interference in the vote to leave EU.
+Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss)
 
 ---
 
