@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 23:43:18
+**Last Update:** 2026-10-13 02:35:18
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Writing a Demoscene Intro for the ZX Spectrum
+### 1. Breaking Bad star RJ Mitte dies aged 34
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.markround.com/blog/2026/zx-spectrum-intro">https://www.markround.com/blog/2026/zx-spectrum-intro</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50061859">https://news.ycombinator.com/item?id=50061859</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332">https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063831">https://news.ycombinator.com/item?id=50063831</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.markround.com/blog/2026/zx-spectrum-intro](https://www.markround.com/blog/2026/zx-spectrum-intro)
+🔗 **Read more:** [https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
 
 ---
 
-### 2. AI models may be capable of self-replicating without access to a datacenter
+### 2. AI Is a Tool. Using It Well Takes Skill.
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/self-replicating-ai">https://www.anthropic.com/research/self-replicating-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50061603">https://news.ycombinator.com/item?id=50061603</a></p>
-<p>Points: 39</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063427">https://news.ycombinator.com/item?id=50063427</a></p>
+<p>Points: 115</p>
+<p># Comments: 101</p>
 
-🔗 **Read more:** [https://www.anthropic.com/research/self-replicating-ai](https://www.anthropic.com/research/self-replicating-ai)
+🔗 **Read more:** [https://yyhh.org/blog/2026/10/ai-is-a-tool/](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
 
 ---
 
-### 3. Introducing OpenFatigue
+### 3. Phreak.ing – Internet Phone Switch
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openfatigue.ai/">https://openfatigue.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50061278">https://news.ycombinator.com/item?id=50061278</a></p>
-<p>Points: 73</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://phreak.ing/">https://phreak.ing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063417">https://news.ycombinator.com/item?id=50063417</a></p>
+<p>Points: 26</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://openfatigue.ai/](https://openfatigue.ai/)
+🔗 **Read more:** [https://phreak.ing/](https://phreak.ing/)
 
 ---
 
@@ -97,42 +97,42 @@ Despite the US president announcing energy infrastructure would not be targeted 
 
 ---
 
-### 7. Elon Musk spends $366m to bolster Republican Party in US midterm elections
+### 7. Poland says two Turks arrested over Russia-linked Starlink station fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The barrage of spending comes as Republicans fight to overcome Trump&#039;s slipping popularity and cost of living concerns.
+Warsaw says the 2 suspects held in Germany will face sabotage charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss)
 
 ---
 
-### 8. Teenager shoots headmaster, teacher at French school
+### 8. Why the Cornell gang rape case has raised concerns about fraternity culture
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French officials say a 14-year-old boy opened fire with a hunting rifle at a middle school in the town of Aubagne.
+Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss)
 
 ---
 
-### 9. US Rep. Ilhan Omar’s home searched by immigration agents
+### 9. Canada’s Carney calls for unity as Alberta prepares for secession vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Minnesota Representative Ilhan Omar’s home has been searched as part of an undisclosed ‘criminal investigation’.
+Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss)
 
 ---
 

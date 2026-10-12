@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-13T02:35:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Breaking Bad star RJ Mitte dies aged 34",
+            "description": "<p>Article URL: <a href=\"https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332\">https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063831\">https://news.ycombinator.com/item?id=50063831</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+            "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+            "published": "Mon, 12 Oct 2026 22:15:29 +0000",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Is a Tool. Using It Well Takes Skill.",
+            "description": "<p>Article URL: <a href=\"https://yyhh.org/blog/2026/10/ai-is-a-tool/\">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063427\">https://news.ycombinator.com/item?id=50063427</a></p>\n<p>Points: 115</p>\n<p># Comments: 101</p>",
+            "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+            "published": "Mon, 12 Oct 2026 21:40:18 +0000",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Phreak.ing – Internet Phone Switch",
+            "description": "<p>Article URL: <a href=\"https://phreak.ing/\">https://phreak.ing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50063417\">https://news.ycombinator.com/item?id=50063417</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
+            "url": "https://phreak.ing/",
+            "published": "Mon, 12 Oct 2026 21:39:32 +0000",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to push for new post-Brexit deals at EU summit",
+            "description": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 17:38:15 GMT",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government expands police support to political figures who are not MPs",
+            "description": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
+            "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 19:51:34 GMT",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+            "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+            "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 21:20:51 GMT",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+            "description": "Warsaw says the 2 suspects held in Germany will face sabotage charges.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 22:44:00 +0000",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
+            "description": "Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 22:23:44 +0000",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+            "description": "Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 21:33:13 +0000",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-13T02:35:18+03:30"
+        }
+    ]
+}
