@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-12T05:44:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Yes I Understand How LLMs Work",
+            "description": "<p>Article URL: <a href=\"https://kemendo.com/yes-i-understand-how-llms-work.html\">https://kemendo.com/yes-i-understand-how-llms-work.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049596\">https://news.ycombinator.com/item?id=50049596</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://kemendo.com/yes-i-understand-how-llms-work.html",
+            "published": "Mon, 12 Oct 2026 00:16:28 +0000",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Local Indexing to reduce tool calling and token usage",
+            "description": "<p>Article URL: <a href=\"https://tedhaley.ca/pensieve/\">https://tedhaley.ca/pensieve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049508\">https://news.ycombinator.com/item?id=50049508</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+            "url": "https://tedhaley.ca/pensieve/",
+            "published": "Mon, 12 Oct 2026 00:03:53 +0000",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "HashiCorp archives the Boundary open source repo",
+            "description": "<p>Article URL: <a href=\"https://github.com/hashicorp/boundary\">https://github.com/hashicorp/boundary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049498\">https://news.ycombinator.com/item?id=50049498</a></p>\n<p>Points: 39</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/hashicorp/boundary",
+            "published": "Mon, 12 Oct 2026 00:02:45 +0000",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+            "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 21:36:40 GMT",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+            "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+            "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 22:45:58 GMT",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+            "description": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 18:00:30 GMT",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+            "description": "Sunday&#039;s strike on King Khalid International airport kills a Pakistani national.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 02:11:21 +0000",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bridge washed away by torrent of water in Nepal",
+            "description": "Flash floods along Nepal’s Budhi Gandaki River swept away homes and bridges, forcing residents to flee to higher ground.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 01:24:26 +0000",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
+            "description": "Claim marks the first time a UK prime minister has publicly acknowledged Russia&#039;s interference in the vote to leave EU.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 01:12:35 +0000",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-12T05:44:38+03:30"
+        }
+    ]
+}

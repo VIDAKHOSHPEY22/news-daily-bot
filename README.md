@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-12 03:15:40
+**Last Update:** 2026-10-12 05:44:38
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google Data Centers around the world
+### 1. Yes I Understand How LLMs Work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://datacenters.google/locations/">https://datacenters.google/locations/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048768">https://news.ycombinator.com/item?id=50048768</a></p>
-<p>Points: 18</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://kemendo.com/yes-i-understand-how-llms-work.html">https://kemendo.com/yes-i-understand-how-llms-work.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049596">https://news.ycombinator.com/item?id=50049596</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://datacenters.google/locations/](https://datacenters.google/locations/)
+🔗 **Read more:** [https://kemendo.com/yes-i-understand-how-llms-work.html](https://kemendo.com/yes-i-understand-how-llms-work.html)
 
 ---
 
-### 2. Fingerprints Are the New Cookies
+### 2. Local Indexing to reduce tool calling and token usage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://royfish.dev/fingerprints-are-the-new-cookies">https://royfish.dev/fingerprints-are-the-new-cookies</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048642">https://news.ycombinator.com/item?id=50048642</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://tedhaley.ca/pensieve/">https://tedhaley.ca/pensieve/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049508">https://news.ycombinator.com/item?id=50049508</a></p>
+<p>Points: 22</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://royfish.dev/fingerprints-are-the-new-cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+🔗 **Read more:** [https://tedhaley.ca/pensieve/](https://tedhaley.ca/pensieve/)
 
 ---
 
-### 3. Google is illegaly cutting forest to build data centers
+### 3. HashiCorp archives the Boundary open source repo
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment">https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50048638">https://news.ycombinator.com/item?id=50048638</a></p>
-<p>Points: 18</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://github.com/hashicorp/boundary">https://github.com/hashicorp/boundary</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50049498">https://news.ycombinator.com/item?id=50049498</a></p>
+<p>Points: 39</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment)
+🔗 **Read more:** [https://github.com/hashicorp/boundary](https://github.com/hashicorp/boundary)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Zelensky says Kyiv would support such a truce. Moscow has yet to comment.
+Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ He says voters were not "sufficiently" informed about how foreign actors sought 
 
 ---
 
-### 7. Pakistani national killed in second Houthi strike on Riyadh airport
+### 7. Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.
+Sunday&#039;s strike on King Khalid International airport kills a Pakistani national.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss)
 
 ---
 
-### 8. US Homeland Security secretary sees no ‘risk’ from livestreamed execution
+### 8. Bridge washed away by torrent of water in Nepal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.
+Flash floods along Nepal’s Budhi Gandaki River swept away homes and bridges, forcing residents to flee to higher ground.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss](https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss)
 
 ---
 
-### 9. Footage shows moment Russian strike hits Ukrainian grocery store
+### 9. UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.
+Claim marks the first time a UK prime minister has publicly acknowledged Russia&#039;s interference in the vote to leave EU.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss)
 
 ---
 
