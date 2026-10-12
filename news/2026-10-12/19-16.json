@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-12T19:16:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why aren't AI companies being charged for hacking?",
+            "description": "<p>Article URL: <a href=\"https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/\">https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057278\">https://news.ycombinator.com/item?id=50057278</a></p>\n<p>Points: 180</p>\n<p># Comments: 128</p>",
+            "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+            "published": "Mon, 12 Oct 2026 14:52:37 +0000",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An Unmade Film Shaped Hayao Miyazaki",
+            "description": "<p>Article URL: <a href=\"https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki\">https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057030\">https://news.ycombinator.com/item?id=50057030</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
+            "published": "Mon, 12 Oct 2026 14:34:25 +0000",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Solar Panels That Plug into Your Wall",
+            "description": "<p>Article URL: <a href=\"https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy\">https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50056822\">https://news.ycombinator.com/item?id=50056822</a></p>\n<p>Points: 45</p>\n<p># Comments: 37</p>",
+            "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+            "published": "Mon, 12 Oct 2026 14:19:04 +0000",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+            "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+            "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 14:00:03 GMT",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why is it so hard to fight the Houthis?",
+            "description": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.",
+            "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 12:15:01 GMT",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds",
+            "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+            "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 05:00:52 GMT",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
+            "description": "Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 15:30:08 +0000",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
+            "description": "Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 15:19:23 +0000",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Ukraine survive the winter?",
+            "description": "Washington&#039;s position on Ukraine remains ambivalent while losses mount and an energy crisis deepens.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 15:04:08 +0000",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-12T19:16:56+03:30"
+        }
+    ]
+}
