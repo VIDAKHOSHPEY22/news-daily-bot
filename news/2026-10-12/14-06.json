@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-12T14:06:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds",
+            "description": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+            "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 05:00:52 GMT",
+            "fetched": "2026-10-12T14:06:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
+            "description": "Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth.",
+            "url": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 05:01:22 GMT",
+            "fetched": "2026-10-12T14:06:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand arrives at court for start of rape trial",
+            "description": "The 51-year-old actor and comedian denies charges of rape and sexual assault against six women.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 08:16:21 GMT",
+            "fetched": "2026-10-12T14:06:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
+            "description": "City beat Reds despite a hostile Anfield reception, but Premier League season still hangs in the balance.",
+            "url": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 10:18:58 +0000",
+            "fetched": "2026-10-12T14:06:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
+            "description": "Samir Mohtadi &quot;strongly rejects&quot; any attempt to associate him or Islamic centre in Melbourne with the alleged attacker.",
+            "url": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 10:05:19 +0000",
+            "fetched": "2026-10-12T14:06:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indian YouTuber Dhruv Rathee alleges abduction ahead of Delhi protests",
+            "description": "Indian YouTube star Dhruv Rathee alleges he was abducted from home and held for nearly 24 hours without a lawyer.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/10-12-dhruv-rathee-india-protests-sv?traffic_source=rss",
+            "published": "Mon, 12 Oct 2026 09:55:11 +0000",
+            "fetched": "2026-10-12T14:06:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Simon",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25094",
+            "published": "2026-10-07T18:00:00Z",
+            "fetched": "2026-10-12T14:06:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire CON BSE13 RX, Covington, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25119",
+            "published": "2026-10-07T10:45:00Z",
+            "fetched": "2026-10-12T14:06:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Isaias",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25063",
+            "published": "2026-10-07T09:00:00Z",
+            "fetched": "2026-10-12T14:06:22+03:30"
+        }
+    ]
+}
