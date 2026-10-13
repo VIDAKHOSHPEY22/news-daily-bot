@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-13T07:10:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NAZA: Netanyahu orders identification and prosecution of film's interviewees",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film\">https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50065972\">https://news.ycombinator.com/item?id=50065972</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
+            "published": "Tue, 13 Oct 2026 02:51:50 +0000",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit",
+            "description": "<p>Article URL: <a href=\"https://www.argmin.net/p/faster-fourier-transforms\">https://www.argmin.net/p/faster-fourier-transforms</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50065932\">https://news.ycombinator.com/item?id=50065932</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://www.argmin.net/p/faster-fourier-transforms",
+            "published": "Tue, 13 Oct 2026 02:46:43 +0000",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Leaving Tech",
+            "description": "<p>Article URL: <a href=\"https://ryanbigg.com/2026/10/leaving-tech\">https://ryanbigg.com/2026/10/leaving-tech</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50065892\">https://news.ycombinator.com/item?id=50065892</a></p>\n<p>Points: 101</p>\n<p># Comments: 76</p>",
+            "url": "https://ryanbigg.com/2026/10/leaving-tech",
+            "published": "Tue, 13 Oct 2026 02:39:35 +0000",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
+            "description": "Second tranche of prisoners will include those serving up to two and a half years for crimes.",
+            "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 01:13:33 GMT",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why the prime minister wants to talk about Brexit again",
+            "description": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+            "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 01:27:59 GMT",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Heating oil customers face tough winter despite shake-up promise",
+            "description": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+            "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Oct 2026 23:02:24 GMT",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
+            "description": "Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructure are continuing despite &#039;energy ceasefire&#039;.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 03:11:19 +0000",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cyberattack on French supermarkets causes fires, millions in losses",
+            "description": "A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 03:01:53 +0000",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Unprecedented’ cyberattack hits French supermarkets, causing food losses",
+            "description": "Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in &#039;large-scale&#039; cyberattack.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 02:37:10 +0000",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-13T07:10:00+03:30"
+        }
+    ]
+}
