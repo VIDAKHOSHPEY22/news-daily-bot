@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-14T02:49:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+            "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+            "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 22:07:06 GMT",
+            "fetched": "2026-10-14T02:49:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+            "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 20:46:06 GMT",
+            "fetched": "2026-10-14T02:49:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+            "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+            "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 21:42:49 GMT",
+            "fetched": "2026-10-14T02:49:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Manchester United’s Martinez blasts board’s lack of investment",
+            "description": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club&#039;s failure to invest in team.",
+            "url": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 22:57:56 +0000",
+            "fetched": "2026-10-14T02:49:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds",
+            "description": "Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.",
+            "url": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 22:56:24 +0000",
+            "fetched": "2026-10-14T02:49:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mauritius imposes curfew after night of unrest over police shooting",
+            "description": "Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 22:41:59 +0000",
+            "fetched": "2026-10-14T02:49:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T02:49:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T02:49:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-14T02:49:40+03:30"
+        }
+    ]
+}

@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 02:44:39
+**Last Update:** 2026-10-14 02:49:40
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AlphaNIST
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://alpha-nist.github.io/">https://alpha-nist.github.io/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079464">https://news.ycombinator.com/item?id=50079464</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://alpha-nist.github.io/](https://alpha-nist.github.io/)
-
----
-
-### 2. Physical Intelligence API Beta: Frontier Models for Every Robot
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.pi.website/blog/api-beta">https://www.pi.website/blog/api-beta</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079437">https://news.ycombinator.com/item?id=50079437</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.pi.website/blog/api-beta](https://www.pi.website/blog/api-beta)
-
----
-
-### 3. PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0">https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50078686">https://news.ycombinator.com/item?id=50078686</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
-
----
-
-### 4. Family pays tribute to 'warm and engaging' man killed in tiger attack
+### 1. Family pays tribute to 'warm and engaging' man killed in tiger attack
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ William Chapman was attacked by the tiger after he entered its pen at Yorkshire 
 
 ---
 
-### 5. Pope diagnosed with lung cancer but had successful surgery, Vatican says
+### 2. Pope diagnosed with lung cancer but had successful surgery, Vatican says
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Pope Leo had successful surgery to remove a lower lobe of his right lung, the Va
 
 ---
 
-### 6. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
+### 3. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
 
 **Source:** BBC
 
@@ -97,7 +49,7 @@ Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB
 
 ---
 
-### 7. Manchester United’s Martinez blasts board’s lack of investment
+### 4. Manchester United’s Martinez blasts board’s lack of investment
 
 **Source:** Al Jazeera
 
@@ -110,7 +62,7 @@ Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez 
 
 ---
 
-### 8. Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds
+### 5. Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds
 
 **Source:** Al Jazeera
 
@@ -123,7 +75,7 @@ Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise s
 
 ---
 
-### 9. Mauritius imposes curfew after night of unrest over police shooting
+### 6. Mauritius imposes curfew after night of unrest over police shooting
 
 **Source:** Al Jazeera
 
@@ -136,7 +88,7 @@ Protesters block roads and burn tyres in response to a police shooting of a 27-y
 
 ---
 
-### 10. Wildfire Buckhorn 2, Cassia, Idaho
+### 7. Wildfire Buckhorn 2, Cassia, Idaho
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire PK, Sheridan, Wyoming
+### 8. Wildfire PK, Sheridan, Wyoming
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire CYRUS, Kern, California
+### 9. Wildfire CYRUS, Kern, California
 
 **Source:** NASA
 
