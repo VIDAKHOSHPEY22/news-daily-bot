@@ -1,77 +1,91 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 02:35:18
+**Last Update:** 2026-10-13 06:01:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Breaking Bad star RJ Mitte dies aged 34
+### 1. Blood cells from 80-year-old donor become stem cells with molecular age under 20
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332">https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063831">https://news.ycombinator.com/item?id=50063831</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
+<p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/" rel="nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50064536">https://news.ycombinator.com/item?id=50064536</a></p>
+<p>Points: 101</p>
+<p># Comments: 69</p>
 
-🔗 **Read more:** [https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332](https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332)
+🔗 **Read more:** [https://doi.org/10.1111/acel.70751](https://doi.org/10.1111/acel.70751)
 
 ---
 
-### 2. AI Is a Tool. Using It Well Takes Skill.
+### 2. Show HN: An experimental pattern-first DAW that supports MCP
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">https://yyhh.org/blog/2026/10/ai-is-a-tool/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063427">https://news.ycombinator.com/item?id=50063427</a></p>
-<p>Points: 115</p>
-<p># Comments: 101</p>
+<p>Article URL: <a href="https://github.com/andrewfader/blokkily">https://github.com/andrewfader/blokkily</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50064438">https://news.ycombinator.com/item?id=50064438</a></p>
+<p>Points: 17</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://yyhh.org/blog/2026/10/ai-is-a-tool/](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+🔗 **Read more:** [https://github.com/andrewfader/blokkily](https://github.com/andrewfader/blokkily)
 
 ---
 
-### 3. Phreak.ing – Internet Phone Switch
+### 3. I turned my unused Kindle into a photo frame with GPT-6 Astra
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://phreak.ing/">https://phreak.ing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50063417">https://news.ycombinator.com/item?id=50063417</a></p>
-<p>Points: 26</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://nirajrajgor.com/blog/kindle-photo-frame-with-ai">https://nirajrajgor.com/blog/kindle-photo-frame-with-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50064318">https://news.ycombinator.com/item?id=50064318</a></p>
+<p>Points: 123</p>
+<p># Comments: 79</p>
 
-🔗 **Read more:** [https://phreak.ing/](https://phreak.ing/)
+🔗 **Read more:** [https://nirajrajgor.com/blog/kindle-photo-frame-with-ai](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
 
 ---
 
-### 4. Burnham to push for new post-Brexit deals at EU summit
+### 4. Hundreds more prisoners to be freed in second phase of early release scheme
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Conservative leader Kemi Badenoch said the prime minister was "unpicking" the deal the UK signed with the EU.
+Second tranche of prisoners will include those serving up to two and a half years for crimes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Government expands police support to political figures who are not MPs
+### 5. Why the prime minister wants to talk about Brexit again
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+For the first time since the UK left the EU, we have a prime minister who will "unflinchingly" debate Brexit, says the BBC's political editor Chris Mason.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Government expands police support to political figures who are not MPs
 
 **Source:** BBC
 
@@ -84,55 +98,42 @@ Shabana Mahmood says there is "insufficient protection" for those who play a rol
 
 ---
 
-### 6. Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Poland says two Turks arrested over Russia-linked Starlink station fire
+### 7. Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Warsaw says the 2 suspects held in Germany will face sabotage charges.
+The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss)
 
 ---
 
-### 8. Why the Cornell gang rape case has raised concerns about fraternity culture
+### 8. Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say many fraternities offer a sense of community, but some rely on hazing and coercive tactics to build loyalty.
+US President Trump condemns Yemen&#039;s Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss)
 
 ---
 
-### 9. Canada’s Carney calls for unity as Alberta prepares for secession vote
+### 9. Houthi missile attack targets Saudi capital Riyadh for third day in a row
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Mark Carney&#039;s Thanksgiving message comes a week ahead of Alberta&#039;s referendum to secede.
+Saudi Arabia claims it downed a ballistic missile fired at Riyadh, as the Houthis say they targeted King Khalid airport.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss](https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss)
 
 ---
 
