@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-13T21:36:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Coris (YC S22) Is Hiring Back End Engineer",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations\">https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074969\">https://news.ycombinator.com/item?id=50074969</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+            "published": "Tue, 13 Oct 2026 17:00:39 +0000",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: How Random Are You?",
+            "description": "<p>Article URL: <a href=\"https://lab.specr.net/rigged-draw/\">https://lab.specr.net/rigged-draw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074909\">https://news.ycombinator.com/item?id=50074909</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://lab.specr.net/rigged-draw/",
+            "published": "Tue, 13 Oct 2026 16:57:57 +0000",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gemini 4 Argon for Robotics",
+            "description": "<p>Article URL: <a href=\"https://developers.googleblog.com/gemini-4-argon-for-robotics/\">https://developers.googleblog.com/gemini-4-argon-for-robotics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074869\">https://news.ycombinator.com/item?id=50074869</a></p>\n<p>Points: 29</p>\n<p># Comments: 5</p>",
+            "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+            "published": "Tue, 13 Oct 2026 16:55:47 +0000",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+            "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+            "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 15:52:15 GMT",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed in tiger attack identified as William Chapman",
+            "description": "A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.",
+            "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 16:30:58 GMT",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Football regulator says he would quit over any political interference in Man City case",
+            "description": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 16:00:18 GMT",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China sentences three people to death for running Myanmar scam centres",
+            "description": "Dozens more were imprisoned for their involvement in telecommunications fraud, trafficking, prostitution and murder.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 17:41:16 +0000",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
+            "description": "Yemen has reported 8,034 suspected cases and 27 deaths this year, with a quarter of the total coming in last four weeks.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 17:18:45 +0000",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "New White House press secretary Katie Zacharia holds first briefing",
+            "description": "Katie Zacharia has held her first briefing as White House press secretary after replacing Karoline Leavitt.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 17:09:38 +0000",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-13T21:36:06+03:30"
+        }
+    ]
+}

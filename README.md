@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 15:27:32
+**Last Update:** 2026-10-13 21:36:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. An hour of audio transcribed in about 13s on MacBook Air
+### 1. Coris (YC S22) Is Hiring Back End Engineer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eg2.haku.sh/">https://eg2.haku.sh/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069971">https://news.ycombinator.com/item?id=50069971</a></p>
-<p>Points: 32</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations">https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50074969">https://news.ycombinator.com/item?id=50074969</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://eg2.haku.sh/](https://eg2.haku.sh/)
+🔗 **Read more:** [https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations)
 
 ---
 
-### 2. Character.ai Files for Bankruptcy
+### 2. Show HN: How Random Are You?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069942">https://news.ycombinator.com/item?id=50069942</a></p>
-<p>Points: 12</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://lab.specr.net/rigged-draw/">https://lab.specr.net/rigged-draw/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50074909">https://news.ycombinator.com/item?id=50074909</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
+🔗 **Read more:** [https://lab.specr.net/rigged-draw/](https://lab.specr.net/rigged-draw/)
 
 ---
 
-### 3. 11 year old unsoundness bugs found in Rust borrow checker
+### 3. Gemini 4 Argon for Robotics
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/rust-lang/rust/issues/164250">https://github.com/rust-lang/rust/issues/164250</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069499">https://news.ycombinator.com/item?id=50069499</a></p>
-<p>Points: 149</p>
-<p># Comments: 49</p>
+<p>Article URL: <a href="https://developers.googleblog.com/gemini-4-argon-for-robotics/">https://developers.googleblog.com/gemini-4-argon-for-robotics/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50074869">https://news.ycombinator.com/item?id=50074869</a></p>
+<p>Points: 29</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://github.com/rust-lang/rust/issues/164250](https://github.com/rust-lang/rust/issues/164250)
+🔗 **Read more:** [https://developers.googleblog.com/gemini-4-argon-for-robotics/](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
 
 ---
 
-### 4. UK growth forecast upgraded but higher energy prices to hit economy next year
+### 4. MI5 chief warns of threats to UK from Russia, Iran and AI
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.
+Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an "equal scale".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: Why the prime minister wants to talk about Brexit again
+### 5. Man killed in tiger attack identified as William Chapman
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-For the first time since the UK left the EU, we have a prime minister who will "unflinchingly" debate Brexit, says the BBC's political editor Chris Mason.
+A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Russia's offensive ability is broken, Kyiv's former top general tells BBC
+### 6. Football regulator says he would quit over any political interference in Man City case
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.
+The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. India’s $87bn river-linking plan leaves villagers fighting for their homes
+### 7. China sentences three people to death for running Myanmar scam centres
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Villagers in India say they would rather die than leave their homes as they protest a billion dollar government project
+Dozens more were imprisoned for their involvement in telecommunications fraud, trafficking, prostitution and murder.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss)
 
 ---
 
-### 8. ‘My son was killed’ France faces backlash over proposed police firearms law
+### 8. Cholera cases surge in Yemen as conflict intensifies, WHO says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As protests nationwide protests rage, activists warn proposed law could lead to more impunity.
+Yemen has reported 8,034 suspected cases and 27 deaths this year, with a quarter of the total coming in last four weeks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss)
 
 ---
 
-### 9. Israel’s military raids NGO offices in Ramallah
+### 9. New White House press secretary Katie Zacharia holds first briefing
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s Nida Ibrahim reports from Ramallah in the occupied West Bank where Israeli forces raided several NGOs.
+Katie Zacharia has held her first briefing as White House press secretary after replacing Karoline Leavitt.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss)
 
 ---
 
