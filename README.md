@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 07:10:00
+**Last Update:** 2026-10-13 13:54:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. NAZA: Netanyahu orders identification and prosecution of film's interviewees
+### 1. Were Software Engineers blue-collar workers all along?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film">https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065972">https://news.ycombinator.com/item?id=50065972</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along">https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50068946">https://news.ycombinator.com/item?id=50068946</a></p>
+<p>Points: 65</p>
+<p># Comments: 94</p>
 
-🔗 **Read more:** [https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film](https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film)
+🔗 **Read more:** [https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)
 
 ---
 
-### 2. OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit
+### 2. Crypto thieves sell hardware wallets with secret eSIM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.argmin.net/p/faster-fourier-transforms">https://www.argmin.net/p/faster-fourier-transforms</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065932">https://news.ycombinator.com/item?id=50065932</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html">https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50068508">https://news.ycombinator.com/item?id=50068508</a></p>
+<p>Points: 15</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.argmin.net/p/faster-fourier-transforms](https://www.argmin.net/p/faster-fourier-transforms)
+🔗 **Read more:** [https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
 
 ---
 
-### 3. Leaving Tech
+### 3. Document Review with Unsiloed and TypeSafe Jev
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ryanbigg.com/2026/10/leaving-tech">https://ryanbigg.com/2026/10/leaving-tech</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50065892">https://news.ycombinator.com/item?id=50065892</a></p>
-<p>Points: 101</p>
-<p># Comments: 76</p>
+<p>Article URL: <a href="https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev">https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50068443">https://news.ycombinator.com/item?id=50068443</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://ryanbigg.com/2026/10/leaving-tech](https://ryanbigg.com/2026/10/leaving-tech)
+🔗 **Read more:** [https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
 
 ---
 
-### 4. Hundreds more prisoners to be freed in second phase of early release scheme
+### 4. UK growth forecast upgraded but higher energy prices to hit economy next year
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Second tranche of prisoners will include those serving up to two and a half years for crimes.
+The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Why the prime minister wants to talk about Brexit again
+### 5. Chris Mason: Why the prime minister wants to talk about Brexit again
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ For the first time since the UK left the EU, we have a prime minister who will "
 
 ---
 
-### 6. Heating oil customers face tough winter despite shake-up promise
+### 6. Russia's offensive ability is broken, Kyiv's former top general tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Heating oil customers facing soaring bills are promised better regulation of the sector by the government.
+In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’
+### 7. Activist Greta Thunberg joins French student protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine&#039;s president says Russian attacks on Ukraine’s energy infrastructure are continuing despite &#039;energy ceasefire&#039;.
+Thunberg arrives at Paul Eluard high school in the heart of the movement in the Parisian suburb of Saint-Denis.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests?traffic_source=rss)
 
 ---
 
-### 8. Cyberattack on French supermarkets causes fires, millions in losses
+### 8. One killed, several injured in Georgia roller coaster ‘incident’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A cyberattack targeting supermarket refrigeration systems has left shelves empty across France.
+Six Flags temporarily closes nine similar rollercoasters after a fatal accident at its Georgia amusement park.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss)
 
 ---
 
-### 9. ‘Unprecedented’ cyberattack hits French supermarkets, causing food losses
+### 9. Israeli forces raid Palestinian NGOs and hospital in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hackers raise temperatures in supermarket fridges, sparking fires and spoiling food in &#039;large-scale&#039; cyberattack.
+Snipers have been deployed outside entrances to the Palestine Medical Complex, WAFA reported.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss)
 
 ---
 

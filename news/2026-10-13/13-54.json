@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-13T13:54:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Were Software Engineers blue-collar workers all along?",
+            "description": "<p>Article URL: <a href=\"https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along\">https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068946\">https://news.ycombinator.com/item?id=50068946</a></p>\n<p>Points: 65</p>\n<p># Comments: 94</p>",
+            "url": "https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along",
+            "published": "Tue, 13 Oct 2026 09:25:10 +0000",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Crypto thieves sell hardware wallets with secret eSIM",
+            "description": "<p>Article URL: <a href=\"https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html\">https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068508\">https://news.ycombinator.com/item?id=50068508</a></p>\n<p>Points: 15</p>\n<p># Comments: 8</p>",
+            "url": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+            "published": "Tue, 13 Oct 2026 08:34:12 +0000",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Document Review with Unsiloed and TypeSafe Jev",
+            "description": "<p>Article URL: <a href=\"https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev\">https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068443\">https://news.ycombinator.com/item?id=50068443</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+            "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+            "published": "Tue, 13 Oct 2026 08:24:51 +0000",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
+            "description": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
+            "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 09:38:54 GMT",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
+            "description": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+            "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 01:27:59 GMT",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+            "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 05:02:34 GMT",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Activist Greta Thunberg joins French student protests",
+            "description": "Thunberg arrives at Paul Eluard high school in the heart of the movement in the Parisian suburb of Saint-Denis.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 09:58:11 +0000",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "One killed, several injured in Georgia roller coaster ‘incident’",
+            "description": "Six Flags temporarily closes nine similar rollercoasters after a fatal accident at its Georgia amusement park.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 09:56:59 +0000",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces raid Palestinian NGOs and hospital in occupied West Bank",
+            "description": "Snipers have been deployed outside entrances to the Palestine Medical Complex, WAFA reported.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 09:47:05 +0000",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-13T13:54:09+03:30"
+        }
+    ]
+}
