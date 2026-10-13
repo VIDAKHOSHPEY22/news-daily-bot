@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-13T15:27:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "An hour of audio transcribed in about 13s on MacBook Air",
+            "description": "<p>Article URL: <a href=\"https://eg2.haku.sh/\">https://eg2.haku.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069971\">https://news.ycombinator.com/item?id=50069971</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
+            "url": "https://eg2.haku.sh/",
+            "published": "Tue, 13 Oct 2026 11:27:14 +0000",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Character.ai Files for Bankruptcy",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney\">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069942\">https://news.ycombinator.com/item?id=50069942</a></p>\n<p>Points: 12</p>\n<p># Comments: 6</p>",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+            "published": "Tue, 13 Oct 2026 11:24:08 +0000",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "11 year old unsoundness bugs found in Rust borrow checker",
+            "description": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust/issues/164250\">https://github.com/rust-lang/rust/issues/164250</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069499\">https://news.ycombinator.com/item?id=50069499</a></p>\n<p>Points: 149</p>\n<p># Comments: 49</p>",
+            "url": "https://github.com/rust-lang/rust/issues/164250",
+            "published": "Tue, 13 Oct 2026 10:27:00 +0000",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
+            "description": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
+            "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 09:38:54 GMT",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
+            "description": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+            "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 01:27:59 GMT",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+            "description": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 05:02:34 GMT",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s $87bn river-linking plan leaves villagers fighting for their homes",
+            "description": "Villagers in India say they would rather die than leave their homes as they protest a billion dollar government project",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 11:30:55 +0000",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘My son was killed’ France faces backlash over proposed police firearms law",
+            "description": "As protests nationwide protests rage, activists warn proposed law could lead to more impunity.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 11:17:54 +0000",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s military raids NGO offices in Ramallah",
+            "description": "Al Jazeera’s Nida Ibrahim reports from Ramallah in the occupied West Bank where Israeli forces raided several NGOs.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 10:53:16 +0000",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-13T15:27:32+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 13:54:09
+**Last Update:** 2026-10-13 15:27:32
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Were Software Engineers blue-collar workers all along?
+### 1. An hour of audio transcribed in about 13s on MacBook Air
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along">https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50068946">https://news.ycombinator.com/item?id=50068946</a></p>
-<p>Points: 65</p>
-<p># Comments: 94</p>
-
-🔗 **Read more:** [https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along](https://ptrbrynt.com/posts/were-we-blue-collar-workers-all-along)
-
----
-
-### 2. Crypto thieves sell hardware wallets with secret eSIM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html">https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50068508">https://news.ycombinator.com/item?id=50068508</a></p>
-<p>Points: 15</p>
+<p>Article URL: <a href="https://eg2.haku.sh/">https://eg2.haku.sh/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069971">https://news.ycombinator.com/item?id=50069971</a></p>
+<p>Points: 32</p>
 <p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html](https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html)
+🔗 **Read more:** [https://eg2.haku.sh/](https://eg2.haku.sh/)
 
 ---
 
-### 3. Document Review with Unsiloed and TypeSafe Jev
+### 2. Character.ai Files for Bankruptcy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev">https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50068443">https://news.ycombinator.com/item?id=50068443</a></p>
-<p>Points: 8</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney">https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069942">https://news.ycombinator.com/item?id=50069942</a></p>
+<p>Points: 12</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev)
+🔗 **Read more:** [https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
+
+---
+
+### 3. 11 year old unsoundness bugs found in Rust borrow checker
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/rust-lang/rust/issues/164250">https://github.com/rust-lang/rust/issues/164250</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50069499">https://news.ycombinator.com/item?id=50069499</a></p>
+<p>Points: 149</p>
+<p># Comments: 49</p>
+
+🔗 **Read more:** [https://github.com/rust-lang/rust/issues/164250](https://github.com/rust-lang/rust/issues/164250)
 
 ---
 
@@ -97,42 +97,42 @@ In his first interview since being forced from his post, Gen Syrskyi speaks abou
 
 ---
 
-### 7. Activist Greta Thunberg joins French student protests
+### 7. India’s $87bn river-linking plan leaves villagers fighting for their homes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thunberg arrives at Paul Eluard high school in the heart of the movement in the Parisian suburb of Saint-Denis.
+Villagers in India say they would rather die than leave their homes as they protest a billion dollar government project
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/indias-87bn-river-linking-plan-leaves-villagers-fighting-for-their-homes?traffic_source=rss)
 
 ---
 
-### 8. One killed, several injured in Georgia roller coaster ‘incident’
+### 8. ‘My son was killed’ France faces backlash over proposed police firearms law
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Six Flags temporarily closes nine similar rollercoasters after a fatal accident at its Georgia amusement park.
+As protests nationwide protests rage, activists warn proposed law could lead to more impunity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss)
 
 ---
 
-### 9. Israeli forces raid Palestinian NGOs and hospital in occupied West Bank
+### 9. Israel’s military raids NGO offices in Ramallah
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Snipers have been deployed outside entrances to the Palestine Medical Complex, WAFA reported.
+Al Jazeera’s Nida Ibrahim reports from Ramallah in the occupied West Bank where Israeli forces raided several NGOs.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss)
 
 ---
 
