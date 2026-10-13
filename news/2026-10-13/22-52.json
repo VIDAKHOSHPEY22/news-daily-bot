@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-13T22:52:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+            "description": "<p>Article URL: <a href=\"https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain\">https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50076503\">https://news.ycombinator.com/item?id=50076503</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
+            "published": "Tue, 13 Oct 2026 18:37:45 +0000",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A plea not to use uv-build",
+            "description": "<p>Article URL: <a href=\"https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/\">https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50076048\">https://news.ycombinator.com/item?id=50076048</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
+            "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+            "published": "Tue, 13 Oct 2026 18:09:26 +0000",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+            "description": "<p>Catches unsafe types, duplicate code, and low-value tests.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50075809\">https://news.ycombinator.com/item?id=50075809</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/maharshi365/deslop",
+            "published": "Tue, 13 Oct 2026 17:52:57 +0000",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+            "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+            "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 15:52:15 GMT",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed in tiger attack identified as William Chapman",
+            "description": "A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.",
+            "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 16:30:58 GMT",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Football regulator says he would quit over any political interference in Man City case",
+            "description": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 16:00:18 GMT",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia arrests Japanese reporter for alleged espionage",
+            "description": "Suspect was arrested on Russia&#039;s far-eastern Sakhalin Island before being transferred to Moscow, says Russia&#039;s FSB.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 18:49:26 +0000",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cornell suspends fraternity parties after alleged campus gang rape case",
+            "description": "Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 18:45:51 +0000",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who killed Tupac?",
+            "description": "For decades, Tupac Shakur’s murder remained unsolved. Now, Keffe D is being sentenced for his killing.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss",
+            "published": "Tue, 13 Oct 2026 18:44:11 +0000",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-13T22:52:48+03:30"
+        }
+    ]
+}
