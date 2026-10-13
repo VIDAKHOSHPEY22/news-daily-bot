@@ -1,139 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-13 22:52:48
+**Last Update:** 2026-10-14 02:44:39
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain
+### 1. AlphaNIST
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain">https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50076503">https://news.ycombinator.com/item?id=50076503</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)
-
----
-
-### 2. A plea not to use uv-build
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/">https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50076048">https://news.ycombinator.com/item?id=50076048</a></p>
-<p>Points: 12</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/](https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/)
-
----
-
-### 3. Show HN: Deslop – Oxlint rules for AI-generated TypeScript
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Catches unsafe types, duplicate code, and low-value tests.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50075809">https://news.ycombinator.com/item?id=50075809</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://alpha-nist.github.io/">https://alpha-nist.github.io/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079464">https://news.ycombinator.com/item?id=50079464</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/maharshi365/deslop](https://github.com/maharshi365/deslop)
+🔗 **Read more:** [https://alpha-nist.github.io/](https://alpha-nist.github.io/)
 
 ---
 
-### 4. MI5 chief warns of threats to UK from Russia, Iran and AI
+### 2. Physical Intelligence API Beta: Frontier Models for Every Robot
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.pi.website/blog/api-beta">https://www.pi.website/blog/api-beta</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50079437">https://news.ycombinator.com/item?id=50079437</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.pi.website/blog/api-beta](https://www.pi.website/blog/api-beta)
+
+---
+
+### 3. PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0">https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50078686">https://news.ycombinator.com/item?id=50078686</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0)
+
+---
+
+### 4. Family pays tribute to 'warm and engaging' man killed in tiger attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an "equal scale".
+William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Man killed in tiger attack identified as William Chapman
+### 5. Pope diagnosed with lung cancer but had successful surgery, Vatican says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.
+Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Football regulator says he would quit over any political interference in Man City case
+### 6. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.
+Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia arrests Japanese reporter for alleged espionage
+### 7. Manchester United’s Martinez blasts board’s lack of investment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Suspect was arrested on Russia&#039;s far-eastern Sakhalin Island before being transferred to Moscow, says Russia&#039;s FSB.
+Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club&#039;s failure to invest in team.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss)
 
 ---
 
-### 8. Cornell suspends fraternity parties after alleged campus gang rape case
+### 8. Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.
+Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss)
 
 ---
 
-### 9. Who killed Tupac?
+### 9. Mauritius imposes curfew after night of unrest over police shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For decades, Tupac Shakur’s murder remained unsolved. Now, Keffe D is being sentenced for his killing.
+Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss)
 
 ---
 
