@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-14T19:16:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+            "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 13:42:43 GMT",
+            "fetched": "2026-10-14T19:16:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+            "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 13:11:17 GMT",
+            "fetched": "2026-10-14T19:16:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham careful as he meets Zelensky but promises Ukraine won't leave 'empty handed'",
+            "description": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 14:30:48 GMT",
+            "fetched": "2026-10-14T19:16:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Judge extends White House access for US media outlets amid Trump standoff",
+            "description": "CNN, MS Now and Politico can continue to access White House as judge maintains Trump&#039;s ban likely illegal.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/us-judge-extends-white-house-access-for-media-outlets-amid-trump-standoff?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 15:15:58 +0000",
+            "fetched": "2026-10-14T19:16:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope Leo recovering well after cancer surgery, Vatican says",
+            "description": "The 71-year-old pontiff is recovering in Rome’s Gemelli hospital after surgery to remove a cancerous growth on his lung.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 15:09:48 +0000",
+            "fetched": "2026-10-14T19:16:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
+            "description": "Almost one million people cut off from food aid as health infrastructure overwhelmed by war-wounded.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 15:06:18 +0000",
+            "fetched": "2026-10-14T19:16:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T19:16:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T19:16:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-14T19:16:54+03:30"
+        }
+    ]
+}
