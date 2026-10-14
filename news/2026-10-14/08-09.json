@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-14T08:09:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is 'Attention' the Essence of Intelligence?",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/\">https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081930\">https://news.ycombinator.com/item?id=50081930</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+            "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+            "published": "Wed, 14 Oct 2026 03:10:25 +0000",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I built a tool to track what AI leaders say and how their views change on video",
+            "description": "<p>Article URL: <a href=\"https://blumify.io/people\">https://blumify.io/people</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081151\">https://news.ycombinator.com/item?id=50081151</a></p>\n<p>Points: 42</p>\n<p># Comments: 26</p>",
+            "url": "https://blumify.io/people",
+            "published": "Wed, 14 Oct 2026 01:09:13 +0000",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "High-speed video reveals how honey bee stingers pump venom",
+            "description": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/\">https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081133\">https://news.ycombinator.com/item?id=50081133</a></p>\n<p>Points: 39</p>\n<p># Comments: 7</p>",
+            "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+            "published": "Wed, 14 Oct 2026 01:05:23 +0000",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+            "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+            "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 23:58:56 GMT",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+            "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 00:17:00 GMT",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+            "description": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+            "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 21:42:49 GMT",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+            "description": "OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 04:16:13 +0000",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
+            "description": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 03:57:24 +0000",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel returns 22 stolen ancient artefacts to Greece",
+            "description": "The cultural exchange comes amid strengthening ties between the two countries.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 03:23:08 +0000",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-14T08:09:03+03:30"
+        }
+    ]
+}
