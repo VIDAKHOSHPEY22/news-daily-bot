@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-14T22:14:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+            "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 17:55:53 GMT",
+            "fetched": "2026-10-14T22:14:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+            "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 13:11:17 GMT",
+            "fetched": "2026-10-14T22:14:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "We are behind you and that will not change, PM tells Zelensky",
+            "description": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 17:20:58 GMT",
+            "fetched": "2026-10-14T22:14:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid’s Vinicius banned for Clasico after hair-pull red card",
+            "description": "Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Saliba&#039;s hair in La Liga.",
+            "url": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 18:03:46 +0000",
+            "fetched": "2026-10-14T22:14:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
+            "description": "A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years.",
+            "url": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 18:00:44 +0000",
+            "fetched": "2026-10-14T22:14:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ex-UK army chef jailed for ‘terror’-related offence",
+            "description": "The former British Army member harboured &#039;extreme right-wing&#039; views and was ordering explosives components, say police.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 17:32:09 +0000",
+            "fetched": "2026-10-14T22:14:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-14T22:14:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T22:14:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T22:14:47+03:30"
+        }
+    ]
+}

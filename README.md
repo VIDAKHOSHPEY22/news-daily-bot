@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 19:16:54
+**Last Update:** 2026-10-14 22:14:47
 
 **Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
@@ -36,59 +36,72 @@ Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide 
 
 ---
 
-### 3. Burnham careful as he meets Zelensky but promises Ukraine won't leave 'empty handed'
+### 3. We are behind you and that will not change, PM tells Zelensky
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.
+The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Judge extends White House access for US media outlets amid Trump standoff
+### 4. Real Madrid’s Vinicius banned for Clasico after hair-pull red card
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CNN, MS Now and Politico can continue to access White House as judge maintains Trump&#039;s ban likely illegal.
+Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Saliba&#039;s hair in La Liga.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/us-judge-extends-white-house-access-for-media-outlets-amid-trump-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/us-judge-extends-white-house-access-for-media-outlets-amid-trump-standoff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss)
 
 ---
 
-### 5. Pope Leo recovering well after cancer surgery, Vatican says
+### 5. How six Ukrainian divers could have blown up Russia’s $20bn pipelines
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 71-year-old pontiff is recovering in Rome’s Gemelli hospital after surgery to remove a cancerous growth on his lung.
+A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss](https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss)
 
 ---
 
-### 6. Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn
+### 6. Ex-UK army chef jailed for ‘terror’-related offence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Almost one million people cut off from food aid as health infrastructure overwhelmed by war-wounded.
+The former British Army member harboured &#039;extreme right-wing&#039; views and was ordering explosives components, say police.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Buckhorn 2, Cassia, Idaho
+### 7. Tropical Storm Trudy
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290)
+
+---
+
+### 8. Wildfire Buckhorn 2, Cassia, Idaho
 
 **Source:** NASA
 
@@ -101,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire PK, Sheridan, Wyoming
+### 9. Wildfire PK, Sheridan, Wyoming
 
 **Source:** NASA
 
@@ -111,19 +124,6 @@ Natural event: Wildfires
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233)
-
----
-
-### 9. Wildfire CYRUS, Kern, California
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232)
 
 ---
 
