@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 08:09:03
+**Last Update:** 2026-10-14 11:18:31
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Is 'Attention' the Essence of Intelligence?
+### 1. AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/">https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50081930">https://news.ycombinator.com/item?id=50081930</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/android/ndk/issues/2260">https://github.com/android/ndk/issues/2260</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50083130">https://news.ycombinator.com/item?id=50083130</a></p>
+<p>Points: 138</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/)
+🔗 **Read more:** [https://github.com/android/ndk/issues/2260](https://github.com/android/ndk/issues/2260)
 
 ---
 
-### 2. I built a tool to track what AI leaders say and how their views change on video
+### 2. Felix Rieseberg Homepage
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://felixrieseberg.com/">https://felixrieseberg.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50082470">https://news.ycombinator.com/item?id=50082470</a></p>
+<p>Points: 157</p>
+<p># Comments: 53</p>
+
+🔗 **Read more:** [https://felixrieseberg.com/](https://felixrieseberg.com/)
+
+---
+
+### 3. I built a tool to track what AI leaders say and how their views change on video
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://blumify.io/people">https://blumify.io/people</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50081151">https://news.ycombinator.com/item?id=50081151</a></p>
-<p>Points: 42</p>
-<p># Comments: 26</p>
+<p>Points: 86</p>
+<p># Comments: 53</p>
 
 🔗 **Read more:** [https://blumify.io/people](https://blumify.io/people)
-
----
-
-### 3. High-speed video reveals how honey bee stingers pump venom
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/">https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50081133">https://news.ycombinator.com/item?id=50081133</a></p>
-<p>Points: 39</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/)
 
 ---
 
@@ -71,68 +71,68 @@ William Chapman was attacked by the tiger after he entered its pen at Yorkshire 
 
 ---
 
-### 5. Pope diagnosed with lung cancer but had successful surgery, Vatican says
+### 5. One stolen every four minutes - inside the police battle against vehicle thieves
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.
+Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Saudi man charged with planting 'sophisticated' recording device in OpenAI office
+### 6. Watch: BBC joins police on front line against car theft
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
+Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Saudi-born engineer for OpenAI arrested for planting listening bug
+### 7. Ex-DRC President Joseph Kabila joins hands with M23 rebels: Why it matters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.
+Kabila&#039;s move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss)
 
 ---
 
-### 8. UN official says ‘window of opportunity’ for peace in DR Congo
+### 8. Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.
+Several members and allies of once-powerful dynasty, including the wife of ex-President Mahinda Rajapaksa, are under arrest.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss)
 
 ---
 
-### 9. Israel returns 22 stolen ancient artefacts to Greece
+### 9. ‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The cultural exchange comes amid strengthening ties between the two countries.
+At least six people have been killed in overnight Russian attacks across Ukraine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss)
 
 ---
 

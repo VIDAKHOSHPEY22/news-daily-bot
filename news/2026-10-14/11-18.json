@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-14T11:18:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+            "description": "<p>Article URL: <a href=\"https://github.com/android/ndk/issues/2260\">https://github.com/android/ndk/issues/2260</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50083130\">https://news.ycombinator.com/item?id=50083130</a></p>\n<p>Points: 138</p>\n<p># Comments: 39</p>",
+            "url": "https://github.com/android/ndk/issues/2260",
+            "published": "Wed, 14 Oct 2026 06:18:01 +0000",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Felix Rieseberg Homepage",
+            "description": "<p>Article URL: <a href=\"https://felixrieseberg.com/\">https://felixrieseberg.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50082470\">https://news.ycombinator.com/item?id=50082470</a></p>\n<p>Points: 157</p>\n<p># Comments: 53</p>",
+            "url": "https://felixrieseberg.com/",
+            "published": "Wed, 14 Oct 2026 04:42:33 +0000",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I built a tool to track what AI leaders say and how their views change on video",
+            "description": "<p>Article URL: <a href=\"https://blumify.io/people\">https://blumify.io/people</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50081151\">https://news.ycombinator.com/item?id=50081151</a></p>\n<p>Points: 86</p>\n<p># Comments: 53</p>",
+            "url": "https://blumify.io/people",
+            "published": "Wed, 14 Oct 2026 01:09:13 +0000",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+            "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+            "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 23:58:56 GMT",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+            "description": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+            "url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 05:01:07 GMT",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC joins police on front line against car theft",
+            "description": "Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.",
+            "url": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 05:00:37 GMT",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ex-DRC President Joseph Kabila joins hands with M23 rebels: Why it matters",
+            "description": "Kabila&#039;s move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 07:32:24 +0000",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes",
+            "description": "Several members and allies of once-powerful dynasty, including the wife of ex-President Mahinda Rajapaksa, are under arrest.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 07:31:34 +0000",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
+            "description": "At least six people have been killed in overnight Russian attacks across Ukraine.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 07:08:32 +0000",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-14T11:18:31+03:30"
+        }
+    ]
+}
