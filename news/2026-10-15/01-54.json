@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T01:54:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tiny Little Office",
+            "description": "<p>Article URL: <a href=\"https://tinylittleoffice.com/\">https://tinylittleoffice.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50096142\">https://news.ycombinator.com/item?id=50096142</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://tinylittleoffice.com/",
+            "published": "Wed, 14 Oct 2026 22:10:08 +0000",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+            "description": "<p>Article URL: <a href=\"https://typesafe.ai/blog/jev-1-14\">https://typesafe.ai/blog/jev-1-14</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50095353\">https://news.ycombinator.com/item?id=50095353</a></p>\n<p>Points: 75</p>\n<p># Comments: 29</p>",
+            "url": "https://typesafe.ai/blog/jev-1-14",
+            "published": "Wed, 14 Oct 2026 21:11:03 +0000",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenCode 2.0",
+            "description": "<p>Article URL: <a href=\"https://anoma.ly/notes/opencode-2-0/\">https://anoma.ly/notes/opencode-2-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50094994\">https://news.ycombinator.com/item?id=50094994</a></p>\n<p>Points: 124</p>\n<p># Comments: 42</p>",
+            "url": "https://anoma.ly/notes/opencode-2-0/",
+            "published": "Wed, 14 Oct 2026 20:48:24 +0000",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+            "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 20:55:24 GMT",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "We are behind you and that will not change, PM tells Zelensky",
+            "description": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 19:22:28 GMT",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+            "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 17:55:53 GMT",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+            "description": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.",
+            "url": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 21:50:01 +0000",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "PSG beat Man City 4-2 in Champions League thriller",
+            "description": "PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.",
+            "url": "https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 21:35:49 +0000",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+            "description": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 21:35:27 +0000",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-15T01:54:44+03:30"
+        }
+    ]
+}
