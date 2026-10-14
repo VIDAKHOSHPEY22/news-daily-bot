@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 11:18:31
+**Last Update:** 2026-10-14 13:32:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs
+### 1. Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/android/ndk/issues/2260">https://github.com/android/ndk/issues/2260</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50083130">https://news.ycombinator.com/item?id=50083130</a></p>
-<p>Points: 138</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex">https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50084622">https://news.ycombinator.com/item?id=50084622</a></p>
+<p>Points: 21</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/android/ndk/issues/2260](https://github.com/android/ndk/issues/2260)
+🔗 **Read more:** [https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
 
 ---
 
-### 2. Felix Rieseberg Homepage
+### 2. What agents mean for Rust (and vice versa)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://felixrieseberg.com/">https://felixrieseberg.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50082470">https://news.ycombinator.com/item?id=50082470</a></p>
-<p>Points: 157</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/">https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50084416">https://news.ycombinator.com/item?id=50084416</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://felixrieseberg.com/](https://felixrieseberg.com/)
+🔗 **Read more:** [https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
 
 ---
 
-### 3. I built a tool to track what AI leaders say and how their views change on video
+### 3. Iosevka is an open-source, sans-serif and slab-serif, monospace font
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blumify.io/people">https://blumify.io/people</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50081151">https://news.ycombinator.com/item?id=50081151</a></p>
-<p>Points: 86</p>
-<p># Comments: 53</p>
+<p>Article URL: <a href="https://typeof.net/Iosevka/">https://typeof.net/Iosevka/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50084240">https://news.ycombinator.com/item?id=50084240</a></p>
+<p>Points: 48</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://blumify.io/people](https://blumify.io/people)
+🔗 **Read more:** [https://typeof.net/Iosevka/](https://typeof.net/Iosevka/)
 
 ---
 
@@ -97,42 +97,42 @@ Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle 
 
 ---
 
-### 7. Ex-DRC President Joseph Kabila joins hands with M23 rebels: Why it matters
+### 7. China’s exports surge amid AI-driven demand
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kabila&#039;s move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels.
+Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss)
 
 ---
 
-### 8. Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes
+### 8. India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several members and allies of once-powerful dynasty, including the wife of ex-President Mahinda Rajapaksa, are under arrest.
+Two Cockroach Janta Party leaders have been jailed for five days after entering a banned protest site in India&#039;s Delhi.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss)
 
 ---
 
-### 9. ‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv
+### 9. Jerry Seinfeld dances as pro-Palestine protesters interrupt show
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least six people have been killed in overnight Russian attacks across Ukraine.
+Jerry Seinfeld dances as pro-Palestine protesters interrupt show
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss)
 
 ---
 

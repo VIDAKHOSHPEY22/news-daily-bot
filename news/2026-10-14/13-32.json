@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-14T13:32:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX",
+            "description": "<p>Article URL: <a href=\"https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex\">https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50084622\">https://news.ycombinator.com/item?id=50084622</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+            "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
+            "published": "Wed, 14 Oct 2026 09:10:37 +0000",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What agents mean for Rust (and vice versa)",
+            "description": "<p>Article URL: <a href=\"https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/\">https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50084416\">https://news.ycombinator.com/item?id=50084416</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+            "published": "Wed, 14 Oct 2026 08:49:06 +0000",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+            "description": "<p>Article URL: <a href=\"https://typeof.net/Iosevka/\">https://typeof.net/Iosevka/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50084240\">https://news.ycombinator.com/item?id=50084240</a></p>\n<p>Points: 48</p>\n<p># Comments: 14</p>",
+            "url": "https://typeof.net/Iosevka/",
+            "published": "Wed, 14 Oct 2026 08:27:59 +0000",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+            "description": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+            "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 08:44:04 GMT",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+            "description": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+            "url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 05:01:07 GMT",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC joins police on front line against car theft",
+            "description": "Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.",
+            "url": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 05:00:37 GMT",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s exports surge amid AI-driven demand",
+            "description": "Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.",
+            "url": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 09:05:17 +0000",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
+            "description": "Two Cockroach Janta Party leaders have been jailed for five days after entering a banned protest site in India&#039;s Delhi.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 08:51:36 +0000",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
+            "description": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 08:51:27 +0000",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-14T13:32:13+03:30"
+        }
+    ]
+}
