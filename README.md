@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 13:32:13
+**Last Update:** 2026-10-14 17:22:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Starlink limit hits Ukraine's drones. The battlefield depends on SpaceX
+### 1. Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex">https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50084622">https://news.ycombinator.com/item?id=50084622</a></p>
-<p>Points: 21</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex](https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex)
-
----
-
-### 2. What agents mean for Rust (and vice versa)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/">https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50084416">https://news.ycombinator.com/item?id=50084416</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/">https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087336">https://news.ycombinator.com/item?id=50087336</a></p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/](https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/)
+🔗 **Read more:** [https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/](https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/)
 
 ---
 
-### 3. Iosevka is an open-source, sans-serif and slab-serif, monospace font
+### 2. Switzerland proposes banning profiling-based ads to minors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://typeof.net/Iosevka/">https://typeof.net/Iosevka/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50084240">https://news.ycombinator.com/item?id=50084240</a></p>
-<p>Points: 48</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.admin.ch/en/newnsb/NMn5s24l8NjQ">https://www.admin.ch/en/newnsb/NMn5s24l8NjQ</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087328">https://news.ycombinator.com/item?id=50087328</a></p>
+<p>Points: 85</p>
+<p># Comments: 44</p>
 
-🔗 **Read more:** [https://typeof.net/Iosevka/](https://typeof.net/Iosevka/)
+🔗 **Read more:** [https://www.admin.ch/en/newnsb/NMn5s24l8NjQ](https://www.admin.ch/en/newnsb/NMn5s24l8NjQ)
 
 ---
 
-### 4. Family pays tribute to 'warm and engaging' man killed in tiger attack
+### 3. RIP Eric Binnion
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ma.tt/2026/10/rip-eric/">https://ma.tt/2026/10/rip-eric/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50087044">https://news.ycombinator.com/item?id=50087044</a></p>
+<p>Points: 26</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://ma.tt/2026/10/rip-eric/](https://ma.tt/2026/10/rip-eric/)
+
+---
+
+### 4. Russell Brand was a 'sexual predator', says prosecution as rape trial begins
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.
+The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. One stolen every four minutes - inside the police battle against vehicle thieves
+### 5. Starlink network restrictions in Ukraine related to political situation, Zelensky aide says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.
+Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: BBC joins police on front line against car theft
+### 6. Watch: Block of flats in ruins after Russian strikes on Ukraine
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.
+BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. China’s exports surge amid AI-driven demand
+### 7. UK restaurateur claims losses after video calling for Gaza destruction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.
+A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss)
 
 ---
 
-### 8. India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site
+### 8. How AI apps are offering free substitutes for Big Tech software
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two Cockroach Janta Party leaders have been jailed for five days after entering a banned protest site in India&#039;s Delhi.
+AI-developed ArtCraft is challenging Adobe after disrupting legacy software&#039;s economic model.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss)
 
 ---
 
-### 9. Jerry Seinfeld dances as pro-Palestine protesters interrupt show
+### 9. Russia arrests Japanese journalist on suspicion of ‘espionage’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jerry Seinfeld dances as pro-Palestine protesters interrupt show
+A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss)
 
 ---
 

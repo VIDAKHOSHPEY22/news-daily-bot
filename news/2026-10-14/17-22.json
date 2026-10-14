@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-14T17:22:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Details Leak from Meeting Where Weiss's 'Handpicked' Editor Threatened CBS Staff",
+            "description": "<p>Article URL: <a href=\"https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/\">https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50087336\">https://news.ycombinator.com/item?id=50087336</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://www.mediaite.com/media/news/details-leak-from-explosive-meeting-where-bari-weisss-handpicked-editor-threatened-cbs-staff-legal-grounds-for-firing/",
+            "published": "Wed, 14 Oct 2026 13:20:39 +0000",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Switzerland proposes banning profiling-based ads to minors",
+            "description": "<p>Article URL: <a href=\"https://www.admin.ch/en/newnsb/NMn5s24l8NjQ\">https://www.admin.ch/en/newnsb/NMn5s24l8NjQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50087328\">https://news.ycombinator.com/item?id=50087328</a></p>\n<p>Points: 85</p>\n<p># Comments: 44</p>",
+            "url": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+            "published": "Wed, 14 Oct 2026 13:20:02 +0000",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RIP Eric Binnion",
+            "description": "<p>Article URL: <a href=\"https://ma.tt/2026/10/rip-eric/\">https://ma.tt/2026/10/rip-eric/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50087044\">https://news.ycombinator.com/item?id=50087044</a></p>\n<p>Points: 26</p>\n<p># Comments: 10</p>",
+            "url": "https://ma.tt/2026/10/rip-eric/",
+            "published": "Wed, 14 Oct 2026 12:58:32 +0000",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand was a 'sexual predator', says prosecution as rape trial begins",
+            "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 13:42:43 GMT",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Starlink network restrictions in Ukraine related to political situation, Zelensky aide says",
+            "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 13:11:17 GMT",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Block of flats in ruins after Russian strikes on Ukraine",
+            "description": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+            "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 09:25:03 GMT",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK restaurateur claims losses after video calling for Gaza destruction",
+            "description": "A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 13:28:21 +0000",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How AI apps are offering free substitutes for Big Tech software",
+            "description": "AI-developed ArtCraft is challenging Adobe after disrupting legacy software&#039;s economic model.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 13:25:35 +0000",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
+            "description": "A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 13:22:46 +0000",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire CYRUS, Kern, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25232",
+            "published": "2026-10-09T17:15:00Z",
+            "fetched": "2026-10-14T17:22:16+03:30"
+        }
+    ]
+}
