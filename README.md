@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-14 22:14:47
+**Last Update:** 2026-10-14 23:37:55
 
 **Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
@@ -49,42 +49,42 @@ The Ukrainian president visited London in an effort to bolster support among Eur
 
 ---
 
-### 4. Real Madrid’s Vinicius banned for Clasico after hair-pull red card
+### 4. Sally Rooney’s books pulled from UK over Palestine Action support
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Saliba&#039;s hair in La Liga.
+Award-winning author Sally Rooney’s books are being withdrawn from the UK over her support for Palestine Action
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss)
 
 ---
 
-### 5. How six Ukrainian divers could have blown up Russia’s $20bn pipelines
+### 5. World’s oldest known shipwreck found in Turkiye
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years.
+The world’s oldest known shipwreck has been discovered off Turkiye’s coast, dating back nearly 5,000 years.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss](https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss)
 
 ---
 
-### 6. Ex-UK army chef jailed for ‘terror’-related offence
+### 6. Bangladesh arrests two for luring locals to fight for Russia in Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The former British Army member harboured &#039;extreme right-wing&#039; views and was ordering explosives components, say police.
+Twenty Bangladeshi citizens have been killed after being used by Russia as &#039;bait&#039; to locate enemy positions, police say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss)
 
 ---
 

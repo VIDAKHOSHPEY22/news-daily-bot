@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-14T23:37:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+            "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 17:55:53 GMT",
+            "fetched": "2026-10-14T23:37:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+            "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 13:11:17 GMT",
+            "fetched": "2026-10-14T23:37:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "We are behind you and that will not change, PM tells Zelensky",
+            "description": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 19:22:28 GMT",
+            "fetched": "2026-10-14T23:37:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+            "description": "Award-winning author Sally Rooney’s books are being withdrawn from the UK over her support for Palestine Action",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 19:23:27 +0000",
+            "fetched": "2026-10-14T23:37:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World’s oldest known shipwreck found in Turkiye",
+            "description": "The world’s oldest known shipwreck has been discovered off Turkiye’s coast, dating back nearly 5,000 years.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 19:17:48 +0000",
+            "fetched": "2026-10-14T23:37:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
+            "description": "Twenty Bangladeshi citizens have been killed after being used by Russia as &#039;bait&#039; to locate enemy positions, police say.",
+            "url": "https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 19:02:51 +0000",
+            "fetched": "2026-10-14T23:37:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-14T23:37:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-14T23:37:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-14T23:37:55+03:30"
+        }
+    ]
+}
