@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 20:41:43
+**Last Update:** 2026-10-15 22:30:37
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally
+### 1. E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sygal.app">https://sygal.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50106054">https://news.ycombinator.com/item?id=50106054</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4">https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108229">https://news.ycombinator.com/item?id=50108229</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://sygal.app](https://sygal.app)
+🔗 **Read more:** [https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
 
 ---
 
-### 2. Market selloff, rising rates test AI data centre deal boom
+### 2. Why We're Banning AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/">https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50105900">https://news.ycombinator.com/item?id=50105900</a></p>
-<p>Points: 24</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.currentaffairs.org/news/why-were-banning-ai">https://www.currentaffairs.org/news/why-were-banning-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108131">https://news.ycombinator.com/item?id=50108131</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/](https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/)
+🔗 **Read more:** [https://www.currentaffairs.org/news/why-were-banning-ai](https://www.currentaffairs.org/news/why-were-banning-ai)
 
 ---
 
-### 3. The technical actions needed to ensure the continuity of UTC
+### 3. Muse Spark Open
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bipm.org/en/cgpm-2026/resolution-5">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50105777">https://news.ycombinator.com/item?id=50105777</a></p>
-<p>Points: 21</p>
-<p># Comments: 7</p>
+<p><a href="https://dev.meta.ai/resources/blog/build-with-muse-spark-open" rel="nofollow">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href="https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B" rel="nofollow">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href="https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/" rel="nofollow">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50107379">https://news.ycombinator.com/item?id=50107379</a></p>
+<p>Points: 216</p>
+<p># Comments: 136</p>
 
-🔗 **Read more:** [https://www.bipm.org/en/cgpm-2026/resolution-5](https://www.bipm.org/en/cgpm-2026/resolution-5)
+🔗 **Read more:** [https://research.meta.ai/blog/muse-spark-open](https://research.meta.ai/blog/muse-spark-open)
 
 ---
 
@@ -97,42 +98,42 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 
 ---
 
-### 7. Houthis target Yemen’s presidential palace in Aden with missiles
+### 7. Ethiopian forces expand control in Tigray as militia claims Eritrean losses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.
+Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss)
 
 ---
 
-### 8. Albania’s PM dismisses calls to resign as student protests spread
+### 8. Ahead of US midterms, voters are frustrated with Trump, want change: Poll
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Edi Rama condemns &#039;chaos&#039; as protests continue for third day in the capital and spread to other cities.
+Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss)
 
 ---
 
-### 9. UK Green member behind anti-Zionism motion ‘receives death threats’
+### 9. Trump ramps up third-country US deportations despite global rights outcry
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lubna Speitan, who has Palestinian roots, believes messages and emails are part of an effort to intimidate her.
+Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T22:30:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
+            "description": "<p>Article URL: <a href=\"https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\">https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108229\">https://news.ycombinator.com/item?id=50108229</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+            "published": "Thu, 15 Oct 2026 18:38:16 +0000",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why We're Banning AI",
+            "description": "<p>Article URL: <a href=\"https://www.currentaffairs.org/news/why-were-banning-ai\">https://www.currentaffairs.org/news/why-were-banning-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108131\">https://news.ycombinator.com/item?id=50108131</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+            "published": "Thu, 15 Oct 2026 18:32:29 +0000",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Muse Spark Open",
+            "description": "<p><a href=\"https://dev.meta.ai/resources/blog/build-with-muse-spark-open\" rel=\"nofollow\">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href=\"https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\" rel=\"nofollow\">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href=\"https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/\" rel=\"nofollow\">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50107379\">https://news.ycombinator.com/item?id=50107379</a></p>\n<p>Points: 216</p>\n<p># Comments: 136</p>",
+            "url": "https://research.meta.ai/blog/muse-spark-open",
+            "published": "Thu, 15 Oct 2026 17:47:39 +0000",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+            "description": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 15:55:14 GMT",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+            "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+            "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
+            "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
+            "url": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 16:07:26 GMT",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
+            "description": "Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 18:41:41 +0000",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
+            "description": "Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 18:17:57 +0000",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump ramps up third-country US deportations despite global rights outcry",
+            "description": "Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 17:54:26 +0000",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311",
+            "published": "2026-10-13T10:24:00Z",
+            "fetched": "2026-10-15T22:30:37+03:30"
+        }
+    ]
+}
