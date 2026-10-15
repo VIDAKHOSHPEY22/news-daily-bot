@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 02:29:24
+**Last Update:** 2026-10-16 02:37:41
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai">https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50111112">https://news.ycombinator.com/item?id=50111112</a></p>
-<p>Points: 33</p>
-<p># Comments: 35</p>
-
-🔗 **Read more:** [https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai)
-
----
-
-### 2. What I Self-Host
+### 1. What I Self-Host
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109715">https://news.ycombinator.com/item?id=50109715</a></p>
-<p>Points: 128</p>
-<p># Comments: 59</p>
+<p>Points: 148</p>
+<p># Comments: 72</p>
 
 🔗 **Read more:** [https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 
 ---
 
-### 3. New Withings Users Must Pay $99/Year for Apple Health Syncing
+### 2. New Withings Users Must Pay $99/Year for Apple Health Syncing
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109375">https://news.ycombinator.com/item?id=50109375</a></p>
-<p>Points: 112</p>
-<p># Comments: 95</p>
+<p>Points: 115</p>
+<p># Comments: 99</p>
 
 🔗 **Read more:** [https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+
+---
+
+### 3. Someone on Torrent Sites Kept Fucking with My Sonarr
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
+<p>Points: 148</p>
+<p># Comments: 61</p>
+
+🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 
 ---
 

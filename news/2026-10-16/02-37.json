@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-16T02:37:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I Self-Host",
+            "description": "<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p>\n<p>Points: 148</p>\n<p># Comments: 72</p>",
+            "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+            "published": "Thu, 15 Oct 2026 20:23:25 +0000",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+            "description": "<p>Article URL: <a href=\"https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109375\">https://news.ycombinator.com/item?id=50109375</a></p>\n<p>Points: 115</p>\n<p># Comments: 99</p>",
+            "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+            "published": "Thu, 15 Oct 2026 19:55:49 +0000",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+            "description": "<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p>\n<p>Points: 148</p>\n<p># Comments: 61</p>",
+            "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+            "published": "Thu, 15 Oct 2026 19:21:38 +0000",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+            "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+            "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+            "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
+            "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
+            "url": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 16:07:26 GMT",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+            "description": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 21:57:58 +0000",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
+            "description": "Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.",
+            "url": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 21:54:26 +0000",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration sues California over noncitizens on voter rolls",
+            "description": "Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 21:44:59 +0000",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311",
+            "published": "2026-10-13T10:24:00Z",
+            "fetched": "2026-10-16T02:37:41+03:30"
+        }
+    ]
+}
