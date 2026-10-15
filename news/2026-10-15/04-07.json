@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T04:07:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+            "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm2-5-24b-a2b\">https://www.liquid.ai/blog/lfm2-5-24b-a2b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50097369\">https://news.ycombinator.com/item?id=50097369</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+            "published": "Wed, 14 Oct 2026 23:59:37 +0000",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A new model for open source: closed to pull requests, open to remix",
+            "description": "<p>Article URL: <a href=\"https://ghuntley.com/remix/\">https://ghuntley.com/remix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50097182\">https://news.ycombinator.com/item?id=50097182</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://ghuntley.com/remix/",
+            "published": "Wed, 14 Oct 2026 23:40:28 +0000",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tiny Little Office",
+            "description": "<p>Article URL: <a href=\"https://tinylittleoffice.com/\">https://tinylittleoffice.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50096142\">https://news.ycombinator.com/item?id=50096142</a></p>\n<p>Points: 94</p>\n<p># Comments: 16</p>",
+            "url": "https://tinylittleoffice.com/",
+            "published": "Wed, 14 Oct 2026 22:10:08 +0000",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+            "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 20:55:24 GMT",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "We are behind you and that will not change, PM tells Zelensky",
+            "description": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 19:22:28 GMT",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
+            "description": "The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 17:55:53 GMT",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexican court closes case against official over 2023 detention centre fire",
+            "description": "Victims&#039; groups, however, have denounced the ruling as &#039;selective&#039; justice that exonerates the former migration chief.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 00:08:58 +0000",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+            "description": "Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US destroys dhow suspected of Iranian command and control",
+            "description": "The US says it destroyed an Iran-affiliated boat in the Gulf of Oman, accusing it of conducting surveillance.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss",
+            "published": "Wed, 14 Oct 2026 23:58:13 +0000",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-15T04:07:40+03:30"
+        }
+    ]
+}
