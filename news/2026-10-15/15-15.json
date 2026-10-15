@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T15:15:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+            "description": "<p>Article URL: <a href=\"https://github.com/awslabs/aidlc-workflows\">https://github.com/awslabs/aidlc-workflows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50100387\">https://news.ycombinator.com/item?id=50100387</a></p>\n<p>Points: 11</p>\n<p># Comments: 12</p>",
+            "url": "https://github.com/awslabs/aidlc-workflows",
+            "published": "Thu, 15 Oct 2026 07:20:39 +0000",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+            "description": "<p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50099136\">https://news.ycombinator.com/item?id=50099136</a></p>\n<p>Points: 46</p>\n<p># Comments: 14</p>",
+            "url": "https://github.com/andunieee/flipflop",
+            "published": "Thu, 15 Oct 2026 04:25:28 +0000",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Double Headed Stack Allocator",
+            "description": "<p>Article URL: <a href=\"https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\">https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50098274\">https://news.ycombinator.com/item?id=50098274</a></p>\n<p>Points: 69</p>\n<p># Comments: 24</p>",
+            "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+            "published": "Thu, 15 Oct 2026 02:06:36 +0000",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
+            "description": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
+            "url": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 11:07:13 GMT",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+            "description": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 10:27:26 GMT",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why Starlink internet is so important on the battlefield in Ukraine",
+            "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 11:25:19 GMT",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
+            "description": "Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 11:12:00 +0000",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+            "description": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 10:52:12 +0000",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
+            "description": "The governing body&#039;s council is expected to prohibit disciplinary committees from overturning match suspensions.",
+            "url": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 10:46:08 +0000",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-15T15:15:23+03:30"
+        }
+    ]
+}
