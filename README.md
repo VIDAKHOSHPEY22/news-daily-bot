@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 22:30:37
+**Last Update:** 2026-10-15 23:55:01
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4
+### 1. 2026 State of the Climate Report Shows a Planet Reaching Its Limits
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits">https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109409">https://news.ycombinator.com/item?id=50109409</a></p>
+<p>Points: 15</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
+
+---
+
+### 2. Someone on Torrent Sites Kept Fucking with My Sonarr
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
+<p>Points: 48</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+
+---
+
+### 3. E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4
 
 **Source:** Hacker News
 
@@ -19,43 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4">https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108229">https://news.ycombinator.com/item?id=50108229</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 52</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
-
----
-
-### 2. Why We're Banning AI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.currentaffairs.org/news/why-were-banning-ai">https://www.currentaffairs.org/news/why-were-banning-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108131">https://news.ycombinator.com/item?id=50108131</a></p>
-<p>Points: 12</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.currentaffairs.org/news/why-were-banning-ai](https://www.currentaffairs.org/news/why-were-banning-ai)
-
----
-
-### 3. Muse Spark Open
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://dev.meta.ai/resources/blog/build-with-muse-spark-open" rel="nofollow">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href="https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B" rel="nofollow">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href="https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/" rel="nofollow">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50107379">https://news.ycombinator.com/item?id=50107379</a></p>
-<p>Points: 216</p>
-<p># Comments: 136</p>
-
-🔗 **Read more:** [https://research.meta.ai/blog/muse-spark-open](https://research.meta.ai/blog/muse-spark-open)
 
 ---
 
@@ -98,7 +97,33 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 
 ---
 
-### 7. Ethiopian forces expand control in Tigray as militia claims Eritrean losses
+### 7. Will Israeli voters punish Benjamin Netanyahu?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss)
+
+---
+
+### 8. Dying in ICE custody: Inside one family’s story of heartbreak
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss)
+
+---
+
+### 9. Ethiopian forces expand control in Tigray as militia claims Eritrean losses
 
 **Source:** Al Jazeera
 
@@ -108,32 +133,6 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss)
-
----
-
-### 8. Ahead of US midterms, voters are frustrated with Trump, want change: Poll
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss)
-
----
-
-### 9. Trump ramps up third-country US deportations despite global rights outcry
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss)
 
 ---
 
