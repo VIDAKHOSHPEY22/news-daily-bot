@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T13:14:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI was great until it was not",
+            "description": "<p>Article URL: <a href=\"https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not\">https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50100791\">https://news.ycombinator.com/item?id=50100791</a></p>\n<p>Points: 31</p>\n<p># Comments: 11</p>",
+            "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+            "published": "Thu, 15 Oct 2026 08:18:38 +0000",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+            "description": "<p>Article URL: <a href=\"https://github.com/awslabs/aidlc-workflows\">https://github.com/awslabs/aidlc-workflows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50100387\">https://news.ycombinator.com/item?id=50100387</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/awslabs/aidlc-workflows",
+            "published": "Thu, 15 Oct 2026 07:20:39 +0000",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing",
+            "description": "<p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50099136\">https://news.ycombinator.com/item?id=50099136</a></p>\n<p>Points: 37</p>\n<p># Comments: 11</p>",
+            "url": "https://github.com/andunieee/flipflop",
+            "published": "Thu, 15 Oct 2026 04:25:28 +0000",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+            "description": "Ukraine's president says a pause is over after fresh Russian attacks and US attempts to pressure Kyiv, while suggesting a Starlink slowdown is deliberate.",
+            "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 08:48:02 GMT",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why Starlink internet is so important on the battlefield in Ukraine",
+            "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 09:10:10 GMT",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+            "description": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+            "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 09:29:54 GMT",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The irony of OpenAI crying foul over spying",
+            "description": "A company that owes its existence and enormous valuation to stealing others&#039; work is now up in arms about theft.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 09:03:02 +0000",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+            "description": "The government hopes a weaker dinar will help pay salaries, but traders face rising import costs and uncertainty.",
+            "url": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 08:44:58 +0000",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+            "description": "Young Palestinian artists in Gaza and the occupied West Bank bring their work together in simultaneous exhibitions.",
+            "url": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 08:37:41 +0000",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-15T13:14:52+03:30"
+        }
+    ]
+}
