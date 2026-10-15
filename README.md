@@ -1,143 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 15:15:23
+**Last Update:** 2026-10-15 18:19:58
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Aidlc: Adaptive workflow steering rules for AI coding agents
+### 1. Using AI to reverse engineer hardware
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/awslabs/aidlc-workflows">https://github.com/awslabs/aidlc-workflows</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50100387">https://news.ycombinator.com/item?id=50100387</a></p>
-<p>Points: 11</p>
-<p># Comments: 12</p>
+<p>Article URL: <a href="https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/">https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50104299">https://news.ycombinator.com/item?id=50104299</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows)
+🔗 **Read more:** [https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/](https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/)
 
 ---
 
-### 2. Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing
+### 2. I know why Mathematicians weep
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50099136">https://news.ycombinator.com/item?id=50099136</a></p>
-<p>Points: 46</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep">https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50103630">https://news.ycombinator.com/item?id=50103630</a></p>
+<p>Points: 63</p>
+<p># Comments: 71</p>
 
-🔗 **Read more:** [https://github.com/andunieee/flipflop](https://github.com/andunieee/flipflop)
+🔗 **Read more:** [https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
 
 ---
 
-### 3. The Double Headed Stack Allocator
+### 3. Wayland desktop for Linux with skeuomorphic design
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/">https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50098274">https://news.ycombinator.com/item?id=50098274</a></p>
-<p>Points: 69</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://github.com/fyzugx/DEsk">https://github.com/fyzugx/DEsk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50103338">https://news.ycombinator.com/item?id=50103338</a></p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/)
+🔗 **Read more:** [https://github.com/fyzugx/DEsk](https://github.com/fyzugx/DEsk)
 
 ---
 
-### 4. Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears
+### 4. Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.
+Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Ukraine to restart strikes on Russian oil refineries, Zelensky says
+### 5. Trump calls off livestream for Fort Hood shooter's execution by firing squad
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.
+Trump said some would "rather not watch" the execution of Nidal Hasan, the first military execution in over 60 years.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Why Starlink internet is so important on the battlefield in Ukraine
+### 6. Russell Brand accuser says alleged rape left her afraid she may be pregnant
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-It is the "backbone of military communications in Ukraine" that provides vital high-speed internet to forces across the country.
+The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Syrian authorities arrest main suspect in 2013 Baniyas mass killings
+### 7. Trump says Fort Hood shooter execution will not be livestreamed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.
+US president reverses Pentagon&#039;s plan to publicly stream execution of Nidal Malik Hasan after outcry.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss)
 
 ---
 
-### 8. Fighting in Yemen intensifies: What’s the latest on the battlefield?
+### 8. ‘Boiling point’: Why students are protesting against Albania’s Edi Rama
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.
+Experts say Albania’s protests reflect ignored student grievances and growing frustration.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss)
 
 ---
 
-### 9. FIFA set for rule change after Balogun red card row at the World Cup: reports
+### 9. The Rebel Tours: Money or morals?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The governing body&#039;s council is expected to prohibit disciplinary committees from overturning match suspensions.
+Some West Indies cricketers toured apartheid South Africa in the 1980&#039;s, breaking one of the biggest sporting boycotts.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss](https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss)
 
 ---
 
-### 10. Tropical Storm Trudy
+### 10. Hurricane Trudy
 
 **Source:** NASA
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T18:19:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Using AI to reverse engineer hardware",
+            "description": "<p>Article URL: <a href=\"https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/\">https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104299\">https://news.ycombinator.com/item?id=50104299</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+            "published": "Thu, 15 Oct 2026 14:35:15 +0000",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I know why Mathematicians weep",
+            "description": "<p>Article URL: <a href=\"https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep\">https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103630\">https://news.ycombinator.com/item?id=50103630</a></p>\n<p>Points: 63</p>\n<p># Comments: 71</p>",
+            "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+            "published": "Thu, 15 Oct 2026 13:44:32 +0000",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Wayland desktop for Linux with skeuomorphic design",
+            "description": "<p>Article URL: <a href=\"https://github.com/fyzugx/DEsk\">https://github.com/fyzugx/DEsk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103338\">https://news.ycombinator.com/item?id=50103338</a></p>\n<p>Points: 21</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/fyzugx/DEsk",
+            "published": "Thu, 15 Oct 2026 13:23:44 +0000",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+            "description": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 13:13:26 GMT",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+            "description": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
+            "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 14:47:56 GMT",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand accuser says alleged rape left her afraid she may be pregnant",
+            "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 13:32:56 GMT",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says Fort Hood shooter execution will not be livestreamed",
+            "description": "US president reverses Pentagon&#039;s plan to publicly stream execution of Nidal Malik Hasan after outcry.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 14:27:35 +0000",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
+            "description": "Experts say Albania’s protests reflect ignored student grievances and growing frustration.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 14:22:13 +0000",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Rebel Tours: Money or morals?",
+            "description": "Some West Indies cricketers toured apartheid South Africa in the 1980&#039;s, breaking one of the biggest sporting boycotts.",
+            "url": "https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 13:48:17 +0000",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Buckhorn 2, Cassia, Idaho",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25238",
+            "published": "2026-10-10T14:58:00Z",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire PK, Sheridan, Wyoming",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25233",
+            "published": "2026-10-09T19:26:00Z",
+            "fetched": "2026-10-15T18:19:58+03:30"
+        }
+    ]
+}
