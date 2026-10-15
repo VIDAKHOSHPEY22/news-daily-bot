@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-15 23:55:01
+**Last Update:** 2026-10-16 02:29:24
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. 2026 State of the Climate Report Shows a Planet Reaching Its Limits
+### 1. Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits">https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109409">https://news.ycombinator.com/item?id=50109409</a></p>
-<p>Points: 15</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai">https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50111112">https://news.ycombinator.com/item?id=50111112</a></p>
+<p>Points: 33</p>
+<p># Comments: 35</p>
 
-🔗 **Read more:** [https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits](https://eos.org/research-and-developments/2026-state-of-the-climate-report-shows-a-planet-reaching-its-limits)
+🔗 **Read more:** [https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai)
 
 ---
 
-### 2. Someone on Torrent Sites Kept Fucking with My Sonarr
+### 2. What I Self-Host
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
-<p>Points: 48</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109715">https://news.ycombinator.com/item?id=50109715</a></p>
+<p>Points: 128</p>
+<p># Comments: 59</p>
 
-🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+🔗 **Read more:** [https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
 
 ---
 
-### 3. E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4
+### 3. New Withings Users Must Pay $99/Year for Apple Health Syncing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4">https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108229">https://news.ycombinator.com/item?id=50108229</a></p>
-<p>Points: 52</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109375">https://news.ycombinator.com/item?id=50109375</a></p>
+<p>Points: 112</p>
+<p># Comments: 95</p>
 
-🔗 **Read more:** [https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
+🔗 **Read more:** [https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
 
 ---
 
-### 4. Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse
+### 4. Bus hits train stopped on French side of Channel Tunnel, with 19 injured
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.
+Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ New guidance says trans patients should be cared for on single-sex hospital ward
 
 ---
 
-### 7. Will Israeli voters punish Benjamin Netanyahu?
+### 7. Israel halts commercial goods from entering Gaza; Hamas denies tax claims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu is reported to have received warnings before October 7, 2023, but failed to act on time.
+The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss)
 
 ---
 
-### 8. Dying in ICE custody: Inside one family’s story of heartbreak
+### 8. Man United’s Martinez apologises for outburst after talks with Carrick
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.
+Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss)
 
 ---
 
-### 9. Ethiopian forces expand control in Tigray as militia claims Eritrean losses
+### 9. Trump administration sues California over noncitizens on voter rolls
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eritrea denies troop movement inside northern Ethiopia as US calls for de-escalation.
+Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss)
 
 ---
 
