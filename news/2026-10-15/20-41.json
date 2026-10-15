@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-15T20:41:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
+            "description": "<p>Article URL: <a href=\"https://sygal.app\">https://sygal.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106054\">https://news.ycombinator.com/item?id=50106054</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://sygal.app",
+            "published": "Thu, 15 Oct 2026 16:26:16 +0000",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Market selloff, rising rates test AI data centre deal boom",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/\">https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105900\">https://news.ycombinator.com/item?id=50105900</a></p>\n<p>Points: 24</p>\n<p># Comments: 14</p>",
+            "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+            "published": "Thu, 15 Oct 2026 16:17:40 +0000",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The technical actions needed to ensure the continuity of UTC",
+            "description": "<p>Article URL: <a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105777\">https://news.ycombinator.com/item?id=50105777</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+            "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+            "published": "Thu, 15 Oct 2026 16:11:36 +0000",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+            "description": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 15:55:14 GMT",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+            "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+            "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 16:28:10 GMT",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trans people should use hospital spaces according to biological sex, NHS England says",
+            "description": "New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.",
+            "url": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 16:07:26 GMT",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis target Yemen’s presidential palace in Aden with missiles",
+            "description": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 16:50:42 +0000",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Albania’s PM dismisses calls to resign as student protests spread",
+            "description": "Prime Minister Edi Rama condemns &#039;chaos&#039; as protests continue for third day in the capital and spread to other cities.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 16:41:30 +0000",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK Green member behind anti-Zionism motion ‘receives death threats’",
+            "description": "Lubna Speitan, who has Palestinian roots, believes messages and emails are part of an effort to intimidate her.",
+            "url": "https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 16:36:34 +0000",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311",
+            "published": "2026-10-13T10:24:00Z",
+            "fetched": "2026-10-15T20:41:43+03:30"
+        }
+    ]
+}
